@@ -23,10 +23,9 @@ Requirements
 
 If you wish to use the Phlagrant, ensure whether the Virual box is installed in your machine, along with the Virtual box guest additions functionality
 
-Code for installing virtual box
+Code for installing virtual box .::
 -------------------------------
 
-::
         sudo cleopatra virtualbox install --yes --guess --with-guest-additions
 
 Installation
@@ -61,7 +60,6 @@ the command on the above mentioned can be used if you don't want to select the l
 
         git clone http://github.com/PharaohTools/phlagrant && sudo php phlagrant/install
 
-                                                                                                                             42,0-1        Bot
 Methodologies in usage:
 ***********************
 

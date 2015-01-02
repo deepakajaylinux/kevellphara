@@ -33,22 +33,22 @@ Before installing the Cleopatra to your machine, ensure whether git and php5 exi
 if not follow as given below,
         command to install git and php5 in ubuntu:
 
-git:
+git.::
 
                 apt-get install git
 
-php:
+php.::
 
                 apt-get install php
 
 command to install git and php5 in cent OS:
 -------------------------------------------
 
-git:
+git.::
 
                 yum install git
 
-php:
+php.::
 
                 yum install php.
 
@@ -56,7 +56,7 @@ after completion of git and php5 installation, let's see how to install the Cleo
 
 For Mac, Linux or Unix:
 -----------------------
-It is simple by using the coding,
+It is simple by using the coding.::
 
         git clone https://github.com/PharaohTools/cleopatra.git && sudo php cleopatra/install-silent
 

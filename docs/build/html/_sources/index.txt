@@ -11,7 +11,7 @@ The Pharaohs has its own benefit while comparing to other tools as it is user fr
 hai
 ****
 .. toctree::
-   :maxdepth: 2 
+   :maxdepth: 6 
   
  cleopatra
    

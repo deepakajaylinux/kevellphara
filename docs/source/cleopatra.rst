@@ -323,7 +323,7 @@ Yum - Add, Remove or Modify Yum Packages
 
 
 How to Use:
-==========
+============
 
 Let us see, how to use the Cleopatra tool, 
 first, simply type as ::
@@ -483,7 +483,7 @@ here, the screenshot denotes the display of all modules available under Cleopatr
 
 
 The Help command:
------------------
+-------------------
 
 If you want to know the purpose of a particular module, just type the command as follows:
 

@@ -116,7 +116,7 @@ It's simple to use the help command,
   phlagrant ModuleName help
 
 This command helps you how the particular modules works, and also about what are the actions it can perform.
-The below screenshot explains you how the help command is used to explain the module Box.::
+The below screenshot explains you how the help command is used to explain the module AutoSSH.::
 
     kevells@Corp:/#phlagrant AutoSSH help
 

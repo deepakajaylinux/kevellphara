@@ -56,6 +56,7 @@ git
                 yum install git
 
 php
+
 .. code-block:: bash
 
                 yum install php.

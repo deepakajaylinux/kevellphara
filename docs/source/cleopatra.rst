@@ -34,13 +34,13 @@ if not follow as given below
 command to install git and php5 in ubuntu
 ------------------------------------------
 
-git
+.. rubric:: git
 
 .. code-block:: bash
 
                 apt-get install git
 
-php
+.. rubric:: php
 
 .. code-block:: bash
 
@@ -49,13 +49,13 @@ php
 command to install git and php5 in cent OS
 -------------------------------------------
 
-git
+.. rubric:: git
 
 .. code-block:: bash
 
                 yum install git
 
-php
+.. rubric:: php
 
 .. code-block:: bash
 

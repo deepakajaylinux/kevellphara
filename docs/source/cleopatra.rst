@@ -34,11 +34,15 @@ if not follow as given below
 command to install git and php5 in ubuntu
 ------------------------------------------
 
-git.::
+git
+
+.. code-block:: bash
 
                 apt-get install git
 
-php.::
+php
+
+.. code-block:: bash
 
                 apt-get install php
 

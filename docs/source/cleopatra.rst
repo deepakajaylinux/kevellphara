@@ -65,14 +65,18 @@ after completion of git and php5 installation, let's see how to install the Cleo
 
 For Mac, Linux or Unix
 -----------------------
-It is simple by using the coding.::
+It is simple by using the coding
+
+.. code-block:: bash
 
         git clone https://github.com/PharaohTools/cleopatra.git && sudo php cleopatra/install-silent
 
 For Windows
 ------------
 It is simple, get the terminal open via the option "Run as Administrator", and then apply the following coding,
-	
+
+.. code-block:: bash
+
 	git clone https://github.com/PharaohTools/cleopatra.git && php cleopatra\install-silent
 
 
@@ -335,14 +339,16 @@ How to Use
 ***********
 
 Let us see, how to use the Cleopatra tool, 
-first, simply type as ::
+first, simply type as
+
+.. code-block:: bash
 
     Cleopatra
 
 this command will list all the names of the modules that are available under Cleopatra.
-here, the screenshot denotes the display of all modules available under Cleopatra.::
+here, the screenshot denotes the display of all modules available under Cleopatra.
 
-
+ .. code-block:: bash
 
     
     Kevells@Corp:/# cleopatra 
@@ -499,7 +505,9 @@ If you want to know the purpose of a particular module, just type the command as
     cleopatra ModuleName help
 
 this command will provide the usage of that particular module and also the available options in actions that you can perform.
-The screenshot shown under explains the usage of the module Behat under Cleopatra using the help command.::
+The screenshot shown under explains the usage of the module Behat under Cleopatra using the help command.
+
+ .. code-block:: bash
 
         Kevells@Corp:/# cleopatra behat help
         ******************************

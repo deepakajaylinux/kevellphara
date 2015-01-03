@@ -45,7 +45,9 @@ php.::
 command to install git and php5 in cent OS
 -------------------------------------------
 
-git.::
+git
+
+.. code-block:: bash
 
                 yum install git
 

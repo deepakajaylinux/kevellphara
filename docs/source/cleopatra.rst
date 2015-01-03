@@ -490,7 +490,7 @@ If you want to know the purpose of a particular module, just type the command as
     cleopatra ModuleName help
 
 this command will provide the usage of that particular module and also the available options in actions that you can perform.
-The screenshot shown under explains the usage of the module ApacheConf under Cleopatra using the help command.::
+The screenshot shown under explains the usage of the module Behat under Cleopatra using the help command.::
 
         Kevells@Corp:/# cleopatra behat help
         ******************************

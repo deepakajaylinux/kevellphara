@@ -41,7 +41,7 @@ php.::
 
                 apt-get install php
 
-command to install git and php5 in cent OS:
+command to install git and php5 in cent OS
 -------------------------------------------
 
 git.::
@@ -54,13 +54,13 @@ php.::
 
 after completion of git and php5 installation, let's see how to install the Cleopatra in your machine.
 
-For Mac, Linux or Unix:
+For Mac, Linux or Unix
 -----------------------
 It is simple by using the coding.::
 
         git clone https://github.com/PharaohTools/cleopatra.git && sudo php cleopatra/install-silent
 
-For Windows:
+For Windows
 ------------
 It is simple, get the terminal open via the option "Run as Administrator", and then apply the following coding,
 	
@@ -68,7 +68,7 @@ It is simple, get the terminal open via the option "Run as Administrator", and t
 
 
 
-Available Modules:
+Available Modules
 ******************
 
 DummyLinuxModule - Dummy Linux Module
@@ -322,7 +322,7 @@ Xvfb - Xvfb - The Display Manager Solution
 Yum - Add, Remove or Modify Yum Packages
 
 
-How to Use:
+How to Use
 ***********
 
 Let us see, how to use the Cleopatra tool, 
@@ -482,7 +482,7 @@ here, the screenshot denotes the display of all modules available under Cleopatr
     ******************************
 
 
-The Help command:
+The Help command
 *****************
 
 If you want to know the purpose of a particular module, just type the command as follows:

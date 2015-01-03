@@ -25,13 +25,14 @@ It is extensible, as if any of the extra modules is required the users can frame
 
 And also it is easier to rewrite the code as per the needs of the users. Its documentation includes the Cleopatra's current released version as 1.1.1.
 
-installation
+Installation
 ************
 
 Before installing the Cleopatra to your machine, ensure whether git and php5 exists in your machine or not.
+if not follow as given below
 
-if not follow as given below,
-        command to install git and php5 in ubuntu:
+command to install git and php5 in ubuntu
+------------------------------------------
 
 git.::
 

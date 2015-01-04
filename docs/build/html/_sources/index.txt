@@ -15,7 +15,7 @@ Commands
   
  cleopatra
  phlagrant
- chgrp 
+  
  
 
 Indices and tables

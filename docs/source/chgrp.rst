@@ -1,4 +1,4 @@
-Change Group
+Chgrp 
 =============
 
 Nut shell
@@ -19,6 +19,7 @@ Benefits to the users
 
  Change group can be used to change the group permission. It simplified the process. It is suitable for all types of user. We can give the command anywhere any time. Easy to operate.
 
+.. _making-a-table:
 
 Options
 

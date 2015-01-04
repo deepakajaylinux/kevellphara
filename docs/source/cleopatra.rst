@@ -542,3 +542,13 @@ The screenshot shown under explains the usage of the module Behat under Cleopatr
         ******************************
 
 
+Playing with Cleopatra Modules
+*******************************
+
+.. toctree::
+   :maxdepth: 3 
+	
+   chgrp
+
+
+

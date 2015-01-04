@@ -14,7 +14,8 @@ Commands
    :maxdepth: 3 
   
  cleopatra
- phlagrant 
+ phlagrant
+ chgrp 
  
 
 Indices and tables

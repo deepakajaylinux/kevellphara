@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Chgrp &mdash; kevells 1.1.1 documentation</title>
+    <title>Apache Module &mdash; kevells 1.1.1 documentation</title>
     
     <link rel="stylesheet" href="_static/basic.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -29,8 +29,8 @@
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="kevells 1.1.1 documentation" href="index.html" />
     <link rel="up" title="Cleopatra" href="cleopatra.html" />
-    <link rel="next" title="Phlagrant" href="phlagrant.html" />
-    <link rel="prev" title="Apache Module" href="ApacheModules.html" />
+    <link rel="next" title="Chgrp" href="chgrp.html" />
+    <link rel="prev" title="ApacheConf" href="apacheconf.html" />
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
 <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
@@ -67,11 +67,12 @@
             <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Page <b class="caret"></b></a>
   <ul class="dropdown-menu localtoc"><ul>
-<li><a class="reference internal" href="#">Chgrp</a><ul>
-<li><a class="reference internal" href="#nut-shell">Nut shell</a></li>
-<li><a class="reference internal" href="#how-to-use">How to use:</a></li>
-<li><a class="reference internal" href="#benefits-to-the-users">Benefits to the users</a></li>
-<li><a class="reference internal" href="#options">Options</a></li>
+<li><a class="reference internal" href="#">Apache Module</a><ul>
+<li><a class="reference internal" href="#recap">Recap</a></li>
+<li><a class="reference internal" href="#installation">Installation</a></li>
+<li><a class="reference internal" href="#in-cent-os">In Cent Os:</a></li>
+<li><a class="reference internal" href="#benefits-to-the-users">Benefits to the users:</a></li>
+<li><a class="reference internal" href="#options">Options:</a></li>
 <li><a class="reference internal" href="#help-command">Help command:</a></li>
 </ul>
 </li>
@@ -81,14 +82,14 @@
           
           
             
-  <li><a href="ApacheModules.html"
-         title="previous chapter">&laquo; Apache Module</a></li>
-  <li><a href="phlagrant.html"
-         title="next chapter">Phlagrant &raquo;</a></li>
+  <li><a href="apacheconf.html"
+         title="previous chapter">&laquo; ApacheConf</a></li>
+  <li><a href="chgrp.html"
+         title="next chapter">Chgrp &raquo;</a></li>
           
           
             <li>
-  <a href="_sources/chgrp.txt"
+  <a href="_sources/ApacheModules.txt"
      rel="nofollow">Source</a></li>
           
         </ul>
@@ -106,73 +107,77 @@
   </div>
 
   
-  <div class="section" id="chgrp">
-<h1>Chgrp<a class="headerlink" href="#chgrp" title="Permalink to this headline">¶</a></h1>
-<div class="section" id="nut-shell">
-<h2>Nut shell<a class="headerlink" href="#nut-shell" title="Permalink to this headline">¶</a></h2>
-<p>This module confess many owners. Linux can accept many groups.</p>
+  <div class="section" id="apache-module">
+<h1>Apache Module<a class="headerlink" href="#apache-module" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="recap">
+<h2>Recap<a class="headerlink" href="#recap" title="Permalink to this headline">¶</a></h2>
+<p>This module facilitates to install the Apache modules. It specifies the configuration of your environment. The checking availability of modules is possible. It is comfort in Ubuntu as well as in Cent OS.</p>
 </div>
-<div class="section" id="how-to-use">
-<h2>How to use:<a class="headerlink" href="#how-to-use" title="Permalink to this headline">¶</a></h2>
-<p>It is an obvious process to change group module under Cleopatra by just using the command given below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra chgrp path --yes --guess --recursive --path<span class="o">=</span>/a/file/path --group<span class="o">=</span>golden
+<div class="section" id="installation">
+<h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
+<p>Installation is not a difficult process to install this module under Cleopatra by merely using the command given below,</p>
+<div class="highlight-bash"><div class="highlight"><pre>Install apache-modules install
 </pre></div>
 </div>
-<p>After bounce the command it will change the group.</p>
+<p>After giving the command it will ask,</p>
+<div class="highlight-bash"><div class="highlight"><pre>Install Apache module? <span class="o">(</span>Y/N<span class="o">)</span>
+
+If you give an input as ‘Y’, the module will be installed successfully.
+If you give an input as ‘N’, <span class="k">then</span> it will come out of the installation.
+</pre></div>
+</div>
+</div>
+<div class="section" id="in-cent-os">
+<h2>In Cent Os:<a class="headerlink" href="#in-cent-os" title="Permalink to this headline">¶</a></h2>
+<p>It will be installed as configuration.
+Cleopatra apache modules install
+It will ask install Apache module Y/N?
+If you give the command “Y”
+It will check the dependencies and install it.
+If you give the command “N”
+It will return to the existing place.</p>
 </div>
 <div class="section" id="benefits-to-the-users">
-<h2>Benefits to the users<a class="headerlink" href="#benefits-to-the-users" title="Permalink to this headline">¶</a></h2>
-<p>Change group can be used to change the group permission. It simplified the process. It is suitable for all types of user. We can give the command anywhere any time. Easy to operate.</p>
+<h2>Benefits to the users:<a class="headerlink" href="#benefits-to-the-users" title="Permalink to this headline">¶</a></h2>
+<p>The module is an aid to Link with Cleopatra. While installing the Apache modules, it will acquiesce the configuration files.  If the configuration files are not available in the system this module will automatically install it. Separate Modules are available.</p>
 </div>
 <div class="section" id="options">
-<span id="making-a-table"></span><h2>Options<a class="headerlink" href="#options" title="Permalink to this headline">¶</a></h2>
-<table border="1" class="docutils">
+<h2>Options:<a class="headerlink" href="#options" title="Permalink to this headline">¶</a></h2>
+<table border="1" class="docutils" id="making-a-table">
 <colgroup>
-<col width="15%" />
-<col width="16%" />
-<col width="10%" />
-<col width="59%" />
+<col width="25%" />
+<col width="25%" />
+<col width="50%" />
 </colgroup>
 <thead valign="bottom">
 <tr class="row-odd"><th class="head">Parameters</th>
-<th class="head">Requirement</th>
-<th class="head">option</th>
+<th class="head">Required</th>
 <th class="head">Comments</th>
 </tr>
 </thead>
 <tbody valign="top">
-<tr class="row-even"><td>chgrp</td>
+<tr class="row-even"><td>Install</td>
 <td>Yes</td>
-<td><ul class="first last simple">
-<li></li>
-</ul>
-</td>
-<td>It will  the change group module under Cleopatra</td>
+<td>It will install the apache module under Cleopatra</td>
 </tr>
-<tr class="row-odd"><td>Path</td>
+<tr class="row-odd"><td>Install Apache Module? (Y/N)</td>
 <td>Yes</td>
-<td><ul class="first last simple">
-<li></li>
-</ul>
-</td>
-<td>Specify the path</td>
+<td>If the user gives input as yes, it will install the module.</td>
 </tr>
-<tr class="row-even"><td>group</td>
+<tr class="row-even"><td>Install Apache Module? (Y/N)</td>
 <td>No</td>
-<td>Chgrp</td>
-<td>While changing user can specify the path.</td>
-</tr>
-<tr class="row-odd"><td>group</td>
-<td>Yes</td>
-<td>chgrp</td>
-<td>Facilitate to change the new group name</td>
+<td>If the user gives input as no, it will be exited.</td>
 </tr>
 </tbody>
 </table>
 </div>
 <div class="section" id="help-command">
 <h2>Help command:<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
-<p>The help command interprets about the scope and the commands available under this modules. It also explains the command to change the group. The following screen shot visualize it translucently.</p>
+<p>This help command explains about the installation of a particular module. The help command is easy to operate by the end user. The following command guided the user about the installation.
+.. code-block:: bash</p>
+<blockquote>
+<div>Cleopatra apache modules help</div></blockquote>
+<p>After giving the command, the command will list the help options. The following screen shots will give visual effect for the usage of this module.</p>
 </div>
 </div>
 

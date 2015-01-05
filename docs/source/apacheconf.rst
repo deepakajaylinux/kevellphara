@@ -30,13 +30,23 @@ Options
 ********
 .. _making-a-table:
 
-===============================    ============================    ================================================================
-Parameters    			   Required   			   Comments
-===============================    ============================    ================================================================
-Install			 	   Yes	   			   It will install the apacheconf under Cleopatra
-Install Apache conf? (Y/N)	   Yes				   If the user gives input as yes, it will install the module.
-Install Apache conf? (Y/N)         No  				   If the user gives input as no, it will get exit.
-===============================    ============================    ================================================================
++------------------------------------------------+------------+----------------------------+
+| 	Parameters	              		                   | Required   | Comment  		                |
++================================================+============+============================+
+|	Install			                                  		 | Y(YES)     |It will install the         |
+|                                          					 | 	          |apacheconf under		          | 
+|	                                         					 |            |Cleopatra		                 |
++------------------------------------------------+------------+----------------------------+ 
+|Install Apache conf? (Y/N)			                   | Y(YES)     |If the user gives input as  |
+|	                                         					 |            |yes, it will install        | 
+|                                  			       			 |	           |the module.		               |
+|	                                         					 |            |			                     	   | 
++------------------------------------------------+------------+----------------------------+
+|Install Apache conf? (Y/N)	 	                 	 | N(NO)      |If the user gives input 	   |
+|	                                         					 |            |as no, it will get	         |
+|                                         						 |            |	 exit.			                  |
++------------------------------------------------+------------+----------------------------+
+
 
 Benefits to the users
 ----------------------

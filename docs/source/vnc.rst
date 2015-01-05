@@ -12,6 +12,7 @@ Help Command
 
 The help command provides an awareness regarding the VNC module. It also describes about the options that can be performed under this VNC module.
 The help command for this VNC module is given below,
+
 .. code-block:: bash
 
 	Cleopatra vnc help

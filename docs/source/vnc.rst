@@ -47,8 +47,6 @@ After inputting the command as given above, the following operations takes place
 
 .. cssclass:: table-bordered
 
-
-
 	+------------------------------------------------+------------+-----------------------------+
         |    Parameters                                  | Required   | Comment                     |
         +================================================+============+=============================+

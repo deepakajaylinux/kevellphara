@@ -28,7 +28,7 @@ The screen shot given below explains visually about the steps and commands invol
 
 Options
 ********
-.. _making-a-table:
+.. cssclass:: table-bordered
 
 +------------------------------------------------+------------+----------------------------+
 | 	Parameters	              		                   | Required   | Comment  		                |

@@ -553,6 +553,6 @@ Playing with Cleopatra Modules
    ApacheModules
    apachereverseproxy
    chgrp
-
+   vnc
 
 

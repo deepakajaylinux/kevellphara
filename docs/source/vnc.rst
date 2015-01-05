@@ -62,7 +62,7 @@ After inputting the command as given above, the following operations takes place
         +------------------------------------------------+------------+-----------------------------+
         | Install ApacheReverseProxyModules (Y/N)        | N(NO)      |If the user inputs as N,the  |
         |                                                |            |process will gets quit from  |
-        |                                                |            |  installation|
+        |                                                |            |  installation|              |
         +------------------------------------------------+------------+-----------------------------+
 
  .. rubric:: While installing the VNC server it performs the following operations as given below:

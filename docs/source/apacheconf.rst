@@ -28,23 +28,24 @@ The screen shot given below explains visually about the steps and commands invol
 
 Options
 ********
+
 .. cssclass:: table-bordered
 
 +------------------------------------------------+------------+----------------------------+
-| 	Parameters	              		                   | Required   | Comment  		                |
+| Parameters	               		                   | Required   |Comment  		                |
 +================================================+============+============================+
 |	Install			                                  		 | Y(YES)     |It will install the         |
 |                                          					 | 	          |apacheconf under		          | 
 |	                                         					 |            |Cleopatra		                 |
 +------------------------------------------------+------------+----------------------------+ 
-|Install Apache conf? (Y/N)			                   | Y(YES)     |If the user gives input as  |
+| Install Apache conf? (Y/N)		                   | Y(YES)     |If the user gives input as  |
 |	                                         					 |            |yes, it will install        | 
 |                                  			       			 |	           |the module.		               |
 |	                                         					 |            |			                     	   | 
 +------------------------------------------------+------------+----------------------------+
-|Install Apache conf? (Y/N)	 	                 	 | N(NO)      |If the user gives input 	   |
+| Install Apache conf? (Y/N) 	                 	 | N(NO)      |If the user gives input 	   |
 |	                                         					 |            |as no, it will get	         |
-|                                         						 |            |	 exit.			                  |
+|                                         						 |            |exit.  			                  |
 +------------------------------------------------+------------+----------------------------+
 
 

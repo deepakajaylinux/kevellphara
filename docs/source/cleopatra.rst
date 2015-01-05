@@ -551,6 +551,7 @@ Playing with Cleopatra Modules
    
    apacheconf
    ApacheModules
+   apachereverseproxy
    chgrp
 
 

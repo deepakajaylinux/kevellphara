@@ -556,6 +556,8 @@ Playing with Cleopatra Modules
    chown
    cleo
    mysqlserver
+   mysqladmin
+   mysqltool
    vnc
 
 

@@ -1,0 +1,140 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELLS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELLS 1.1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-06 14:32+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/chown.rst:3
+#: ../../source/chown.rst:88
+#: ../../source/chown.rst:97
+#: ../../source/chown.rst:101
+# 88ca7d21517b409e8bd01ed212a1c906
+# 46721728ab954a09aafcd28e3b52d472
+# ca90aa516cb94a7880b49ef3d9e81bcb
+# e7dd5a4f228546fdadc7023af16d7b16
+msgid "Chown"
+msgstr ""
+
+#: ../../source/chown.rst:6
+# 691e6b21f346463287755ab43af92eae
+msgid "SYNOPSIS"
+msgstr ""
+
+#: ../../source/chown.rst:8
+# 9e4f64d121234706baeddf6f4f24c574
+msgid "This module enables to change owner’s permission. It change the permission on individual file Or directory. Before that you must be aware of the default permission assigned to your files and directories at the time you create it."
+msgstr ""
+
+#: ../../source/chown.rst:12
+# d9e246af7d864a7e995db16ee252f824
+msgid "Help command:"
+msgstr ""
+
+#: ../../source/chown.rst:14
+# 15023358befe445e925fd79b9686581f
+msgid "This help command explains about the installation of a particular module. The help command is easy to operate by the end user. The following command guided the user about the installation."
+msgstr ""
+
+#: ../../source/chown.rst:20
+# 3d9409a96c264b3fb3dea05737bf49e8
+msgid "After giving the command, the command will list the help options. The following screen shots will give visual effect for the usage of this module."
+msgstr ""
+
+#: ../../source/chown.rst:41
+# 34741d9bed584526a76baede9bad8bd7
+msgid "Installation"
+msgstr ""
+
+#: ../../source/chown.rst:43
+# 8a4c07b0aba74f31854e478a7fcc6e2b
+msgid "It is an excellent process for this module under Cleopatra by slightly using the command given below,"
+msgstr ""
+
+#: ../../source/chown.rst:49
+# a856046c8154475d8f271287d1d4d0a8
+msgid "Then we can enter the input. Enter Ownership User After typing the owner name It will display Chown result success. This will visually shows by the following screen shot."
+msgstr ""
+
+#: ../../source/chown.rst:74
+# bd88ba7afa8c4b2b96ee8527ccaf236b
+msgid "Benefits to the users"
+msgstr ""
+
+#: ../../source/chown.rst:75
+# 1d93a90ec47e4a36b21de3109f2f0cf4
+msgid "The module can change the owner at any time with Cleopatra. While doing recursive process if you change single file the entire folder can also be changed. We can verify the current status of the owner."
+msgstr ""
+
+#: ../../source/chown.rst:80
+# 73dd4754d00d491884311fb72fab7cfd
+msgid "Options"
+msgstr ""
+
+#: ../../source/chown.rst:86
+# d59988a2e02a45b3acfa95bcc81c5306
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/chown.rst:86
+# 665ce2cf070643c7ac384d096170f8c7
+msgid "Required"
+msgstr ""
+
+#: ../../source/chown.rst:86
+# 6f183550e1e04a599a46b73a1e14fc65
+msgid "option"
+msgstr ""
+
+#: ../../source/chown.rst:86
+# cba1f8b5826b443b8d9661fa7e7ff91e
+msgid "Comments"
+msgstr ""
+
+#: ../../source/chown.rst:88
+#: ../../source/chown.rst:92
+#: ../../source/chown.rst:97
+# cfcf45de33974c589b5e762696508158
+# a1c7a0952c184ad88517f543fa04813d
+# 5ef5f23d67cd4a498c133270e3eecbf5
+msgid "Yes"
+msgstr ""
+
+#: ../../source/chown.rst:92
+# e5d477b8f18146458903932320b275a5
+msgid "Path"
+msgstr ""
+
+#: ../../source/chown.rst:92
+# c579a531c2b7426dac2e3aabb0e0bd07
+msgid "The user has to give the path"
+msgstr ""
+
+#: ../../source/chown.rst:97
+#: ../../source/chown.rst:101
+# dc10400491564d1d857cb65b2fdb9e3a
+# a16a6bd6b618460ebe432c90198593eb
+msgid "Owner"
+msgstr ""
+
+#: ../../source/chown.rst:101
+# 60cab64d80694dcca70a1912be5aef1d
+msgid "No"
+msgstr ""
+
+#: ../../source/chown.rst:101
+# 86a9edf994754ce0b1131a5396320b19
+msgid "The user gives input as no, it will ask the owner name|"
+msgstr ""
+

@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Mysqlserver &mdash; KEVELLS 1.1.1 documentation</title>
+    
+    <link rel="stylesheet" href="_static/basic.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="_static/css/bootstrap-2.2.1.min.css" type="text/css" />
+    <link rel="stylesheet" href="_static/bootstrap-sphinx.css" type="text/css" />
+    <link rel="stylesheet" href="_static/css/bootstrap-responsive-2.2.1.min.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '1.1.1',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
+    <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
+    <link rel="top" title="KEVELLS 1.1.1 documentation" href="index.html" />
+    <link rel="up" title="Cleopatra" href="cleopatra.html" />
+    <link rel="next" title="VNC" href="vnc.html" />
+    <link rel="prev" title="Cleopatra" href="cleo.html" />
+<meta charset='utf-8'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+  </head>
+  <body>
+<div class="container">
+  
+  <div id="navbar" class="navbar navbar-fixed-top">
+    <div class="navbar-inner">
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+
+
+<a class="brand" href="index.html"><img src="_static/img/imgo.jpeg " border="0" alt="py4sci"/>KEVELLS</a>
+
+
+      <div class="nav-collapse">
+        <ul class="nav" style="margin: 4px 10px 0px 0px;">
+          <li class="divider-vertical"></li>
+          
+            <li class="dropdown">
+  <a href="index.html" class="dropdown-toggle" data-toggle="dropdown">Site <b class="caret"></b></a>
+  <ul class="dropdown-menu globaltoc"><ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="cleopatra.html">Cleopatra</a></li>
+<li class="toctree-l1"><a class="reference internal" href="phlagrant.html">Phlagrant</a></li>
+</ul>
+</ul>
+</li>
+            <li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Page <b class="caret"></b></a>
+  <ul class="dropdown-menu localtoc"><ul>
+<li><a class="reference internal" href="#">Mysqlserver</a><ul>
+<li><a class="reference internal" href="#synopsis">synopsis</a></li>
+<li><a class="reference internal" href="#the-help-command">The Help Command</a></li>
+<li><a class="reference internal" href="#installation">Installation</a></li>
+<li><a class="reference internal" href="#during-the-installation-the-following-process-occurs">During the installation, the following process occurs</a></li>
+<li><a class="reference internal" href="#additional-options">Additional Options:</a></li>
+<li><a class="reference internal" href="#benefits">Benefits</a></li>
+</ul>
+</li>
+</ul>
+</ul>
+</li>
+          
+          
+            
+  <li><a href="cleo.html"
+         title="previous chapter">&laquo; Cleopatra</a></li>
+  <li><a href="vnc.html"
+         title="next chapter">VNC &raquo;</a></li>
+          
+          
+            <li>
+  <a href="_sources/mysqlserver.txt"
+     rel="nofollow">Source</a></li>
+          
+        </ul>
+
+        
+          
+<form class="navbar-search pull-right" style="margin-bottom:-3px;" action="search.html" method="get">
+  <input type="text" name="q" placeholder="Search" />
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form>
+        
+      </div>
+    </div>
+  </div>
+
+  
+  <div class="section" id="mysqlserver">
+<h1>Mysqlserver<a class="headerlink" href="#mysqlserver" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="synopsis">
+<h2>synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
+<p>This module acts as a facilitator to install mysql-server with the updated version via apt-get. If the mysql-server already exists in your machine, it will checks for the availability of newly updated module.</p>
+</div>
+<div class="section" id="the-help-command">
+<h2>The Help Command<a class="headerlink" href="#the-help-command" title="Permalink to this headline">¶</a></h2>
+<p>The help command guides the users regarding the methodology in usage and also about the actions that can be performed under this modules. It also describes the alternative names for mysql-server. The command for using help option is given below</p>
+<div class="highlight-bash"><div class="highlight"><pre>cleopatra mysql-server <span class="nb">help</span>
+</pre></div>
+</div>
+<p>This command makes the users to be aware of its purpose and also about the command used for installing the mysql-server.
+The screenshot given below shows a pictorial presentation about the help command.</p>
+<img alt="docs/image/cleopatra_help.png" src="docs/image/cleopatra_help.png" />
+</div>
+<div class="section" id="installation">
+<h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
+<p>The command used for installing the mysql server is given below.</p>
+<div class="highlight-bash"><div class="highlight"><pre>cleopatra mysql-server install
+</pre></div>
+</div>
+</div>
+<div class="section" id="during-the-installation-the-following-process-occurs">
+<h2>During the installation, the following process occurs<a class="headerlink" href="#during-the-installation-the-following-process-occurs" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>This module assists to install some tools for mysql server via apt-get.</li>
+<li>Initially a root password will be set.</li>
+<li>While installing, it will look for a parameter of &#8211;mysql-root-pass.</li>
+<li>If the &#8211;mysql-root-pass is not available, it will search the cleopatra config for the settings of mysql-default-root-pass.</li>
+<li>In case of both steps mentioned above gets failed, it will proceed by setting root password to cleopatra.</li>
+</ul>
+</div>
+<div class="section" id="additional-options">
+<h2>Additional Options:<a class="headerlink" href="#additional-options" title="Permalink to this headline">¶</a></h2>
+<p>Let us see about, the additional options involved in installing the mysql-server.</p>
+<table border="1" class="table-bordered docutils">
+<colgroup>
+<col width="26%" />
+<col width="26%" />
+<col width="22%" />
+<col width="26%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head">Parameters</th>
+<th class="head">Directory(default)</th>
+<th class="head">option</th>
+<th class="head">Comments</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td>Install MySQL Server? (Y/N)</td>
+<td>In the place of MySQL Server
+these alternative names can be
+used:MysqlServer,mysql-server,
+mysqlserver.</td>
+<td>Y(YES)</td>
+<td>If the user wish to proceed
+the installation process they
+can input as Y.</td>
+</tr>
+<tr class="row-odd"><td>Install MySQL Server? (Y/N)</td>
+<td>In the place of MySQL Server
+these alternative names can be
+used:MysqlServer,mysql-server,
+mysqlserver.</td>
+<td>N(NO)</td>
+<td>If the user wish to quit the
+installation process they
+can input as N|
+|</td>
+</tr>
+</tbody>
+</table>
+<p>The following screen shot gives you an graphical presentation regarding the installation process.</p>
+<img alt="image/mysqlser_install.png" src="image/mysqlser_install.png" />
+<p>If the mysql server is already exists in your machine, then it will throw an message to the user as it is already installed. The following screen shot represents the process of ensuring:</p>
+<img alt="image/mysqlserver_instal_already.png" src="image/mysqlserver_instal_already.png" />
+</div>
+<div class="section" id="benefits">
+<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>While installing the mysql server, it installs with the updated version.</li>
+<li>It ensures before installing, and check for the availability of modules.</li>
+<li>In case of any new modules included in the updated version, the missing module will be installed individually.</li>
+<li>It checks the availability of library functions in the mysql server.</li>
+</ul>
+</div>
+</div>
+
+
+</div>
+<footer class="footer">
+  <div class="container">
+    <p class="pull-right">
+      <a href="#">Back to top</a>
+      
+    </p>
+    <p>
+        &copy; Copyright 2015, kevell.<br/>
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2.3.<br/>
+    </p>
+  </div>
+</footer>
+  </body>
+</html>

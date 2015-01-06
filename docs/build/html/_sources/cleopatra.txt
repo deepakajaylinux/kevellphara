@@ -546,7 +546,7 @@ Playing with Cleopatra Modules
 *******************************
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 6
    
    
    apacheconf
@@ -554,6 +554,8 @@ Playing with Cleopatra Modules
    apachereverseproxy
    chgrp
    chown
+   cleo
+   mysqlserver
    vnc
 
 

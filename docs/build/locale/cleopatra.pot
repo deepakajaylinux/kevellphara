@@ -1,0 +1,817 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELLS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELLS 1.1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-06 14:32+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/cleopatra.rst:2
+# c8a895274a584b9cb56d8b814d844947
+msgid "Cleopatra"
+msgstr ""
+
+#: ../../source/cleopatra.rst:6
+# 853464dac5054e71bbf52e53d0358e28
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/cleopatra.rst:8
+# dd51e0e60c99400aae8be21f4178e765
+msgid "The Cleopatra is an automation drive that allows DevOps Engineers, system administrators, infrastructure managers in performing the Configuration Management, Systems Automation and Infrastructure with the aid of php. It provisions the entire projects of the users automatically."
+msgstr ""
+
+#: ../../source/cleopatra.rst:10
+# 06f1fc16cd56422ea1873d7c521dcf76
+msgid "This can also be used for providing packages and configuration files to your projects. It ensures the environment stability of your project."
+msgstr ""
+
+#: ../../source/cleopatra.rst:12
+# df5a4f9302af4d8c9e716cc3b06eab2f
+msgid "The modules under Cleopatra envelopes and satisfies the requirements of simple and as well as complex development environment while compared to other types of tools. By installing the Cleopatra tool, the functionalities of the entire Pharaoh tool gets covered."
+msgstr ""
+
+#: ../../source/cleopatra.rst:14
+# 744acd2b9cd54d4f80971ff034b38602
+msgid "Installing Cleopatra to your machine acts as a shorter route to complete installation of other Pharaoh tools. While executing the installation process of Cleopatra the most-recent updated version will gets ready to install, which is an added advantage."
+msgstr ""
+
+#: ../../source/cleopatra.rst:16
+# 2bede5bc684b4b1d85403dcdec3e58bb
+msgid "Cleopatra aims to simplify the methods in package installation. And as well as it is secured for using, easily perceivable to the users."
+msgstr ""
+
+#: ../../source/cleopatra.rst:18
+# 956d722434f440b08cceeb3d044d5d6e
+msgid "Cleopatra assists in enveloping the entire management of all sizes. It enriches and fulfills the need of users of a management like the developers, system administrator, release engineers etc."
+msgstr ""
+
+#: ../../source/cleopatra.rst:20
+# ee912cd927d44bfa9914004f8fbe7320
+msgid "The coding system of Cleopatra is based in php. The Cleopatra is object-oriented that enrich not only the data type but also the types of operations that can be applied to the data."
+msgstr ""
+
+#: ../../source/cleopatra.rst:22
+# 8b6598a9b61d427c808c95139bd06bab
+msgid "Hence, while comparing object-oriented programming techniques over procedural programming techniques , the object-oriented programming enables the users to create modules that do not need to be changed when a new type of object is added."
+msgstr ""
+
+#: ../../source/cleopatra.rst:24
+# ebd71fb073c24db78ed724cef0ebba8e
+msgid "It is extensible, as if any of the extra modules is required the users can frame and design the module as per their requirements and they can include."
+msgstr ""
+
+#: ../../source/cleopatra.rst:26
+# ca6e9c1cb04e43edad6e9e1b33d73b2e
+msgid "And also it is easier to rewrite the code as per the needs of the users. Its documentation includes the Cleopatra's current released version as 1.1.1."
+msgstr ""
+
+#: ../../source/cleopatra.rst:29
+# a64b89709061454dacbc4e4a55ff16dc
+msgid "Installation"
+msgstr ""
+
+#: ../../source/cleopatra.rst:31
+# 7bb46d0d65334b738e8ac1a6c192b7ab
+msgid "Before installing the Cleopatra to your machine, ensure whether git and php5 exists in your machine or not. if not follow as given below"
+msgstr ""
+
+#: ../../source/cleopatra.rst:35
+# bbe7ae869d0d458db8b29151fe59b5df
+msgid "command to install git and php5 in ubuntu"
+msgstr ""
+
+#: ../../source/cleopatra.rst:38
+#: ../../source/cleopatra.rst:53
+# cc45c5f354364773a485d1e860d62f66
+# 9fd81d03b337467a9023ebaf7f71cc61
+msgid "git"
+msgstr ""
+
+#: ../../source/cleopatra.rst:44
+#: ../../source/cleopatra.rst:59
+# 81b847eb00d34f169f8d3401f0a6e69b
+# a26bd92380a542c598d7861b2315a6ae
+msgid "php"
+msgstr ""
+
+#: ../../source/cleopatra.rst:50
+# d9fcf9d624fe41e482f43efe68c0b98f
+msgid "command to install git and php5 in cent OS"
+msgstr ""
+
+#: ../../source/cleopatra.rst:64
+# 7d483bb83bac4e40a0fecc0f7403d38e
+msgid "after completion of git and php5 installation, let's see how to install the Cleopatra in your machine."
+msgstr ""
+
+#: ../../source/cleopatra.rst:67
+# 7cac161450a6431b859f5f3555977e4d
+msgid "For Mac, Linux or Unix"
+msgstr ""
+
+#: ../../source/cleopatra.rst:68
+# 7c48696b996147a0962e696a68f92165
+msgid "It is simple by using the coding"
+msgstr ""
+
+#: ../../source/cleopatra.rst:75
+# 89f86fa9651440dea85fc7bb7f24e5cd
+msgid "For Windows"
+msgstr ""
+
+#: ../../source/cleopatra.rst:76
+# 5e3d7711d9aa4b05affecf53e524bc10
+msgid "It is simple, get the terminal open via the option \"Run as Administrator\", and then apply the following coding,"
+msgstr ""
+
+#: ../../source/cleopatra.rst:85
+# 99cbe3b56f824cc99e059b26397c7486
+msgid "Available Modules"
+msgstr ""
+
+#: ../../source/cleopatra.rst:87
+# 0830bcbfd0ff4042ad8ba187aeeedcaa
+msgid "DummyLinuxModule - Dummy Linux Module"
+msgstr ""
+
+#: ../../source/cleopatra.rst:89
+# 432b4208c6f641edb7921744cc75d06a
+msgid "AWSCloudFormation - The AWS CloudFormation CLI Tools"
+msgstr ""
+
+#: ../../source/cleopatra.rst:91
+# 37a7ecc50f484a569f9f436236dda748
+msgid "AWSCloudWatch - The AWS CloudWatch CLI Tools"
+msgstr ""
+
+#: ../../source/cleopatra.rst:93
+# af4e040e400f462a896a73c8aba28fd7
+msgid "AWSEC2 - AWS EC2 Server Management Functions"
+msgstr ""
+
+#: ../../source/cleopatra.rst:95
+# 9dd368de37f74d15911ff89f6c20abac
+msgid "ApacheConf - Apache Conf - Install a Apache Configuration"
+msgstr ""
+
+#: ../../source/cleopatra.rst:97
+# 3d7971977e604ebaa8faa165b84585ee
+msgid "ApacheModules - Apache Modules - Commonly used modules for Apache"
+msgstr ""
+
+#: ../../source/cleopatra.rst:99
+# c2a60a0915d54cc0a078aef2f1b30cd9
+msgid "ApacheReverseProxyModules - Apache Reverse Proxy Modules - Reverse Proxy/Load Balancer Modules for Apache"
+msgstr ""
+
+#: ../../source/cleopatra.rst:101
+# 09bbefc03b2d4170af954937c4ea3066
+msgid "ApacheServer - Apache Server - Install or remove the Apache Server"
+msgstr ""
+
+#: ../../source/cleopatra.rst:103
+# 0acf23cffece40afa093f41f638c2984
+msgid "Apt - Add, Remove or Modify Apts"
+msgstr ""
+
+#: ../../source/cleopatra.rst:105
+# cb13643250f74ddfbd10c56c38509192
+msgid "Autopilot - Cleopatra Autopilot - User Defined Installations"
+msgstr ""
+
+#: ../../source/cleopatra.rst:107
+# 9cc40cd95fbc4b4da2324fd34048c32a
+msgid "Behat - Behat - The PHP BDD Testing Suite"
+msgstr ""
+
+#: ../../source/cleopatra.rst:109
+# a20ba2a169cb43cab2eb2e9ed8166a93
+msgid "Boxify - Boxify Wrapper - Create Cloud Instances"
+msgstr ""
+
+#: ../../source/cleopatra.rst:111
+# 0968e36bbdc14f9aad148db162816955
+msgid "Chgrp - Chgrp Functionality"
+msgstr ""
+
+#: ../../source/cleopatra.rst:113
+# 8e41927b7ab84a6f8f428e0e29c9c086
+msgid "Chmod - Chmod Functionality"
+msgstr ""
+
+#: ../../source/cleopatra.rst:115
+# 94c8ab0a892f4b14be863c59c75b0c48
+msgid "Chown - Chown Functionality"
+msgstr ""
+
+#: ../../source/cleopatra.rst:117
+# 1bd621ae141e4bb5bdbb6be514a2db02
+msgid "Chrome - Chrome - Install or remove Chrome"
+msgstr ""
+
+#: ../../source/cleopatra.rst:119
+# 43a6385d9f6d409e8c22e1708eba72d2
+msgid "ChromeDriver - The Chrome Browser remote controlling server"
+msgstr ""
+
+#: ../../source/cleopatra.rst:121
+# 1004905cfaa9469fa5b45c8206fc8392
+msgid "Citadel - Citadel Server - Install or remove the Citadel Server"
+msgstr ""
+
+#: ../../source/cleopatra.rst:123
+# ff1aa4272649467cb9e6b44516dfc2ee
+msgid "Cleofy - Cleopatra Cleofyer - Creates default autopilots for your project"
+msgstr ""
+
+#: ../../source/cleopatra.rst:125
+# 9e88b83b910b4957958ee87618acd5d1
+msgid "Cleopatra - Cleopatra - Upgrade or Re-install Cleopatra"
+msgstr ""
+
+#: ../../source/cleopatra.rst:127
+# 581646b192a240c5bcaf4f4be8700488
+msgid "Composer - Composer - Upgrade or Re-install Composer"
+msgstr ""
+
+#: ../../source/cleopatra.rst:129
+# c0296c90ad5c46ac826af088110e058b
+msgid "Copy - Copy Functionality"
+msgstr ""
+
+#: ../../source/cleopatra.rst:131
+# 0031b84587074a6fb64d77f100d46ae0
+msgid "DNSify - DNSify Wrapper - Ensure the existence or removal of DNS records"
+msgstr ""
+
+#: ../../source/cleopatra.rst:133
+# 83d7a2524b814a4da805092d83bba196
+msgid "Dapperstrano - Dapperstrano - The PHP Automated Website Deployment tool"
+msgstr ""
+
+#: ../../source/cleopatra.rst:135
+# 2163ec0b43f94f089f3d9e08f4bcf61b
+msgid "DeveloperTools - Developer Tools - IDE's and other tools for Developers"
+msgstr ""
+
+#: ../../source/cleopatra.rst:137
+# b216490260974189b6ccc73ccbf4923d
+msgid "DigitalOcean - Digital Ocean Server Management Functions"
+msgstr ""
+
+#: ../../source/cleopatra.rst:139
+# 1ff64f3646e04192b11f7d63ece0736f
+msgid "DigitalOceanV2 - Digital Ocean Server Management Functions - API Version 2"
+msgstr ""
+
+#: ../../source/cleopatra.rst:141
+# 54b0730447554abf89ec56ddfa8d7cfe
+msgid "Encryption - Encryption or Decryption of files"
+msgstr ""
+
+#: ../../source/cleopatra.rst:143
+# 9cbdca53bc5b4704a7bfeb6b9b102b86
+msgid "EnvironmentConfig - Environment Configuration - Configure Environments for a project"
+msgstr ""
+
+#: ../../source/cleopatra.rst:145
+# 300978f2a3d042d091004f9aaf555bb9
+msgid "File - Functions to Modify Files"
+msgstr ""
+
+#: ../../source/cleopatra.rst:147
+# 1066d5368a014678a415a4e5d10dcc3a
+msgid "Firefox - Firefox - Install or remove Firefox"
+msgstr ""
+
+#: ../../source/cleopatra.rst:149
+# 0a90838a754d432b930db2eaee43761c
+msgid "Firefox14 - Firefox 14 - A version of Firefox highly tested with Selenium Server"
+msgstr ""
+
+#: ../../source/cleopatra.rst:151
+# 47b2bed2374e494282d440ab0728ebd1
+msgid "Firefox17 - Firefox 17 - A version of Firefox highly tested with Selenium Server"
+msgstr ""
+
+#: ../../source/cleopatra.rst:153
+# 0fd4a62b97d84528a4f1cd5ed35b53d7
+msgid "Firefox24 - Firefox 24 - A version of Firefox highly tested with Selenium Server"
+msgstr ""
+
+#: ../../source/cleopatra.rst:155
+# da529dc3be1b4be6a9ea5b0db162c0d2
+msgid "Firefox33 - Firefox 33 - A version of Firefox highly tested with Selenium Server"
+msgstr ""
+
+#: ../../source/cleopatra.rst:157
+# ff367e1cfe10447aa2eb931dad6e2bda
+msgid "Firewall - Add, Remove or Modify Firewalls"
+msgstr ""
+
+#: ../../source/cleopatra.rst:159
+# c7eb4c49411643819f15c094dde3e4ab
+msgid "GIMP - GIMP - The Image Editor"
+msgstr ""
+
+#: ../../source/cleopatra.rst:161
+# 3703f7d615384a28b74c8bfdc046bac0
+msgid "Gem - Ruby Gems Package Manager"
+msgstr ""
+
+#: ../../source/cleopatra.rst:163
+# c81578723f714d42a79952ec5f050538
+msgid "Generator - Dapperstrano Autopilot Generator - Generate Autopilot files interactively"
+msgstr ""
+
+#: ../../source/cleopatra.rst:165
+# 5144cf6a702247cfa5cf7ef808fe1676
+msgid "GitBucket - Git Bucket - The Git SCM Management Web Application"
+msgstr ""
+
+#: ../../source/cleopatra.rst:167
+# 69aa4d9697e14bacb5efe8b842969924
+msgid "GitKeySafe - Git Key-Safe - Install a script for git to allow specifying ssh keys during commands"
+msgstr ""
+
+#: ../../source/cleopatra.rst:169
+# bfeeff6e4d3e4332893209e7ed5b7bef
+msgid "GitLab - Git Lab - The Git SCM Management Web Application"
+msgstr ""
+
+#: ../../source/cleopatra.rst:171
+# d38741d4eb8d4bd69bd3e67e586cb103
+msgid "GitTools - Git Tools - Tools for working with Git SCM"
+msgstr ""
+
+#: ../../source/cleopatra.rst:173
+# 44bdc4a0f9284dc9a2b10437370e74ea
+msgid "HAProxy - HA Proxy Server - Install or remove the HA Proxy Server"
+msgstr ""
+
+#: ../../source/cleopatra.rst:175
+# 92c0705667234011a068997a7fe993bc
+msgid "HHVM - HHVM - The PHP Virtual Machine runtime from Facebook"
+msgstr ""
+
+#: ../../source/cleopatra.rst:177
+# bfda0ab1b00747bdaf0370d17840d5c8
+msgid "Hostname - View or Modify Hostname"
+msgstr ""
+
+#: ../../source/cleopatra.rst:179
+# 6bae538f3f5f4306b78c01af602edfec
+msgid "InstallPackage - Cleopatra Predefined Installers"
+msgstr ""
+
+#: ../../source/cleopatra.rst:181
+# 8bd9178b438e4a63863e800595da2236
+msgid "IntelliJ - IntelliJ - A great IDE from JetBrains"
+msgstr ""
+
+#: ../../source/cleopatra.rst:183
+# 989f3b640ea143689499fd5b09f092b6
+msgid "Invoke - SSH Invocation Functions"
+msgstr ""
+
+#: ../../source/cleopatra.rst:185
+# e9226bada0014cf98ef450689f98d9d5
+msgid "JRush - JRush - The Joomla command line utility from Golden Contact"
+msgstr ""
+
+#: ../../source/cleopatra.rst:187
+# 6fa4ef76b15240a2accc762987025557
+msgid "Java - Java JDK 1.7"
+msgstr ""
+
+#: ../../source/cleopatra.rst:189
+# 8b5f19bcaf04441fa77930e432f9ed70
+msgid "Jenkins - Jenkins - The Java Build Server"
+msgstr ""
+
+#: ../../source/cleopatra.rst:191
+# c38b9e1db74c45539d7dc18f30abd472
+msgid "JenkinsPlugins - Jenkins PHP Plugins - Common Plugins for Jenkins PHP Builds"
+msgstr ""
+
+#: ../../source/cleopatra.rst:193
+# 099dadeac5bb419db527f4e452e0413d
+msgid "JenkinsSudoNoPass - Configure Passwordless Sudo for your Jenkins user"
+msgstr ""
+
+#: ../../source/cleopatra.rst:195
+# 66aaeb614f9c439ca3e32b17e946ca04
+msgid "LigHTTPDServer - LigHTTPD Server - Install or remove the LigHTTPD Server"
+msgstr ""
+
+#: ../../source/cleopatra.rst:197
+# 1752710ec61d4dfabfb6b6b6b19778e5
+msgid "Logging - Logging - Output errors to the logging"
+msgstr ""
+
+#: ../../source/cleopatra.rst:199
+# 2898ab3a25494273a1d3eb99f9055ea7
+msgid "MediaTools - Media Tools - Tools to help view and manage Media files"
+msgstr ""
+
+#: ../../source/cleopatra.rst:201
+# 63a461663adf4d508787c94cd27c98ba
+msgid "Mkdir - Mkdir Functionality"
+msgstr ""
+
+#: ../../source/cleopatra.rst:203
+# ed774f3343af4849ab7e1c696758d744
+msgid "ModuleManager - Manage the modules used in Cleopatra"
+msgstr ""
+
+#: ../../source/cleopatra.rst:205
+# c5fb1cb2e60444d498f295effe23588f
+msgid "MongoDB - MongoDB Server - The MongoDB Datastore Server"
+msgstr ""
+
+#: ../../source/cleopatra.rst:207
+# f0be614460e54353af31018aad55ae39
+msgid "MysqlAdmins - Mysql Admins - Install administrative users for Mysql"
+msgstr ""
+
+#: ../../source/cleopatra.rst:209
+# 85c778cbd4c0469985dcab846178bb1e
+msgid "MysqlServer - Mysql Server - The Mysql RDBMS Server"
+msgstr ""
+
+#: ../../source/cleopatra.rst:211
+# ce4430efadaf43a59b4a6389ba03781c
+msgid "MysqlServerGalera - Mysql Server Galera - The Galera Clustering compatible version of Mysql RDBMS Server"
+msgstr ""
+
+#: ../../source/cleopatra.rst:213
+# 21899be7286c4f6b9900d18dc6f42ea5
+msgid "MysqlTools - Mysql Tools - For administering and developing with Mysql"
+msgstr ""
+
+#: ../../source/cleopatra.rst:215
+# edb64fd4c5f94e93a28901cc5d56d096
+msgid "NagiosServer - Nagios Server - Install or remove the Nagios Server"
+msgstr ""
+
+#: ../../source/cleopatra.rst:217
+# 40e814b957b9459d8392c7ea2e53f744
+msgid "NetworkTools - Network Tools - Tools for working with Networks"
+msgstr ""
+
+#: ../../source/cleopatra.rst:219
+# c5008174ddc74fada08f92d5001ef5b4
+msgid "NginxServer - Nginx Server - Install or remove the Nginx Server"
+msgstr ""
+
+#: ../../source/cleopatra.rst:221
+# 1cd78d5722524ef6b62d1362b6a41961
+msgid "NodeJS - Node JS - The Server Side Javascript Engine"
+msgstr ""
+
+#: ../../source/cleopatra.rst:223
+# 1e20d6d66380429bad0da070ed617411
+msgid "PECL - Add, Remove or Modify PECLs"
+msgstr ""
+
+#: ../../source/cleopatra.rst:225
+# 5dffa53720204488b85ce68a10c0fa49
+msgid "PHPAPC - PHP APC - Commonly used PHP APC"
+msgstr ""
+
+#: ../../source/cleopatra.rst:227
+# 1f08d2b4b4754d7b82355cc0ecfd485a
+msgid "PHPCI - PHPCI - The PHP Build Server"
+msgstr ""
+
+#: ../../source/cleopatra.rst:229
+# 9c7b0fb9a4a94393b4dafa1cc9bb9c82
+msgid "PHPCS - PHP Code Sniffer - The static code analysis tool"
+msgstr ""
+
+#: ../../source/cleopatra.rst:231
+# 54a8926234e64213b0c153bb334253fe
+msgid "PHPConf - PHP Conf - Install a PHP Configuration"
+msgstr ""
+
+#: ../../source/cleopatra.rst:233
+# c0e00004bc94447c8cad97f7328c3fd8
+msgid "PHPMD - PHP Mess Detector - The static analysis tool"
+msgstr ""
+
+#: ../../source/cleopatra.rst:235
+# db96c836625b4ac89b6fe109d62ed08a
+msgid "PHPModules - PHP Modules - Commonly used PHP Modules"
+msgstr ""
+
+#: ../../source/cleopatra.rst:237
+# 60b7d17c129a446497142f659f85a051
+msgid "PHPSSH - PHP SSH - PHP SSH Extension"
+msgstr ""
+
+#: ../../source/cleopatra.rst:239
+# 66fdea7390a94180a3079cddeba7c7c9
+msgid "PHPStorm - PHPStorm - A great IDE from JetBrains"
+msgstr ""
+
+#: ../../source/cleopatra.rst:241
+# 173f569fa87c49d0b3bc101f261a78ec
+msgid "PHPUnit - PHP Unit - The PHP Implementation of the XUnit Unit Testing standard"
+msgstr ""
+
+#: ../../source/cleopatra.rst:243
+# c545a0b665d4405480a4fd46df06e8b7
+msgid "PackageManager - Native Package Manager Wrapper - Install OS neutral packages"
+msgstr ""
+
+#: ../../source/cleopatra.rst:245
+# cfaacfeef1a14f39abf4a0f74064b27d
+msgid "PapyrusEditor - Papyrus Editor Web Interface"
+msgstr ""
+
+#: ../../source/cleopatra.rst:247
+# 6aed37a09151492982c4ee1cf7a86cc6
+msgid "Parallax - Parallax - Execute commands in parallel"
+msgstr ""
+
+#: ../../source/cleopatra.rst:249
+# 704223c5a04e44fcb88c248a7fbf5a96
+msgid "Pear - Pear Package Manager"
+msgstr ""
+
+#: ../../source/cleopatra.rst:251
+# 40d4db4f85724e8e82b7da3c0fcc00e5
+msgid "Phake - Phake - The PHP task creation tool (Make/Rake)"
+msgstr ""
+
+#: ../../source/cleopatra.rst:253
+# b654858c1c8049af9fe1296fd414c44c
+msgid "PharaohTools - Pharaoh Tools - Gotta Install them all"
+msgstr ""
+
+#: ../../source/cleopatra.rst:255
+# b35a6e42116648468450f3c9b5eb55c9
+msgid "Phlagrant - Phlagrant - The Virtual Machine management solution for PHP"
+msgstr ""
+
+#: ../../source/cleopatra.rst:257
+# 280384e3e9254dfd9285aee6ff8e8cb3
+msgid "Phrankinsense - Phrankinsense - The Pharaoh Tools Project Management Solution"
+msgstr ""
+
+#: ../../source/cleopatra.rst:259
+# b669d8ece32448b2bf396e6a83439063
+msgid "Ping - Test a Ping to see if its responding"
+msgstr ""
+
+#: ../../source/cleopatra.rst:261
+# 9e7e317634864dcc9fd0def2b10becb5
+msgid "Port - Test a Port to see if its responding"
+msgstr ""
+
+#: ../../source/cleopatra.rst:263
+# 426fc9a48b0943f893de431a42f9073f
+msgid "PostInput - HTTP Post/Get Input Interface"
+msgstr ""
+
+#: ../../source/cleopatra.rst:265
+# 50ada9148fbd43729e47041d7421ec2e
+msgid "PostgresServer - Postgres Server - The Postgres RDBMS Server"
+msgstr ""
+
+#: ../../source/cleopatra.rst:267
+# c4f9819a3c9a4267b8bf64eb54d53f70
+msgid "Process - Process Functionality"
+msgstr ""
+
+#: ../../source/cleopatra.rst:269
+# 3886c159856a46c8a399ec7ccbfbc5c6
+msgid "Python - Python - The programming language"
+msgstr ""
+
+#: ../../source/cleopatra.rst:271
+# 46a04eab76d54b78af64d31bc4cc0614
+msgid "Ra - Ra - The Pharaoh Tools Build Server"
+msgstr ""
+
+#: ../../source/cleopatra.rst:273
+# 43a65cc56556443aa76c73d0efa2e7c7
+msgid "Rackspace - Rackspace/Opencloud Cloud Management Functions"
+msgstr ""
+
+#: ../../source/cleopatra.rst:275
+# b5407007d3a74b1ca808ef0cff35b303
+msgid "RubyBDD - Ruby BDD Suite - Install Common Gems for Cucumber, Calabash, Capybara and Saucelabs"
+msgstr ""
+
+#: ../../source/cleopatra.rst:277
+# e433bb57ad21443faac091e76aa8264f
+msgid "RubyRVM - Ruby RVM - The Ruby version manager"
+msgstr ""
+
+#: ../../source/cleopatra.rst:279
+# 302e8a5f2e5f4acfa8eca03f495d0095
+msgid "RubySystem - Ruby RVM System wide - The Ruby version manager system wide version"
+msgstr ""
+
+#: ../../source/cleopatra.rst:281
+# 0046c4e9e50b483ea9641ce3c6758af9
+msgid "RunCommand - Execute a Command"
+msgstr ""
+
+#: ../../source/cleopatra.rst:283
+# 8d9a2e3d13004fd2a7ad00a64ee44084
+msgid "SFTP - SFTP Functionality"
+msgstr ""
+
+#: ../../source/cleopatra.rst:285
+# 26207e93abe84dc7af3df8660c5461f5
+msgid "SVN - SVN - The Source Control Manager"
+msgstr ""
+
+#: ../../source/cleopatra.rst:287
+# 2b8985cb3ac74d4087d90d3a4bc702e4
+msgid "SeleniumServer - The Selenium Web Browser controlling server"
+msgstr ""
+
+#: ../../source/cleopatra.rst:289
+# 13c921936c894f41aa89e9d36b7bfcf2
+msgid "Service - Start, Stop or Restart a Service"
+msgstr ""
+
+#: ../../source/cleopatra.rst:291
+# d368f60d3a9f4088a2f225ac2e5d1d75
+msgid "SshEncrypt - Install/encrypt private SSH keys"
+msgstr ""
+
+#: ../../source/cleopatra.rst:293
+# 2e02e1e2fbc9443f96c44d3f537b3dd2
+msgid "SshHarden - Apply security functions to the SSH accounts/setup of the machine"
+msgstr ""
+
+#: ../../source/cleopatra.rst:295
+# 91f3c31d797b4d61b2f40b17aa120d2d
+msgid "SshKeyInstall - Install SSH Public Keys to a user account"
+msgstr ""
+
+#: ../../source/cleopatra.rst:297
+# 78d0b62890ad48de8c22f5a8cbd9124e
+msgid "SshKeyStore - Install SSH Public Keys to a user account"
+msgstr ""
+
+#: ../../source/cleopatra.rst:299
+# d9bdca1ebc0d48d4b213ccd8e09d3409
+msgid "SshKeygen - SSH Keygen - Generate SSH Kay Pairs"
+msgstr ""
+
+#: ../../source/cleopatra.rst:301
+# 35db504fbbda45298867b3a27bc255a3
+msgid "StandardTools - Standard Tools for any Installation"
+msgstr ""
+
+#: ../../source/cleopatra.rst:303
+# 1ba4ebce11c64c7b9410f8ea06ecc265
+msgid "SudoNoPass - Configure Passwordless Sudo for any User"
+msgstr ""
+
+#: ../../source/cleopatra.rst:305
+# 8aa047e207f14c608cf5b641ca5c3bae
+msgid "SystemDetection - System Detection - Detect the Running Operating System"
+msgstr ""
+
+#: ../../source/cleopatra.rst:307
+# aa118363ed7943fba147d5702a33564f
+msgid "Teamcity - Teamcity - The Jetbrains Build Server"
+msgstr ""
+
+#: ../../source/cleopatra.rst:309
+# 65792fe1b48e41cb955fa5dd0cc68ca9
+msgid "Templating - Install files with placeholders or lines replaced at runtime"
+msgstr ""
+
+#: ../../source/cleopatra.rst:311
+# a318f755ffe14668b71fb9f522c6fee9
+msgid "Testingkamen - Upgrade or Re-install Testingkamen"
+msgstr ""
+
+#: ../../source/cleopatra.rst:313
+# 0d9ae854104043c0bda3a8895d697100
+msgid "ThoughtWorksGo - The Continuous Delivery server from ThoughtWorks"
+msgstr ""
+
+#: ../../source/cleopatra.rst:315
+# caa8ce952ffc463fb5bd3366c1f122df
+msgid "UbuntuCompiler - For Compiling Linux Programs"
+msgstr ""
+
+#: ../../source/cleopatra.rst:317
+# 6cdb35b3038f4414a5ef8a9439e1b92e
+msgid "User - Add, Remove or Modify Users"
+msgstr ""
+
+#: ../../source/cleopatra.rst:319
+# 68f3799b84504a8992d20d50ad5fe65a
+msgid "VNC - VNC - The Display Manager Solution"
+msgstr ""
+
+#: ../../source/cleopatra.rst:321
+# d3e486c0413e4c959d751d5bfab1217d
+msgid "VNCPasswd - VNCPasswd - The Display Manager Solution"
+msgstr ""
+
+#: ../../source/cleopatra.rst:323
+# fa419ef6b1cf462791c93aca1b68d914
+msgid "VSphere - VMWare VSphere - Server Management Functions"
+msgstr ""
+
+#: ../../source/cleopatra.rst:325
+# 7cf5fc2d81454ab4a764c12ff3ec6ab4
+msgid "Varnish - The HTTP Cache"
+msgstr ""
+
+#: ../../source/cleopatra.rst:327
+# 97723114bc97438c942dfb0717577d07
+msgid "Virtualbox - Virtualbox - The local Virtual Machine Solution"
+msgstr ""
+
+#: ../../source/cleopatra.rst:329
+# aa5bb4eeff1b40498a77ae67eb511aff
+msgid "WinExe - Add, Remove or Modify WinExes"
+msgstr ""
+
+#: ../../source/cleopatra.rst:331
+# eeeea1c65b844b9a8624a09595cbc54c
+msgid "WireframeSketcher - Wireframe Sketcher - the Wireframing application"
+msgstr ""
+
+#: ../../source/cleopatra.rst:333
+# 4b819df4f11345418fbb657f9fdf3951
+msgid "Xvfb - Xvfb - The Display Manager Solution"
+msgstr ""
+
+#: ../../source/cleopatra.rst:335
+# 002bd52395164b4ab77fe6895ba7d383
+msgid "Yum - Add, Remove or Modify Yum Packages"
+msgstr ""
+
+#: ../../source/cleopatra.rst:339
+# 53a1de12aca449cc9db8fe646c93efae
+msgid "How to Use"
+msgstr ""
+
+#: ../../source/cleopatra.rst:341
+# 6de01d2cf1e140578765da4fc0ef9461
+msgid "Let us see, how to use the Cleopatra tool, first, simply type as"
+msgstr ""
+
+#: ../../source/cleopatra.rst:348
+# 03d94576b3d3483fa580f18b5490faea
+msgid "this command will list all the names of the modules that are available under Cleopatra. here, the screenshot denotes the display of all modules available under Cleopatra."
+msgstr ""
+
+#: ../../source/cleopatra.rst:501
+# 3cc19fdfd8e348119984bc049fa74c0e
+msgid "Video Cast Instruction"
+msgstr ""
+
+#: ../../source/cleopatra.rst:515
+# cebc1c8b8cbf4ed8a9844dd0b45cfec4
+msgid "What You can Learn Here"
+msgstr ""
+
+#: ../../source/cleopatra.rst:517
+# 5a7a650f73024cac9096935f8f744267
+msgid "The Help command"
+msgstr ""
+
+#: ../../source/cleopatra.rst:519
+# 0bf5b7ac186643da9510ec425a4a6402
+msgid "If you want to know the purpose of a particular module, just type the command as follows:"
+msgstr ""
+
+#: ../../source/cleopatra.rst:521
+# 22d6adce7e3f4189bb979485c7cc2cbb
+msgid "cleopatra ModuleName help"
+msgstr ""
+
+#: ../../source/cleopatra.rst:523
+# 66722c22bf704f4b91a10bb536ef3f21
+msgid "this command will provide the usage of that particular module and also the available options in actions that you can perform. The screenshot shown under explains the usage of the module Behat under Cleopatra using the help command."
+msgstr ""
+
+#: ../../source/cleopatra.rst:546
+# 894596bc0889464c8f16ba5192e2a666
+msgid "Playing with Cleopatra Modules"
+msgstr ""
+

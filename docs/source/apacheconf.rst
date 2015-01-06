@@ -13,7 +13,7 @@ It is easier to install this particular tool under Cleopatra by simply using the
 
 .. code-block:: bash
  
- cleopatra apacheconf install
+  cleopatra apacheconf install
 
 After giving the command above, the tool will ask as
 
@@ -27,7 +27,7 @@ It will also throw some commands to specify the non-default values for LockFile,
 The screen shot given below explains visually about the steps and commands involves in installation.
 
 Options
-********
+-----------
 
 .. cssclass:: table-bordered
 
@@ -45,10 +45,8 @@ Options
 	+------------------------------------------------+------------+----------------------------+
 	| Install Apache conf? (Y/N) 	                 | N(NO)      |If the user gives input 	   |
 	|	                                 	 |            |as no, it will get	   |
-	|                                         	 |            |exit.|
+	|                                         	 |            |exit.|                      |
 	+------------------------------------------------+------------+----------------------------+
-
-
 Benefits to the users
 ----------------------
 

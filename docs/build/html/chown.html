@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Apache Module &mdash; KEVELLS 1.1.1 documentation</title>
+    <title>Chown &mdash; KEVELLS 1.1.1 documentation</title>
     
     <link rel="stylesheet" href="_static/basic.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -29,8 +29,8 @@
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="KEVELLS 1.1.1 documentation" href="index.html" />
     <link rel="up" title="Cleopatra" href="cleopatra.html" />
-    <link rel="next" title="Apache Reverse proxy modules" href="apachereverseproxy.html" />
-    <link rel="prev" title="ApacheConf" href="apacheconf.html" />
+    <link rel="next" title="VNC" href="vnc.html" />
+    <link rel="prev" title="Chgrp" href="chgrp.html" />
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
 <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
@@ -68,13 +68,12 @@
             <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Page <b class="caret"></b></a>
   <ul class="dropdown-menu localtoc"><ul>
-<li><a class="reference internal" href="#">Apache Module</a><ul>
-<li><a class="reference internal" href="#recap">Recap</a></li>
-<li><a class="reference internal" href="#installation">Installation</a></li>
-<li><a class="reference internal" href="#in-cent-os">In Cent Os:</a></li>
-<li><a class="reference internal" href="#benefits-to-the-users">Benefits to the users:</a></li>
-<li><a class="reference internal" href="#options">Options:</a></li>
+<li><a class="reference internal" href="#">Chown</a><ul>
+<li><a class="reference internal" href="#synopsis">SYNOPSIS</a></li>
 <li><a class="reference internal" href="#help-command">Help command:</a></li>
+<li><a class="reference internal" href="#installation">Installation</a></li>
+<li><a class="reference internal" href="#benefits-to-the-users">Benefits to the users</a></li>
+<li><a class="reference internal" href="#options">Options</a></li>
 </ul>
 </li>
 </ul>
@@ -83,14 +82,14 @@
           
           
             
-  <li><a href="apacheconf.html"
-         title="previous chapter">&laquo; ApacheConf</a></li>
-  <li><a href="apachereverseproxy.html"
-         title="next chapter">Apache Reverse proxy modules &raquo;</a></li>
+  <li><a href="chgrp.html"
+         title="previous chapter">&laquo; Chgrp</a></li>
+  <li><a href="vnc.html"
+         title="next chapter">VNC &raquo;</a></li>
           
           
             <li>
-  <a href="_sources/ApacheModules.txt"
+  <a href="_sources/chown.txt"
      rel="nofollow">Source</a></li>
           
         </ul>
@@ -108,77 +107,108 @@
   </div>
 
   
-  <div class="section" id="apache-module">
-<h1>Apache Module<a class="headerlink" href="#apache-module" title="Permalink to this headline">¶</a></h1>
-<div class="section" id="recap">
-<h2>Recap<a class="headerlink" href="#recap" title="Permalink to this headline">¶</a></h2>
-<p>This module facilitates to install the Apache modules. It specifies the configuration of your environment. The checking availability of modules is possible. It is comfort in Ubuntu as well as in Cent OS.</p>
+  <div class="section" id="chown">
+<h1>Chown<a class="headerlink" href="#chown" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="synopsis">
+<h2>SYNOPSIS<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
+<p>This module enables to change owner’s permission. It change the permission on individual file
+Or directory. Before that you must be aware of the default permission assigned to your files and directories at the time you create it.</p>
+</div>
+<div class="section" id="help-command">
+<h2>Help command:<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
+<p>This help command explains about the installation of a particular module. The help command is easy to operate by the end user. The following command guided the user about the installation.</p>
+<div class="highlight-bash"><div class="highlight"><pre>Cleopatra chown <span class="nb">help</span>
+</pre></div>
+</div>
+<p>After giving the command, the command will list the help options. The following screen shots will give visual effect for the usage of this module.</p>
+<div class="highlight-bash"><div class="highlight"><pre>Kevells@corp:/# cleopatra chown <span class="nb">help</span>
+******************************
+
+ This <span class="nb">command </span>handles file user ownership changing functions.
+
+  Chown, chown
+
+- path
+Will change the user ownership of a path
+example: cleopatra chown path --yes --guess --recursive --path<span class="o">=</span>/a/file/path --owner<span class="o">=</span>golden
+
+------------------------------
+End Help
+******************************
+</pre></div>
+</div>
 </div>
 <div class="section" id="installation">
 <h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
-<p>Installation is not a difficult process to install this module under Cleopatra by merely using the command given below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>Install apache-modules install
+<p>It is an excellent process for this module under Cleopatra by slightly using the command given below,</p>
+<div class="highlight-bash"><div class="highlight"><pre>Cleopatra chown path –yes—guess—recursive—path<span class="o">=</span>/Cleopatra—owner<span class="o">=</span>Kevells
 </pre></div>
 </div>
-<p>After giving the command it will ask,</p>
-<div class="highlight-bash"><div class="highlight"><pre>Install Apache module? <span class="o">(</span>Y/N<span class="o">)</span>
+<p>Then we can enter the input.
+Enter Ownership User
+After typing the owner name
+It will display Chown result success.
+This will visually shows by the following screen shot.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra chown path --yes --guess --recursive --path<span class="o">=</span>/phj.php --owner<span class="o">=</span>deepak
 
-If you give an input as ‘Y’, the module will be installed successfully.
-If you give an input as ‘N’, <span class="k">then</span> it will come out of the installation.
+Enter ownership user:
+deepak
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> <span class="o">[</span>Chown<span class="o">]</span> Executing chown -R deepak /phj.php
+******************************
+
+
+Chown Result: Success
+------------------------------
+Chown Finished
+******************************
 </pre></div>
 </div>
-</div>
-<div class="section" id="in-cent-os">
-<h2>In Cent Os:<a class="headerlink" href="#in-cent-os" title="Permalink to this headline">¶</a></h2>
-<p>It will be installed as configuration.
-Cleopatra apache modules install
-It will ask install Apache module Y/N?
-If you give the command “Y”
-It will check the dependencies and install it.
-If you give the command “N”
-It will return to the existing place.</p>
 </div>
 <div class="section" id="benefits-to-the-users">
-<h2>Benefits to the users:<a class="headerlink" href="#benefits-to-the-users" title="Permalink to this headline">¶</a></h2>
-<p>The module is an aid to Link with Cleopatra. While installing the Apache modules, it will acquiesce the configuration files.  If the configuration files are not available in the system this module will automatically install it. Separate Modules are available.</p>
+<h2>Benefits to the users<a class="headerlink" href="#benefits-to-the-users" title="Permalink to this headline">¶</a></h2>
+<p>The module can change the owner at any time with Cleopatra. While doing recursive process if you change single file the entire folder can also be changed. We can verify the current status of the owner.</p>
 </div>
 <div class="section" id="options">
-<h2>Options:<a class="headerlink" href="#options" title="Permalink to this headline">¶</a></h2>
-<table border="1" class="docutils" id="making-a-table">
+<h2>Options<a class="headerlink" href="#options" title="Permalink to this headline">¶</a></h2>
+<table border="1" class="table-bordered docutils">
 <colgroup>
+<col width="41%" />
+<col width="10%" />
+<col width="24%" />
 <col width="25%" />
-<col width="25%" />
-<col width="50%" />
 </colgroup>
 <thead valign="bottom">
 <tr class="row-odd"><th class="head">Parameters</th>
 <th class="head">Required</th>
+<th class="head">option</th>
 <th class="head">Comments</th>
 </tr>
 </thead>
 <tbody valign="top">
-<tr class="row-even"><td>Install</td>
+<tr class="row-even"><td>Chown</td>
 <td>Yes</td>
-<td>It will install the apache module under Cleopatra</td>
+<td></td>
+<td id="id1">&nbsp;</td>
 </tr>
-<tr class="row-odd"><td>Install Apache Module? (Y/N)</td>
+<tr class="row-odd"><td>Path</td>
 <td>Yes</td>
-<td>If the user gives input as yes, it will install the module.</td>
+<td></td>
+<td id="id2">The user has to give the
+path</td>
 </tr>
-<tr class="row-even"><td>Install Apache Module? (Y/N)</td>
+<tr class="row-even"><td>Owner</td>
+<td>Yes</td>
+<td>Chown</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row-odd"><td>Owner</td>
 <td>No</td>
-<td>If the user gives input as no, it will be exited.</td>
+<td>Chown</td>
+<td>The user gives input as no,
+it will ask the owner name|</td>
 </tr>
 </tbody>
 </table>
-</div>
-<div class="section" id="help-command">
-<h2>Help command:<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
-<p>This help command explains about the installation of a particular module. The help command is easy to operate by the end user. The following command guided the user about the installation.
-.. code-block:: bash</p>
-<blockquote>
-<div>Cleopatra apache modules help</div></blockquote>
-<p>After giving the command, the command will list the help options. The following screen shots will give visual effect for the usage of this module.</p>
 </div>
 </div>
 

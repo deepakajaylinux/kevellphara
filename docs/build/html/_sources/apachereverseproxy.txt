@@ -8,7 +8,7 @@ Synopsis
 This module aims at installing the library functions. While installing the library functions, it will check the availability of already existing library functions. It helps in managing and configuring the application settings. The user can specify the default values for application settings.
 
 Help command
-~~~~~~~~~~~~~
+----------------
 
 The help command guides the user get aware of the uses, and also the options and actions that can be performed.
 The coding to make use of help command under Apache Reverse proxy module, is given as follows
@@ -40,7 +40,7 @@ The screen shot shown below gives you an pictorial representation of help comman
 
 
 Installation
-~~~~~~~~~~~~~
+---------------
 
 .. cssclass:: table-bordered
 

@@ -67,7 +67,6 @@ This module installs the mysql tools that supports the mysql server with the aid
 The Screen shot as shown below gives you an graphical presentation regarding the steps as explained above.
 
 It will also specifies the name of tools that are installed, for example
-
 .. rubric:: mysql-server-core-5.5:amd64, mysql-server-5.5: amd64, libaio1:amd64, mysql-server:amd64.
 
 Benefits

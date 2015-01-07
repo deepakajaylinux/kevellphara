@@ -558,6 +558,7 @@ Playing with Cleopatra Modules
    mysqlserver
    mysqladmin
    mysqltool
+   phpconf
    vnc
 
 

@@ -33,26 +33,31 @@ After inputting the command as shown above the following operations occurs as sh
 
 
 
+Options
+--------
+
 .. cssclass:: table-bordered
- 
-	+------------------------+--------------------------- +------------+----------------------------+
-        |    Parameters          | Alternative Parameter      | Options    | Comment                    |
-        +========================+============================+============+============================+
-        | Install PHPConf? (Y/N) | In Spite of PHP Conf these |            | If the user wish to        |
-        | 		         | alternative names can be   | Y(YES)     | proceed the installation   |
-        |        	         | used: php-configure,       |            | process they can input as Y|
-        |                        | php-configuration,         |            |			        |
-        | 		         | php-conf, phpconf          |            |			        |
-        +------------------------+----------------------------+------------+----------------------------+ 
-        | Install PHPConf? (Y/N) | In Spite of PHP Conf these | N(NO)      | If the user inputs as N,the|
-        |                        | alternative names can be   |            | process will gets quit from| 
-        |                        | used: php-configure,       |            | installation               |
-        | 		         | php-configuration,         |	           |		                | 
-        |                        | php-conf, phpconf          |            |                            |
-        +------------------------+----------------------------+------------+----------------------------+
+
+
+        +-------------------------------+------------------------------+--------------------------+------------------------------+
+        |    Parameters        		| Parameter                    | Required  		  | Comment                      |
+        +===============================+==============================+==========================+==============================+
+        |Install PHPConf?(Y/N) 		| In Spite of PHP              |           		  |If the user wish to 	         |
+        |                      		| Conf these alternative       |Y(YES)     		  |proceed the nstallation       |
+        |         	       		| names can be used:           |              		  |process they can input as Y   |
+        |                      		| php-configure, php-conf      |           		  |	                         |
+        |    		       		| php-configuration,           |                  	  |			         |
+        |          			| phpconf              	       |            		  |           		         |
+        +-------------------------------+------------------------------+--------------------------+------------------------------+ 
+        |Install PHPConf? (Y/N)		| In Spite of PHP              | Y(Yes)                   |If the user wish to           |
+        |                      		| Conf these alternative       |                          |quit the installation	 | 
+        |                               | names can be used:           |                          |process they can  	         |
+        |		        	| php-configure, php-conf      |	                  |input as N.|                  |
+	+-------------------------------+------------------------------+--------------------------+------------------------------+
 
 
 If the user proceeds the installation process, while executing the installation, the module specifies the default value of configuration and also enquires the user to mention the non-default values for configuration as per their requirements. The specifications for configuration while installing is listed below:
+
 * Value for user_ini.filename
 * value for user_ini.cache_ttl?
 * Value for engine.

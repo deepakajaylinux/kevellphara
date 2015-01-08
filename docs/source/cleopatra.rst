@@ -558,7 +558,14 @@ Playing with Cleopatra Modules
    mysqlserver
    mysqladmin
    mysqltool
+   ngnix
+   parrallax
    phpconf
+   phpcs
+   python
+   sshharden
+   teamcity
+   testingkamen
    vnc
 
 

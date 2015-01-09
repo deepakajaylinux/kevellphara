@@ -559,6 +559,7 @@ Playing with Cleopatra Modules
    lighthttpd
    mediatool
    mkdir
+   mongodb
    mysqlserver
    mysqladmin
    mysqltool
@@ -566,15 +567,19 @@ Playing with Cleopatra Modules
    parrallax
    phpconf
    phpcs
+   cleophlagrant
    port
    postgresserver
    python
+   service
    sshharden
    sudonopass
    systemdetectio
    teamcity
    testingkamen
+   ubuntucompiler   
    varnish
+   virtualbox
    vnc
 
 

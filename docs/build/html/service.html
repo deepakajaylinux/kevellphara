@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Service &mdash; KEVELLS 1.1.1 documentation</title>
+    
+    <link rel="stylesheet" href="_static/basic.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="_static/css/bootstrap-2.2.1.min.css" type="text/css" />
+    <link rel="stylesheet" href="_static/bootstrap-sphinx.css" type="text/css" />
+    <link rel="stylesheet" href="_static/css/bootstrap-responsive-2.2.1.min.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '1.1.1',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
+    <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
+    <link rel="top" title="KEVELLS 1.1.1 documentation" href="index.html" />
+    <link rel="up" title="Cleopatra" href="cleopatra.html" />
+    <link rel="next" title="Ssh Harden" href="sshharden.html" />
+    <link rel="prev" title="Python" href="python.html" />
+<meta charset='utf-8'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+  </head>
+  <body>
+<div class="container">
+  
+  <div id="navbar" class="navbar navbar-fixed-top">
+    <div class="navbar-inner">
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+
+
+<a class="brand" href="index.html"><img src="_static/img/imgo.jpeg " border="0" alt="py4sci"/>KEVELLS</a>
+
+
+      <div class="nav-collapse">
+        <ul class="nav" style="margin: 4px 10px 0px 0px;">
+          <li class="divider-vertical"></li>
+          
+            <li class="dropdown">
+  <a href="index.html" class="dropdown-toggle" data-toggle="dropdown">Site <b class="caret"></b></a>
+  <ul class="dropdown-menu globaltoc"><ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="cleopatra.html">Cleopatra</a></li>
+<li class="toctree-l1"><a class="reference internal" href="phlagrant.html">Phlagrant</a></li>
+</ul>
+</ul>
+</li>
+            <li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Page <b class="caret"></b></a>
+  <ul class="dropdown-menu localtoc"><ul>
+<li><a class="reference internal" href="#">Service</a><ul>
+<li><a class="reference internal" href="#synopsis">Synopsis</a></li>
+<li><a class="reference internal" href="#help-command">Help command</a></li>
+<li><a class="reference internal" href="#options">Options</a></li>
+<li><a class="reference internal" href="#benefits">Benefits</a></li>
+</ul>
+</li>
+</ul>
+</ul>
+</li>
+          
+          
+            
+  <li><a href="python.html"
+         title="previous chapter">&laquo; Python</a></li>
+  <li><a href="sshharden.html"
+         title="next chapter">Ssh Harden &raquo;</a></li>
+          
+          
+          <!--  <li>
+  <a href="_sources/service.txt"
+     rel="nofollow">Source</a></li> -->
+          
+        </ul>
+
+        
+          
+<form class="navbar-search pull-right" style="margin-bottom:-3px;" action="search.html" method="get">
+  <input type="text" name="q" placeholder="Search" />
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form>
+        
+      </div>
+    </div>
+  </div>
+
+  
+  <div class="section" id="service">
+<h1>Service<a class="headerlink" href="#service" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="synopsis">
+<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
+<p>This module facilitates the current status of file in the system. It can mention the status as running or not. Automation is possible. This module specify the configuration of your environment. It is user friendly with Ubuntu and cent OS.</p>
+</div>
+<div class="section" id="help-command">
+<h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
+<p>Help command used to find information about a specified command. For more information about changes to functionality of service we can use this help command. The following screen shot will guide you.</p>
+<div class="highlight-bash"><div class="highlight"><pre>cleopatra Service <span class="nb">help</span>
+</pre></div>
+</div>
+<div class="highlight-bash"><div class="highlight"><pre>Kevells@corp:~# cleopatra Service <span class="nb">help</span>
+
+******************************
+
+
+  This <span class="nb">command </span>allows you to view or modify service
+
+  Service, service
+
+- start
+Start a system service
+example: cleopatra service start --service-name<span class="o">=</span><span class="s2">&quot;apache2&quot;</span>
+
+- stop
+Stop a system service
+example: cleopatra service restart --service-name<span class="o">=</span><span class="s2">&quot;apache2&quot;</span>
+
+- restart
+Restart a system service
+example: cleopatra service restart --service-name<span class="o">=</span><span class="s2">&quot;apache2&quot;</span>
+
+- ensure-running
+Ensure a system service is running. If it is already running, dont attempt to start it
+If it is not running, start it
+example: cleopatra service ensure-running --service-name<span class="o">=</span><span class="s2">&quot;apache2&quot;</span>
+
+- is-running
+Checks whether a system service is running.
+example: cleopatra service is-running --service-name<span class="o">=</span><span class="s2">&quot;apache2&quot;</span>
+
+- run-at-reboots
+Ensure a system service will auto start on reboots.
+example: cleopatra service run-at-reboots --service-name<span class="o">=</span><span class="s2">&quot;apache2&quot;</span>
+
+------------------------------
+End Help
+******************************
+</pre></div>
+</div>
+</div>
+<div class="section" id="options">
+<h2>Options<a class="headerlink" href="#options" title="Permalink to this headline">¶</a></h2>
+<table border="1" class="table-bordered docutils">
+<colgroup>
+<col width="17%" />
+<col width="40%" />
+<col width="43%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head">Parameters</th>
+<th class="head">Functions</th>
+<th class="head">Comment</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td>start</td>
+<td>Start a system  service</td>
+<td>Cleopatra service start –service-name=”apache2”</td>
+</tr>
+<tr class="row-odd"><td>stop</td>
+<td>Stop asystem service</td>
+<td>Cleopatra service stop –service-name=”apache2”</td>
+</tr>
+<tr class="row-even"><td>Restart</td>
+<td>Restart a system  service</td>
+<td>Cleopatra service restart –service-name=”apache2”</td>
+</tr>
+<tr class="row-odd"><td>Ensure-running</td>
+<td>Ensure a system service is running.In case of not
+running start it else don’t attempt</td>
+<td>Cleopatra service ensure-running –service-name=”apache2”</td>
+</tr>
+<tr class="row-even"><td>Is-running</td>
+<td>Check whether a system service is running or not
+running start it else don’t attempt</td>
+<td>Cleopatra service is-running –service-name=”apache2”</td>
+</tr>
+<tr class="row-odd"><td>Run-at-reboots</td>
+<td>Ensure a system service auto start on reboots</td>
+<td>Cleopatra service run-at-reboots –service-name=”apache2|</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="benefits">
+<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>The user can check the system working status at any time.</li>
+<li>Service provides to exchange data among the system.</li>
+<li>It permits the sharing of the resources of the machine</li>
+<li>Service also provides the function of back-up.</li>
+<li>Service provides a flexible networking environment.</li>
+<li>This involves coordination of distributed data.</li>
+</ul>
+</div>
+</div>
+
+
+</div>
+<footer class="footer">
+  <div class="container">
+    <p class="pull-right">
+      <a href="#">Back to top</a>
+      
+    </p>
+    <p>
+        &copy; Copyright 2015, kevell.<br/>
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2.3.<br/>
+    </p>
+  </div>
+</footer>
+  </body>
+</html>

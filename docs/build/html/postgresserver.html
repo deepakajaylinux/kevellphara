@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Firewall &mdash; KEVELLS 1.1.1 documentation</title>
+    <title>PostgresServer &mdash; KEVELLS 1.1.1 documentation</title>
     
     <link rel="stylesheet" href="_static/basic.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -29,8 +29,8 @@
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="KEVELLS 1.1.1 documentation" href="index.html" />
     <link rel="up" title="Cleopatra" href="cleopatra.html" />
-    <link rel="next" title="LigHTTPDServer module" href="lighthttpd.html" />
-    <link rel="prev" title="Cleopatra" href="cleo.html" />
+    <link rel="next" title="Python" href="python.html" />
+    <link rel="prev" title="Port" href="port.html" />
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
 <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
@@ -68,9 +68,10 @@
             <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Page <b class="caret"></b></a>
   <ul class="dropdown-menu localtoc"><ul>
-<li><a class="reference internal" href="#">Firewall</a><ul>
+<li><a class="reference internal" href="#">PostgresServer</a><ul>
 <li><a class="reference internal" href="#synopsis">Synopsis</a></li>
-<li><a class="reference internal" href="#help-command">Help command</a></li>
+<li><a class="reference internal" href="#help-command">Help Command</a></li>
+<li><a class="reference internal" href="#installation">Installation</a></li>
 <li><a class="reference internal" href="#options">Options</a></li>
 <li><a class="reference internal" href="#benefits">Benefits</a></li>
 </ul>
@@ -81,14 +82,14 @@
           
           
             
-  <li><a href="cleo.html"
-         title="previous chapter">&laquo; Cleopatra</a></li>
-  <li><a href="lighthttpd.html"
-         title="next chapter">LigHTTPDServer  module &raquo;</a></li>
+  <li><a href="port.html"
+         title="previous chapter">&laquo; Port</a></li>
+  <li><a href="python.html"
+         title="next chapter">Python &raquo;</a></li>
           
           
           <!--  <li>
-  <a href="_sources/firewall.txt"
+  <a href="_sources/postgresserver.txt"
      rel="nofollow">Source</a></li> -->
           
         </ul>
@@ -106,87 +107,80 @@
   </div>
 
   
-  <div class="section" id="firewall">
-<h1>Firewall<a class="headerlink" href="#firewall" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="postgresserver">
+<h1>PostgresServer<a class="headerlink" href="#postgresserver" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="synopsis">
 <h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
-<p>A firewall is a network security system that controls the incoming and outgoing network traffic based on an applied rule set. Firewalls exist both as a software solution and as a hardware appliance.</p>
+<p>PostgresServer is a general purpose and object-relational database management system. Use to install database. PostgresServer designed to run on LINUX-like platforms. However, PostgresServer is portable so that it could run on various platforms such as Mac OS X, Solaris and Windows.
+It allows you to add custom functions developed using different programming languages such as C/C++, Java, etc.</p>
 </div>
 <div class="section" id="help-command">
-<h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
-<p>This help command assist the user about Cleopatra. It guides the user permission.
-The user can do the modification as per wish. Help image will guide the user. Let’s visualize it.</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra Firewall <span class="nb">help</span>
+<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
+<p>This command helps to determine the usage of PostgresServer module. User will come to know about the different ways/format to execute this module. This command will guide the end user to know when and how the command to be used. Below given are the command and the screenshot of the same.</p>
+<div class="highlight-bash"><div class="highlight"><pre>Cleapatra PostgresServer <span class="nb">help</span>
+</pre></div>
+</div>
+<div class="highlight-bash"><div class="highlight"><pre>root@deepak:~# cleopatra PostgresServer  <span class="nb">help</span>
+******************************
+
+
+This <span class="nb">command </span>allows you to install the Postgres Server. Currently only
+Postgres Workbench, the Database management GUI provided by Oracle <span class="k">for</span>
+Postgres.
+
+PostgresServer, postgres-server, postgresserver
+
+- install
+Install some Postgres Server Tools through apt-get.
+example: cleopatra postgres-server install
+
+Notes, during postgres install a root password will be set. First, it<span class="s1">&#39;ll look</span>
+<span class="s1">for the parameter --postgres-root-pass, if this is not set, it&#39;</span>ll look in the
+cleopatra config <span class="k">for</span> a postgres-default-root-pass setting, and failing both of
+those it will just <span class="nb">set </span>the password <span class="k">for</span> root to cleopatra.
+
+------------------------------
+End Help
+******************************
+</pre></div>
+</div>
+</div>
+<div class="section" id="installation">
+<h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
+<p>When the user needs to install the module in machine. The below given command will execute the process of installation.</p>
+<div class="highlight-bash"><div class="highlight"><pre>Cleapatra PostgresServer install
 </pre></div>
 </div>
 </div>
 <div class="section" id="options">
 <h2>Options<a class="headerlink" href="#options" title="Permalink to this headline">¶</a></h2>
-<p>Firewalls rules can be customized as per your needs, requirements &amp; security threat levels. The user can create or disable firewall rules based on such conditions as:</p>
 <table border="1" class="table-bordered docutils">
 <colgroup>
-<col width="20%" />
-<col width="33%" />
-<col width="47%" />
+<col width="31%" />
+<col width="22%" />
+<col width="15%" />
+<col width="32%" />
 </colgroup>
 <thead valign="bottom">
 <tr class="row-odd"><th class="head">Parameters</th>
-<th class="head">Function</th>
+<th class="head">Alternative Parameter</th>
+<th class="head">Options</th>
 <th class="head">Comment</th>
 </tr>
 </thead>
 <tbody valign="top">
-<tr class="row-even"><td>IP address</td>
-<td>Blocking off a certain IP address
-or a range of IP addresses,
-which you think are predatory</td>
-<td>&nbsp;</td>
+<tr class="row-even"><td>Cleopatra postgres-server Install</td>
+<td>PostgresServer,
+postgresserver,
+postgres-server</td>
+<td>Y</td>
+<td>System starts installation process</td>
 </tr>
-<tr class="row-odd"><td>Enable</td>
-<td>Enable system firewall</td>
-<td>Cleopatra firewall enable</td>
-</tr>
-<tr class="row-even"><td>Disable</td>
-<td>Disable system firewall</td>
-<td>Cleopatra firewall disable</td>
-</tr>
-<tr class="row-odd"><td>Allow</td>
-<td>Allow firewall rule</td>
-<td>Cleopatra firewall allow –firewall-rule=”ssh/tcp”</td>
-</tr>
-<tr class="row-even"><td>Deny</td>
-<td>Allow connection attempt to be
-ignored and time out</td>
-<td>Cleopatra firewall deny –firewall-rule=”ssh/tcp”</td>
-</tr>
-<tr class="row-odd"><td>Reject</td>
-<td>Terminate connection attempts with
-an error to the connector</td>
-<td>Cleopatra firewall reject –firewall-rule=”ssh/tcp”</td>
-</tr>
-<tr class="row-even"><td>Limit</td>
-<td>Ufw will deny connections if an IP
-address has initiate 6 or attempted
-to more connection in the last 30
-seconds.</td>
-<td>Cleopatra firewall limit –firewall-rule=”ssh/tcp”</td>
-</tr>
-<tr class="row-odd"><td>Delete</td>
-<td>Delete a firewall rule</td>
-<td>Cleopatra firewall delete –firewall-rule=”ssh/tcp”</td>
-</tr>
-<tr class="row-even"><td>Insert</td>
-<td>Insert a  firewall rule</td>
-<td>Cleopatra firewall insert –firewall-rule=”ssh/tcp”</td>
-</tr>
-<tr class="row-odd"><td>Reset</td>
-<td>Reset a firewall rule</td>
-<td>Cleopatra firewall reset –firewall-rule=”ssh/tcp”</td>
-</tr>
-<tr class="row-even"><td>default</td>
-<td>Default policy, should be allow,
-deny or reject.</td>
-<td>Cleopatra firewall default – policy=”deny”</td>
+<tr class="row-odd"><td>Cleopatra postgres-server Install</td>
+<td>PostgresServer,postgres
+server,postgres-server|</td>
+<td>N</td>
+<td>System stops  installation process</td>
 </tr>
 </tbody>
 </table>
@@ -194,10 +188,12 @@ deny or reject.</td>
 <div class="section" id="benefits">
 <h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li>The firewall prevents unwanted access to the system over a network connection by identifying and preventing communication over risky ports.</li>
-<li>System communicate over many different recognized ports, and the firewall will tend to permit these without prompting or alerting the user.</li>
-<li>Firewalls can also detect &#8220;suspicious&#8221; activity from the outside.</li>
-<li>The user can set their rule according to their wish.</li>
+<li>User-defined types</li>
+<li>Table inheritance</li>
+<li>Sophisticated locking mechanism</li>
+<li>Views, rules, sub-select</li>
+<li>Nested transactions (save points)</li>
+<li>Point-in-time recovery</li>
 </ul>
 </div>
 </div>

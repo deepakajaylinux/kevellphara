@@ -23,53 +23,53 @@ Options
 Firewalls rules can be customized as per your needs, requirements & security threat levels. The user can create or disable firewall rules based on such conditions as:
 
 
-parameter
-functions
-Comments
-IP address
-Blocking off a certain IP address or a range of IP addresses, which you think are predatory
+.. cssclass:: table-bordered
 
-Enable
-Enable system firewall
-Cleopatra firewall enable
-Disable
-Disable system firewall
-Cleopatra firewall disable
-Allow
-Allow firewall rule
-Cleopatra firewall allow –firewall-rule=”ssh/tcp”
-Deny
-Allow connection attempt to be ignored and time out
-Cleopatra firewall deny –firewall-rule=”ssh/tcp”
-Reject
-Terminate connection attempts with an error to the connector
-Cleopatra firewall reject –firewall-rule=”ssh/tcp”
-Limit
-Ufw will deny connections if an IP address has initiate 6  or attempted to more connection in the last 30 seconds.
-Cleopatra firewall limit –firewall-rule=”ssh/tcp”
-Delete
-Delete a firewall rule
-Cleopatra firewall delete –firewall-rule=”ssh/tcp”
-Insert
-Insert a  firewall rule
-Cleopatra firewall insert –firewall-rule=”ssh/tcp”
-Reset
-Reset a firewall rule
-Cleopatra firewall reset –firewall-rule=”ssh/tcp”
-default
-Default policy, should be allow, deny or reject.
-Cleopatra firewall default – policy=”deny”
-
+ 	+---------------------+-----------------------------------+--------------------------------------------------+
+        |    Parameters       | Function                          | Comment                                          |
+        +=====================+===================================+==================================================+
+        |IP address	      |Blocking off a certain IP address  |						     |
+	|                     |or a range of IP addresses,        |						     |
+        |		      |which you think are predatory	  |						     |
+	+---------------------+-----------------------------------+--------------------------------------------------+
+        |Enable		      |Enable system firewall  	      	  |Cleopatra firewall enable			     |
+	+---------------------+-----------------------------------+--------------------------------------------------+
+	|Disable	      |Disable system firewall		  |Cleopatra firewall disable			     |
+	+---------------------+-----------------------------------+--------------------------------------------------+
+	|Allow		      |Allow firewall rule		  |Cleopatra firewall allow –firewall-rule=”ssh/tcp” |
+	+---------------------+-----------------------------------+--------------------------------------------------+
+	|Deny		      |Allow connection attempt to be 	  |Cleopatra firewall deny –firewall-rule=”ssh/tcp”  |
+        |		      |ignored and time out               |						     |
+	+---------------------+-----------------------------------+--------------------------------------------------+
+	|Reject		      |Terminate connection attempts with |Cleopatra firewall reject –firewall-rule=”ssh/tcp”|
+        |		      |an error to the connector	  |						     |
+	+---------------------+-----------------------------------+--------------------------------------------------+
+	|Limit		      |Ufw will deny connections if an IP |Cleopatra firewall limit –firewall-rule=”ssh/tcp” |
+        |		      |address has initiate 6 or attempted|						     |
+        |		      |to more connection in the last 30  |						     |
+	|		      |seconds.				  |						     |
+	+---------------------+-----------------------------------+--------------------------------------------------+
+	|Delete		      |Delete a firewall rule		  |Cleopatra firewall delete –firewall-rule=”ssh/tcp”|
+	+---------------------+-----------------------------------+--------------------------------------------------+
+	|Insert       	      |Insert a  firewall rule		  |Cleopatra firewall insert –firewall-rule=”ssh/tcp”|
+	+---------------------+-----------------------------------+--------------------------------------------------+
+	|Reset		      |Reset a firewall rule		  |Cleopatra firewall reset –firewall-rule=”ssh/tcp” |
+	+---------------------+-----------------------------------+--------------------------------------------------+
+	|default	      |Default policy, should be allow,   |Cleopatra firewall default – policy=”deny”        |
+        |		      |deny or reject.   	          |		   	  	   	   	     |
+	+---------------------+-----------------------------------+--------------------------------------------------+
 
 
 
 Benefits
-The firewall prevents unwanted access to the system over a network connection by identifying and preventing communication over risky ports.
+------------
 
-System communicate over many different recognized ports, and the firewall will tend to permit these without prompting or alerting the user.
+* The firewall prevents unwanted access to the system over a network connection by identifying and preventing communication over risky ports.
 
-Firewalls can also detect "suspicious" activity from the outside.
+* System communicate over many different recognized ports, and the firewall will tend to permit these without prompting or alerting the user.
 
-The user can set their rule according to their wish.
+* Firewalls can also detect "suspicious" activity from the outside.
+
+* The user can set their rule according to their wish.
 
 

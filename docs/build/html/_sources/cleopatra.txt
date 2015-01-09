@@ -555,6 +555,7 @@ Playing with Cleopatra Modules
    chgrp
    chown
    cleo
+   firewall
    lighthttpd
    mysqlserver
    mysqladmin
@@ -564,8 +565,11 @@ Playing with Cleopatra Modules
    phpconf
    phpcs
    port
+   postgresserver
    python
    sshharden
+   sudonopass
+   systemdetectio
    teamcity
    testingkamen
    vnc

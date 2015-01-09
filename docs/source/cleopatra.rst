@@ -555,6 +555,7 @@ Playing with Cleopatra Modules
    chgrp
    chown
    cleo
+   lighthttpd
    mysqlserver
    mysqladmin
    mysqltool
@@ -562,6 +563,7 @@ Playing with Cleopatra Modules
    parrallax
    phpconf
    phpcs
+   port
    python
    sshharden
    teamcity

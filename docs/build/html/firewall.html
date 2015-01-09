@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Firewall &mdash; KEVELLS 1.1.1 documentation</title>
+    
+    <link rel="stylesheet" href="_static/basic.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="_static/css/bootstrap-2.2.1.min.css" type="text/css" />
+    <link rel="stylesheet" href="_static/bootstrap-sphinx.css" type="text/css" />
+    <link rel="stylesheet" href="_static/css/bootstrap-responsive-2.2.1.min.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '1.1.1',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
+    <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
+    <link rel="top" title="KEVELLS 1.1.1 documentation" href="index.html" />
+<meta charset='utf-8'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+  </head>
+  <body>
+<div class="container">
+  
+  <div id="navbar" class="navbar navbar-fixed-top">
+    <div class="navbar-inner">
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+
+
+<a class="brand" href="index.html"><img src="_static/img/imgo.jpeg " border="0" alt="py4sci"/>KEVELLS</a>
+
+
+      <div class="nav-collapse">
+        <ul class="nav" style="margin: 4px 10px 0px 0px;">
+          <li class="divider-vertical"></li>
+          
+            <li class="dropdown">
+  <a href="index.html" class="dropdown-toggle" data-toggle="dropdown">Site <b class="caret"></b></a>
+  <ul class="dropdown-menu globaltoc"><ul>
+<li class="toctree-l1"><a class="reference internal" href="cleopatra.html">Cleopatra</a></li>
+<li class="toctree-l1"><a class="reference internal" href="phlagrant.html">Phlagrant</a></li>
+</ul>
+</ul>
+</li>
+            <li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Page <b class="caret"></b></a>
+  <ul class="dropdown-menu localtoc"><ul>
+<li><a class="reference internal" href="#">Firewall</a><ul>
+<li><a class="reference internal" href="#synopsis">Synopsis</a></li>
+<li><a class="reference internal" href="#help-command">Help command</a></li>
+<li><a class="reference internal" href="#options">Options</a></li>
+</ul>
+</li>
+</ul>
+</ul>
+</li>
+          
+          
+            
+          
+          
+          <!--  <li>
+  <a href="_sources/firewall.txt"
+     rel="nofollow">Source</a></li> -->
+          
+        </ul>
+
+        
+          
+<form class="navbar-search pull-right" style="margin-bottom:-3px;" action="search.html" method="get">
+  <input type="text" name="q" placeholder="Search" />
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form>
+        
+      </div>
+    </div>
+  </div>
+
+  
+  <div class="section" id="firewall">
+<h1>Firewall<a class="headerlink" href="#firewall" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="synopsis">
+<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
+<p>A firewall is a network security system that controls the incoming and outgoing network traffic based on an applied rule set. Firewalls exist both as a software solution and as a hardware appliance.</p>
+</div>
+<div class="section" id="help-command">
+<h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
+<p>This help command assist the user about Cleopatra. It guides the user permission.
+The user can do the modification as per wish. Help image will guide the user. Let’s visualize it.</p>
+<div class="highlight-bash"><div class="highlight"><pre>cleopatra Firewall <span class="nb">help</span>
+</pre></div>
+</div>
+</div>
+<div class="section" id="options">
+<h2>Options<a class="headerlink" href="#options" title="Permalink to this headline">¶</a></h2>
+<p>Firewalls rules can be customized as per your needs, requirements &amp; security threat levels. The user can create or disable firewall rules based on such conditions as:</p>
+<p>parameter
+functions
+Comments
+IP address
+Blocking off a certain IP address or a range of IP addresses, which you think are predatory</p>
+<p>Enable
+Enable system firewall
+Cleopatra firewall enable
+Disable
+Disable system firewall
+Cleopatra firewall disable
+Allow
+Allow firewall rule
+Cleopatra firewall allow –firewall-rule=”ssh/tcp”
+Deny
+Allow connection attempt to be ignored and time out
+Cleopatra firewall deny –firewall-rule=”ssh/tcp”
+Reject
+Terminate connection attempts with an error to the connector
+Cleopatra firewall reject –firewall-rule=”ssh/tcp”
+Limit
+Ufw will deny connections if an IP address has initiate 6  or attempted to more connection in the last 30 seconds.
+Cleopatra firewall limit –firewall-rule=”ssh/tcp”
+Delete
+Delete a firewall rule
+Cleopatra firewall delete –firewall-rule=”ssh/tcp”
+Insert
+Insert a  firewall rule
+Cleopatra firewall insert –firewall-rule=”ssh/tcp”
+Reset
+Reset a firewall rule
+Cleopatra firewall reset –firewall-rule=”ssh/tcp”
+default
+Default policy, should be allow, deny or reject.
+Cleopatra firewall default – policy=”deny”</p>
+<p>Benefits
+The firewall prevents unwanted access to the system over a network connection by identifying and preventing communication over risky ports.</p>
+<p>System communicate over many different recognized ports, and the firewall will tend to permit these without prompting or alerting the user.</p>
+<p>Firewalls can also detect &#8220;suspicious&#8221; activity from the outside.</p>
+<p>The user can set their rule according to their wish.</p>
+</div>
+</div>
+
+
+</div>
+<footer class="footer">
+  <div class="container">
+    <p class="pull-right">
+      <a href="#">Back to top</a>
+      
+    </p>
+    <p>
+        &copy; Copyright 2015, kevell.<br/>
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2.3.<br/>
+    </p>
+  </div>
+</footer>
+  </body>
+</html>

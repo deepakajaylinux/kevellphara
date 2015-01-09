@@ -557,6 +557,8 @@ Playing with Cleopatra Modules
    cleo
    firewall
    lighthttpd
+   mediatool
+   mkdir
    mysqlserver
    mysqladmin
    mysqltool
@@ -572,6 +574,7 @@ Playing with Cleopatra Modules
    systemdetectio
    teamcity
    testingkamen
+   varnish
    vnc
 
 

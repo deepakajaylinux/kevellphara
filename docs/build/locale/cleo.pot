@@ -1,0 +1,135 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELLS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELLS 1.1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-10 05:29+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/cleo.rst:3
+# 0766f887db4347b492fe7edd88e3803c
+msgid "Cleopatra"
+msgstr ""
+
+#: ../../source/cleo.rst:6
+# 9123586cf7eb477582349085d326fe59
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/cleo.rst:8
+# 5b390120c81c4cafbbb75a986d43390d
+msgid "This module lift installation in updated version. In case of file corrupted we can install Cleopatra. Automation is possible.  Data directory and executor directory can specify while installing in this module. It specifies the configuration of your environment. It is user friendly with Ubuntu and cent OS."
+msgstr ""
+
+#: ../../source/cleo.rst:12
+# 75044ccdcd5f4d21a273f74dfb89c75f
+msgid "Help command"
+msgstr ""
+
+#: ../../source/cleo.rst:13
+# 36f9eeae8f354edca473463e711b4eff
+msgid "This help command guide the user about Cleopatra. It is time consuming because it can installed automatically. Suitable for all type of user. The following help command will assist the user for installation."
+msgstr ""
+
+#: ../../source/cleo.rst:17
+# 160b5144364c43adac217dd05ae93d40
+msgid "Installation"
+msgstr ""
+
+#: ../../source/cleo.rst:18
+# eee5cdc20bb14af1888c61613b24cdf2
+msgid "It is a noticeable process to install Cleopatra module under Cleopatra by just using the command given below,"
+msgstr ""
+
+#: ../../source/cleo.rst:24
+# a46afc32488648bdbd34dde664e20b43
+msgid "After giving the command the Cleopatra will be installed with new updates. The user input has passed then will check if any file is missing it will install automatically. The following screen shot enumerate it."
+msgstr ""
+
+#: ../../source/cleo.rst:28
+# da4c2b41258f42de968f700d3d9b3c59
+msgid "If the user gives input as No the following screen will appear."
+msgstr ""
+
+#: ../../source/cleo.rst:31
+# 003ca5292b0e4a9eb65aa7fe89974789
+msgid "Options"
+msgstr ""
+
+#: ../../source/cleo.rst:37
+# afeb020309f54c5b9824f845c9d4f00a
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/cleo.rst:37
+# 9525077a71084e249f322eb1feee63e1
+msgid "Directory(default)"
+msgstr ""
+
+#: ../../source/cleo.rst:37
+# 0b75aa9c1ff941bfbcdb2de267a3165e
+msgid "option"
+msgstr ""
+
+#: ../../source/cleo.rst:37
+# b8876c3943ed4dba9d134679dbc0d2fc
+msgid "Comments"
+msgstr ""
+
+#: ../../source/cleo.rst:39
+#: ../../source/cleo.rst:44
+# c50d2c2568d44fab9f3b0f63824984ae
+# 3687e27f217e4e9a964d698b714b2e56
+msgid "Install cleopatra"
+msgstr ""
+
+#: ../../source/cleo.rst:39
+# 9b80eb8f77294f43aa91f3d3836948ff
+msgid "Y(YES)"
+msgstr ""
+
+#: ../../source/cleo.rst:39
+# 8a6df19bb5e94bfb8d7334b7232d4f1d
+msgid "It will install Cleopatra under Cleopatra"
+msgstr ""
+
+#: ../../source/cleo.rst:44
+# 45912ad7293f459aa593310bf84e27fd
+msgid "N(NO)"
+msgstr ""
+
+#: ../../source/cleo.rst:44
+# ca3183145f92469cbbaae78b983703b8
+msgid "It will exit from installation"
+msgstr ""
+
+#: ../../source/cleo.rst:48
+# ad74e082a4194344acd6a23f4826b821
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/cleo.rst:50
+# 4e814643efe04dd59fd77fa38154066f
+msgid "Cleopatra is used to install configuration file. While installing if there is any file is existing overwrite the content."
+msgstr ""
+
+#: ../../source/cleo.rst:51
+# ffbdbe3ba3f34b42b703731e4dc2a0d0
+msgid "New version can update automatically."
+msgstr ""
+
+#: ../../source/cleo.rst:52
+# cad2db32fa2444c3bee32a3e94c8ec12
+msgid "Updating can be done in this module without web search."
+msgstr ""
+

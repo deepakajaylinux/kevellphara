@@ -1,0 +1,135 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELLS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELLS 1.1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-10 05:29+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/sudonopass.rst:3
+# d00f09452ce34140a2d700862f98e0e9
+msgid "Sudonopass"
+msgstr ""
+
+#: ../../source/sudonopass.rst:6
+# e43d9aa9750e4e76a5d9397b76db16ea
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/sudonopass.rst:8
+# 9a34a816f9e54eb4b7b79c049aa240a6
+msgid "Sudonopass used to run a particular command with root permissions. The interesting thing is that when the user use sudo for a particular command, system prompts the user for current user’s password. Once the user enter the password, the command runs with root privileges. This is suitable to work with Ubuntu and Cent OS."
+msgstr ""
+
+#: ../../source/sudonopass.rst:11
+# d95e4a7eb7ee4ef8b62cb019b23583c8
+msgid "Help command"
+msgstr ""
+
+#: ../../source/sudonopass.rst:13
+# 86c611c325f6455ea0d9c0a1bbfdc613
+msgid "This help command guide the user about sudonopass module. This is suitable for all type of business users. The help command shows a short list of the commands built into the sudonopass module. The following screen shot enumerate it."
+msgstr ""
+
+#: ../../source/sudonopass.rst:37
+# 5c91a5e33c2e48daaafa5ac9bb9ff817
+msgid "Installation"
+msgstr ""
+
+#: ../../source/sudonopass.rst:39
+# d20884987c5248e59178fd528c47aaa6
+msgid "Use this module to install sudonopass on Ubuntu Linux system packages."
+msgstr ""
+
+#: ../../source/sudonopass.rst:45
+# 366ea530ee2d46ef96da5a2ff08bc1a2
+msgid "Install sudonopass ?(Y/N)"
+msgstr ""
+
+#: ../../source/sudonopass.rst:47
+# b805181ecff7439fb27e847ce7c42191
+msgid "When the user gives input, as yes automatically it will install configure the root pass access for everybody. The following screen shot will explain it."
+msgstr ""
+
+#: ../../source/sudonopass.rst:80
+# 4057927dbcc446d794438465a67edde4
+msgid "Option"
+msgstr ""
+
+#: ../../source/sudonopass.rst:85
+# 2bf27d6029c849ef94a120bc410597ab
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/sudonopass.rst:85
+# 9de9fa8af8d7497785a8a0a49b88edf4
+msgid "Dirctory(default)"
+msgstr ""
+
+#: ../../source/sudonopass.rst:85
+# 1f2fbae8115746899af042bc24578cfa
+msgid "Output"
+msgstr ""
+
+#: ../../source/sudonopass.rst:87
+#: ../../source/sudonopass.rst:89
+# e65afddb9d4f4a2e976923576eeaaa21
+# 5b07543a77ce4c3aa91faa79f7a29ed9
+msgid "Install sudonopass"
+msgstr ""
+
+#: ../../source/sudonopass.rst:87
+# f171cc56b60a4f12b2ce25c49f9b9611
+msgid "yes"
+msgstr ""
+
+#: ../../source/sudonopass.rst:87
+# 6dcfa76318114b8fa2170eb96f08070c
+msgid "It will install sudonopass under Cleopatra"
+msgstr ""
+
+#: ../../source/sudonopass.rst:89
+# d8ed5d3ba5864a429c71069a73a57ae7
+msgid "No"
+msgstr ""
+
+#: ../../source/sudonopass.rst:89
+# 2709f60ef5da47f194e41b83e0d88e25
+msgid "It will exit|"
+msgstr ""
+
+#: ../../source/sudonopass.rst:93
+# 7de5b2a957ec47d0a4c3e7c675bf7cd2
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/sudonopass.rst:95
+# 2f8557ceaa6b4e37a5e887ccd268499f
+msgid "Sudonopass makes sure that root privileges are there for a specific command (or for a specific time) and not for the complete session as that may result in accidental misuse of root privileges."
+msgstr ""
+
+#: ../../source/sudonopass.rst:96
+# 868bdf5ce0184135b13c82ad5e1e8a75
+msgid "The user can use sudonopass even grant limited privileges to a user. This is helpful when the user do not want a user to have control of all the root powers while doing a sudonopass."
+msgstr ""
+
+#: ../../source/sudonopass.rst:97
+# 526eb06b45584489841d6306141f75d6
+msgid "The best advantage is that sudonopass requires user’s own login password rather than root password. This helps in keeping root password private and there is no need to change it even when a user (sudoer) leaves."
+msgstr ""
+
+#: ../../source/sudonopass.rst:98
+# 7d73b2511ea34037ab42f40f0c4c6058
+msgid "This file provides information on the commands that were execute using sudo and their time of execution. This helps administrator to keep track of even trusted users"
+msgstr ""
+

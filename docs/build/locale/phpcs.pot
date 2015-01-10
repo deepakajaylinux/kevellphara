@@ -1,0 +1,235 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELLS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELLS 1.1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-10 05:29+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/phpcs.rst:3
+# c400c07e7bbb4203a200befe5cb33b8c
+msgid "PHPCS"
+msgstr ""
+
+#: ../../source/phpcs.rst:6
+# 79378be2d80c41e5a128c31e277362e5
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/phpcs.rst:7
+# 98f52b0d015a491495170495e9fd2b5e
+msgid "This module assists in installing php cs from GC Repo. While installing, this module fetches the latest version. The user can specify the location for program data directory and executor directory. Finally Results are clearly reported."
+msgstr ""
+
+#: ../../source/phpcs.rst:10
+# 7f99291670544f59b4e5d3cb30adc84d
+msgid "Help Command"
+msgstr ""
+
+#: ../../source/phpcs.rst:11
+# 3481860472424ecba7b6b770076b8a69
+msgid "The help command leads the users regarding the purpose and as well as about the options that are included in the php cs module. It also describes the syntax for installing php cs. The help command for php cs is given below."
+msgstr ""
+
+#: ../../source/phpcs.rst:17
+# 12b9ee6c300446b493d7409529c312ea
+msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under PHPCS."
+msgstr ""
+
+#: ../../source/phpcs.rst:37
+# 602c5921d66948d2b622aad2cf6b7179
+msgid "Installation"
+msgstr ""
+
+#: ../../source/phpcs.rst:39
+# ab7e910d3d1e431db0ddb38309521056
+msgid "Installing the PHP CS is simpler by using the following command as shown:"
+msgstr ""
+
+#: ../../source/phpcs.rst:45
+# 7f9b71e0f0db49fdb7b4c1f7f05ead46
+msgid "After inputting the command above the following operations as shown in the tabular format occurs."
+msgstr ""
+
+#: ../../source/phpcs.rst:52
+#: ../../source/phpcs.rst:69
+# a10223899f2f4a9e9a76066d102cbbd8
+# 5094276fa0fe4ca481ab5148eea45573
+msgid "Paramaters"
+msgstr ""
+
+#: ../../source/phpcs.rst:52
+# ac61d9075db24960a5e9b00535eaefe0
+msgid "Options"
+msgstr ""
+
+#: ../../source/phpcs.rst:52
+# 04fd5c78a85249dfa21af4681cac8062
+msgid "Comments"
+msgstr ""
+
+#: ../../source/phpcs.rst:54
+#: ../../source/phpcs.rst:57
+# e64c155e34db4f4f898f8f3876c1093b
+# 78782b127d12477086083ba0f73c47db
+msgid "Install PHP Code Sniffer ? (Y/N)"
+msgstr ""
+
+#: ../../source/phpcs.rst:54
+# fe84bd39a1204b478b43f0d8334e51df
+msgid "Y(Yes)"
+msgstr ""
+
+#: ../../source/phpcs.rst:54
+# 320d6b482c6249efb0388c4d5f776340
+msgid "If the user wish to proceed the installation process they can input as Y."
+msgstr ""
+
+#: ../../source/phpcs.rst:57
+# b0cd9a6e00094f4ea935be26af867d25
+msgid "N(No)"
+msgstr ""
+
+#: ../../source/phpcs.rst:57
+# d23ed753743a448fb9710ff4e7773ebe
+msgid "If the user wish to quit the installation process they can input as N.|"
+msgstr ""
+
+#: ../../source/phpcs.rst:63
+# bd0d79917025415bab0f9b1865d8252b
+msgid "If the user proceeds the installation process the following operations occurs as shown in the tabular format."
+msgstr ""
+
+#: ../../source/phpcs.rst:69
+# 04c313bc38e34f8b8e139a7f40909f41
+msgid "Path"
+msgstr ""
+
+#: ../../source/phpcs.rst:69
+# d1c0d71fac6e48759e5506d051e3854e
+msgid "Option"
+msgstr ""
+
+#: ../../source/phpcs.rst:69
+# 45ed7631cf2547869b7143f51c4ddde6
+msgid "Comment"
+msgstr ""
+
+#: ../../source/phpcs.rst:71
+# 26f9b7c4dd534584ad65a95c5cab044e
+msgid "Program data directory(Default)"
+msgstr ""
+
+#: ../../source/phpcs.rst:71
+# 9ae9a821dfef4d36a1a0583163dbd689
+msgid "\"/opt/phpcs (corresponding"
+msgstr ""
+
+#: ../../source/phpcs.rst:73
+# c141205a114a4f0daa0f95c1c81d22f7
+msgid "module)\""
+msgstr ""
+
+#: ../../source/phpcs.rst:71
+#: ../../source/phpcs.rst:80
+# b3b16262b0e349ee98bfb4cde6d03f12
+# 16f9c71c69164543ab794f3b3f131017
+msgid "Yes"
+msgstr ""
+
+#: ../../source/phpcs.rst:72
+# 4abd0f5adcd2450a892fa44d7e86b244
+msgid "If the user to proceed installation"
+msgstr ""
+
+#: ../../source/phpcs.rst:72
+# a2b5b14f95234005af8eee2166185185
+msgid "with the default program data directory they can input as Yes"
+msgstr ""
+
+#: ../../source/phpcs.rst:75
+# a704ac4bf10f4013961b72af5676b9d4
+msgid "Program data directory"
+msgstr ""
+
+#: ../../source/phpcs.rst:75
+#: ../../source/phpcs.rst:84
+# cf195447ab344c4db63eefe049dd00c5
+# 4fb07a99eccc4dcdaeda088a9c1cbae2
+msgid "User specific"
+msgstr ""
+
+#: ../../source/phpcs.rst:75
+#: ../../source/phpcs.rst:84
+# f61de07579304fa8bf16057201514740
+# e1a1cf9f3b444c6ca3cb27409f260d33
+msgid "No(End slash)"
+msgstr ""
+
+#: ../../source/phpcs.rst:75
+# 22e9906d1b4c4a37980117eb55b80ff2
+msgid "If the user wish to proceed with their own program data directory, they can input as N, and in hand specify they own location."
+msgstr ""
+
+#: ../../source/phpcs.rst:81
+#: ../../source/phpcs.rst:84
+# 5370d7d3a2d2450bb7c1ed4e89d2fa72
+# eee0ed811e924837aab008c42e49d1c5
+msgid "Program executor directory"
+msgstr ""
+
+#: ../../source/phpcs.rst:81
+# 1d75330bd62947f2beafcba6b18a7e78
+msgid "(Default)"
+msgstr ""
+
+#: ../../source/phpcs.rst:80
+# 08f4255041ce4c3fbde8ee1c089d8f9c
+msgid "\"/usr/bin\""
+msgstr ""
+
+#: ../../source/phpcs.rst:80
+# 4377e9eeafaa49788e7d370fbc0ab81b
+msgid "If the user to proceed installation with the default program executor directory they can input as Yes"
+msgstr ""
+
+#: ../../source/phpcs.rst:84
+# 3afb3fe0ef4a4aeab35de97e86388c6a
+msgid "If the user wish to proceed with their own program executor directory, they can input as N, and in hand specify they own location.|"
+msgstr ""
+
+#: ../../source/phpcs.rst:92
+# 05392f8a1c794c3986d0ed1a94b98464
+msgid "After these process as shown in the tabular format, the results are clearly reported along with the status. The following screen shot explains you graphically about the process involved in installation of PHPCS."
+msgstr ""
+
+#: ../../source/phpcs.rst:95
+# 09336581add742a28c2094761717ef72
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/phpcs.rst:97
+# c0c2a4c151774abeae2afcc83dd6176c
+msgid "This module facilitates the user in installing PHP CS with the updated version."
+msgstr ""
+
+#: ../../source/phpcs.rst:98
+# 57a86f575e27446387df7ab833d903aa
+msgid "The user can select their own path for program data directory and executor"
+msgstr ""
+
+#: ../../source/phpcs.rst:99
+# 4a89518eb7e34885b30fab6f9177542a
+msgid "The parameters used in declaring the help and installations are not case sensitive, which is added advantage while compared to others."
+msgstr ""
+

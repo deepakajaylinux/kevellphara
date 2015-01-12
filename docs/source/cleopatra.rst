@@ -556,6 +556,7 @@ Playing with Cleopatra Modules
    chown
    cleo
    composermodule
+   firefox
    firewall
    gitbucket   
    lighthttpd

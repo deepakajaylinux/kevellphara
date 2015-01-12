@@ -34,12 +34,11 @@ In addition, the following operations shown in a tabular format occurs.
 
 
 	+-----------------------------------+------------------------------+----------------------+-------------------------------+
-	| 	Parameters	            |Alternative Parameter         | option  	          |Comments			  |
+	| Parameters	                    | Alternative Parameter        | option  	          | Comments			  |
 	+===================================+==============================+======================+===============================+
 	|Install Admin User for MySQL? (Y/N)|In the place of MysqlAdmins   |	Y(YES)		  |If the user wish to proceed the|
 	|				    |these alternative names can be|			  |installation process they 	  |
-	|			       	    |used:mysql-admins, 	   |	   		  |can input as Y.                |
-	|				    |mysqladmins.      	      	   |			  | 				  |
+	|			       	    |used:mysql-admins,mysqladmins.|	   		  |can input as Y.                |
 	+-----------------------------------+------------------------------+----------------------+-------------------------------+
 	|Install MySQL Server? (Y/N)	    |mysql-admins,mysqladmins.	   |	N(NO)		  |If the user wish to quit the	  |
 	|				    |				   |			  |installation process they 	  |

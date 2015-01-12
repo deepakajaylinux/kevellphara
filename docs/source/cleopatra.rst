@@ -555,7 +555,9 @@ Playing with Cleopatra Modules
    chgrp
    chown
    cleo
+   composermodule
    firewall
+   gitbucket   
    lighthttpd
    mediatool
    mkdir
@@ -566,7 +568,9 @@ Playing with Cleopatra Modules
    ngnix
    parrallax
    phpconf
+   phpci
    phpcs
+   phpmodules
    cleophlagrant
    port
    postgresserver

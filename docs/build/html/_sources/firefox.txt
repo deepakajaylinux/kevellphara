@@ -100,7 +100,7 @@ Options
         |Cleopatra firefox Install      |Firefox                       |Y(YES)                    |System starts installation    |
         |                               |                              |                          |process they can input as Y   |
         +-------------------------------+------------------------------+--------------------------+------------------------------+ 
-        | Install PHPConf? (Y/N)        |   Firefox                    | N(No)                    |If the user wish to           |
+        |Cleopatra firefox Install      |Firefox                       |N(No)                     |If the user wish to           |
         |                               | 			       |                          |quit the installation         | 
         |                               | 			       |                          |process they can              |
         |                               | 			       |                          |input as N.|                  |

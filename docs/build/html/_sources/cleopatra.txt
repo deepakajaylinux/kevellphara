@@ -581,6 +581,7 @@ Playing with Cleopatra Modules
    phpci
    phpcs
    phpmodules
+   phpssh   
    phpstorm
    cleophlagrant
    port

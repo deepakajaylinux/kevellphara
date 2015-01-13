@@ -562,6 +562,7 @@ Playing with Cleopatra Modules
    firefox24   
    firewall
    gitbucket   
+   java   
    jenkins   
    lighthttpd
    mediatool

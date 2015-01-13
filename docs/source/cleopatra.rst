@@ -559,6 +559,7 @@ Playing with Cleopatra Modules
    firefox
    firefox14
    firefox17
+   firefox24   
    firewall
    gitbucket   
    lighthttpd

@@ -560,6 +560,7 @@ Playing with Cleopatra Modules
    firefox14
    firefox17
    firefox24   
+   firefox33
    firewall
    gitbucket   
    java   

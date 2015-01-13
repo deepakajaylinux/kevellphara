@@ -576,6 +576,7 @@ Playing with Cleopatra Modules
    ngnix
    node
    parrallax
+   phake
    phpconf
    phpci
    phpcs

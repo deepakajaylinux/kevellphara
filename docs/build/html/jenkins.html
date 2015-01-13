@@ -30,7 +30,7 @@
     <link rel="top" title="KEVELLS 1.1.1 documentation" href="index.html" />
     <link rel="up" title="Cleopatra" href="cleopatra.html" />
     <link rel="next" title="LigHTTPDServer module" href="lighthttpd.html" />
-    <link rel="prev" title="Gitbucket" href="gitbucket.html" />
+    <link rel="prev" title="JAVA" href="java.html" />
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
 <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
@@ -82,8 +82,8 @@
           
           
             
-  <li><a href="gitbucket.html"
-         title="previous chapter">&laquo; Gitbucket</a></li>
+  <li><a href="java.html"
+         title="previous chapter">&laquo; JAVA</a></li>
   <li><a href="lighthttpd.html"
          title="next chapter">LigHTTPDServer  module &raquo;</a></li>
           
@@ -117,14 +117,79 @@ Jenkins’ core functionality and flexibility allow it to fit in a variety of en
 <div class="section" id="help-command">
 <h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>This command helps to determine the usage of Jenkins module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same.</p>
-<div class="highlight-bash"><div class="highlight"><pre>Cleapatra jenkins <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>               Cleapatra jenkins <span class="nb">help</span>
+
+kevell@corp:/# cleopatra jenkins <span class="nb">help</span>
+******************************
+
+
+This <span class="nb">command </span>allows you to install Jenkins, the popular Build Server.
+
+Jenkins, jenkins
+
+- install
+Installs Jenkins through apt-get
+example: cleopatra jenkins install
+
+------------------------------
+End Help
+******************************
 </pre></div>
 </div>
 </div>
 <div class="section" id="installation">
 <h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
 <p>If the user needs to install Jenkins module in machine, the below given command will execute the process of installation.</p>
-<div class="highlight-bash"><div class="highlight"><pre>Cleapatra jenkins install
+<div class="highlight-bash"><div class="highlight"><pre>               Cleapatra jenkins install
+
+kevell@corp:/# cleopatra jenkins install
+Install Jenkins? <span class="o">(</span>Y/N<span class="o">)</span>
+y
+*******************************
+*        Pharaoh Tools        *
+*          ! Jenkins !        *
+*******************************
+Creating /tmp/cleopatra-temp-script-14615194352.sh
+chmod <span class="m">755</span> /tmp/cleopatra-temp-script-14615194352.sh 2&gt;/dev/null
+Changing /tmp/cleopatra-temp-script-14615194352.sh Permissions
+Executing /tmp/cleopatra-temp-script-14615194352.sh
+E: Could not get lock /var/lib/apt/lists/lock - open <span class="o">(</span>11: Resource temporarily unavailable<span class="o">)</span>
+E: Unable to lock directory /var/lib/apt/lists/
+OK
+Temp File /tmp/cleopatra-temp-script-14615194352.sh Removed
+W: Duplicate sources.list entry http://dl.google.com/linux/chrome/deb/ stable/main amd64 Packages <span class="o">(</span>/var/lib/apt/lists/dl.google.com_linux_chrome_deb_dists_stable_main_binary-amd64_Packages<span class="o">)</span>
+W: Duplicate sources.list entry http://dl.google.com/linux/chrome/deb/ stable/main i386 Packages <span class="o">(</span>/var/lib/apt/lists/dl.google.com_linux_chrome_deb_dists_stable_main_binary-i386_Packages<span class="o">)</span>
+W: You may want to run apt-get update to correct these problems
+W: Duplicate sources.list entry http://dl.google.com/linux/chrome/deb/ stable/main amd64 Packages <span class="o">(</span>/var/lib/apt/lists/dl.google.com_linux_chrome_deb_dists_stable_main_binary-amd64_Packages<span class="o">)</span>
+W: Duplicate sources.list entry http://dl.google.com/linux/chrome/deb/ stable/main i386 Packages <span class="o">(</span>/var/lib/apt/lists/dl.google.com_linux_chrome_deb_dists_stable_main_binary-i386_Packages<span class="o">)</span>
+W: You may want to run apt-get update to correct these problems
+E: Unable to correct problems, you have held broken packages.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Some packages could not be installed. This may mean that you have
+requested an impossible situation or <span class="k">if</span> you are using the unstable
+distribution that some required packages have not yet been created
+or been moved out of Incoming.
+The following information may <span class="nb">help </span>to resolve the situation:
+
+The following packages have unmet dependencies:
+jenkins : Depends: daemon but it is not installable
+          Depends: default-jre-headless but it is not installable or
+                   java-runtime-headless
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Adding Package jenkins from the Packager Apt did not execute correctly
+... All <span class="k">done</span>!
+*******************************
+Thanks <span class="k">for</span> installing , visit www.pharaohtools.com <span class="k">for</span> more
+******************************
+
+
+Single App Installer:
+--------------------------------------------
+Jenkins: Success
+------------------------------
+Installer Finished
+******************************
 </pre></div>
 </div>
 </div>

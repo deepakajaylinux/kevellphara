@@ -18,6 +18,27 @@ The help command guides the users regarding the purpose and as well as about the
 
 The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under java module.
 
+.. code-block:: bash
+
+ kevell@corp:/# cleopatra java help
+ ******************************
+
+
+ This command allows you to install Java JDK 1.7 .
+
+ Java, java, java17
+
+        - install
+        Installs a version of Oracle Java JDK 1.7. It will also configure java,
+        javac and javaws to be provided by the new Oracle version.
+        example: cleopatra java17 install
+
+ ------------------------------
+ End Help
+ ******************************
+
+
+
 Installation
 ----------------
 

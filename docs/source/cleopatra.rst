@@ -554,6 +554,7 @@ Playing with Cleopatra Modules
    apachereverseproxy
    chgrp
    chown
+   citadel
    cleo
    composermodule
    firefox
@@ -579,6 +580,7 @@ Playing with Cleopatra Modules
    phpci
    phpcs
    phpmodules
+   phpstorm
    cleophlagrant
    port
    postgresserver

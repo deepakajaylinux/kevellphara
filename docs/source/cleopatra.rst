@@ -572,6 +572,7 @@ Playing with Cleopatra Modules
    mysqladmin
    mysqltool
    ngnix
+   node
    parrallax
    phpconf
    phpci
@@ -591,5 +592,6 @@ Playing with Cleopatra Modules
    varnish
    virtualbox
    vnc
+   xvfb
 
 

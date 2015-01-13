@@ -557,6 +557,8 @@ Playing with Cleopatra Modules
    cleo
    composermodule
    firefox
+   firefox14
+   firefox17
    firewall
    gitbucket   
    lighthttpd

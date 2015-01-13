@@ -92,7 +92,7 @@ In case the user input as Y, it can install firefox from the package. Else, it c
 Options
 --------------
 
-.. cssclass:: table-bordred
+.. cssclass:: table-bordered
 
         +-------------------------------+------------------------------+--------------------------+------------------------------+
         | Parameters                    | Alternative Parameter        | Options                  | Comment                      |

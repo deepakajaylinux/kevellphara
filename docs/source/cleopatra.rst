@@ -591,6 +591,7 @@ Playing with Cleopatra Modules
    service
    sshharden
    sudonopass
+   svn
    systemdetectio
    teamcity
    testingkamen
@@ -599,5 +600,6 @@ Playing with Cleopatra Modules
    virtualbox
    vnc
    xvfb
+   
 
 

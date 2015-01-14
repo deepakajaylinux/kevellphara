@@ -1,6 +1,6 @@
-=======
+==========
 PHP Unit
-========
+==========
 
 Synopsis
 --------------
@@ -53,7 +53,7 @@ If the user proceeds the installation process the following operations occurs as
  +======================+=======================+======================+==========================================================+
  |Program data directory|"/opt/phpunit	        |Yes		       |If the user to proceed installation with the default  	  |
  |		        |(corresponding module)"|		       |program data directory they can input as Yes		  |
- +----------------------+----------------------+-----------------------+----------------------------------------------------------+
+ +----------------------+-----------------------+----------------------+----------------------------------------------------------+
  |Program data directory|User specific	        |No(End slash)	       |If the user wish to proceed with their own program   	  |
  |		        |		        |		       |data directory, they can input as N, and in hand specify  |
  |		        |		        |                      |their own location					  |

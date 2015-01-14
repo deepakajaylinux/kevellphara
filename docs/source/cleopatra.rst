@@ -589,6 +589,7 @@ Playing with Cleopatra Modules
    port
    postgresserver
    python
+   runcommand   
    service
    sshharden
    sudonopass

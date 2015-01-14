@@ -36,7 +36,7 @@ After inputting the command above, the following operations occurs as shown in t
  +=============================+==================================+================+=============================================+
  |Install SVN? (Y/N)	       |Instead of SVN, we can use svn    |Y(Yes)	   |If the user wish to proceed the installation |
  |		 	       |also		                  |		   |process they can input as Y.		 |
- +-----------------------------+------------------------+--------------------------+---------------------------------------------+
+ +-----------------------------+----------------------------------+----------------+---------------------------------------------+
  |Install SVN? (Y/N)	       |Instead of SVN, we can use svn    |N(No)	   |If the user wish to quit the installation	 |
  |		 	       |also		                  |		   |process they can input as N.|		 |
  +-----------------------------+----------------------------------+----------------+---------------------------------------------+
@@ -71,7 +71,7 @@ After inputting the command above, the following operations occurs as shown in t
  +=============================+==================================+================+================================================+
  |Uninstall SVN? (Y/N)	       |Instead of SVN, we can use svn    |Y(Yes)	   |If the user wish to proceed the un-installation |
  |		 	       |also		                  |		   |process they can input as Y.	  	    |
- +-----------------------------+------------------------+--------------------------+------------------------------------------------+
+ +-----------------------------+----------------------------------+----------------+------------------------------------------------+
  |Uninstall SVN? (Y/N)	       |Instead of SVN, we can use svn    |N(No)	   |If the user wish to quit the un-installation    |
  |		 	       |also		                  |		   |process they can input as N.|		    |
  +-----------------------------+----------------------------------+----------------+------------------------------------------------+

@@ -588,6 +588,7 @@ Playing with Cleopatra Modules
    cleophlagrant
    port
    postgresserver
+   process
    python
    runcommand   
    service

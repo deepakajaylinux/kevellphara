@@ -26,6 +26,7 @@ It will also throw some commands to specify the non-default values for LockFile,
 
 The screen shot given below explains visually about the steps and commands involves in installation.
 
+
 Options
 -----------
 
@@ -58,3 +59,22 @@ Help command
 The help command describes about the purpose and the commands available under this modules. It also explains the command to install the particular module.
 The screen shot as shown below, visually represent the usage of the help command under this module.
 
+.. code-block:: bash
+
+
+ kevells@corp:/# cleopatra apacheconf help
+ ******************************
+
+
+  This module lets you install a configuration for Apache HTTP Server. The only commands available are this help
+  and install.
+
+  ApacheConf, apache-configure, apache-configuration, apache-conf, apacheconf
+
+        - install
+        Installs a configuration for Apache
+        example: cleopatra apacheconf install
+
+ ------------------------------
+ End Help
+ ******************************

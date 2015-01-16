@@ -19,6 +19,25 @@ The help command guides the users regarding the purpose and as well as about the
 
 The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under IntelliJ.
 
+.. code-block:: bash
+
+ kevells@corp:/# cleopatra IntelliJ help
+ ******************************
+
+
+  This command allows you to install Intellij, the JetBrains IDE
+
+  IntelliJ, intellij
+
+        - install
+        Installs the latest version of Developer Tools
+        example: cleopatra gittools install
+
+ ------------------------------
+ End Help
+ ******************************
+
+
 Installation
 ---------------
 
@@ -38,17 +57,52 @@ After inputting the command above, the following operations occurs:
 Finally, the installation of IntelliJ gets completed. The screenshot as shown below depicts the process of installing IntelliJ.
 
 
+.. code-block:: bash
+
+ kevells@corp:/# cleopatra IntelliJ install
+ Install IntelliJ IDE? (Y/N) 
+ Y
+ *******************************
+ *        Pharaoh Tools        *
+ *         IntelliJ IDE        *
+ *******************************
+ Enter IntelliJ Version
+ PHP Notice:  Undefined offset: 0 in /opt/cleopatra/cleopatra/src/Core/Base/Model/Base.php on line 187
+ (0)  
+ PHP Notice:  Undefined offset: 1 in /opt/cleopatra/cleopatra/src/Core/Base/Model/Base.php on line 187
+ (1)  
+
+ [Pharaoh Logging] Ensure module install is not checking versions
+ [Pharaoh Logging] Module Java reports itself as Installed
+ [Pharaoh Logging] Not installing as already installed
+ Creating /tmp/cleopatra-temp-script-98824051629.sh
+ chmod 755 /tmp/cleopatra-temp-script-98824051629.sh 2>/dev/null
+ Changing /tmp/cleopatra-temp-script-98824051629.sh Permissions
+ Executing /tmp/cleopatra-temp-script-98824051629.sh
+ Cloning into 'intellij'...
+ remote: Counting objects: 1026, done.
+ remote: Total 1026 (delta 0), reused 0 (delta 0)
+ Receiving objects: 100% (1026/1026), 205.06 MiB | 410.00 KiB/s, done.
+ Resolving deltas: 100% (60/60), done.
+ Checking connectivity... done.
+ Checking out files: 100% (744/744), done.
+ Temp File /tmp/cleopatra-temp-script-98824051629.sh Removed
+ Program Executor Deleted if existed
+ ... All done!
+ *******************************
+ Thanks for installing , visit www.pharaohtools.com for more
+ ******************************
 
 
+ Single App Installer:
+ --------------------------------------------
+ IntelliJ: Success
+ ------------------------------
+ Installer Finished
+ ******************************
 
 
-
-
-
-
-
-
-Alternative Parameters
+Parameters
 ----------------------------
 
 Instead of IntelliJ we can use, intellij

@@ -557,6 +557,7 @@ Playing with Cleopatra Modules
    citadel
    cleo
    composermodule
+   file
    firefox
    firefox14
    firefox17

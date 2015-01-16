@@ -564,6 +564,7 @@ Playing with Cleopatra Modules
    firefox33
    firewall
    gitbucket   
+   hhvm
    hostname   
    intellij   
    java   

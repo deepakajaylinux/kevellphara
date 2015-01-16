@@ -570,6 +570,7 @@ Playing with Cleopatra Modules
    intellij   
    java   
    jenkins   
+   jenkinsplugins
    jrush   
    lighthttpd
    mediatool

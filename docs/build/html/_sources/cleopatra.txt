@@ -606,6 +606,7 @@ Playing with Cleopatra Modules
    varnish
    virtualbox
    vnc
+   wireframesketcher
    xvfb
    
 

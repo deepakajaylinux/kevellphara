@@ -565,6 +565,7 @@ Playing with Cleopatra Modules
    firewall
    gitbucket   
    hostname   
+   intellij   
    java   
    jenkins   
    jrush   

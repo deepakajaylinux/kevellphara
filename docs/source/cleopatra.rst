@@ -567,6 +567,7 @@ Playing with Cleopatra Modules
    hostname   
    java   
    jenkins   
+   jrush   
    lighthttpd
    mediatool
    mkdir

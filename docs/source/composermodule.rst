@@ -16,7 +16,23 @@ This command helps to determine the usage of composer module. The user will come
 
 .. code-block:: bash
               
-		 Cleapatra composer help
+		 Cleopatra composer help
+
+ kevells@corp:/# cleopatra composer help
+ ******************************
+
+
+  This command allows you to update Composer.
+
+  Composer, composer
+
+        - install
+        Installs the latest version of composer
+        example: cleopatra composer install
+
+ ------------------------------
+ End Help
+ ******************************
 
 
 Installation
@@ -26,7 +42,7 @@ When the user needs to install composer module in machine, the below given comma
 
 .. code-block:: bash
                
-		 Cleapatra composer install
+		 Cleopatra composer install
 
 While installing, the system ask for the directory name, if you wants to set up your PATH, you can define your path. Define your path has to be followed by '/' symbol. Press Enter to use default path.
 

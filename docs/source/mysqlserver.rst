@@ -22,6 +22,7 @@ This command makes the users to be aware of its purpose and also about the comma
 The screenshot given below shows a pictorial presentation about the help command.
 
 .. image:: /docs/image/cleopatra_help.png
+.. code-block:: bash
 
 
  kevells@corp:/# cleopatra MysqlServer help

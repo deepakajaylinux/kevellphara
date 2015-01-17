@@ -18,6 +18,27 @@ The Help command guides the users regarding the command used for installing the 
 
 The screen shot as given below can lead the user in handling the help command for mysql admins.
 
+
+.. code-block:: bash
+
+
+ kevells@corp:/# cleopatra MysqlAdmins help
+ ******************************
+
+
+  This command allows you to install admin users for MySQL so that MySQL can
+  be managed without using the Root User.
+
+  MysqlAdmins, mysql-admins, mysqladmins
+
+        - install
+        Installs Mysql Admin Users.
+        example: cleopatra mysql-admins install
+
+ ------------------------------
+ End Help
+ ******************************
+
 Installation
 -------------
 
@@ -57,6 +78,46 @@ If the user wish to process installation of mysql admins in a remote system they
 * MySQL Host.
 
 The following screenshot gives you an pictorial representation about the process of installation as described above.
+
+.. code-block:: bash
+
+
+ kevells@corp:/# cleopatra mysql-admins install
+ Install Admin User for MySQL? (Y/N) 
+ y
+ *******************************
+ *        Pharaoh Tools        *
+ *         MySQL Admins!        *
+ *******************************
+ Enter MySQL Root User:
+ root
+ Enter MySQL Root Pass:
+ root123
+ Enter MySQL New Admin User:
+ kevells
+ Enter MySQL New Admin Pass:
+ kevells123
+ Enter MySQL Host: Enter nothing for 127.0.0.1
+
+ Creating /tmp/cleopatra-temp-script-74285705785.sh
+ chmod 755 /tmp/cleopatra-temp-script-74285705785.sh 2>/dev/null
+ Changing /tmp/cleopatra-temp-script-74285705785.sh Permissions
+ Executing /tmp/cleopatra-temp-script-74285705785.sh
+ ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+ Temp File /tmp/cleopatra-temp-script-74285705785.sh Removed
+ ... All done!
+ *******************************
+ Thanks for installing , visit www.pharaohtools.com for more
+ ******************************
+
+
+ Single App Installer:
+ --------------------------------------------
+ MysqlAdmins: Success
+ ------------------------------
+ Installer Finished
+ ******************************
+
 
 Benefits
 ----------

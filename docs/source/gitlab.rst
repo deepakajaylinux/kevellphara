@@ -14,9 +14,30 @@ Help command includes an extensive, console-based help system, reminiscent of ma
 
 .. code-block:: bash
 
-		Cleopatra gitlab help
+		cleopatra gitlab help
 
 The following screenshots explains its functions clearly.
+
+.. code-block:: bash
+
+ kevells@corp:/# cleopatra gitlab help
+ ******************************
+
+
+  This command allows you to install a full Git Lab installation on to a server
+  The dependencies for GitLab are also installed.
+
+  GitLab, gitlab, git-lab
+
+        - install
+        Installs the latest version of GitLab on a system
+        example: cleopatra gitlab install
+
+ ------------------------------
+ End Help
+ ******************************
+
+
 
 Installation
 ---------------------
@@ -24,7 +45,7 @@ Installation
 
 .. code-block:: bash
 
-		Cleopatra gitlab install
+		cleopatra gitlab install
 
 After vitalize the command it will catechize input.
 

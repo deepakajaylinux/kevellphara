@@ -27,6 +27,42 @@ It will also throw some commands to specify the non-default values for LockFile,
 The screen shot given below explains visually about the steps and commands involves in installation.
 
 
+.. code-block:: bash
+
+
+ kevells@corp:/# cleopatra apacheconf install
+ Install Apache Conf? (Y/N) 
+ y
+ *******************************
+ *        Pharaoh Tools        *
+ *         Apache Conf!        *
+ *******************************
+ Set non-default value for LockFile? Default is ${APACHE_LOCK_DIR}/accept.lock (Y/N) 
+
+ Set non-default value for PidFile? Default is ${APACHE_PID_FILE} (Y/N) 
+
+ Set non-default value for Timeout? Default is 300 (Y/N) 
+
+ Set non-default value for KeepAlive? Default is On (Y/N) 
+
+ Set non-default value for MaxKeepAliveRequests? Default is 100 (Y/N) 
+
+ Set non-default value for KeepAliveTimeout? Default is 5 (Y/N) 
+
+ ... All done!
+ *******************************
+ Thanks for installing , visit www.pharaohtools.com for more
+ ******************************
+
+
+ Single App Installer:
+ --------------------------------------------
+ ApacheConf: Success
+ ------------------------------
+ Installer Finished
+ ******************************
+
+
 Options
 -----------
 

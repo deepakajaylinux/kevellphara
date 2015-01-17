@@ -119,13 +119,13 @@
 </pre></div>
 </div>
 <p>The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under PHPCS.</p>
-<div class="highlight-bash"><div class="highlight"><pre>root@deepak:~# cleopatra PHPCS <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra PHPCS <span class="nb">help</span>
 ******************************
 
 
 This <span class="nb">command </span>allows you to install PHPCS from a GC Repo.
 
- PHPCS
+PHPCS
 - install
 Installs the latest version of PHPCS
 example: cleopatra phpcs install
@@ -228,6 +228,39 @@ in hand specify they own location.|</td>
 </tbody>
 </table>
 <p>After these process as shown in the tabular format, the results are clearly reported along with the status. The following screen shot explains you graphically about the process involved in installation of PHPCS.</p>
+<div class="highlight-bash"><div class="highlight"><pre>Kevells@corp:/# cleopatra PHPCS install
+Install PHP Code Sniffer ? <span class="o">(</span>Y/N<span class="o">)</span>
+y
+*******************************
+*        Pharaoh Tools        *
+*         PHP CSniffer        *
+*******************************
+What is the program data directory? Found <span class="s2">&quot;/opt/phpcs&quot;</span> - use this? <span class="o">(</span>Enter nothing <span class="k">for</span> yes, no end slash<span class="o">)</span>
+
+What is the program executor directory? Found <span class="s2">&quot;/usr/bin&quot;</span> - use this? <span class="o">(</span>Enter nothing <span class="k">for</span> yes, No Trailing Slash<span class="o">)</span>
+
+git clone <span class="s1">&#39;https://github.com/phpengine/cleopatra-phpcs.git&#39;</span>  /tmp/phpcs/phpcsCloning into <span class="s1">&#39;/tmp/phpcs/phpcs&#39;</span>...
+remote: Counting objects: 862, <span class="k">done</span>.
+remote: Total <span class="m">862</span> <span class="o">(</span>delta 0<span class="o">)</span>, reused <span class="m">0</span> <span class="o">(</span>delta 0<span class="o">)</span>
+Receiving objects: 100% <span class="o">(</span>862/862<span class="o">)</span>, 491.23 KiB <span class="p">|</span> 64.00 KiB/s, <span class="k">done</span>.
+Resolving deltas: 100% <span class="o">(</span>378/378<span class="o">)</span>, <span class="k">done</span>.
+Checking connectivity... <span class="k">done</span>.
+Program Data folder populated
+Program Executor Deleted <span class="k">if</span> existed
+... All <span class="k">done</span>!
+*******************************
+Thanks <span class="k">for</span> installing , visit www.pharaohtools.com <span class="k">for</span> more
+******************************
+
+
+Single App Installer:
+--------------------------------------------
+PHPCS: Success
+------------------------------
+Installer Finished
+****************************
+</pre></div>
+</div>
 </div>
 <div class="section" id="benefits">
 <h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>

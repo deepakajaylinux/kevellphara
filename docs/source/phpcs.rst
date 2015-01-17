@@ -18,20 +18,20 @@ The syntax for declaring the help command is not case sensitive which is an adde
 
 .. code-block:: bash
 
-	root@deepak:~# cleopatra PHPCS help
-	******************************
+ kevells@corp:/# cleopatra PHPCS help
+ ******************************
 
 
-	This command allows you to install PHPCS from a GC Repo.
+ This command allows you to install PHPCS from a GC Repo.
 
-         PHPCS
-        - install
-        Installs the latest version of PHPCS
-        example: cleopatra phpcs install
+ PHPCS
+ - install
+ Installs the latest version of PHPCS
+ example: cleopatra phpcs install
 
-	------------------------------
-	End Help
-	******************************
+ ------------------------------
+ End Help
+ ******************************
 
 Installation
 -------------
@@ -90,6 +90,42 @@ If the user proceeds the installation process the following operations occurs as
 
 
 After these process as shown in the tabular format, the results are clearly reported along with the status. The following screen shot explains you graphically about the process involved in installation of PHPCS.
+
+.. code-block:: bash
+
+ Kevells@corp:/# cleopatra PHPCS install
+ Install PHP Code Sniffer ? (Y/N) 
+ y
+ *******************************
+ *        Pharaoh Tools        *
+ *         PHP CSniffer        *
+ *******************************
+ What is the program data directory? Found "/opt/phpcs" - use this? (Enter nothing for yes, no end slash)
+ 
+ What is the program executor directory? Found "/usr/bin" - use this? (Enter nothing for yes, No Trailing Slash)
+
+ git clone 'https://github.com/phpengine/cleopatra-phpcs.git'  /tmp/phpcs/phpcsCloning into '/tmp/phpcs/phpcs'...
+ remote: Counting objects: 862, done.
+ remote: Total 862 (delta 0), reused 0 (delta 0)
+ Receiving objects: 100% (862/862), 491.23 KiB | 64.00 KiB/s, done.
+ Resolving deltas: 100% (378/378), done.
+ Checking connectivity... done.
+ Program Data folder populated
+ Program Executor Deleted if existed
+ ... All done!
+ *******************************
+ Thanks for installing , visit www.pharaohtools.com for more
+ ******************************
+
+
+ Single App Installer:
+ --------------------------------------------
+ PHPCS: Success
+ ------------------------------
+ Installer Finished
+ ****************************
+
+
 
 Benefits
 -----------

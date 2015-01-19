@@ -14,7 +14,7 @@ This command can function about the objectives and commands available under host
 
 .. code-block:: bash
          
-                Cleopatra hostname help
+                cleopatra hostname help
 
 The following screen shot can bring to mind it.
 
@@ -25,7 +25,7 @@ Hostnames are typically used in an administrative capacity and may appear in com
 
 .. code-block:: bash
            
-                Cleopatra hostname change –hostname=”kevellcorp”
+                cleopatra hostname change –hostname=”kevellcorp”
 
 From the above command the new host name can enter.
 
@@ -36,7 +36,7 @@ This module is a perceptible process to view host name under Cleopatra by just u
 
 .. code-block:: bash
          
-                Cleopatra hostname show
+                cleopatra hostname show
 
 After key in the command, it shows the host name.
 
@@ -48,10 +48,10 @@ Option
  +-----------------------------+------------------------------------------+----------+--------------------------------------+
  |	Parameters  	       | Alternative Parameter                    | Options  | 		Comments	            |
  +=============================+==========================================+==========+======================================+
- |Cleopatra host name	       |Instead of Hostname we can use		  |Show      |System starts showing the host name   |
+ |cleopatra host name	       |Instead of Hostname we can use		  |Show      |System starts showing the host name   |
  |		 	       |Hostname,hostname			  | 	     |process under cleopatra		    |
  +-----------------------------+------------------------------------------+----------+--------------------------------------+
- |Cleopatra hostname change    |Instead of Hostname we can use		  |Change    |System starts changing the host name  |
+ |cleopatra hostname change    |Instead of Hostname we can use		  |Change    |System starts changing the host name  |
  |--hostname="Name" 	       |Hostname,hostname    			  | 	     |process under cleopatra|		    |
  +-----------------------------+------------------------------------------+----------+--------------------------------------+
 

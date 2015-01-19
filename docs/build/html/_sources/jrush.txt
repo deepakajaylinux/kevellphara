@@ -18,6 +18,28 @@ The help command guides the users regarding the purpose and as well as about the
 
 The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under JRush.
 
+
+.. code-block:: bash
+
+ kevells@corp:/# cleopatra JRush help
+ ******************************
+
+
+  This command allows you to install or Update JRush.
+
+  JRush, jrush, Jrush, jRush
+
+        - install
+        Installs the latest version of jRush
+        example: cleopatra jRush install
+
+ ------------------------------
+ End Help
+ ******************************
+
+
+
+
 Installation
 ----------------
 
@@ -80,10 +102,39 @@ During the installation, the following process occurs:
 Finally, The installation of Jrush is completed. The following screen shot depicts the process of installing the JRush to your machine:
 
 
+.. code-block:: bash
+
+ kevells@corp:/# cleopatra JRush install
+ Install JRush - Joomla Command Line ? (Y/N) 
+ Y
+ *******************************
+ *        Pharaoh Tools        *
+ *         JRush CLI !!        *
+ *******************************
+ What is the program data directory? Found "/opt/jrush" - use this? (Enter nothing for yes, no end slash)
+ 
+ What is the program executor directory? Found "/usr/bin" - use this? (Enter nothing for yes, No Trailing Slash)
+
+ git clone 'https://github.com/PharaohTools/jrush.git'  /tmp/jrush/jrushCloning into '/tmp/jrush/jrush'...
+ remote: Counting objects: 3452, done.
+ remote: Total 3452 (delta 0), reused 0 (delta 0)
+ Receiving objects: 100% (3452/3452), 2.04 MiB | 50.00 KiB/s, done.
+ Resolving deltas: 100% (2097/2097), done.
+ Checking connectivity... done.
+ Program Data folder populated
+ Program Executor Deleted if existed
+ ... All done!
+ *******************************
+ Thanks for installing , visit www.pharaohtools.com for more
+ ******************************
 
 
-
-
+ Single App Installer:
+ --------------------------------------------
+ JRush: Success
+ ------------------------------
+ Installer Finished
+ ******************************
 
 
 Benefits

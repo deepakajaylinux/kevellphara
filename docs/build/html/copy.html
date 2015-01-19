@@ -109,12 +109,30 @@
 <div class="section" id="help-command">
 <h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>This command can function about the objectives and commands available under copy module. It also explains the command to copy the file. Before installation you read this help command explains its function. The following image also helps you to understand this module clearly.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra Copy <span class="nb">help</span>
+******************************
+
+
+ This <span class="nb">command </span>handles file copying functions.
+
+ Copy, copy
+
+       - put
+       Will ask you <span class="k">for</span> details <span class="k">for</span> servers, <span class="k">then</span> copy a file or directory from <span class="nb">local </span>to remote
+       example: cleopatra copy put
+       example: cleopatra copy put --yes --source<span class="o">=</span><span class="s2">&quot;/tmp/file&quot;</span> --target<span class="o">=</span><span class="s2">&quot;/home/user/file&quot;</span>
+
+------------------------------
+End Help
+******************************
+</pre></div>
+</div>
 </div>
 <div class="section" id="installation">
 <h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
 <p>It is a glaring process to copy module under Cleopatra by just using the command given below,</p>
 <p>The main function of copy is to copy the file  from source file to destination. Here the user has to mention the file name and destination. The following syntax is used to copy</p>
-<div class="highlight-bas"><div class="highlight"><pre>Cleopatra copy put
+<div class="highlight-bash"><div class="highlight"><pre>cleopatra copy put
 </pre></div>
 </div>
 </div>
@@ -122,34 +140,68 @@
 <h2>Example<a class="headerlink" href="#example" title="Permalink to this headline">¶</a></h2>
 <blockquote>
 <div><ul class="simple">
-<li>Cleopatra copy put –yes—source=”/tmp/file”—target=”/home/user/file”</li>
+<li>cleopatra copy put –yes—source=”/tmp/file”—target=”/home/user/file”</li>
 </ul>
 </div></blockquote>
 <p>After vitalize the command it will catechize input.
 The user input as yes the user has to enter as source file then it requires target file. Now the user has to enter the target file.
 Finally the file has copied from source to destination. The following screenshot shows the copying of file.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra copy put
+Copy files? <span class="o">(</span>Y/N<span class="o">)</span>
+Y
+/ph.php
+Enter target file path
+/home
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> <span class="o">[</span>Copy<span class="o">]</span> Executing cp -r /ph.php /home
+******************************
+
+
+Copy Result: Success
+------------------------------
+Copy Finished
+******************************
+******************************
+</pre></div>
+</div>
 </div>
 <div class="section" id="options">
 <h2>Options<a class="headerlink" href="#options" title="Permalink to this headline">¶</a></h2>
 <p>The user input as copy put then access the source file path and target file path.</p>
-<p>iParameters
-syntax
-Comments
-put
-Source to target
-The file path  copied from source to destination
-get
-Path to source
-Copy the files from the path to source directory</p>
-<blockquote>
-<div>Benefits</div></blockquote>
-<p>The user can work with remote place also.
-User can mention the path for source and destination.
-It is very secure in copying.
-Fast accessible.
-Easily we can share the information with others.
-The user can copy any kind of information (including sound and pictures).
-The user can copy entire file path from one folder to another.</p>
+<table border="1" class="table-bordered docutils">
+<colgroup>
+<col width="34%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head">Parameters</th>
+<th class="head">Directory(default)</th>
+<th class="head">Comments</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td>put</td>
+<td>Source to target</td>
+<td>The file path copied from
+source to destination</td>
+</tr>
+<tr class="row-odd"><td>get</td>
+<td>Path to source</td>
+<td>Copy the files from the path
+to source directory|</td>
+</tr>
+</tbody>
+</table>
+<p>Benefits</p>
+<ul class="simple">
+<li>The user can work with remote place also.</li>
+<li>User can mention the path for source and destination.</li>
+<li>It is very secure in copying.</li>
+<li>Fast accessible.</li>
+<li>Easily we can share the information with others.</li>
+<li>The user can copy any kind of information (including sound and pictures).</li>
+<li>The user can copy entire file path from one folder to another.</li>
+</ul>
 </div>
 </div>
 

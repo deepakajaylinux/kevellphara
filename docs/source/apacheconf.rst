@@ -2,12 +2,12 @@ ApacheConf
 =============
 
 Synopsis
---------
+----------
 
 This module assists in managing and installing the Apache configuration. It specifies the configuration of your environment. It is well-to-do in ubuntu and as well as in Cent OS.
 
 Installation
--------------
+---------------
 
 It is easier to install this particular tool under Cleopatra by simply using the command given below,
 

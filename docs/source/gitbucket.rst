@@ -16,7 +16,7 @@ This command helps to determine the usage of gitbucket module. The user comes to
 
 .. code-block:: bash
      
-                Cleapatra gitbucket help
+                cleopatra gitbucket help
 
 Installation
 ----------------
@@ -26,7 +26,7 @@ While installing, the system ask for repository root directory. User has to defi
 
 .. code-block:: bash
        
-                Cleapatra gitbucket install
+                cleopatra gitbucket install
 
 Options
 ----------
@@ -36,10 +36,10 @@ Options
 	+-----------------------------+------------------------+-----------------------+-----------------------------------------------+
 	|	Parameters  	      | Alternative Parameter  |	Option	       | 		Comments		       |
 	+=============================+========================+=======================+===============================================+
-	|Cleopatra  gitbucket Install |GitBucket, gitbucket ,  |Y		       |System starts installation process	       |
+	|cleopatra  gitbucket Install |GitBucket, gitbucket ,  |Y		       |System starts installation process	       |
 	|			      |git-bucket    	       |		       |					       |
 	+-----------------------------+------------------------+-----------------------+-----------------------------------------------+
-	|Cleopatra  gitbucket Install |GitBucket, gitbucket ,  |N		       |                                               |
+	|cleopatra  gitbucket Install |GitBucket, gitbucket ,  |N		       |                                               |
 	|                             |git-bucket 	       |		       |System stops installation|                     |
 	+-----------------------------+------------------------+-----------------------+-----------------------------------------------+
 

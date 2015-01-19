@@ -16,7 +16,7 @@ This help command guide the user about Cleopatra. It is less time consuming beca
 
 .. code-block:: bash
 
-		Cleopatra gittools help
+		cleopatra gittools help
 
 After typing the command it shows the usage. The screen shot can express the function of this command.
 
@@ -27,7 +27,7 @@ Installation
 
 .. code-block:: bash 
 
-		Cleopatra gittools install
+		cleopatra gittools install
 
 After vitalize the command it will catechize input.
 

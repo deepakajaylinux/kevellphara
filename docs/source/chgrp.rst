@@ -2,12 +2,12 @@ Chgrp
 =============
 
 Nut shell
---------
+-----------
 
 This module confess many owners. Linux can accept many groups. 
 
-How to use:	
------------
+How to use	
+-------------
 
 It is an obvious process to change group module under Cleopatra by just using the command given below,
 
@@ -26,12 +26,12 @@ Change group can be used to change the group permission. It simplified the proce
 .. _making-a-table:
 
 Options
--------
+---------
 
 .. cssclass:: table-bordered
 
  +-----------+------------------+-----------+---------------------------------------------------------+
- |Parameters |Requirement       |option     |Comments                                                 |
+ |Parameters |Requirement       |Option     |Comments                                                 |
  +===========+==================+===========+=========================================================+
  |chgrp      |Yes               |-          |It will  the change group module under Cleopatra         |
  +-----------+------------------+-----------+---------------------------------------------------------+

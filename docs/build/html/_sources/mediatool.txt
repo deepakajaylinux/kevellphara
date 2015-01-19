@@ -78,7 +78,7 @@ If the user proceeds the installation process, the following process occurs duri
 
 .. code-block:: bash
 
-	Kevells@corp:~# cleopatra mediatools install
+	Kevells@corp:/# cleopatra mediatools install
 	Install Media Tools? (Y/N) 
 	y
 	*******************************
@@ -343,7 +343,7 @@ If the user proceeds the installation process, the following process occurs duri
 
 
    
-Benefits:
+Benefits
 ------------
 * The parameters used in help and installation operations are not case sensitive which is an added advantage while compared to others.
 * Using this module the productivity of the system can be enhanced.

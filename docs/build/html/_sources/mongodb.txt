@@ -14,7 +14,7 @@ Help command
 .. code-block:: bash
 
 
-   root@deepak:~# cleopatra MongoDB help
+   kevells@corp:/# cleopatra MongoDB help
    ******************************
 
 
@@ -41,11 +41,12 @@ Help command
 
 Installation
 -------------
+
 Use this module to install Mongo DB on Ubuntu Linux systems from .deb packages. While Ubuntu includes its own Mongo DB packages, the official Mongo DB packages are generally more up-to-date. 
 
 .. code-block:: bash
 
-	Cleopatra mongoDB  server install
+	cleopatra mongoDB  server install
 
 Install mongo DB server?(Y/N)
 
@@ -53,7 +54,7 @@ When the user gives input as Yes automatically it will install all depencies in 
 
 .. code-block:: bash
 
-	kevells@corp:~# cleopatra mongodb-server install
+	kevells@corp:/# cleopatra mongodb-server install
 
 	Install MongoDB Server? (Y/N) 
 	y
@@ -171,7 +172,7 @@ Options
 .. cssclass:: table-bordred
 
 	+-----------------------+-----------------------+----------------------------+------------------------------------------+
-        |    Parameters         |Directory              | option                     |     Comment                              |
+        |Parameters             |Directory              | Option                     |     Comment                              |
         +=======================+=======================+============================+==========================================+
 	|Install mongoDB server |  YES                  |In Spite of mongoDB, the    |It will install mongoDB under Cleopatra   |
         |		       	|    	                |following alternatives can  |               				|
@@ -188,6 +189,7 @@ Options
 
 Benefits
 ----------
+
 * Mongo DB is document oriented database.
 * Mongo DB can updated the latest version.
 * While installing mongo DB all depencies, libraries can also installed automatically without searching from the web.

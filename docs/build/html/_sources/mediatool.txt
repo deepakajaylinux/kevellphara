@@ -22,7 +22,7 @@ The syntax for declaring the help command is not case sensitive which is an adde
 .. code-block:: bash
 
 
-	Kevells@corp:~# cleopatra MediaTools help
+	Kevells@corp:/# cleopatra MediaTools help
 	******************************
 
 
@@ -78,7 +78,7 @@ If the user proceeds the installation process, the following process occurs duri
 
 .. code-block:: bash
 
- 	Kevells@corp:~# cleopatra mediatools install
+	Kevells@corp:~# cleopatra mediatools install
 	Install Media Tools? (Y/N) 
 	y
 	*******************************

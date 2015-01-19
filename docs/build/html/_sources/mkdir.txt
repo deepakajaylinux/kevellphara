@@ -3,12 +3,12 @@ Mkdir
 ========
 
 
-Synopsis:
+Synopsis
 ------------
 
 This module assists in creating a directory. The user can specify the path while declaring creation of directory or at run-time of creating a directory. It can be performed either in remote or local machine. Let us see about how this module helps in creating a directory.
 
-Help Command:
+Help Command
 ---------------------
 
 The help command leads the users regarding the purpose and as well as about the options that are included in the Mk Dir. The help command lists out the alternative parameters of MK Dir. . It also describes the syntax for creating a directory in two different ways either at time of declaration or at run-time. . The help command for MK dir is shown below.
@@ -21,7 +21,7 @@ The syntax for declaring the help command is not case sensitive which is an adde
 
 .. code-block:: bash
 
-	kevells@corp:~# cleopatra Mkdir help
+	kevells@corp:/# cleopatra Mkdir help
 	******************************
 
 
@@ -65,7 +65,7 @@ The following screen shot depicts the second way of creating a directory.
 
 .. code-block:: bash
 
-	kevells@corp:~# cleopatra mkdir path --yes --path="/kevellsdoc"
+	kevells@corp:/# cleopatra mkdir path --yes --path="/kevellsdoc"
 	
 	[Pharaoh Logging] [Mkdir] Executing mkdir /kevellsdoc
 	******************************
@@ -76,7 +76,7 @@ The following screen shot depicts the second way of creating a directory.
 	Mkdir Finished
 	******************************
 
-Benefits:
+Benefits
 ------------
 * The parameters used in help and creating a directory operations are not case sensitive which is an added advantage while compared to others.
 * Creating a directory can be defined in two different ways as declaration time or at run-time.

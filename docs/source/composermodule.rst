@@ -16,7 +16,7 @@ This command helps to determine the usage of composer module. The user will come
 
 .. code-block:: bash
               
-		 Cleopatra composer help
+		 cleopatra composer help
 
  kevells@corp:/# cleopatra composer help
  ******************************
@@ -42,7 +42,7 @@ When the user needs to install composer module in machine, the below given comma
 
 .. code-block:: bash
                
-		 Cleopatra composer install
+		 cleopatra composer install
 
 While installing, the system ask for the directory name, if you wants to set up your PATH, you can define your path. Define your path has to be followed by '/' symbol. Press Enter to use default path.
 
@@ -65,14 +65,10 @@ Options
 	+---------------------------+------------------------+-----------------------+-----------------------------------------------+
 	|	Parameters  	    | Alternative Parameter  |	Option		     | 		Comments			     |
 	+===========================+========================+=======================+===============================================+
-	|Cleopatra composer Install |Composer , composer     |Y			     |System starts installation process	     |
+	|cleopatra composer Install |Composer , composer     |Y			     |System starts installation process	     |
 	+---------------------------+------------------------+-----------------------+-----------------------------------------------+
-	|Cleopatra composer Install |Composer , composer     |N			     |System stops installation process|	     |
+	|cleopatra composer Install |Composer , composer     |N			     |System stops installation process|	     |
 	+---------------------------+------------------------+-----------------------+-----------------------------------------------+
-
-
-
-
 
 
 Benefits

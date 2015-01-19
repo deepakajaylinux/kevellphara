@@ -21,7 +21,7 @@ This command helps to determine the usage of file module. The user will come to 
 
 .. code-block:: bash
         
-	        Cleopatra file help
+	        cleopatra file help
 
 Create
 ------------
@@ -36,13 +36,13 @@ The below given commands overwrite files that exist
 
 .. code-block:: bash
          
-	       Cleopatra file create --file="somename” --overwrite-existing
+	       cleopatra file create --file="somename” --overwrite-existing
 
 The below given command for write the data in the file
 
 .. code-block:: bash
            
-		Cleopatra file create –file="somename” --data="things to put in the file" 
+		cleopatra file create –file="somename” --data="things to put in the file" 
 
 Delete
 ----------
@@ -100,4 +100,4 @@ Options
 Benefits
 -----------
 
-Specify a file specially formatted containing position-sensitive tests; default position-sensitive tests and context-sensitive tests will not be performed.
+* Specify a file specially formatted containing position-sensitive tests; default position-sensitive tests and context-sensitive tests will not be performed.

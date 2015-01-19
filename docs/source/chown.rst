@@ -15,7 +15,7 @@ This help command explains about the installation of a particular module. The he
 
 .. code-block:: bash
 	
-	Cleopatra chown help
+	cleopatra chown help
 
 After giving the command, the command will list the help options. The following screen shots will give visual effect for the usage of this module.
 

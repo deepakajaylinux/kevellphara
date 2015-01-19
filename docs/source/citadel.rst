@@ -16,7 +16,7 @@ This command helps to determine the usage of Citadel module. The user will come 
 
 .. code-block:: bash
       	
-		Cleopatra  Citadel help
+		cleopatra  Citadel help
 
  kevells@corp:/# cleopatra Citadel help
  ******************************
@@ -47,7 +47,7 @@ When the user needs to install Citadel server in machine, you can issue the foll
 
 .. code-block:: bash
        
-	        Cleopatra Citadel  install
+	        cleopatra Citadel  install
 
 
  kevells@corp:/# cleopatra Citadel install
@@ -218,12 +218,12 @@ Options
  +-----------------------------+------------------------------------------+----------+--------------------------------------+
  |	Parameters  	       | Alternative Parameter                    | Options  | 		Comments	            |
  +=============================+==========================================+==========+======================================+
- |Cleopatra Citadel Install    |Either of the three alternative		  |Y         |Once the user provides the option,    |
+ |cleopatra Citadel Install    |Either of the three alternative		  |Y         |Once the user provides the option,    |
  |		 	       |parameter can be used in command- Citadel,|   	     |System starts installation process    |
  |                             |citadel-server,  citadel		  |          |				            |
  |                             |eg: Cleopatra  citadel-server Install     |          |				            |
  +-----------------------------+------------------------------------------+----------+--------------------------------------+
- |Cleopatra Citadel Install    |Either of the three alternative		  |N         |Once the user provides the option,    |
+ |cleopatra Citadel Install    |Either of the three alternative		  |N         |Once the user provides the option,    |
  |		 	       |parameter can be used in command- Citadel,| 	     |System stops installation process     |
  |                             |citadel-server,  citadel		  |          |				            |
  |                             |eg: Cleopatra  citadel-server Install|    |          |				            |
@@ -240,7 +240,7 @@ This command helps in configuring the Citadel server. Once the below given comma
 
 .. code-block:: bash
          
-	        Cleapatra Citadel configure
+	        cleopatra Citadel configure
 
 Benefits
 --------------

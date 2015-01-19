@@ -2,13 +2,13 @@
 Chown
 ==============
 
-SYNOPSIS
+Synopsis
 ----------
 
 This module enables to change owner’s permission. It change the permission on individual file 
 Or directory. Before that you must be aware of the default permission assigned to your files and directories at the time you create it. 
 
-Help command:
+Help command
 --------------
 
 This help command explains about the installation of a particular module. The help command is easy to operate by the end user. The following command guided the user about the installation.
@@ -86,26 +86,13 @@ Options
 	| 	Parameters	              		 | Required   | option  		   |Comments			 |
 	+================================================+============+============================+=============================+
 	|Chown	 			 		 | Yes	      |	__			   |				 |
-	|						 | 	      |		   		   | 				 |
-	|						 |            |		   		   |				 |
 	+------------------------------------------------+------------+----------------------------+-----------------------------+
 	|Path						 | Yes	      |	__			   |The user has to give the     |
 	|						 |            |			           |path			 |
-	| 			       			 |	      |   			   |				 |
-	|						 |            |				   | 				 |
 	+------------------------------------------------+------------+----------------------------+-----------------------------+
 	|Owner				 		 | Yes        |	Chown       		   |				 |
-	|						 |            |				   |				 |
-	|						 |            |	 			   |				 |
 	+------------------------------------------------+------------+----------------------------+-----------------------------+
 	|Owner						 | No         |	Chown			   |The user gives input as no,	 |
 	|                                                |	      |				   |it will ask the owner name|  |
-	|                                                |	      |				   |				 |
 	+------------------------------------------------+------------+----------------------------+-----------------------------+
-
-
-
-
-
-
 

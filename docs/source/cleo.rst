@@ -19,7 +19,7 @@ Installation
 
 .. code-block:: bash
 
-  Cleopatra Cleopatra install
+  cleopatra Cleopatra install
 
 After giving the command the Cleopatra will be installed with new updates.
 The user input has passed then will check if any file is missing it will install automatically.
@@ -33,16 +33,14 @@ Options
 .. cssclass:: table-bordered
 
 
-	+-------------------------------+------------------------------+--------------------------+------------------------------+
-	| 	Parameters	        | Directory(default)           | option	  	          |Comments			 |
-	+===============================+==============================+==========================+==============================+
-	|Install cleopatra		|			       |	Y(YES)            |It will install Cleopatra 	 |
-	|				|	     	   	       |			  |under Cleopatra               |
-	|				|		               | 			  |                              |
-	|				|			       |			  |				 |
-	+-------------------------------+------------------------------+--------------------------+------------------------------+
-	|Install cleopatra      	|			       |	N(NO)		  |It will exit from installation|
-	+-------------------------------+------------------------------+--------------------------+------------------------------+
+	+-------------------------------+------------------------------+--------------------------+--------------------------------+
+	| 	Parameters	        | Directory(default)           | option	  	          |Comments			   |
+	+===============================+==============================+==========================+================================+
+	|Install cleopatra		|			       |	Y(YES)            |It will install Cleopatra 	   |
+	|				|	     	   	       |			  |under Cleopatra                 |
+	+-------------------------------+------------------------------+--------------------------+--------------------------------+
+	|Install cleopatra      	|			       |	N(NO)		  |It will exit from installation| |
+	+-------------------------------+------------------------------+--------------------------+--------------------------------+
 
 Benefits
 ----------
@@ -50,38 +48,3 @@ Benefits
 * Cleopatra is used to install configuration file. While installing if there is any file is existing overwrite the content.
 * New version can update automatically.
 * Updating can be done in this module without web search.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -103,26 +103,24 @@ If the user gives N then it will Exit the screen. The following Screen shot demo
 .. cssclass:: table-bordered
 
 	+-----------------------+-----------------------+----------------------------+------------------------------------------+
-        |    Parameters         |Directory              | option                     |     Comment                              |
+        |Parameters	        |Directory              |Option                      |Comment		                        |
         +=======================+=======================+============================+==========================================+
-	|Data directory(DEFAULT)|  YES                  |“/opt/Phlagrant”	     |It will install Phlagrant under Cleopatra |
+	|Data directory(DEFAULT)|YES  	                |“/opt/Phlagrant”	     |It will install Phlagrant under Cleopatra |
 	+-----------------------+-----------------------+----------------------------+------------------------------------------+
-        |Data directory         |  No                   |End slash                   |The user has to a specify the path.       |
+        |Data directory         |No	                |End slash                   |The user has to a specify the path.       |
 	+-----------------------+-----------------------+----------------------------+------------------------------------------+
-        |Executor directory     |  Yes                  |“/usr/bin”	       	     |It will install executor directory        |
+        |Executor directory     |Yes	                |“/usr/bin”	       	     |It will install executor directory        |
     	|(Default)	        |    	                |                            |               				|
 	+-----------------------+-----------------------+----------------------------+------------------------------------------+
-	|Executor directory     |  No                   |No trailing slash           |The user gives input as directory name|   |
-    	|		       	|    	                |                            |               				|
+	|Executor directory     |No                     |No trailing slash           |The user gives input as directory name|   |
 	+-----------------------+-----------------------+----------------------------+------------------------------------------+
 
 
-Benifits 
+Benefits 
 ---------
 
-Ubuntu users can simply install phlagrant from the repository.
-The real advantage of phlagrant lies in its performance.
-Integration with Host OS.
-Speed accessability.
-Manage virtual box.
-
+* Ubuntu users can simply install phlagrant from the repository.
+* The real advantage of phlagrant lies in its performance.
+* Integration with Host OS.
+* Speed accessability.
+* Manage virtual box.

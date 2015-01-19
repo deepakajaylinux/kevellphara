@@ -46,7 +46,7 @@ It is a glaring process to install firefox17 module under Cleopatra by just usin
 
 .. code-block:: bash
          
-         Cleopatra firefox17 install
+         cleopatra firefox17 install
 
 After key in the command, it can asks
 
@@ -57,52 +57,51 @@ In case the user input as Y, it can install firefox17 from the package. Else, it
 
 .. code-block:: bash
 
-        kevells@corp:/# cleopatra Firefox14 install
-
-        Install Firefox? (Y/N) 
-        y
-        *******************************
-        *        Pharaoh Tools        *
-        *          Firefox            *
-        *******************************
-        Creating /tmp/cleopatra-temp-script-51942043520.sh
-        chmod 755 /tmp/cleopatra-temp-script-51942043520.sh 2>/dev/null
-        Changing /tmp/cleopatra-temp-script-51942043520.sh Permissions
-        Executing /tmp/cleopatra-temp-script-51942043520.sh
-        Cloning into 'firefox14'...
-        remote: Counting objects: 78, done.
-        remote: Total 78 (delta 0), reused 0 (delta 0)
-        Unpacking objects: 100% (78/78), done.
-        Checking connectivity... done.
-        Temp File /tmp/cleopatra-temp-script-51942043520.sh Removed
-        Program Executor Deleted if existed
-        ... All done!
-        *******************************
-        Thanks for installing , visit www.pharaohtools.com for more
-        ******************************
 
 
-        Single App Installer:
-        --------------------------------------------
-        Firefox17: Success
-        ------------------------------
-        Installer Finished
-        ******************************
+ kevells@corp:/# cleopatra Firefox17 install
+ Install Firefox 17? (Y/N) 
+ Y
+ *******************************
+ *        Pharaoh Tools        *
+ *          Firefox 17         *
+ *******************************
+ Creating /tmp/cleopatra-temp-script-34898518137.sh
+ chmod 755 /tmp/cleopatra-temp-script-34898518137.sh 2>/dev/null
+ Changing /tmp/cleopatra-temp-script-34898518137.sh Permissions
+ Executing /tmp/cleopatra-temp-script-34898518137.sh
+ Cloning into 'firefox17'...
+ remote: Counting objects: 78, done.
+ remote: Total 78 (delta 0), reused 0 (delta 0)
+ Unpacking objects: 100% (78/78), done.
+ Checking connectivity... done.
+ Temp File /tmp/cleopatra-temp-script-34898518137.sh Removed
+ Program Executor Deleted if existed
+ ... All done!
+ *******************************
+ Thanks for installing , visit www.pharaohtools.com for more
+ ******************************
 
+
+ Single App Installer:
+ --------------------------------------------
+ Firefox17: Success
+ ------------------------------
+ Installer Finished
+ ******************************
 
 Options
---------------
-
+----------
 
 .. cssclass:: table-bordered
 
         +------------------------------+--------------------------+------------+----------------------------+
         | Parameters                   | Alternative Parameter    | Required   | Comment                    |
         +==============================+==========================+============+============================+
-        |Cleopatra firefox14 Install   |Firefox,ff17,firefox      | Y(YES)     |System starts installation  |
+        |Cleopatra firefox17 Install   |Firefox,ff17,firefox      | Y(YES)     |System starts installation  |
         |                              |                          |            |process Under cleopatra     | 
         +------------------------------+--------------------------+------------+----------------------------+ 
-        |Cleopatra firefox14 Install   |Firefox,ff17,firefox      | N(NO)      |System stops installation   |
+        |Cleopatra firefox17 Install   |Firefox,ff17,firefox      | N(NO)      |System stops installation   |
         |                              |                          |            |process|                    | 
         +------------------------------+--------------------------+------------+----------------------------+
 

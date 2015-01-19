@@ -14,13 +14,13 @@ This command can function about the objectives and commands available under Fire
 
 .. code-block:: bash
           
-           Cleopatra firefox24 help
+           cleopatra firefox24 help
 
 The following image also helps you to understand this module clearly.
 
 .. code-block:: bash
 
-        Kevells@corp:~# cleopatra firefox24 help
+        Kevells@corp:/# cleopatra firefox24 help
         ******************************
 
 
@@ -45,7 +45,7 @@ It is a glaring process to install firefox24 module under Cleopatra by just usin
 
 .. code-block:: bash
          
-        Cleopatra firefox24 install
+        cleopatra firefox24 install
 
 After key in the command, it can asks
 
@@ -95,13 +95,13 @@ Options
 	+-----------------------------+------------------------+-----------------------+-----------------------------------------------+
 	| Parameters  	              | Alternative Parameter  | Options	       | Comments		                       |
 	+=============================+========================+=======================+===============================================+
-	|Cleopatra firefox24 Install  | Firefox24	       |Y		       |System starts installation process under       |
+	|cleopatra firefox24 Install  |Firefox24	       |Y		       |System starts installation process under       |
 	|			      |		    	       |		       |cleopatra				       |
 	+-----------------------------+------------------------+-----------------------+-----------------------------------------------+
-	|Cleopatra firefox24 Install  |Ff24		       |Y		       |System starts installation process under       |
+	|cleopatra firefox24 Install  |Ff24		       |Y		       |System starts installation process under       |
         |                     	      |			       |		       |cleopatra				       |
 	+-----------------------------+------------------------+-----------------------+-----------------------------------------------+
-	|Cleopatra firefox24 Install  |Firefox24	       |N		       |System stops installation process under        |
+	|cleopatra firefox24 Install  |Firefox24	       |N		       |System stops installation process under        |
 	|                             |                        |                       |cleopatra|                                     |  
       	+-----------------------------+------------------------+-----------------------+-----------------------------------------------+
 

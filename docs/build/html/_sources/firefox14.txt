@@ -14,13 +14,13 @@ Help Command
 This command can function about the objectives and commands available under Firefox14 module. It also explains the command to install firefox14. Before installation, the user can read this help command explains its function. 
 .. code-block:: bash
            
-      Cleopatra firefox14 help
+      cleopatra firefox14 help
 
 The following image also helps you to understand this module clearly.
 
 .. code-block:: bash
 
-	Kevells@corp:~# cleopatra firefox14 help
+	Kevells@corp:/# cleopatra firefox14 help
 	******************************
 
 
@@ -44,7 +44,7 @@ It is a glaring process to install firefox14 module under Cleopatra by just usin
 
 .. code-block:: bash
        
-  Cleopatra firefox14 install
+  cleopatra firefox14 install
 
 After key in the command, it can asks
 
@@ -98,24 +98,16 @@ Options
   	+------------------------------+--------------------------+------------+----------------------------+
         | Parameters                   | Alternative Parameter    | Required   | Comment                    |
         +==============================+==========================+============+============================+
-        |Cleopatra firefox14 Install   |Firefox,ff14,             | Y(YES)     |System starts installation  |
+        |cleopatra firefox14 Install   |Firefox,ff14,             | Y(YES)     |System starts installation  |
         |                              |                  	  |            |process Under cleopatra	    | 
         +------------------------------+--------------------------+------------+----------------------------+ 
-        |Cleopatra firefox14 Install   |Firefox,ff14           	  | N(NO)      |System stops installation   |
+        |cleopatra firefox14 Install   |Firefox,ff14           	  | N(NO)      |System stops installation   |
         |                              |                   	  |            |process|		    | 
         +------------------------------+--------------------------+------------+----------------------------+
 
 Benefits
 ------------------
-Firefox14 uses support for new hardware and integration of all the updates published in that series to date.
-Firefox14 is an open source Web browser for Linux.
-Firefox14 is non-case sensitive.
-Privacy and security measures, smart searching is possible.
-
-
-
-
-
-
-
-
+* Firefox14 uses support for new hardware and integration of all the updates published in that series to date.
+* Firefox14 is an open source Web browser for Linux.
+* Firefox14 is non-case sensitive.
+* Privacy and security measures, smart searching is possible.

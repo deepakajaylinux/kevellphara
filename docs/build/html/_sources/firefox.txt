@@ -14,7 +14,7 @@ This command can function about the objectives and commands available under Fire
 
 .. code-block:: bash
 
-              Cleopatra firefox help
+              cleopatra firefox help
 
 The following image also helps you to understand this module clearly.
 
@@ -46,7 +46,7 @@ It is a glaring process to install firefox module under Cleopatra by just using 
 
 .. code-block:: bash
 
-              Cleopatra firefox install
+              cleopatra firefox install
 
 After key in the command, it can asks
 Install firefox?(Y/N)
@@ -97,10 +97,10 @@ Options
         +-------------------------------+------------------------------+--------------------------+------------------------------+
         | Parameters                    | Alternative Parameter        | Options                  | Comment                      |
         +===============================+==============================+==========================+==============================+
-        |Cleopatra firefox Install      |Firefox                       |Y(YES)                    |System starts installation    |
+        |cleopatra firefox Install      |Firefox                       |Y(YES)                    |System starts installation    |
         |                               |                              |                          |process they can input as Y   |
         +-------------------------------+------------------------------+--------------------------+------------------------------+ 
-        |Cleopatra firefox Install      |Firefox                       |N(No)                     |If the user wish to           |
+        |cleopatra firefox Install      |Firefox                       |N(No)                     |If the user wish to           |
         |                               | 			       |                          |quit the installation         | 
         |                               | 			       |                          |process they can              |
         |                               | 			       |                          |input as N.|                  |
@@ -113,11 +113,3 @@ Benefits
 * Firefox is an open source Web browser for Linux.
 * Firefox is non-case sensitive.
 * Privacy and security measures, smart searching
-
-
-
-
-
-
-
-

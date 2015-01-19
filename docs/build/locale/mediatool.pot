@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELLS 1.1.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-19 14:19+0530\n"
+"POT-Creation-Date: 2015-01-19 15:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -165,7 +165,7 @@ msgstr ""
 
 #: ../../source/mediatool.rst:347
 # 05c5e5eb035140bc8d6adcf49f4788a2
-msgid "Benefits:"
+msgid "Benefits"
 msgstr ""
 
 #: ../../source/mediatool.rst:348

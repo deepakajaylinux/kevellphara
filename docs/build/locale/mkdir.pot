@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELLS 1.1.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-19 14:19+0530\n"
+"POT-Creation-Date: 2015-01-19 15:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../source/mkdir.rst:7
 # e369491c2b744f8ba5d6dbfb026f1125
-msgid "Synopsis:"
+msgid "Synopsis"
 msgstr ""
 
 #: ../../source/mkdir.rst:9
@@ -33,7 +33,7 @@ msgstr ""
 
 #: ../../source/mkdir.rst:12
 # 40c715c3daa84d7ea71c72ed12fc6e8b
-msgid "Help Command:"
+msgid "Help Command"
 msgstr ""
 
 #: ../../source/mkdir.rst:14
@@ -83,7 +83,7 @@ msgstr ""
 
 #: ../../source/mkdir.rst:80
 # a29fc9f12ade45e48be5a2424ed3afbd
-msgid "Benefits:"
+msgid "Benefits"
 msgstr ""
 
 #: ../../source/mkdir.rst:81

@@ -115,8 +115,11 @@
 <div class="section" id="help-command">
 <h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>The help command leads the users regarding the purpose and as well as about the options that are included in the Node-JS module. The help command lists out the alternative parameters of Node-JS module. It also describes the syntax for installing Node-JS module. The help command for Node-JS module is shown as below.</p>
+<div class="highlight-bash"><div class="highlight"><pre>cleopatra NodeJS <span class="nb">help</span>
+</pre></div>
+</div>
 <p>The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under Node JS.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra nodejs <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra NodeJS <span class="nb">help</span>
 ******************************
 
 
@@ -140,29 +143,30 @@ End Help
 <p>After inputting the command above, the following operations occurs as shown in the tabular format.</p>
 <table border="1" class="table-bordered docutils">
 <colgroup>
-<col width="24%" />
-<col width="20%" />
-<col width="7%" />
+<col width="23%" />
+<col width="27%" />
 <col width="13%" />
-<col width="37%" />
+<col width="36%" />
 </colgroup>
 <thead valign="bottom">
 <tr class="row-odd"><th class="head">Parameters</th>
-<th class="head" colspan="2">Alternative Parameter</th>
+<th class="head">Alternative Parameter</th>
 <th class="head">Option</th>
 <th class="head">Comments</th>
 </tr>
 </thead>
 <tbody valign="top">
 <tr class="row-even"><td>Install Node JS? (Y/N)</td>
-<td colspan="3">In Spite of Node JS, NodeJS,      <a href="#id1"><span class="problematic" id="id2">|</span></a>Y(Yes)
-node-js, nodejs can also be used. |</td>
+<td>In Spite of Node JS, NodeJS,
+node-js, nodejs can also be used.</td>
+<td>Y(Yes)</td>
 <td>If the user wish to proceed the installation
 process they can input as Y.</td>
 </tr>
 <tr class="row-odd"><td>Install Node JS? (Y/N)</td>
-<td colspan="3">In Spite of Node JS, NodeJS,      <a href="#id3"><span class="problematic" id="id4">|</span></a>N(No)
-node-js, nodejs can also be used. |</td>
+<td>In Spite of Node JS, NodeJS,
+node-js, nodejs can also be used.</td>
+<td>N(No)</td>
 <td>If the user wish to proceed the installation
 process they can input as N.|</td>
 </tr>
@@ -179,7 +183,7 @@ process they can input as N.|</td>
 </ul>
 <p>Finally, the reports and status are clearly reported. And also, adding package nodejs from the Packager Apt executed correctly. The following screenshot depicts the entire process of installation as described.</p>
 <p>If the node-js module is already existing in the users machine, it will show an message as the Package node-js from the packager Apt is already installed. The screen shot as follows is an good example for those type of messages.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:~# cleopatra node-js install
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# cleopatra node-js install
 Install Node JS? <span class="o">(</span>Y/N<span class="o">)</span>
 y
 *******************************

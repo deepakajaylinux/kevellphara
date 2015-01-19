@@ -172,15 +172,15 @@ Options
 .. cssclass:: table-bordred
 
 	+-----------------------+-----------------------+----------------------------+------------------------------------------+
-        | Parameters            | Directory             | Option                     | Comment                                  |
+        |Parameters             |Directory              |Option                      |Comment                                   |
         +=======================+=======================+============================+==========================================+
-	|Install mongoDB server |  YES                  |In Spite of mongoDB, the    |It will install mongoDB under Cleopatra   |
+	|Install mongoDB server |YES                    |In Spite of mongoDB, the    |It will install mongoDB under Cleopatra   |
         |		       	|    	                |following alternatives can  |               				|
     	|		       	|    	                |also be used: MongoDB,      |               				|
     	|		       	|    	                |mongo-db-server,mongo-db,   |               				|
     	|		       	|    	                |mongodb-server, mongodb,    |               				|
 	+-----------------------+-----------------------+----------------------------+------------------------------------------+
-	|Install mongoDB server |  NO                   |In Spite of mongoDB, the    |It will exit                              |
+	|Install mongoDB server |NO                     |In Spite of mongoDB, the    |It will exit                              |
         |		       	|    	                |following alternatives can  |               				|
     	|		       	|    	                |also be used: MongoDB,      |               				|
     	|		       	|    	                |mongo-db-server,mongo-db,   |               				|

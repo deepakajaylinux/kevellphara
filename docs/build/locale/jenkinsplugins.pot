@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELLS 1.1.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-19 14:19+0530\n"
+"POT-Creation-Date: 2015-01-19 15:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -46,89 +46,89 @@ msgstr ""
 msgid "This command helps to determine the usage of JenkinsPlugins module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same."
 msgstr ""
 
-#: ../../source/jenkinsplugins.rst:26
+#: ../../source/jenkinsplugins.rst:44
 # 85bbbb5a9fd0418f986ff5c30af988a3
 msgid "Installation"
 msgstr ""
 
-#: ../../source/jenkinsplugins.rst:27
+#: ../../source/jenkinsplugins.rst:45
 # 204b15ed98294378bbfea8dece995ef8
 msgid "This command allows you to install a bunch of plugins that we recommend for PHP builds in Jenkins. If the user needs to install Jenkins module in machine, the below given command will execute the process of installation."
 msgstr ""
 
-#: ../../source/jenkinsplugins.rst:47
+#: ../../source/jenkinsplugins.rst:88
 # ab05c730f4224f11ad4ccc17e9009b17
 msgid "Options"
 msgstr ""
 
-#: ../../source/jenkinsplugins.rst:52
+#: ../../source/jenkinsplugins.rst:93
 # ca4d80f33a564aa1a162e53323539b52
 msgid "Parameters"
 msgstr ""
 
-#: ../../source/jenkinsplugins.rst:52
+#: ../../source/jenkinsplugins.rst:93
 # 7ac76ff4b8b04d06b01f70387bb52e3d
 msgid "Alternative Parameter"
 msgstr ""
 
-#: ../../source/jenkinsplugins.rst:52
+#: ../../source/jenkinsplugins.rst:93
 # 7e61365201844c48b38cb1a589ab2f89
 msgid "Option"
 msgstr ""
 
-#: ../../source/jenkinsplugins.rst:52
+#: ../../source/jenkinsplugins.rst:93
 # b92292bc54734dffa598e021c94d7c17
 msgid "Comments"
 msgstr ""
 
-#: ../../source/jenkinsplugins.rst:54
-#: ../../source/jenkinsplugins.rst:63
+#: ../../source/jenkinsplugins.rst:95
+#: ../../source/jenkinsplugins.rst:104
 # 193c31aad7374a0baa7ee931f49d7ffc
 # 972c2b9901a140caaf70b8c039976374
 msgid "cleopatra  JenkinsPlugins Install"
 msgstr ""
 
-#: ../../source/jenkinsplugins.rst:54
+#: ../../source/jenkinsplugins.rst:95
 # 452cbd0b180e48c49634e828a4118863
 msgid "Either of the four alternative parameter can be used in command- JenkinsPlugins, jenkinsplugins, jenkins-plugins, jenkins-plugs eg: Cleopatra jenkins-plugins Install"
 msgstr ""
 
-#: ../../source/jenkinsplugins.rst:54
+#: ../../source/jenkinsplugins.rst:95
 # fbb39bb04e41476eac8360076a0cc481
 msgid "Y"
 msgstr ""
 
-#: ../../source/jenkinsplugins.rst:54
+#: ../../source/jenkinsplugins.rst:95
 # 3fbc9081b7d44067895050de6e60695f
 msgid "Once the user provides the option, System starts installation process"
 msgstr ""
 
-#: ../../source/jenkinsplugins.rst:63
+#: ../../source/jenkinsplugins.rst:104
 # d9fb0534a4f64037a20cc6751a8917d9
 msgid "Either of the four alternative parameter can be used in command- JenkinsPlugins, jenkinsplugins, jenkins-plugins, jenkins-plugs eg: Cleopatra jenkins-plugins Install|"
 msgstr ""
 
-#: ../../source/jenkinsplugins.rst:63
+#: ../../source/jenkinsplugins.rst:104
 # f7813151d184417a923c0ded2a1cce95
 msgid "N"
 msgstr ""
 
-#: ../../source/jenkinsplugins.rst:63
+#: ../../source/jenkinsplugins.rst:104
 # 2891ce94c1da41b1a6ebdc49139c579c
 msgid "Once the user provides the option, System Stops installation process"
 msgstr ""
 
-#: ../../source/jenkinsplugins.rst:75
+#: ../../source/jenkinsplugins.rst:116
 # df4f9e45936a472d8ff11793a934b414
 msgid "Benefits"
 msgstr ""
 
-#: ../../source/jenkinsplugins.rst:77
+#: ../../source/jenkinsplugins.rst:118
 # 478673376ec54109a50d1a4c7769e503
 msgid "The plugin will give you a report on how much every plugin will be used in all of your jobs . Therefore it will analyze the used extension points of each job."
 msgstr ""
 
-#: ../../source/jenkinsplugins.rst:78
+#: ../../source/jenkinsplugins.rst:119
 # 31df001d413a446dbaa981eb80af2a09
 msgid "This plugin gives you the possibility to analyze the usage of your installed plugins."
 msgstr ""

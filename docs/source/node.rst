@@ -13,6 +13,7 @@ Help Command
 The help command leads the users regarding the purpose and as well as about the options that are included in the Node-JS module. The help command lists out the alternative parameters of Node-JS module. It also describes the syntax for installing Node-JS module. The help command for Node-JS module is shown as below.
 
 .. code-block:: bash
+
 		cleopatra NodeJS help
 
 The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under Node JS.
@@ -21,7 +22,7 @@ The syntax for declaring the help command is not case sensitive which is an adde
 		
 
 
- kevells@corp:/# cleopatra nodejs help
+ kevells@corp:/# cleopatra NodeJS help
  ******************************
 
 
@@ -55,10 +56,10 @@ After inputting the command above, the following operations occurs as shown in t
 	+=============================+==================================+================+=============================================+
 	|Install Node JS? (Y/N)       |In Spite of Node JS, NodeJS,      |Y(Yes)	  |If the user wish to proceed the installation |
 	|		 	      |node-js, nodejs can also be used. |		  |process they can input as Y.			|
-	+-----------------------------+------------------------+--------------------------+---------------------------------------------+
+	+-----------------------------+----------------------------------+----------------+---------------------------------------------+
 	|Install Node JS? (Y/N)       |In Spite of Node JS, NodeJS,      |N(No)		  |If the user wish to proceed the installation |
 	|		 	      |node-js, nodejs can also be used. |		  |process they can input as N.|		|
-	+-----------------------------+------------------------+--------------------------+---------------------------------------------+
+	+-----------------------------+----------------------------------+----------------+---------------------------------------------+
 
 
 If the user proceeds the installation process, during execution of installation the following process occurs:
@@ -76,7 +77,7 @@ If the node-js module is already existing in the users machine, it will show an 
 
 .. code-block:: bash
 
- kevell@corp:~# cleopatra node-js install
+ kevell@corp:/# cleopatra node-js install
  Install Node JS? (Y/N) 
  y
  *******************************

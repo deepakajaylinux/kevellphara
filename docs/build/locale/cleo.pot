@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELLS 1.1.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-10 22:36+0530\n"
+"POT-Creation-Date: 2015-01-19 14:19+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -87,7 +87,7 @@ msgid "Comments"
 msgstr ""
 
 #: ../../source/cleo.rst:39
-#: ../../source/cleo.rst:44
+#: ../../source/cleo.rst:42
 # c50d2c2568d44fab9f3b0f63824984ae
 # 3687e27f217e4e9a964d698b714b2e56
 msgid "Install cleopatra"
@@ -103,32 +103,32 @@ msgstr ""
 msgid "It will install Cleopatra under Cleopatra"
 msgstr ""
 
-#: ../../source/cleo.rst:44
+#: ../../source/cleo.rst:42
 # 45912ad7293f459aa593310bf84e27fd
 msgid "N(NO)"
 msgstr ""
 
-#: ../../source/cleo.rst:44
+#: ../../source/cleo.rst:42
 # ca3183145f92469cbbaae78b983703b8
-msgid "It will exit from installation"
+msgid "It will exit from installation|"
 msgstr ""
 
-#: ../../source/cleo.rst:48
+#: ../../source/cleo.rst:46
 # ad74e082a4194344acd6a23f4826b821
 msgid "Benefits"
 msgstr ""
 
-#: ../../source/cleo.rst:50
+#: ../../source/cleo.rst:48
 # 4e814643efe04dd59fd77fa38154066f
 msgid "Cleopatra is used to install configuration file. While installing if there is any file is existing overwrite the content."
 msgstr ""
 
-#: ../../source/cleo.rst:51
+#: ../../source/cleo.rst:49
 # ffbdbe3ba3f34b42b703731e4dc2a0d0
 msgid "New version can update automatically."
 msgstr ""
 
-#: ../../source/cleo.rst:52
+#: ../../source/cleo.rst:50
 # cad2db32fa2444c3bee32a3e94c8ec12
 msgid "Updating can be done in this module without web search."
 msgstr ""

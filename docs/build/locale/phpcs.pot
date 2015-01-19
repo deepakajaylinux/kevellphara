@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELLS 1.1.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-10 22:36+0530\n"
+"POT-Creation-Date: 2015-01-19 14:19+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -213,22 +213,22 @@ msgstr ""
 msgid "After these process as shown in the tabular format, the results are clearly reported along with the status. The following screen shot explains you graphically about the process involved in installation of PHPCS."
 msgstr ""
 
-#: ../../source/phpcs.rst:95
+#: ../../source/phpcs.rst:131
 # 09336581add742a28c2094761717ef72
 msgid "Benefits"
 msgstr ""
 
-#: ../../source/phpcs.rst:97
+#: ../../source/phpcs.rst:133
 # c0c2a4c151774abeae2afcc83dd6176c
 msgid "This module facilitates the user in installing PHP CS with the updated version."
 msgstr ""
 
-#: ../../source/phpcs.rst:98
+#: ../../source/phpcs.rst:134
 # 57a86f575e27446387df7ab833d903aa
 msgid "The user can select their own path for program data directory and executor"
 msgstr ""
 
-#: ../../source/phpcs.rst:99
+#: ../../source/phpcs.rst:135
 # 4a89518eb7e34885b30fab6f9177542a
 msgid "The parameters used in declaring the help and installations are not case sensitive, which is added advantage while compared to others."
 msgstr ""

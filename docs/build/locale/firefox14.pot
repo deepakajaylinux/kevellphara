@@ -1,0 +1,165 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELLS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELLS 1.1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-19 14:19+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/firefox14.rst:3
+# f8eaeb8c248d412a8b33dbc4db879bc7
+msgid "FireFox 14"
+msgstr ""
+
+#: ../../source/firefox14.rst:7
+# 9558172373e04b769aeaccfbd5065a1c
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/firefox14.rst:9
+# eddc77f978894d46b27887d9f2193077
+msgid "This module is open source web browser. It used to install firefox14. Ubuntu releases updated versions periodically. It implements current and anticipated web standards. Long-term support includes updates for new hardware, security patches and updates to the 'Ubuntu stack' (cloud computing infrastructure). It is comfortable with Ubuntu and Cent OS."
+msgstr ""
+
+#: ../../source/firefox14.rst:12
+# e47740291f4140e1a0ad550e6c236b4b
+msgid "Help Command"
+msgstr ""
+
+#: ../../source/firefox14.rst:14
+# c7b3299481084d98b350ab06039926b6
+msgid "This command can function about the objectives and commands available under Firefox14 module. It also explains the command to install firefox14. Before installation, the user can read this help command explains its function. .. code-block:: bash"
+msgstr ""
+
+#: ../../source/firefox14.rst:17
+# 60145605134c41c09d6fce145d1f8b28
+msgid "cleopatra firefox14 help"
+msgstr ""
+
+#: ../../source/firefox14.rst:19
+# ef4f8cdb16ee4514bce05381e778c3a3
+msgid "The following image also helps you to understand this module clearly."
+msgstr ""
+
+#: ../../source/firefox14.rst:41
+# 4420a91fa2f3410ab9ca1a3fda243585
+msgid "Installation"
+msgstr ""
+
+#: ../../source/firefox14.rst:43
+# ed323c96efd543b6bef3cfa2a0e95bed
+msgid "It is a glaring process to install firefox14 module under Cleopatra by just using the command given below,"
+msgstr ""
+
+#: ../../source/firefox14.rst:49
+# 5fb366a4cf2440b28e4bc40dd381f654
+msgid "After key in the command, it can asks"
+msgstr ""
+
+#: ../../source/firefox14.rst:51
+# c6d0b1c9d5aa4b13b416d638972c884b
+msgid "Install firefox14?(Y/N)"
+msgstr ""
+
+#: ../../source/firefox14.rst:53
+# 24f1251a05d9409c88357fd0c32b44ad
+msgid "In case the user input as Y, it can install firefox14 from the package. Else, it can exit the screen. The following screen shots can explain it."
+msgstr ""
+
+#: ../../source/firefox14.rst:93
+# 77f7bb40610844f293ba19bb5e6c1e59
+msgid "Options"
+msgstr ""
+
+#: ../../source/firefox14.rst:99
+# b40efc36fe88470dbc2fa42e5a0ad1d2
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/firefox14.rst:99
+# aaa6be00d67346328be6ff25d34a2ba4
+msgid "Alternative Parameter"
+msgstr ""
+
+#: ../../source/firefox14.rst:99
+# ea1289c7a9634699912c048be34ce3c8
+msgid "Required"
+msgstr ""
+
+#: ../../source/firefox14.rst:99
+# e9202f9bcfba4ee9b5de4fe10c9281dc
+msgid "Comment"
+msgstr ""
+
+#: ../../source/firefox14.rst:101
+#: ../../source/firefox14.rst:104
+# ac6ccbd9c8f84ab58afa1e14df9c29ec
+# 1a468316ec784a488ef92adfb4eed618
+msgid "cleopatra firefox14 Install"
+msgstr ""
+
+#: ../../source/firefox14.rst:101
+# 0f2bba32a8754691b1cbe1c8a457b546
+msgid "Firefox,ff14,"
+msgstr ""
+
+#: ../../source/firefox14.rst:101
+# 8c6e5598d3e243f7a2d532ca8ed52917
+msgid "Y(YES)"
+msgstr ""
+
+#: ../../source/firefox14.rst:101
+# d63a4ab4623b4be3a743778253a8ad30
+msgid "System starts installation process Under cleopatra"
+msgstr ""
+
+#: ../../source/firefox14.rst:104
+# 8500371f69514cd78c4e70542e03e392
+msgid "Firefox,ff14"
+msgstr ""
+
+#: ../../source/firefox14.rst:104
+# bb0b1d3020264f90b4459a49535c13bc
+msgid "N(NO)"
+msgstr ""
+
+#: ../../source/firefox14.rst:104
+# ea7d05b286db41cdbfc7792d3e167737
+msgid "System stops installation process|"
+msgstr ""
+
+#: ../../source/firefox14.rst:109
+# 93090daad46f40e9a4b20b9635893c9b
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/firefox14.rst:110
+# 998e9504db544de784311a8258c19011
+msgid "Firefox14 uses support for new hardware and integration of all the updates published in that series to date."
+msgstr ""
+
+#: ../../source/firefox14.rst:111
+# 67c5833bd77d478f8db5388734e5d44b
+msgid "Firefox14 is an open source Web browser for Linux."
+msgstr ""
+
+#: ../../source/firefox14.rst:112
+# 1c5d37a7acec40c2b8ff48082aa335e3
+msgid "Firefox14 is non-case sensitive."
+msgstr ""
+
+#: ../../source/firefox14.rst:113
+# 8cc7eb22d7654db5b124ce995d845680
+msgid "Privacy and security measures, smart searching is possible."
+msgstr ""
+

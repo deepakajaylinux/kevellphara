@@ -16,7 +16,25 @@ This command helps to determine the usage of JenkinsPlugins module. The user wil
 
 .. code-block:: bash
              
-   		Cleopatra JenkinsPlugins help
+   		cleopatra JenkinsPlugins help
+
+
+ kevells@corp:/# cleopatra JenkinsPlugins help
+ ******************************
+
+
+  This command allows you to install a bunch of plugins that we recommend for
+  PHP builds in Jenkins.
+
+  JenkinsPlugins, jenkinsplugins, jenkins-plugins, jenkins-plugs
+
+        - install
+        Installs the latest version of Jenkins Plugins for PHP recommended by Golden Contact
+        example: cleopatra jenkins-plugins install
+
+ ------------------------------
+ End Help
+ ******************************
 
 
 
@@ -29,17 +47,40 @@ Installation
 
 .. code-block:: bash
         
-		Cleopatra JenkinsPlugins install
+		cleopatra JenkinsPlugins install
 
 
+ kevells@corp:/# cleopatra JenkinsPlugins install
+ Install Jenkins Plugins? (Y/N) 
+ Y
+ *******************************
+ *        Pharaoh Tools        *
+ *         Jenkns Plgs!        *
+ *******************************
+ Creating /tmp/cleopatra-temp-script-80223312434.sh
+ chmod 755 /tmp/cleopatra-temp-script-80223312434.sh 2>/dev/null
+ Changing /tmp/cleopatra-temp-script-80223312434.sh Permissions
+ Executing /tmp/cleopatra-temp-script-80223312434.sh
+ Cloning into 'jplugins'...
+ remote: Counting objects: 39, done.
+ remote: Total 39 (delta 0), reused 0 (delta 0)
+ Unpacking objects: 100% (39/39), done.
+ Checking connectivity... done.
+ chown: invalid user: ‘jenkins’
+ jenkins: unrecognized service
+ Temp File /tmp/cleopatra-temp-script-80223312434.sh Removed
+ ... All done!
+ *******************************
+ Thanks for installing , visit www.pharaohtools.com for more
+ ******************************
 
 
-
-
-
-
-
-
+ Single App Installer:
+ --------------------------------------------
+ JenkinsPlugins: Success
+ ------------------------------
+ Installer Finished
+ ******************************
 
 
 
@@ -51,7 +92,7 @@ Options
  +-----------------------------+----------------------------------+----------------+------------------------------------------------+
  |	Parameters  	       | Alternative Parameter            |	Option	   | 		Comments		            |
  +=============================+==================================+================+================================================+
- |Cleopatra  JenkinsPlugins    |Either of the four alternative 	  |Y		   |Once the user provides the option, System starts|	
+ |cleopatra  JenkinsPlugins    |Either of the four alternative 	  |Y		   |Once the user provides the option, System starts|	
  |Install		       |parameter can be used in command- |		   |installation process			    |
  |			       |JenkinsPlugins,  		  |		   |						    |	
  |			       |jenkinsplugins,			  |		   |						    |
@@ -60,7 +101,7 @@ Options
  |			       |eg: Cleopatra jenkins-plugins	  |		   |						    |
  |			       |Install				  |		   |						    |
  +-----------------------------+----------------------------------+----------------+------------------------------------------------+
- |Cleopatra  JenkinsPlugins    |Either of the four alternative 	  |N		   |Once the user provides the option, System Stops |	
+ |cleopatra  JenkinsPlugins    |Either of the four alternative 	  |N		   |Once the user provides the option, System Stops |	
  |Install		       |parameter can be used in command- |		   |installation process			    |
  |			       |JenkinsPlugins,  		  |		   |						    |	
  |			       |jenkinsplugins,			  |		   |						    |

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELLS 1.1.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-10 22:36+0530\n"
+"POT-Creation-Date: 2015-01-19 14:19+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,8 +18,8 @@ msgstr ""
 
 #: ../../source/chown.rst:3
 #: ../../source/chown.rst:88
-#: ../../source/chown.rst:97
-#: ../../source/chown.rst:101
+#: ../../source/chown.rst:93
+#: ../../source/chown.rst:95
 # 88ca7d21517b409e8bd01ed212a1c906
 # 46721728ab954a09aafcd28e3b52d472
 # ca90aa516cb94a7880b49ef3d9e81bcb
@@ -28,8 +28,8 @@ msgid "Chown"
 msgstr ""
 
 #: ../../source/chown.rst:6
-# 691e6b21f346463287755ab43af92eae
-msgid "SYNOPSIS"
+# 4993da9bd50d44ebb938d75b5068acb9
+msgid "Synopsis"
 msgstr ""
 
 #: ../../source/chown.rst:8
@@ -39,7 +39,7 @@ msgstr ""
 
 #: ../../source/chown.rst:12
 # d9e246af7d864a7e995db16ee252f824
-msgid "Help command:"
+msgid "Help command"
 msgstr ""
 
 #: ../../source/chown.rst:14
@@ -103,37 +103,37 @@ msgid "Comments"
 msgstr ""
 
 #: ../../source/chown.rst:88
-#: ../../source/chown.rst:92
-#: ../../source/chown.rst:97
+#: ../../source/chown.rst:90
+#: ../../source/chown.rst:93
 # cfcf45de33974c589b5e762696508158
 # a1c7a0952c184ad88517f543fa04813d
 # 5ef5f23d67cd4a498c133270e3eecbf5
 msgid "Yes"
 msgstr ""
 
-#: ../../source/chown.rst:92
+#: ../../source/chown.rst:90
 # e5d477b8f18146458903932320b275a5
 msgid "Path"
 msgstr ""
 
-#: ../../source/chown.rst:92
+#: ../../source/chown.rst:90
 # c579a531c2b7426dac2e3aabb0e0bd07
 msgid "The user has to give the path"
 msgstr ""
 
-#: ../../source/chown.rst:97
-#: ../../source/chown.rst:101
+#: ../../source/chown.rst:93
+#: ../../source/chown.rst:95
 # dc10400491564d1d857cb65b2fdb9e3a
 # a16a6bd6b618460ebe432c90198593eb
 msgid "Owner"
 msgstr ""
 
-#: ../../source/chown.rst:101
+#: ../../source/chown.rst:95
 # 60cab64d80694dcca70a1912be5aef1d
 msgid "No"
 msgstr ""
 
-#: ../../source/chown.rst:101
+#: ../../source/chown.rst:95
 # 86a9edf994754ce0b1131a5396320b19
 msgid "The user gives input as no, it will ask the owner name|"
 msgstr ""

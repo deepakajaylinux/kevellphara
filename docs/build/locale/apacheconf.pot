@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELLS 1.1.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-10 22:36+0530\n"
+"POT-Creation-Date: 2015-01-19 14:19+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -56,81 +56,81 @@ msgstr ""
 msgid "The screen shot given below explains visually about the steps and commands involves in installation."
 msgstr ""
 
-#: ../../source/apacheconf.rst:30
+#: ../../source/apacheconf.rst:67
 # 9429678234f247d7a76b19a2d36409e7
 msgid "Options"
 msgstr ""
 
-#: ../../source/apacheconf.rst:35
+#: ../../source/apacheconf.rst:72
 # 1f2e6b10228b49f19b0aebb2adac6255
 msgid "Parameters"
 msgstr ""
 
-#: ../../source/apacheconf.rst:35
+#: ../../source/apacheconf.rst:72
 # 391e87b160c24d8a9c54647092f0c543
 msgid "Required"
 msgstr ""
 
-#: ../../source/apacheconf.rst:35
+#: ../../source/apacheconf.rst:72
 # 363516a8a0624ab099ff9c24a079f082
 msgid "Comment"
 msgstr ""
 
-#: ../../source/apacheconf.rst:37
+#: ../../source/apacheconf.rst:74
 # 6b9f507ba3e34d3689a36e6fa941fc35
 msgid "Install"
 msgstr ""
 
-#: ../../source/apacheconf.rst:37
-#: ../../source/apacheconf.rst:41
+#: ../../source/apacheconf.rst:74
+#: ../../source/apacheconf.rst:78
 # 297b45a61bad4dd28d462e426719f784
-# 8ced2cc9b0e64192be42f59927daa68f
+# 297b45a61bad4dd28d462e426719f784
 msgid "Y(YES)"
 msgstr ""
 
-#: ../../source/apacheconf.rst:37
+#: ../../source/apacheconf.rst:74
 # 016eda5a318f441981890437d10cc7d3
 msgid "It will install the apacheconf under Cleopatra"
 msgstr ""
 
-#: ../../source/apacheconf.rst:41
-#: ../../source/apacheconf.rst:46
+#: ../../source/apacheconf.rst:78
+#: ../../source/apacheconf.rst:83
 # 5b47298b4cc64ebeb51d4898bd164024
-# 5cbf7cdb783f414ab99355e42b6f0bf2
+# 5b47298b4cc64ebeb51d4898bd164024
 msgid "Install Apache conf? (Y/N)"
 msgstr ""
 
-#: ../../source/apacheconf.rst:41
+#: ../../source/apacheconf.rst:78
 # 5dc803abafb9493794832a7482215de0
 msgid "If the user gives input as yes, it will install the module."
 msgstr ""
 
-#: ../../source/apacheconf.rst:46
+#: ../../source/apacheconf.rst:83
 # 614cda65e29b4eab9f5dfc0aad4a16eb
 msgid "N(NO)"
 msgstr ""
 
-#: ../../source/apacheconf.rst:46
+#: ../../source/apacheconf.rst:83
 # 352e6026e71f483faab77eb90bcee180
 msgid "If the user gives input as no, it will get exit.|"
 msgstr ""
 
-#: ../../source/apacheconf.rst:51
+#: ../../source/apacheconf.rst:88
 # 86bc809ed9ec4b46aa1e4e06ec1722d8
 msgid "Benefits to the users"
 msgstr ""
 
-#: ../../source/apacheconf.rst:53
+#: ../../source/apacheconf.rst:90
 # e13c16377fac46bfb25da07773d06338
 msgid "The module assists the end user in installing and managing the configuration of Apache. While installing the Apache tool, the end user can design and manage the configuration as per their requirement using this module. If it founds the configuration already exists it will overwrite the existing one."
 msgstr ""
 
-#: ../../source/apacheconf.rst:56
+#: ../../source/apacheconf.rst:93
 # 88c39591862146b88e6b80a3cfda2d40
 msgid "Help command"
 msgstr ""
 
-#: ../../source/apacheconf.rst:58
+#: ../../source/apacheconf.rst:95
 # 9f18b0db0e1b44588d6b594e90b8642f
 msgid "The help command describes about the purpose and the commands available under this modules. It also explains the command to install the particular module. The screen shot as shown below, visually represent the usage of the help command under this module."
 msgstr ""

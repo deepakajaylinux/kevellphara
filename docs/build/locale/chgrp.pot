@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELLS 1.1.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-10 22:36+0530\n"
+"POT-Creation-Date: 2015-01-19 14:19+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/chgrp.rst:2
-#: ../../source/chgrp.rst:36
+#: ../../source/chgrp.rst:40
 # 5ea4db4003a0417ea5e3240c4e1f90b1
 # 871f0187253041c48cde27d2b3d2e90d
 msgid "Chgrp"
@@ -35,7 +35,7 @@ msgstr ""
 
 #: ../../source/chgrp.rst:10
 # 2304914a98574ffab674ed4e95292b5c
-msgid "How to use:"
+msgid "How to use"
 msgstr ""
 
 #: ../../source/chgrp.rst:12
@@ -63,85 +63,85 @@ msgstr ""
 msgid "Options"
 msgstr ""
 
-#: ../../source/chgrp.rst:32
+#: ../../source/chgrp.rst:34
 # 1e086acf34d94d54b4f8d802a36a81cf
 msgid "Parameters"
 msgstr ""
 
-#: ../../source/chgrp.rst:32
+#: ../../source/chgrp.rst:34
 # a49fae8bd4764c03af8b5853afbb4c30
 msgid "Requirement"
 msgstr ""
 
-#: ../../source/chgrp.rst:32
+#: ../../source/chgrp.rst:34
 # 3098b0cdec6a48a29496146d8d46703a
-msgid "option"
+msgid "Option"
 msgstr ""
 
-#: ../../source/chgrp.rst:32
+#: ../../source/chgrp.rst:34
 # 03716957ccab4213a5674ea9e6c026a0
 msgid "Comments"
 msgstr ""
 
-#: ../../source/chgrp.rst:34
-#: ../../source/chgrp.rst:37
+#: ../../source/chgrp.rst:36
+#: ../../source/chgrp.rst:42
 # 185d3990d2ac464bb30490ec4ada45aa
 # 661dad6776f64b5f875df082885e139f
 msgid "chgrp"
 msgstr ""
 
-#: ../../source/chgrp.rst:34
-#: ../../source/chgrp.rst:35
-#: ../../source/chgrp.rst:37
+#: ../../source/chgrp.rst:36
+#: ../../source/chgrp.rst:38
+#: ../../source/chgrp.rst:42
 # 7f86b0b547da48fb9e1375780177e8b6
 # d7544abe95704798a17b3c4cd89be026
 # c679cddc25e84d0cae9b0e6f0378e06e
 msgid "Yes"
 msgstr ""
 
-#: ../../source/chgrp.rst:34
+#: ../../source/chgrp.rst:36
 # cfa59e3620c9464b809bfd57b7d24c06
 msgid "It will  the change group module under Cleopatra"
 msgstr ""
 
-#: ../../source/chgrp.rst:35
+#: ../../source/chgrp.rst:38
 # 6ff3790c5a2f4d50a2db6fd7bae13fa8
 msgid "Path"
 msgstr ""
 
-#: ../../source/chgrp.rst:35
+#: ../../source/chgrp.rst:38
 # ade5ca0fa5414fd9b67c3e10faf95ab3
 msgid "Specify the path"
 msgstr ""
 
-#: ../../source/chgrp.rst:36
-#: ../../source/chgrp.rst:37
+#: ../../source/chgrp.rst:40
+#: ../../source/chgrp.rst:42
 # b61d666792e74c62b5ff2e2c932abf73
 # 382ffa25f903414f95149d9a50645291
 msgid "group"
 msgstr ""
 
-#: ../../source/chgrp.rst:36
+#: ../../source/chgrp.rst:40
 # 2336d1b62e9f407a82329ec18c02a348
 msgid "No"
 msgstr ""
 
-#: ../../source/chgrp.rst:36
+#: ../../source/chgrp.rst:40
 # f57c364bb78048e1a3a860d747837482
 msgid "While changing user can specify the path."
 msgstr ""
 
-#: ../../source/chgrp.rst:37
-# 81c492a4c9664fb7b64202cead8041b9
-msgid "Facilitate to change the new group name"
-msgstr ""
-
 #: ../../source/chgrp.rst:42
-# 61ad043e323f4b9b8ebd938d46b254d5
-msgid "Help command:"
+# 81c492a4c9664fb7b64202cead8041b9
+msgid "Facilitate to change the new group name|"
 msgstr ""
 
-#: ../../source/chgrp.rst:43
+#: ../../source/chgrp.rst:46
+# 61ad043e323f4b9b8ebd938d46b254d5
+msgid "Help command"
+msgstr ""
+
+#: ../../source/chgrp.rst:47
 # e9375a492fbc4b008e32a90481769706
 msgid "The help command interprets about the scope and the commands available under this modules. It also explains the command to change the group. The following screen shot visualize it translucently."
 msgstr ""

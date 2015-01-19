@@ -117,7 +117,25 @@
 <div class="section" id="help-command">
 <h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>This command helps to determine the usage of JenkinsPlugins module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same.</p>
-<div class="highlight-bash"><div class="highlight"><pre>Cleopatra JenkinsPlugins <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>               cleopatra JenkinsPlugins <span class="nb">help</span>
+
+
+kevells@corp:/# cleopatra JenkinsPlugins <span class="nb">help</span>
+******************************
+
+
+ This <span class="nb">command </span>allows you to install a bunch of plugins that we recommend <span class="k">for</span>
+ PHP builds in Jenkins.
+
+ JenkinsPlugins, jenkinsplugins, jenkins-plugins, jenkins-plugs
+
+       - install
+       Installs the latest version of Jenkins Plugins <span class="k">for</span> PHP recommended by Golden Contact
+       example: cleopatra jenkins-plugins install
+
+------------------------------
+End Help
+******************************
 </pre></div>
 </div>
 </div>
@@ -126,7 +144,40 @@
 <blockquote>
 <div>This command allows you to install a bunch of plugins that we recommend for
 PHP builds in Jenkins. If the user needs to install Jenkins module in machine, the below given command will execute the process of installation.</div></blockquote>
-<div class="highlight-bash"><div class="highlight"><pre>Cleopatra JenkinsPlugins install
+<div class="highlight-bash"><div class="highlight"><pre>               cleopatra JenkinsPlugins install
+
+
+kevells@corp:/# cleopatra JenkinsPlugins install
+Install Jenkins Plugins? <span class="o">(</span>Y/N<span class="o">)</span>
+Y
+*******************************
+*        Pharaoh Tools        *
+*         Jenkns Plgs!        *
+*******************************
+Creating /tmp/cleopatra-temp-script-80223312434.sh
+chmod <span class="m">755</span> /tmp/cleopatra-temp-script-80223312434.sh 2&gt;/dev/null
+Changing /tmp/cleopatra-temp-script-80223312434.sh Permissions
+Executing /tmp/cleopatra-temp-script-80223312434.sh
+Cloning into <span class="s1">&#39;jplugins&#39;</span>...
+remote: Counting objects: 39, <span class="k">done</span>.
+remote: Total <span class="m">39</span> <span class="o">(</span>delta 0<span class="o">)</span>, reused <span class="m">0</span> <span class="o">(</span>delta 0<span class="o">)</span>
+Unpacking objects: 100% <span class="o">(</span>39/39<span class="o">)</span>, <span class="k">done</span>.
+Checking connectivity... <span class="k">done</span>.
+chown: invalid user: ‘jenkins’
+jenkins: unrecognized service
+Temp File /tmp/cleopatra-temp-script-80223312434.sh Removed
+... All <span class="k">done</span>!
+*******************************
+Thanks <span class="k">for</span> installing , visit www.pharaohtools.com <span class="k">for</span> more
+******************************
+
+
+Single App Installer:
+--------------------------------------------
+JenkinsPlugins: Success
+------------------------------
+Installer Finished
+******************************
 </pre></div>
 </div>
 </div>
@@ -147,7 +198,7 @@ PHP builds in Jenkins. If the user needs to install Jenkins module in machine, t
 </tr>
 </thead>
 <tbody valign="top">
-<tr class="row-even"><td>Cleopatra  JenkinsPlugins
+<tr class="row-even"><td>cleopatra  JenkinsPlugins
 Install</td>
 <td>Either of the four alternative
 parameter can be used in command-
@@ -161,7 +212,7 @@ Install</td>
 <td>Once the user provides the option, System starts
 installation process</td>
 </tr>
-<tr class="row-odd"><td>Cleopatra  JenkinsPlugins
+<tr class="row-odd"><td>cleopatra  JenkinsPlugins
 Install</td>
 <td>Either of the four alternative
 parameter can be used in command-

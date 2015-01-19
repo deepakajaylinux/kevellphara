@@ -1,0 +1,192 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELLS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELLS 1.1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-19 14:19+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/gitlab.rst:3
+# c2de85ddee6645e59d8cda9790487c51
+msgid "Git lab"
+msgstr ""
+
+#: ../../source/gitlab.rst:6
+# d5054436e94b40e1be016078a36e0f1b
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/gitlab.rst:8
+# 79633522758a431b823f176d24fd5841
+msgid "GitLab is an incredibly powerful open source code collaboration platform, git repository manager, issue tracker and code reviewer. It integrates with issue trackers, continuous integration services and  has phenomenal Active Directory support. It installs redis server and library functions also. This is manageable in Ubuntu and centos."
+msgstr ""
+
+#: ../../source/gitlab.rst:11
+# e471abb397d7489088d5ab9491e81ab8
+msgid "Helpcommand"
+msgstr ""
+
+#: ../../source/gitlab.rst:13
+# 02317e2bc5a6492fbc4f0fadeec1ef33
+msgid "Help command includes an extensive, console-based help system, reminiscent of man pages in Ubuntu. The help topics include help for installing the dependencies, and libraries redis server. Simple to write the commands without arguments."
+msgstr ""
+
+#: ../../source/gitlab.rst:19
+# 27182edbb0fd4f9abc8f548c321f474a
+msgid "The following screenshots explains its functions clearly."
+msgstr ""
+
+#: ../../source/gitlab.rst:43
+# 197de0e9c0c5406aa14ccf775aa34569
+msgid "Installation"
+msgstr ""
+
+#: ../../source/gitlab.rst:44
+# 091049a2e82b4e23a419da5c3841842d
+msgid "Installation includes provision of or connection to services required to make the installed equipment ready for operation. It is a revealed process to install git lab module under Cleopatra by just using the command given below,"
+msgstr ""
+
+#: ../../source/gitlab.rst:50
+# 9434213981d44043bf9d672bf4a6170c
+msgid "After vitalize the command it will catechize input."
+msgstr ""
+
+#: ../../source/gitlab.rst:52
+# cc41e7d5df264fe8917dd011bcc4cbee
+msgid "The user input as yes automatically it will install gitlab with checking from the system.  The following screen shot demonstrates it."
+msgstr ""
+
+#: ../../source/gitlab.rst:56
+#: ../../source/gitlab.rst:61
+# be5c60992d3f4c2aad26414bef028c2b
+# a7ea433f201147afaaf71ba06da5c58e
+msgid "Options"
+msgstr ""
+
+#: ../../source/gitlab.rst:61
+# f70c7f8a659241ffb7e004e800c0a7f0
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/gitlab.rst:61
+# 63d4146cc0174cfaa07f74fd9ee896a1
+msgid "Alternative Parameter"
+msgstr ""
+
+#: ../../source/gitlab.rst:61
+# 6645cacb48d1456fb1d42fa6576135cd
+msgid "Comments"
+msgstr ""
+
+#: ../../source/gitlab.rst:63
+#: ../../source/gitlab.rst:66
+# 927d7c4f8c3d42c487509fa25e4ac02c
+# 0b07f4f25ed7406c971f96aab18b7584
+msgid "Install gitlab?(Y/N)"
+msgstr ""
+
+#: ../../source/gitlab.rst:63
+# 2ce3e28a7f2e40fabecbdb6c384e4934
+msgid "Instead of using gitlab we can use Gitlab,gitlab,git-lab"
+msgstr ""
+
+#: ../../source/gitlab.rst:63
+# 3cd480654e0b4e2ab2ae4db3a0e08c02
+msgid "Y(Yes)"
+msgstr ""
+
+#: ../../source/gitlab.rst:63
+# e86bcb69b39241a0a63825fe0d136323
+msgid "It will install git and set of common gitlab under Cleopatra."
+msgstr ""
+
+#: ../../source/gitlab.rst:66
+# d8b367acfd64456e9954eb9df38b30d1
+msgid "Instead of using gitlab we can use Gitlab,gitlab,git-lab|"
+msgstr ""
+
+#: ../../source/gitlab.rst:66
+# b38ae565ed1c475ba1ea1e42d104c980
+msgid "N(No)"
+msgstr ""
+
+#: ../../source/gitlab.rst:66
+# 324c7a6459184b50ad9486524f695fa5
+msgid "The system exit the installation"
+msgstr ""
+
+#: ../../source/gitlab.rst:73
+# 2804b2418e9d410c8ca344714711262c
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/gitlab.rst:75
+# 38cb317eab3d465ebc0423413ca20eca
+msgid "Gitlab tracks the content rather than the files"
+msgstr ""
+
+#: ../../source/gitlab.rst:76
+# 87ab0998c76d4a49b310859882028419
+msgid "Branches are lightweight, and merging is a simple process"
+msgstr ""
+
+#: ../../source/gitlab.rst:77
+# 7593daec36304eab8c4ea89ce275a687
+msgid "Allows for a more streamlined offline development process"
+msgstr ""
+
+#: ../../source/gitlab.rst:78
+# 8e48e7fbc0174c049f5f0b89e3eaf4ea
+msgid "Repositories are smaller in size and are stored in a single .git directory"
+msgstr ""
+
+#: ../../source/gitlab.rst:79
+# 8a4cd1e14cad470e90069830d3420255
+msgid "Allows for advanced staging operations, and the use of stashing when working through troublesome sections."
+msgstr ""
+
+#: ../../source/gitlab.rst:80
+# a73a6ae996074f4c82264e20ba1eb706
+msgid "Developed for  Ubuntu systems, however community support exists for other distributions such as Arch, CentOS, Fedora, or Gentoo"
+msgstr ""
+
+#: ../../source/gitlab.rst:81
+# 85c2990c304440d9a3f360a1fa3b7dae
+msgid "Requires a specified version and components to operate"
+msgstr ""
+
+#: ../../source/gitlab.rst:82
+# 1801abf0998a4c1597d223a9b60e1106
+msgid "Based to run on top of Git, and utilizes a special Git user account to separate the repository"
+msgstr ""
+
+#: ../../source/gitlab.rst:83
+# de49a8ebf51649649784f4065d87fa0e
+msgid "Allows for self-maintained version control for a closed source project"
+msgstr ""
+
+#: ../../source/gitlab.rst:84
+# bd8618c57e3845aebd3d2ad84a8755fe
+msgid "Integrates seamlessly with Git"
+msgstr ""
+
+#: ../../source/gitlab.rst:85
+# 489756654016481797013d3cf05932b2
+msgid "Allows for a detailed viewing and documentation of the project"
+msgstr ""
+
+#: ../../source/gitlab.rst:86
+# 2ec2f9a54ed24e358e56d8dcdf489a2d
+msgid "Allows redis server to install."
+msgstr ""
+

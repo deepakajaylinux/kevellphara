@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Nginx Control &mdash; KEVELLS 1.1.1 documentation</title>
+    
+    <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="_static/css/bootstrap-2.2.1.min.css" type="text/css" />
+    <link rel="stylesheet" href="_static/bootstrap-sphinx.css" type="text/css" />
+    <link rel="stylesheet" href="_static/css/bootstrap-responsive-2.2.1.min.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '1.1.1',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
+    <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
+    <link rel="top" title="KEVELLS 1.1.1 documentation" href="index.html" />
+<meta charset='utf-8'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+  </head>
+  <body>
+<div class="container">
+  
+  <div id="navbar" class="navbar navbar-fixed-top">
+    <div class="navbar-inner">
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+
+
+<a class="brand" href="index.html"><img src="_static/img/imgo.jpeg " border="0" alt="py4sci"/>KEVELLS</a>
+
+
+      <div class="nav-collapse">
+        <ul class="nav" style="margin: 4px 10px 0px 0px;">
+          <li class="divider-vertical"></li>
+          
+            <li class="dropdown">
+  <a href="index.html" class="dropdown-toggle" data-toggle="dropdown">Site <b class="caret"></b></a>
+  <ul class="dropdown-menu globaltoc"><ul>
+<li class="toctree-l1"><a class="reference internal" href="cleopatra.html">Cleopatra</a></li>
+<li class="toctree-l1"><a class="reference internal" href="phlagrant.html">Phlagrant</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Dapperstrano_main.html">Dapperstrano</a></li>
+</ul>
+</ul>
+</li>
+            <li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Page <b class="caret"></b></a>
+  <ul class="dropdown-menu localtoc"><ul>
+<li><a class="reference internal" href="#">Nginx Control</a><ul>
+<li><a class="reference internal" href="#synopsis">Synopsis</a></li>
+<li><a class="reference internal" href="#help-command">Help Command</a></li>
+<li><a class="reference internal" href="#start">Start</a></li>
+<li><a class="reference internal" href="#stop">Stop</a></li>
+<li><a class="reference internal" href="#restart">Restart</a></li>
+<li><a class="reference internal" href="#reload">Reload</a></li>
+<li><a class="reference internal" href="#options">Options</a></li>
+<li><a class="reference internal" href="#benefits">Benefits</a></li>
+</ul>
+</li>
+</ul>
+</ul>
+</li>
+          
+          
+            
+          
+          
+          <!--  <li>
+  <a href="_sources/nginxcontrol.txt"
+     rel="nofollow">Source</a></li> -->
+          
+        </ul>
+
+        
+          
+<form class="navbar-search pull-right" style="margin-bottom:-3px;" action="search.html" method="get">
+  <input type="text" name="q" placeholder="Search" />
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form>
+        
+      </div>
+    </div>
+  </div>
+
+  
+  <div class="section" id="nginx-control">
+<h1>Nginx Control<a class="headerlink" href="#nginx-control" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="synopsis">
+<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
+<p>Nginx (pronounced &#8220;engine-x&#8221;) is an open source reverse proxy server for HTTP, HTTPS, SMTP, POP3, and IMAP protocols, as well as a load balancer, HTTP cache, and a web server (origin server). The nginx project started with a strong focus on high concurrency, high performance and low memory usage. It is licensed under the 2-clause BSD-like license and it runs on Linux, BSD variants, Mac OS X, Solaris, AIX, HP-UX, as well as on other nix flavours.</p>
+<p>Nginx uses an asynchronous event-driven approach to handling requests, instead of the Apache HTTP Server model that defaults to a threaded or process-oriented approach, where the Event MPM is required for asynchronous processing. Nginx&#8217;s modular event-driven architecture can provide more predictable performance under high loads.</p>
+</div>
+<div class="section" id="help-command">
+<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
+<p>This command helps to determine the usage of Nginx  module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same.</p>
+<div class="highlight-bash"><div class="highlight"><pre>       dapperstrano nginxcontrol <span class="nb">help</span>
+
+kevells@corp:/# dapperstrano NginxControl <span class="nb">help</span>
+******************************
+
+
+ This <span class="nb">command </span>is part of Default Modules and handles Nginx Server Control Functions.
+
+ NginxControl, nginxcontrol, nginxctl
+
+         - start
+         Start the Nginx server
+         example: dapperstrano nginxcontrol start
+
+         - stop
+         Stop the Nginx server
+         example: dapperstrano nginxcontrol stop
+
+         - restart
+         Restart the Nginx server
+         example: dapperstrano nginxcontrol restart
+
+         - reload
+         Reloads the Nginx server configuration without restarting
+         example: dapperstrano nginxcontrol reload
+
+------------------------------
+End Help
+******************************
+</pre></div>
+</div>
+</div>
+<div class="section" id="start">
+<h2>Start<a class="headerlink" href="#start" title="Permalink to this headline">¶</a></h2>
+<p>When the user needs to start the Nginx server, the below given command will execute the process.</p>
+<div class="highlight-bash"><div class="highlight"><pre>dapperstrano nginxcontrol start
+</pre></div>
+</div>
+<p>Before execution, the system ask for the confirmation to proceed, if you want to proceed enter &#8216;Y&#8217;, if no enter &#8216;N&#8217;.</p>
+</div>
+<div class="section" id="stop">
+<h2>Stop<a class="headerlink" href="#stop" title="Permalink to this headline">¶</a></h2>
+<p>When the user needs to stop the Nginx server, the below given command will execute the process.</p>
+<div class="highlight-bash"><div class="highlight"><pre>dapperstrano nginxcontrol stop
+</pre></div>
+</div>
+<p>Before execution, the system ask for the confirmation to proceed, if you want to proceed enter &#8216;Y&#8217;, if no enter &#8216;N&#8217;.</p>
+</div>
+<div class="section" id="restart">
+<h2>Restart<a class="headerlink" href="#restart" title="Permalink to this headline">¶</a></h2>
+<p>When the user needs to Restart the Nginx server(when there are any changes happened in configuration file this option will be used), the below given command will execute the process.</p>
+<div class="highlight-bash"><div class="highlight"><pre>dapperstrano nginxcontrol restart
+</pre></div>
+</div>
+<p>Before execution, the system ask for the confirmation to proceed, if you want to proceed enter &#8216;Y&#8217;, if no enter &#8216;N&#8217;.</p>
+</div>
+<div class="section" id="reload">
+<h2>Reload<a class="headerlink" href="#reload" title="Permalink to this headline">¶</a></h2>
+<p>When the user needs to Reload the Nginx server without restarting, the below given command will execute the process.</p>
+<div class="highlight-bash"><div class="highlight"><pre>dapperstrano nginxcontrol reload
+</pre></div>
+</div>
+<p>Before execution, the system ask for the confirmation to proceed, if you want to proceed enter &#8216;Y&#8217;, if no enter &#8216;N&#8217;.</p>
+</div>
+<div class="section" id="options">
+<h2>Options<a class="headerlink" href="#options" title="Permalink to this headline">¶</a></h2>
+<table border="1" class="table-bordered docutils">
+<colgroup>
+<col width="25%" />
+<col width="37%" />
+<col width="38%" />
+</colgroup>
+<tbody valign="top">
+<tr class="row-odd"><td>Parameters</td>
+<td>Alternative Parameter</td>
+<td>Comments</td>
+</tr>
+<tr class="row-even"><td>dapperstrano ngnixcontrolhelp</td>
+<td>Either of the three alternative parameter can
+be used in command- ngnixcontrol ,
+NgnixControl and nginxcil
+eg: dapperstrano ngnixcontrol help/
+dapperstrano ngnixControl help|</td>
+<td>Once the user provides the option, System starts
+processing</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="benefits">
+<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>Ability to handle more than 10,000 simultaneous connections with a low          memory footprint</li>
+<li>Handling of static files, index files, and auto-indexing</li>
+<li>Reverse proxy with caching</li>
+<li>Load balancing with in-band health checks</li>
+<li>Fault tolerance</li>
+<li>TLS/SSL with SNI and OCSP stapling support, via OpenSSL.</li>
+<li>FastCGI, SCGI, uWSGI support with caching</li>
+<li>Name- and IP address-based virtual servers</li>
+<li>IPv6-compatible</li>
+<li>SPDY protocol support</li>
+<li>WebSockets and HTTP/1.1 Upgrade (101 Switching Protocols)</li>
+<li>FLV and MP4 streaming</li>
+<li>Web page access authentication</li>
+<li>gzip compression and decompression</li>
+<li>URL rewriting</li>
+<li>Custom logging with on-the-fly gzip compression</li>
+<li>Response rate and concurrent requests limiting</li>
+<li>Bandwidth throttling</li>
+<li>Server Side Includes</li>
+<li>IP address-based geolocation</li>
+<li>User tracking</li>
+<li>WebDAV</li>
+<li>XSLT data processing</li>
+<li>Embedded Perl scripting</li>
+</ul>
+</div>
+</div>
+
+
+</div>
+<footer class="footer">
+  <div class="container">
+    <p class="pull-right">
+      <a href="#">Back to top</a>
+      
+    </p>
+    <p>
+        &copy; Copyright 2015, kevell.<br/>
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2.3.<br/>
+    </p>
+  </div>
+</footer>
+  </body>
+</html>

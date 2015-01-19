@@ -10,3 +10,4 @@ Dapperstrano
    
  systemdetection
  apachecontrol
+ nginxcontrol

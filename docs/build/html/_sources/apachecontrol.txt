@@ -117,6 +117,24 @@ After getting the input of the apache service name, it will starts the process.
 
 The following screenshot depicts the start process pictorially.
 
+.. code-block:: bash
+
+ kevells@corp:/# dapperstrano apachecontrol start
+ Do you want to Start Apache? (Y/N)
+ y
+ What is the apache service name?
+ (0) apache2
+ (1) httpd
+ 0
+ Starting Apache...
+ * Starting web server apache2
+ *
+ ******************************
+
+
+ 1Apache Controller Finished
+ ******************************
+
 Stop Function
 ------------------
 
@@ -126,7 +144,7 @@ If the user wish to stop the apache control function, the can use the following 
 
 		dapperstrano apachecontrol stop --yes --guess
 		
-		(This is the second type of syntax in defining a control functions for apche server)
+		(This is the second type of syntax in defining a control functions for apache server)
 
 The guess option can be used to perform a default values of the particular defined functions.
 
@@ -135,6 +153,18 @@ For ubuntu the apche2 is the default value.
 For Cent OS httpd is the default value.
 
 The following screenshot depicts you about the stop function and purpose of guess options pictorially.
+
+.. code-block:: bash
+
+ kevells@corp:/# dapperstrano apachecontrol stop --yes --guess
+ Stopping Apache...
+ * Stopping web server apache2
+ *
+ ******************************
+
+
+ 1Apache Controller Finished
+ ******************************
 
 Restart a function
 -----------------------
@@ -148,6 +178,20 @@ If the user wish to restart the apache control function, the can use the followi
 		(This is the third type of syntax in defining a control functions for apche server)
 
 The user can use this third type of syntax to specify the value of the required apache command. The screen shot as shown below depicts this third type of syntax and process of restarting a function pictorially.
+
+.. code-block:: bash
+
+ kevells@corp:/# dapperstrano apachecontrol restart --yes --apache-command="apache2"
+ Restarting Apache...
+ AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globa lly to suppress this message
+ * Restarting web server apache2
+  
+  ....done.
+ ******************************
+
+
+ 1Apache Controller Finished
+ ******************************
 
 Reloading a function
 ----------------------------

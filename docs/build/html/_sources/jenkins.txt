@@ -15,7 +15,7 @@ This command helps to determine the usage of Jenkins module. The user will come 
 
 .. code-block:: bash
              
-		Cleapatra jenkins help
+		cleopatra jenkins help
  
  kevell@corp:/# cleopatra jenkins help
  ******************************
@@ -42,7 +42,7 @@ If the user needs to install Jenkins module in machine, the below given command 
 
 .. code-block:: bash
               
-	        Cleapatra jenkins install
+	        cleopatra jenkins install
 
  kevell@corp:/# cleopatra jenkins install
  Install Jenkins? (Y/N) 
@@ -103,10 +103,10 @@ Options
 	+-----------------------------+------------------------+-----------------------+-----------------------------------------------+
 	|	Parameters  	      | Alternative Parameter  |	Option	       | 		Comments		       |
 	+=============================+========================+=======================+===============================================+
-	|Cleopatra  Jenkins Install   |Jenkins , jenkins       |Y		       |Once the user provides the option, System      |
+	|cleopatra  Jenkins Install   |Jenkins , jenkins       |Y		       |Once the user provides the option, System      |
 	|			      |			       |		       |starts installation process		       |
 	+-----------------------------+------------------------+-----------------------+-----------------------------------------------+
-	|Cleopatra  Jenkins Install   |Jenkins , jenkins       |N		       |Once the user provides the option, System      |
+	|cleopatra  Jenkins Install   |Jenkins , jenkins       |N		       |Once the user provides the option, System      |
 	|			      |			       |		       |stops installation process|  		       |
 	+-----------------------------+------------------------+-----------------------+-----------------------------------------------+
 

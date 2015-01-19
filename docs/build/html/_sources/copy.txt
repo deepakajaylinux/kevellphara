@@ -44,8 +44,11 @@ The main function of copy is to copy the file  from source file to destination.	
   cleopatra copy put 
 
 Example
---------
-  cleopatra copy put –yes—source=”/tmp/file”—target=”/home/user/file”
+-----------
+
+.. code-block:: bash
+  
+ cleopatra copy put –yes—source=”/tmp/file”—target=”/home/user/file”
 
 After vitalize the command it will catechize input.
 The user input as yes the user has to enter as source file then it requires target file. Now the user has to enter the target file.
@@ -85,10 +88,12 @@ The user input as copy put then access the source file path and target file path
  |				 |	     	   	        |source to destination         |
  +-------------------------------+------------------------------+------------------------------+
  |get				 |Path to source		|Copy the files from the path  |
- |				 |			        |to source directory|          |	
+ |				 |			        |to source directory|          |
  +-------------------------------+------------------------------+------------------------------+
 
+
 Benefits
+----------
 
 * The user can work with remote place also. 
 * User can mention the path for source and destination. 

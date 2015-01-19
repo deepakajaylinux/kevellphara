@@ -3,7 +3,7 @@ Apache Reverse proxy modules
 =============================
 
 Synopsis
---------
+-----------
 
 This module aims at installing the library functions. While installing the library functions, it will check the availability of already existing library functions. It helps in managing and configuring the application settings. The user can specify the default values for application settings.
 
@@ -12,8 +12,10 @@ Help command
 
 The help command guides the user get aware of the uses, and also the options and actions that can be performed.
 The coding to make use of help command under Apache Reverse proxy module, is given as follows
+
 .. code-block:: bash
-	Cleopatra ApacheReverseProxyModules help
+
+	cleopatra ApacheReverseProxyModules help
 
 The screen shot shown below gives you an pictorial representation of help command usage.
 
@@ -62,8 +64,8 @@ Installation
 	+------------------------------------------------+------------+---------------------------+
 	| Install ApacheReverseProxyModules (Y/N)	 | N(NO)      |If the user inputs as N,the|
 	|						 |            |process will gets quit from|
-	|						 |            |	installation.		  |
-	+------------------------------------------------+------------+---------------------------+
+	|						 |            |installation.|		  |
+        +------------------------------------------------+------------+---------------------------+
 
 While installing the Reverse Proxy Modules, it will reads the package lists, state information, builds the dependency tree. If any packages are missing, the new packages will be installed. The screenshot shown below will explains the process of installation graphically.
 
@@ -228,11 +230,7 @@ While installing the Reverse Proxy Modules, it will reads the package lists, sta
 Benefits to the users
 ----------------------
 
-It displays the available package lists, and in turn installs the missing and required packages.
-
-The reverse proxy forwards to a fixed destination on behalf of arbitrary clients.
-
-It will incorporates the content that is hosted from one server into a larger website.
-
-It helps in configuring the applications settings.
-
+* It displays the available package lists, and in turn installs the missing and required packages.
+* The reverse proxy forwards to a fixed destination on behalf of arbitrary clients.
+* It will incorporates the content that is hosted from one server into a larger website.
+* It helps in configuring the applications settings.

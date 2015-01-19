@@ -78,19 +78,21 @@ Finally the file has copied from source to destination. The following screenshot
 Options
 ----------
 
-The user input as copy put then access the source file path and target file path. 
+The user input as copy put then access the source file path and target file path.
 
 .. cssclass:: table-bordered
 
  +-------------------------------+------------------------------+------------------------------+
- | 	Parameters	         | Directory(default)           |	Comments	       |
+ |Parameters                     |Directory(default)            |Comments                      |
  +===============================+==============================+==============================+
- |put		 		 |Source to target 	        |The file path copied from     |
- |				 |	     	   	        |source to destination         |
+ |put                            |Source to target              |The file path copied from     |
+ |                               |                              |source to destination         |
  +-------------------------------+------------------------------+------------------------------+
- |get				 |Path to source		|Copy the files from the path  |
- |				 |			        |to source directory|          |
+ |get                            |Path to source                |Copy the files from the path  |
+ |                               |                              |to source directory|          |
  +-------------------------------+------------------------------+------------------------------+
+
+ 
 
 
 Benefits

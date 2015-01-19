@@ -45,7 +45,7 @@ The main function of copy is to copy the file  from source file to destination.	
 
 Example
 --------
- * cleopatra copy put –yes—source=”/tmp/file”—target=”/home/user/file”
+  cleopatra copy put –yes—source=”/tmp/file”—target=”/home/user/file”
 
 After vitalize the command it will catechize input.
 The user input as yes the user has to enter as source file then it requires target file. Now the user has to enter the target file.

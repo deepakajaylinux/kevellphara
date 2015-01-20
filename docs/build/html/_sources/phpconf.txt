@@ -40,7 +40,7 @@ Options
 
 
         +-------------------------------+------------------------------+--------------------------+------------------------------+
-        |    Parameters        		| Parameter                    | Required  		  | Comment                      |
+        |    Parameters        		| Alternative Parameters       | Required  		  | Comment                      |
         +===============================+==============================+==========================+==============================+
         |Install PHPConf?(Y/N) 		| In Spite of PHP              |           		  |If the user wish to 	         |
         |                      		| Conf these alternative       |Y(YES)     		  |proceed the nstallation       |

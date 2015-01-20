@@ -62,6 +62,7 @@
   <ul class="dropdown-menu globaltoc"><ul class="current">
 <li class="toctree-l1 current"><a class="reference internal" href="cleopatra.html">Cleopatra</a></li>
 <li class="toctree-l1"><a class="reference internal" href="phlagrant.html">Phlagrant</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Dapperstrano_main.html">Dapperstrano</a></li>
 </ul>
 </ul>
 </li>
@@ -117,7 +118,26 @@ It is user friendly with Ubuntu and cent OS.</p>
 <div class="section" id="help-command">
 <h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <blockquote>
-<div>This help command guide the user about Cleopatra. It is time consuming because it can installed automatically. Suitable for all type of user. The following help command will assist the user for installation.</div></blockquote>
+<div>This help command guide the user about Cleopatra. It is less time consuming because it can installed automatically. Suitable for all type of user. The following help command and the screenshot will assist the user regarding the usage.</div></blockquote>
+<div class="highlight-bash"><div class="highlight"><pre>               cleopatra Cleopatra <span class="nb">help</span>
+
+kevells@corp:/# cleopatra Cleopatra <span class="nb">help</span>
+******************************
+
+
+ This <span class="nb">command </span>allows you to update Cleopatra.
+
+ Cleopatra, cleo, cleopatra
+
+       - install
+       Installs the latest version of cleopatra
+       example: cleopatra cleopatra install
+
+------------------------------
+End Help
+******************************
+</pre></div>
+</div>
 </div>
 <div class="section" id="installation">
 <h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
@@ -129,7 +149,41 @@ It is user friendly with Ubuntu and cent OS.</p>
 <p>After giving the command the Cleopatra will be installed with new updates.
 The user input has passed then will check if any file is missing it will install automatically.
 The following screen shot enumerate it.</p>
-<p>If the user gives input as No the following screen will appear.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra cleopatra install
+
+Install Cleopatra - Update to latest version ? <span class="o">(</span>Y/N<span class="o">)</span>
+y
+*******************************
+*        Pharaoh Tools        *
+*          Cleopatra!         *
+*******************************
+What is the program data directory? Found <span class="s2">&quot;/opt/cleopatra&quot;</span> - use this? <span class="o">(</span>Enter nothing <span class="k">for</span> yes, no end slash<span class="o">)</span>
+
+What is the program executor directory? Found <span class="s2">&quot;/usr/bin&quot;</span> - use this? <span class="o">(</span>Enter nothing <span class="k">for</span> yes, No Trailing Slash<span class="o">)</span>
+
+git clone <span class="s1">&#39;https://github.com/PharaohTools/cleopatra.git&#39;</span>  /tmp/cleopatra/cleopatraCloning into <span class="s1">&#39;/tmp/cleopatra/cleopatra&#39;</span>...
+remote: Counting objects: 19656, <span class="k">done</span>.
+remote: Total <span class="m">19656</span> <span class="o">(</span>delta 0<span class="o">)</span>, reused <span class="m">0</span> <span class="o">(</span>delta 0<span class="o">)</span>
+Receiving objects: 100% <span class="o">(</span>19656/19656<span class="o">)</span>, 6.15 MiB <span class="p">|</span> 66.00 KiB/s, <span class="k">done</span>.
+Resolving deltas: 100% <span class="o">(</span>11790/11790<span class="o">)</span>, <span class="k">done</span>.
+Checking connectivity... <span class="k">done</span>.
+Program Data Folder /opt/cleopatra Deleted <span class="k">if</span> existed
+Program Data folder populated
+Program Executor Deleted <span class="k">if</span> existed
+... All <span class="k">done</span>!
+*******************************
+Thanks <span class="k">for</span> installing , visit www.pharaohtools.com <span class="k">for</span> more
+******************************
+
+
+Single App Installer:
+--------------------------------------------
+Cleopatra: Success
+------------------------------
+Installer Finished
+******************************
+</pre></div>
+</div>
 </div>
 <div class="section" id="options">
 <h2>Options<a class="headerlink" href="#options" title="Permalink to this headline">¶</a></h2>

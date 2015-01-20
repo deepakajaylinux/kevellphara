@@ -10,7 +10,28 @@ It is user friendly with Ubuntu and cent OS.
 
 Help command
 -------------
- This help command guide the user about Cleopatra. It is time consuming because it can installed automatically. Suitable for all type of user. The following help command will assist the user for installation.
+ This help command guide the user about Cleopatra. It is less time consuming because it can installed automatically. Suitable for all type of user. The following help command and the screenshot will assist the user regarding the usage.
+
+.. code-block:: bash
+
+		cleopatra Cleopatra help
+
+ kevells@corp:/# cleopatra Cleopatra help
+ ******************************
+
+
+  This command allows you to update Cleopatra.
+
+  Cleopatra, cleo, cleopatra
+
+        - install
+        Installs the latest version of cleopatra
+        example: cleopatra cleopatra install
+
+ ------------------------------
+ End Help
+ ******************************
+
 
 
 Installation
@@ -25,7 +46,42 @@ After giving the command the Cleopatra will be installed with new updates.
 The user input has passed then will check if any file is missing it will install automatically.
 The following screen shot enumerate it.
 
-If the user gives input as No the following screen will appear.
+.. code-block:: bash
+
+ kevells@corp:/# cleopatra cleopatra install
+
+ Install Cleopatra - Update to latest version ? (Y/N)
+ y
+ *******************************
+ *        Pharaoh Tools        *
+ *          Cleopatra!         *
+ *******************************
+ What is the program data directory? Found "/opt/cleopatra" - use this? (Enter nothing for yes, no end slash)
+ 
+ What is the program executor directory? Found "/usr/bin" - use this? (Enter nothing for yes, No Trailing Slash)
+
+ git clone 'https://github.com/PharaohTools/cleopatra.git'  /tmp/cleopatra/cleopatraCloning into '/tmp/cleopatra/cleopatra'...
+ remote: Counting objects: 19656, done.
+ remote: Total 19656 (delta 0), reused 0 (delta 0)
+ Receiving objects: 100% (19656/19656), 6.15 MiB | 66.00 KiB/s, done.
+ Resolving deltas: 100% (11790/11790), done.
+ Checking connectivity... done.
+ Program Data Folder /opt/cleopatra Deleted if existed
+ Program Data folder populated
+ Program Executor Deleted if existed
+ ... All done!
+ *******************************
+ Thanks for installing , visit www.pharaohtools.com for more
+ ******************************
+
+
+ Single App Installer:
+ --------------------------------------------
+ Cleopatra: Success
+ ------------------------------
+ Installer Finished
+ ******************************
+
 
 Options
 ----------

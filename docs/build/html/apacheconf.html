@@ -62,6 +62,7 @@
   <ul class="dropdown-menu globaltoc"><ul class="current">
 <li class="toctree-l1 current"><a class="reference internal" href="cleopatra.html">Cleopatra</a></li>
 <li class="toctree-l1"><a class="reference internal" href="phlagrant.html">Phlagrant</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Dapperstrano_main.html">Dapperstrano</a></li>
 </ul>
 </ul>
 </li>
@@ -70,10 +71,10 @@
   <ul class="dropdown-menu localtoc"><ul>
 <li><a class="reference internal" href="#">ApacheConf</a><ul>
 <li><a class="reference internal" href="#synopsis">Synopsis</a></li>
+<li><a class="reference internal" href="#help-command">Help command</a></li>
 <li><a class="reference internal" href="#installation">Installation</a></li>
 <li><a class="reference internal" href="#options">Options</a></li>
 <li><a class="reference internal" href="#benefits-to-the-users">Benefits to the users</a></li>
-<li><a class="reference internal" href="#help-command">Help command</a></li>
 </ul>
 </li>
 </ul>
@@ -112,6 +113,29 @@
 <div class="section" id="synopsis">
 <h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
 <p>This module assists in managing and installing the Apache configuration. It specifies the configuration of your environment. It is well-to-do in ubuntu and as well as in Cent OS.</p>
+</div>
+<div class="section" id="help-command">
+<h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
+<p>The help command describes about the purpose and the commands available under this modules. It also explains the command to install the particular module.
+The screen shot as shown below, visually represent the usage of the help command under this module.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra apacheconf <span class="nb">help</span>
+******************************
+
+
+ This module lets you install a configuration <span class="k">for</span> Apache HTTP Server. The only commands available are this <span class="nb">help</span>
+<span class="nb"> </span>and install.
+
+ ApacheConf, apache-configure, apache-configuration, apache-conf, apacheconf
+
+       - install
+       Installs a configuration <span class="k">for</span> Apache
+       example: cleopatra apacheconf install
+
+------------------------------
+End Help
+******************************
+</pre></div>
+</div>
 </div>
 <div class="section" id="installation">
 <h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
@@ -199,29 +223,6 @@ exit.|</td>
 <div class="section" id="benefits-to-the-users">
 <h2>Benefits to the users<a class="headerlink" href="#benefits-to-the-users" title="Permalink to this headline">¶</a></h2>
 <p>The module assists the end user in installing and managing the configuration of Apache. While installing the Apache tool, the end user can design and manage the configuration as per their requirement using this module. If it founds the configuration already exists it will overwrite the existing one.</p>
-</div>
-<div class="section" id="help-command">
-<h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
-<p>The help command describes about the purpose and the commands available under this modules. It also explains the command to install the particular module.
-The screen shot as shown below, visually represent the usage of the help command under this module.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra apacheconf <span class="nb">help</span>
-******************************
-
-
- This module lets you install a configuration <span class="k">for</span> Apache HTTP Server. The only commands available are this <span class="nb">help</span>
-<span class="nb"> </span>and install.
-
- ApacheConf, apache-configure, apache-configuration, apache-conf, apacheconf
-
-       - install
-       Installs a configuration <span class="k">for</span> Apache
-       example: cleopatra apacheconf install
-
-------------------------------
-End Help
-******************************
-</pre></div>
-</div>
 </div>
 </div>
 

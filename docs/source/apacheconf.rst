@@ -6,6 +6,35 @@ Synopsis
 
 This module assists in managing and installing the Apache configuration. It specifies the configuration of your environment. It is well-to-do in ubuntu and as well as in Cent OS.
 
+
+Help command
+-------------
+
+The help command describes about the purpose and the commands available under this modules. It also explains the command to install the particular module.
+The screen shot as shown below, visually represent the usage of the help command under this module.
+
+.. code-block:: bash
+
+
+ kevells@corp:/# cleopatra apacheconf help
+ ******************************
+
+
+  This module lets you install a configuration for Apache HTTP Server. The only commands available are this help
+  and install.
+
+  ApacheConf, apache-configure, apache-configuration, apache-conf, apacheconf
+
+        - install
+        Installs a configuration for Apache
+        example: cleopatra apacheconf install
+
+ ------------------------------
+ End Help
+ ******************************
+
+
+
 Installation
 ---------------
 
@@ -84,33 +113,10 @@ Options
 	|	                                 	 |            |as no, it will get	   |
 	|                                         	 |            |exit.|                      |
 	+------------------------------------------------+------------+----------------------------+
+
+
 Benefits to the users
 ----------------------
 
 The module assists the end user in installing and managing the configuration of Apache. While installing the Apache tool, the end user can design and manage the configuration as per their requirement using this module. If it founds the configuration already exists it will overwrite the existing one.
 
-Help command
--------------
-
-The help command describes about the purpose and the commands available under this modules. It also explains the command to install the particular module.
-The screen shot as shown below, visually represent the usage of the help command under this module.
-
-.. code-block:: bash
-
-
- kevells@corp:/# cleopatra apacheconf help
- ******************************
-
-
-  This module lets you install a configuration for Apache HTTP Server. The only commands available are this help
-  and install.
-
-  ApacheConf, apache-configure, apache-configuration, apache-conf, apacheconf
-
-        - install
-        Installs a configuration for Apache
-        example: cleopatra apacheconf install
-
- ------------------------------
- End Help
- ******************************

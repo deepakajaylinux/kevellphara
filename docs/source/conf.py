@@ -263,5 +263,5 @@ texinfo_documents = [
 
 language= 'en'
 locale_dirs = ['locale/']   # path is example but recommended.
-gettext_compact = False   # optional.
+gettext_compact = True   # optional.
 

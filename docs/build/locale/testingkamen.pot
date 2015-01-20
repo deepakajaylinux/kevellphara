@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELLS 1.1.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-19 15:15+0530\n"
+"POT-Creation-Date: 2015-01-20 18:59+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -41,94 +41,101 @@ msgstr ""
 msgid "The help command guides the user to provide what is necessary to accomplish the task. The command to make use of help under the terminal is given as follows,"
 msgstr ""
 
-#: ../../source/testingkamen.rst:20
+#: ../../source/testingkamen.rst:21
+#: ../../source/testingkamen.rst:52
 # e49f28d5ffa746e7a20453b24b9c46b4
+# 55adc476fe3142659cefe2fa76fe19a5
 msgid "The snapshot below gives you a pictorial representation of help command."
 msgstr ""
 
-#: ../../source/testingkamen.rst:25
+#: ../../source/testingkamen.rst:44
 # 7aa41101764a457ba0aa3f42696cd9e1
 msgid "Installation"
 msgstr ""
 
-#: ../../source/testingkamen.rst:27
+#: ../../source/testingkamen.rst:46
 # 4779a5f5233643eba29d1b3a5761f2b2
 msgid "The preferred way to install any of the pharaoh apps is through cleopatra. If you already installed cleopatra then you can install testingkamen by using the following command,"
 msgstr ""
 
-#: ../../source/testingkamen.rst:37
+#: ../../source/testingkamen.rst:90
+# e3ed57def5344e96930a9182d33f94d3
+msgid "Options"
+msgstr ""
+
+#: ../../source/testingkamen.rst:96
 # 098c80c795d64b1f93f20b54d166c853
 msgid "Paramaters"
 msgstr ""
 
-#: ../../source/testingkamen.rst:37
+#: ../../source/testingkamen.rst:96
 # e9107e645d2943b7a40e914ba993c863
 msgid "Required"
 msgstr ""
 
-#: ../../source/testingkamen.rst:37
+#: ../../source/testingkamen.rst:96
 # fee6aa2c4bf84342bbe68b7febbe6045
 msgid "Comments"
 msgstr ""
 
-#: ../../source/testingkamen.rst:39
+#: ../../source/testingkamen.rst:98
 # 56774049095a47ea8451cd142dc87019
 msgid "cleopatra Testingkamen install"
 msgstr ""
 
-#: ../../source/testingkamen.rst:39
+#: ../../source/testingkamen.rst:98
 # 4dafa74abd3e47fb85655ec8b2a0a1bf
 msgid "Yes"
 msgstr ""
 
-#: ../../source/testingkamen.rst:39
+#: ../../source/testingkamen.rst:98
 # 111a0f477e234e079bee545ff463ef11
 msgid "This command will install the Testingkamen module"
 msgstr ""
 
-#: ../../source/testingkamen.rst:41
-#: ../../source/testingkamen.rst:49
-# 5331b0eabe114bba9c123c7405373ee9
+#: ../../source/testingkamen.rst:100
+#: ../../source/testingkamen.rst:108
 # 3caa74c45ec0403fa5ab8f55d0119c2b
+# 5331b0eabe114bba9c123c7405373ee9
 msgid "Install Testingkamen ( Y/N)"
 msgstr ""
 
-#: ../../source/testingkamen.rst:41
+#: ../../source/testingkamen.rst:100
 # 6be09b157ec144ada8ef7afc05748ed5
 msgid "Y"
 msgstr ""
 
-#: ../../source/testingkamen.rst:41
+#: ../../source/testingkamen.rst:100
 # 1c5fccbffecb43dab68a11443bdeb3bd
 msgid "If the user inputs Y, this module checks for previously installed version, if exits it was updated to latest version or else it installs the fresh package. To save the program files to the  specific path user must enter key ‘/’ button or else it uses the default path as shown in figure."
 msgstr ""
 
-#: ../../source/testingkamen.rst:49
+#: ../../source/testingkamen.rst:108
 # c7b1a45d314c4f0e907e1c4d72a0c1d7
 msgid "N"
 msgstr ""
 
-#: ../../source/testingkamen.rst:49
+#: ../../source/testingkamen.rst:108
 # 323faa6da2f444e092faa6a800863bc6
 msgid "If the user inputs N, the installation was aborted."
 msgstr ""
 
-#: ../../source/testingkamen.rst:54
+#: ../../source/testingkamen.rst:113
 # 14f6067c74174306bd6ddddb699999ce
 msgid "Benefits to the users"
 msgstr ""
 
-#: ../../source/testingkamen.rst:56
+#: ../../source/testingkamen.rst:115
 # f9005aa22d8a4cc6ad44fc51ef9a53d7
 msgid "Easy use of access and installation"
 msgstr ""
 
-#: ../../source/testingkamen.rst:57
+#: ../../source/testingkamen.rst:116
 # 9f30bc018e1449f6b62473c1799ac796
 msgid "Coding is case insensitive"
 msgstr ""
 
-#: ../../source/testingkamen.rst:58
+#: ../../source/testingkamen.rst:117
 # 05a5e04a1aa745daab43b63bc8f0ae9d
 msgid "Full source is available and there are no license costs."
 msgstr ""

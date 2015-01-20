@@ -39,55 +39,55 @@ msgid ""
 "follows,"
 msgstr ""
 
-#: ../../source/testingkamen.rst:20
+#: ../../source/testingkamen.rst:21 ../../source/testingkamen.rst:52
 msgid ""
 "The snapshot below gives you a pictorial representation of help command."
 msgstr ""
 
-#: ../../source/testingkamen.rst:25
+#: ../../source/testingkamen.rst:44
 msgid "Installation"
 msgstr ""
 
-#: ../../source/testingkamen.rst:27
+#: ../../source/testingkamen.rst:46
 msgid ""
 "The preferred way to install any of the pharaoh apps is through cleopatra. "
 "If you already installed cleopatra then you can install testingkamen by "
 "using the following command,"
 msgstr ""
 
-#: ../../source/testingkamen.rst:37
+#: ../../source/testingkamen.rst:96
 msgid "Paramaters"
 msgstr ""
 
-#: ../../source/testingkamen.rst:37
+#: ../../source/testingkamen.rst:96
 msgid "Required"
 msgstr ""
 
-#: ../../source/testingkamen.rst:37
+#: ../../source/testingkamen.rst:96
 msgid "Comments"
 msgstr ""
 
-#: ../../source/testingkamen.rst:39
+#: ../../source/testingkamen.rst:98
 msgid "cleopatra Testingkamen install"
 msgstr ""
 
-#: ../../source/testingkamen.rst:39
+#: ../../source/testingkamen.rst:98
 msgid "Yes"
 msgstr ""
 
-#: ../../source/testingkamen.rst:39
+#: ../../source/testingkamen.rst:98
 msgid "This command will install the Testingkamen module"
 msgstr ""
 
-#: ../../source/testingkamen.rst:41 ../../source/testingkamen.rst:49
+#: ../../source/testingkamen.rst:100 ../../source/testingkamen.rst:108
 msgid "Install Testingkamen ( Y/N)"
 msgstr ""
 
-#: ../../source/testingkamen.rst:41
+#: ../../source/testingkamen.rst:100
 msgid "Y"
 msgstr ""
 
-#: ../../source/testingkamen.rst:41
+#: ../../source/testingkamen.rst:100
 msgid ""
 "If the user inputs Y, this module checks for previously installed version, "
 "if exits it was updated to latest version or else it installs the fresh "
@@ -95,26 +95,30 @@ msgid ""
 " ‘/’ button or else it uses the default path as shown in figure."
 msgstr ""
 
-#: ../../source/testingkamen.rst:49
+#: ../../source/testingkamen.rst:108
 msgid "N"
 msgstr ""
 
-#: ../../source/testingkamen.rst:49
+#: ../../source/testingkamen.rst:108
 msgid "If the user inputs N, the installation was aborted."
 msgstr ""
 
-#: ../../source/testingkamen.rst:54
+#: ../../source/testingkamen.rst:113
 msgid "Benefits to the users"
 msgstr ""
 
-#: ../../source/testingkamen.rst:56
+#: ../../source/testingkamen.rst:115
 msgid "Easy use of access and installation"
 msgstr ""
 
-#: ../../source/testingkamen.rst:57
+#: ../../source/testingkamen.rst:116
 msgid "Coding is case insensitive"
 msgstr ""
 
-#: ../../source/testingkamen.rst:58
+#: ../../source/testingkamen.rst:117
 msgid "Full source is available and there are no license costs."
+msgstr ""
+
+#: ../../source/testingkamen.rst:90
+msgid "Options"
 msgstr ""

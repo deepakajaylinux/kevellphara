@@ -52,63 +52,83 @@ msgstr ""
 msgid "The command used for installing Teamcity module is given below,"
 msgstr ""
 
-#: ../../source/teamcity.rst:50
-msgid "Snop shot for installation"
-msgstr ""
-
-#: ../../source/teamcity.rst:89
+#: ../../source/teamcity.rst:94
 msgid "Parameters"
 msgstr ""
 
-#: ../../source/teamcity.rst:89
+#: ../../source/teamcity.rst:94
 msgid "Required"
 msgstr ""
 
-#: ../../source/teamcity.rst:89
+#: ../../source/teamcity.rst:94
 msgid "Comments"
 msgstr ""
 
-#: ../../source/teamcity.rst:91
+#: ../../source/teamcity.rst:96
 msgid "cleopatra Teamcity  install"
 msgstr ""
 
-#: ../../source/teamcity.rst:91
+#: ../../source/teamcity.rst:96
 msgid "Y(YES)"
 msgstr ""
 
-#: ../../source/teamcity.rst:91
+#: ../../source/teamcity.rst:96
 msgid "This command will install Teamcity module"
 msgstr ""
 
-#: ../../source/teamcity.rst:96 ../../source/teamcity.rst:105
+#: ../../source/teamcity.rst:101 ../../source/teamcity.rst:110
 msgid "Install Teamcity ( Y/N)"
 msgstr ""
 
-#: ../../source/teamcity.rst:97
+#: ../../source/teamcity.rst:102
 msgid "Y"
 msgstr ""
 
-#: ../../source/teamcity.rst:96
+#: ../../source/teamcity.rst:101
 msgid ""
 "If the user inputs Y, this module checks for supporting requirements for "
 "Teamcity if exits it was updated to the new version or else it installs the "
 "fresh package with supporting requirements."
 msgstr ""
 
-#: ../../source/teamcity.rst:105
+#: ../../source/teamcity.rst:110
 msgid "N"
 msgstr ""
 
-#: ../../source/teamcity.rst:105
+#: ../../source/teamcity.rst:110
 msgid "If the user inputs N, the installation was aborted.|"
 msgstr ""
 
-#: ../../source/teamcity.rst:110
+#: ../../source/teamcity.rst:115
 msgid "Benefits to the users"
 msgstr ""
 
-#: ../../source/teamcity.rst:112
+#: ../../source/teamcity.rst:50
+msgid "The screenshot below explains how to install teamcity module."
+msgstr ""
+
+#: ../../source/teamcity.rst:87
+msgid "Options"
+msgstr ""
+
+#: ../../source/teamcity.rst:117
 msgid ""
 "Installs all supporting requirements to run teamcity server in an efficient "
-"manner Ease use of access and installation Coding is case insensitive."
+"manner"
 msgstr ""
+
+#: ../../source/teamcity.rst:118
+msgid "Ease use of access and installation"
+msgstr ""
+
+#: ../../source/teamcity.rst:119
+msgid "Coding is case insensitive."
+msgstr ""
+
+#~ msgid "Snop shot for installation"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Installs all supporting requirements to run teamcity server in an efficient "
+#~ "manner Ease use of access and installation Coding is case insensitive."
+#~ msgstr ""

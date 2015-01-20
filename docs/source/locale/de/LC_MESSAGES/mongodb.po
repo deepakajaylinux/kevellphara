@@ -43,110 +43,113 @@ msgstr ""
 msgid "Installation"
 msgstr ""
 
-#: ../../source/mongodb.rst:44
+#: ../../source/mongodb.rst:45
 msgid ""
 "Use this module to install Mongo DB on Ubuntu Linux systems from .deb "
 "packages. While Ubuntu includes its own Mongo DB packages, the official "
 "Mongo DB packages are generally more up-to-date."
 msgstr ""
 
-#: ../../source/mongodb.rst:50
+#: ../../source/mongodb.rst:51
 msgid "Install mongo DB server?(Y/N)"
 msgstr ""
 
-#: ../../source/mongodb.rst:52
+#: ../../source/mongodb.rst:53
 msgid ""
 "When the user gives input as Yes automatically it will install all depencies"
 " in root pass ass default and also install updated version. The following "
 "screen shot will explain it."
 msgstr ""
 
-#: ../../source/mongodb.rst:166
+#: ../../source/mongodb.rst:167
 msgid "If the user gives No it will exit."
 msgstr ""
 
-#: ../../source/mongodb.rst:169
+#: ../../source/mongodb.rst:170
 msgid "Options"
 msgstr ""
 
-#: ../../source/mongodb.rst:174
+#: ../../source/mongodb.rst:175
 msgid "Parameters"
 msgstr ""
 
-#: ../../source/mongodb.rst:174
+#: ../../source/mongodb.rst:175
 msgid "Directory"
 msgstr ""
 
-#: ../../source/mongodb.rst:174
-msgid "option"
-msgstr ""
-
-#: ../../source/mongodb.rst:174
+#: ../../source/mongodb.rst:175
 msgid "Comment"
 msgstr ""
 
-#: ../../source/mongodb.rst:176 ../../source/mongodb.rst:182
+#: ../../source/mongodb.rst:177 ../../source/mongodb.rst:183
 msgid "Install mongoDB server"
 msgstr ""
 
-#: ../../source/mongodb.rst:176
+#: ../../source/mongodb.rst:177
 msgid "YES"
 msgstr ""
 
-#: ../../source/mongodb.rst:176
+#: ../../source/mongodb.rst:177
 msgid ""
 "In Spite of mongoDB, the following alternatives can also be used: MongoDB, "
 "mongo-db-server,mongo-db, mongodb-server, mongodb,"
 msgstr ""
 
-#: ../../source/mongodb.rst:176
+#: ../../source/mongodb.rst:177
 msgid "It will install mongoDB under Cleopatra"
 msgstr ""
 
-#: ../../source/mongodb.rst:182
+#: ../../source/mongodb.rst:183
 msgid "NO"
 msgstr ""
 
-#: ../../source/mongodb.rst:182
+#: ../../source/mongodb.rst:183
 msgid ""
 "In Spite of mongoDB, the following alternatives can also be used: MongoDB, "
 "mongo-db-server,mongo-db, mongodb-server, mongodb|"
 msgstr ""
 
-#: ../../source/mongodb.rst:182
+#: ../../source/mongodb.rst:183
 msgid "It will exit"
 msgstr ""
 
-#: ../../source/mongodb.rst:190
+#: ../../source/mongodb.rst:191
 msgid "Benefits"
 msgstr ""
 
-#: ../../source/mongodb.rst:191
+#: ../../source/mongodb.rst:193
 msgid "Mongo DB is document oriented database."
 msgstr ""
 
-#: ../../source/mongodb.rst:192
+#: ../../source/mongodb.rst:194
 msgid "Mongo DB can updated the latest version."
 msgstr ""
 
-#: ../../source/mongodb.rst:193
+#: ../../source/mongodb.rst:195
 msgid ""
 "While installing mongo DB all depencies, libraries can also installed "
 "automatically without searching from the web."
 msgstr ""
 
-#: ../../source/mongodb.rst:194
+#: ../../source/mongodb.rst:196
 msgid ""
 "MongoDB can store the business subject in the minimal number of"
 "                    documents."
 msgstr ""
 
-#: ../../source/mongodb.rst:195
+#: ../../source/mongodb.rst:197
 msgid "Speed enhancements."
 msgstr ""
 
-#: ../../source/mongodb.rst:196
+#: ../../source/mongodb.rst:198
 msgid ""
 "Great advantage of load balancing and data replication features over "
 "multiple machines for storing files."
 msgstr ""
+
+#: ../../source/mongodb.rst:175
+msgid "Option"
+msgstr ""
+
+#~ msgid "option"
+#~ msgstr ""

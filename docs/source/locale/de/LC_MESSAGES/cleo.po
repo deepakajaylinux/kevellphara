@@ -32,88 +32,97 @@ msgstr ""
 msgid "Help command"
 msgstr ""
 
-#: ../../source/cleo.rst:13
-msgid ""
-"This help command guide the user about Cleopatra. It is time consuming "
-"because it can installed automatically. Suitable for all type of user. The "
-"following help command will assist the user for installation."
-msgstr ""
-
-#: ../../source/cleo.rst:17
+#: ../../source/cleo.rst:38
 msgid "Installation"
 msgstr ""
 
-#: ../../source/cleo.rst:18
+#: ../../source/cleo.rst:39
 msgid ""
 "It is a noticeable process to install Cleopatra module under Cleopatra by "
 "just using the command given below,"
 msgstr ""
 
-#: ../../source/cleo.rst:24
+#: ../../source/cleo.rst:45
 msgid ""
 "After giving the command the Cleopatra will be installed with new updates. "
 "The user input has passed then will check if any file is missing it will "
 "install automatically. The following screen shot enumerate it."
 msgstr ""
 
-#: ../../source/cleo.rst:28
-msgid "If the user gives input as No the following screen will appear."
-msgstr ""
-
-#: ../../source/cleo.rst:31
+#: ../../source/cleo.rst:87
 msgid "Options"
 msgstr ""
 
-#: ../../source/cleo.rst:37
+#: ../../source/cleo.rst:93
 msgid "Parameters"
 msgstr ""
 
-#: ../../source/cleo.rst:37
+#: ../../source/cleo.rst:93
 msgid "Directory(default)"
 msgstr ""
 
-#: ../../source/cleo.rst:37
+#: ../../source/cleo.rst:93
 msgid "option"
 msgstr ""
 
-#: ../../source/cleo.rst:37
+#: ../../source/cleo.rst:93
 msgid "Comments"
 msgstr ""
 
-#: ../../source/cleo.rst:39 ../../source/cleo.rst:44
+#: ../../source/cleo.rst:95 ../../source/cleo.rst:98
 msgid "Install cleopatra"
 msgstr ""
 
-#: ../../source/cleo.rst:39
+#: ../../source/cleo.rst:95
 msgid "Y(YES)"
 msgstr ""
 
-#: ../../source/cleo.rst:39
+#: ../../source/cleo.rst:95
 msgid "It will install Cleopatra under Cleopatra"
 msgstr ""
 
-#: ../../source/cleo.rst:44
+#: ../../source/cleo.rst:98
 msgid "N(NO)"
 msgstr ""
 
-#: ../../source/cleo.rst:44
-msgid "It will exit from installation"
-msgstr ""
-
-#: ../../source/cleo.rst:48
+#: ../../source/cleo.rst:102
 msgid "Benefits"
 msgstr ""
 
-#: ../../source/cleo.rst:50
+#: ../../source/cleo.rst:104
 msgid ""
 "Cleopatra is used to install configuration file. While installing if there "
 "is any file is existing overwrite the content."
 msgstr ""
 
-#: ../../source/cleo.rst:51
+#: ../../source/cleo.rst:105
 msgid "New version can update automatically."
 msgstr ""
 
-#: ../../source/cleo.rst:52
+#: ../../source/cleo.rst:106
 msgid "Updating can be done in this module without web search."
 msgstr ""
+
+#: ../../source/cleo.rst:13
+msgid ""
+"This help command guide the user about Cleopatra. It is less time consuming "
+"because it can installed automatically. Suitable for all type of user. The "
+"following help command and the screenshot will assist the user regarding the"
+" usage."
+msgstr ""
+
+#: ../../source/cleo.rst:98
+msgid "It will exit from installation|"
+msgstr ""
+
+#~ msgid ""
+#~ "This help command guide the user about Cleopatra. It is time consuming "
+#~ "because it can installed automatically. Suitable for all type of user. The "
+#~ "following help command will assist the user for installation."
+#~ msgstr ""
+
+#~ msgid "If the user gives input as No the following screen will appear."
+#~ msgstr ""
+
+#~ msgid "It will exit from installation"
+#~ msgstr ""

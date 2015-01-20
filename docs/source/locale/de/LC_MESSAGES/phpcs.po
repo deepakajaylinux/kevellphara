@@ -185,22 +185,22 @@ msgid ""
 "graphically about the process involved in installation of PHPCS."
 msgstr ""
 
-#: ../../source/phpcs.rst:95
+#: ../../source/phpcs.rst:131
 msgid "Benefits"
 msgstr ""
 
-#: ../../source/phpcs.rst:97
+#: ../../source/phpcs.rst:133
 msgid ""
 "This module facilitates the user in installing PHP CS with the updated "
 "version."
 msgstr ""
 
-#: ../../source/phpcs.rst:98
+#: ../../source/phpcs.rst:134
 msgid ""
 "The user can select their own path for program data directory and executor"
 msgstr ""
 
-#: ../../source/phpcs.rst:99
+#: ../../source/phpcs.rst:135
 msgid ""
 "The parameters used in declaring the help and installations are not case "
 "sensitive, which is added advantage while compared to others."

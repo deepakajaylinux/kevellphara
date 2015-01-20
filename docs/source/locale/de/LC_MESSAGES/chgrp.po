@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../source/chgrp.rst:2 ../../source/chgrp.rst:36
+#: ../../source/chgrp.rst:2 ../../source/chgrp.rst:40
 msgid "Chgrp"
 msgstr ""
 
@@ -21,10 +21,6 @@ msgstr ""
 
 #: ../../source/chgrp.rst:7
 msgid "This module confess many owners. Linux can accept many groups."
-msgstr ""
-
-#: ../../source/chgrp.rst:10
-msgid "How to use:"
 msgstr ""
 
 #: ../../source/chgrp.rst:12
@@ -52,66 +48,82 @@ msgstr ""
 msgid "Options"
 msgstr ""
 
-#: ../../source/chgrp.rst:32
+#: ../../source/chgrp.rst:34
 msgid "Parameters"
 msgstr ""
 
-#: ../../source/chgrp.rst:32
+#: ../../source/chgrp.rst:34
 msgid "Requirement"
 msgstr ""
 
-#: ../../source/chgrp.rst:32
-msgid "option"
-msgstr ""
-
-#: ../../source/chgrp.rst:32
+#: ../../source/chgrp.rst:34
 msgid "Comments"
 msgstr ""
 
-#: ../../source/chgrp.rst:34 ../../source/chgrp.rst:37
+#: ../../source/chgrp.rst:36 ../../source/chgrp.rst:42
 msgid "chgrp"
 msgstr ""
 
-#: ../../source/chgrp.rst:34 ../../source/chgrp.rst:35
-#: ../../source/chgrp.rst:37
+#: ../../source/chgrp.rst:36 ../../source/chgrp.rst:38
+#: ../../source/chgrp.rst:42
 msgid "Yes"
 msgstr ""
 
-#: ../../source/chgrp.rst:34
+#: ../../source/chgrp.rst:36
 msgid "It will  the change group module under Cleopatra"
 msgstr ""
 
-#: ../../source/chgrp.rst:35
+#: ../../source/chgrp.rst:38
 msgid "Path"
 msgstr ""
 
-#: ../../source/chgrp.rst:35
+#: ../../source/chgrp.rst:38
 msgid "Specify the path"
 msgstr ""
 
-#: ../../source/chgrp.rst:36 ../../source/chgrp.rst:37
+#: ../../source/chgrp.rst:40 ../../source/chgrp.rst:42
 msgid "group"
 msgstr ""
 
-#: ../../source/chgrp.rst:36
+#: ../../source/chgrp.rst:40
 msgid "No"
 msgstr ""
 
-#: ../../source/chgrp.rst:36
+#: ../../source/chgrp.rst:40
 msgid "While changing user can specify the path."
 msgstr ""
 
-#: ../../source/chgrp.rst:37
-msgid "Facilitate to change the new group name"
-msgstr ""
-
-#: ../../source/chgrp.rst:42
-msgid "Help command:"
-msgstr ""
-
-#: ../../source/chgrp.rst:43
+#: ../../source/chgrp.rst:47
 msgid ""
 "The help command interprets about the scope and the commands available under"
 " this modules. It also explains the command to change the group. The "
 "following screen shot visualize it translucently."
 msgstr ""
+
+#: ../../source/chgrp.rst:10
+msgid "How to use"
+msgstr ""
+
+#: ../../source/chgrp.rst:34
+msgid "Option"
+msgstr ""
+
+#: ../../source/chgrp.rst:42
+msgid "Facilitate to change the new group name|"
+msgstr ""
+
+#: ../../source/chgrp.rst:46
+msgid "Help command"
+msgstr ""
+
+#~ msgid "How to use:"
+#~ msgstr ""
+
+#~ msgid "option"
+#~ msgstr ""
+
+#~ msgid "Facilitate to change the new group name"
+#~ msgstr ""
+
+#~ msgid "Help command:"
+#~ msgstr ""

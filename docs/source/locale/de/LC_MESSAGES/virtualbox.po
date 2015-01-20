@@ -49,32 +49,77 @@ msgid ""
 " command as,"
 msgstr ""
 
-#: ../../source/virtualbox.rst:42
-msgid ""
-"Then the system can enquire Cleopatra virtual box install? (Y/N) If the user"
-" enters Y then it will be installed, else it will exit the screen."
-msgstr ""
-
 #: ../../source/virtualbox.rst:212
 msgid "Options"
 msgstr ""
 
-#: ../../source/virtualbox.rst:217
+#: ../../source/virtualbox.rst:230
 msgid "Benefits"
 msgstr ""
 
-#: ../../source/virtualbox.rst:219
+#: ../../source/virtualbox.rst:232
 msgid "Voice can be installed via this module."
 msgstr ""
 
-#: ../../source/virtualbox.rst:220
+#: ../../source/virtualbox.rst:233
 msgid ""
 "Both ISO images and host-connected physical devices can be mounted as CD/DVD"
 " drives."
 msgstr ""
 
-#: ../../source/virtualbox.rst:221
+#: ../../source/virtualbox.rst:234
 msgid ""
 "The DVD image of a Linux distribution can be downloaded and used directly by"
 " VirtualBox."
 msgstr ""
+
+#: ../../source/virtualbox.rst:42
+msgid ""
+"Then the system can enquire cleopatra virtual box install? (Y/N) If the user"
+" enters Y then it will be installed, else it will exit the screen."
+msgstr ""
+
+#: ../../source/virtualbox.rst:217
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/virtualbox.rst:217
+msgid "Syntax"
+msgstr ""
+
+#: ../../source/virtualbox.rst:217
+msgid "Option"
+msgstr ""
+
+#: ../../source/virtualbox.rst:217
+msgid "Comments"
+msgstr ""
+
+#: ../../source/virtualbox.rst:219
+msgid "Install Virtual box"
+msgstr ""
+
+#: ../../source/virtualbox.rst:219
+msgid "Yes"
+msgstr ""
+
+#: ../../source/virtualbox.rst:219 ../../source/virtualbox.rst:221
+msgid "Virtualbox"
+msgstr ""
+
+#: ../../source/virtualbox.rst:219 ../../source/virtualbox.rst:221
+msgid "Installed successfully"
+msgstr ""
+
+#: ../../source/virtualbox.rst:223
+msgid "No"
+msgstr ""
+
+#: ../../source/virtualbox.rst:223
+msgid "Exit the screen|"
+msgstr ""
+
+#~ msgid ""
+#~ "Then the system can enquire Cleopatra virtual box install? (Y/N) If the user"
+#~ " enters Y then it will be installed, else it will exit the screen."
+#~ msgstr ""

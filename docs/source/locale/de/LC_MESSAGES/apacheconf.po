@@ -26,21 +26,21 @@ msgid ""
 "and as well as in Cent OS."
 msgstr ""
 
-#: ../../source/apacheconf.rst:10
+#: ../../source/apacheconf.rst:39
 msgid "Installation"
 msgstr ""
 
-#: ../../source/apacheconf.rst:12
+#: ../../source/apacheconf.rst:41
 msgid ""
 "It is easier to install this particular tool under Cleopatra by simply using"
 " the command given below,"
 msgstr ""
 
-#: ../../source/apacheconf.rst:18
+#: ../../source/apacheconf.rst:47
 msgid "After giving the command above, the tool will ask as"
 msgstr ""
 
-#: ../../source/apacheconf.rst:24
+#: ../../source/apacheconf.rst:53
 msgid ""
 "if you give an input as Y, the module will get installed successfully. It "
 "will also throw some commands to specify the non-default values for "
@@ -50,61 +50,61 @@ msgid ""
 " about the values from the user."
 msgstr ""
 
-#: ../../source/apacheconf.rst:27
+#: ../../source/apacheconf.rst:56
 msgid ""
 "The screen shot given below explains visually about the steps and commands "
 "involves in installation."
 msgstr ""
 
-#: ../../source/apacheconf.rst:30
+#: ../../source/apacheconf.rst:96
 msgid "Options"
 msgstr ""
 
-#: ../../source/apacheconf.rst:35
+#: ../../source/apacheconf.rst:101
 msgid "Parameters"
 msgstr ""
 
-#: ../../source/apacheconf.rst:35
+#: ../../source/apacheconf.rst:101
 msgid "Required"
 msgstr ""
 
-#: ../../source/apacheconf.rst:35
+#: ../../source/apacheconf.rst:101
 msgid "Comment"
 msgstr ""
 
-#: ../../source/apacheconf.rst:37
+#: ../../source/apacheconf.rst:103
 msgid "Install"
 msgstr ""
 
-#: ../../source/apacheconf.rst:37 ../../source/apacheconf.rst:41
+#: ../../source/apacheconf.rst:103 ../../source/apacheconf.rst:107
 msgid "Y(YES)"
 msgstr ""
 
-#: ../../source/apacheconf.rst:37
+#: ../../source/apacheconf.rst:103
 msgid "It will install the apacheconf under Cleopatra"
 msgstr ""
 
-#: ../../source/apacheconf.rst:41 ../../source/apacheconf.rst:46
+#: ../../source/apacheconf.rst:107 ../../source/apacheconf.rst:112
 msgid "Install Apache conf? (Y/N)"
 msgstr ""
 
-#: ../../source/apacheconf.rst:41
+#: ../../source/apacheconf.rst:107
 msgid "If the user gives input as yes, it will install the module."
 msgstr ""
 
-#: ../../source/apacheconf.rst:46
+#: ../../source/apacheconf.rst:112
 msgid "N(NO)"
 msgstr ""
 
-#: ../../source/apacheconf.rst:46
+#: ../../source/apacheconf.rst:112
 msgid "If the user gives input as no, it will get exit.|"
 msgstr ""
 
-#: ../../source/apacheconf.rst:51
+#: ../../source/apacheconf.rst:119
 msgid "Benefits to the users"
 msgstr ""
 
-#: ../../source/apacheconf.rst:53
+#: ../../source/apacheconf.rst:121
 msgid ""
 "The module assists the end user in installing and managing the configuration"
 " of Apache. While installing the Apache tool, the end user can design and "
@@ -112,11 +112,11 @@ msgid ""
 "founds the configuration already exists it will overwrite the existing one."
 msgstr ""
 
-#: ../../source/apacheconf.rst:56
+#: ../../source/apacheconf.rst:11
 msgid "Help command"
 msgstr ""
 
-#: ../../source/apacheconf.rst:58
+#: ../../source/apacheconf.rst:13
 msgid ""
 "The help command describes about the purpose and the commands available "
 "under this modules. It also explains the command to install the particular "

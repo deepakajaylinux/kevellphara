@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Apache Control &mdash; KEVELLS 1.1.1 documentation</title>
+    <title>Apache Control &mdash; KEVELLS 1.1.1 ドキュメント</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -25,10 +25,12 @@
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/translations.js"></script>
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
-    <link rel="top" title="KEVELLS 1.1.1 documentation" href="index.html" />
+    <link rel="top" title="KEVELLS 1.1.1 ドキュメント" href="index.html" />
     <link rel="up" title="Dapperstrano" href="Dapperstrano_main.html" />
+    <link rel="next" title="Nginx Control" href="nginxcontrol.html" />
     <link rel="prev" title="System Detection" href="systemdetection.html" />
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
@@ -86,7 +88,9 @@
           
             
   <li><a href="systemdetection.html"
-         title="previous chapter">&laquo; System Detection</a></li>
+         title="前の章へ">&laquo; System Detection</a></li>
+  <li><a href="nginxcontrol.html"
+         title="次の章へ">Nginx Control &raquo;</a></li>
           
           
           <!--  <li>
@@ -109,13 +113,13 @@
 
   
   <div class="section" id="apache-control">
-<h1>Apache Control<a class="headerlink" href="#apache-control" title="Permalink to this headline">¶</a></h1>
+<h1>Apache Control<a class="headerlink" href="#apache-control" title="このヘッドラインへのパーマリンク">¶</a></h1>
 <div class="section" id="synopsis">
-<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
+<h2>Synopsis<a class="headerlink" href="#synopsis" title="このヘッドラインへのパーマリンク">¶</a></h2>
 <p>This module is one of the default modules that aims at handling the control functions of apache server. It enables and facilitates the required control functions that are to be performed in the Apache server. Let us see, the working and purpose of control functions and how this modules involved in handling those control functions of apache server.</p>
 </div>
 <div class="section" id="help-command">
-<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
+<h2>Help Command<a class="headerlink" href="#help-command" title="このヘッドラインへのパーマリンク">¶</a></h2>
 <p>The help command acts as a brief user guide that leads the users how to handle and use this particular module.</p>
 <p>The syntax for help command under the Apache control is shown below:</p>
 <div class="highlight-bash"><div class="highlight"><pre>dapperstrano ApacheControl <span class="nb">help</span>
@@ -179,12 +183,12 @@ End Help
 <p>Let us see the usage of three different syntax in declaring in upcoming topics.</p>
 </div>
 <div class="section" id="alternative-parameters">
-<h2>Alternative parameters<a class="headerlink" href="#alternative-parameters" title="Permalink to this headline">¶</a></h2>
+<h2>Alternative parameters<a class="headerlink" href="#alternative-parameters" title="このヘッドラインへのパーマリンク">¶</a></h2>
 <p>The following are the alternative parameters that can be defined in declarations:
 ApacheControl, apachecontrol, apachectl</p>
 </div>
 <div class="section" id="start-function">
-<h2>Start function<a class="headerlink" href="#start-function" title="Permalink to this headline">¶</a></h2>
+<h2>Start function<a class="headerlink" href="#start-function" title="このヘッドラインへのパーマリンク">¶</a></h2>
 <p>If the user wish to start the apache control function, the can use the following syntaxes as shown:</p>
 <div class="highlight-bash"><div class="highlight"><pre>dapperstrano ApacheControl start
 
@@ -219,7 +223,7 @@ Starting Apache...
 </div>
 </div>
 <div class="section" id="stop-function">
-<h2>Stop Function<a class="headerlink" href="#stop-function" title="Permalink to this headline">¶</a></h2>
+<h2>Stop Function<a class="headerlink" href="#stop-function" title="このヘッドラインへのパーマリンク">¶</a></h2>
 <p>If the user wish to stop the apache control function, the can use the following syntaxes as shown:</p>
 <div class="highlight-bash"><div class="highlight"><pre>dapperstrano apachecontrol stop --yes --guess
 
@@ -243,7 +247,7 @@ Stopping Apache...
 </div>
 </div>
 <div class="section" id="restart-a-function">
-<h2>Restart a function<a class="headerlink" href="#restart-a-function" title="Permalink to this headline">¶</a></h2>
+<h2>Restart a function<a class="headerlink" href="#restart-a-function" title="このヘッドラインへのパーマリンク">¶</a></h2>
 <p>If the user wish to restart the apache control function, the can use the following syntaxes as shown:</p>
 <div class="highlight-bash"><div class="highlight"><pre>dapperstrano apachecontrol restart --yes --apache-command<span class="o">=</span><span class="s2">&quot;apache2&quot;</span>
 
@@ -266,7 +270,7 @@ AH00558: apache2: Could not reliably determine the server&#39;s fully qualified 
 </div>
 </div>
 <div class="section" id="reloading-a-function">
-<h2>Reloading a function<a class="headerlink" href="#reloading-a-function" title="Permalink to this headline">¶</a></h2>
+<h2>Reloading a function<a class="headerlink" href="#reloading-a-function" title="このヘッドラインへのパーマリンク">¶</a></h2>
 <p>If the user wish to reload the apache control function, the can use the following syntaxes as shown:</p>
 <div class="highlight-bash"><div class="highlight"><pre>dapperstrano apachecontrol reload
 </pre></div>
@@ -282,7 +286,7 @@ AH00558: apache2: Could not reliably determine the server&#39;s fully qualified 
 <p>The reload function performs reloading the apache server without restarting.</p>
 </div>
 <div class="section" id="benefits">
-<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
+<h2>Benefits<a class="headerlink" href="#benefits" title="このヘッドラインへのパーマリンク">¶</a></h2>
 <ul class="simple">
 <li>It is well to do in both cent-OS and ubuntu.</li>
 <li>The parameters used for declarations are not case sensitive, which is an added advantage while compared to others.</li>

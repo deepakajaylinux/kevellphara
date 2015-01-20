@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELLS 1.1.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-19 15:15+0530\n"
+"POT-Creation-Date: 2015-01-20 18:59+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -68,7 +68,7 @@ msgstr ""
 
 #: ../../source/varnish.rst:56
 # 329405d4fd404bce9b929fdf57a97a33
-msgid "Alternative Parameter"
+msgid "Alternative Parameters"
 msgstr ""
 
 #: ../../source/varnish.rst:56
@@ -167,7 +167,7 @@ msgstr ""
 
 #: ../../source/varnish.rst:145
 # eff903dcd9f845dd90a213ef43c241d3
-msgid "Benefits:"
+msgid "Benefits"
 msgstr ""
 
 #: ../../source/varnish.rst:147

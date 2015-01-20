@@ -45,130 +45,130 @@ msgid ""
 "shows a pictorial presentation about the help command."
 msgstr ""
 
-#: ../../source/mysqlserver.rst:27
+#: ../../source/mysqlserver.rst:53
 msgid "Installation"
 msgstr ""
 
-#: ../../source/mysqlserver.rst:29
+#: ../../source/mysqlserver.rst:55
 msgid "The command used for installing the mysql server is given below."
 msgstr ""
 
-#: ../../source/mysqlserver.rst:36
+#: ../../source/mysqlserver.rst:62
 msgid "During the installation, the following process occurs"
 msgstr ""
 
-#: ../../source/mysqlserver.rst:38
+#: ../../source/mysqlserver.rst:64
 msgid ""
 "This module assists to install some tools for mysql server via apt-get."
 msgstr ""
 
-#: ../../source/mysqlserver.rst:39
+#: ../../source/mysqlserver.rst:65
 msgid "Initially a root password will be set."
 msgstr ""
 
-#: ../../source/mysqlserver.rst:40
+#: ../../source/mysqlserver.rst:66
 msgid "While installing, it will look for a parameter of --mysql-root-pass."
 msgstr ""
 
-#: ../../source/mysqlserver.rst:41
+#: ../../source/mysqlserver.rst:67
 msgid ""
 "If the --mysql-root-pass is not available, it will search the cleopatra "
 "config for the settings of mysql-default-root-pass."
 msgstr ""
 
-#: ../../source/mysqlserver.rst:42
+#: ../../source/mysqlserver.rst:68
 msgid ""
 "In case of both steps mentioned above gets failed, it will proceed by "
 "setting root password to cleopatra."
 msgstr ""
 
-#: ../../source/mysqlserver.rst:45
+#: ../../source/mysqlserver.rst:71
 msgid "Additional Options:"
 msgstr ""
 
-#: ../../source/mysqlserver.rst:46
+#: ../../source/mysqlserver.rst:72
 msgid ""
 "Let us see about, the additional options involved in installing the mysql-"
 "server."
 msgstr ""
 
-#: ../../source/mysqlserver.rst:52
+#: ../../source/mysqlserver.rst:78
 msgid "Parameters"
 msgstr ""
 
-#: ../../source/mysqlserver.rst:52
+#: ../../source/mysqlserver.rst:78
 msgid "Directory(default)"
 msgstr ""
 
-#: ../../source/mysqlserver.rst:52
+#: ../../source/mysqlserver.rst:78
 msgid "option"
 msgstr ""
 
-#: ../../source/mysqlserver.rst:52
+#: ../../source/mysqlserver.rst:78
 msgid "Comments"
 msgstr ""
 
-#: ../../source/mysqlserver.rst:54 ../../source/mysqlserver.rst:59
+#: ../../source/mysqlserver.rst:80 ../../source/mysqlserver.rst:85
 msgid "Install MySQL Server? (Y/N)"
 msgstr ""
 
-#: ../../source/mysqlserver.rst:54 ../../source/mysqlserver.rst:59
+#: ../../source/mysqlserver.rst:80 ../../source/mysqlserver.rst:85
 msgid ""
 "In the place of MySQL Server these alternative names can be used:MysqlServer"
 ",mysql-server, mysqlserver."
 msgstr ""
 
-#: ../../source/mysqlserver.rst:54
+#: ../../source/mysqlserver.rst:80
 msgid "Y(YES)"
 msgstr ""
 
-#: ../../source/mysqlserver.rst:54
+#: ../../source/mysqlserver.rst:80
 msgid ""
 "If the user wish to proceed the installation process they can input as Y."
 msgstr ""
 
-#: ../../source/mysqlserver.rst:59
+#: ../../source/mysqlserver.rst:85
 msgid "N(NO)"
 msgstr ""
 
-#: ../../source/mysqlserver.rst:59
+#: ../../source/mysqlserver.rst:85
 msgid ""
 "If the user wish to quit the installation process they can input as N| |"
 msgstr ""
 
-#: ../../source/mysqlserver.rst:65
+#: ../../source/mysqlserver.rst:91
 msgid ""
 "The following screen shot gives you an graphical presentation regarding the "
 "installation process."
 msgstr ""
 
-#: ../../source/mysqlserver.rst:70
+#: ../../source/mysqlserver.rst:96
 msgid ""
 "If the mysql server is already exists in your machine, then it will throw an"
 " message to the user as it is already installed. The following screen shot "
 "represents the process of ensuring:"
 msgstr ""
 
-#: ../../source/mysqlserver.rst:76
+#: ../../source/mysqlserver.rst:102
 msgid "Benefits"
 msgstr ""
 
-#: ../../source/mysqlserver.rst:77
+#: ../../source/mysqlserver.rst:103
 msgid ""
 "While installing the mysql server, it installs with the updated version."
 msgstr ""
 
-#: ../../source/mysqlserver.rst:78
+#: ../../source/mysqlserver.rst:104
 msgid ""
 "It ensures before installing, and check for the availability of modules."
 msgstr ""
 
-#: ../../source/mysqlserver.rst:79
+#: ../../source/mysqlserver.rst:105
 msgid ""
 "In case of any new modules included in the updated version, the missing "
 "module will be installed individually."
 msgstr ""
 
-#: ../../source/mysqlserver.rst:80
+#: ../../source/mysqlserver.rst:106
 msgid "It checks the availability of library functions in the mysql server."
 msgstr ""

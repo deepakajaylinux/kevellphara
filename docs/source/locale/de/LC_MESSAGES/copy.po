@@ -39,32 +39,28 @@ msgid ""
 " image also helps you to understand this module clearly."
 msgstr ""
 
-#: ../../source/copy.rst:17
+#: ../../source/copy.rst:36
 msgid "Installation"
 msgstr ""
 
-#: ../../source/copy.rst:19
+#: ../../source/copy.rst:38
 msgid ""
 "It is a glaring process to copy module under Cleopatra by just using the "
 "command given below,"
 msgstr ""
 
-#: ../../source/copy.rst:21
+#: ../../source/copy.rst:40
 msgid ""
 "The main function of copy is to copy the file  from source file to "
 "destination. Here the user has to mention the file name and destination. The"
 " following syntax is used to copy"
 msgstr ""
 
-#: ../../source/copy.rst:28
+#: ../../source/copy.rst:47
 msgid "Example"
 msgstr ""
 
-#: ../../source/copy.rst:29
-msgid "Cleopatra copy put –yes—source=”/tmp/file”—target=”/home/user/file”"
-msgstr ""
-
-#: ../../source/copy.rst:31
+#: ../../source/copy.rst:53
 msgid ""
 "After vitalize the command it will catechize input. The user input as yes "
 "the user has to enter as source file then it requires target file. Now the "
@@ -72,32 +68,98 @@ msgid ""
 "to destination. The following screenshot shows the copying of file."
 msgstr ""
 
-#: ../../source/copy.rst:36
+#: ../../source/copy.rst:79
 msgid "Options"
 msgstr ""
 
-#: ../../source/copy.rst:37
+#: ../../source/copy.rst:81
 msgid ""
 "The user input as copy put then access the source file path and target file "
 "path."
 msgstr ""
 
-#: ../../source/copy.rst:60
-msgid ""
-"iParameters syntax Comments put Source to target The file path  copied from "
-"source to destination get Path to source Copy the files from the path to "
-"source directory"
-msgstr ""
-
-#: ../../source/copy.rst:71
+#: ../../source/copy.rst:99
 msgid "Benefits"
 msgstr ""
 
-#: ../../source/copy.rst:72
-msgid ""
-"The user can work with remote place also. User can mention the path for "
-"source and destination. It is very secure in copying. Fast accessible. "
-"Easily we can share the information with others. The user can copy any kind "
-"of information (including sound and pictures). The user can copy entire file"
-" path from one folder to another."
+#: ../../source/copy.rst:86
+msgid "Parameters"
 msgstr ""
+
+#: ../../source/copy.rst:86
+msgid "Directory(default)"
+msgstr ""
+
+#: ../../source/copy.rst:86
+msgid "Comments"
+msgstr ""
+
+#: ../../source/copy.rst:88
+msgid "put"
+msgstr ""
+
+#: ../../source/copy.rst:88
+msgid "Source to target"
+msgstr ""
+
+#: ../../source/copy.rst:88
+msgid "The file path copied from source to destination"
+msgstr ""
+
+#: ../../source/copy.rst:91
+msgid "get"
+msgstr ""
+
+#: ../../source/copy.rst:91
+msgid "Path to source"
+msgstr ""
+
+#: ../../source/copy.rst:91
+msgid "Copy the files from the path to source directory|"
+msgstr ""
+
+#: ../../source/copy.rst:101
+msgid "The user can work with remote place also."
+msgstr ""
+
+#: ../../source/copy.rst:102
+msgid "User can mention the path for source and destination."
+msgstr ""
+
+#: ../../source/copy.rst:103
+msgid "It is very secure in copying."
+msgstr ""
+
+#: ../../source/copy.rst:104
+msgid "Fast accessible."
+msgstr ""
+
+#: ../../source/copy.rst:105
+msgid "Easily we can share the information with others."
+msgstr ""
+
+#: ../../source/copy.rst:106
+msgid ""
+"The user can copy any kind of information (including sound and pictures)."
+msgstr ""
+
+#: ../../source/copy.rst:107
+msgid "The user can copy entire file path from one folder to another."
+msgstr ""
+
+#~ msgid "Cleopatra copy put –yes—source=”/tmp/file”—target=”/home/user/file”"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "iParameters syntax Comments put Source to target The file path  copied from "
+#~ "source to destination get Path to source Copy the files from the path to "
+#~ "source directory"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The user can work with remote place also. User can mention the path for "
+#~ "source and destination. It is very secure in copying. Fast accessible. "
+#~ "Easily we can share the information with others. The user can copy any kind "
+#~ "of information (including sound and pictures). The user can copy entire file"
+#~ " path from one folder to another."
+#~ msgstr ""

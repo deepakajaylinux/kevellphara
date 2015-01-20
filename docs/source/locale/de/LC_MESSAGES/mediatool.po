@@ -150,10 +150,6 @@ msgid ""
 "The following screen shot explains the above mentioned process pictorially."
 msgstr ""
 
-#: ../../source/mediatool.rst:347
-msgid "Benefits:"
-msgstr ""
-
 #: ../../source/mediatool.rst:348
 msgid ""
 "The parameters used in help and installation operations are not case "
@@ -171,3 +167,10 @@ msgstr ""
 #: ../../source/mediatool.rst:351
 msgid "This module facilitates installing GC recommended media tools."
 msgstr ""
+
+#: ../../source/mediatool.rst:347
+msgid "Benefits"
+msgstr ""
+
+#~ msgid "Benefits:"
+#~ msgstr ""

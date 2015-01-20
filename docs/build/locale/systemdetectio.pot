@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELLS 1.1.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-19 15:15+0530\n"
+"POT-Creation-Date: 2015-01-20 18:59+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../source/systemdetectio.rst:6
 # d7fb7e0eca8249d28fbbcce854d2ddd0
-msgid "Synopsis:"
+msgid "Synopsis"
 msgstr ""
 
 #: ../../source/systemdetectio.rst:8
@@ -33,7 +33,7 @@ msgstr ""
 
 #: ../../source/systemdetectio.rst:11
 # 80c2b5cd093a4e9c8c781b9338c591e1
-msgid "Help Command:"
+msgid "Help Command"
 msgstr ""
 
 #: ../../source/systemdetectio.rst:13
@@ -48,7 +48,7 @@ msgstr ""
 
 #: ../../source/systemdetectio.rst:41
 # ab0f284634934918b35557b2ad938851
-msgid "Detection:"
+msgid "Detection"
 msgstr ""
 
 #: ../../source/systemdetectio.rst:43
@@ -111,37 +111,37 @@ msgstr ""
 msgid "Alternative Parameters"
 msgstr ""
 
-#: ../../source/systemdetectio.rst:88
+#: ../../source/systemdetectio.rst:89
 # 66808e7906e54c73a11887a46f8e96e6
 msgid "Instead of systemdetection, the following parameters can be used:"
 msgstr ""
 
-#: ../../source/systemdetectio.rst:90
+#: ../../source/systemdetectio.rst:91
 # 97d9b8dde97949ccbe1c50bcd4c1f660
 msgid "SystemDetection"
 msgstr ""
 
-#: ../../source/systemdetectio.rst:91
+#: ../../source/systemdetectio.rst:92
 # a2b47ec95cce427383a55ec596953ec2
 msgid "system-detection"
 msgstr ""
 
-#: ../../source/systemdetectio.rst:94
+#: ../../source/systemdetectio.rst:95
 # 2276788c06ae479280632459f6d85941
-msgid "Benefits:"
+msgid "Benefits"
 msgstr ""
 
-#: ../../source/systemdetectio.rst:95
+#: ../../source/systemdetectio.rst:97
 # a58753ea4883467592b663d8cc02298e
 msgid "The users can configure the application settings using this system detections."
 msgstr ""
 
-#: ../../source/systemdetectio.rst:96
+#: ../../source/systemdetectio.rst:98
 # e62ea9bc215e4571979d1b6d272f364d
 msgid "The parameters used for declaring help command, system detection are not case sensitive which is an added advantage while compared to others."
 msgstr ""
 
-#: ../../source/systemdetectio.rst:97
+#: ../../source/systemdetectio.rst:99
 # 2bfcea8dd1cf45829ddc1a5ae467ac1e
 msgid "It is well-to-do in both Cent OS and as well as in Ubuntu."
 msgstr ""

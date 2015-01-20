@@ -40,11 +40,7 @@ msgstr ""
 msgid "After giving the command it will ask,"
 msgstr ""
 
-#: ../../source/ApacheModules.rst:28
-msgid "In Cent Os:"
-msgstr ""
-
-#: ../../source/ApacheModules.rst:30
+#: ../../source/ApacheModules.rst:118
 msgid ""
 "It will be installed as configuration. Cleopatra apache modules install It "
 "will ask install Apache module Y/N? If you give the command “Y” It will "
@@ -52,11 +48,7 @@ msgid ""
 "return to the existing place."
 msgstr ""
 
-#: ../../source/ApacheModules.rst:39
-msgid "Benefits to the users:"
-msgstr ""
-
-#: ../../source/ApacheModules.rst:41
+#: ../../source/ApacheModules.rst:129
 msgid ""
 "The module is an aid to Link with Cleopatra. While installing the Apache "
 "modules, it will acquiesce the configuration files.  If the configuration "
@@ -64,67 +56,101 @@ msgid ""
 " it. Separate Modules are available."
 msgstr ""
 
-#: ../../source/ApacheModules.rst:44
-msgid "Options:"
-msgstr ""
-
-#: ../../source/ApacheModules.rst:48
+#: ../../source/ApacheModules.rst:139
 msgid "Parameters"
 msgstr ""
 
-#: ../../source/ApacheModules.rst:48
+#: ../../source/ApacheModules.rst:139
 msgid "Required"
 msgstr ""
 
-#: ../../source/ApacheModules.rst:48
+#: ../../source/ApacheModules.rst:139
 msgid "Comments"
 msgstr ""
 
-#: ../../source/ApacheModules.rst:50
+#: ../../source/ApacheModules.rst:141
 msgid "Install"
 msgstr ""
 
-#: ../../source/ApacheModules.rst:50 ../../source/ApacheModules.rst:51
+#: ../../source/ApacheModules.rst:141 ../../source/ApacheModules.rst:143
 msgid "Yes"
 msgstr ""
 
-#: ../../source/ApacheModules.rst:50
+#: ../../source/ApacheModules.rst:141
 msgid "It will install the apache module under Cleopatra"
 msgstr ""
 
-#: ../../source/ApacheModules.rst:51 ../../source/ApacheModules.rst:52
+#: ../../source/ApacheModules.rst:143 ../../source/ApacheModules.rst:145
 msgid "Install Apache Module? (Y/N)"
 msgstr ""
 
-#: ../../source/ApacheModules.rst:51
+#: ../../source/ApacheModules.rst:143
 msgid "If the user gives input as yes, it will install the module."
 msgstr ""
 
-#: ../../source/ApacheModules.rst:52
+#: ../../source/ApacheModules.rst:145
 msgid "No"
 msgstr ""
 
-#: ../../source/ApacheModules.rst:52
-msgid "If the user gives input as no, it will be exited."
-msgstr ""
-
-#: ../../source/ApacheModules.rst:56
-msgid "Help command:"
-msgstr ""
-
-#: ../../source/ApacheModules.rst:57
-msgid ""
-"This help command explains about the installation of a particular module. "
-"The help command is easy to operate by the end user. The following command "
-"guided the user about the installation. .. code-block:: bash"
-msgstr ""
-
-#: ../../source/ApacheModules.rst:60
-msgid "Cleopatra apache modules help"
-msgstr ""
-
-#: ../../source/ApacheModules.rst:62
+#: ../../source/ApacheModules.rst:157
 msgid ""
 "After giving the command, the command will list the help options. The "
 "following screen shots will give visual effect for the usage of this module."
 msgstr ""
+
+#: ../../source/ApacheModules.rst:27
+msgid ""
+"The following screen shots will give visual effect for the usage of this "
+"module."
+msgstr ""
+
+#: ../../source/ApacheModules.rst:116
+msgid "In Cent Os"
+msgstr ""
+
+#: ../../source/ApacheModules.rst:127
+msgid "Benefits to the users"
+msgstr ""
+
+#: ../../source/ApacheModules.rst:133
+msgid "Options"
+msgstr ""
+
+#: ../../source/ApacheModules.rst:145
+msgid "If the user gives input as no, it will be exited.|"
+msgstr ""
+
+#: ../../source/ApacheModules.rst:149
+msgid "Help command"
+msgstr ""
+
+#: ../../source/ApacheModules.rst:151
+msgid ""
+"This help command explains about the installation of a particular module. "
+"The help command is easy to operate by the end user. The following command "
+"guided the user about the installation."
+msgstr ""
+
+#~ msgid "In Cent Os:"
+#~ msgstr ""
+
+#~ msgid "Benefits to the users:"
+#~ msgstr ""
+
+#~ msgid "Options:"
+#~ msgstr ""
+
+#~ msgid "If the user gives input as no, it will be exited."
+#~ msgstr ""
+
+#~ msgid "Help command:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This help command explains about the installation of a particular module. "
+#~ "The help command is easy to operate by the end user. The following command "
+#~ "guided the user about the installation. .. code-block:: bash"
+#~ msgstr ""
+
+#~ msgid "Cleopatra apache modules help"
+#~ msgstr ""

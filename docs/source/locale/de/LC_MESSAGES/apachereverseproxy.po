@@ -31,40 +31,29 @@ msgstr ""
 msgid "Help command"
 msgstr ""
 
-#: ../../source/apachereverseproxy.rst:13
-msgid ""
-"The help command guides the user get aware of the uses, and also the options"
-" and actions that can be performed. The coding to make use of help command "
-"under Apache Reverse proxy module, is given as follows .. code-block:: bash"
-msgstr ""
-
-#: ../../source/apachereverseproxy.rst:16
-msgid "Cleopatra ApacheReverseProxyModules help"
-msgstr ""
-
-#: ../../source/apachereverseproxy.rst:18
+#: ../../source/apachereverseproxy.rst:20
 msgid ""
 "The screen shot shown below gives you an pictorial representation of help "
 "command usage."
 msgstr ""
 
-#: ../../source/apachereverseproxy.rst:43
+#: ../../source/apachereverseproxy.rst:45
 msgid "Installation"
 msgstr ""
 
-#: ../../source/apachereverseproxy.rst:48
+#: ../../source/apachereverseproxy.rst:50
 msgid "Parameters"
 msgstr ""
 
-#: ../../source/apachereverseproxy.rst:48
+#: ../../source/apachereverseproxy.rst:50
 msgid "Required"
 msgstr ""
 
-#: ../../source/apachereverseproxy.rst:48
+#: ../../source/apachereverseproxy.rst:50
 msgid "Comment"
 msgstr ""
 
-#: ../../source/apachereverseproxy.rst:50
+#: ../../source/apachereverseproxy.rst:52
 msgid ""
 "Install Reverse Proxy Apache Modules (In the place of Reverse Proxy Apache "
 "Modules the user can also specify the following parameters: "
@@ -73,41 +62,33 @@ msgid ""
 "modules,apache-proxy-mods"
 msgstr ""
 
-#: ../../source/apachereverseproxy.rst:51
+#: ../../source/apachereverseproxy.rst:53
 msgid "Yes"
 msgstr ""
 
-#: ../../source/apachereverseproxy.rst:51
+#: ../../source/apachereverseproxy.rst:53
 msgid "This command will install the apache rev proxy module"
 msgstr ""
 
-#: ../../source/apachereverseproxy.rst:59
-#: ../../source/apachereverseproxy.rst:63
+#: ../../source/apachereverseproxy.rst:61
+#: ../../source/apachereverseproxy.rst:65
 msgid "Install ApacheReverseProxyModules (Y/N)"
 msgstr ""
 
-#: ../../source/apachereverseproxy.rst:59
+#: ../../source/apachereverseproxy.rst:61
 msgid "Y(Yes)"
 msgstr ""
 
-#: ../../source/apachereverseproxy.rst:59
+#: ../../source/apachereverseproxy.rst:61
 msgid ""
 "If the user input as Y,the apache reverse proxy module will be installed."
 msgstr ""
 
-#: ../../source/apachereverseproxy.rst:63
+#: ../../source/apachereverseproxy.rst:65
 msgid "N(NO)"
 msgstr ""
 
-#: ../../source/apachereverseproxy.rst:63
-msgid "If the user inputs as N,the process will gets quit from"
-msgstr ""
-
-#: ../../source/apachereverseproxy.rst:65
-msgid "installation."
-msgstr ""
-
-#: ../../source/apachereverseproxy.rst:68
+#: ../../source/apachereverseproxy.rst:70
 msgid ""
 "While installing the Reverse Proxy Modules, it will reads the package lists,"
 " state information, builds the dependency tree. If any packages are missing,"
@@ -115,28 +96,54 @@ msgid ""
 "explains the process of installation graphically."
 msgstr ""
 
-#: ../../source/apachereverseproxy.rst:72
+#: ../../source/apachereverseproxy.rst:231
 msgid "Benefits to the users"
 msgstr ""
 
-#: ../../source/apachereverseproxy.rst:74
+#: ../../source/apachereverseproxy.rst:233
 msgid ""
 "It displays the available package lists, and in turn installs the missing "
 "and required packages."
 msgstr ""
 
-#: ../../source/apachereverseproxy.rst:76
+#: ../../source/apachereverseproxy.rst:234
 msgid ""
 "The reverse proxy forwards to a fixed destination on behalf of arbitrary "
 "clients."
 msgstr ""
 
-#: ../../source/apachereverseproxy.rst:78
+#: ../../source/apachereverseproxy.rst:235
 msgid ""
 "It will incorporates the content that is hosted from one server into a "
 "larger website."
 msgstr ""
 
-#: ../../source/apachereverseproxy.rst:80
+#: ../../source/apachereverseproxy.rst:236
 msgid "It helps in configuring the applications settings."
 msgstr ""
+
+#: ../../source/apachereverseproxy.rst:13
+msgid ""
+"The help command guides the user get aware of the uses, and also the options"
+" and actions that can be performed. The coding to make use of help command "
+"under Apache Reverse proxy module, is given as follows"
+msgstr ""
+
+#: ../../source/apachereverseproxy.rst:65
+msgid "If the user inputs as N,the process will gets quit from installation.|"
+msgstr ""
+
+#~ msgid ""
+#~ "The help command guides the user get aware of the uses, and also the options"
+#~ " and actions that can be performed. The coding to make use of help command "
+#~ "under Apache Reverse proxy module, is given as follows .. code-block:: bash"
+#~ msgstr ""
+
+#~ msgid "Cleopatra ApacheReverseProxyModules help"
+#~ msgstr ""
+
+#~ msgid "If the user inputs as N,the process will gets quit from"
+#~ msgstr ""
+
+#~ msgid "installation."
+#~ msgstr ""

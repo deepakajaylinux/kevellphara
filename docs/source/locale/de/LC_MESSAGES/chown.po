@@ -12,12 +12,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/chown.rst:3 ../../source/chown.rst:88
-#: ../../source/chown.rst:97 ../../source/chown.rst:101
+#: ../../source/chown.rst:93 ../../source/chown.rst:95
 msgid "Chown"
-msgstr ""
-
-#: ../../source/chown.rst:6
-msgid "SYNOPSIS"
 msgstr ""
 
 #: ../../source/chown.rst:8
@@ -26,10 +22,6 @@ msgid ""
 "on individual file Or directory. Before that you must be aware of the "
 "default permission assigned to your files and directories at the time you "
 "create it."
-msgstr ""
-
-#: ../../source/chown.rst:12
-msgid "Help command:"
 msgstr ""
 
 #: ../../source/chown.rst:14
@@ -93,27 +85,41 @@ msgstr ""
 msgid "Comments"
 msgstr ""
 
-#: ../../source/chown.rst:88 ../../source/chown.rst:92
-#: ../../source/chown.rst:97
+#: ../../source/chown.rst:88 ../../source/chown.rst:90
+#: ../../source/chown.rst:93
 msgid "Yes"
 msgstr ""
 
-#: ../../source/chown.rst:92
+#: ../../source/chown.rst:90
 msgid "Path"
 msgstr ""
 
-#: ../../source/chown.rst:92
+#: ../../source/chown.rst:90
 msgid "The user has to give the path"
 msgstr ""
 
-#: ../../source/chown.rst:97 ../../source/chown.rst:101
+#: ../../source/chown.rst:93 ../../source/chown.rst:95
 msgid "Owner"
 msgstr ""
 
-#: ../../source/chown.rst:101
+#: ../../source/chown.rst:95
 msgid "No"
 msgstr ""
 
-#: ../../source/chown.rst:101
+#: ../../source/chown.rst:95
 msgid "The user gives input as no, it will ask the owner name|"
 msgstr ""
+
+#: ../../source/chown.rst:6
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/chown.rst:12
+msgid "Help command"
+msgstr ""
+
+#~ msgid "SYNOPSIS"
+#~ msgstr ""
+
+#~ msgid "Help command:"
+#~ msgstr ""

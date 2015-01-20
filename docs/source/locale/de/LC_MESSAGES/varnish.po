@@ -70,10 +70,6 @@ msgid "Parameters"
 msgstr ""
 
 #: ../../source/varnish.rst:56
-msgid "Alternative Parameter"
-msgstr ""
-
-#: ../../source/varnish.rst:56
 msgid "Options"
 msgstr ""
 
@@ -149,10 +145,6 @@ msgstr ""
 msgid "The following screen shot depicts the above mentioned process:"
 msgstr ""
 
-#: ../../source/varnish.rst:145
-msgid "Benefits:"
-msgstr ""
-
 #: ../../source/varnish.rst:147
 msgid ""
 "Varnish is a modern, high-performance, open source caching reverse HTTP "
@@ -168,3 +160,17 @@ msgstr ""
 #: ../../source/varnish.rst:149
 msgid "It is well-to-do in both Cent OS and as well as in Ubuntu."
 msgstr ""
+
+#: ../../source/varnish.rst:56
+msgid "Alternative Parameters"
+msgstr ""
+
+#: ../../source/varnish.rst:145
+msgid "Benefits"
+msgstr ""
+
+#~ msgid "Alternative Parameter"
+#~ msgstr ""
+
+#~ msgid "Benefits:"
+#~ msgstr ""

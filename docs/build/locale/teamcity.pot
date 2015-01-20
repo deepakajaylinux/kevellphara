@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELLS 1.1.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-19 15:15+0530\n"
+"POT-Creation-Date: 2015-01-20 18:59+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -57,74 +57,89 @@ msgid "The command used for installing Teamcity module is given below,"
 msgstr ""
 
 #: ../../source/teamcity.rst:50
-# 2d26dbb2ee3243128acb64231751421a
-msgid "Snop shot for installation"
+# df3bd4f08a0b46f39472273f48e88a66
+msgid "The screenshot below explains how to install teamcity module."
 msgstr ""
 
-#: ../../source/teamcity.rst:89
+#: ../../source/teamcity.rst:87
+# d2dcdd83c66b4b8a953d47a88a7e40c8
+msgid "Options"
+msgstr ""
+
+#: ../../source/teamcity.rst:94
 # 570e77fd55e24fc683cad716dc7a8ce9
 msgid "Parameters"
 msgstr ""
 
-#: ../../source/teamcity.rst:89
+#: ../../source/teamcity.rst:94
 # 769c076167bc484581c9213e043258a0
 msgid "Required"
 msgstr ""
 
-#: ../../source/teamcity.rst:89
+#: ../../source/teamcity.rst:94
 # dd4f3db32530454b95af2eec181effd9
 msgid "Comments"
 msgstr ""
 
-#: ../../source/teamcity.rst:91
+#: ../../source/teamcity.rst:96
 # 7295f8cc66d34d0fb231936e1fa3e8e5
 msgid "cleopatra Teamcity  install"
 msgstr ""
 
-#: ../../source/teamcity.rst:91
+#: ../../source/teamcity.rst:96
 # b47e865428e04706863d85812b0ae253
 msgid "Y(YES)"
 msgstr ""
 
-#: ../../source/teamcity.rst:91
+#: ../../source/teamcity.rst:96
 # 0d47c8bc94ca47f4a1c76d10f7da0d01
 msgid "This command will install Teamcity module"
 msgstr ""
 
-#: ../../source/teamcity.rst:96
-#: ../../source/teamcity.rst:105
+#: ../../source/teamcity.rst:101
+#: ../../source/teamcity.rst:110
 # ae451335f5da4fecb88202b290927958
-# b19d9b6122414fafb62c01b1b066baf1
+# ae451335f5da4fecb88202b290927958
 msgid "Install Teamcity ( Y/N)"
 msgstr ""
 
-#: ../../source/teamcity.rst:97
+#: ../../source/teamcity.rst:102
 # 92043f60a46644c5ae6509ae3035266d
 msgid "Y"
 msgstr ""
 
-#: ../../source/teamcity.rst:96
+#: ../../source/teamcity.rst:101
 # 55afe8c91f5f474885714b05b6865d8e
 msgid "If the user inputs Y, this module checks for supporting requirements for Teamcity if exits it was updated to the new version or else it installs the fresh package with supporting requirements."
 msgstr ""
 
-#: ../../source/teamcity.rst:105
+#: ../../source/teamcity.rst:110
 # e18a90e46c7f4a1b8f1ea5b14bf2d40e
 msgid "N"
 msgstr ""
 
-#: ../../source/teamcity.rst:105
+#: ../../source/teamcity.rst:110
 # 323e8106a5744f5097cafe5ae2e8e1a2
 msgid "If the user inputs N, the installation was aborted.|"
 msgstr ""
 
-#: ../../source/teamcity.rst:110
+#: ../../source/teamcity.rst:115
 # 02d1f63fa93a4caa843201518bb298d3
 msgid "Benefits to the users"
 msgstr ""
 
-#: ../../source/teamcity.rst:112
+#: ../../source/teamcity.rst:117
 # 07e19105b96a4233846f37b7525e1ba3
-msgid "Installs all supporting requirements to run teamcity server in an efficient manner Ease use of access and installation Coding is case insensitive."
+msgid "Installs all supporting requirements to run teamcity server in an efficient manner"
+msgstr ""
+
+#: ../../source/teamcity.rst:118
+# 323e8106a5744f5097cafe5ae2e8e1a2
+msgid "Ease use of access and installation"
+msgstr ""
+
+#: ../../source/teamcity.rst:119
+# 403051a37c6e4c75bcdda009db87eb63
+msgid "Coding is case insensitive."
 msgstr ""
 

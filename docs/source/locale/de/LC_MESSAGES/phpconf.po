@@ -46,82 +46,78 @@ msgid ""
 "help usage in php config."
 msgstr ""
 
-#: ../../source/phpconf.rst:23
+#: ../../source/phpconf.rst:42
 msgid "Installation"
 msgstr ""
 
-#: ../../source/phpconf.rst:25
+#: ../../source/phpconf.rst:44
 msgid ""
 "Installing the php config is more beneficial for the users as they can frame"
 " the configuration as per their requirements. The command used for "
 "installation is given below:"
 msgstr ""
 
-#: ../../source/phpconf.rst:32
+#: ../../source/phpconf.rst:51
 msgid ""
 "After inputting the command as shown above the following operations occurs "
 "as shown in the tabular format."
 msgstr ""
 
-#: ../../source/phpconf.rst:37
+#: ../../source/phpconf.rst:149
 msgid "Options"
 msgstr ""
 
-#: ../../source/phpconf.rst:43
+#: ../../source/phpconf.rst:155
 msgid "Parameters"
 msgstr ""
 
-#: ../../source/phpconf.rst:43
-msgid "Parameter"
-msgstr ""
-
-#: ../../source/phpconf.rst:43
+#: ../../source/phpconf.rst:155
 msgid "Required"
 msgstr ""
 
-#: ../../source/phpconf.rst:43
+#: ../../source/phpconf.rst:155
 msgid "Comment"
 msgstr ""
 
-#: ../../source/phpconf.rst:45
+#: ../../source/phpconf.rst:157
 msgid "Install PHPConf?(Y/N)"
 msgstr ""
 
-#: ../../source/phpconf.rst:45
+#: ../../source/phpconf.rst:157
 msgid ""
 "In Spite of PHP Conf these alternative names can be used: php-configure, "
 "php-conf php-configuration, phpconf"
 msgstr ""
 
-#: ../../source/phpconf.rst:46
+#: ../../source/phpconf.rst:158
 msgid "Y(YES)"
 msgstr ""
 
-#: ../../source/phpconf.rst:45
+#: ../../source/phpconf.rst:157
 msgid ""
 "If the user wish to proceed the nstallation process they can input as Y"
 msgstr ""
 
-#: ../../source/phpconf.rst:52
+#: ../../source/phpconf.rst:164
 msgid "Install PHPConf? (Y/N)"
 msgstr ""
 
-#: ../../source/phpconf.rst:52
+#: ../../source/phpconf.rst:164
 msgid ""
 "In Spite of PHP Conf these alternative names can be used: php-configure, "
 "php-conf"
 msgstr ""
 
-#: ../../source/phpconf.rst:52
+#: ../../source/phpconf.rst:164
 msgid "Y(Yes)"
 msgstr ""
 
-#: ../../source/phpconf.rst:52
+#: ../../source/phpconf.rst:164
 msgid ""
 "If the user wish to quit the installation process they can input as N.|"
 msgstr ""
 
-#: ../../source/phpconf.rst:59
+#: ../../source/phpconf.rst:171
 msgid ""
 "If the user proceeds the installation process, while executing the "
 "installation, the module specifies the default value of configuration and "
@@ -130,139 +126,139 @@ msgid ""
 "installing is listed below:"
 msgstr ""
 
-#: ../../source/phpconf.rst:61
+#: ../../source/phpconf.rst:173
 msgid "Value for user_ini.filename"
 msgstr ""
 
-#: ../../source/phpconf.rst:62
+#: ../../source/phpconf.rst:174
 msgid "value for user_ini.cache_ttl?"
 msgstr ""
 
-#: ../../source/phpconf.rst:63
+#: ../../source/phpconf.rst:175
 msgid "Value for engine."
 msgstr ""
 
-#: ../../source/phpconf.rst:64
+#: ../../source/phpconf.rst:176
 msgid "value for short_open_tag."
 msgstr ""
 
-#: ../../source/phpconf.rst:65
+#: ../../source/phpconf.rst:177
 msgid "value for asp_tags."
 msgstr ""
 
-#: ../../source/phpconf.rst:66
+#: ../../source/phpconf.rst:178
 msgid "value for precision."
 msgstr ""
 
-#: ../../source/phpconf.rst:67
+#: ../../source/phpconf.rst:179
 msgid "value for y2k_compliance."
 msgstr ""
 
-#: ../../source/phpconf.rst:68
+#: ../../source/phpconf.rst:180
 msgid "value for output_buffering."
 msgstr ""
 
-#: ../../source/phpconf.rst:69
+#: ../../source/phpconf.rst:181
 msgid "value for output_handler."
 msgstr ""
 
-#: ../../source/phpconf.rst:70
+#: ../../source/phpconf.rst:182
 msgid "value for zlib.output_compression."
 msgstr ""
 
-#: ../../source/phpconf.rst:71
+#: ../../source/phpconf.rst:183
 msgid "value for zlib.output_compression_level."
 msgstr ""
 
-#: ../../source/phpconf.rst:72
+#: ../../source/phpconf.rst:184
 msgid "value for zlib.output_handler."
 msgstr ""
 
-#: ../../source/phpconf.rst:73
+#: ../../source/phpconf.rst:185
 msgid "value for implicit_flush."
 msgstr ""
 
-#: ../../source/phpconf.rst:74
+#: ../../source/phpconf.rst:186
 msgid "value for unserialize_callback_func."
 msgstr ""
 
-#: ../../source/phpconf.rst:75
+#: ../../source/phpconf.rst:187
 msgid "value for serialize precision."
 msgstr ""
 
-#: ../../source/phpconf.rst:76
+#: ../../source/phpconf.rst:188
 msgid "value for allow_call_time_pass_reference."
 msgstr ""
 
-#: ../../source/phpconf.rst:77
+#: ../../source/phpconf.rst:189
 msgid "value for safe_mode."
 msgstr ""
 
-#: ../../source/phpconf.rst:78
+#: ../../source/phpconf.rst:190
 msgid "value for safe_mode_gid."
 msgstr ""
 
-#: ../../source/phpconf.rst:79
+#: ../../source/phpconf.rst:191
 msgid "value for safe_mode_exec_dir?"
 msgstr ""
 
-#: ../../source/phpconf.rst:80
+#: ../../source/phpconf.rst:192
 msgid "value for safe_mode_allowed_env_vars."
 msgstr ""
 
-#: ../../source/phpconf.rst:81
+#: ../../source/phpconf.rst:193
 msgid "value for open basedir."
 msgstr ""
 
-#: ../../source/phpconf.rst:82
+#: ../../source/phpconf.rst:194
 msgid "value for disable functions."
 msgstr ""
 
-#: ../../source/phpconf.rst:83
+#: ../../source/phpconf.rst:195
 msgid "value for disable_classes?"
 msgstr ""
 
-#: ../../source/phpconf.rst:84
+#: ../../source/phpconf.rst:196
 msgid "value for ignore_user_abort"
 msgstr ""
 
-#: ../../source/phpconf.rst:85
+#: ../../source/phpconf.rst:197
 msgid "value for realpath_cache_size?"
 msgstr ""
 
-#: ../../source/phpconf.rst:86
+#: ../../source/phpconf.rst:198
 msgid "value for realpath_cache_ttl."
 msgstr ""
 
-#: ../../source/phpconf.rst:87
+#: ../../source/phpconf.rst:199
 msgid "value for zend.enable_gc."
 msgstr ""
 
-#: ../../source/phpconf.rst:88
+#: ../../source/phpconf.rst:200
 msgid "value for expose_php."
 msgstr ""
 
-#: ../../source/phpconf.rst:89
+#: ../../source/phpconf.rst:201
 msgid "value for max_execution_time."
 msgstr ""
 
-#: ../../source/phpconf.rst:90
+#: ../../source/phpconf.rst:202
 msgid "value for max_input_time."
 msgstr ""
 
-#: ../../source/phpconf.rst:91
+#: ../../source/phpconf.rst:203
 msgid "value for max_input_nesting_level."
 msgstr ""
 
-#: ../../source/phpconf.rst:92
+#: ../../source/phpconf.rst:204
 msgid "value for max_input_vars."
 msgstr ""
 
-#: ../../source/phpconf.rst:93
+#: ../../source/phpconf.rst:205
 msgid "value for memory_limits."
 msgstr ""
 
-#: ../../source/phpconf.rst:95
+#: ../../source/phpconf.rst:207
 msgid ""
 "After looking at the default values for the configuration functions, the "
 "user can decide their actions. If they are oaky with default values they can"
@@ -271,22 +267,29 @@ msgid ""
 "process visually."
 msgstr ""
 
-#: ../../source/phpconf.rst:99
+#: ../../source/phpconf.rst:211
 msgid "Benefits"
 msgstr ""
 
-#: ../../source/phpconf.rst:101
+#: ../../source/phpconf.rst:213
 msgid ""
 "The parameters used for defining installation and help command is not case "
 "sensitive."
 msgstr ""
 
-#: ../../source/phpconf.rst:102
+#: ../../source/phpconf.rst:214
 msgid ""
 "The users can frame the configuration functions at the run-time of "
 "installation."
 msgstr ""
 
-#: ../../source/phpconf.rst:103
+#: ../../source/phpconf.rst:215
 msgid "It works well on both Cent OS and windows."
 msgstr ""
+
+#: ../../source/phpconf.rst:155
+msgid "Alternative Parameters"
+msgstr ""
+
+#~ msgid "Parameter"
+#~ msgstr ""

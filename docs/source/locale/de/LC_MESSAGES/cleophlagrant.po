@@ -78,10 +78,6 @@ msgid "Directory"
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:106
-msgid "option"
-msgstr ""
-
-#: ../../source/cleophlagrant.rst:106
 msgid "Comment"
 msgstr ""
 
@@ -145,13 +141,42 @@ msgstr ""
 msgid "The user gives input as directory name|"
 msgstr ""
 
-#: ../../source/cleophlagrant.rst:121
-msgid "Benifits"
+#: ../../source/cleophlagrant.rst:106
+msgid "Option"
+msgstr ""
+
+#: ../../source/cleophlagrant.rst:120
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/cleophlagrant.rst:122
+msgid "Ubuntu users can simply install phlagrant from the repository."
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:123
-msgid ""
-"Ubuntu users can simply install phlagrant from the repository. The real "
-"advantage of phlagrant lies in its performance. Integration with Host OS. "
-"Speed accessability. Manage virtual box."
+msgid "The real advantage of phlagrant lies in its performance."
 msgstr ""
+
+#: ../../source/cleophlagrant.rst:124
+msgid "Integration with Host OS."
+msgstr ""
+
+#: ../../source/cleophlagrant.rst:125
+msgid "Speed accessability."
+msgstr ""
+
+#: ../../source/cleophlagrant.rst:126
+msgid "Manage virtual box."
+msgstr ""
+
+#~ msgid "option"
+#~ msgstr ""
+
+#~ msgid "Benifits"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Ubuntu users can simply install phlagrant from the repository. The real "
+#~ "advantage of phlagrant lies in its performance. Integration with Host OS. "
+#~ "Speed accessability. Manage virtual box."
+#~ msgstr ""

@@ -1,0 +1,1 @@
+phake.rst:75: [redirected permanently] http://github.com/jaz303/phake.git to https://github.com/jaz303/phake

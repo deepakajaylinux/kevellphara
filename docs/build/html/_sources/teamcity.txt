@@ -20,7 +20,7 @@ The snapshot below gives you a pictorial representation of help command and it l
 
 .. code-block:: bash
 
-	root@deepak:~# cleopatra teamcity help
+	kevells@copy:/# cleopatra teamcity help
 	******************************
 
 
@@ -47,12 +47,12 @@ The command used for installing Teamcity module is given below,
 	cleopatra Teamcity install
 
 
-Snop shot for installation
+The screenshot below explains how to install teamcity module.
 
 .. code-block:: bash
 
 
-	root@kevells-desktop:/# cleopatra Teamcity install
+	kevells@corp:/# cleopatra Teamcity install
 	Install Teamcity? (Y/N) 
 	y
 	*******************************
@@ -80,6 +80,11 @@ Snop shot for installation
 	Saving to: ‘TeamCity-8.1.3.tar.gz’
 		
 	 99% [                                                                                                   >  ] 60,46,771   63.3KB/s 	
+
+
+
+Options
+---------
 
 .. cssclass:: table-bordered
 
@@ -109,7 +114,7 @@ Snop shot for installation
 Benefits to the users
 -----------------------
 
-Installs all supporting requirements to run teamcity server in an efficient manner
-Ease use of access and installation
-Coding is case insensitive.
+* Installs all supporting requirements to run teamcity server in an efficient manner
+* Ease use of access and installation
+* Coding is case insensitive.
 

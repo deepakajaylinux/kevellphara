@@ -62,6 +62,7 @@
   <ul class="dropdown-menu globaltoc"><ul class="current">
 <li class="toctree-l1 current"><a class="reference internal" href="cleopatra.html">Cleopatra</a></li>
 <li class="toctree-l1"><a class="reference internal" href="phlagrant.html">Phlagrant</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Dapperstrano_main.html">Dapperstrano</a></li>
 </ul>
 </ul>
 </li>
@@ -116,7 +117,7 @@
 <h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>The help command provides an awareness regarding the VNC module. It also describes about the options that can be performed under this VNC module.
 The help command for this VNC module is given below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>Cleopatra vnc <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>cleopatra vnc <span class="nb">help</span>
 </pre></div>
 </div>
 <p>The screen shot given below shows you an pictorial representation regarding the usage of help command under VNC module.</p>
@@ -124,23 +125,23 @@ The help command for this VNC module is given below,</p>
 ******************************
 
 
-This <span class="nb">command </span>allows you to install VNC, the popular Virtual Machine Solution.
+       This <span class="nb">command </span>allows you to install VNC, the popular Virtual Machine Solution.
 
- VNC, vnc
+        VNC, vnc
 
-- install
-Installs VNC through apt-get
-example: cleopatra vnc install
+       - install
+       Installs VNC through apt-get
+       example: cleopatra vnc install
 
-------------------------------
-End Help
-******************************
+       ------------------------------
+       End Help
+       ******************************
 </pre></div>
 </div>
 </div>
 <div class="section" id="installation">
 <h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
-<div class="highlight-bash"><div class="highlight"><pre>Cleopatra vnc install
+<div class="highlight-bash"><div class="highlight"><pre>cleopatra vnc install
 </pre></div>
 </div>
 <p>After inputting the command as given above, the following operations takes places.</p>
@@ -173,13 +174,11 @@ can quit simply by using N.</td>
 <td>N(NO)</td>
 <td>If the user inputs as N,the
 process will gets quit from
-installation</td>
+installation|</td>
 </tr>
 </tbody>
 </table>
-<blockquote>
-<div><p class="rubric">While installing the VNC server it performs the following operations as given below:</p>
-</div></blockquote>
+<p>While installing the VNC server it performs the following operations as given below:</p>
 <ul class="simple">
 <li>Reads the package lists, state information,</li>
 <li>Builds the dependency tree.</li>
@@ -188,7 +187,81 @@ installation</td>
 <li>It also displays the number of files upgraded, newly installed, removed, not upgraded.</li>
 </ul>
 <p>The screen shot as given below, explains the users graphically regarding the process of installation.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra vnc install
+Install VNC? <span class="o">(</span>Y/N<span class="o">)</span>
+Y
+*******************************
+*        Pharaoh Tools        *
+*          ! VNC !        *
+*******************************
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following extra packages will be installed:
+ xbase-clients
+Suggested packages:
+ vnc-java
+The following NEW packages will be installed:
+ vnc4server xbase-clients
+<span class="m">0</span> upgraded, <span class="m">2</span> newly installed, <span class="m">0</span> to remove and <span class="m">8</span> not upgraded.
+Need to get 1,579 kB of archives.
+After this operation, 5,418 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu/ trusty/universe xbase-clients all 1:7.7+1ubuntu8 <span class="o">[</span>2,752 B<span class="o">]</span>
+Get:2 http://in.archive.ubuntu.com/ubuntu/ trusty-updates/universe vnc4server amd64 4.1.1+xorg4.3.0-37ubuntu5.0.1 <span class="o">[</span>1,577 kB<span class="o">]</span>
+Fetched 1,579 kB in 33s <span class="o">(</span>46.6 kB/s<span class="o">)</span>
+Selecting previously unselected package xbase-clients.
+<span class="o">(</span>Reading database ... <span class="m">211210</span> files and directories currently installed.<span class="o">)</span>
+Preparing to unpack .../xbase-clients_1%3a7.7+1ubuntu8_all.deb ...
+Unpacking xbase-clients <span class="o">(</span>1:7.7+1ubuntu8<span class="o">)</span> ...
+Selecting previously unselected package vnc4server.
+Preparing to unpack .../vnc4server_4.1.1+xorg4.3.0-37ubuntu5.0.1_amd64.deb ...
+Unpacking vnc4server <span class="o">(</span>4.1.1+xorg4.3.0-37ubuntu5.0.1<span class="o">)</span> ...
+Processing triggers <span class="k">for</span> man-db <span class="o">(</span>2.6.7.1-1ubuntu1<span class="o">)</span> ...
+Setting up xbase-clients <span class="o">(</span>1:7.7+1ubuntu8<span class="o">)</span> ...
+Setting up vnc4server <span class="o">(</span>4.1.1+xorg4.3.0-37ubuntu5.0.1<span class="o">)</span> ...
+update-alternatives: using /usr/bin/vnc4server to provide /usr/bin/vncserver <span class="o">(</span>vncserver<span class="o">)</span> in auto mode
+update-alternatives: using /usr/bin/Xvnc4 to provide /usr/bin/Xvnc <span class="o">(</span>Xvnc<span class="o">)</span> in auto mode
+update-alternatives: using /usr/bin/x0vnc4server to provide /usr/bin/x0vncserver <span class="o">(</span>x0vncserver<span class="o">)</span> in auto mode
+update-alternatives: using /usr/bin/vnc4passwd to provide /usr/bin/vncpasswd <span class="o">(</span>vncpasswd<span class="o">)</span> in auto mode
+update-alternatives: using /usr/bin/vnc4config to provide /usr/bin/vncconfig <span class="o">(</span>vncconfig<span class="o">)</span> in auto mode
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Adding Package vnc4server from the Packager Apt executed correctly
+... All <span class="k">done</span>!
+*******************************
+Thanks <span class="k">for</span> installing , visit www.pharaohtools.com <span class="k">for</span> more
+******************************
+
+
+Single App Installer:
+--------------------------------------------
+VNC: Success
+------------------------------
+Installer Finished
+******************************
+</pre></div>
+</div>
 <p>If the vnc server already exists in the users machine, it will throws an exception message as the vnc server is already installed. The following screenshot gives an pictorial representation regarding the exception message.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra vnc install
+Install VNC? <span class="o">(</span>Y/N<span class="o">)</span>
+Y
+*******************************
+*        Pharaoh Tools        *
+*          ! VNC !        *
+*******************************
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Package vnc4server from the Packager Apt is already installed, so not installing
+... All <span class="k">done</span>!
+*******************************
+Thanks <span class="k">for</span> installing , visit www.pharaohtools.com <span class="k">for</span> more
+******************************
+
+
+Single App Installer:
+--------------------------------------------
+VNC: Success
+------------------------------
+Installer Finished
+******************************
+</pre></div>
+</div>
 </div>
 <div class="section" id="benefits">
 <h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>

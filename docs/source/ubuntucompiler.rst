@@ -13,13 +13,13 @@ This help command guide the user about Ubuntu compiler. It is less time consumin
 
 .. code-block:: bash
 
-	Cleopatra Ubuntucompiler help
+		cleopatra Ubuntucompiler help
 
 The following help command will assist the user for installation.
 
 .. code-block:: bash
 
-	root@deepak:~# cleopatra UbuntuCompiler help
+	kevells@corp:/# cleopatra UbuntuCompiler help
 	******************************
 
 
@@ -42,7 +42,7 @@ This is a noticeable process to install Ubuntu compiler module under Cleopatra b
 
 .. code-block:: bash
 
-  Cleopatra Ubuntu-compiler install
+  		cleopatra Ubuntu-compiler install
 
 After giving the command, the Ubuntu compiler will be installed with new updates.
 
@@ -50,7 +50,7 @@ If the user input as N the following screen will come.
 
 .. code-block:: bash
 
-	Kevells@corp:~# cleopatra UbuntuCompiler install
+	Kevells@corp:/# cleopatra UbuntuCompiler install
 	Install Ubuntu Compiler? (Y/N) 
 	n
 	******************************

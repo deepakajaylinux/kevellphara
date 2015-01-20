@@ -18,6 +18,35 @@ The help command guides the users regarding the purpose and as well as about the
 
 The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under SVN.
 
+.. code-block:: bash
+
+ kevells@corp:/# cleopatra svn help
+ ******************************
+
+
+  This command allows you to install the latest available SVN in the Ubuntu
+  repositories.
+
+  SVN, svn
+
+        - install
+        Installs the latest available (In your package manager) version of SVN
+        example: cleopatra svn install
+
+        - ensure
+        Ensures SVN is installed
+        example: cleopatra svn ensure
+
+        - uninstall
+        Installs the latest version of SVN
+        example: cleopatra svn uninstall
+
+ ------------------------------
+ End Help
+ ******************************
+
+
+
 Installation
 ---------------
 
@@ -51,6 +80,61 @@ If the user proceeds the installation process, during execution of installation 
 * lists out new packages installed.
 * number of files upgraded, newly installed, removed, not upgraded.
 * Finally, the installation of SVN gets completed. The following screenshot depicts you about the process of installing SVN in ubuntu.
+
+.. code-block:: bash
+
+ kevells@corp:/# cleopatra svn install
+ Install SVN? (Y/N) 
+ Y
+ *******************************
+ *        Pharaoh Tools        *
+ *         !Subversion!        *
+ *******************************
+ Reading package lists...
+ Building dependency tree...
+ Reading state information...
+ The following extra packages will be installed:
+  libserf-1-1 libsvn1
+ Suggested packages:
+  subversion-tools db5.3-util
+ The following NEW packages will be installed:
+  libserf-1-1 libsvn1 subversion
+ 0 upgraded, 3 newly installed, 0 to remove and 8 not upgraded.
+ Need to get 1,240 kB of archives.
+ After this operation, 4,701 kB of additional disk space will be used.
+ Get:1 http://in.archive.ubuntu.com/ubuntu/ trusty-updates/main libserf-1-1 amd64 1.3.3-1ubuntu0.1 [42.2 kB]
+ Get:2 http://in.archive.ubuntu.com/ubuntu/ trusty-updates/main libsvn1 amd64 1.8.8-1ubuntu3.1 [917 kB]
+ Get:3 http://in.archive.ubuntu.com/ubuntu/ trusty-updates/main subversion amd64 1.8.8-1ubuntu3.1 [280 kB]
+ Fetched 1,240 kB in 43s (28.3 kB/s)
+ Selecting previously unselected package libserf-1-1:amd64.
+ (Reading database ... 211229 files and directories currently installed.)
+ Preparing to unpack .../libserf-1-1_1.3.3-1ubuntu0.1_amd64.deb ...
+ Unpacking libserf-1-1:amd64 (1.3.3-1ubuntu0.1) ...
+ Selecting previously unselected package libsvn1:amd64.
+ Preparing to unpack .../libsvn1_1.8.8-1ubuntu3.1_amd64.deb ...
+ Unpacking libsvn1:amd64 (1.8.8-1ubuntu3.1) ...
+ Selecting previously unselected package subversion.
+ Preparing to unpack .../subversion_1.8.8-1ubuntu3.1_amd64.deb ...
+ Unpacking subversion (1.8.8-1ubuntu3.1) ...
+ Processing triggers for man-db (2.6.7.1-1ubuntu1) ...
+ Setting up libserf-1-1:amd64 (1.3.3-1ubuntu0.1) ...
+ Setting up libsvn1:amd64 (1.8.8-1ubuntu3.1) ...
+ Setting up subversion (1.8.8-1ubuntu3.1) ...
+ Processing triggers for libc-bin (2.19-0ubuntu6.5) ...
+ [Pharaoh Logging] Adding Package subversion from the Packager Apt executed correctly
+ ... All done!
+ *******************************
+ Thanks for installing , visit www.pharaohtools.com for more
+ ******************************
+ 
+
+ Single App Installer:
+ --------------------------------------------
+ SVN: Success
+ ------------------------------
+ Installer Finished
+ ******************************
+
 
 Un install
 -------------
@@ -91,6 +175,44 @@ If the user proceeds the un installation process, during execution of un install
 
 Finally, the un installation of SVN gets completed. The following screenshot depicts you about the process of un installing SVN in ubuntu.
 
+
+.. code-block:: bash
+
+ kevells@corp:/# cleopatra svn uninstall
+ Uninstall SVN? (Y/N) 
+ Y
+ *******************************
+ *        Pharaoh Tools        *
+ *         !Subversion!        *
+ *******************************
+ [Pharaoh Logging] Removing Package subversion
+ Reading package lists...
+ Building dependency tree...
+ Reading state information...
+ The following packages were automatically installed and are no longer required:
+  libserf-1-1 libsvn1
+ Use 'apt-get autoremove' to remove them.
+ The following packages will be REMOVED:
+  subversion
+ 0 upgraded, 0 newly installed, 1 to remove and 8 not upgraded.
+ After this operation, 1,425 kB disk space will be freed.
+ (Reading database ... 211322 files and directories currently installed.)
+ Removing subversion (1.8.8-1ubuntu3.1) ...
+ Processing triggers for man-db (2.6.7.1-1ubuntu1) ...
+ [Pharaoh Logging] Removed Package subversion from the Packager Apt
+ ... All done!
+ *******************************
+ Thanks for installing , visit www.pharaohtools.com for more
+ ******************************
+
+
+ Single App Uninstaller:
+ ------------------------------
+ SVN: Success
+ ------------------------------
+ Installer Finished
+ ******************************
+
 Ensure
 ---------
 
@@ -107,6 +229,41 @@ The ensure process performs the following functions:
 * If the module is not available in the user machine, then it will proceed installation.
 
 The following screenshots depicts the process of ensuring.
+
+
+.. code-block:: bash
+
+ kevells@corp:/# cleopatra svn ensure
+ [Pharaoh Logging] Ensure module install is not checking versions
+ sh: 1: svn: not found
+ [Pharaoh Logging] Module SVN reports itself as Not Installed 
+ [Pharaoh Logging] Installing as not installed
+ *******************************
+ *        Pharaoh Tools        *
+ *         !Subversion!        *
+ *******************************
+ Reading package lists...
+ Building dependency tree...
+ Reading state information...
+ Suggested packages:
+  subversion-tools db5.3-util
+ The following NEW packages will be installed:
+  subversion
+ 0 upgraded, 1 newly installed, 0 to remove and 8 not upgraded.
+ Need to get 0 B/280 kB of archives.
+ After this operation, 1,425 kB of additional disk space will be used.
+ Selecting previously unselected package subversion.
+ (Reading database ... 211282 files and directories currently installed.)
+ Preparing to unpack .../subversion_1.8.8-1ubuntu3.1_amd64.deb ...
+ Unpacking subversion (1.8.8-1ubuntu3.1) ...
+ Processing triggers for man-db (2.6.7.1-1ubuntu1) ...
+ Setting up subversion (1.8.8-1ubuntu3.1) ...
+ [Pharaoh Logging] Adding Package subversion from the Packager Apt executed correctly
+ ... All done!
+ *******************************
+ Thanks for installing , visit www.pharaohtools.com for more
+ ******************************
+
 
 Benefits
 -----------

@@ -19,6 +19,25 @@ The help command describes the uses of run command, its major functionality, its
 The following screen shot depicts pictorially about the working of help command.
 
 
+.. code-block:: bash
+
+ kevells@corp:/# cleopatra RunCommand help
+ ******************************
+
+
+  This allows you to execute an Operating System command. This would primarily be used in an Autopilot.
+
+  RunCommand, runcommand, run-command
+
+        - execute
+        Execute a Command
+        example: cleopatra run-command --yes --command="ls -lah /tmp" --run-as-user="ubuntu" --background
+
+ ------------------------------
+ End Help
+ ******************************
+
+
 How to use Run command
 ---------------------------
 
@@ -28,11 +47,12 @@ The syntax used for specifying the run command in shown below.
 
 		cleopatra run-command --yes --command="ls -lah /tmp" --run-as-user="ubuntu" --background
 
+
 .. cssclass:: table-bordered
 
  +----------------------------------+-----------------------------------------------+-----------------------------------------------+
  |      Parameter                   |           Function                            |           Usage                               |
- +----------------------------------+-----------------------------------------------+-----------------------------------------------+
+ +==================================+===============================================+===============================================+
  |command="ls -lah /tmp"            |It allows the user to specify the command      |By using this, the user can specify their own  |
  |                                  |and its purpose.                               |command as per their requirements.             |
  +----------------------------------+-----------------------------------------------+-----------------------------------------------+

@@ -19,6 +19,25 @@ The help command leads the user in working with this php config. It also specifi
 
 The screen shot as given below shows pictorial representation regarding the help usage in php config.
 
+.. code-block:: bash
+
+ kevells@corp:/# cleopatra PHPConf help
+ ******************************
+
+
+  This command is part of Core and provides you  with a method by which you can install Apache HTTP Server
+
+  PHPConf, php-configure, php-configuration, php-conf, phpconf
+
+        - install
+        Installs a configuration for PHP
+        example: cleopatra phpconf install
+
+ ------------------------------
+ End Help
+ ******************************
+
+
 Installation
 -------------
 
@@ -27,10 +46,103 @@ Installing the php config is more beneficial for the users as they can frame the
 
 .. code-block:: bash
 
-  cleopatra PHPConf install
+		cleopatra PHPConf install
 
 After inputting the command as shown above the following operations occurs as shown in the tabular format.
 
+.. code-block:: bash
+
+ kevells@corp:/# cleopatra PHPConf install
+ Install PHP Conf? (Y/N)
+ y
+ *******************************
+ *        Pharaoh Tools        *
+ *         PHP Conf!        *
+ *******************************
+ Set non-default value for user_ini.filename? Default is .user.ini (Y/N)
+ y
+ What value for user_ini.filename?
+
+ Set non-default value for user_ini.cache_ttl? Default is 300 (Y/N)
+ 
+ Set non-default value for engine? Default is On (Y/N)
+
+ Set non-default value for short_open_tag? Default is On (Y/N)
+
+ Set non-default value for asp_tags? Default is Off (Y/N)
+
+ Set non-default value for precision? Default is 14 (Y/N)
+
+ Set non-default value for y2k_compliance? Default is On (Y/N)
+
+ Set non-default value for output_buffering? Default is 4096 (Y/N)
+
+ Set non-default value for output_handler? Default is  (Y/N)
+
+ Set non-default value for zlib.output_compression? Default is Off (Y/N)
+
+ Set non-default value for zlib.output_compression_level? Default is -1 (Y/N)
+
+ Set non-default value for zlib.output_handler? Default is  (Y/N)
+
+ Set non-default value for implicit_flush? Default is Off (Y/N)
+
+ Set non-default value for unserialize_callback_func? Default is  (Y/N)
+
+ Set non-default value for serialize_precision? Default is 17 (Y/N)
+
+ Set non-default value for allow_call_time_pass_reference? Default is Off (Y/N)
+
+ Set non-default value for safe_mode? Default is Off (Y/N)
+
+ Set non-default value for safe_mode_gid? Default is Off (Y/N)
+
+ Set non-default value for safe_mode_exec_dir? Default is  (Y/N)
+
+ Set non-default value for safe_mode_allowed_env_vars? Default is PHP_ (Y/N)
+
+ Set non-default value for safe_mode_protected_env_vars? Default is LD_LIBRARY_PATH (Y/N)
+
+ Set non-default value for open_basedir? Default is  (Y/N)
+
+ Set non-default value for disable_functions? Default is pcntl_alarm,pcntl_fork,pcntl_waitpid,pcntl_wait,pcntl_wifexited,pcntl_wifstopped,pcntl_wifsignaled,pcntl_wexitstatus,pcntl_wtermsig,pcntl_wstopsig,pcntl_signal,pcntl_signal_dispatch,pcntl_get_last_error,pcntl_strerror,pcntl_sigpr ocmask,pcntl_sigwaitinfo,pcntl_sigtimedwait,pcntl_exec,pcntl_getpriority,pcntl_setpriority, (Y/N)
+
+ Set non-default value for disable_classes? Default is  (Y/N)
+
+ Set non-default value for ignore_user_abort? Default is On (Y/N)
+
+ Set non-default value for realpath_cache_size? Default is 16k (Y/N)
+
+ Set non-default value for realpath_cache_ttl? Default is 120 (Y/N)
+
+ Set non-default value for zend.enable_gc? Default is On (Y/N)
+
+ Set non-default value for expose_php? Default is On (Y/N)
+
+ Set non-default value for max_execution_time? Default is 30 (Y/N)
+
+ Set non-default value for max_input_time? Default is 60 (Y/N)
+
+ Set non-default value for max_input_nesting_level? Default is 64 (Y/N)
+
+ Set non-default value for max_input_vars? Default is 1000 (Y/N)
+
+ Set non-default value for memory_limit? Default is 128M (Y/N)
+
+
+
+ ... All done!
+ *******************************
+ Thanks for installing , visit www.pharaohtools.com for more
+ ******************************
+
+
+ Single App Installer:
+ --------------------------------------------
+ PHPConf: Success
+ ------------------------------
+ Installer Finished
+ ******************************
 
 
 Options

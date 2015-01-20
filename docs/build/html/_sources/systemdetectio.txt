@@ -2,12 +2,12 @@
 System Detection
 ==================
 
-Synopsis:
+Synopsis
 -------------
 
 This module aims at detecting the users machine and in hand provides them the necessary information to them regarding the users system. It also provides a facility to the users to configure their applications settings. The few examples for applications settings includes mysql admin user, host, pass.
 
-Help Command:
+Help Command
 ----------------------
 
 The help command leads the users regarding the purpose and as well as about the options that are included in the System detection modules. The help command lists out the alternative parameters of System detection. It also describes the syntax for detecting the users machine. The help command for System detection is shown below.
@@ -20,7 +20,7 @@ The syntax for declaring the help command is not case sensitive which is an adde
 
 .. code-block:: bash
 
-	kevells@corp:~# cleopatra SystemDetection help
+	kevells@corp:/# cleopatra SystemDetection help
 	******************************
 
 
@@ -37,7 +37,7 @@ The syntax for declaring the help command is not case sensitive which is an adde
 	End Help
 	******************************
 
-Detection:
+Detection
 ------------
 
 The command used for system detection is given below.
@@ -61,7 +61,7 @@ Finally, After detection the information regarding the above mentioned features 
 
 .. code-block:: bash
 
-        Kevells@corp:~# cleopatra system-detection detect
+        Kevells@corp:/# cleopatra system-detection detect
 	******************************
 
 
@@ -85,13 +85,15 @@ Finally, After detection the information regarding the above mentioned features 
 
 Alternative Parameters
 ------------------------
+
 Instead of systemdetection, the following parameters can be used:
 
 * SystemDetection
 * system-detection
 
-Benefits:
+Benefits
 ------------
+
 * The users can configure the application settings using this system detections.
 * The parameters used for declaring help command, system detection are not case sensitive which is an added advantage while compared to others.
 * It is well-to-do in both Cent OS and as well as in Ubuntu.

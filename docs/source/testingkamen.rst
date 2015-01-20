@@ -17,9 +17,28 @@ The help command guides the user to provide what is necessary to accomplish the 
 
 	cleopatra testingkamen help
 
+
 The snapshot below gives you a pictorial representation of help command. 
 
-.. note: (Parameters are case insensitive)
+
+.. code-block:: bash
+
+ kevells@corp:/# cleopatra testingkamen help
+ ******************************
+
+
+  This command allows you to update Testingkamen.
+
+  Testingkamen, cleo, testingkamen
+
+        - install
+        Installs the latest version of testingkamen
+        example: testingkamen testingkamen install
+
+ ------------------------------
+ End Help
+ ******************************
+
  
 Installation
 -------------
@@ -29,6 +48,46 @@ The preferred way to install any of the pharaoh apps is through cleopatra. If yo
 .. code-block:: bash
 
 	cleopatra testingkamen install
+
+The snapshot below gives you a pictorial representation of help command.
+
+.. code-block:: bash
+
+ kevells@corp:/# cleopatra testingkamen install
+ Install Testingkamen - Update to latest version ? (Y/N) 
+ Y
+ *******************************
+ *        Pharaoh Tools        *
+ *          Testingkamen!         *
+ *******************************
+ What is the program data directory? Found "/opt/testingkamen" - use this? (Enter nothing for yes, no end slash)
+
+ What is the program executor directory? Found "/usr/bin" - use this? (Enter nothing for yes, No Trailing Slash)
+
+ git clone 'https://github.com/PharaohTools/testingkamen.git'  /tmp/testingkamen/testingkamenCloning into '/tmp/testingkamen/testingkamen'...
+ remote: Counting objects: 909, done.
+ remote: Total 909 (delta 0), reused 0 (delta 0)
+ Receiving objects: 100% (909/909), 361.15 KiB | 87.00 KiB/s, done.
+ Resolving deltas: 100% (412/412), done.
+ Checking connectivity... done.
+ Program Data folder populated
+ Program Executor Deleted if existed
+ ... All done!
+ *******************************
+ Thanks for installing , visit www.pharaohtools.com for more
+ ******************************
+
+
+ Single App Installer:
+ --------------------------------------------
+ Testingkamen: Success
+ ------------------------------
+ Installer Finished
+ ******************************
+
+
+Options
+------------
 
 .. cssclass:: table-bordered
 

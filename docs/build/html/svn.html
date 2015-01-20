@@ -62,6 +62,7 @@
   <ul class="dropdown-menu globaltoc"><ul class="current">
 <li class="toctree-l1 current"><a class="reference internal" href="cleopatra.html">Cleopatra</a></li>
 <li class="toctree-l1"><a class="reference internal" href="phlagrant.html">Phlagrant</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Dapperstrano_main.html">Dapperstrano</a></li>
 </ul>
 </ul>
 </li>
@@ -121,6 +122,32 @@
 </pre></div>
 </div>
 <p>The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under SVN.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra svn <span class="nb">help</span>
+******************************
+
+
+ This <span class="nb">command </span>allows you to install the latest available SVN in the Ubuntu
+ repositories.
+
+ SVN, svn
+
+       - install
+       Installs the latest available <span class="o">(</span>In your package manager<span class="o">)</span> version of SVN
+       example: cleopatra svn install
+
+       - ensure
+       Ensures SVN is installed
+       example: cleopatra svn ensure
+
+       - uninstall
+       Installs the latest version of SVN
+       example: cleopatra svn uninstall
+
+------------------------------
+End Help
+******************************
+</pre></div>
+</div>
 </div>
 <div class="section" id="installation">
 <h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
@@ -170,6 +197,59 @@ process they can input as N.|</td>
 <li>number of files upgraded, newly installed, removed, not upgraded.</li>
 <li>Finally, the installation of SVN gets completed. The following screenshot depicts you about the process of installing SVN in ubuntu.</li>
 </ul>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra svn install
+Install SVN? <span class="o">(</span>Y/N<span class="o">)</span>
+Y
+*******************************
+*        Pharaoh Tools        *
+*         !Subversion!        *
+*******************************
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following extra packages will be installed:
+ libserf-1-1 libsvn1
+Suggested packages:
+ subversion-tools db5.3-util
+The following NEW packages will be installed:
+ libserf-1-1 libsvn1 subversion
+<span class="m">0</span> upgraded, <span class="m">3</span> newly installed, <span class="m">0</span> to remove and <span class="m">8</span> not upgraded.
+Need to get 1,240 kB of archives.
+After this operation, 4,701 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu/ trusty-updates/main libserf-1-1 amd64 1.3.3-1ubuntu0.1 <span class="o">[</span>42.2 kB<span class="o">]</span>
+Get:2 http://in.archive.ubuntu.com/ubuntu/ trusty-updates/main libsvn1 amd64 1.8.8-1ubuntu3.1 <span class="o">[</span><span class="m">917</span> kB<span class="o">]</span>
+Get:3 http://in.archive.ubuntu.com/ubuntu/ trusty-updates/main subversion amd64 1.8.8-1ubuntu3.1 <span class="o">[</span><span class="m">280</span> kB<span class="o">]</span>
+Fetched 1,240 kB in 43s <span class="o">(</span>28.3 kB/s<span class="o">)</span>
+Selecting previously unselected package libserf-1-1:amd64.
+<span class="o">(</span>Reading database ... <span class="m">211229</span> files and directories currently installed.<span class="o">)</span>
+Preparing to unpack .../libserf-1-1_1.3.3-1ubuntu0.1_amd64.deb ...
+Unpacking libserf-1-1:amd64 <span class="o">(</span>1.3.3-1ubuntu0.1<span class="o">)</span> ...
+Selecting previously unselected package libsvn1:amd64.
+Preparing to unpack .../libsvn1_1.8.8-1ubuntu3.1_amd64.deb ...
+Unpacking libsvn1:amd64 <span class="o">(</span>1.8.8-1ubuntu3.1<span class="o">)</span> ...
+Selecting previously unselected package subversion.
+Preparing to unpack .../subversion_1.8.8-1ubuntu3.1_amd64.deb ...
+Unpacking subversion <span class="o">(</span>1.8.8-1ubuntu3.1<span class="o">)</span> ...
+Processing triggers <span class="k">for</span> man-db <span class="o">(</span>2.6.7.1-1ubuntu1<span class="o">)</span> ...
+Setting up libserf-1-1:amd64 <span class="o">(</span>1.3.3-1ubuntu0.1<span class="o">)</span> ...
+Setting up libsvn1:amd64 <span class="o">(</span>1.8.8-1ubuntu3.1<span class="o">)</span> ...
+Setting up subversion <span class="o">(</span>1.8.8-1ubuntu3.1<span class="o">)</span> ...
+Processing triggers <span class="k">for</span> libc-bin <span class="o">(</span>2.19-0ubuntu6.5<span class="o">)</span> ...
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Adding Package subversion from the Packager Apt executed correctly
+... All <span class="k">done</span>!
+*******************************
+Thanks <span class="k">for</span> installing , visit www.pharaohtools.com <span class="k">for</span> more
+******************************
+
+
+Single App Installer:
+--------------------------------------------
+SVN: Success
+------------------------------
+Installer Finished
+******************************
+</pre></div>
+</div>
 </div>
 <div class="section" id="un-install">
 <h2>Un install<a class="headerlink" href="#un-install" title="Permalink to this headline">¶</a></h2>
@@ -219,6 +299,42 @@ process they can input as N.|</td>
 <li>number of files upgraded, newly installed, removed, not upgraded.</li>
 </ul>
 <p>Finally, the un installation of SVN gets completed. The following screenshot depicts you about the process of un installing SVN in ubuntu.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra svn uninstall
+Uninstall SVN? <span class="o">(</span>Y/N<span class="o">)</span>
+Y
+*******************************
+*        Pharaoh Tools        *
+*         !Subversion!        *
+*******************************
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Removing Package subversion
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+ libserf-1-1 libsvn1
+Use <span class="s1">&#39;apt-get autoremove&#39;</span> to remove them.
+The following packages will be REMOVED:
+ subversion
+<span class="m">0</span> upgraded, <span class="m">0</span> newly installed, <span class="m">1</span> to remove and <span class="m">8</span> not upgraded.
+After this operation, 1,425 kB disk space will be freed.
+<span class="o">(</span>Reading database ... <span class="m">211322</span> files and directories currently installed.<span class="o">)</span>
+Removing subversion <span class="o">(</span>1.8.8-1ubuntu3.1<span class="o">)</span> ...
+Processing triggers <span class="k">for</span> man-db <span class="o">(</span>2.6.7.1-1ubuntu1<span class="o">)</span> ...
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Removed Package subversion from the Packager Apt
+... All <span class="k">done</span>!
+*******************************
+Thanks <span class="k">for</span> installing , visit www.pharaohtools.com <span class="k">for</span> more
+******************************
+
+
+Single App Uninstaller:
+------------------------------
+SVN: Success
+------------------------------
+Installer Finished
+******************************
+</pre></div>
+</div>
 </div>
 <div class="section" id="ensure">
 <h2>Ensure<a class="headerlink" href="#ensure" title="Permalink to this headline">¶</a></h2>
@@ -233,6 +349,38 @@ process they can input as N.|</td>
 <li>If the module is not available in the user machine, then it will proceed installation.</li>
 </ul>
 <p>The following screenshots depicts the process of ensuring.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra svn ensure
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Ensure module install is not checking versions
+sh: 1: svn: not found
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Module SVN reports itself as Not Installed
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Installing as not installed
+*******************************
+*        Pharaoh Tools        *
+*         !Subversion!        *
+*******************************
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Suggested packages:
+ subversion-tools db5.3-util
+The following NEW packages will be installed:
+ subversion
+<span class="m">0</span> upgraded, <span class="m">1</span> newly installed, <span class="m">0</span> to remove and <span class="m">8</span> not upgraded.
+Need to get <span class="m">0</span> B/280 kB of archives.
+After this operation, 1,425 kB of additional disk space will be used.
+Selecting previously unselected package subversion.
+<span class="o">(</span>Reading database ... <span class="m">211282</span> files and directories currently installed.<span class="o">)</span>
+Preparing to unpack .../subversion_1.8.8-1ubuntu3.1_amd64.deb ...
+Unpacking subversion <span class="o">(</span>1.8.8-1ubuntu3.1<span class="o">)</span> ...
+Processing triggers <span class="k">for</span> man-db <span class="o">(</span>2.6.7.1-1ubuntu1<span class="o">)</span> ...
+Setting up subversion <span class="o">(</span>1.8.8-1ubuntu3.1<span class="o">)</span> ...
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Adding Package subversion from the Packager Apt executed correctly
+... All <span class="k">done</span>!
+*******************************
+Thanks <span class="k">for</span> installing , visit www.pharaohtools.com <span class="k">for</span> more
+******************************
+</pre></div>
+</div>
 </div>
 <div class="section" id="benefits">
 <h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>

@@ -18,7 +18,7 @@ Help command used to find information about a specified command. For more inform
 
 .. code-block:: bash
 
-	Kevells@corp:~# cleopatra Service help
+	Kevells@corp:/# cleopatra Service help
 
 	******************************
 

@@ -17,6 +17,26 @@ The help command guides the users regarding the purpose and as well as about the
 
 The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under xvfb module.
 
+.. code-block:: bash
+
+ kevells@corp:/# cleopatra Xvfb help
+ ******************************
+
+
+  This command allows you to install Xvfb, the popular Virtual Machine Solution.
+
+  Xvfb, xvfb
+
+        - install
+        Installs Xvfb through apt-get
+        example: cleopatra xvfb install
+
+ ------------------------------
+ End Help
+ ******************************
+
+
+
 Installation
 ----------------
 
@@ -50,6 +70,50 @@ If the user proceeds the installation process, during execution of installation 
 Finally, the status are clearly reported and adding package xvfb from the packager Apt are executed correctly. The following screenshot depicts you about the process of installing xvfb.
 
 If the xvfb module is already existing in the users machine, it will show an message as the Package xvfb from the packager Apt is already installed. The screen shot as follows is an good example for those type of messages.
+
+
+.. code-block:: bash
+
+ kevells@corp:/# cleopatra xvfb install
+ Install Xvfb? (Y/N) 
+ Y
+ *******************************
+ *        Pharaoh Tools        *
+ *          ! Xvfb !        *
+ *******************************
+ Reading package lists...
+ Building dependency tree...
+ Reading state information...
+ The following NEW packages will be installed:
+  xvfb
+ 0 upgraded, 1 newly installed, 0 to remove and 8 not upgraded.
+ Need to get 747 kB of archives.
+ After this operation, 2,191 kB of additional disk space will be used.
+ Get:1 http://in.archive.ubuntu.com/ubuntu/ trusty-updates/main xvfb amd64 2:1.15.1-0ubuntu2.6 [747 kB]
+ Fetched 747 kB in 36s (20.6 kB/s)
+ Selecting previously unselected package xvfb.
+ (Reading database ... 211203 files and directories currently installed.)
+ Preparing to unpack .../xvfb_2%3a1.15.1-0ubuntu2.6_amd64.deb ...
+ Unpacking xvfb (2:1.15.1-0ubuntu2.6) ...
+ Processing triggers for man-db (2.6.7.1-1ubuntu1) ...
+ Setting up xvfb (2:1.15.1-0ubuntu2.6) ...
+ [Pharaoh Logging] Adding Package xvfb from the Packager Apt executed correctly
+ ... All done!
+ *******************************
+ Thanks for installing , visit www.pharaohtools.com for more
+ ******************************
+
+
+ Single App Installer:
+ --------------------------------------------
+ Xvfb: Success
+ ------------------------------
+ Installer Finished
+ ******************************
+
+
+
+
 
 Benefits
 -----------

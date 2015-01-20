@@ -121,6 +121,23 @@
 </pre></div>
 </div>
 <p>The screen shot as given below shows pictorial representation regarding the help usage in php config.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra PHPConf <span class="nb">help</span>
+******************************
+
+
+ This <span class="nb">command </span>is part of Core and provides you  with a method by which you can install Apache HTTP Server
+
+ PHPConf, php-configure, php-configuration, php-conf, phpconf
+
+       - install
+       Installs a configuration <span class="k">for</span> PHP
+       example: cleopatra phpconf install
+
+------------------------------
+End Help
+******************************
+</pre></div>
+</div>
 </div>
 <div class="section" id="installation">
 <h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
@@ -129,6 +146,99 @@
 </pre></div>
 </div>
 <p>After inputting the command as shown above the following operations occurs as shown in the tabular format.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra PHPConf install
+Install PHP Conf? <span class="o">(</span>Y/N<span class="o">)</span>
+y
+*******************************
+*        Pharaoh Tools        *
+*         PHP Conf!        *
+*******************************
+Set non-default value <span class="k">for</span> user_ini.filename? Default is .user.ini <span class="o">(</span>Y/N<span class="o">)</span>
+y
+What value <span class="k">for</span> user_ini.filename?
+
+Set non-default value <span class="k">for</span> user_ini.cache_ttl? Default is <span class="m">300</span> <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> engine? Default is On <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> short_open_tag? Default is On <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> asp_tags? Default is Off <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> precision? Default is <span class="m">14</span> <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> y2k_compliance? Default is On <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> output_buffering? Default is <span class="m">4096</span> <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> output_handler? Default is  <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> zlib.output_compression? Default is Off <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> zlib.output_compression_level? Default is -1 <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> zlib.output_handler? Default is  <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> implicit_flush? Default is Off <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> unserialize_callback_func? Default is  <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> serialize_precision? Default is <span class="m">17</span> <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> allow_call_time_pass_reference? Default is Off <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> safe_mode? Default is Off <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> safe_mode_gid? Default is Off <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> safe_mode_exec_dir? Default is  <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> safe_mode_allowed_env_vars? Default is PHP_ <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> safe_mode_protected_env_vars? Default is LD_LIBRARY_PATH <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> open_basedir? Default is  <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> disable_functions? Default is pcntl_alarm,pcntl_fork,pcntl_waitpid,pcntl_wait,pcntl_wifexited,pcntl_wifstopped,pcntl_wifsignaled,pcntl_wexitstatus,pcntl_wtermsig,pcntl_wstopsig,pcntl_signal,pcntl_signal_dispatch,pcntl_get_last_error,pcntl_strerror,pcntl_sigpr ocmask,pcntl_sigwaitinfo,pcntl_sigtimedwait,pcntl_exec,pcntl_getpriority,pcntl_setpriority, <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> disable_classes? Default is  <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> ignore_user_abort? Default is On <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> realpath_cache_size? Default is 16k <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> realpath_cache_ttl? Default is <span class="m">120</span> <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> zend.enable_gc? Default is On <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> expose_php? Default is On <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> max_execution_time? Default is <span class="m">30</span> <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> max_input_time? Default is <span class="m">60</span> <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> max_input_nesting_level? Default is <span class="m">64</span> <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> max_input_vars? Default is <span class="m">1000</span> <span class="o">(</span>Y/N<span class="o">)</span>
+
+Set non-default value <span class="k">for</span> memory_limit? Default is 128M <span class="o">(</span>Y/N<span class="o">)</span>
+
+
+
+... All <span class="k">done</span>!
+*******************************
+Thanks <span class="k">for</span> installing , visit www.pharaohtools.com <span class="k">for</span> more
+******************************
+
+
+Single App Installer:
+--------------------------------------------
+PHPConf: Success
+------------------------------
+Installer Finished
+******************************
+</pre></div>
+</div>
 </div>
 <div class="section" id="options">
 <h2>Options<a class="headerlink" href="#options" title="Permalink to this headline">¶</a></h2>

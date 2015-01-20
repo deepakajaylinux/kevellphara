@@ -1,6 +1,6 @@
-========
+===========
 Varnish
-========
+===========
 
 Synopsis
 --------------
@@ -21,7 +21,7 @@ The syntax for declaring the help command is not case sensitive which is an adde
 
 .. code-block:: bash
 
-	root@deepak:~# cleopatra Varnish help
+	kevells@corp:/# cleopatra Varnish help
 	******************************
 
 
@@ -44,7 +44,7 @@ The command used for installing the varnish to the users machine is shown below.
 
 .. code-block:: bash
 
-	cleopatra varnish install
+		cleopatra varnish install
 
 After inputting the command above, the following operations occurs as shown in the tabular format.
 
@@ -53,7 +53,7 @@ After inputting the command above, the following operations occurs as shown in t
 .. cssclass:: table-bordered
 
 	+-----------------------------+--------------------------------+----------------+--------------------------------------------------+
-        |    Parameters               |    Alternative Parameter       |  Options       |     Comment                                      |
+        |    Parameters               |    Alternative Parameters      |  Options       |     Comment                                      |
         +=============================+================================+================+==================================================+
 	|Install Varnish? (Y/N)       |In Spite of Varnish, varnish can|Y(Yes)		|If the user wish to proceed the installation      |
     	|			      |also be used.                   |                |process they can input as Y.                      |
@@ -77,7 +77,7 @@ If the user proceeds the installation process, during execution of installation 
 
 .. code-block:: bash
    
-	Kevlls@corp:~# cleopatra varnish install
+	Kevells@corp:/# cleopatra varnish install
 	Install Varnish? (Y/N) 
 	y
 	*******************************
@@ -141,7 +141,7 @@ If the user proceeds the installation process, during execution of installation 
 
 
 
-Benefits:
+Benefits
 ------------
 
 * Varnish is a modern, high-performance, open source caching reverse HTTP proxy implementation. 

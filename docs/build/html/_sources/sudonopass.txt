@@ -14,7 +14,7 @@ This help command guide the user about sudonopass module. This is suitable for a
 
 .. code-block:: bash
 
-	root@deepak:~# cleopatra SudoNoPass help
+	kevells@corp:/# cleopatra SudoNoPass help
 	******************************
 
 
@@ -40,7 +40,7 @@ Use this module to install sudonopass on Ubuntu Linux system packages.
 
 .. code-block:: bash
 
-          Cleopatra sudonopass install
+          cleopatra sudonopass install
 
 Install sudonopass ?(Y/N)
 
@@ -48,7 +48,7 @@ When the user gives input, as yes automatically it will install configure the ro
 
 .. code-block:: bash
 
-	root@kevells:~# cleopatra sudo-nopass install
+	kevells@corp:/# cleopatra sudo-nopass install
 	Install Sudo w/o Pass for User? (Y/N) 
 	y
 	*******************************

@@ -14,7 +14,7 @@ The help command guide the user to install virtual box. The following screen sho
 
 .. code-block:: bash
 
-	kevells@corp:~# cleopatra Virtualbox help
+	kevells@corp:/# cleopatra Virtualbox help
 	******************************
 
 
@@ -37,16 +37,16 @@ This module instruct the user to install. To activate virtual box follow the com
 
 .. code-block:: bash
 
-	Cleopatra virtual box install
+	cleopatra virtual box install
 
 Then the system can enquire
-Cleopatra virtual box install? (Y/N) 
+cleopatra virtual box install? (Y/N) 
 If the user enters Y then it will be installed, else it will exit the screen.
 
 
 .. code-block:: bash
 
- kevells@corp:~# cleopatra Virtualbox install
+ kevells@corp:/# cleopatra Virtualbox install
  Install Virtualbox? (Y/N) 
  y
  *******************************
@@ -210,6 +210,19 @@ If the user enters Y then it will be installed, else it will exit the screen.
 
 Options
 ---------
+ 
+.. cssclass:: table-bordered
+
+ +-----------------------------+-----------------+------------------------+-----------------------------+
+ |Parameters		       |Syntax	         |Option                  |Comments			|
+ +=============================+=================+========================+=============================+
+ |Install Virtual box	       |Yes		 |Virtualbox		  |Installed successfully	|
+ +-----------------------------+-----------------+------------------------+-----------------------------+
+ |			       |		 |Virtualbox		  |Installed successfully	|
+ +-----------------------------+-----------------+------------------------+-----------------------------+
+ |			       |No		 |-			  |Exit the screen|		|
+ +-----------------------------+-----------------+------------------------+-----------------------------+
+		
 
 
 

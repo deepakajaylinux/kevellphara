@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>File &mdash; KEVELLS 1.1.1 ドキュメント</title>
+    <title>File &mdash; KEVELLS 1.1.1 documentation</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -25,10 +25,9 @@
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
-    <script type="text/javascript" src="_static/translations.js"></script>
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
-    <link rel="top" title="KEVELLS 1.1.1 ドキュメント" href="index.html" />
+    <link rel="top" title="KEVELLS 1.1.1 documentation" href="index.html" />
     <link rel="up" title="Cleopatra" href="cleopatra.html" />
     <link rel="next" title="FireFox" href="firefox.html" />
     <link rel="prev" title="Copy" href="copy.html" />
@@ -89,9 +88,9 @@
           
             
   <li><a href="copy.html"
-         title="前の章へ">&laquo; Copy</a></li>
+         title="previous chapter">&laquo; Copy</a></li>
   <li><a href="firefox.html"
-         title="次の章へ">FireFox &raquo;</a></li>
+         title="next chapter">FireFox &raquo;</a></li>
           
           
           <!--  <li>
@@ -114,23 +113,23 @@
 
   
   <div class="section" id="file">
-<h1>File<a class="headerlink" href="#file" title="このヘッドラインへのパーマリンク">¶</a></h1>
+<h1>File<a class="headerlink" href="#file" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="synopsis">
-<h2>Synopsis<a class="headerlink" href="#synopsis" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
 <p>File is a standard program for recognizing the type of data contained in a computer file. The file command attempts to classify each file system object (i.e., file, directory or link) that is provided to it as an argument (i.e., input). File tests each argument in an attempt to classify it. There are three sets of tests, performed in this order: file system tests, magic number tests, and language tests.</p>
 <p>The first is a file system test, which uses the stat system call to obtain information from the object&#8217;s inode (which contains information about a file).</p>
 <p>The second test checks to see if there is a magic number, which is a number embedded at or near the beginning of many types of files that indicates the file format (i.e., the type of file).</p>
 <p>In the event that the first two tests fail to determine the type of a file, language tests are employed to determine if it is plain text (i.e., composed entirely of human-readable characters), and, if so, what type of plain text, such as HTML (hypertext markup language) or source code</p>
 </div>
 <div class="section" id="help-command">
-<h2>Help Command<a class="headerlink" href="#help-command" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>This command helps to determine the usage of file module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same.</p>
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra file <span class="nb">help</span>
 </pre></div>
 </div>
 </div>
 <div class="section" id="create">
-<h2>Create<a class="headerlink" href="#create" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<h2>Create<a class="headerlink" href="#create" title="Permalink to this headline">¶</a></h2>
 <p>When the user needs to Create a new system file, the below given command will execute the process.</p>
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra file create --file<span class="o">=</span><span class="s2">&quot;somename&quot;</span>
 </pre></div>
@@ -145,21 +144,21 @@
 </div>
 </div>
 <div class="section" id="delete">
-<h2>Delete<a class="headerlink" href="#delete" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<h2>Delete<a class="headerlink" href="#delete" title="Permalink to this headline">¶</a></h2>
 <p>When the user needs to delete a system file, the below given command will execute the process.</p>
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra file delete --file<span class="o">=</span><span class="s2">&quot;somename&quot;</span>
 </pre></div>
 </div>
 </div>
 <div class="section" id="exists">
-<h2>Exists<a class="headerlink" href="#exists" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<h2>Exists<a class="headerlink" href="#exists" title="Permalink to this headline">¶</a></h2>
 <p>When the user needs to check the existence of a file, the below given command will execute the process.</p>
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra file exists --filename<span class="o">=</span><span class="s2">&quot;somename&quot;</span>
 </pre></div>
 </div>
 </div>
 <div class="section" id="append">
-<h2>Append<a class="headerlink" href="#append" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<h2>Append<a class="headerlink" href="#append" title="Permalink to this headline">¶</a></h2>
 <p>When the user needs to append a line to a file, the below given command will execute the process.</p>
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra file append --filename<span class="o">=</span><span class="s2">&quot;somename&quot;</span> --line<span class="o">=</span><span class="s2">&quot;a line&quot;</span>
 </pre></div>
@@ -169,7 +168,7 @@
 </ul>
 </div>
 <div class="section" id="should-have-line">
-<h2>Should-have-line<a class="headerlink" href="#should-have-line" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<h2>Should-have-line<a class="headerlink" href="#should-have-line" title="Permalink to this headline">¶</a></h2>
 <p>When the user needs to ensure that a file contains a particular line, the below given command will execute the process.</p>
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra file should-have-line --filename<span class="o">=</span><span class="s2">&quot;somename&quot;</span> --line<span class="o">=</span><span class="s2">&quot;a line&quot;</span>
 </pre></div>
@@ -179,7 +178,7 @@
 </ul>
 </div>
 <div class="section" id="options">
-<h2>Options<a class="headerlink" href="#options" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<h2>Options<a class="headerlink" href="#options" title="Permalink to this headline">¶</a></h2>
 <table border="1" class="table-bordered docutils">
 <colgroup>
 <col width="20%" />
@@ -202,7 +201,7 @@ starts processing</td>
 </table>
 </div>
 <div class="section" id="benefits">
-<h2>Benefits<a class="headerlink" href="#benefits" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
 <li>Specify a file specially formatted containing position-sensitive tests; default position-sensitive tests and context-sensitive tests will not be performed.</li>
 </ul>

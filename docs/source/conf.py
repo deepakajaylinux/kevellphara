@@ -175,9 +175,9 @@ htmlhelp_basename = 'kevellsdoc'
 # Various settings to pass to templates:
 
 html_context = {
-   "google_analytics_id" : 'UA-36028965-1',
-   "disqus_shortname" : 'kevellsreadthedoc',
-   "github_base_account" : 'ctb',
+   "google_analytics_id" : 'UA-58804904-1',
+   "disqus_shortname" : 'kevellsrdoc',
+   "github_base_account" : 'deepakajaylinux',
    "github_project" : 'kevellphara',
 }
 

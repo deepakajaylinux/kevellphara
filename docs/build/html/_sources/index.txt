@@ -1,4 +1,4 @@
-Pharaohtools Documentation
+Praohtools Documentation
 ==========================
 
 About pharaohtools
@@ -11,12 +11,13 @@ The Pharaohs has its own benefit while comparing to other tools as it is user fr
 Commands
 *********
 .. toctree::
-   :maxdepth: 3 
-  
+   :maxdepth: 2
+   
  cleopatra
  phlagrant
  Dapperstrano_main 
- 
+
+
 
 Indices and tables
 ==================

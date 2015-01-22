@@ -1,17 +1,16 @@
-==============
+=====
 Chown
-==============
+=====
 
 Synopsis
-----------
+--------
 
-This module enables to change owner’s permission. It change the permission on individual file 
-Or directory. Before that you must be aware of the default permission assigned to your files and directories at the time you create it. 
+This module enables to change owner’s permission. It can change the permission on individual file Or directory. Before that you must be aware of the default permission assigned to your files and directories at the time you create it. 
 
 Help command
---------------
+------------
 
-This help command explains about the installation of a particular module. The help command is easy to operate by the end user. The following command guided the user about the installation.
+This help command explains about the installation of a particular module. The help command is easy to operate by the end user. It also lists out the alternative parameters that are used in declaration. The following command guides the user about the handling this module.
 
 .. code-block:: bash
 	
@@ -38,7 +37,7 @@ After giving the command, the command will list the help options. The following 
 
 
 Installation
---------------
+------------
 
 It is an excellent process for this module under Cleopatra by slightly using the command given below,
 
@@ -50,7 +49,9 @@ Then we can enter the input.
 Enter Ownership User
 After typing the owner name
 It will display Chown result success.
-This will visually shows by the following screen shot.
+
+
+This is Visually shown by the following screen shot.
 
 .. code-block:: bash
 
@@ -69,16 +70,6 @@ This will visually shows by the following screen shot.
 
 
 
-
-Benefits to the users
-----------------------
-The module can change the owner at any time with Cleopatra. While doing recursive process if you change single file the entire folder can also be changed. We can verify the current status of the owner.
-
-
-
-Options
----------
-
 .. cssclass:: table-bordered
 
 
@@ -95,4 +86,14 @@ Options
 	|Owner						 | No         |	Chown			   |The user gives input as no,	 |
 	|                                                |	      |				   |it will ask the owner name|  |
 	+------------------------------------------------+------------+----------------------------+-----------------------------+
+
+
+
+Benefits 
+--------
+
+ * The module can change the owner at any time with Cleopatra.
+ * While doing recursive process if you change single file the entire folder can also be changed.
+ * We can verify the current status of the owner.
+
 

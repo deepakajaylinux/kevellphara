@@ -88,8 +88,7 @@
 <li><a class="reference internal" href="#synopsis">Synopsis</a></li>
 <li><a class="reference internal" href="#help-command">Help command</a></li>
 <li><a class="reference internal" href="#installation">Installation</a></li>
-<li><a class="reference internal" href="#benefits-to-the-users">Benefits to the users</a></li>
-<li><a class="reference internal" href="#options">Options</a></li>
+<li><a class="reference internal" href="#benefits">Benefits</a></li>
 </ul>
 </li>
 </ul>
@@ -128,12 +127,11 @@
 <h1>Chown<a class="headerlink" href="#chown" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="synopsis">
 <h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
-<p>This module enables to change owner’s permission. It change the permission on individual file
-Or directory. Before that you must be aware of the default permission assigned to your files and directories at the time you create it.</p>
+<p>This module enables to change owner’s permission. It can change the permission on individual file Or directory. Before that you must be aware of the default permission assigned to your files and directories at the time you create it.</p>
 </div>
 <div class="section" id="help-command">
 <h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
-<p>This help command explains about the installation of a particular module. The help command is easy to operate by the end user. The following command guided the user about the installation.</p>
+<p>This help command explains about the installation of a particular module. The help command is easy to operate by the end user. It also lists out the alternative parameters that are used in declaration. The following command guides the user about the handling this module.</p>
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra chown <span class="nb">help</span>
 </pre></div>
 </div>
@@ -164,8 +162,8 @@ End Help
 <p>Then we can enter the input.
 Enter Ownership User
 After typing the owner name
-It will display Chown result success.
-This will visually shows by the following screen shot.</p>
+It will display Chown result success.</p>
+<p>This is Visually shown by the following screen shot.</p>
 <div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra chown path --yes --guess --recursive --path<span class="o">=</span>/phj.php --owner<span class="o">=</span>deepak
 
 Enter ownership user:
@@ -180,13 +178,6 @@ Chown Finished
 ******************************
 </pre></div>
 </div>
-</div>
-<div class="section" id="benefits-to-the-users">
-<h2>Benefits to the users<a class="headerlink" href="#benefits-to-the-users" title="Permalink to this headline">¶</a></h2>
-<p>The module can change the owner at any time with Cleopatra. While doing recursive process if you change single file the entire folder can also be changed. We can verify the current status of the owner.</p>
-</div>
-<div class="section" id="options">
-<h2>Options<a class="headerlink" href="#options" title="Permalink to this headline">¶</a></h2>
 <table border="1" class="table-bordered docutils">
 <colgroup>
 <col width="41%" />
@@ -226,6 +217,16 @@ it will ask the owner name|</td>
 </tr>
 </tbody>
 </table>
+</div>
+<div class="section" id="benefits">
+<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
+<blockquote>
+<div><ul class="simple">
+<li>The module can change the owner at any time with Cleopatra.</li>
+<li>While doing recursive process if you change single file the entire folder can also be changed.</li>
+<li>We can verify the current status of the owner.</li>
+</ul>
+</div></blockquote>
 </div>
 </div>
 

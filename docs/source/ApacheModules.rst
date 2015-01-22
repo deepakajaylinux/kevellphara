@@ -1,13 +1,43 @@
 Apache Module
-===============
+=============
 
-Recap
--------
+Synopsis
+--------
 
-This module facilitates to install the Apache modules. It specifies the configuration of your environment. The checking availability of modules is possible. It is comfort in Ubuntu as well as in Cent OS.
+This module facilitates to install the Apache modules. It specifies the configuration of your environment. The checking availability of modules is possible. It is comfortable in Ubuntu as well as in Cent OS.
+
+Help command
+------------
+
+This help command explains about the purpose of a particular module. The syntax for installation is depicted under the help command. It also lists out the alternative parameters that can be used for declaration. The help command is easy to operate by the end user. The following command guides the user about using this module.
+
+.. code-block:: bash
+
+ cleopatra apache modules help
+
+After giving the command, the command will list the help options. The following screen shots will give visual effect for the usage of this module.
+
+.. code-block:: bash
+
+ kevells@corp:/# cleopatra ApacheModules help
+ ******************************
+
+
+  This command is part of Core and provides you  with a method by which you can configure Application Settings.
+  You can configure default application settings, ie: mysql admin user, host, pass
+
+  ApacheModules, apachemods, apache-modules, apachemodules
+
+        - install
+        Installs common apache Modules
+        example: cleopatra apache-modules install
+
+ ------------------------------
+ End Help
+ ******************************
 
 Installation
----------------
+------------
 
 Installation is not a difficult process to install this module under Cleopatra by merely using the command given below,
 
@@ -24,7 +54,7 @@ After giving the command it will ask,
 	If you give an input as ‘Y’, the module will be installed successfully.
 	If you give an input as ‘N’, then it will come out of the installation.
 
-The following screen shots will give visual effect for the usage of this module.
+The following screen shots will give visual effect for the installation of this module.
 
 .. code-block:: bash
 
@@ -112,25 +142,6 @@ The following screen shots will give visual effect for the usage of this module.
  Installer Finished
  ****************************** 
 
-In Cent Os
--------------
-
-It will be installed as configuration.
-Cleopatra apache modules install
-It will ask install Apache module Y/N?
-If you give the command “Y”	
-It will check the dependencies and install it.
-If you give the command “N”
-It will return to the existing place.
-
-Benefits to the users
-------------------------
-
-The module is an aid to Link with Cleopatra. While installing the Apache modules, it will acquiesce the configuration files.  If the configuration files are not available in the system this module will automatically install it. Separate Modules are available. 
-
-
-Options
-----------
 .. _making-a-table:
 
 .. cssclass:: table-bordered
@@ -145,32 +156,15 @@ Options
  |Install Apache Module? (Y/N)	 |No 		      |  If the user gives input as no, it will be exited.|			     |
  +-------------------------------+--------------------+------------------------------------------------------------------------------+
 
-Help command
---------------
 
-This help command explains about the installation of a particular module. The help command is easy to operate by the end user. The following command guided the user about the installation.
+Benefits 
+--------
 
-.. code-block:: bash
-
- cleopatra apache modules help
-
-After giving the command, the command will list the help options. The following screen shots will give visual effect for the usage of this module.
-
-.. code-block:: bash
-
- kevells@corp:/# cleopatra ApacheModules help
- ******************************
+ * The module is an aid to Link with Cleopatra.
+ * While installing the Apache modules, it will acquiesce the configuration files.
+ * If the configuration files are not available in the system this module will automatically install it.
 
 
-  This command is part of Core and provides you  with a method by which you can configure Application Settings.
-  You can configure default application settings, ie: mysql admin user, host, pass
 
-  ApacheModules, apachemods, apache-modules, apachemodules
 
-        - install
-        Installs common apache Modules
-        example: cleopatra apache-modules install
 
- ------------------------------
- End Help
- ******************************

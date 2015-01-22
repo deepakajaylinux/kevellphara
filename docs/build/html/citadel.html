@@ -88,7 +88,6 @@
 <li><a class="reference internal" href="#synopsis">Synopsis</a></li>
 <li><a class="reference internal" href="#help-command">Help Command</a></li>
 <li><a class="reference internal" href="#installation">Installation</a></li>
-<li><a class="reference internal" href="#options">Options</a></li>
 <li><a class="reference internal" href="#configuration">Configuration</a></li>
 <li><a class="reference internal" href="#benefits">Benefits</a></li>
 </ul>
@@ -134,38 +133,41 @@
 </div>
 <div class="section" id="help-command">
 <h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
-<p>This command helps to determine the usage of Citadel module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same.</p>
-<div class="highlight-bash"><div class="highlight"><pre>               cleopatra  Citadel <span class="nb">help</span>
-
-kevells@corp:/# cleopatra Citadel <span class="nb">help</span>
-******************************
-
-
- This module installs Citadel Server and provides configuration
-
- Citadel, citadel-server, citadel
-
-       - install
-       Installs Citadel Server
-       example: cleopatra citadel install
-
-       - configure
-       Configure E-Mail with Citadel Server
-       example: cleopatra citadel configure
-
-------------------------------
-End Help
-******************************
+<p>This command helps to determine the usage of Citadel module. The user will come to know about the different ways/format to execute this module. The alternative parameter that are used in declaration is clearly defined under help option.  This command guides the end user to know the command used for installation. Below given are the command and the screenshot of the same.</p>
+<div class="highlight-bash"><div class="highlight"><pre>cleopatra  Citadel <span class="nb">help</span>
 </pre></div>
 </div>
+<div class="highlight-bash"><div class="highlight"><pre>
+</pre></div>
+</div>
+<dl class="docutils">
+<dt><a class="reference external" href="mailto:kevells&#37;&#52;&#48;corp">kevells<span>&#64;</span>corp</a>:/# cleopatra Citadel help</dt>
+<dd><blockquote class="first last">
+<div><p>This module installs Citadel Server and provides configuration</p>
+<p>Citadel, citadel-server, citadel</p>
+<blockquote>
+<div><ul class="simple">
+<li>install</li>
+</ul>
+<p>Installs Citadel Server
+example: cleopatra citadel install</p>
+<ul class="simple">
+<li>configure</li>
+</ul>
+<p>Configure E-Mail with Citadel Server
+example: cleopatra citadel configure</p>
+</div></blockquote>
+</div></blockquote>
+</dd>
+</dl>
 </div>
 <div class="section" id="installation">
 <h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
-<p>When the user needs to install Citadel server in machine, you can issue the following commands to install the citadel-suite. The system will execute the process of installation. Below given are the command and the screenshot of the same.</p>
-<div class="highlight-bash"><div class="highlight"><pre>               cleopatra Citadel  install
-
-
-kevells@corp:/# cleopatra Citadel install
+<p>When the user needs to install Citadel server in machine, you can input the following commands to install the citadel-suite. The system will execute the process of installation. Below given are the command and the screenshot of the same.</p>
+<div class="highlight-bash"><div class="highlight"><pre>cleopatra Citadel  install
+</pre></div>
+</div>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra Citadel install
 Install Citadel Server? (Y/N)
 Y
 *******************************
@@ -325,47 +327,9 @@ Installer Finished
 </pre></div>
 </div>
 </div>
-<div class="section" id="options">
-<h2>Options<a class="headerlink" href="#options" title="Permalink to this headline">¶</a></h2>
-<table border="1" class="table-bordered docutils">
-<colgroup>
-<col width="24%" />
-<col width="35%" />
-<col width="8%" />
-<col width="32%" />
-</colgroup>
-<thead valign="bottom">
-<tr class="row-odd"><th class="head">Parameters</th>
-<th class="head">Alternative Parameter</th>
-<th class="head">Options</th>
-<th class="head">Comments</th>
-</tr>
-</thead>
-<tbody valign="top">
-<tr class="row-even"><td>cleopatra Citadel Install</td>
-<td>Either of the three alternative
-parameter can be used in command- Citadel,
-citadel-server,  citadel
-eg: Cleopatra  citadel-server Install</td>
-<td>Y</td>
-<td>Once the user provides the option,
-System starts installation process</td>
-</tr>
-<tr class="row-odd"><td>cleopatra Citadel Install</td>
-<td>Either of the three alternative
-parameter can be used in command- Citadel,
-citadel-server,  citadel
-eg: Cleopatra  citadel-server Install|</td>
-<td>N</td>
-<td>Once the user provides the option,
-System stops installation process</td>
-</tr>
-</tbody>
-</table>
-</div>
 <div class="section" id="configuration">
 <h2>Configuration<a class="headerlink" href="#configuration" title="Permalink to this headline">¶</a></h2>
-<p>This command helps in configuring the Citadel server. Once the below given command is executed the system provides you with the default value for each section, if there are any changes to be done, the user can provide the data.</p>
+<p>This command helps in configuring the Citadel server. Once the below given command is executed the system provides you with the default value for each section, if there are any changes to be done, the user can provide the data. The command used for configuration is shown below.</p>
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra Citadel configure
 </pre></div>
 </div>

@@ -1,32 +1,33 @@
 Chgrp 
-=============
+=====
 
-Nut shell
------------
+Synopsis
+--------
 
 This module confess many owners. Linux can accept many groups. 
 
-How to use	
--------------
+Help Command
+------------
+The help command interprets about the scope and the commands available under this modules. It also explains the command to change the group. It lists out the alaterntive parameters that can be used for declaration. The command used for defining the help option is shown below:
 
-It is an obvious process to change group module under Cleopatra by just using the command given below,
+
+.. code-block:: bash
+
+	Cleopatra chgrp help 
+
+The following screen shot visualize it translucently.
+ 
+How to use	
+----------
+
+It is an obvious process to use this change group module under Cleopatra by just using the command given below,
 
 .. code-block:: bash
    
    cleopatra chgrp path --yes --guess --recursive --path=/a/file/path --group=golden
 
-After bounce the command it will change the group.
+After inputting the command it will change the group.
 
- 
-Benefits to the users
-----------------------
-
-Change group can be used to change the group permission. It simplified the process. It is suitable for all types of user. We can give the command anywhere any time. Easy to operate.
-
-.. _making-a-table:
-
-Options
----------
 
 .. cssclass:: table-bordered
 
@@ -42,8 +43,12 @@ Options
  |group      |Yes               |chgrp      |Facilitate to change the new group name|                 |
  +-----------+------------------+-----------+---------------------------------------------------------+
 
-Help command
---------------
-The help command interprets about the scope and the commands available under this modules. It also explains the command to change the group. The following screen shot visualize it translucently.
- 
+Benefits
+--------
+
+ * Change group can be used to change the group permission.
+ * It simplifies the process.
+ * It is suitable for all types of user.
+ * We can give the command anywhere any time.
+ * Easy to operate.
 

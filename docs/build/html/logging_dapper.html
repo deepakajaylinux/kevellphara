@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Run Command &mdash; KEVELL 0.1 documentation</title>
+    <title>Logging &mdash; KEVELL 0.1 documentation</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -30,8 +30,8 @@
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
     <link rel="up" title="Dapperstrano" href="Dapperstrano_main.html" />
-    <link rel="next" title="Jrush" href="jrush_main.html" />
-    <link rel="prev" title="Nginx Control" href="nginxcontrol.html" />
+    <link rel="next" title="Nginx Control" href="nginxcontrol.html" />
+    <link rel="prev" title="Apache Control" href="apachecontrol.html" />
 
 
 <script src="_static/labibi.js"></script>
@@ -86,10 +86,11 @@
             <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Page <b class="caret"></b></a>
   <ul class="dropdown-menu localtoc"><ul>
-<li><a class="reference internal" href="#">Run Command</a><ul>
+<li><a class="reference internal" href="#">Logging</a><ul>
 <li><a class="reference internal" href="#synopsis">Synopsis</a></li>
 <li><a class="reference internal" href="#help-command">Help Command</a></li>
-<li><a class="reference internal" href="#how-to-use-run-command">How to use Run command</a></li>
+<li><a class="reference internal" href="#installation">Installation</a></li>
+<li><a class="reference internal" href="#how-to-define-php-error-log">How to define php error log</a></li>
 <li><a class="reference internal" href="#benefits">Benefits</a></li>
 </ul>
 </li>
@@ -99,14 +100,14 @@
           
           
             
+  <li><a href="apachecontrol.html"
+         title="previous chapter">&laquo; Apache Control</a></li>
   <li><a href="nginxcontrol.html"
-         title="previous chapter">&laquo; Nginx Control</a></li>
-  <li><a href="jrush_main.html"
-         title="next chapter">Jrush &raquo;</a></li>
+         title="next chapter">Nginx Control &raquo;</a></li>
           
           
           <!--  <li>
-  <a href="_sources/run_command.txt"
+  <a href="_sources/logging_dapper.txt"
      rel="nofollow">Source</a></li> -->
           
         </ul>
@@ -125,30 +126,30 @@
 
   
   
-  <div class="section" id="run-command">
-<h1>Run Command<a class="headerlink" href="#run-command" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="logging">
+<h1>Logging<a class="headerlink" href="#logging" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="synopsis">
 <h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
-<p>The run command modules enables the users to execute an operating system command. This is mainly be used in an Autopilot. Using this run command the user can specify the command, name of the user and also to run the either in background or front-end. Let us see the uses of run command.</p>
+<p>This logging module is used for the purpose of log a message to the console, and is optionally used for php error log. Let us see how to install and to use the log for declaring message and in php error log.</p>
 </div>
 <div class="section" id="help-command">
 <h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
-<p>The help command describes the uses of run command, its major functionality, its alternative parameters, the commands used for executing a command, and also about the syntax for specifying the command, name of the user and also to run the either in background or front-end. The syntax used for declaring the help command is shown below.</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano RunCommand <span class="nb">help</span>
+<p>The help command acts as a brief user manual that leads the user about its usage and methodologies. It specifies the alternative parameters that can be used in declaration, and a syntax example to define a log. The command used for declaring the help option is given below:</p>
+<div class="highlight-bash"><div class="highlight"><pre>dapperstrano Logging <span class="nb">help</span>
 </pre></div>
 </div>
 <p>The following screen shot depicts pictorially about the working of help command.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# dapperstrano RunCommand <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# dapperstrano Logging <span class="nb">help</span>
 ******************************
 
 
- This allows you to execute an Operating System command. This would primarily be used in an Autopilot.
+ Use this to log a message to the Console, and optionally the php error log.
 
- RunCommand, runcommand, run-command
+ Logging, logging
 
-       - execute
-       Execute a Command
-       example: cleopatra run-command --yes --command<span class="o">=</span><span class="s2">&quot;ls -lah /tmp&quot;</span> --run-as-user<span class="o">=</span><span class="s2">&quot;ubuntu&quot;</span> --background
+       - log
+       Logs a message the console or
+       example: cleopatra logging log --php-log --log-message<span class="o">=</span><span class="s2">&quot;Here is something logging to the console and error log&quot;</span>
 
 ------------------------------
 End Help
@@ -156,55 +157,99 @@ End Help
 </pre></div>
 </div>
 </div>
-<div class="section" id="how-to-use-run-command">
-<h2>How to use Run command<a class="headerlink" href="#how-to-use-run-command" title="Permalink to this headline">¶</a></h2>
-<p>The syntax used for specifying the run command in shown below.</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra run-command --yes --command<span class="o">=</span><span class="s2">&quot;ls -lah /tmp&quot;</span> --run-as-user<span class="o">=</span><span class="s2">&quot;ubuntu&quot;</span> --background
+<div class="section" id="installation">
+<h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
+<p>The command used for installing the logging under dapperstrano is given below:</p>
+<div class="highlight-bash"><div class="highlight"><pre>dapperstrano logging log
 </pre></div>
 </div>
+<p>After inputting, the command above, the process of installation is depicted in the following tabular column.</p>
 <table border="1" class="table-bordered docutils">
 <colgroup>
-<col width="24%" />
-<col width="38%" />
-<col width="38%" />
+<col width="23%" />
+<col width="27%" />
+<col width="15%" />
+<col width="35%" />
 </colgroup>
 <thead valign="bottom">
-<tr class="row-odd"><th class="head">Parameter</th>
-<th class="head">Function</th>
-<th class="head">Usage</th>
+<tr class="row-odd"><th class="head">Parameters</th>
+<th class="head">Alternative Parameters</th>
+<th class="head">Options</th>
+<th class="head">Comments</th>
 </tr>
 </thead>
 <tbody valign="top">
-<tr class="row-even"><td>command=&#8221;ls -lah /tmp&#8221;</td>
-<td>It allows the user to specify the command
-and its purpose.</td>
-<td>By using this, the user can specify their own
-command as per their requirements.</td>
+<tr class="row-even"><td>Install Logging? (Y/N)</td>
+<td>Instead of Logging, we can use
+logging also.</td>
+<td>Y(Yes)</td>
+<td>If the user wish to proceed the installation
+process they can input as Y.</td>
 </tr>
-<tr class="row-odd"><td>run-as-user=&#8221;ubuntu&#8221;</td>
-<td>By using this the user can specify the name
-of the user.</td>
-<td>By using this, the user can specify their
-required user login as per their requirements.</td>
-</tr>
-<tr class="row-even"><td>&#8221; &#8211;background</td>
-<td>It allows the user to specify where to run the
-particular command either in background or in
-the front-end.|</td>
-<td>By using this, the user can specify their
-platform of usage as per their requirements.</td>
+<tr class="row-odd"><td>Install Logging? (Y/N)</td>
+<td>Instead of Logging, we can use
+logging also.</td>
+<td>N(No)</td>
+<td>If the user wish to quit the installation
+process they can input as N.|</td>
 </tr>
 </tbody>
 </table>
-<p>The syntax and table as described above can helps the user how to use the run command.</p>
+<p>If the user proceeds the installation process, the process request the users to specify the log message by asking</p>
+<div class="highlight-bash"><div class="highlight"><pre><span class="s2">&quot;Enter Log Message&quot;</span>
+
+<span class="s2">&quot;Good Morning&quot;</span>
+</pre></div>
+</div>
+<p>Once the user input the message, the give log message will be appearing on the screen as shown:</p>
+<p>&#8220;Good Morning&#8221;</p>
+<p>Finally, installation gets completed. The following screenshot depicts the process of installation pictorially.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/#  dapperstrano logging log
+Install Logging? <span class="o">(</span>Y/N<span class="o">)</span>
+Y
+*******************************
+*   Golden Contact Computing  *
+*           Logging!          *
+*******************************
+Enter Log Message
+Good Morning
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Good Morning
+... All <span class="k">done</span>!
+*******************************
+Thanks <span class="k">for</span> installing , visit www.gcsoftshop.co.uk <span class="k">for</span> more
+******************************
+
+
+Single App Installer:
+--------------------------------------------
+
+
+No Data.
+
+------------------------------
+Installer Finished
+</pre></div>
+</div>
+</div>
+<div class="section" id="how-to-define-php-error-log">
+<h2>How to define php error log<a class="headerlink" href="#how-to-define-php-error-log" title="Permalink to this headline">¶</a></h2>
+<p>The syntax for declaring the log for php error log is shown below:</p>
+<div class="highlight-bash"><div class="highlight"><pre>cleopatra logging log --php- log --log-message<span class="o">=</span><span class="s2">&quot;Here is something logging to the console and error log&quot;</span>
+</pre></div>
+</div>
+<p>Instead of</p>
+<div class="highlight-bash"><div class="highlight"><pre>log-message<span class="o">=</span><span class="s2">&quot;Here is something logging to the console and error log&quot;</span>
+</pre></div>
+</div>
+<p>the user can add any text to the portion of log message depending upon their requirements.</p>
 </div>
 <div class="section" id="benefits">
 <h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li>The parameters used for declaring help command, installation are not case sensitive which is an added advantage while compared to others.</li>
-<li>It is well-to-do in both Cent OS and as well as in Ubuntu.</li>
-<li>The users can specify the command, name of the user and also to run the either in background or front-end.</li>
-<li>The help command guides the users in how to execute the run command an also its purpose.</li>
+<li>The user can add their frequently used log message for the php error log.</li>
+<li>While installing the log the user can input and ensure the display of log message.</li>
+<li>It is well-to-do in both ubuntu and as well as in cent OS.</li>
+<li>The parameters used in declaration is not case sensitive.</li>
 </ul>
 </div>
 </div>
@@ -262,8 +307,8 @@ platform of usage as per their requirements.</td>
 
         <li>
           Go to
-        <a href="https://github.com/deepakajaylinux/kevellphara/blob/master/run_command.rst">
-          Run Command
+        <a href="https://github.com/deepakajaylinux/kevellphara/blob/master/logging_dapper.rst">
+          Logging
         </a> on GitHub.
       </li>
 

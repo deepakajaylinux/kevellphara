@@ -8,7 +8,9 @@ Dapperstrano
 .. toctree::
    :maxdepth: 6
    
- systemdetection
  apachecontrol
+ logging_dapper
  nginxcontrol
  run_command
+ systemdetection
+

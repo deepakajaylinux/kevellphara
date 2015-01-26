@@ -41,6 +41,7 @@ The following screen shot depicts pictorially about the working of help command.
 How to use Run command
 ----------------------------
 
+
 The syntax used for specifying the run command in shown below.
 
 .. code-block:: bash
@@ -63,6 +64,8 @@ The syntax used for specifying the run command in shown below.
  |				|particular command either in background or in  |platform of usage as per their requirements.	|
  |				|the front-end.|				|						|
  +------------------------------+-----------------------------------------------+-----------------------------------------------+
+
+
 
 
 The syntax and table as described above can helps the user how to use the run command.

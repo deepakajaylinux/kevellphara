@@ -12,3 +12,4 @@ Jrush
  jarticle
  juser
  testmodule
+ version

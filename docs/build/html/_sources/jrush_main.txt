@@ -6,7 +6,9 @@ Jrush
 .. toctree::
    :maxdepth: 6
 
-
- extension   
+   
  cache
+ extension
+ jarticle
+ juser
  testmodule

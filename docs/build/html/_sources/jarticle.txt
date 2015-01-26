@@ -1,5 +1,5 @@
 ===============
-Joomla Article
+JArticle
 ===============
 
 Synopsis

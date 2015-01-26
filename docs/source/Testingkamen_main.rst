@@ -142,4 +142,5 @@ Playing with Testingkamen Modules
    
 
 
- behat 
+ behat
+ phpunit_testingkamen 

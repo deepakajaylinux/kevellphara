@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Jrush &mdash; KEVELL 0.1 documentation</title>
+    <title>Test modules &mdash; KEVELL 0.1 documentation</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -29,8 +29,9 @@
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
-    <link rel="next" title="Extension" href="extension.html" />
-    <link rel="prev" title="Nginx Control" href="nginxcontrol.html" />
+    <link rel="up" title="Jrush" href="jrush_main.html" />
+    <link rel="next" title="Testingkamen" href="Testingkamen_main.html" />
+    <link rel="prev" title="Cache" href="cache.html" />
 
 
 <script src="_static/labibi.js"></script>
@@ -77,7 +78,7 @@
 <li class="toctree-l1"><a class="reference internal" href="cleopatra.html">Cleopatra</a></li>
 <li class="toctree-l1"><a class="reference internal" href="phlagrant.html">Phlagrant</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Dapperstrano_main.html">Dapperstrano</a></li>
-<li class="toctree-l1 current"><a class="current reference internal" href="">Jrush</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="jrush_main.html">Jrush</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Testingkamen_main.html">Testingkamen</a></li>
 </ul>
 </ul>
@@ -85,21 +86,30 @@
             <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Page <b class="caret"></b></a>
   <ul class="dropdown-menu localtoc"><ul>
-<li><a class="reference internal" href="#">Jrush</a></li>
+<li><a class="reference internal" href="#">Test modules</a><ul>
+<li><a class="reference internal" href="#synopsis">Synopsis</a></li>
+<li><a class="reference internal" href="#help-command">Help command</a></li>
+<li><a class="reference internal" href="#alternative-parameter">Alternative parameter</a></li>
+<li><a class="reference internal" href="#options">Options</a></li>
+<li><a class="reference internal" href="#action-one">Action-one</a></li>
+<li><a class="reference internal" href="#action-two">Action-two</a></li>
+<li><a class="reference internal" href="#benefits">Benefits</a></li>
+</ul>
+</li>
 </ul>
 </ul>
 </li>
           
           
             
-  <li><a href="nginxcontrol.html"
-         title="previous chapter">&laquo; Nginx Control</a></li>
-  <li><a href="extension.html"
-         title="next chapter">Extension &raquo;</a></li>
+  <li><a href="cache.html"
+         title="previous chapter">&laquo; Cache</a></li>
+  <li><a href="Testingkamen_main.html"
+         title="next chapter">Testingkamen &raquo;</a></li>
           
           
           <!--  <li>
-  <a href="_sources/jrush_main.txt"
+  <a href="_sources/testmodule.txt"
      rel="nofollow">Source</a></li> -->
           
         </ul>
@@ -118,41 +128,78 @@
 
   
   
-  <div class="section" id="jrush">
-<h1>Jrush<a class="headerlink" href="#jrush" title="Permalink to this headline">¶</a></h1>
-<div class="toctree-wrapper compound">
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="extension.html">Extension</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="extension.html#synopsis">Synopsis</a></li>
-<li class="toctree-l2"><a class="reference internal" href="extension.html#help-command">Help command</a></li>
-<li class="toctree-l2"><a class="reference internal" href="extension.html#alternative-parameter">Alternative parameter</a></li>
-<li class="toctree-l2"><a class="reference internal" href="extension.html#options">Options</a></li>
-<li class="toctree-l2"><a class="reference internal" href="extension.html#disable">Disable</a></li>
-<li class="toctree-l2"><a class="reference internal" href="extension.html#enable">Enable</a></li>
-<li class="toctree-l2"><a class="reference internal" href="extension.html#info">Info</a></li>
-<li class="toctree-l2"><a class="reference internal" href="extension.html#benefits">Benefits</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="cache.html">Cache</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="cache.html#synopsis">Synopsis</a></li>
-<li class="toctree-l2"><a class="reference internal" href="cache.html#help-command">Help command</a></li>
-<li class="toctree-l2"><a class="reference internal" href="cache.html#alternative-parameter">Alternative parameter</a></li>
-<li class="toctree-l2"><a class="reference internal" href="cache.html#options">Options</a></li>
-<li class="toctree-l2"><a class="reference internal" href="cache.html#site-clear">Site-clear</a></li>
-<li class="toctree-l2"><a class="reference internal" href="cache.html#admin-clear">Admin-clear</a></li>
-<li class="toctree-l2"><a class="reference internal" href="cache.html#benefits">Benefits</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="testmodule.html">Test modules</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="testmodule.html#synopsis">Synopsis</a></li>
-<li class="toctree-l2"><a class="reference internal" href="testmodule.html#help-command">Help command</a></li>
-<li class="toctree-l2"><a class="reference internal" href="testmodule.html#alternative-parameter">Alternative parameter</a></li>
-<li class="toctree-l2"><a class="reference internal" href="testmodule.html#options">Options</a></li>
-<li class="toctree-l2"><a class="reference internal" href="testmodule.html#action-one">Action-one</a></li>
-<li class="toctree-l2"><a class="reference internal" href="testmodule.html#action-two">Action-two</a></li>
-<li class="toctree-l2"><a class="reference internal" href="testmodule.html#benefits">Benefits</a></li>
-</ul>
-</li>
+  <div class="section" id="test-modules">
+<h1>Test modules<a class="headerlink" href="#test-modules" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="synopsis">
+<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
+<p>Testmodule is the most popular jrush testing module, as of this checking about extension of file and make use of it. Testmodule is a framework but can be used in concert with other testing article. As a result, TestModule provides only the baseline testing functions leaving other libraries to implement more specific and sophisticated functionality. It shows the current actions. This is comfortable with Ubuntu and cent OS.</p>
+</div>
+<div class="section" id="help-command">
+<h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
+<p>The help command guides the users regarding the purpose and as well as about the options that are included in the testmodule. It lists out the alternative parameters of testmodule. It also describes the syntax for functioning of Jrush module. The help command for testmodule is shown as below.</p>
+<div class="highlight-bash"><div class="highlight"><pre>jrush testmodules <span class="nb">help</span>
+</pre></div>
+</div>
+<p>After typing the command it lists the options as action. The following image visualize it obviously.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# jrush TestModule <span class="nb">help</span>
+****************************************
+GC JRush - The Joomla Command Line Shell
+****************************************
+
+ This <span class="nb">command </span>allows you to update TestModule.
+
+ TestModule, testmodule, <span class="nb">test</span>-module
+
+       - action-one
+       An example action. Currently, we get all titles of articles
+       example: jrush <span class="nb">test</span>-module action-one
+
+       - action-two
+       An example action. Currently, we get all titles of articles
+       example: jrush <span class="nb">test</span>-module action-two
+
+------------------------------
+End Help
+****************************************
+</pre></div>
+</div>
+</div>
+<div class="section" id="alternative-parameter">
+<h2>Alternative parameter<a class="headerlink" href="#alternative-parameter" title="Permalink to this headline">¶</a></h2>
+<p>Alternatively using Testmodule the user can utilize the following options.</p>
+<p>Test Module, testmodule, test-module.</p>
+</div>
+<div class="section" id="options">
+<h2>Options<a class="headerlink" href="#options" title="Permalink to this headline">¶</a></h2>
+<p>There are two options are available. They are as follows.
+* Action-one
+* Action-two</p>
+</div>
+<div class="section" id="action-one">
+<h2>Action-one<a class="headerlink" href="#action-one" title="Permalink to this headline">¶</a></h2>
+<p>It shows the current titles of articles. The command used to do action-one is as follows,</p>
+<div class="highlight-bash"><div class="highlight"><pre>jrush <span class="nb">test</span>-module action-one
+</pre></div>
+</div>
+<p>After gives the command it shows the current details and titles of articles. The screenshot represents the same.</p>
+</div>
+<div class="section" id="action-two">
+<h2>Action-two<a class="headerlink" href="#action-two" title="Permalink to this headline">¶</a></h2>
+<p>It shows the current titles of articles. The command used to do action-one is as follows,</p>
+<div class="highlight-bash"><div class="highlight"><pre>jrush testmodule action-two
+</pre></div>
+</div>
+<p>After gives the command it shows the current details and titles of articles.</p>
+</div>
+<div class="section" id="benefits">
+<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>Check the modules in a correct way.</li>
+<li>Non case sensitive.</li>
+<li>Less time consuming.</li>
+<li>Cheaper to upgrade in simple site.</li>
+<li>Latest update is available</li>
+<li>Suitable to work with Ubuntu and centOS.</li>
 </ul>
 </div>
 </div>
@@ -210,8 +257,8 @@
 
         <li>
           Go to
-        <a href="https://github.com/deepakajaylinux/kevellphara/blob/master/jrush_main.rst">
-          Jrush
+        <a href="https://github.com/deepakajaylinux/kevellphara/blob/master/testmodule.rst">
+          Test modules
         </a> on GitHub.
       </li>
 

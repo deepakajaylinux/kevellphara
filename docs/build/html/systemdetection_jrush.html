@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Jrush &mdash; KEVELL 0.1 documentation</title>
+    <title>System Detection &mdash; KEVELL 0.1 documentation</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -29,8 +29,9 @@
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
-    <link rel="next" title="Cache" href="cache.html" />
-    <link rel="prev" title="System Detection" href="systemdetection.html" />
+    <link rel="up" title="Jrush" href="jrush_main.html" />
+    <link rel="next" title="Test module" href="testmodule.html" />
+    <link rel="prev" title="JUser" href="juser.html" />
 
 
 <script src="_static/labibi.js"></script>
@@ -77,7 +78,7 @@
 <li class="toctree-l1"><a class="reference internal" href="cleopatra.html">Cleopatra</a></li>
 <li class="toctree-l1"><a class="reference internal" href="phlagrant.html">Phlagrant</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Dapperstrano_main.html">Dapperstrano</a></li>
-<li class="toctree-l1 current"><a class="current reference internal" href="">Jrush</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="jrush_main.html">Jrush</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Testingkamen_main.html">Testingkamen</a></li>
 </ul>
 </ul>
@@ -85,21 +86,28 @@
             <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Page <b class="caret"></b></a>
   <ul class="dropdown-menu localtoc"><ul>
-<li><a class="reference internal" href="#">Jrush</a></li>
+<li><a class="reference internal" href="#">System Detection</a><ul>
+<li><a class="reference internal" href="#synopsis">Synopsis</a></li>
+<li><a class="reference internal" href="#help-command">Help command</a></li>
+<li><a class="reference internal" href="#detect">Detect</a></li>
+<li><a class="reference internal" href="#alternative-parameters">Alternative Parameters</a></li>
+<li><a class="reference internal" href="#benefits">Benefits</a></li>
+</ul>
+</li>
 </ul>
 </ul>
 </li>
           
           
             
-  <li><a href="systemdetection.html"
-         title="previous chapter">&laquo; System Detection</a></li>
-  <li><a href="cache.html"
-         title="next chapter">Cache &raquo;</a></li>
+  <li><a href="juser.html"
+         title="previous chapter">&laquo; JUser</a></li>
+  <li><a href="testmodule.html"
+         title="next chapter">Test module &raquo;</a></li>
           
           
           <!--  <li>
-  <a href="_sources/jrush_main.txt"
+  <a href="_sources/systemdetection_jrush.txt"
      rel="nofollow">Source</a></li> -->
           
         </ul>
@@ -118,78 +126,106 @@
 
   
   
-  <div class="section" id="jrush">
-<h1>Jrush<a class="headerlink" href="#jrush" title="Permalink to this headline">¶</a></h1>
-<div class="toctree-wrapper compound">
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="cache.html">Cache</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="cache.html#synopsis">Synopsis</a></li>
-<li class="toctree-l2"><a class="reference internal" href="cache.html#help-command">Help command</a></li>
-<li class="toctree-l2"><a class="reference internal" href="cache.html#alternative-parameter">Alternative parameter</a></li>
-<li class="toctree-l2"><a class="reference internal" href="cache.html#options">Options</a></li>
-<li class="toctree-l2"><a class="reference internal" href="cache.html#site-clear">Site-clear</a></li>
-<li class="toctree-l2"><a class="reference internal" href="cache.html#admin-clear">Admin-clear</a></li>
-<li class="toctree-l2"><a class="reference internal" href="cache.html#benefits">Benefits</a></li>
+  <div class="section" id="system-detection">
+<h1>System Detection<a class="headerlink" href="#system-detection" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="synopsis">
+<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
+<p>This module aims at detecting the user’s machine and in hand provides them the necessary information to them regarding the users system. It also provides a facility to the users to configure their applications settings. The few examples for applications settings includes my sql admin user, Architecture, admin user, host, version, linux type, Distro. It is comfortable with Ubuntu and cent OS.</p>
+</div>
+<div class="section" id="help-command">
+<h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
+<p>The help command leads the users regarding the purpose and as well as about the options that are included in the System detection modules. The help command lists out the alternative parameters of System detection under Jrush module. It also describes the syntax for detecting the user’s machine. The help command for System detection is shown below.</p>
+<div class="highlight-bash"><div class="highlight"><pre>jrush systemdetection <span class="nb">help</span>
+</pre></div>
+</div>
+<p>The syntax for the help command non case sensitive which adds an advantage for this module. The following screenshot visualize the user about the help command under system detection.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# jrush systemdetection <span class="nb">help</span>
+****************************************
+GC JRush - The Joomla Command Line Shell
+****************************************
+
+ This is a default Module and provides you with a method by which you can configure Application Settings.
+ You can configure default application settings, ie: mysql admin user, host, pass
+
+ SystemDetection, system-detection, systemdetection
+
+       - detect
+       Detects the Operating System
+       example: cleopatra system-detection detect
+
+------------------------------
+End Help
+****************************************
+</pre></div>
+</div>
+</div>
+<div class="section" id="detect">
+<h2>Detect<a class="headerlink" href="#detect" title="Permalink to this headline">¶</a></h2>
+<p>Detect used to detect the system settings. By using a single command the user can get all the information about the system application.
+The command used for system detection is given below.</p>
+<div class="highlight-bash"><div class="highlight"><pre>jrush systemdetection detect
+</pre></div>
+</div>
+<p>After keying the above command, the process of system detection starts. During system detection the following information&#8217;s regarding the corresponding machine are reported:</p>
+<ul class="simple">
+<li>Operating System</li>
+<li>Linux Type</li>
+<li>Distro</li>
+<li>Version</li>
+<li>Architecture</li>
+<li>Host Name</li>
+<li>IP Address 0.</li>
+<li>IP Address 1.</li>
 </ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="extension.html">Extension</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="extension.html#synopsis">Synopsis</a></li>
-<li class="toctree-l2"><a class="reference internal" href="extension.html#help-command">Help command</a></li>
-<li class="toctree-l2"><a class="reference internal" href="extension.html#alternative-parameter">Alternative parameter</a></li>
-<li class="toctree-l2"><a class="reference internal" href="extension.html#options">Options</a></li>
-<li class="toctree-l2"><a class="reference internal" href="extension.html#disable">Disable</a></li>
-<li class="toctree-l2"><a class="reference internal" href="extension.html#enable">Enable</a></li>
-<li class="toctree-l2"><a class="reference internal" href="extension.html#info">Info</a></li>
-<li class="toctree-l2"><a class="reference internal" href="extension.html#benefits">Benefits</a></li>
+<p>Finally, after detection the information regarding the above mentioned features are clearly reported. The following screen shot depicts you about the process of system detection.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra system-detection detect
+******************************
+
+
+Systems Detection:
+--------------------------------------------
+
+Operating System: Linux
+Linux Type: Debian
+Distro: Ubuntu
+Version: 14.04
+Architecture: 64
+Host Name: udayakumar
+IP Address 0: 127.0.0.1
+IP Address 1: 192.168.1.24
+
+------------------------------
+Detection Finished
+******************************
+</pre></div>
+</div>
+</div>
+<div class="section" id="alternative-parameters">
+<h2>Alternative Parameters<a class="headerlink" href="#alternative-parameters" title="Permalink to this headline">¶</a></h2>
+<p>Instead of system detection, the following parameters can be used:</p>
+<ul class="simple">
+<li>System Detection</li>
+<li>system-detection</li>
+<li>system detection</li>
 </ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="jarticle.html">JArticle</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="jarticle.html#synopsis">Synopsis</a></li>
-<li class="toctree-l2"><a class="reference internal" href="jarticle.html#help-command">Help Command</a></li>
-<li class="toctree-l2"><a class="reference internal" href="jarticle.html#enable">Enable</a></li>
-<li class="toctree-l2"><a class="reference internal" href="jarticle.html#info">Info</a></li>
-<li class="toctree-l2"><a class="reference internal" href="jarticle.html#disable">Disable</a></li>
-<li class="toctree-l2"><a class="reference internal" href="jarticle.html#alternative-parameter">Alternative Parameter</a></li>
-<li class="toctree-l2"><a class="reference internal" href="jarticle.html#benefits">Benefits</a></li>
+</div>
+<div class="section" id="benefits">
+<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>The users can configure the application settings using this system detections.</li>
+<li>The parameters used for declaring help command, system detection are not case sensitive which an added advantage while compared to others is.</li>
+<li>It is well-to-do in both Cent OS and as well as in Ubuntu.</li>
+<li>Protection and security is possible. Preventing harm to the system and to resources, through internal processes or malicious outsiders.
+Authentication, ownership, and restricted access are obvious parts of this system.</li>
+<li>System administrators generally determine which interface a user starts with when they first log in.</li>
+<li>Generally written in PHP, although some are written in assembly for optimal performance.</li>
 </ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="juser.html">JUser</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="juser.html#synopsis">Synopsis</a></li>
-<li class="toctree-l2"><a class="reference internal" href="juser.html#help-command">Help Command</a></li>
-<li class="toctree-l2"><a class="reference internal" href="juser.html#delete">Delete</a></li>
-<li class="toctree-l2"><a class="reference internal" href="juser.html#info">Info</a></li>
-<li class="toctree-l2"><a class="reference internal" href="juser.html#password">Password</a></li>
-<li class="toctree-l2"><a class="reference internal" href="juser.html#alternative-parameter">Alternative Parameter</a></li>
-<li class="toctree-l2"><a class="reference internal" href="juser.html#benefits">Benefits</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="systemdetection_jrush.html">System Detection</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="systemdetection_jrush.html#synopsis">Synopsis</a></li>
-<li class="toctree-l2"><a class="reference internal" href="systemdetection_jrush.html#help-command">Help command</a></li>
-<li class="toctree-l2"><a class="reference internal" href="systemdetection_jrush.html#detect">Detect</a></li>
-<li class="toctree-l2"><a class="reference internal" href="systemdetection_jrush.html#alternative-parameters">Alternative Parameters</a></li>
-<li class="toctree-l2"><a class="reference internal" href="systemdetection_jrush.html#benefits">Benefits</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="testmodule.html">Test module</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="testmodule.html#synopsis">Synopsis</a></li>
-<li class="toctree-l2"><a class="reference internal" href="testmodule.html#help-command">Help command</a></li>
-<li class="toctree-l2"><a class="reference internal" href="testmodule.html#alternative-parameter">Alternative parameter</a></li>
-<li class="toctree-l2"><a class="reference internal" href="testmodule.html#options">Options</a></li>
-<li class="toctree-l2"><a class="reference internal" href="testmodule.html#action-one">Action-one</a></li>
-<li class="toctree-l2"><a class="reference internal" href="testmodule.html#action-two">Action-two</a></li>
-<li class="toctree-l2"><a class="reference internal" href="testmodule.html#benefits">Benefits</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="version.html">Version</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="version.html#synopsis">Synopsis</a></li>
-<li class="toctree-l2"><a class="reference internal" href="version.html#help-command">Help Command</a></li>
-<li class="toctree-l2"><a class="reference internal" href="version.html#available">Available</a></li>
-<li class="toctree-l2"><a class="reference internal" href="version.html#current">Current</a></li>
-<li class="toctree-l2"><a class="reference internal" href="version.html#alternative-parameter">Alternative Parameter</a></li>
-<li class="toctree-l2"><a class="reference internal" href="version.html#benefits">Benefits</a></li>
-</ul>
-</li>
+<p>The system detection module provides the support:</p>
+<ul class="simple">
+<li>Identify a remote process and/or host with which to communicate.</li>
+<li>Establish a connection between the two processes.</li>
+<li>Open and close the connection as needed.</li>
+<li>Transmit messages along the connection.</li>
 </ul>
 </div>
 </div>
@@ -247,8 +283,8 @@
 
         <li>
           Go to
-        <a href="https://github.com/deepakajaylinux/kevellphara/blob/master/jrush_main.rst">
-          Jrush
+        <a href="https://github.com/deepakajaylinux/kevellphara/blob/master/systemdetection_jrush.rst">
+          System Detection
         </a> on GitHub.
       </li>
 

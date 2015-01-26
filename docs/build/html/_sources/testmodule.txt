@@ -1,5 +1,5 @@
 =============
-Test modules
+Test module
 =============
 
 Synopsis

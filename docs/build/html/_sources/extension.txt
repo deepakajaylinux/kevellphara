@@ -59,9 +59,9 @@ Options
 
 There are three options are available. Let us see about the extension option.
 
-Enable
-Disable
-Info
+* Enable
+* Disable
+* Info
 
 Disable
 -----------

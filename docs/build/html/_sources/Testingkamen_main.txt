@@ -144,3 +144,4 @@ Playing with Testingkamen Modules
 
  behat
  phpunit_testingkamen 
+ systemdetection_testingkamen

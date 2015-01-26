@@ -16,8 +16,8 @@ Commands
  cleopatra
  phlagrant
  Dapperstrano_main 
-
-
+ jrush_main
+ Testingkamen_main
 
 Indices and tables
 ==================

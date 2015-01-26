@@ -11,3 +11,4 @@ Dapperstrano
  systemdetection
  apachecontrol
  nginxcontrol
+ run_command

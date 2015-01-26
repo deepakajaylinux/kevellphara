@@ -41,6 +41,7 @@ The following screen shot depicts pictorially about the working of help command.
  End Help
  ******************************
 
+
 How to Initialize Behat
 -----------------------------
 
@@ -56,7 +57,9 @@ or
 
 		testingkamen behat initialize
 
+
 After inputting the command above, the process of initialize occurs as depicted in the below table.
+
 
 .. cssclass:: table-bordered
 
@@ -69,6 +72,7 @@ After inputting the command above, the process of initialize occurs as depicted 
  |Initialize Behat? (Y/N)|Instead of Behat, we can use behat also |N(No)		  |If the user wish to quit the init 	  |
  |			 |					  |			  |process they can input as N.|	  |
  +-----------------------+----------------------------------------+-----------------------+---------------------------------------+
+
 
 
 Finally the testingkamen behat gets initialized as shown in the following screenshot.
@@ -112,11 +116,13 @@ Finally the testingkamen behat gets initialized as shown in the following screen
 
 How to Execute the Behat
 ---------------------------
+
 The command used for executing the behat under testingkamen is shown:
 
 .. code-block:: bash
 
 		testingkamen behat execute
+
 
 After inputting the command above, the process of execution occurs as depicted in the below table.
 
@@ -131,6 +137,7 @@ After inputting the command above, the process of execution occurs as depicted i
  |Execute Behat? (Y/N)   |Instead of Behat, we can use behat also |N(No)                  |If the user wish to quit the 	  |
  |                       |                                        |                       |execution process they can input as N.||
  +-----------------------+----------------------------------------+-----------------------+---------------------------------------+
+
 
 If the user proceed the execution, the process of execution will occur as depicted in the following screenshot.
 

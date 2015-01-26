@@ -553,6 +553,7 @@ Playing with Cleopatra Modules
    ApacheModules
    apachereverseproxy
    chgrp
+   chgrp1
    chown
    citadel
    cleo

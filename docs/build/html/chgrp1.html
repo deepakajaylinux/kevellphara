@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>SystemDetection &mdash; KEVELL 0.1 documentation</title>
+    <title>Change Group &mdash; KEVELL 0.1 documentation</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -29,9 +29,6 @@
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
-    <link rel="up" title="Testingkamen" href="Testingkamen_main.html" />
-    <link rel="next" title="Templating" href="templating.html" />
-    <link rel="prev" title="PhpUnit" href="phpunit_testingkamen.html" />
 
 
 <script src="_static/labibi.js"></script>
@@ -74,23 +71,23 @@
           
             <li class="dropdown">
   <a href="index.html" class="dropdown-toggle" data-toggle="dropdown">Site <b class="caret"></b></a>
-  <ul class="dropdown-menu globaltoc"><ul class="current">
+  <ul class="dropdown-menu globaltoc"><ul>
 <li class="toctree-l1"><a class="reference internal" href="cleopatra.html">Cleopatra</a></li>
 <li class="toctree-l1"><a class="reference internal" href="phlagrant.html">Phlagrant</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Dapperstrano_main.html">Dapperstrano</a></li>
 <li class="toctree-l1"><a class="reference internal" href="jrush_main.html">Jrush</a></li>
-<li class="toctree-l1 current"><a class="reference internal" href="Testingkamen_main.html">Testingkamen</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Testingkamen_main.html">Testingkamen</a></li>
 </ul>
 </ul>
 </li>
             <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Page <b class="caret"></b></a>
   <ul class="dropdown-menu localtoc"><ul>
-<li><a class="reference internal" href="#">SystemDetection</a><ul>
+<li><a class="reference internal" href="#">Change Group</a><ul>
 <li><a class="reference internal" href="#synopsis">Synopsis</a></li>
-<li><a class="reference internal" href="#help-command">Help command</a></li>
-<li><a class="reference internal" href="#detect">Detect</a></li>
-<li><a class="reference internal" href="#alternative-parameters">Alternative Parameters</a></li>
+<li><a class="reference internal" href="#help-command">Help Command</a></li>
+<li><a class="reference internal" href="#path">Path</a></li>
+<li><a class="reference internal" href="#alternative-parameter">Alternative Parameter</a></li>
 <li><a class="reference internal" href="#benefits">Benefits</a></li>
 </ul>
 </li>
@@ -100,14 +97,10 @@
           
           
             
-  <li><a href="phpunit_testingkamen.html"
-         title="previous chapter">&laquo; PhpUnit</a></li>
-  <li><a href="templating.html"
-         title="next chapter">Templating &raquo;</a></li>
           
           
           <!--  <li>
-  <a href="_sources/systemdetection_testingkamen.txt"
+  <a href="_sources/chgrp1.txt"
      rel="nofollow">Source</a></li> -->
           
         </ul>
@@ -126,31 +119,33 @@
 
   
   
-  <div class="section" id="systemdetection">
-<h1>SystemDetection<a class="headerlink" href="#systemdetection" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="change-group">
+<h1>Change Group<a class="headerlink" href="#change-group" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="synopsis">
 <h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
-<p>This module aims at detecting the user’s machine and in hand provides them the necessary information to them regarding the users system. It also provides a facility to the users to configure their applications settings. The few examples for applications settings include mysql admin user, Architecture, admin user, host, version, linux type, Distro. It is comfortable with Ubuntu and cent OS.</p>
+<p>Files and directories belong to both an owner and a group. A group usually consists of a collection of users, all belonging to the same group. The first set of three is the read, write, and execute permissions for the owner of the file.</p>
+<p>A group can also consist of one user, normally the user who creates the file. Each user on the system, including the root user, is assigned his or her own group of which he or she is the only member, ensuring access only by that user. The second set of three is the read, write, and execute permissions for anyone who belongs to the user group for the file.</p>
+<p>The root user, the system administrator, owns most of the system files that also belong to the root group, of which only the root user is a member. Most administration files, like configuration files in the /etc directory, are owned by the root user and belong to the root group. Only the root user has permission to modify them, whereas normal users can read and, in the case of programs, also execute them</p>
 </div>
 <div class="section" id="help-command">
-<h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
-<p>The help command leads the users regarding the purpose and as well as about the options that are included in the System detection modules. The help command lists out the alternative parameters of System detection under Testingkamen module. It also describes the syntax for detecting theuser’s machine. The help command for System detection is shown below.</p>
-<div class="highlight-bash"><div class="highlight"><pre>testingkamen systemdetection <span class="nb">help</span>
+<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
+<p>This command helps to determine the usage of Change group module. The user will come to know about the different way/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same.</p>
+<div class="highlight-bash"><div class="highlight"><pre>cleopatra Chgrp <span class="nb">help</span>
 </pre></div>
 </div>
-<p>The syntax for help command is non-case sensitive which adds an advantage for this module. The following screenshot visualize about the help command under system detection.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# testingkamen systemdetection <span class="nb">help</span>
+<p>The pictorial representation of the screenshot is given below,</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/#  cleopatra Chgrp <span class="nb">help</span>
 ******************************
 
 
- This is a default Module and provides you with a method by which you can configure Application Settings.
- You can configure default application settings, ie: mysql admin user, host, pass
+ This <span class="nb">command </span>handles file group ownership changing functions.
 
- SystemDetection, system-detection, systemdetection
+ Chgrp, chgrp
 
-       - detect
-       Detects the Operating System
-       example: cleopatra system-detection detect
+       - path
+       Will change the file group ownership of a path
+       example: cleopatra chgrp path --yes --guess --recursive --path<span class="o">=</span>/a/file/path --group<span class="o">=</span>golden
+
 
 ------------------------------
 End Help
@@ -158,64 +153,25 @@ End Help
 </pre></div>
 </div>
 </div>
-<div class="section" id="detect">
-<h2>Detect<a class="headerlink" href="#detect" title="Permalink to this headline">¶</a></h2>
-<p>When the user needs to detect the system settings, the below given command will get all the information about the system application.</p>
-<div class="highlight-bash"><div class="highlight"><pre>testingkamen systemdetection detect
-</pre></div>
-</div>
-<p>System ends up with providing the below given details:</p>
-<ul class="simple">
-<li>Operating System</li>
-<li>Linux Type</li>
-<li>Distro</li>
-<li>Version</li>
-<li>Architecture</li>
-<li>Host Name</li>
-<li>IP Address 0.</li>
-</ul>
-<p>The following screen shot depicts you about the process of system detection.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra system-detection detect
-******************************
-
-
-Systems Detection:
---------------------------------------------
-
-Operating System: Linux
-Linux Type: Debian
-Distro: Ubuntu
-Version: 14.04
-Architecture: 64
-Host Name: udayakumar
-IP Address 0: 127.0.0.1
-IP Address 1: 192.168.1.24
-
-------------------------------
-Detection Finished
-******************************
+<div class="section" id="path">
+<h2>Path<a class="headerlink" href="#path" title="Permalink to this headline">¶</a></h2>
+<p>When the user needs to change the file group ownership of a path, the below given command will execute the process.</p>
+<div class="highlight-bash"><div class="highlight"><pre>cleopatra chgrp path –yes –guess –recursive –path<span class="o">=</span>/”File path” –group<span class="o">=</span>”group name”
 </pre></div>
 </div>
 </div>
-<div class="section" id="alternative-parameters">
-<h2>Alternative Parameters<a class="headerlink" href="#alternative-parameters" title="Permalink to this headline">¶</a></h2>
-<p>Instead of system detection, the following parameters can be used:</p>
-<ul class="simple">
-<li>SystemDetection</li>
-<li>system-detection</li>
-<li>systemdetection</li>
-</ul>
+<div class="section" id="alternative-parameter">
+<h2>Alternative Parameter<a class="headerlink" href="#alternative-parameter" title="Permalink to this headline">¶</a></h2>
+<p>There are two alternative parameters which can be used in command line.</p>
+<p>chgrp, Chgrp</p>
+<p>Eg: cleopatra Chgrp path/ cleopatra chgrp path</p>
 </div>
 <div class="section" id="benefits">
 <h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li>The users can configure the application settings using this system detection.</li>
-<li>The parameters used for declaring help command, system detection are not case sensitive which an added advantage while compared to others is.</li>
-<li>It is well-to-do in both Cent OS and as well as in Ubuntu.</li>
-<li>Protection and security is possible. Preventing harm to the system and to resources, through internal processes or malicious outsiders.
-Authntication, ownership, and restricted access are obvious parts of this system.</li>
-<li>System administrators generally determine which interface a user starts with when they first log in.</li>
-<li>Generally written in PHP, although some are written in assembly for optimal performance.</li>
+<li>Although other users may be able to access a file, only the owner can change its permissions. If you want to give other user to control over   one of your file&#8217;s permissions, you can change the owner of the file from yourself to the other user.</li>
+<li>You can also change the group for a file and directories, using the chgrp command. chgrp takes as its first argument the name of the new
+group for a files or directories.</li>
 </ul>
 </div>
 </div>
@@ -273,8 +229,8 @@ Authntication, ownership, and restricted access are obvious parts of this system
 
         <li>
           Go to
-        <a href="https://github.com/deepakajaylinux/kevellphara/blob/master/systemdetection_testingkamen.rst">
-          SystemDetection
+        <a href="https://github.com/deepakajaylinux/kevellphara/blob/master/chgrp1.rst">
+          Change Group
         </a> on GitHub.
       </li>
 

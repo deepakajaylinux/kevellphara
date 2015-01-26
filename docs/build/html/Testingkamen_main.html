@@ -29,7 +29,7 @@
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
-    <link rel="prev" title="available module" href="jrush_main.html" />
+    <link rel="prev" title="Test module" href="testmodule.html" />
 
 
 <script src="_static/labibi.js"></script>
@@ -76,7 +76,7 @@
 <li class="toctree-l1"><a class="reference internal" href="cleopatra.html">Cleopatra</a></li>
 <li class="toctree-l1"><a class="reference internal" href="phlagrant.html">Phlagrant</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Dapperstrano_main.html">Dapperstrano</a></li>
-<li class="toctree-l1"><a class="reference internal" href="jrush_main.html">available module</a></li>
+<li class="toctree-l1"><a class="reference internal" href="jrush_main.html">Jrush</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="">Testingkamen</a></li>
 </ul>
 </ul>
@@ -84,15 +84,23 @@
             <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Page <b class="caret"></b></a>
   <ul class="dropdown-menu localtoc"><ul>
-<li><a class="reference internal" href="#">Testingkamen</a></li>
+<li><a class="reference internal" href="#">Testingkamen</a><ul>
+<li><a class="reference internal" href="#synopsis">Synopsis</a></li>
+<li><a class="reference internal" href="#help-command">Help Command</a></li>
+<li><a class="reference internal" href="#installation">Installation</a></li>
+<li><a class="reference internal" href="#installing-testingkamen-via-cleopatra">Installing testingkamen via cleopatra</a></li>
+<li><a class="reference internal" href="#installing-the-testingkamen-without-depending-on-cleopatra">Installing the testingkamen without depending on cleopatra</a></li>
+<li><a class="reference internal" href="#how-to-use-and-available-modules">How to Use and Available Modules</a></li>
+</ul>
+</li>
 </ul>
 </ul>
 </li>
           
           
             
-  <li><a href="jrush_main.html"
-         title="previous chapter">&laquo; available module</a></li>
+  <li><a href="testmodule.html"
+         title="previous chapter">&laquo; Test module</a></li>
           
           
           <!--  <li>
@@ -117,6 +125,116 @@
   
   <div class="section" id="testingkamen">
 <h1>Testingkamen<a class="headerlink" href="#testingkamen" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="synopsis">
+<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
+<p>The testingkamen aims at test configuration and execution automation management with the aid of php.</p>
+<p>It use common set of rules across a range of tools and technologies for handling the test suite configuration and execution.</p>
+<p>It provides common API to execute tests in a wide range of languages and test tools. The user can run complex test suites with little or no extra configuration needed. It nourishes the users tests by manual or using an operating system and in hand ensures the environmental stability.</p>
+<p>It is modular, object-oriented and extensible. So if the users feels any extra modules as required they can frame and add their own module depending upon their requirements.</p>
+<p>It is a part of pharaoh tool suite that envelops the Configuration Management, Test Automation Management, Automated Deployment, Build and Release Management and more, all implemented in code, and all in PHP.</p>
+</div>
+<div class="section" id="help-command">
+<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
+<p>If you want to know the purpose of a particular module, just type the command as follows:</p>
+<div class="highlight-bash"><div class="highlight"><pre>testingkamen ModuleName <span class="nb">help</span>
+</pre></div>
+</div>
+<p>this command will provide the usage of that particular module and also the available options in actions that you can perform. The screenshot shown under explains the usage of the module behat under testingkamen using the help command.</p>
+<p>The help command also lists the alternative parameters that can be used in declaration.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# testingkamen Behat <span class="nb">help</span>
+******************************
+
+
+ This <span class="nb">command </span>allows you to initialize a Behat <span class="nb">test </span>suite.
+
+ Behat, behat
+
+       - init, initialize
+       Initialises the Behat <span class="nb">test </span>suite of this project
+       example: testingkamen behat init
+       example: testingkamen behat initialize
+
+       - execute
+       Executes the Behat <span class="nb">test </span>suite of this project
+       example: testingkamen behat execute
+
+------------------------------
+End Help
+******************************
+</pre></div>
+</div>
+</div>
+<div class="section" id="installation">
+<h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
+<p>Installing the testingkamen can be done in two possible ways depending upon the availability and requirements of the users. They two ways of installing testingkamen are:</p>
+<ul class="simple">
+<li>Installing testingkamen via cleopatra</li>
+<li>Installing the testingkamen without depending on cleopatra.</li>
+</ul>
+</div>
+<div class="section" id="installing-testingkamen-via-cleopatra">
+<h2>Installing testingkamen via cleopatra<a class="headerlink" href="#installing-testingkamen-via-cleopatra" title="Permalink to this headline">¶</a></h2>
+<p>If the user have the cleopatra in their machine, then it is the simpler way to install testingkamen by using the following command:</p>
+<div class="highlight-bash"><div class="highlight"><pre>sudo cleopatra testingkamen install --yes --guess
+</pre></div>
+</div>
+</div>
+<div class="section" id="installing-the-testingkamen-without-depending-on-cleopatra">
+<h2>Installing the testingkamen without depending on cleopatra<a class="headerlink" href="#installing-the-testingkamen-without-depending-on-cleopatra" title="Permalink to this headline">¶</a></h2>
+<p>If the user wish to install the testingkamen without depending and using the cleopatra they can use the following command:</p>
+<div class="highlight-bash"><div class="highlight"><pre>sudo apt-get install php5 git
+</pre></div>
+</div>
+<div class="highlight-bash"><div class="highlight"><pre>git clone https://github.com/phpengine/testingkamen <span class="o">&amp;&amp;</span> sudo php testingkamen/install-silent
+</pre></div>
+</div>
+<p>or</p>
+<p>The below command is predictable for the users who wish to specify the location during installation.</p>
+<div class="highlight-bash"><div class="highlight"><pre>git clone https://github.com/phpengine/testingkamen <span class="o">&amp;&amp;</span> sudo php testingkamen/install
+</pre></div>
+</div>
+</div>
+<div class="section" id="how-to-use-and-available-modules">
+<h2>How to Use and Available Modules<a class="headerlink" href="#how-to-use-and-available-modules" title="Permalink to this headline">¶</a></h2>
+<p>Let us see, how to use the Testingkamen tool, first, simply type as</p>
+<div class="highlight-bash"><div class="highlight"><pre>Testingkamen
+</pre></div>
+</div>
+<p>this command will list all the names of the modules that are available under Testingkamen. The following screen shot depicts that visually.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# testingkamen
+******************************
+
+
+Testingkamen by Golden Contact Computing
+-------------------
+
+About:
+-----------------
+Testingkamen is <span class="k">for</span> Test Automation. It can be used to generate starter <span class="nb">test </span>suites <span class="k">for</span> your applications,
+and automated <span class="nb">test </span>execution scripts within minutes.
+
+By providing an common API by which to execute tests in a wide range
+of languages and <span class="nb">test </span>tools, you can run complex <span class="nb">test </span>suites across a range of platforms with little to no
+extra configuration.
+
+-------------------------------------------------------------
+
+Available Commands:
+---------------------------------------
+
+Autopilot - Cleopatra Autopilot - User Defined Installations
+Behat - Behat - Initialize or Execute a Behat Test Suite
+Cucumber - Cucumber - Initialize or Execute a Cucumber Test Suite
+EnvironmentConfig - Environment Configuration - Configure Environments <span class="k">for</span> a project
+PHPUnit - PHPUnit - Initialize or Execute a PHPUnit Test Suite
+SystemDetection - System Detection - Detect the Running Operating System
+Templating - Templating
+Testify - Testifyer - Creates default tests <span class="k">for</span> your project
+
+******************************
+</pre></div>
+</div>
+</div>
 </div>
 
 

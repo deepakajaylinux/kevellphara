@@ -134,3 +134,12 @@ this command will list all the names of the modules that are available under Tes
 
  ******************************
 
+Playing with Testingkamen Modules
+------------------------------------
+
+.. toctree::
+   :maxdepth: 6
+   
+
+
+ behat 

@@ -560,6 +560,7 @@ Playing with Cleopatra Modules
    composermodule
    copy
    copy1
+   environmentconfig
    file
    firefox
    firefox14

@@ -30,8 +30,8 @@
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
     <link rel="up" title="Jrush" href="jrush_main.html" />
-    <link rel="next" title="Test module" href="testmodule.html" />
-    <link rel="prev" title="JArticle" href="jarticle.html" />
+    <link rel="next" title="System Detection" href="systemdetection_jrush.html" />
+    <link rel="prev" title="JConfiguration" href="jconfiguration.html" />
 
 
 <script src="_static/labibi.js"></script>
@@ -102,10 +102,10 @@
           
           
             
-  <li><a href="jarticle.html"
-         title="previous chapter">&laquo; JArticle</a></li>
-  <li><a href="testmodule.html"
-         title="next chapter">Test module &raquo;</a></li>
+  <li><a href="jconfiguration.html"
+         title="previous chapter">&laquo; JConfiguration</a></li>
+  <li><a href="systemdetection_jrush.html"
+         title="next chapter">System Detection &raquo;</a></li>
           
           
           <!--  <li>
@@ -175,11 +175,54 @@ End Help
 <div class="highlight-bash"><div class="highlight"><pre>jrush juser delete ..config <span class="nv">file</span><span class="o">=</span>”bootstrap file path”
 </pre></div>
 </div>
+<p>The pictorial representation of the above command is listed below,</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# jrush juser delete --config-file<span class="o">=</span><span class="s2">&quot;/var/www/html/joomla/configuration.php&quot;</span>
+Enter a JUser ID. To enter email/username use --user-email or --username parameters
+2
+****************************************
+GC JRush - The Joomla Command Line Shell
+****************************************
+
+JUser Delete:
+-------------------------
+
+The following user has been deleted:
+
+User ID: 0
+Name:
+User Name:
+Email:
+------------------------------
+JUser Delete Finished
+****************************************
+</pre></div>
+</div>
 </div>
 <div class="section" id="info">
 <h2>Info<a class="headerlink" href="#info" title="Permalink to this headline">¶</a></h2>
 <p>When the user needs to display the details of a user in machine, the below given command will execute the process of installation.</p>
 <div class="highlight-bash"><div class="highlight"><pre>jrush juser info ..config <span class="nv">file</span><span class="o">=</span>”bootstrap file path”
+</pre></div>
+</div>
+<p>The pictorial representation of the above command is listed below,</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# jrush juser info --config-file<span class="o">=</span><span class="s2">&quot;/var/www/html/joomla/configuration.php&quot;</span>
+Enter a JUser ID. To enter email/username use --user-email or --username parameters
+1
+****************************************
+GC JRush - The Joomla Command Line Shell
+****************************************
+
+JUser Info:
+-------------------------
+
+User ID:
+Name:
+User Name:
+Email:
+
+------------------------------
+JUser Info Finished
+****************************************
 </pre></div>
 </div>
 </div>
@@ -194,6 +237,29 @@ End Help
 <h2>Alternative Parameter<a class="headerlink" href="#alternative-parameter" title="Permalink to this headline">¶</a></h2>
 <p>Either of the two alternative parameter can be used in command- juser and JUser</p>
 <p>eg: jrush juser info ..config file=”bootstrap file path” / jrush JUser info ..config file=”bootstrap file path”</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# jrush juser password --config-file<span class="o">=</span><span class="s2">&quot;/var/www/html/joomla/configuration.php&quot;</span>
+Enter a JUser ID. To enter email/username use --user-email or --username parameters
+5
+Enter a new Password. To enter as parameter use --password
+12345
+****************************************
+GC JRush - The Joomla Command Line Shell
+****************************************
+
+JUser Password:
+-------------------------
+
+User ID: 0
+Name:
+User Name:
+Email:
+User Password: NOT SET
+
+------------------------------
+JUser Password Finished
+****************************************
+</pre></div>
+</div>
 </div>
 <div class="section" id="benefits">
 <h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>

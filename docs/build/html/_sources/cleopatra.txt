@@ -553,6 +553,7 @@ Playing with Cleopatra Modules
    ApacheModules
    apachereverseproxy
    apacheserver
+   behatcleo
    chgrp
    chgrp1
    chown

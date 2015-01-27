@@ -59,6 +59,31 @@ When the user needs to delete an user in machine, the below given command will e
         
 	        jrush juser delete ..config file=”bootstrap file path”
 
+The pictorial representation of the above command is listed below,
+
+.. code-block:: bash
+
+ kevells@corp:/# jrush juser delete --config-file="/var/www/html/joomla/configuration.php"
+ Enter a JUser ID. To enter email/username use --user-email or --username parameters
+ 2
+ ****************************************
+ GC JRush - The Joomla Command Line Shell
+ ****************************************
+
+ JUser Delete:
+ -------------------------
+
+ The following user has been deleted:
+
+ User ID: 0
+ Name: 
+ User Name: 
+ Email: 
+ ------------------------------
+ JUser Delete Finished
+ ****************************************
+
+
 Info
 ----------------
 
@@ -68,6 +93,29 @@ When the user needs to display the details of a user in machine, the below given
         
 	        jrush juser info ..config file=”bootstrap file path”
 
+The pictorial representation of the above command is listed below,
+
+.. code-block:: bash
+
+
+ kevells@corp:/# jrush juser info --config-file="/var/www/html/joomla/configuration.php"
+ Enter a JUser ID. To enter email/username use --user-email or --username parameters
+ 1
+ ****************************************
+ GC JRush - The Joomla Command Line Shell
+ ****************************************
+
+ JUser Info:
+ -------------------------
+ 
+ User ID: 
+ Name: 
+ User Name: 
+ Email: 
+
+ ------------------------------
+ JUser Info Finished
+ ****************************************
 
 Password
 ----------------
@@ -85,6 +133,31 @@ Alternative Parameter
 Either of the two alternative parameter can be used in command- juser and JUser
 
 eg: jrush juser info ..config file=”bootstrap file path” / jrush JUser info ..config file=”bootstrap file path”                            
+
+.. code-block:: bash
+
+ kevells@corp:/# jrush juser password --config-file="/var/www/html/joomla/configuration.php"
+ Enter a JUser ID. To enter email/username use --user-email or --username parameters
+ 5
+ Enter a new Password. To enter as parameter use --password 
+ 12345
+ ****************************************
+ GC JRush - The Joomla Command Line Shell
+ ****************************************
+
+ JUser Password:
+ -------------------------
+
+ User ID: 0
+ Name: 
+ User Name: 
+ Email: 
+ User Password: NOT SET
+
+ ------------------------------
+ JUser Password Finished
+ ****************************************
+
 
 Benefits
 --------------

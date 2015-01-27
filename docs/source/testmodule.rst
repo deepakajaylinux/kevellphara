@@ -69,6 +69,37 @@ It shows the current titles of articles. The command used to do action-one is as
 
 After gives the command it shows the current details and titles of articles. The screenshot represents the same.
 
+
+.. code-block:: bash
+
+ kevells@corp:/# jrush test-module action-one --config-file="/var/www/html/joomla/configuration.php"
+ ****************************************
+ GC JRush - The Joomla Command Line Shell
+ ****************************************
+
+ TestModule Action One:
+ -------------------------
+ array(6) {
+  [0]=>
+  string(8) "About Us"
+  [1]=>
+  string(15) "Article 1 Title"
+  [2]=>
+  string(18) "Creating Your Site"
+  [3]=>
+  string(9) "article-1"
+  [4]=>
+  string(9) "article-2"
+  [5]=>
+  string(9) "article-3"
+ }
+
+ ------------------------------
+ TestModule Action One Finished
+ ****************************************
+
+
+
 Action-two
 -----------------
 

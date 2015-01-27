@@ -75,6 +75,29 @@ When the user input as enable automatically It deletes the extension. The follow
 The following mantle shot can visualize its function.
 
 
+.. code-block:: bash
+
+ kevells@corp:/# jrush Extension disable --config-file="/var/www/html/joomla/configuration.php" 
+ Enter a Extension ID. To enter element/extension name use --extension-element or --extension-name parameters
+ 1
+ ****************************************
+ GC JRush - The Joomla Command Line Shell
+ ****************************************
+
+ Extension:
+ -------------------------
+
+ The following extension was modified:
+
+ Extension ID: 1
+ Name: com_mailto
+ Element: com_mailto
+ Enabled: 0
+ ------------------------------
+ Extension Manage Finished
+ ****************************************
+
+
 Enable
 -----------
 
@@ -85,6 +108,30 @@ Enable uses to enable the extension. The following command help the user to enab
  		jrush extension enable
 
 The following screen shots guides the user to enable its function.
+
+
+.. code-block:: bash
+
+ kevells@corp:/# jrush Extension enable --config-file="/var/www/html/joomla/configuration.php" 
+ Enter a Extension ID. To enter element/extension name use --extension-element or --extension-name parameters
+ 1
+ ****************************************
+ GC JRush - The Joomla Command Line Shell
+ ****************************************
+
+ Extension:
+ -------------------------
+
+ The following extension was modified:
+ 
+ Extension ID: 1
+ Name: com_mailto
+ Element: com_mailto
+ Enabled: 1
+ ------------------------------
+ Extension Manage Finished
+ ****************************************
+
 
 
 Info
@@ -98,6 +145,28 @@ Info is an aid to help the user to display the details of expansion. It asks for
 
 It can be visualizes by the screenshot.
 
+
+.. code-block:: bash
+
+ kevells@corp:/# jrush Extension info --config-file="/var/www/html/joomla/configuration.php" 
+ Enter a Extension ID. To enter element/extension name use --extension-element or --extension-name parameters
+ 1
+ ****************************************
+ GC JRush - The Joomla Command Line Shell
+ ****************************************
+
+ Extension:
+ -------------------------
+
+ The following extension was modified:
+
+ Extension ID: 1
+ Name: com_mailto
+ Element: com_mailto
+ Enabled: 0
+ ------------------------------
+ Extension Manage Finished
+ ****************************************
 
 Benefits
 ----------------

@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>JArticle &mdash; KEVELL 0.1 documentation</title>
+    <title>Behat &mdash; KEVELL 0.1 documentation</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -29,9 +29,9 @@
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
-    <link rel="up" title="Jrush" href="jrush_main.html" />
-    <link rel="next" title="JConfiguration" href="jconfiguration.html" />
-    <link rel="prev" title="Extension" href="extension.html" />
+    <link rel="up" title="Cleopatra" href="cleopatra.html" />
+    <link rel="next" title="Chgrp" href="chgrp.html" />
+    <link rel="prev" title="ApacheServer" href="apacheserver.html" />
 
 
 <script src="_static/labibi.js"></script>
@@ -75,10 +75,10 @@
             <li class="dropdown">
   <a href="index.html" class="dropdown-toggle" data-toggle="dropdown">Site <b class="caret"></b></a>
   <ul class="dropdown-menu globaltoc"><ul class="current">
-<li class="toctree-l1"><a class="reference internal" href="cleopatra.html">Cleopatra</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="cleopatra.html">Cleopatra</a></li>
 <li class="toctree-l1"><a class="reference internal" href="phlagrant.html">Phlagrant</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Dapperstrano_main.html">Dapperstrano</a></li>
-<li class="toctree-l1 current"><a class="reference internal" href="jrush_main.html">Jrush</a></li>
+<li class="toctree-l1"><a class="reference internal" href="jrush_main.html">Jrush</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Testingkamen_main.html">Testingkamen</a></li>
 </ul>
 </ul>
@@ -86,14 +86,14 @@
             <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Page <b class="caret"></b></a>
   <ul class="dropdown-menu localtoc"><ul>
-<li><a class="reference internal" href="#">JArticle</a><ul>
-<li><a class="reference internal" href="#synopsis">Synopsis</a></li>
+<li><a class="reference internal" href="#">Behat</a><ul>
+<li><a class="reference internal" href="#synopsis">Synopsis</a><ul>
 <li><a class="reference internal" href="#help-command">Help Command</a></li>
-<li><a class="reference internal" href="#enable">Enable</a></li>
-<li><a class="reference internal" href="#info">Info</a></li>
-<li><a class="reference internal" href="#disable">Disable</a></li>
-<li><a class="reference internal" href="#alternative-parameter">Alternative Parameter</a></li>
-<li><a class="reference internal" href="#benefits">Benefits</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#installation">Installation</a></li>
+<li><a class="reference internal" href="#version">Version</a></li>
+<li><a class="reference internal" href="#benefits-to-the-users">Benefits to the users</a></li>
 </ul>
 </li>
 </ul>
@@ -102,14 +102,14 @@
           
           
             
-  <li><a href="extension.html"
-         title="previous chapter">&laquo; Extension</a></li>
-  <li><a href="jconfiguration.html"
-         title="next chapter">JConfiguration &raquo;</a></li>
+  <li><a href="apacheserver.html"
+         title="previous chapter">&laquo; ApacheServer</a></li>
+  <li><a href="chgrp.html"
+         title="next chapter">Chgrp &raquo;</a></li>
           
           
           <!--  <li>
-  <a href="_sources/jarticle.txt"
+  <a href="_sources/behatcleo.txt"
      rel="nofollow">Source</a></li> -->
           
         </ul>
@@ -128,103 +128,118 @@
 
   
   
-  <div class="section" id="jarticle">
-<h1>JArticle<a class="headerlink" href="#jarticle" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="behat">
+<h1>Behat<a class="headerlink" href="#behat" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="synopsis">
 <h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
-<p>It manages jarticle&#8217;s details. This allows you to use an Article as a Module. Joomla provides an extremely wide range of options for creating different types of content and for structuring it on your website.</p>
-<p>In Joomla, an Article is a piece of content consisting of text, possibly with links to other resources (for example, images). Articles are the basic units of information in the content system and the bottom level in the content hierarchy. Each Article is in exactly one Category. A Category can be in another Category making it a sub Category. It is also possible to have Uncategorized Articles. These articles exist without being associated with any Category.</p>
-</div>
+<p>This module aims at installing behat with the most-recent version. This helps in testing an php script. It facilitates the users to identify the errors in php script. It highlights the enabled and disabled templates. The git acts as a supporting software for behat.</p>
 <div class="section" id="help-command">
-<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
-<p>This command helps to determine the usage of jarticle module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screen shot of the same.</p>
-<div class="highlight-bash"><div class="highlight"><pre>jrush  jarticle <span class="nb">help</span>
+<h3>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h3>
+<p>The help command guides the user get aware of the uses, and also the options and actions that can be performed.</p>
+<p>The coding to make use of help command under behat, is given as follows:</p>
+<div class="highlight-bash"><div class="highlight"><pre>cleopatra behat <span class="nb">help</span>
 </pre></div>
 </div>
-<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# jrush  jarticle <span class="nb">help</span>
-****************************************
-GC JRush - The Joomla Command Line Shell
-****************************************
+<p>The screen shot as given below explains you graphically about the usage of the help command.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra behat <span class="nb">help</span>
+******************************
 
- This <span class="nb">command </span>allows you to manage Joomla JArticles <span class="o">(</span>Component, Module or Plugin<span class="o">)</span>.
 
- JArticle, jarticle
+ This <span class="nb">command </span>allows you to install Behat.
 
-       - disable
-       Deletes a jarticle
-       example: jrush jarticle disable
+ Behat, behat
 
-       - <span class="nb">enable</span>
-<span class="nb">       </span>Enables a jarticle
-       example: jrush jarticle <span class="nb">enable</span>
-
-       - info
-       Display the details of a jarticle
-       example: jrush jarticle info
-
+       - install
+       Installs the latest version of behat
+       example: cleopatra behat install
 
 ------------------------------
 End Help
-****************************************
+******************************
 </pre></div>
 </div>
 </div>
-<div class="section" id="enable">
-<h2>Enable<a class="headerlink" href="#enable" title="Permalink to this headline">¶</a></h2>
-<p>When the user needs to enable a particular article, the below given command will execute the process of installation.</p>
-<div class="highlight-bash"><div class="highlight"><pre>jrush jarticle <span class="nb">enable</span> ..config <span class="nv">file</span><span class="o">=</span>”bootstrap file path”
-</pre></div>
 </div>
-</div>
-<div class="section" id="info">
-<h2>Info<a class="headerlink" href="#info" title="Permalink to this headline">¶</a></h2>
-<p>If the user needs to know about the information of an article. The below given command will help you</p>
-<div class="highlight-bash"><div class="highlight"><pre>jrush jarticle info ..config <span class="nv">file</span><span class="o">=</span>”bootstrap file path”
-</pre></div>
-</div>
-<p>The pictorial representation of the above command is listed below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# jrush jarticle info --config-file<span class="o">=</span><span class="s2">&quot;/var/www/html/joomla/configuration.php&quot;</span>
-Enter a JArticle ID. To enter title/alias/asset-id use --jarticle-title, --jarticle-alias or --jarticle-asset-id parameters
-2
-****************************************
-GC JRush - The Joomla Command Line Shell
-****************************************
+<div class="section" id="installation">
+<h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
+<table border="1" class="table-bordered docutils">
+<colgroup>
+<col width="38%" />
+<col width="19%" />
+<col width="43%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head">Parameters</th>
+<th class="head">Required</th>
+<th class="head">Comments</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td>cleopatra behat Install</td>
+<td>Yes</td>
+<td>This command is used for installing the behat to
+your machine.</td>
+</tr>
+<tr class="row-odd"><td>Install behat (Y/N)</td>
+<td>Y(Yes)</td>
+<td>If the user gives input as Y, then behat will gets
+installed.</td>
+</tr>
+<tr class="row-even"><td>Install behat (Y/N)</td>
+<td>N(No)</td>
+<td>If the user gives input as N, then the process gets
+quits from installation.|</td>
+</tr>
+</tbody>
+</table>
+<p>The screenshot shown below will gives you an pictorial representation about the steps involved in the installation.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra behat install
+Install Behat ? <span class="o">(</span>Y/N<span class="o">)</span>
+Y
+*******************************
+*        Pharaoh Tools        *
+*          Behat         *
+*******************************
+What is the program data directory? Found <span class="s2">&quot;/opt/behat&quot;</span> - use this? <span class="o">(</span>Enter nothing <span class="k">for</span> yes, no end slash<span class="o">)</span>
 
-JArticle Information:
--------------------------
+What is the program executor directory? Found <span class="s2">&quot;/usr/bin&quot;</span> - use this? <span class="o">(</span>Enter nothing <span class="k">for</span> yes, No Trailing Slash<span class="o">)</span>
 
-Article ID: 2
-Asset ID: 35
-Alias: about-us
-Title: About Us
-Created By: 825
-Created By Alias: Joomla
-State: 1
-------------------------------
-JArticle Manage Finished
-****************************************
+Creating /tmp/cleopatra-temp-script-69243074239.sh
+chmod <span class="m">755</span> /tmp/cleopatra-temp-script-69243074239.sh 2&gt;/dev/null
+Changing /tmp/cleopatra-temp-script-69243074239.sh Permissions
+Executing /tmp/cleopatra-temp-script-69243074239.sh
+--2015-01-27 15:31:39--  https://getcomposer.org/installer
+Resolving getcomposer.org <span class="o">(</span>getcomposer.org<span class="o">)</span>... 87.98.253.108
+Connecting to getcomposer.org <span class="o">(</span>getcomposer.org<span class="o">)</span><span class="p">|</span>87.98.253.108<span class="p">|</span>:443... connected.
+HTTP request sent, awaiting response... <span class="m">200</span> OK
+Length: unspecified <span class="o">[</span>text/plain<span class="o">]</span>
+Saving to: ‘installer’
+
+   <span class="o">[</span>              &lt;<span class="o">=</span>&gt;                                                                                     <span class="o">]</span> 2,74,634    48.9KB/s   in 5.5s
+
+2015-01-27 15:31:47 <span class="o">(</span>48.9 KB/s<span class="o">)</span> - ‘installer’ saved <span class="o">[</span>274634<span class="o">]</span>
+
+All settings correct <span class="k">for</span> using Composer
+Downloading...
+
+Composer successfully installed to: /opt/behat/behat/composer.phar
 </pre></div>
 </div>
+<p>While installing the behat, the user can specify the program data directory and program executor directory.</p>
+<p>The screenshot above explains the syntax regarding the specification of program data directory and executor directory.</p>
 </div>
-<div class="section" id="disable">
-<h2>Disable<a class="headerlink" href="#disable" title="Permalink to this headline">¶</a></h2>
-<p>When the user needs to disable a particular article, the below given command will execute the process of installation.</p>
-<div class="highlight-bash"><div class="highlight"><pre>jrush jarticle disable ..config <span class="nv">file</span><span class="o">=</span>”bootstrap file path”
-</pre></div>
+<div class="section" id="version">
+<h2>Version<a class="headerlink" href="#version" title="Permalink to this headline">¶</a></h2>
+<p>While installing the behat, the most-recent version will be installed in your machine.</p>
+<p>This is an added advantage of behat module under Cleopatra when compared to other.</p>
 </div>
-</div>
-<div class="section" id="alternative-parameter">
-<h2>Alternative Parameter<a class="headerlink" href="#alternative-parameter" title="Permalink to this headline">¶</a></h2>
-<p>Either of the two alternative parameter can be used in command-  jarticle, JArticle</p>
-<p>eg:  jrush jarticle disable/ jrush JArticle disable</p>
-</div>
-<div class="section" id="benefits">
-<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="benefits-to-the-users">
+<h2>Benefits to the users<a class="headerlink" href="#benefits-to-the-users" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li>Provide an optional method for organizing your articles</li>
-<li>It contains some text and can contain pictures and other types of content</li>
-<li>Helps to get the information about an article in easy way</li>
-<li>Can enable and disable an article in one step</li>
+<li>It guides the users to identify the errors in php script.</li>
+<li>No need to search the most-recent version, as the updated version is automatically available to the users while executing the installation pr  ocess.</li>
+<li>Using the features of behat the users can frame and specify the behavior of driven development.</li>
+<li>By the aid of behavior driven development, the users can ensure the qualities of their own script.</li>
 </ul>
 </div>
 </div>
@@ -282,8 +297,8 @@ JArticle Manage Finished
 
         <li>
           Go to
-        <a href="https://github.com/deepakajaylinux/kevellphara/blob/master/jarticle.rst">
-          JArticle
+        <a href="https://github.com/deepakajaylinux/kevellphara/blob/master/behatcleo.rst">
+          Behat
         </a> on GitHub.
       </li>
 

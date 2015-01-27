@@ -71,6 +71,29 @@ Site-clear is costoff to delete the user. The following command is used to clear
 
 After inputs as above command,the output comes like a coding. At the end  cache clearing finished can be shown. The screen shots presents the same.
 
+.. code-block:: bash
+
+ kevells@corp:/# jrush cache site-clear --config-file="/var/www/html/joomla/configuration.php" 
+ ****************************************
+ GC JRush - The Joomla Command Line Shell
+ ****************************************
+
+ Joomla Cache Clearing Info:
+
+ -------------------------
+
+ Cache: array(2) {
+  ["site_cache_clear"]=>
+  string(19) "Site Cache Clearing"
+  ["site_cache_clear_result"]=>
+  array(0) {
+  }
+ }
+
+ ------------------------------
+ Joomla Cache Clearing Finished
+ ****************************************
+
 Admin-clear
 -------------------
 
@@ -81,6 +104,30 @@ This worn clear the administrator’s cache. The command services the user to cl
 		jrush cache admin-clear
 
 The following display shots instruct the user about admin-clear function.
+
+.. code-block:: bash
+
+ kevells@corp:/# jrush cache admin-clear --config-file="/var/www/html/joomla/configuration.php" 
+ ****************************************
+ GC JRush - The Joomla Command Line Shell
+ ****************************************
+
+ Joomla Cache Clearing Info:
+
+ -------------------------
+
+ Cache: array(2) {
+  ["admin_cache_clear"]=>
+  string(20) "Admin Cache Clearing"
+  ["admin_cache_clear_result"]=>
+  array(0) {
+  }
+ }
+
+ ------------------------------
+ Joomla Cache Clearing Finished
+ ****************************************
+
 
 Benefits
 ---------------

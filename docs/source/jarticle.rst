@@ -69,6 +69,31 @@ If the user needs to know about the information of an article. The below given c
 	        jrush jarticle info ..config file=”bootstrap file path”
 
 
+The pictorial representation of the above command is listed below,
+
+.. code-block:: bash
+
+ kevells@corp:/# jrush jarticle info --config-file="/var/www/html/joomla/configuration.php"
+ Enter a JArticle ID. To enter title/alias/asset-id use --jarticle-title, --jarticle-alias or --jarticle-asset-id parameters
+ 2
+ ****************************************
+ GC JRush - The Joomla Command Line Shell
+ ****************************************
+
+ JArticle Information:
+ -------------------------
+
+ Article ID: 2
+ Asset ID: 35
+ Alias: about-us
+ Title: About Us
+ Created By: 825
+ Created By Alias: Joomla
+ State: 1
+ ------------------------------
+ JArticle Manage Finished
+ ****************************************
+
 
 Disable
 ----------------

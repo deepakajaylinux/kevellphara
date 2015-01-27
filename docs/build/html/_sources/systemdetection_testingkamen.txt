@@ -63,7 +63,7 @@ The following screen shot depicts you about the process of system detection.
 
 .. code-block:: bash
 
- kevells@corp:/# cleopatra system-detection detect
+ kevells@corp:/# testingkamen system-detection detect
  ******************************
 
 
@@ -75,14 +75,14 @@ The following screen shot depicts you about the process of system detection.
  Distro: Ubuntu
  Version: 14.04
  Architecture: 64
- Host Name: udayakumar
- IP Address 0: 127.0.0.1
- IP Address 1: 192.168.1.24
+ Host Name: kevells
+ IP Address 0: 172.16.201.1
+ IP Address 1: 172.16.39.1
+ IP Address 2: 192.168.1.16
 
  ------------------------------
  Detection Finished
  ******************************
-
 
 
 Alternative Parameters

@@ -169,11 +169,86 @@ End Help
 <div class="highlight-bash"><div class="highlight"><pre>jrush version available ..config <span class="nv">file</span><span class="o">=</span>”bootstrap file path”
 </pre></div>
 </div>
+<p>The pictorial representation of the screenshot is listed below,</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# jrush version available --config-file<span class="o">=</span><span class="s2">&quot;/var/www/html/joomla/configuration.php&quot;</span>
+****************************************
+GC JRush - The Joomla Command Line Shell
+****************************************
+
+Joomla Version Info:
+
+-------------------------
+
+Version: array<span class="o">(</span>1<span class="o">)</span> <span class="o">{</span>
+ <span class="o">[</span><span class="s2">&quot;availableVersions&quot;</span><span class="o">]=</span>&gt;
+ array<span class="o">(</span>2<span class="o">)</span> <span class="o">{</span>
+   <span class="o">[</span>0<span class="o">]=</span>&gt;
+   string<span class="o">(</span>5<span class="o">)</span> <span class="s2">&quot;1.5.0&quot;</span>
+   <span class="o">[</span>1<span class="o">]=</span>&gt;
+   string<span class="o">(</span>6<span class="o">)</span> <span class="s2">&quot;1.5.26&quot;</span>
+ <span class="o">}</span>
+<span class="o">}</span>
+
+------------------------------
+Joomla Version Info Finished
+****************************************
+</pre></div>
+</div>
 </div>
 <div class="section" id="current">
 <h2>Current<a class="headerlink" href="#current" title="Permalink to this headline">¶</a></h2>
 <p>When the user needs to know about the current joomla version, the below given command will execute the process of installation.</p>
 <div class="highlight-bash"><div class="highlight"><pre>jrush version current ..config <span class="nv">file</span><span class="o">=</span>”bootstrap file path”
+</pre></div>
+</div>
+<p>The pictorial representation of the above command is listed below,</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# jrush version current --config-file<span class="o">=</span><span class="s2">&quot;/var/www/html/joomla/configuration.php&quot;</span>
+****************************************
+GC JRush - The Joomla Command Line Shell
+****************************************
+
+Joomla Version Info:
+
+-------------------------
+
+Version: array<span class="o">(</span>3<span class="o">)</span> <span class="o">{</span>
+ <span class="o">[</span><span class="s2">&quot;shortVersion&quot;</span><span class="o">]=</span>&gt;
+ string<span class="o">(</span>5<span class="o">)</span> <span class="s2">&quot;3.3.3&quot;</span>
+ <span class="o">[</span><span class="s2">&quot;longVersion&quot;</span><span class="o">]=</span>&gt;
+ string<span class="o">(</span>53<span class="o">)</span> <span class="s2">&quot;Joomla! 3.3.3 Stable [ Ember ] 25-July-2014 13:00 GMT&quot;</span>
+ <span class="o">[</span><span class="s2">&quot;detailed&quot;</span><span class="o">]=</span>&gt;
+ object<span class="o">(</span>ArrayObject<span class="o">)</span><span class="c">#47 (1) {</span>
+   <span class="o">[</span><span class="s2">&quot;storage&quot;</span>:<span class="s2">&quot;ArrayObject&quot;</span>:private<span class="o">]=</span>&gt;
+   object<span class="o">(</span>JVersion<span class="o">)</span><span class="c">#7 (11) {</span>
+     <span class="o">[</span><span class="s2">&quot;PRODUCT&quot;</span><span class="o">]=</span>&gt;
+     string<span class="o">(</span>7<span class="o">)</span> <span class="s2">&quot;Joomla!&quot;</span>
+     <span class="o">[</span><span class="s2">&quot;RELEASE&quot;</span><span class="o">]=</span>&gt;
+     string<span class="o">(</span>3<span class="o">)</span> <span class="s2">&quot;3.3&quot;</span>
+     <span class="o">[</span><span class="s2">&quot;DEV_LEVEL&quot;</span><span class="o">]=</span>&gt;
+     string<span class="o">(</span>1<span class="o">)</span> <span class="s2">&quot;3&quot;</span>
+     <span class="o">[</span><span class="s2">&quot;DEV_STATUS&quot;</span><span class="o">]=</span>&gt;
+     string<span class="o">(</span>6<span class="o">)</span> <span class="s2">&quot;Stable&quot;</span>
+     <span class="o">[</span><span class="s2">&quot;BUILD&quot;</span><span class="o">]=</span>&gt;
+     string<span class="o">(</span>0<span class="o">)</span> <span class="s2">&quot;&quot;</span>
+     <span class="o">[</span><span class="s2">&quot;CODENAME&quot;</span><span class="o">]=</span>&gt;
+     string<span class="o">(</span>5<span class="o">)</span> <span class="s2">&quot;Ember&quot;</span>
+     <span class="o">[</span><span class="s2">&quot;RELDATE&quot;</span><span class="o">]=</span>&gt;
+     string<span class="o">(</span>12<span class="o">)</span> <span class="s2">&quot;25-July-2014&quot;</span>
+     <span class="o">[</span><span class="s2">&quot;RELTIME&quot;</span><span class="o">]=</span>&gt;
+     string<span class="o">(</span>5<span class="o">)</span> <span class="s2">&quot;13:00&quot;</span>
+     <span class="o">[</span><span class="s2">&quot;RELTZ&quot;</span><span class="o">]=</span>&gt;
+     string<span class="o">(</span>3<span class="o">)</span> <span class="s2">&quot;GMT&quot;</span>
+     <span class="o">[</span><span class="s2">&quot;COPYRIGHT&quot;</span><span class="o">]=</span>&gt;
+     string<span class="o">(</span>72<span class="o">)</span> <span class="s2">&quot;Copyright (C) 2005 - 2014 Open Source Matters, Inc. All rights reserved.&quot;</span>
+     <span class="o">[</span><span class="s2">&quot;URL&quot;</span><span class="o">]=</span>&gt;
+     string<span class="o">(</span>107<span class="o">)</span> <span class="s2">&quot;&lt;a href=&quot;</span>http://www.joomla.org<span class="s2">&quot;&gt;Joomla!&lt;/a&gt; is Free Software released under the GNU General Public License.&quot;</span>
+   <span class="o">}</span>
+ <span class="o">}</span>
+<span class="o">}</span>
+
+------------------------------
+Joomla Version Info Finished
+****************************************
 </pre></div>
 </div>
 </div>

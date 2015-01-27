@@ -30,8 +30,8 @@
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
     <link rel="up" title="Jrush" href="jrush_main.html" />
-    <link rel="next" title="Cache" href="cache.html" />
-    <link rel="prev" title="Jrush" href="jrush_main.html" />
+    <link rel="next" title="JArticle" href="jarticle.html" />
+    <link rel="prev" title="Cache" href="cache.html" />
 
 
 <script src="_static/labibi.js"></script>
@@ -103,10 +103,10 @@
           
           
             
-  <li><a href="jrush_main.html"
-         title="previous chapter">&laquo; Jrush</a></li>
   <li><a href="cache.html"
-         title="next chapter">Cache &raquo;</a></li>
+         title="previous chapter">&laquo; Cache</a></li>
+  <li><a href="jarticle.html"
+         title="next chapter">JArticle &raquo;</a></li>
           
           
           <!--  <li>
@@ -191,6 +191,27 @@ Extension, extension</p>
 </pre></div>
 </div>
 <p>The following mantle shot can visualize its function.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# jrush Extension disable --config-file<span class="o">=</span><span class="s2">&quot;/var/www/html/joomla/configuration.php&quot;</span>
+Enter a Extension ID. To enter element/extension name use --extension-element or --extension-name parameters
+1
+****************************************
+GC JRush - The Joomla Command Line Shell
+****************************************
+
+Extension:
+-------------------------
+
+The following extension was modified:
+
+Extension ID: 1
+Name: com_mailto
+Element: com_mailto
+Enabled: 0
+------------------------------
+Extension Manage Finished
+****************************************
+</pre></div>
+</div>
 </div>
 <div class="section" id="enable">
 <h2>Enable<a class="headerlink" href="#enable" title="Permalink to this headline">¶</a></h2>
@@ -199,6 +220,27 @@ Extension, extension</p>
 </pre></div>
 </div>
 <p>The following screen shots guides the user to enable its function.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# jrush Extension <span class="nb">enable</span> --config-file<span class="o">=</span><span class="s2">&quot;/var/www/html/joomla/configuration.php&quot;</span>
+Enter a Extension ID. To enter element/extension name use --extension-element or --extension-name parameters
+1
+****************************************
+GC JRush - The Joomla Command Line Shell
+****************************************
+
+Extension:
+-------------------------
+
+The following extension was modified:
+
+Extension ID: 1
+Name: com_mailto
+Element: com_mailto
+Enabled: 1
+------------------------------
+Extension Manage Finished
+****************************************
+</pre></div>
+</div>
 </div>
 <div class="section" id="info">
 <h2>Info<a class="headerlink" href="#info" title="Permalink to this headline">¶</a></h2>
@@ -207,6 +249,27 @@ Extension, extension</p>
 </pre></div>
 </div>
 <p>It can be visualizes by the screenshot.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# jrush Extension info --config-file<span class="o">=</span><span class="s2">&quot;/var/www/html/joomla/configuration.php&quot;</span>
+Enter a Extension ID. To enter element/extension name use --extension-element or --extension-name parameters
+1
+****************************************
+GC JRush - The Joomla Command Line Shell
+****************************************
+
+Extension:
+-------------------------
+
+The following extension was modified:
+
+Extension ID: 1
+Name: com_mailto
+Element: com_mailto
+Enabled: 0
+------------------------------
+Extension Manage Finished
+****************************************
+</pre></div>
+</div>
 </div>
 <div class="section" id="benefits">
 <h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>

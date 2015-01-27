@@ -53,6 +53,33 @@ When the user needs to know about the available joomla version, the below given 
 	        jrush version available ..config file=”bootstrap file path”
 
 
+The pictorial representation of the screenshot is listed below,
+
+.. code-block:: bash
+
+ kevells@corp:/# jrush version available --config-file="/var/www/html/joomla/configuration.php" 
+ ****************************************
+ GC JRush - The Joomla Command Line Shell
+ ****************************************
+
+ Joomla Version Info:
+
+ -------------------------
+
+ Version: array(1) {
+  ["availableVersions"]=>
+  array(2) {
+    [0]=>
+    string(5) "1.5.0"
+    [1]=>
+    string(6) "1.5.26"
+  }
+ }
+
+ ------------------------------
+ Joomla Version Info Finished
+ ****************************************
+
 Current
 ----------------
 
@@ -61,6 +88,58 @@ When the user needs to know about the current joomla version, the below given co
 .. code-block:: bash
         
 	        jrush version current ..config file=”bootstrap file path”
+
+The pictorial representation of the above command is listed below,
+
+.. code-block:: bash
+
+ kevells@corp:/# jrush version current --config-file="/var/www/html/joomla/configuration.php" 
+ ****************************************
+ GC JRush - The Joomla Command Line Shell
+ ****************************************
+
+ Joomla Version Info:
+
+ -------------------------
+
+ Version: array(3) {
+  ["shortVersion"]=>
+  string(5) "3.3.3"
+  ["longVersion"]=>
+  string(53) "Joomla! 3.3.3 Stable [ Ember ] 25-July-2014 13:00 GMT"
+  ["detailed"]=>
+  object(ArrayObject)#47 (1) {
+    ["storage":"ArrayObject":private]=>
+    object(JVersion)#7 (11) {
+      ["PRODUCT"]=>
+      string(7) "Joomla!"
+      ["RELEASE"]=>
+      string(3) "3.3"
+      ["DEV_LEVEL"]=>
+      string(1) "3"
+      ["DEV_STATUS"]=>
+      string(6) "Stable"
+      ["BUILD"]=>
+      string(0) ""
+      ["CODENAME"]=>
+      string(5) "Ember"
+      ["RELDATE"]=>
+      string(12) "25-July-2014"
+      ["RELTIME"]=>
+      string(5) "13:00"
+      ["RELTZ"]=>
+      string(3) "GMT"
+      ["COPYRIGHT"]=>
+      string(72) "Copyright (C) 2005 - 2014 Open Source Matters, Inc. All rights reserved."
+      ["URL"]=>
+      string(107) "<a href="http://www.joomla.org">Joomla!</a> is Free Software released under the GNU General Public License."
+    }
+  }
+ }
+
+ ------------------------------
+ Joomla Version Info Finished
+ ****************************************
 
 
 Alternative Parameter

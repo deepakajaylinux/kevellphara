@@ -85,6 +85,7 @@ For the purpose of configuring the environments the user can use the following c
 After inputting the command above the following operations takes place as shown:
 
 Step 1: Configure Environments Here? (Y/N)
+
 The user have to input Y or N.
 
 Step 2: Use existing environment Settings? (Y/N)
@@ -164,8 +165,8 @@ After inputting the command above, it will asks the following details as shown i
  |Configure Environments Here? (Y/N)   | Y			| If the user wish to configure the environments at the current  |
  |				       |			| environment they can input as Y				 |
  +-------------------------------------+------------------------+----------------------------------------------------------------+
- |Configure Environments Here? (Y/N)   | N			| If the user wish to configure the environments at the current  |
- |				       |			| environment they can input as N				 |
+ |Configure Environments Here? (Y/N)   | N			| If the user doesn't wish to configure the environments at the  |
+ |				       |			| current environment they can input as N			 |
  +-------------------------------------+------------------------+----------------------------------------------------------------+
  |Use existing environment 	       | Y			| If the user wish to use the existing environment settings	 |
  |settings? (Y/N)		       | 			| they can input as Y.						 |

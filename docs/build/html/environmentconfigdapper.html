@@ -29,9 +29,9 @@
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
-    <link rel="up" title="Cleopatra" href="cleopatra.html" />
-    <link rel="next" title="File" href="file.html" />
-    <link rel="prev" title="Copy" href="copy1.html" />
+    <link rel="up" title="Dapperstrano" href="Dapperstrano_main.html" />
+    <link rel="next" title="Logging" href="logging_dapper.html" />
+    <link rel="prev" title="Apache Control" href="apachecontrol.html" />
 
 
 <script src="_static/labibi.js"></script>
@@ -75,9 +75,9 @@
             <li class="dropdown">
   <a href="index.html" class="dropdown-toggle" data-toggle="dropdown">Site <b class="caret"></b></a>
   <ul class="dropdown-menu globaltoc"><ul class="current">
-<li class="toctree-l1 current"><a class="reference internal" href="cleopatra.html">Cleopatra</a></li>
+<li class="toctree-l1"><a class="reference internal" href="cleopatra.html">Cleopatra</a></li>
 <li class="toctree-l1"><a class="reference internal" href="phlagrant.html">Phlagrant</a></li>
-<li class="toctree-l1"><a class="reference internal" href="Dapperstrano_main.html">Dapperstrano</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="Dapperstrano_main.html">Dapperstrano</a></li>
 <li class="toctree-l1"><a class="reference internal" href="jrush_main.html">Jrush</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Testingkamen_main.html">Testingkamen</a></li>
 </ul>
@@ -102,14 +102,14 @@
           
           
             
-  <li><a href="copy1.html"
-         title="previous chapter">&laquo; Copy</a></li>
-  <li><a href="file.html"
-         title="next chapter">File &raquo;</a></li>
+  <li><a href="apachecontrol.html"
+         title="previous chapter">&laquo; Apache Control</a></li>
+  <li><a href="logging_dapper.html"
+         title="next chapter">Logging &raquo;</a></li>
           
           
           <!--  <li>
-  <a href="_sources/environmentconfig.txt"
+  <a href="_sources/environmentconfigdapper.txt"
      rel="nofollow">Source</a></li> -->
           
         </ul>
@@ -137,11 +137,11 @@
 <div class="section" id="help-command">
 <h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>The help command guides the users regarding the purpose of the module, its alternative parameters that are used in declaration. It highlights the three functions of environment configuration which are list, configure, delete. It also specifies the syntax for using three major functions. The syntax used for declaring the help is shown below:</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra envconfig <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>dapperstrano envconfig <span class="nb">help</span>
 </pre></div>
 </div>
 <p>The following screen shot depicts pictorially about the working of help command.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra envconfig <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# dapperstrano EnvironmentConfig <span class="nb">help</span>
 ******************************
 
 
@@ -156,25 +156,10 @@
        List current environments
        example: cleopatra envconfig list --yes
 
-       - list-local
-       List current <span class="nb">local </span>environments
-       example: cleopatra envconfig list-local --yes
-
        - configure, config
-       Configure bespoke environments <span class="k">for</span> your project to use
+       Configure the environments <span class="k">for</span> your project to use
        example: cleopatra envconfig config
-       <span class="c"># below to create an empty environment to add instances to</span>
-       example: cleopatra envconfig config --yes
-                   --keep-current-environments <span class="c"># do not overwrite the current environments stored in papyrusfile</span>
-                   --no-manual-servers <span class="c"># so it will not ask you to interactively enter connection details of instances</span>
-                   --add-single-environment <span class="c"># otherwise it will loop for more until you specify not to</span>
-                   --environment-name<span class="o">=</span><span class="s2">&quot;some-name&quot;</span> <span class="c"># name of the environment to create</span>
-                   --tmp-dir<span class="o">=</span>/tmp/ <span class="c"># we&#39;re deprecating this soon</span>
-
-       - configure-default, config-default
-       Configure default environments <span class="k">for</span> your project to use
-       example: cleopatra envconfig config-default
-       example: cleopatra envconfig config-default --yes --environment-name<span class="o">=</span><span class="s2">&quot;local-80/local-8080&quot;</span>
+       example: cleopatra envconfig config --keep-current-environments
 
        - delete, del
        Configure the environments <span class="k">for</span> your project to use
@@ -191,7 +176,7 @@ End Help
 <div class="section" id="how-to-configure-the-environment">
 <h2>How to Configure the environment<a class="headerlink" href="#how-to-configure-the-environment" title="Permalink to this headline">¶</a></h2>
 <p>For the purpose of configuring the environments the user can use the following command:</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra envconfig config
+<div class="highlight-bash"><div class="highlight"><pre>dapperstrano envconfig config
 </pre></div>
 </div>
 <p>After inputting the command above the following operations takes place as shown:</p>
@@ -237,7 +222,7 @@ In Environment Configuration
 </pre></div>
 </div>
 <p>While configuring an environment, if the user wish to configure with current environment , they can use the following command:</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra envconfig config --keep-current-environments
+<div class="highlight-bash"><div class="highlight"><pre>dapperstrano envconfig config --keep-current-environments
 </pre></div>
 </div>
 <p>After inputting the command above, it will asks the following details as shown in the tabular format:</p>
@@ -291,7 +276,7 @@ input as N.|</td>
 </tbody>
 </table>
 <p>The following screenshot pictorially represents the above mentioned process:</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra envconfig config --keep-current-environments
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# dapperstrano envconfig config --keep-current-environments
 Configure Environments Here? <span class="o">(</span>Y/N<span class="o">)</span>
 Y
 Use existing environment settings? <span class="o">(</span>Y/N<span class="o">)</span>
@@ -310,7 +295,7 @@ In Environment Configuration
 <div class="section" id="how-to-delete-environment-configuration">
 <h2>How to Delete environment configuration<a class="headerlink" href="#how-to-delete-environment-configuration" title="Permalink to this headline">¶</a></h2>
 <p>If the user needs to delete the environment configuration, they can input the following command:</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra envconfig del --environment-name<span class="o">=</span><span class="s2">&quot;kevells&quot;</span>
+<div class="highlight-bash"><div class="highlight"><pre>dapperstrano envconfig del --environment-name<span class="o">=</span><span class="s2">&quot;kevells&quot;</span>
 </pre></div>
 </div>
 <p>The user can specify the name of the environment they wish to delete as shown above.</p>
@@ -339,19 +324,93 @@ In Environment Configuration
 ******************************
 </pre></div>
 </div>
+<p>Another way of deleting an environment by without specifying the name of the environment is as shown by using the command:</p>
+<div class="highlight-bash"><div class="highlight"><pre>dapperstrano envconfig delete
+</pre></div>
+</div>
+<p>After inputting the command above, it will ask</p>
+<p>Step 1: Delete Environments Here?</p>
+<p>and shows a warning message as</p>
+<div class="highlight-bash"><div class="highlight"><pre>WARNING: Deleting an environment from papyrus is final. You may be looking <span class="k">for</span> boxify box-destroy instead <span class="o">(</span>Y/N<span class="o">)</span>
+</pre></div>
+</div>
+<p>The user has to specify Y or N</p>
+<p>Finally, the environment gets deleted as shown in the screenshot:</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# dapperstrano envconfig delete
+Delete Environments Here?
+WARNING: Deleting an environment from papyrus is final. You may be looking <span class="k">for</span> boxify box-destroy instead <span class="o">(</span>Y/N<span class="o">)</span>
+Y
+PHP Notice:  Undefined index: environment-name in /opt/dapperstrano/dapperstrano/src/Modules/EnvironmentConfig/Model/EnvironmentConfigAllLinux .php on line 161
+PHP Notice:  Undefined index: environment-name in /opt/dapperstrano/dapperstrano/src/Modules/EnvironmentConfig/Model/EnvironmentConfigAllLinux .php on line 161
+******************************
+
+
+Success
+In Environment Configuration
+******************************
+</pre></div>
+</div>
 </div>
 <div class="section" id="how-to-list-environment-configuration">
 <h2>How to list environment configuration<a class="headerlink" href="#how-to-list-environment-configuration" title="Permalink to this headline">¶</a></h2>
 <p>If the user wish to view the list of details regarding the environment configuration, they can input as shown:</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra envconfig list --yes
+<div class="highlight-bash"><div class="highlight"><pre>dapperstrano envconfig list
 </pre></div>
 </div>
-<p>After inputting the command above, it will display the output as shown in the screenshot:</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra envconfig list --yes
+<p>After inputting the command above, it will asks</p>
+<p>List Environment Here? (Y/N)</p>
+<p>if the user specifies as Y, it will generate the display of output as shown in the screenshot:</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# dapperstrano envconfig list
+List Environments Here? <span class="o">(</span>Y/N<span class="o">)</span>
+Y
 ******************************
 
 
-array<span class="o">(</span>0<span class="o">)</span> <span class="o">{</span>
+array<span class="o">(</span>2<span class="o">)</span> <span class="o">{</span>
+ <span class="o">[</span>0<span class="o">]=</span>&gt;
+ array<span class="o">(</span>2<span class="o">)</span> <span class="o">{</span>
+   <span class="o">[</span><span class="s2">&quot;any-app&quot;</span><span class="o">]=</span>&gt;
+   array<span class="o">(</span>2<span class="o">)</span> <span class="o">{</span>
+     <span class="o">[</span><span class="s2">&quot;gen_env_name&quot;</span><span class="o">]=</span>&gt;
+     string<span class="o">(</span>13<span class="o">)</span> <span class="s2">&quot;default-local&quot;</span>
+     <span class="o">[</span><span class="s2">&quot;gen_env_tmp_dir&quot;</span><span class="o">]=</span>&gt;
+     string<span class="o">(</span>5<span class="o">)</span> <span class="s2">&quot;/tmp/&quot;</span>
+   <span class="o">}</span>
+   <span class="o">[</span><span class="s2">&quot;servers&quot;</span><span class="o">]=</span>&gt;
+   array<span class="o">(</span>1<span class="o">)</span> <span class="o">{</span>
+     <span class="o">[</span>0<span class="o">]=</span>&gt;
+     array<span class="o">(</span>3<span class="o">)</span> <span class="o">{</span>
+       <span class="o">[</span><span class="s2">&quot;target&quot;</span><span class="o">]=</span>&gt;
+       string<span class="o">(</span>9<span class="o">)</span> <span class="s2">&quot;127.0.0.1&quot;</span>
+       <span class="o">[</span><span class="s2">&quot;user&quot;</span><span class="o">]=</span>&gt;
+       string<span class="o">(</span>5<span class="o">)</span> <span class="s2">&quot;local&quot;</span>
+       <span class="o">[</span><span class="s2">&quot;password&quot;</span><span class="o">]=</span>&gt;
+       string<span class="o">(</span>5<span class="o">)</span> <span class="s2">&quot;local&quot;</span>
+     <span class="o">}</span>
+   <span class="o">}</span>
+ <span class="o">}</span>
+ <span class="o">[</span>1<span class="o">]=</span>&gt;
+ array<span class="o">(</span>2<span class="o">)</span> <span class="o">{</span>
+   <span class="o">[</span><span class="s2">&quot;any-app&quot;</span><span class="o">]=</span>&gt;
+   array<span class="o">(</span>2<span class="o">)</span> <span class="o">{</span>
+     <span class="o">[</span><span class="s2">&quot;gen_env_name&quot;</span><span class="o">]=</span>&gt;
+     string<span class="o">(</span>18<span class="o">)</span> <span class="s2">&quot;default-local-8080&quot;</span>
+     <span class="o">[</span><span class="s2">&quot;gen_env_tmp_dir&quot;</span><span class="o">]=</span>&gt;
+     string<span class="o">(</span>5<span class="o">)</span> <span class="s2">&quot;/tmp/&quot;</span>
+   <span class="o">}</span>
+   <span class="o">[</span><span class="s2">&quot;servers&quot;</span><span class="o">]=</span>&gt;
+   array<span class="o">(</span>1<span class="o">)</span> <span class="o">{</span>
+     <span class="o">[</span>0<span class="o">]=</span>&gt;
+     array<span class="o">(</span>3<span class="o">)</span> <span class="o">{</span>
+       <span class="o">[</span><span class="s2">&quot;target&quot;</span><span class="o">]=</span>&gt;
+       string<span class="o">(</span>14<span class="o">)</span> <span class="s2">&quot;127.0.0.1:8080&quot;</span>
+       <span class="o">[</span><span class="s2">&quot;user&quot;</span><span class="o">]=</span>&gt;
+       string<span class="o">(</span>5<span class="o">)</span> <span class="s2">&quot;local&quot;</span>
+       <span class="o">[</span><span class="s2">&quot;password&quot;</span><span class="o">]=</span>&gt;
+       string<span class="o">(</span>5<span class="o">)</span> <span class="s2">&quot;local&quot;</span>
+     <span class="o">}</span>
+   <span class="o">}</span>
+ <span class="o">}</span>
 <span class="o">}</span>
 
 In Environment Configuration
@@ -432,7 +491,7 @@ In Environment Configuration
 
         <li>
           Go to
-        <a href="https://github.com/deepakajaylinux/kevellphara/blob/master/environmentconfig.rst">
+        <a href="https://github.com/deepakajaylinux/kevellphara/blob/master/environmentconfigdapper.rst">
           EnvironmentConfig
         </a> on GitHub.
       </li>

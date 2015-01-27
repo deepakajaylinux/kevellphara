@@ -1,7 +1,6 @@
-===================
+====================
 EnvironmentConfig
-===================
-
+====================
 
 Synopsis
 -------------
@@ -13,10 +12,9 @@ Help command
 
 The help command guides the users regarding the purpose of the module, its alternative parameters that are used in declaration. It highlights the three functions of environment configuration which are list, configure, delete. It also specifies the syntax for using three major functions. The syntax used for declaring the help is shown below:
 
-
 .. code-block:: bash
 
-		cleopatra envconfig help
+		dapperstrano envconfig help
 
 The following screen shot depicts pictorially about the working of help command.
 
@@ -24,7 +22,7 @@ The following screen shot depicts pictorially about the working of help command.
 .. code-block:: bash
 
 
- kevells@corp:/# cleopatra envconfig help
+ kevells@corp:/# dapperstrano EnvironmentConfig help
  ******************************
 
 
@@ -39,25 +37,10 @@ The following screen shot depicts pictorially about the working of help command.
         List current environments
         example: cleopatra envconfig list --yes
 
-        - list-local
-        List current local environments
-        example: cleopatra envconfig list-local --yes
-
         - configure, config
-        Configure bespoke environments for your project to use
+        Configure the environments for your project to use
         example: cleopatra envconfig config
-        # below to create an empty environment to add instances to
-        example: cleopatra envconfig config --yes
-                    --keep-current-environments # do not overwrite the current environments stored in papyrusfile
-                    --no-manual-servers # so it will not ask you to interactively enter connection details of instances
-                    --add-single-environment # otherwise it will loop for more until you specify not to
-                    --environment-name="some-name" # name of the environment to create
-                    --tmp-dir=/tmp/ # we're deprecating this soon
-
-        - configure-default, config-default
-        Configure default environments for your project to use
-        example: cleopatra envconfig config-default
-        example: cleopatra envconfig config-default --yes --environment-name="local-80/local-8080"
+        example: cleopatra envconfig config --keep-current-environments
 
         - delete, del
         Configure the environments for your project to use
@@ -70,8 +53,6 @@ The following screen shot depicts pictorially about the working of help command.
  ******************************
 
 
-
-
 How to Configure the environment
 ----------------------------------------------
 
@@ -79,8 +60,7 @@ For the purpose of configuring the environments the user can use the following c
 
 .. code-block:: bash
 
-		cleopatra envconfig config
-
+		dapperstrano envconfig config
 
 After inputting the command above the following operations takes place as shown:
 
@@ -143,43 +123,43 @@ Finally, the environment configuration gets success as depicted in the below scr
  ******************************
 
 
-
-
 While configuring an environment, if the user wish to configure with current environment , they can use the following command:
 
 .. code-block:: bash
 
-		cleopatra envconfig config --keep-current-environments
-
-
+		dapperstrano envconfig config --keep-current-environments
 
 
 After inputting the command above, it will asks the following details as shown in the tabular format:
 
 
+
 .. cssclass:: table-bordered
 
  +-------------------------------------+------------------------+----------------------------------------------------------------+
- | Parameters			       | Options		| Comments							 |
+ | Parameters                          | Options                | Comments                                                       |
  +=====================================+========================+================================================================+
- |Configure Environments Here? (Y/N)   | Y			| If the user wish to configure the environments at the current  |
- |				       |			| environment they can input as Y				 |
+ |Configure Environments Here? (Y/N)   | Y                      | If the user wish to configure the environments at the current  |
+ |                                     |                        | environment they can input as Y                                |
  +-------------------------------------+------------------------+----------------------------------------------------------------+
- |Configure Environments Here? (Y/N)   | N			| If the user doesn't wish to configure the environments at the  |
- |				       |			| current environment they can input as N			 |
+ |Configure Environments Here? (Y/N)   | N                      | If the user doesn't wish to configure the environments at the  |
+ |                                     |                        | current environment they can input as N                        |
  +-------------------------------------+------------------------+----------------------------------------------------------------+
- |Use existing environment 	       | Y			| If the user wish to use the existing environment settings	 |
- |settings? (Y/N)		       | 			| they can input as Y.						 |
+ |Use existing environment             | Y                      | If the user wish to use the existing environment settings      |
+ |settings? (Y/N)                      |                        | they can input as Y.                                           |
  +-------------------------------------+------------------------+----------------------------------------------------------------+
- |Use existing environment 	       | N			| If the user doesn't wish to use the existing environment 	 |
- |settings? (Y/N)		       | 			| settings they can input as N.					 |
+ |Use existing environment             | N                      | If the user doesn't wish to use the existing environment       |
+ |settings? (Y/N)                      |                        | settings they can input as N.                                  |
  +-------------------------------------+------------------------+----------------------------------------------------------------+
- |Do you want to add another           | Y			| If the user wish to add another environment,they can           |
- |environment? (Y/N)		       | 		        | input as Y.				                         |
+ |Do you want to add another           | Y                      | If the user wish to add another environment,they can           |
+ |environment? (Y/N)                   |                        | input as Y.                                                    |
  +-------------------------------------+------------------------+----------------------------------------------------------------+
- |Do you want to add another           | N			| If the user doesn't wish to add another environment, they can  |
- |environment? (Y/N)		       | 		        | input as N.|				                         |
+ |Do you want to add another           | N                      | If the user doesn't wish to add another environment, they can  |
+ |environment? (Y/N)                   |                        | input as N.|                                                   |
  +-------------------------------------+------------------------+----------------------------------------------------------------+ 
+
+
+
 
 
 The following screenshot pictorially represents the above mentioned process:
@@ -188,7 +168,7 @@ The following screenshot pictorially represents the above mentioned process:
 .. code-block:: bash
 
 
- kevells@corp:/# cleopatra envconfig config --keep-current-environments
+ kevells@corp:/# dapperstrano envconfig config --keep-current-environments
  Configure Environments Here? (Y/N) 
  Y
  Use existing environment settings? (Y/N) 
@@ -203,6 +183,8 @@ The following screenshot pictorially represents the above mentioned process:
  ******************************
 
 
+
+
 How to Delete environment configuration
 -------------------------------------------------------
 
@@ -210,7 +192,7 @@ If the user needs to delete the environment configuration, they can input the fo
 
 .. code-block:: bash
 
-		cleopatra envconfig del --environment-name="kevells"
+		dapperstrano envconfig del --environment-name="kevells"
 
 The user can specify the name of the environment they wish to delete as shown above.
 
@@ -226,8 +208,8 @@ and shows a warning message as
  WARNING: Deleting an environment from papyrus is final. You may be looking for boxify box-destroy instead (Y/N) 
 
 
-
 The user has to specify Y or N
+
 
 Step 2: Environment Kevells(Name of the specified environment that is supposed to delete) found. Are you sure want to delete it? (Y/N)
 
@@ -235,10 +217,7 @@ The user has to specify Y or N
 
 Finally, the specified environment gets deleted as shown in the screenshot.
 
-
 .. code-block:: bash
-
-
 
  kevells@corp:/# cleopatra envconfig del --environment-name="kevells"
  Delete Environments Here?
@@ -255,6 +234,47 @@ Finally, the specified environment gets deleted as shown in the screenshot.
  ******************************
 
 
+
+Another way of deleting an environment by without specifying the name of the environment is as shown by using the command:
+
+.. code-block:: bash
+
+		dapperstrano envconfig delete
+
+After inputting the command above, it will ask 
+
+Step 1: Delete Environments Here?
+
+and shows a warning message as 
+
+.. code-block:: bash
+
+ WARNING: Deleting an environment from papyrus is final. You may be looking for boxify box-destroy instead (Y/N) 
+
+
+The user has to specify Y or N
+
+Finally, the environment gets deleted as shown in the screenshot:
+
+
+.. code-block:: bash
+
+
+ kevells@corp:/# dapperstrano envconfig delete
+ Delete Environments Here?
+ WARNING: Deleting an environment from papyrus is final. You may be looking for boxify box-destroy instead (Y/N) 
+ Y
+ PHP Notice:  Undefined index: environment-name in /opt/dapperstrano/dapperstrano/src/Modules/EnvironmentConfig/Model/EnvironmentConfigAllLinux .php on line 161
+ PHP Notice:  Undefined index: environment-name in /opt/dapperstrano/dapperstrano/src/Modules/EnvironmentConfig/Model/EnvironmentConfigAllLinux .php on line 161
+ ******************************
+
+
+ Success
+ In Environment Configuration
+ ******************************
+
+
+
 How to list environment configuration
 --------------------------------------------------
 
@@ -262,19 +282,67 @@ If the user wish to view the list of details regarding the environment configura
 
 .. code-block:: bash
 
-		cleopatra envconfig list --yes
+		dapperstrano envconfig list
 
+After inputting the command above, it will asks 
 
-After inputting the command above, it will display the output as shown in the screenshot:
+List Environment Here? (Y/N)
+
+if the user specifies as Y, it will generate the display of output as shown in the screenshot:
 
 .. code-block:: bash
 
-
- kevells@corp:/# cleopatra envconfig list --yes
+ kevells@corp:/# dapperstrano envconfig list
+ List Environments Here? (Y/N) 
+ Y
  ******************************
 
 
- array(0) {
+ array(2) {
+  [0]=>
+  array(2) {
+    ["any-app"]=>
+    array(2) {
+      ["gen_env_name"]=>
+      string(13) "default-local"
+      ["gen_env_tmp_dir"]=>
+      string(5) "/tmp/"
+    }
+    ["servers"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["target"]=>
+        string(9) "127.0.0.1"
+        ["user"]=>
+        string(5) "local"
+        ["password"]=>
+        string(5) "local"
+      }
+    }
+  }
+  [1]=>
+  array(2) {
+    ["any-app"]=>
+    array(2) {
+      ["gen_env_name"]=>
+      string(18) "default-local-8080"
+      ["gen_env_tmp_dir"]=>
+      string(5) "/tmp/"
+    }
+    ["servers"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["target"]=>
+        string(14) "127.0.0.1:8080"
+        ["user"]=>
+        string(5) "local"
+        ["password"]=>
+        string(5) "local"
+      }
+    }
+  }
  }
 
  In Environment Configuration
@@ -283,7 +351,7 @@ After inputting the command above, it will display the output as shown in the sc
 
 Alternative Parameters
 --------------------------------
-
+ 
 Instead of envconfig the following parameters can be used in declaration:
 
 * EnvironmentConfig
@@ -297,3 +365,4 @@ Benefits
 * It is well-to-do in both cent OS and as well as in ubuntu.
 * The parameters used in declaration are not case sensitive which is an added advantage while compared to others.
 * This module leads the users how to configure the environment, how to delete the unwanted environment, how to use the list option for listing   the available environments.
+

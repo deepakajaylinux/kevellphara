@@ -1,6 +1,6 @@
-=======
+=========
 Citadel
-=======
+=========
 
 Synopsis
 --------
@@ -12,17 +12,18 @@ It is also extremely scalable. Not only can a well-equipped Citadel server suppo
 Help Command
 ------------
 
-This command helps to determine the usage of Citadel module. The user will come to know about the different ways/format to execute this module. The alternative parameter that are used in declaration is clearly defined under help option.  This command guides the end user to know the command used for installation. Below given are the command and the screenshot of the same. 
+This command helps to determine the usage of Citadel module. The user will come to know about the different ways/format to execute this module. The alternative parameter that are used in declaration is clearly defined under help option.  This command guides the end user to know the command used for installation. Below given are the command.
 
 .. code-block:: bash
      	
 		cleopatra  Citadel help
 
+The pictorial representation of the screenshot is listed below,
 
 .. code-block:: bash
  
 
-kevells@corp:/# cleopatra Citadel help
+ kevells@corp:/# cleopatra Citadel help
  ******************************
 
 
@@ -53,7 +54,7 @@ When the user needs to install Citadel server in machine, you can input the foll
        
 	        cleopatra Citadel  install
 
-.. code-block:: bash
+
 
  kevells@corp:/# cleopatra Citadel install
  Install Citadel Server? (Y/N) 
@@ -222,15 +223,15 @@ When the user needs to install Citadel server in machine, you can input the foll
  +-----------------------------+------------------------------------------+----------+--------------------------------------+
  |	Parameters  	       | Alternative Parameter                    | Options  | 		Comments	            |
  +=============================+==========================================+==========+======================================+
- |cleopatra Citadel Install?   |Either of the three alternative		  |Y         |Once the user provides this option,    |
+ |cleopatra Citadel Install?   |Either of the three alternative		  |Y         |Once the user provides this option,   |
  |(Y/N)		 	       |parameter can be used in command- Citadel,|   	     |System starts installation process    |
  |                             |citadel-server,  citadel		  |          |				            |
  |                             |eg: Cleopatra  citadel-server Install     |          |				            |
  +-----------------------------+------------------------------------------+----------+--------------------------------------+
- |cleopatra Citadel Install?   |Either of the three alternative		  |N         |Once the user provides this option,    |
+ |cleopatra Citadel Install?   |Either of the three alternative		  |N         |Once the user provides this option,   |
  |(Y/N)		 	       |parameter can be used in command- Citadel,| 	     |System stops installation process     |
  |                             |citadel-server,  citadel		  |          |				            |
- |                             |eg: Cleopatra  citadel-server Install	| |          |				            |
+ |                             |eg: Cleopatra  citadel-server Install.|   |          |				            |
  +-----------------------------+------------------------------------------+----------+--------------------------------------+
 
 

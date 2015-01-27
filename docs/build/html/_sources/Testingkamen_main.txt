@@ -143,6 +143,7 @@ Playing with Testingkamen Modules
 
 
  behat
+ cucumber
  phpunit_testingkamen 
  systemdetection_testingkamen
  templating

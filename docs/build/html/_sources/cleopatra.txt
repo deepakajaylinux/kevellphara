@@ -559,6 +559,7 @@ Playing with Cleopatra Modules
    cleo
    composermodule
    copy
+   copy1
    file
    firefox
    firefox14

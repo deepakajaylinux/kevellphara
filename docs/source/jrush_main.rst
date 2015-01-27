@@ -10,6 +10,7 @@ Jrush
  cache
  extension
  jarticle
+ jconfiguration
  juser
  systemdetection_jrush
  testmodule

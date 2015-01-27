@@ -10,6 +10,7 @@ Dapperstrano
    
  apachecontrol
  environmentconfigdapper
+ hosteditor
  logging_dapper
  nginxcontrol
  project

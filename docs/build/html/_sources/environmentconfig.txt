@@ -88,16 +88,27 @@ Step 1: Configure Environments Here? (Y/N)
 The user have to input Y or N.
 
 Step 2: Use existing environment Settings? (Y/N)
+
 The user have to input Y or N.
+
 If the user input as Y it will proceed with already existing.
+
 If they input as N, it will asks information regarding the environment as 
+
 Value for: Name of the environment
+
 Value for: Default temp dir(Location)
+
 After the above steps, the user have to input the following details:
+
 Enter target?
+
 Enter user?
+
 Enter password?
+
 Add Another Server? (Y/N)
+
 The user have to input Y or N.
 
 Finally, the environment configuration gets success as depicted in the below screenshot.
@@ -205,6 +216,7 @@ The user can specify the name of the environment they wish to delete as shown ab
 After inputting the command above, it will ask 
 
 Step 1: Delete Environments Here?
+
 and shows a warning message as 
 
 
@@ -217,6 +229,7 @@ and shows a warning message as
 The user has to specify Y or N
 
 Step 2: Environment Kevells(Name of the specified environment that is supposed to delete) found. Are you sure want to delete it? (Y/N)
+
 The user has to specify Y or N
 
 Finally, the specified environment gets deleted as shown in the screenshot.

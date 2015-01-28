@@ -23,7 +23,7 @@ Requirements
 
 If you wish to use the Phlagrant, ensure whether the Virual box is installed in your machine, along with the Virtual box guest additions functionality
 
-Code for installing virtual box .::
+Code for installing virtual box
 -------------------------------
 
         sudo cleopatra virtualbox install --yes --guess --with-guest-additions

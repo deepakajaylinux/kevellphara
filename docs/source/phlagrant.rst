@@ -23,7 +23,7 @@ Requirements
 
 If you wish to use the Phlagrant, ensure whether the Virual box is installed in your machine, along with the Virtual box guest additions functionality
 
-Code for installing virtual box .::
+Code for installing virtual box
 -------------------------------
 
         sudo cleopatra virtualbox install --yes --guess --with-guest-additions
@@ -163,4 +163,17 @@ add a default Cleopatra Configuration Management Autopilot file using the follow
 flirtify phlagrant flirt now --template-group=default-php
 
 install, configure and start the virtual machine Phlagrant up now
+
+
+
+
+Playing with Phlagrant Modules
+------------------------------------
+
+.. toctree::
+   :maxdepth: 6
+
+ autossh
+
+
 

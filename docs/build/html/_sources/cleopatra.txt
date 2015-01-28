@@ -557,6 +557,7 @@ Playing with Cleopatra Modules
    behatcleo
    chgrp
    chgrp1
+   chmod
    chown
    citadel
    cleo

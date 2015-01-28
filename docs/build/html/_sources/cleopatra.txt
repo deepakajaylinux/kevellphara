@@ -1,9 +1,9 @@
 Cleopatra
-=========
+===========
 
 
 Synopsis
-********
+**********
 
 The Cleopatra is an automation drive that allows DevOps Engineers, system administrators, infrastructure managers in performing the Configuration Management, Systems Automation and Infrastructure with the aid of php. It provisions the entire projects of the users automatically.
 
@@ -26,7 +26,7 @@ It is extensible, as if any of the extra modules is required the users can frame
 And also it is easier to rewrite the code as per the needs of the users. Its documentation includes the Cleopatra's current released version as 1.1.1.
 
 Installation
-************
+**************
 
 Before installing the Cleopatra to your machine, ensure whether git and php5 exists in your machine or not.
 if not follow as given below
@@ -553,6 +553,7 @@ Playing with Cleopatra Modules
    ApacheModules
    apachereverseproxy
    apacheserver
+   awstats
    behatcleo
    chgrp
    chgrp1

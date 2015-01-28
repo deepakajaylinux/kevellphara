@@ -164,3 +164,16 @@ flirtify phlagrant flirt now --template-group=default-php
 
 install, configure and start the virtual machine Phlagrant up now
 
+
+
+
+Playing with Phlagrant Modules
+------------------------------------
+
+.. toctree::
+   :maxdepth: 6
+
+ autossh
+
+
+

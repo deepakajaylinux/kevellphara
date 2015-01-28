@@ -19,17 +19,19 @@ By using the functionality of templating option extra-templates can be added, if
 
 
 Requirements
-**************
+-----------------
 
 If you wish to use the Phlagrant, ensure whether the Virual box is installed in your machine, along with the Virtual box guest additions functionality
 
 Code for installing virtual box
 -------------------------------
 
+.. code-block:: bash
+
         sudo cleopatra virtualbox install --yes --guess --with-guest-additions
 
 Installation
-*************
+-------------
 
 There is two possible ways to install the Phlagrant tool to your machine:
 
@@ -39,7 +41,11 @@ There is two possible ways to install the Phlagrant tool to your machine:
 Installation via Cleopatra
 ---------------------------
 
-if you have Cleopatra tool in your machine, then it's simple to install the phlagrant by using the code as given below::
+if you have Cleopatra tool in your machine, then it's simple to install the phlagrant by using the code as given below,
+
+
+.. code-block:: bash
+
 
         sudo cleopatra phlagrant install --yes --guess
 
@@ -48,7 +54,9 @@ here the word guess can be ignored while selecting your own directory during ins
 Installing Phlagrant alone
 ---------------------------
 
-If you want to install the phlagrant tool to your machine without depending on the Cleopatra tool, it is easier by using the command,::
+If you want to install the phlagrant tool to your machine without depending on the Cleopatra tool, it is easier by using the command,
+
+.. code-block:: bash
 
         sudo apt-get install php5 git
         
@@ -60,8 +68,8 @@ the command on the above mentioned can be used if you don't want to select the l
 
         git clone http://github.com/PharaohTools/phlagrant && sudo php phlagrant/install
 
-Methodologies in usage:
-***********************
+Methodologies in usage
+-----------------------
 
 Here, let us see how to use the commands under the tool and its usage.
 
@@ -146,7 +154,7 @@ The below screenshot explains you how the help command is used to explain the mo
     ******************************
 
 Brief Example
-**************
+---------------
 
 let's see about a short example regarding the phlagrant here.
 

@@ -86,23 +86,15 @@
   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Page <b class="caret"></b></a>
   <ul class="dropdown-menu localtoc"><ul>
 <li><a class="reference internal" href="#">Phlagrant</a><ul>
-<li><a class="reference internal" href="#requirements">Requirements</a><ul>
+<li><a class="reference internal" href="#requirements">Requirements</a></li>
 <li><a class="reference internal" href="#code-for-installing-virtual-box">Code for installing virtual box</a></li>
-</ul>
-</li>
-<li><a class="reference internal" href="#installation">Installation</a><ul>
+<li><a class="reference internal" href="#installation">Installation</a></li>
 <li><a class="reference internal" href="#installation-via-cleopatra">Installation via Cleopatra</a></li>
 <li><a class="reference internal" href="#installing-phlagrant-alone">Installing Phlagrant alone</a></li>
-</ul>
-</li>
-<li><a class="reference internal" href="#methodologies-in-usage">Methodologies in usage:</a><ul>
+<li><a class="reference internal" href="#methodologies-in-usage">Methodologies in usage</a></li>
 <li><a class="reference internal" href="#help-command">Help command:</a></li>
-</ul>
-</li>
-<li><a class="reference internal" href="#brief-example">Brief Example</a><ul>
+<li><a class="reference internal" href="#brief-example">Brief Example</a></li>
 <li><a class="reference internal" href="#playing-with-phlagrant-modules">Playing with Phlagrant Modules</a></li>
-</ul>
-</li>
 </ul>
 </li>
 </ul>
@@ -149,10 +141,11 @@
 <div class="section" id="requirements">
 <h2>Requirements<a class="headerlink" href="#requirements" title="Permalink to this headline">¶</a></h2>
 <p>If you wish to use the Phlagrant, ensure whether the Virual box is installed in your machine, along with the Virtual box guest additions functionality</p>
+</div>
 <div class="section" id="code-for-installing-virtual-box">
-<h3>Code for installing virtual box<a class="headerlink" href="#code-for-installing-virtual-box" title="Permalink to this headline">¶</a></h3>
-<blockquote>
-<div>sudo cleopatra virtualbox install &#8211;yes &#8211;guess &#8211;with-guest-additions</div></blockquote>
+<h2>Code for installing virtual box<a class="headerlink" href="#code-for-installing-virtual-box" title="Permalink to this headline">¶</a></h2>
+<div class="highlight-bash"><div class="highlight"><pre>sudo cleopatra virtualbox install --yes --guess --with-guest-additions
+</pre></div>
 </div>
 </div>
 <div class="section" id="installation">
@@ -160,18 +153,19 @@
 <p>There is two possible ways to install the Phlagrant tool to your machine:</p>
 <p>1)Installation via Cleopatra
 2)Installing Phlagrant alone</p>
+</div>
 <div class="section" id="installation-via-cleopatra">
-<h3>Installation via Cleopatra<a class="headerlink" href="#installation-via-cleopatra" title="Permalink to this headline">¶</a></h3>
-<p>if you have Cleopatra tool in your machine, then it&#8217;s simple to install the phlagrant by using the code as given below:</p>
-<div class="highlight-python"><div class="highlight"><pre>sudo cleopatra phlagrant install --yes --guess
+<h2>Installation via Cleopatra<a class="headerlink" href="#installation-via-cleopatra" title="Permalink to this headline">¶</a></h2>
+<p>if you have Cleopatra tool in your machine, then it&#8217;s simple to install the phlagrant by using the code as given below,</p>
+<div class="highlight-bash"><div class="highlight"><pre>sudo cleopatra phlagrant install --yes --guess
 </pre></div>
 </div>
 <p>here the word guess can be ignored while selecting your own directory during installation.</p>
 </div>
 <div class="section" id="installing-phlagrant-alone">
-<h3>Installing Phlagrant alone<a class="headerlink" href="#installing-phlagrant-alone" title="Permalink to this headline">¶</a></h3>
-<p>If you want to install the phlagrant tool to your machine without depending on the Cleopatra tool, it is easier by using the command,:</p>
-<div class="highlight-python"><div class="highlight"><pre>sudo apt-get install php5 git
+<h2>Installing Phlagrant alone<a class="headerlink" href="#installing-phlagrant-alone" title="Permalink to this headline">¶</a></h2>
+<p>If you want to install the phlagrant tool to your machine without depending on the Cleopatra tool, it is easier by using the command,</p>
+<div class="highlight-bash"><div class="highlight"><pre>sudo apt-get install php5 git
 </pre></div>
 </div>
 <p>this command will install php5 and git on your machine. After that use the following command,:</p>
@@ -183,9 +177,8 @@
 </pre></div>
 </div>
 </div>
-</div>
 <div class="section" id="methodologies-in-usage">
-<h2>Methodologies in usage:<a class="headerlink" href="#methodologies-in-usage" title="Permalink to this headline">¶</a></h2>
+<h2>Methodologies in usage<a class="headerlink" href="#methodologies-in-usage" title="Permalink to this headline">¶</a></h2>
 <p>Here, let us see how to use the commands under the tool and its usage.</p>
 <p>if you simply type the following command,:</p>
 <div class="highlight-python"><div class="highlight"><pre><span class="n">phlagrant</span>
@@ -229,8 +222,9 @@ Virtualbox - Virtualbox Provider Integration
 ******************************
 </pre></div>
 </div>
+</div>
 <div class="section" id="help-command">
-<h3>Help command:<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h3>
+<h2>Help command:<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>It&#8217;s simple to use the help command,</p>
 <blockquote>
 <div>phlagrant ModuleName help</div></blockquote>
@@ -265,7 +259,6 @@ End Help
 </pre></div>
 </div>
 </div>
-</div>
 <div class="section" id="brief-example">
 <h2>Brief Example<a class="headerlink" href="#brief-example" title="Permalink to this headline">¶</a></h2>
 <p>let&#8217;s see about a short example regarding the phlagrant here.</p>
@@ -280,8 +273,9 @@ End Help
 </div>
 <p>flirtify phlagrant flirt now &#8211;template-group=default-php</p>
 <p>install, configure and start the virtual machine Phlagrant up now</p>
+</div>
 <div class="section" id="playing-with-phlagrant-modules">
-<h3>Playing with Phlagrant Modules<a class="headerlink" href="#playing-with-phlagrant-modules" title="Permalink to this headline">¶</a></h3>
+<h2>Playing with Phlagrant Modules<a class="headerlink" href="#playing-with-phlagrant-modules" title="Permalink to this headline">¶</a></h2>
 <div class="toctree-wrapper compound">
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="autossh.html">AutoSSH</a><ul>
@@ -326,7 +320,6 @@ End Help
 </ul>
 </li>
 </ul>
-</div>
 </div>
 </div>
 </div>

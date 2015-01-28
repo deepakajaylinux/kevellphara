@@ -8,7 +8,8 @@ Synopsis
 This module aims at installing behat with the most-recent version. This helps in testing an php script. It facilitates the users to identify the errors in php script. It highlights the enabled and disabled templates. The git acts as a supporting software for behat.
 
 Help Command
-=============
+---------------
+
 
 The help command guides the user get aware of the uses, and also the options and actions that can be performed.
 

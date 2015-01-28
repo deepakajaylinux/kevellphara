@@ -605,6 +605,7 @@ Playing with Cleopatra Modules
    postgresserver
    process
    python
+   redis
    runcommand   
    service
    sshharden

@@ -589,10 +589,12 @@ Playing with Cleopatra Modules
    mysqlserver
    mysqladmin
    mysqltool
+   newrelic
    ngnix
    node
    parrallax
    phake
+   phpcodebeautifier
    phpconf
    phpci
    phpcs

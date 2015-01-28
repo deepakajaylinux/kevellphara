@@ -175,5 +175,7 @@ Playing with Phlagrant Modules
 
  autossh
  box
+ sftp
+ systemdetection_phlagrant
 
 

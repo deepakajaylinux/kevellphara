@@ -619,6 +619,7 @@ Playing with Cleopatra Modules
    vnc
    wireframesketcher
    xvfb
+   zendserver
    
 
 

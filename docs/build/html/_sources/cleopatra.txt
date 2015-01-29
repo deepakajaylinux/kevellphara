@@ -624,6 +624,7 @@ Playing with Cleopatra Modules
    varnish
    virtualbox
    vnc
+   vncpasswd
    wireframesketcher
    xvfb
    zendserver

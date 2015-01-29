@@ -574,7 +574,8 @@ Playing with Cleopatra Modules
    firefox24   
    firefox33
    firewall
-   gitbucket   
+   gitbucket 
+   gitkeysafe  
    gitlab
    gittools
    hhvm

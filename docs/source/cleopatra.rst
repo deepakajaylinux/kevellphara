@@ -585,8 +585,9 @@ Playing with Cleopatra Modules
    jenkins   
    jenkinsplugins
    jmeter
-   jrush   
+   jrush 
    lighthttpd
+   logging_cleo
    mediatool
    minify
    mkdir

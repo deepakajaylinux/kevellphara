@@ -582,6 +582,7 @@ Playing with Cleopatra Modules
    java   
    jenkins   
    jenkinsplugins
+   jmeter
    jrush   
    lighthttpd
    mediatool

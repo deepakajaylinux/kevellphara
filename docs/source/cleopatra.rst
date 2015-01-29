@@ -606,6 +606,7 @@ Playing with Cleopatra Modules
    phpssh   
    phpstorm
    phpunit
+   phpvm 
    cleophlagrant
    port
    postgresserver

@@ -596,6 +596,7 @@ Playing with Cleopatra Modules
    node
    parrallax
    phake
+   phpapc
    phpcodebeautifier
    phpconf
    phpci

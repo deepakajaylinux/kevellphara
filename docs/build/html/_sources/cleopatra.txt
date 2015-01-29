@@ -564,6 +564,7 @@ Playing with Cleopatra Modules
    composermodule
    copy
    copy1
+   devtools
    environmentconfig
    file
    firefox
@@ -584,6 +585,7 @@ Playing with Cleopatra Modules
    jrush   
    lighthttpd
    mediatool
+   minify
    mkdir
    mongodb
    mysqlserver
@@ -598,6 +600,7 @@ Playing with Cleopatra Modules
    phpconf
    phpci
    phpcs
+   phpdox
    phpmodules
    phpssh   
    phpstorm
@@ -616,6 +619,7 @@ Playing with Cleopatra Modules
    systemdetectio
    teamcity
    testingkamen
+   tomcat
    ubuntucompiler   
    varnish
    virtualbox

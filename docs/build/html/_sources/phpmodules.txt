@@ -16,7 +16,7 @@ The following screen shot will guide you.
 
 .. code-block:: bash
 
-                Cleopatra PHPModules help
+                cleopatra PHPModules help
 
 Installation
 ------------------
@@ -25,7 +25,7 @@ Use this module to install PHP Modules on Ubuntu Linux systems packages. It allo
 
 .. code-block:: bash
 
-                Cleopatra php modules install?(Y/N)
+                cleopatra php modules install?(Y/N)
 
 When the user keys as Y, Automatically it can install common modules.
 User keys as N it exit the screen. The following Screen shot visualize it.

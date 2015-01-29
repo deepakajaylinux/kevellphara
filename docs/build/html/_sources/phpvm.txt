@@ -24,8 +24,6 @@ The syntax for declaring the help command is not case sensitive which is an adde
 .. code-block:: bash
 
  kevells@corp:/# cleopatra phpvm help
- PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php5/20121212/mcrypt.so' - /usr/lib/php5/20121212/mcrypt.so: cannot open 
- shared object file: No such file or directory in Unknown on line 0
 
  ******************************
 
@@ -89,8 +87,6 @@ The following screenshot pictorially depicts the above described process of inst
 .. code-block:: bash
 
  kevells@corp:/# cleopatra phpvm install
- PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php5/20121212/mcrypt.so' - /usr/lib/php5/20121212/mcrypt.so: cannot open 
- shared object file: No such file or directory in Unknown on line 0
 
  Install PHPVM? (Y/N) 
  Y

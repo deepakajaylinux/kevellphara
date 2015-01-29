@@ -29,8 +29,6 @@ The syntax for declaring the help command is not case sensitive which is an adde
 .. code-block:: bash
 
  kevells@corp:/# cleopatra PHPAPC help
- PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php5/20121212/mcrypt.so' - /usr/lib/php5/20121212/mcrypt.so: cannot open 
- shared object file: No such file or directory in Unknown on line 0
 
  ******************************
 
@@ -94,8 +92,6 @@ Finally, the process of installation gets completed. The following screenshot vi
 .. code-block:: bash
 
  kevells@corp:/# cleopatra phpapc install
- PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php5/20121212/mcrypt.so' - /usr/lib/php5/20121212/mcrypt.so: cannot open 
- shared object file: No such file or directory in Unknown on line 0
 
  Install PHP APC? (Y/N) 
  Y

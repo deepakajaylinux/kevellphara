@@ -24,8 +24,6 @@ The following screen shots explains its function
 .. code-block:: bash
 
  kevells@corp:/# cleopatra Tomcat help
- PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php5/20121212/mcrypt.so' - /usr/lib/php5/20121212/mcrypt.so: cannot open 
- shared object file: No such file or directory in Unknown on line 0
 
  ******************************
 

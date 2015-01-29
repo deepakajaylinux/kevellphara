@@ -63,7 +63,6 @@ Before installation the user has to follow:
 .. code-block:: bash
 
  kevells@corp:/# cleopatra newrelic install
- PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php5/20121212/mcrypt.so' - /usr/lib/php5/20121212/mcrypt.so: cannot open s hared object file: No such file or directory in Unknown on line 0
 
  Install NewRelic? (Y/N) 
  y

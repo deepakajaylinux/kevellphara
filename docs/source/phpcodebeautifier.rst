@@ -57,8 +57,6 @@ While installing this module the following screen shot will be appeared.
 
 
  kevells@corp:/# cleopatra PHPCodeBeautifier install
- PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php5/20121212/mcrypt.so' - /usr/lib/php5/20121212/mcrypt.so: cannot open 
- shared object file: No such file or directory in Unknown on line 0
 
  Install PHPCodeBeautifier? (Y/N) 
  y

@@ -55,8 +55,6 @@ If the user gives Y then Phlagrant will be installed. The following Screen shot 
 .. code-block:: bash
 
  kevells@corp:/# cleopatra redis install
- PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php5/20121212/mcrypt.so' - /usr/lib/php5/20121212/mcrypt.so: cannot open 
- shared object file: No such file or directory in Unknown on line 0
 
  Install Redis? (Y/N) 
  y

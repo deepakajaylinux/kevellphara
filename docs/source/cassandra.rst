@@ -24,8 +24,6 @@ The pictorial representation of the above command is shown below,
 .. code-block:: bash
 
  kevells@corp:/# cleopatra cassandra help
- PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php5/20121212/mcrypt.so' - /usr/lib/php5/20121212/mcrypt.so: cannot open 
- shared object file: No such file or directory in Unknown on line 0
 
  ******************************
 
@@ -58,8 +56,6 @@ The pictorial representation of the above command is shown below,
 .. code-block:: bash
 
  kevells@corp:/#  cleopatra cassandra install
- PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php5/20121212/mcrypt.so' - /usr/lib/php5/20121212/mcrypt.so: cannot open 
- shared object file: No such file or directory in Unknown on line 0
 
  Install Cassandra? (Y/N) 
  Y

@@ -43,9 +43,6 @@ For each of the three classes of user, there are three types of access. 
  +--------------------+-----------------------------------------------------------------------+
 
 
-
-
-
 Help Command
 ----------------------
 

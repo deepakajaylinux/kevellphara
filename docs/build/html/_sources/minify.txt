@@ -25,8 +25,6 @@ This screen shot shows the help command usage
 .. code-block:: bash
 
  kevells@corp:/# cleopatra minify help
- PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php5/20121212/mcrypt.so' - /usr/lib/php5/20121212/mcrypt.so: cannot open 
- shared object file: No such file or directory in Unknown on line 0
 
  ******************************
 
@@ -77,6 +75,7 @@ Minify source code is especially useful for interpreted languages deployed and t
 
 Benefits
 ------------
+
 * Minify communicates via Php coding.
 * Minify comforts with Ubuntu and cent OS.
 * Minify supports non case sensitivity.

@@ -22,9 +22,6 @@ The following screen shot can visualize it.
 
  kevells@corp:/# cleopatra VNCPasswd help
 
- PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php5/20121212/mcrypt.so' - /usr/lib/php5/20121212/mcrypt.so: cannot open 
- shared object file: No such file or directory in Unknown on line 0
-
  ******************************
 
 
@@ -56,8 +53,6 @@ After key in the command the system can ask the user for input. If the user inpu
 .. code-block:: bash
 
  kevells@corp:/# cleopatra VNC-passwd install
- PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php5/20121212/mcrypt.so' - /usr/lib/php5/20121212/mcrypt.so: cannot open 
- shared object file: No such file or directory in Unknown on line 0
 
  Install VNCPasswd? (Y/N) 
  Y

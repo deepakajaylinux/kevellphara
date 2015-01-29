@@ -25,8 +25,6 @@ The syntax for the help command non case sensitive which adds an advantage for t
 .. code-block:: bash
 
  kevells@corp:/# cleopatra GitKeySafe help
- PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php5/20121212/mcrypt.so' - /usr/lib/php5/20121212/mcrypt.so: cannot open 
- shared object file: No such file or directory in Unknown on line 0
 
  ******************************
 
@@ -60,8 +58,6 @@ While installing this module the following screen shot will be appeared.
 .. code-block:: bash
 
  kevells@corp:/# cleopatra gitkeysafe install
- PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php5/20121212/mcrypt.so' - /usr/lib/php5/20121212/mcrypt.so: cannot open 
- shared object file: No such file or directory in Unknown on line 0
 
  Install Git Key-Safe Server? (Y/N) 
  Y

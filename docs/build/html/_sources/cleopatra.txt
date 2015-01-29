@@ -603,6 +603,7 @@ Playing with Cleopatra Modules
    phpcs
    phpdox
    phpmodules
+   phpmodules1
    phpssh   
    phpstorm
    phpunit

@@ -555,6 +555,7 @@ Playing with Cleopatra Modules
    apacheserver
    awstats
    behatcleo
+   cassandra
    chgrp
    chgrp1
    chmod

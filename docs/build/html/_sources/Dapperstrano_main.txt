@@ -9,6 +9,7 @@ Dapperstrano
    :maxdepth: 6
    
  apachecontrol
+ dbinstall
  environmentconfigdapper
  hosteditor
  logging_dapper

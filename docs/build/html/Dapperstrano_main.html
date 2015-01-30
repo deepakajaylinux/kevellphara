@@ -85,7 +85,19 @@
             <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Page <b class="caret"></b></a>
   <ul class="dropdown-menu localtoc"><ul>
-<li><a class="reference internal" href="#">Dapperstrano</a></li>
+<li><a class="reference internal" href="#">Dapperstrano</a><ul>
+<li><a class="reference internal" href="#synopsis">Synopsis</a></li>
+<li><a class="reference internal" href="#help-command">Help Command</a></li>
+<li><a class="reference internal" href="#why-to-build-this-dapperstrano">Why to build this dapperstrano</a></li>
+<li><a class="reference internal" href="#installation">Installation</a></li>
+<li><a class="reference internal" href="#installing-dapperstrano-via-cleopatra">Installing dapperstrano via cleopatra</a></li>
+<li><a class="reference internal" href="#installing-the-dapperstrano-without-depending-on-cleopatra">Installing the dapperstrano without depending on cleopatra</a></li>
+<li><a class="reference internal" href="#advanced-features">Advanced features</a></li>
+<li><a class="reference internal" href="#the-way-how-the-dapperstrano-promotes-your-project-using-dapperfy">The way how the dapperstrano promotes your project using dapperfy</a></li>
+<li><a class="reference internal" href="#capify-vs-dapperfy">Capify Vs Dapperfy</a></li>
+<li><a class="reference internal" href="#how-to-use-and-available-modules">How to Use and Available Modules</a></li>
+</ul>
+</li>
 </ul>
 </ul>
 </li>
@@ -120,6 +132,178 @@
   
   <div class="section" id="dapperstrano">
 <h1>Dapperstrano<a class="headerlink" href="#dapperstrano" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="synopsis">
+<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
+<p>The dapperstrano envelops the applications of the users with automated deployment, build and release functions, web App versioning and infrastructure by code in PHP.</p>
+<p>It ease the users and provides automated deployment templates and installs a completely continuous build for your project.</p>
+</div>
+<div class="section" id="help-command">
+<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
+<p>If you want to know the purpose of a particular module, just type the command as follows:</p>
+<div class="highlight-bash"><div class="highlight"><pre>dapperstrano ModuleName <span class="nb">help</span>
+</pre></div>
+</div>
+<p>this command will provide the usage of that particular module and also the available options in actions that you can perform. The screenshot shown under explains the usage of the module apache control under dapperstrano using the help command.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# dapperstrano ApacheControl <span class="nb">help</span>
+******************************
+
+
+ This <span class="nb">command </span>is part of Default Modules and handles Apache Server Control Functions.
+
+ ApacheControl, apachecontrol, apachectl
+
+         - start
+         Start the Apache server
+         example: dapperstrano apachecontrol start
+         example: dapperstrano apachecontrol start --yes --guess
+         example: dapperstrano apachecontrol start --yes --apache-command<span class="o">=</span><span class="s2">&quot;apache2&quot;</span>
+
+         - stop
+         Stop the Apache server
+         example: dapperstrano apachecontrol stop
+         example: dapperstrano apachecontrol stop --yes --guess
+         example: dapperstrano apachecontrol stop --yes --apache-command<span class="o">=</span><span class="s2">&quot;apache2&quot;</span>
+
+         - restart
+         Restart the Apache server
+         example: dapperstrano apachecontrol restart
+         example: dapperstrano apachecontrol restart --yes --guess
+         example: dapperstrano apachecontrol restart --yes --apache-command<span class="o">=</span><span class="s2">&quot;apache2&quot;</span>
+
+         - reload
+         Reloads the Apache server configuration without restarting
+         example: dapperstrano apachecontrol reload
+         example: dapperstrano apachecontrol reload --yes --guess
+         example: dapperstrano apachecontrol reload --yes --apache-command<span class="o">=</span><span class="s2">&quot;apache2&quot;</span>
+
+------------------------------
+End Help
+******************************
+</pre></div>
+</div>
+<p>The help command also lists the alternative parameters that can be used in declaration.</p>
+</div>
+<div class="section" id="why-to-build-this-dapperstrano">
+<h2>Why to build this dapperstrano<a class="headerlink" href="#why-to-build-this-dapperstrano" title="Permalink to this headline">¶</a></h2>
+<p>In order to build for well-deployment, many files are needed to be copied from FTP or other ad hoc solutions. And also lot of Enterprise Automation tools were missing. In order to overcome these shortages dapperstrano under the pharaoh tool were build up.
+PHP has dapperstrano just as ruby fiils the gap in Capistrano.</p>
+<p>This tool is for provisioning applications and builds to your boxes. The user can set up even simple or complex application deployment pattern to their system with one or two PHP files Or, quickly setup cloud friendly deployment patterns.</p>
+<p>Dapperstrano is modular. object oriented and extendible. So if the user requires any extra modules they can create and add the new modules based on their requirements.</p>
+<p>This dapperstrano acts as a wrapper where all the steps of users deployment gets covered into a single file. This allows using a single command to fire up an instance of your applications.</p>
+</div>
+<div class="section" id="installation">
+<h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
+<p>Installing the dapperstrano can be done in two possible ways depending upon the availability and requirements of the users. They two ways of installing dapperstrano are:</p>
+<ul class="simple">
+<li>Installing dapperstrano via cleopatra</li>
+<li>Installing the dapperstrano without depending on cleopatra.</li>
+</ul>
+</div>
+<div class="section" id="installing-dapperstrano-via-cleopatra">
+<h2>Installing dapperstrano via cleopatra<a class="headerlink" href="#installing-dapperstrano-via-cleopatra" title="Permalink to this headline">¶</a></h2>
+<p>If the user have the cleopatra in their machine, then it is the simpler way to install dapperstrano by using the following command:</p>
+<div class="highlight-bash"><div class="highlight"><pre>sudo cleopatra dapperstrano install --yes --guess
+</pre></div>
+</div>
+</div>
+<div class="section" id="installing-the-dapperstrano-without-depending-on-cleopatra">
+<h2>Installing the dapperstrano without depending on cleopatra<a class="headerlink" href="#installing-the-dapperstrano-without-depending-on-cleopatra" title="Permalink to this headline">¶</a></h2>
+<p>If the user wish to install the dapperstrano without depending and using the cleopatra they can use the following command:</p>
+<div class="highlight-bash"><div class="highlight"><pre>sudo apt-get install php5 git
+</pre></div>
+</div>
+<div class="highlight-bash"><div class="highlight"><pre>git clone https://git.pharaoh-tools.com/phpengine/dapperstrano <span class="o">&amp;&amp;</span> sudo php dapperstrano/install-silent
+</pre></div>
+</div>
+<p>or</p>
+<p>The below command is predictable for the users who wish to specify the location during installation.</p>
+<div class="highlight-bash"><div class="highlight"><pre>git clone https://git.pharaoh-tools.com/phpengine/dapperstrano <span class="o">&amp;&amp;</span> sudo php dapperstrano/install
+</pre></div>
+</div>
+</div>
+<div class="section" id="advanced-features">
+<h2>Advanced features<a class="headerlink" href="#advanced-features" title="Permalink to this headline">¶</a></h2>
+<p>Editing the host files, virtual host files, configuration files, database updates and more can all be automated using this.</p>
+<p>By using the capability of remote server management, the users can automate deployments across infrastructure of any size.</p>
+</div>
+<div class="section" id="the-way-how-the-dapperstrano-promotes-your-project-using-dapperfy">
+<h2>The way how the dapperstrano promotes your project using dapperfy<a class="headerlink" href="#the-way-how-the-dapperstrano-promotes-your-project-using-dapperfy" title="Permalink to this headline">¶</a></h2>
+<p>The word dapperfy is a dapperstrano command that creates some autopilots for your project.</p>
+<p>Using the dapperfy is very quick, and is probably the best starting point.</p>
+</div>
+<div class="section" id="capify-vs-dapperfy">
+<h2>Capify Vs Dapperfy<a class="headerlink" href="#capify-vs-dapperfy" title="Permalink to this headline">¶</a></h2>
+<p>When comparing the capify with dapperfy, it is obvious to say that the dapperfy is the best as it is written in PHP.</p>
+<p>The strong point is that the dapperfy dapperstrano command provides the standard set of autopilots for the users projects. where the capify provides similar function to the Ruby project.</p>
+</div>
+<div class="section" id="how-to-use-and-available-modules">
+<h2>How to Use and Available Modules<a class="headerlink" href="#how-to-use-and-available-modules" title="Permalink to this headline">¶</a></h2>
+<p>Let us see, how to use the Dapperstrano tool, first, simply type as</p>
+<div class="highlight-bash"><div class="highlight"><pre>Dapperstrano
+</pre></div>
+</div>
+<p>this command will list all the names of the modules that are available under Dapperstrano.</p>
+<ul class="simple">
+<li>ApacheControl - Apache Server Control</li>
+<li>ApacheVHostEditor - Apache Virtual Host Functions</li>
+<li>AppSettings - Dapperstrano Application Settings</li>
+<li>Autopilot - Dappestrano Autopilot - User Defined Installations</li>
+<li>Builderfy - Dapperstrano Builderfyer - Create some standard autopilots for your project</li>
+<li>CukeConf - Cucumber Configuration</li>
+<li>DBConfigure - Database Connection Configuration Functions</li>
+<li>DBInstall - Database Installation Management Functions</li>
+<li>Dapperfy - Dapperstrano Dapperfyer - Create some standard autopilots for your project</li>
+<li>EnvironmentConfig - Environment Configuration - Configure Environments for a project</li>
+<li>GitClone - GitClone Source Control Clone Functions</li>
+<li>HostEditor - Host File Management Functions</li>
+<li>Invoke - SSH Invocation Functions</li>
+<li>LighttpdControl - Lighttpd Server Control</li>
+<li>Logging - Logging - Output errors to the logging</li>
+<li>NginxControl - Nginx Server Control</li>
+<li>NginxSBEditor - Nginx Server Block Functions</li>
+<li>ParallelSshChild - Command Execution Functions</li>
+<li>Project - Dapperstrano Project Management Functions</li>
+<li>SVN - SVN Source Control Project Checkout/Download Functions</li>
+<li>SystemDetection - System Detection - Detect the Running Operating System</li>
+<li>Templating - Templating</li>
+<li>Version - Versioning Functions</li>
+</ul>
+<p>here, the screenshot denotes the display of all modules available under Cleopatra.</p>
+<div class="highlight-bash"><div class="highlight"><pre>Available Commands:
+---------------------------------------
+
+ApacheControl - Apache Server Control
+ApacheVHostEditor - Apache Virtual Host Functions
+AppSettings - Dapperstrano Application Settings
+Autopilot - Cleopatra Autopilot - User Defined Installations
+Builderfy - Dapperstrano Builderfyer - Create some standard autopilots <span class="k">for</span> your project
+CukeConf - Cucumber Configuration
+DBConfigure - Database Connection Configuration Functions
+DBInstall - Database Installation Management Functions
+Dapperfy - Dapperstrano Dapperfyer - Automated Application Deployment autopilots <span class="k">for</span> your project
+Drupal - Drupal - Integration and Templates <span class="k">for</span> Drupal
+EnvironmentConfig - Environment Configuration - Configure Environments <span class="k">for</span> a project
+GitClone - GitClone Source Control Clone Functions
+HostEditor - Host File Management Functions
+Invoke - SSH Invocation Functions
+Joomla - Joomla - Integration and Templates <span class="k">for</span> Joomla
+LighttpdControl - Lighttpd Server Control
+Logging - Logging - Output errors to the logging
+NginxControl - Nginx Server Control
+NginxSBEditor - Nginx Server Block Functions
+ParallelSshChild - Command Execution Functions
+Project - Dapperstrano Project Management Functions
+RunCommand - Execute a Command
+SFTP - SFTP Functionality
+SVN - SVN Source Control Project Checkout/Download Functions
+SystemDetection - System Detection - Detect the Running Operating System
+Templating - Templating
+Version - Versioning Functions
+Wordpress - Wordpress - Integration and Templates <span class="k">for</span> Wordpress
+
+******************************
+</pre></div>
+</div>
 <div class="toctree-wrapper compound">
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="apachecontrol.html">Apache Control</a><ul>
@@ -165,6 +349,17 @@
 <li class="toctree-l2"><a class="reference internal" href="hosteditor.html#benefits">Benefits</a></li>
 </ul>
 </li>
+<li class="toctree-l1"><a class="reference internal" href="lighttpdControl_dapper.html">LighttpdControl</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="lighttpdControl_dapper.html#synopsis">Synopsis</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lighttpdControl_dapper.html#help-command">Help command</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lighttpdControl_dapper.html#alternative-parameter">Alternative Parameter</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lighttpdControl_dapper.html#start">Start</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lighttpdControl_dapper.html#stop">Stop</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lighttpdControl_dapper.html#restart">Restart</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lighttpdControl_dapper.html#reload">Reload</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lighttpdControl_dapper.html#benefits">Benefits</a></li>
+</ul>
+</li>
 <li class="toctree-l1"><a class="reference internal" href="logging_dapper.html">Logging</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="logging_dapper.html#synopsis">Synopsis</a></li>
 <li class="toctree-l2"><a class="reference internal" href="logging_dapper.html#help-command">Help Command</a></li>
@@ -201,6 +396,14 @@
 <li class="toctree-l2"><a class="reference internal" href="run_command.html#benefits">Benefits</a></li>
 </ul>
 </li>
+<li class="toctree-l1"><a class="reference internal" href="sftp_dapper.html">SFTP</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="sftp_dapper.html#synopsis">Synopsis</a></li>
+<li class="toctree-l2"><a class="reference internal" href="sftp_dapper.html#help-command">Help command</a></li>
+<li class="toctree-l2"><a class="reference internal" href="sftp_dapper.html#installation">Installation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="sftp_dapper.html#options">Options</a></li>
+<li class="toctree-l2"><a class="reference internal" href="sftp_dapper.html#benefits">Benefits</a></li>
+</ul>
+</li>
 <li class="toctree-l1"><a class="reference internal" href="systemdetection.html">System Detection</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="systemdetection.html#synopsis">Synopsis</a></li>
 <li class="toctree-l2"><a class="reference internal" href="systemdetection.html#help-command">Help command</a></li>
@@ -210,6 +413,7 @@
 </ul>
 </li>
 </ul>
+</div>
 </div>
 </div>
 

@@ -553,6 +553,7 @@ Playing with Cleopatra Modules
    ApacheModules
    apachereverseproxy
    apacheserver
+   aptana
    awstats
    behatcleo
    cassandra
@@ -586,18 +587,23 @@ Playing with Cleopatra Modules
    jenkinsplugins
    jmeter
    jrush 
+   jetty
    lighthttpd
    logging_cleo
    mediatool
+   memcached
    minify
    mkdir
+   modulemanager
    mongodb
    mysqlserver
    mysqladmin
    mysqltool
+   netbeans
    newrelic
    ngnix
    node
+   openoffice
    parrallax
    phake
    phpapc
@@ -606,6 +612,8 @@ Playing with Cleopatra Modules
    phpci
    phpcs
    phpdox
+   phpeclipse
+   phpedit
    phpmodules
    phpmodules1
    phpssh   
@@ -620,6 +628,7 @@ Playing with Cleopatra Modules
    redis
    runcommand   
    service
+   skipfish
    sshharden
    sudonopass
    svn

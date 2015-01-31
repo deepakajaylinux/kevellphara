@@ -1,0 +1,118 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 11:09+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/copy1.rst:3
+# b2a8a3442ed641b99cd9c8a9db422f0c
+msgid "Copy"
+msgstr ""
+
+#: ../../source/copy1.rst:6
+# 51d9172a580a4ac186d0df4b25eb05ff
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/copy1.rst:8
+# 397d901557d54c28a55e7e5770b756b8
+msgid "Copy is the command entered in a Linux shell to copy a file from one place to another, possibly on a different file system. The original file remains unchanged, and the new file may have the same or a different name. Copy is the command which makes a copy of your files or directories. The ways files are copied in Linux depend on your distribution and file system. All versions of Linux could copy files from the command line. There are also a number of file managers both text based and GUI that could be used."
+msgstr ""
+
+#: ../../source/copy1.rst:11
+# c258f5c1fb344421adf7a8f1279830d7
+msgid "For instance, let's say you have a file named picture.jpg in your working directory, and you want to make a copy of it called picture-02.jpg. You would run the command and the file will be copied. Here, picture.jpg is the source of the copy operation and picture-02.jpg is the destination. Both files now exist in your working directory."
+msgstr ""
+
+#: ../../source/copy1.rst:13
+# d1e9be92e8ca4507a21a5607bce6d45a
+msgid "The source and destination files may also reside in different directories. For instance, make a copy of the file /home/chuck/pictures/picture.jpg in the directory/home/chuck/backup. The destination file will also be named picture.jpg."
+msgstr ""
+
+#: ../../source/copy1.rst:16
+# 201d2f25b8704522b4ef627aa23387da
+msgid "Help Command"
+msgstr ""
+
+#: ../../source/copy1.rst:18
+# 3df880642d1d47bfb06f073bdd49ee81
+msgid "This command helps to determine the usage of copy module. The user will come to know about the different way/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same."
+msgstr ""
+
+#: ../../source/copy1.rst:24
+# 2532e81350ca429889c59ac60ccb104d
+msgid "The pictorial representation of the copy command screenshot is listed below,"
+msgstr ""
+
+#: ../../source/copy1.rst:48
+# c37f8615dc5d4231a9500c95bbfbb175
+msgid "Put"
+msgstr ""
+
+#: ../../source/copy1.rst:50
+# a4ef7eef05c54d63a903cd503b02bedf
+msgid "When the user needs to copy a file in our source to other destination, the below given command will execute the process."
+msgstr ""
+
+#: ../../source/copy1.rst:57
+# 1fb829ac98234eef932545b51261a553
+msgid "The system asks for source file path and target file path."
+msgstr ""
+
+#: ../../source/copy1.rst:79
+# 8abac706b365467091f58e18fdce767a
+msgid "There is another option, wherein you can give the source and destination path in command line."
+msgstr ""
+
+#: ../../source/copy1.rst:97
+# 198cfe3f5cc14e608282ee40eddb6677
+msgid "Alternative Parameter"
+msgstr ""
+
+#: ../../source/copy1.rst:99
+# 00e795ee531a4e8e9b16dc15edbe80b9
+msgid "There are two alternative parameter which can be used in command line Copy , copy."
+msgstr ""
+
+#: ../../source/copy1.rst:101
+# 1efed18605fc485d92e5f51aff74e844
+msgid "Eg: cleopatra copy put/ cleopatra Copy help"
+msgstr ""
+
+#: ../../source/copy1.rst:105
+# 8723201293f048eb8048ad943cb4c0fd
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/copy1.rst:107
+# f681e0e6db62480a8e9dba74185c1b2e
+msgid "This command helps to make a copy of your files or directories."
+msgstr ""
+
+#: ../../source/copy1.rst:108
+# 836698f314bd433f98f6b405dbd33e5c
+msgid "Copy a file or directory from source to destination using single command"
+msgstr ""
+
+#: ../../source/copy1.rst:109
+# 86f89db678cc4cb9ba29bf7fd740242c
+msgid "If you want to copy a file from one folder to another with the same name, just the destination directory name is good enough"
+msgstr ""
+
+#: ../../source/copy1.rst:110
+# 05a2b0ddc8d544a1bce1026d2344bcd8
+msgid "A directory (and all its content) can be copied from source to destination with the recursive option -r"
+msgstr ""
+

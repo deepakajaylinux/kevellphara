@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2015, kevell
-# This file is distributed under the same license as the KEVELLS package.
+# This file is distributed under the same license as the KEVELL package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: KEVELLS 1.1.1\n"
+"Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-20 18:59+0530\n"
+"POT-Creation-Date: 2015-01-31 13:40+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,8 +16,295 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../source/Dapperstrano_main.rst:2
-# 7c942ad088054abe8a5301bc778084d1
+#: ../../source/Dapperstrano_main.rst:3
+# c8d1f4258483472f9de4da390d57df51
 msgid "Dapperstrano"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:7
+# 241d486abecd414c85eda2462895ae82
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:9
+# 2ee973916779423f814dfdbd36e3bbe6
+msgid "The dapperstrano envelops the applications of the users with automated deployment, build and release functions, web App versioning and infrastructure by code in PHP."
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:11
+# 76112be7cde04dc4aac39cfcef78ecc8
+msgid "It ease the users and provides automated deployment templates and installs a completely continuous build for your project."
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:14
+# 25baf7be142d476b936294576a037431
+msgid "Help Command"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:16
+# ce269e43cd9b4e60bb013ff7adb30fbc
+msgid "If you want to know the purpose of a particular module, just type the command as follows:"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:22
+# 836bb5e0b7a24d53b8ca1be2abd8fb6d
+msgid "this command will provide the usage of that particular module and also the available options in actions that you can perform. The screenshot shown under explains the usage of the module apache control under dapperstrano using the help command."
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:66
+# b3080e5846394836842511d91f361b3a
+msgid "The help command also lists the alternative parameters that can be used in declaration."
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:71
+# de5f5da083c54e1b8f5be8936ab8decd
+msgid "Why to build this dapperstrano"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:73
+# 158d223d1cf5468293c57c54ed78500e
+msgid "In order to build for well-deployment, many files are needed to be copied from FTP or other ad hoc solutions. And also lot of Enterprise Automation tools were missing. In order to overcome these shortages dapperstrano under the pharaoh tool were build up. PHP has dapperstrano just as ruby fiils the gap in Capistrano."
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:76
+# c37d5765aedd4aa695b95a04e887066a
+msgid "This tool is for provisioning applications and builds to your boxes. The user can set up even simple or complex application deployment pattern to their system with one or two PHP files Or, quickly setup cloud friendly deployment patterns."
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:78
+# dac87ed995304cafb8700f496ceec934
+msgid "Dapperstrano is modular. object oriented and extendible. So if the user requires any extra modules they can create and add the new modules based on their requirements."
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:80
+# 17b922ac7ec34c29b960ca42066c354c
+msgid "This dapperstrano acts as a wrapper where all the steps of users deployment gets covered into a single file. This allows using a single command to fire up an instance of your applications."
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:83
+# 163f21caf3a74fdfa91162b5857a9ef8
+msgid "Installation"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:85
+# d9106026723f47bdb75a46f4c8eee42e
+msgid "Installing the dapperstrano can be done in two possible ways depending upon the availability and requirements of the users. They two ways of installing dapperstrano are:"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:87
+#: ../../source/Dapperstrano_main.rst:93
+# f0916cf4b8614bbeae04074ee751c9c0
+# cdbd3a6791374c7a99276b49fa59b252
+msgid "Installing dapperstrano via cleopatra"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:88
+# 0e8651e1942a4139b080011faac89495
+msgid "Installing the dapperstrano without depending on cleopatra."
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:95
+# 5370556de043456490dccc2b52f308c4
+msgid "If the user have the cleopatra in their machine, then it is the simpler way to install dapperstrano by using the following command:"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:103
+# 16e8a47448594385baf485d5afe18abc
+msgid "Installing the dapperstrano without depending on cleopatra"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:105
+# 78d2b455fafd4485a2432ecf533341c4
+msgid "If the user wish to install the dapperstrano without depending and using the cleopatra they can use the following command:"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:114
+# 28188fd581e84b41a9ea4a304ef560f7
+msgid "or"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:116
+# e555b1ac717a4669b636a4c9af530035
+msgid "The below command is predictable for the users who wish to specify the location during installation."
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:123
+# 2c0e4e8dce4e45838aa773538cd11ae3
+msgid "Advanced features"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:125
+# 47acb45f3bc846eb82c16c98d7e37977
+msgid "Editing the host files, virtual host files, configuration files, database updates and more can all be automated using this."
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:127
+# e3a3da0b3ede46d79f5c8adcdc19f50d
+msgid "By using the capability of remote server management, the users can automate deployments across infrastructure of any size."
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:130
+# 4e863f084cb943eaae056a7cf3de8648
+msgid "The way how the dapperstrano promotes your project using dapperfy"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:132
+# a44b5ce0d5434072a04191025654d901
+msgid "The word dapperfy is a dapperstrano command that creates some autopilots for your project."
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:134
+# d12e7aa808344ec284cfe46d191b499d
+msgid "Using the dapperfy is very quick, and is probably the best starting point."
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:137
+# 3f4743ac0d394271a019a6c368324305
+msgid "Capify Vs Dapperfy"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:139
+# 717c109616014327a41ba3e6c9924343
+msgid "When comparing the capify with dapperfy, it is obvious to say that the dapperfy is the best as it is written in PHP."
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:141
+# 6576e89b3b154fb7a63a7657b9a207ae
+msgid "The strong point is that the dapperfy dapperstrano command provides the standard set of autopilots for the users projects. where the capify provides similar function to the Ruby project."
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:144
+# b5fa36908db74873a39ebda057bbbe6a
+msgid "How to Use and Available Modules"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:146
+# 91f472d447704f669f953fd0d049495d
+msgid "Let us see, how to use the Dapperstrano tool, first, simply type as"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:152
+# 2539325d06dc412489349af49bd654a9
+msgid "this command will list all the names of the modules that are available under Dapperstrano."
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:154
+# d37c89954dd34023b8cac2044c32d31a
+msgid "ApacheControl - Apache Server Control"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:155
+# 1c3be4c92b90409e83b0098f95874ae3
+msgid "ApacheVHostEditor - Apache Virtual Host Functions"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:156
+# bc5c66734bce4ed1b2752845bf6df1de
+msgid "AppSettings - Dapperstrano Application Settings"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:157
+# 188465de9cca443eb17fdedcc705aa4e
+msgid "Autopilot - Dappestrano Autopilot - User Defined Installations"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:158
+# ca0f48fe0bf04e74aa10f622c83d7061
+msgid "Builderfy - Dapperstrano Builderfyer - Create some standard autopilots for your project"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:159
+# 27da8a4168e9457f8f1431714eca0ba5
+msgid "CukeConf - Cucumber Configuration"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:160
+# e3aa5e849952491a8ebd0bfd12854629
+msgid "DBConfigure - Database Connection Configuration Functions"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:161
+# 3f138029e6a94edc88b18be90d555050
+msgid "DBInstall - Database Installation Management Functions"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:162
+# 649b451fc93f416bb54ae5a4e96d89b6
+msgid "Dapperfy - Dapperstrano Dapperfyer - Create some standard autopilots for your project"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:163
+# b524aefb776a42d8a215360711e064f9
+msgid "EnvironmentConfig - Environment Configuration - Configure Environments for a project"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:164
+# 89d101e003fe4037a60414d982a76179
+msgid "GitClone - GitClone Source Control Clone Functions"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:165
+# f75cafb585de41b4a72fa5d1790aa460
+msgid "HostEditor - Host File Management Functions"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:166
+# 57ca57119750457cb9df4ea9605aeffd
+msgid "Invoke - SSH Invocation Functions"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:167
+# 32149e0d9c1442948203bf91f31feade
+msgid "LighttpdControl - Lighttpd Server Control"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:168
+# 4e8de187bb1a4339a97e9ebcdc03b8de
+msgid "Logging - Logging - Output errors to the logging"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:169
+# af291a1d3ed7405794c297d382f567c5
+msgid "NginxControl - Nginx Server Control"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:170
+# a9bf0877527741acb0db321796a53e5d
+msgid "NginxSBEditor - Nginx Server Block Functions"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:171
+# f38edff900f94fdba988f5403097c753
+msgid "ParallelSshChild - Command Execution Functions"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:172
+# 7593962417514f53b23bd2481e222924
+msgid "Project - Dapperstrano Project Management Functions"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:173
+# 073168a450604522bb4a9b266f4fb651
+msgid "SVN - SVN Source Control Project Checkout/Download Functions"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:174
+# 6c5cc65230954591ad15317495352328
+msgid "SystemDetection - System Detection - Detect the Running Operating System"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:175
+# f8612b1eea424afabd57dd80703cdef4
+msgid "Templating - Templating"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:176
+# ee1ad358dc314c8384f6d08743fa7ab6
+msgid "Version - Versioning Functions"
+msgstr ""
+
+#: ../../source/Dapperstrano_main.rst:178
+# 0e5d0066c2bb4d29acc0666d9e56bb74
+msgid "here, the screenshot denotes the display of all modules available under Cleopatra."
 msgstr ""
 

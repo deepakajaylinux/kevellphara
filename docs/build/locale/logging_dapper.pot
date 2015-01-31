@@ -1,0 +1,182 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 13:40+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/logging_dapper.rst:3
+# 66feeca4abf746bab9bdd9e6ead36948
+msgid "Logging"
+msgstr ""
+
+#: ../../source/logging_dapper.rst:7
+# 28d8b8e96b094d288dcce977f95fcd90
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/logging_dapper.rst:9
+# 60fac7c9fe3943de9908900fe67dbf17
+msgid "This logging module is used for the purpose of log a message to the console, and is optionally used for php error log. Let us see how to install and to use the log for declaring message and in php error log."
+msgstr ""
+
+#: ../../source/logging_dapper.rst:13
+# ede4fa964cb94fefa090f0f2ab865984
+msgid "Help Command"
+msgstr ""
+
+#: ../../source/logging_dapper.rst:15
+# c3ddc5d75d28490284b3185fb1a685b5
+msgid "The help command acts as a brief user manual that leads the user about its usage and methodologies. It specifies the alternative parameters that can be used in declaration, and a syntax example to define a log. The command used for declaring the help option is given below:"
+msgstr ""
+
+#: ../../source/logging_dapper.rst:21
+# c505d2b5007d44f1a47b427a0b2ae14f
+msgid "The following screen shot depicts pictorially about the working of help command."
+msgstr ""
+
+#: ../../source/logging_dapper.rst:43
+# c9d542bfc8984c578c8b11ae715c0339
+msgid "Installation"
+msgstr ""
+
+#: ../../source/logging_dapper.rst:45
+# 9c1d8d1146754012ab2a90dab6fd2eae
+msgid "The command used for installing the logging under dapperstrano is given below:"
+msgstr ""
+
+#: ../../source/logging_dapper.rst:52
+# bc1629ede9634b7e83d83f2693ae1b24
+msgid "After inputting, the command above, the process of installation is depicted in the following tabular column."
+msgstr ""
+
+#: ../../source/logging_dapper.rst:59
+# aa8854ee4ec5492e94683088cf6e8b8e
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/logging_dapper.rst:59
+# 7757aab26ca24dd092f5bbadb2210840
+msgid "Alternative Parameters"
+msgstr ""
+
+#: ../../source/logging_dapper.rst:59
+# fe5b9753de8c4a0fa949863f3c984dc4
+msgid "Options"
+msgstr ""
+
+#: ../../source/logging_dapper.rst:59
+# 94afb850a16742499e466a2c65ddfc10
+msgid "Comments"
+msgstr ""
+
+#: ../../source/logging_dapper.rst:61
+#: ../../source/logging_dapper.rst:64
+# 4be1f6ac8f794891a9f17ec414219f9c
+# d175dd06c7af47c08c1d9287c2e04dde
+msgid "Install Logging? (Y/N)"
+msgstr ""
+
+#: ../../source/logging_dapper.rst:61
+#: ../../source/logging_dapper.rst:64
+# 368a766b52be4ac38819297a439d44f3
+# d350186aa50d40e8a934c3143b183b46
+msgid "Instead of Logging, we can use logging also."
+msgstr ""
+
+#: ../../source/logging_dapper.rst:61
+# f9b69cff4ade4000ae0042a5175e5eae
+msgid "Y(Yes)"
+msgstr ""
+
+#: ../../source/logging_dapper.rst:61
+# 194a597a605b451a982dd998df823d8b
+msgid "If the user wish to proceed the installation process they can input as Y."
+msgstr ""
+
+#: ../../source/logging_dapper.rst:64
+# 5ef312c6ec2d4018961061ae2beb7ae4
+msgid "N(No)"
+msgstr ""
+
+#: ../../source/logging_dapper.rst:64
+# 962ac8337f314d26b48ede528fbd335e
+msgid "If the user wish to quit the installation process they can input as N.|"
+msgstr ""
+
+#: ../../source/logging_dapper.rst:70
+# e6cfbd3929e34f628023190cb3d57e19
+msgid "If the user proceeds the installation process, the process request the users to specify the log message by asking"
+msgstr ""
+
+#: ../../source/logging_dapper.rst:79
+# 06edd17c0c3e4734a93bda20ea34b8c7
+msgid "Once the user input the message, the give log message will be appearing on the screen as shown:"
+msgstr ""
+
+#: ../../source/logging_dapper.rst:81
+# d8fe99f86a0d4b81a96291f0e051a85a
+msgid "\"Good Morning\""
+msgstr ""
+
+#: ../../source/logging_dapper.rst:83
+# b80574b195e84f0baccc1d6f5c4600e3
+msgid "Finally, installation gets completed. The following screenshot depicts the process of installation pictorially."
+msgstr ""
+
+#: ../../source/logging_dapper.rst:116
+# 9478de6226d14b0bbbb601dbead0317b
+msgid "How to define php error log"
+msgstr ""
+
+#: ../../source/logging_dapper.rst:118
+# 56a1f0fbb21a41c9bd5f6a71d316e461
+msgid "The syntax for declaring the log for php error log is shown below:"
+msgstr ""
+
+#: ../../source/logging_dapper.rst:124
+# eb289af9dee342598ffadc72e59c75e2
+msgid "Instead of"
+msgstr ""
+
+#: ../../source/logging_dapper.rst:131
+# d072dd2512e64a6693675f70e80603d7
+msgid "the user can add any text to the portion of log message depending upon their requirements."
+msgstr ""
+
+#: ../../source/logging_dapper.rst:134
+# 3cfc7d4b72fd4c44afd87b5f158214ff
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/logging_dapper.rst:136
+# e808dbdc825446898efd5ed4b49d3fa2
+msgid "The user can add their frequently used log message for the php error log."
+msgstr ""
+
+#: ../../source/logging_dapper.rst:137
+# 86ef1e731f984d6688a7023834419953
+msgid "While installing the log the user can input and ensure the display of log message."
+msgstr ""
+
+#: ../../source/logging_dapper.rst:138
+# 618cd00412944ec4aa7dc489e1c17283
+msgid "It is well-to-do in both ubuntu and as well as in cent OS."
+msgstr ""
+
+#: ../../source/logging_dapper.rst:139
+# 6151e9b4c317441d8ca280a33e08be91
+msgid "The parameters used in declaration is not case sensitive."
+msgstr ""
+

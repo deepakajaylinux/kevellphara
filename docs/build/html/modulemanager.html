@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>ModuleManager &mdash; KEVELL 0.1 documentation</title>
+    <title>ModuleManager &mdash; KEVELL 0.1 ドキュメント</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -25,10 +25,11 @@
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/translations.js"></script>
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
-    <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
+    <link rel="top" title="KEVELL 0.1 ドキュメント" href="index.html" />
     <link rel="up" title="Cleopatra" href="cleopatra.html" />
     <link rel="next" title="MongoDB" href="mongodb.html" />
     <link rel="prev" title="Mkdir" href="mkdir.html" />
@@ -104,9 +105,9 @@
           
             
   <li><a href="mkdir.html"
-         title="previous chapter">&laquo; Mkdir</a></li>
+         title="前の章へ">&laquo; Mkdir</a></li>
   <li><a href="mongodb.html"
-         title="next chapter">MongoDB &raquo;</a></li>
+         title="次の章へ">MongoDB &raquo;</a></li>
           
           
           <!--  <li>
@@ -130,13 +131,13 @@
   
   
   <div class="section" id="modulemanager">
-<h1>ModuleManager<a class="headerlink" href="#modulemanager" title="Permalink to this headline">¶</a></h1>
+<h1>ModuleManager<a class="headerlink" href="#modulemanager" title="このヘッドラインへのパーマリンク">¶</a></h1>
 <div class="section" id="synopsis">
-<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
+<h2>Synopsis<a class="headerlink" href="#synopsis" title="このヘッドラインへのパーマリンク">¶</a></h2>
 <p>The main scope of the module manager is to allow the user to manage their modules. Its major functions includes installation, enable, disable, ensure, uninstall. let us see about these major functions of module manager in a elaborate manner from the upcoming topics.</p>
 </div>
 <div class="section" id="help-command">
-<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
+<h2>Help Command<a class="headerlink" href="#help-command" title="このヘッドラインへのパーマリンク">¶</a></h2>
 <p>The help command of this module manager is a brief user manual that guides the user regarding the purpose, of module manager, describes the user about the major functions such as install, enable, disable, ensure, uninstall along with the syntax for declaring them. It also lists outs the alternative parameters of module manager. The command for declaring the help option under module manager is shown below:</p>
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra ModuleManager <span class="nb">help</span>
 </pre></div>
@@ -179,7 +180,7 @@ End Help
 </div>
 </div>
 <div class="section" id="installation">
-<h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
+<h2>Installation<a class="headerlink" href="#installation" title="このヘッドラインへのパーマリンク">¶</a></h2>
 <p>The command used for installing the module manager in the users machine is shown below:</p>
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra module-manager install
 </pre></div>
@@ -258,7 +259,7 @@ hand specify they own location|</td>
 <p>Finally installation will gets completed as depicted in the below screenshot.</p>
 </div>
 <div class="section" id="enable">
-<h2>Enable<a class="headerlink" href="#enable" title="Permalink to this headline">¶</a></h2>
+<h2>Enable<a class="headerlink" href="#enable" title="このヘッドラインへのパーマリンク">¶</a></h2>
 <p>The enable process aims at enabling the module. All the installed modules are enabled by default using the command given below:</p>
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra module-manager <span class="nb">enable</span> --module-name<span class="o">=</span><span class="s2">&quot;MyModule&quot;</span>
 </pre></div>
@@ -266,7 +267,7 @@ hand specify they own location|</td>
 <p>After inputting this command, the module which is specified gets enabled.</p>
 </div>
 <div class="section" id="disable">
-<h2>Disable<a class="headerlink" href="#disable" title="Permalink to this headline">¶</a></h2>
+<h2>Disable<a class="headerlink" href="#disable" title="このヘッドラインへのパーマリンク">¶</a></h2>
 <p>The disable process aims at disabling the module. The files of the disabled modules remains exists but they will not be loaded at the time of execution. This can be achieved by the following command</p>
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra module-manager disable --module-name<span class="o">=</span><span class="s2">&quot;MyModule&quot;</span>
 </pre></div>
@@ -274,7 +275,7 @@ hand specify they own location|</td>
 <p>After inputting this command, the module which is specified gets disabled.</p>
 </div>
 <div class="section" id="ensure">
-<h2>Ensure<a class="headerlink" href="#ensure" title="Permalink to this headline">¶</a></h2>
+<h2>Ensure<a class="headerlink" href="#ensure" title="このヘッドラインへのパーマリンク">¶</a></h2>
 <p>The role of ensure process is to check the availability of modules. After the process of ensuring gets completed the modules will be installed only if the modules report itself as not installed. The process of ensure can be done by using the command given below:</p>
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra module-manager ensure
 </pre></div>
@@ -298,7 +299,7 @@ Installer Finished
 </div>
 </div>
 <div class="section" id="uninstall">
-<h2>Uninstall<a class="headerlink" href="#uninstall" title="Permalink to this headline">¶</a></h2>
+<h2>Uninstall<a class="headerlink" href="#uninstall" title="このヘッドラインへのパーマリンク">¶</a></h2>
 <p>The uninstall process is used to delete all the files for the modules. The command used for uninstalling the module manager is shown below:</p>
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra module-manager uninstall
 </pre></div>
@@ -380,7 +381,7 @@ hand specify they own location|</td>
 </div>
 </div>
 <div class="section" id="benefits">
-<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
+<h2>Benefits<a class="headerlink" href="#benefits" title="このヘッドラインへのパーマリンク">¶</a></h2>
 <ul class="simple">
 <li>The parameters used in help and installation, uninstall, enable, disable, ensure are not case sensitive which is an added advantage while
 compared to others.</li>

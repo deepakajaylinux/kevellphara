@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2015, kevell
-# This file is distributed under the same license as the KEVELLS package.
+# This file is distributed under the same license as the KEVELL package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: KEVELLS 1.1.1\n"
+"Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-20 18:59+0530\n"
+"POT-Creation-Date: 2015-01-31 13:40+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,128 +17,128 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/firefox.rst:3
-# 7467287b653447bc959666f593f5a662
+# 1a828a65a2604e2580606f42379aec49
 msgid "FireFox"
 msgstr ""
 
 #: ../../source/firefox.rst:6
-# 8b464510797a4515a3cf756c86ca2e79
+# 942323d0436d417ba0815fa136147bfa
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/firefox.rst:8
-# f19f382276e747fcaf9dfc2193233fa7
+# 0df1a9fb196a462e9a1abcba3bee35de
 msgid "This module is open source web browser. It used to install firefox. Ubuntu releases updated versions periodically. It implements current and anticipated web standards. Long-term support includes updates for new hardware, security patches and updates to the 'Ubuntu stack' (cloud computing infrastructure). It is comfortable with Ubuntu and Cent OS."
 msgstr ""
 
 #: ../../source/firefox.rst:11
-# eb0322e96cd94a00812011911b2e6188
+# 82170c2d7f7f4719b94564b0c19a3506
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/firefox.rst:13
-# b0a8567da1af4490bef4e97c8cfb5f7b
+# 662046a209b24b689c1e13763ad3d619
 msgid "This command can function about the objectives and commands available under Firefox module. It also explains the command to install firefox. Before installation, the user can read this help command explains its function."
 msgstr ""
 
 #: ../../source/firefox.rst:19
-# 7c8b1f8614ba4a979f6ac2f4a48fe726
+# 571131c4cb20415caf58bc8bc068670c
 msgid "The following image also helps you to understand this module clearly."
 msgstr ""
 
 #: ../../source/firefox.rst:43
-# a19e382a59ad4d5293209b52de7f4ece
+# a73a80a6405d4dd98ffe121a517686fd
 msgid "Installation"
 msgstr ""
 
 #: ../../source/firefox.rst:45
-# 57a74a5b72034675962276aabaa2be54
+# 26f3e269cb984d87a4171f2b703b487d
 msgid "It is a glaring process to install firefox module under Cleopatra by just using the command given below,"
 msgstr ""
 
 #: ../../source/firefox.rst:51
-# 4e0107d189b94c80b677dee2ec254ad8
+# b980b559a0a745bbb8839d4998f86f28
 msgid "After key in the command, it can asks Install firefox?(Y/N) In case the user input as Y, it can install firefox from the package. Else, it can exit the screen. The following screen shots can explain it."
 msgstr ""
 
 #: ../../source/firefox.rst:93
 #: ../../source/firefox.rst:98
-# 2adf996c1e1a4382afe3c29817c2ea18
-# 8e7a001d19134641aafa6c3851137d21
+# babcbed081f04647991efaab80b26018
+# 6b193c73bb034128ab092fb9dca873b1
 msgid "Options"
 msgstr ""
 
 #: ../../source/firefox.rst:98
-# 60fc844be35346f9a1c6238fe165c61c
+# ef25d3c45c014345b8312313304b6cf6
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/firefox.rst:98
-# 2662f92bc8204d5192b318f7f72ff302
+# 201d17b415174d148053fe61ee372238
 msgid "Alternative Parameter"
 msgstr ""
 
 #: ../../source/firefox.rst:98
-# 7a0e708a7c35426a8fbea27c35018a36
+# 10ff1ecc3b3448ecb1521996cb3f9974
 msgid "Comment"
 msgstr ""
 
 #: ../../source/firefox.rst:100
 #: ../../source/firefox.rst:103
-# c7a825f2e90445c2b7648af3cbcfd709
-# 572d428f3e0a407ba44af0fcfdf76ffe
+# ae493bb86c3942cd9016afc613e73bad
+# 0ef8651360db4b37a1bd2b72b098ddc5
 msgid "cleopatra firefox Install"
 msgstr ""
 
 #: ../../source/firefox.rst:100
 #: ../../source/firefox.rst:103
-# 282421d4a5334719a4052c88437eec40
-# 38f28dcf153c46e5853456a9d876beea
+# 7195af2220574a5690160075036e9d5f
+# fa5fb3a2cfdb4da0bab7e664581975b7
 msgid "Firefox"
 msgstr ""
 
 #: ../../source/firefox.rst:100
-# 0aaf436ad6024fffa742dcd7299b0040
+# 300225a9523a4cb898447948367484df
 msgid "Y(YES)"
 msgstr ""
 
 #: ../../source/firefox.rst:100
-# 65e1ab10ba314ecb88470eb098572d24
+# 28b88b3dee324a839ea477ae1aceef8b
 msgid "System starts installation process they can input as Y"
 msgstr ""
 
 #: ../../source/firefox.rst:103
-# be6d2e8c94014e97ab3651f274a0ac41
+# 71bcb7e2c6654f56b538ef7600fca9ff
 msgid "N(No)"
 msgstr ""
 
 #: ../../source/firefox.rst:103
-# ac03c87177da4361b7c69daf238344fe
+# 839d3fd7af4d4028bb6c665b84ddeb3d
 msgid "If the user wish to quit the installation process they can input as N.|"
 msgstr ""
 
 #: ../../source/firefox.rst:110
-# c767142c2a934d23bf06d988abfe95bc
+# 68b7dcf8fd85413580a46362c3f457bf
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/firefox.rst:112
-# dde37ee9427242099c437672f190eba8
+# c0a6317f1fb3479181ab942577976aba
 msgid "Firefox uses support for new hardware and integration of all the updates published in that series to date."
 msgstr ""
 
 #: ../../source/firefox.rst:113
-# 6a2e2e1a9bbc40e6bafc2763e4c66509
+# c38d2c7b1bbe4f84836cd066f4da98de
 msgid "Firefox is an open source Web browser for Linux."
 msgstr ""
 
 #: ../../source/firefox.rst:114
-# e7fca8ea08e447e69c458af82a1c7520
+# a1a0715664fe4f7eb9b04e9420426ebc
 msgid "Firefox is non-case sensitive."
 msgstr ""
 
 #: ../../source/firefox.rst:115
-# 7f70cfbbda99456bb924cfe2b81cf2c3
+# 0a1abe0536304f019e1a628130e6a936
 msgid "Privacy and security measures, smart searching"
 msgstr ""
 

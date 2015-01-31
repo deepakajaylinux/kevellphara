@@ -1,0 +1,162 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 13:40+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/phpedit.rst:3
+# 32a3bb8401d94fa8953f9afd00f0472d
+msgid "PHPEdit"
+msgstr ""
+
+#: ../../source/phpedit.rst:6
+# 1b197e9db18c4540b483cb120e2ec7a6
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/phpedit.rst:7
+# 3c5e355096b7453ba79340e609176346
+msgid "PHPEdit module is a complete Integrated Development Environment for PHP. Much more than a simple PHP edit, it helps the user to carry out their projects in a friendly and efficient way, with a single tool integrating all the features the user will need from the design of their projects, their documentation, to their deployment. It appropriate with Ubuntu and centOS."
+msgstr ""
+
+#: ../../source/phpedit.rst:10
+# 9e7abb41290b4f2297d6980fdaab8c14
+msgid "Help command"
+msgstr ""
+
+#: ../../source/phpedit.rst:12
+# 16b7d06ea85a43a7b61638ad02b4228d
+msgid "The help command guides the users regarding the purpose and as well as about the options that are included in the Phpedit module. It lists out the alternative parameters of Phpedit module. It also describes the syntax for installing the Phpedit module. The help command for Phpedit module is shown as below."
+msgstr ""
+
+#: ../../source/phpedit.rst:18
+# 13a1936c01bc42cc8ac661b9ff98648d
+msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under Phpedit."
+msgstr ""
+
+#: ../../source/phpedit.rst:42
+# b95306a527934652841d694148eba31b
+msgid "Installation"
+msgstr ""
+
+#: ../../source/phpedit.rst:44
+# 40c377189fea4bcb9ba9db3165cda455
+msgid "PHPEdit comes with a lot of extensions, frameworks, help files and tools, so it is shipped in an installer which can be customized to suits the user needs.However, because PHPEdit is constantly evolving, with new features and maintenance fixes, an auto update system is also available, to help keep up with PHPEdit's latest releases effortlessly. the command used for installation of this module as follows,"
+msgstr ""
+
+#: ../../source/phpedit.rst:50
+# c10e3a5b459c43b196b079ebf639e902
+msgid "The screen shot makes clear about this module."
+msgstr ""
+
+#: ../../source/phpedit.rst:58
+# 054480f04f5344d5bb5666b0f2fee878
+msgid "Option"
+msgstr ""
+
+#: ../../source/phpedit.rst:63
+# d9c4a45261b74e3da1e9e0d90e17202e
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/phpedit.rst:63
+# 6c9a3e72fdac485d92080cd51c71995a
+msgid "Alternative Parameters"
+msgstr ""
+
+#: ../../source/phpedit.rst:63
+# c10aaa509e064500bc651841bd957628
+msgid "Options"
+msgstr ""
+
+#: ../../source/phpedit.rst:63
+# 08aacd7baf96457c8d9c1081126c4316
+msgid "Comments"
+msgstr ""
+
+#: ../../source/phpedit.rst:65
+#: ../../source/phpedit.rst:69
+# b095992af43143538705ba3cc77dab0b
+# 6fcbe6a688e744b68fa24c6c2793ed9c
+msgid "Install phpedit? (Y/N)"
+msgstr ""
+
+#: ../../source/phpedit.rst:65
+# cc77b4151bf24327bb26daca69d327c8
+msgid "In Spite of PHP-Edit, the following alternatives can also be used: phpedit,PHPEdit"
+msgstr ""
+
+#: ../../source/phpedit.rst:65
+#: ../../source/phpedit.rst:69
+# 01b1dcba2c4244f3a3d1b1ce807fa462
+# 7161e3bd771e484aa10ddaf3e9c8c18c
+msgid "Y"
+msgstr ""
+
+#: ../../source/phpedit.rst:65
+# 3973205288494184b01a5d64ed5afb6e
+msgid "The user wish to proceed the installation process."
+msgstr ""
+
+#: ../../source/phpedit.rst:69
+# b9304c6a400641489965a6d2695eee67
+msgid "In Spite of PHP-Edit, the following alternatives can also be used: phpedit,PHPEdit        |"
+msgstr ""
+
+#: ../../source/phpedit.rst:69
+# a0797ea26ee046ba8022b2a4effa2270
+msgid "The user wish to quit the installation process."
+msgstr ""
+
+#: ../../source/phpedit.rst:75
+# 0711ce148667423a952dceecad11cb52
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/phpedit.rst:77
+# ec864770b45b4625b5880a128152dc89
+msgid "Write the user code faster with all the available code assistants and code generators."
+msgstr ""
+
+#: ../../source/phpedit.rst:78
+# f2ac2745e8bf41ffaedbad381dca46a5
+msgid "Improve the quality of your projects with the integrated debugger, and the unit tests module"
+msgstr ""
+
+#: ../../source/phpedit.rst:79
+# 46eddec4e6fc4bf189d630c4d6ece759
+msgid "Deploy easily with a single click the user projects, and work transparently on remote files"
+msgstr ""
+
+#: ../../source/phpedit.rst:80
+# e4d75a49e7f34cdb9858371f76868217
+msgid "Increase the user productivity with their favorite frameworks"
+msgstr ""
+
+#: ../../source/phpedit.rst:81
+# 3f8d7022d6824a9cb868e8cfab5beaa8
+msgid "Code intelligence is possible."
+msgstr ""
+
+#: ../../source/phpedit.rst:82
+# 8853a07e08754daa83a508ea3e69f485
+msgid "Debugger and Profiler also available."
+msgstr ""
+
+#: ../../source/phpedit.rst:83
+# 11a62ce528ae498c8551abdf8ef33eb5
+msgid "Non case sensitivity acts a vital role in this module"
+msgstr ""
+

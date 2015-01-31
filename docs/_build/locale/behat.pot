@@ -1,0 +1,216 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 11:09+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/behat.rst:3
+# 9b3f0f4e5b1047eeaea4f8bf094a52dc
+msgid "Behat"
+msgstr ""
+
+#: ../../source/behat.rst:6
+# ba681b2dda2a46b0874bd361e774f686
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/behat.rst:8
+# 3cac9883a4e243b5b22cfc7fb6f45339
+msgid "This module allows the user to initialize behat test suite. The behat helps in testing an php script. It can highlight the enabled and disabled templates. Let us see how to init and execute the teskingkamen behat."
+msgstr ""
+
+#: ../../source/behat.rst:11
+# 1adeee0891534c33bece826811ed5919
+msgid "Help Command"
+msgstr ""
+
+#: ../../source/behat.rst:13
+# ae7cddb82b7645cfba4b1d00202afaf9
+msgid "The help command guides the user regarding the purpose and options available under a module. It lists out the alternative parameters that are used in declaration. It describes the syntax for initialize and to execute a behat under the testingkamen. The command used for declaring help is shown below:"
+msgstr ""
+
+#: ../../source/behat.rst:19
+# 6788f10e7cb443829cefc052678c7f53
+msgid "The following screen shot depicts pictorially about the working of help command."
+msgstr ""
+
+#: ../../source/behat.rst:46
+# c24cad0f64434bb6bc50e01344a9ce5d
+msgid "How to Initialize Behat"
+msgstr ""
+
+#: ../../source/behat.rst:48
+# 7558e6d1a1794fc6b8d829b7e80ae551
+msgid "The command used for initialize the behat under testingkamen is shown:"
+msgstr ""
+
+#: ../../source/behat.rst:54
+# 59bdcfdc7d6f422298383002fd53da70
+msgid "or"
+msgstr ""
+
+#: ../../source/behat.rst:61
+# 3f246463d3eb424681ceff171c96d5c4
+msgid "After inputting the command above, the process of initialize occurs as depicted in the below table."
+msgstr ""
+
+#: ../../source/behat.rst:67
+#: ../../source/behat.rst:132
+# d337c0dcfa8b4e91850288d74eed4dd8
+# 858cbc6582b3474da34e069dd1412500
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/behat.rst:67
+#: ../../source/behat.rst:132
+# 3f99194c080c4c439d3d5f8827ac8cf9
+# 381cfd9465314868b3ab5e21f21affb3
+msgid "Alternative Parameters"
+msgstr ""
+
+#: ../../source/behat.rst:67
+#: ../../source/behat.rst:132
+# 3c56648ea1f24067b2b0b154218e6b42
+# 44995b23cd5a4be9afc24a2c5e447e96
+msgid "Options"
+msgstr ""
+
+#: ../../source/behat.rst:67
+#: ../../source/behat.rst:132
+# c189e7dab68e4328acc43680c8ca403a
+# 744bcce906004016b9b0eb9f40b66665
+msgid "Comments"
+msgstr ""
+
+#: ../../source/behat.rst:69
+# b43d4e9538584c03a74ce36e634934d9
+msgid "Initialize Behat (Y/N)"
+msgstr ""
+
+#: ../../source/behat.rst:69
+#: ../../source/behat.rst:72
+#: ../../source/behat.rst:134
+#: ../../source/behat.rst:137
+# a84c9ff63800403dbe13c17a3e0e2490
+# d6c469b95c00410fb3f029ca32361812
+# 471f27754c724e8cb3709a06d82cd7ec
+# 0fa110ec2e3a4477a30e4c1e0640332f
+msgid "Instead of Behat, we can use behat also"
+msgstr ""
+
+#: ../../source/behat.rst:69
+#: ../../source/behat.rst:134
+# e0e8c305d64e4e54a057f607ebcb5644
+# 63b1564a78ed48379b826cb4d83c3dce
+msgid "Y(Yes)"
+msgstr ""
+
+#: ../../source/behat.rst:69
+# 1ea2d3e18af242809bbae6cafbe0a9dc
+msgid "If the user wish to proceed the init they can input as Y."
+msgstr ""
+
+#: ../../source/behat.rst:72
+# 8be8a032f8f34267aa754e70b6ea61b8
+msgid "Initialize Behat? (Y/N)"
+msgstr ""
+
+#: ../../source/behat.rst:72
+#: ../../source/behat.rst:137
+# 85ffdf38687a416ea7a73f576cf81fcf
+# e8e21ebcf0af4eddaaa5bb4ebd8e7850
+msgid "N(No)"
+msgstr ""
+
+#: ../../source/behat.rst:72
+# ace4164541a74de2b100ae5b957feb9a
+msgid "If the user wish to quit the init process they can input as N.|"
+msgstr ""
+
+#: ../../source/behat.rst:78
+# 312abe45422f4e01af7e04ae886612b1
+msgid "Finally the testingkamen behat gets initialized as shown in the following screenshot."
+msgstr ""
+
+#: ../../source/behat.rst:118
+# c442827f27bc4dd2b4ad77470a328cda
+msgid "How to Execute the Behat"
+msgstr ""
+
+#: ../../source/behat.rst:120
+# e66145d73ccd45f186cee2b1ad68365f
+msgid "The command used for executing the behat under testingkamen is shown:"
+msgstr ""
+
+#: ../../source/behat.rst:127
+# eba4ffe14ce64b208127e3da1a09662f
+msgid "After inputting the command above, the process of execution occurs as depicted in the below table."
+msgstr ""
+
+#: ../../source/behat.rst:134
+# 7e8d6e7b12a24f41b591d45a1cecde94
+msgid "Execute Behat (Y/N)"
+msgstr ""
+
+#: ../../source/behat.rst:134
+# 52faa39f91584711bffa566cee5aa68a
+msgid "If the user wish to proceed the execution they can input as Y."
+msgstr ""
+
+#: ../../source/behat.rst:137
+# 75844d77a8c74dd2a570cefa536e64e4
+msgid "Execute Behat? (Y/N)"
+msgstr ""
+
+#: ../../source/behat.rst:137
+# 8962c2b303124826914948f5b3f83f54
+msgid "If the user wish to quit the execution process they can input as N.|"
+msgstr ""
+
+#: ../../source/behat.rst:142
+# 966075006d5748deb2c765589dea36e3
+msgid "If the user proceed the execution, the process of execution will occur as depicted in the following screenshot."
+msgstr ""
+
+#: ../../source/behat.rst:182
+# 24a74e6338344f359554880a20903aa4
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/behat.rst:184
+# 2a7fb5c6479f48b68c2539dfb2e170da
+msgid "It guides the users to identify the errors in php script."
+msgstr ""
+
+#: ../../source/behat.rst:185
+# 5c3cc4e64bfa4b5bb016867939905b8a
+msgid "Using the features of behat the users can frame and specify the behavior of driven development."
+msgstr ""
+
+#: ../../source/behat.rst:186
+# f07c1e65e8654c5489aad8a25d08f91f
+msgid "The process of initialization and execution can be done under this behat of testingkament."
+msgstr ""
+
+#: ../../source/behat.rst:187
+# ede393d3b3e246a98fc513c58d7f0ae3
+msgid "It is well-to-do in both cent OS and as well as in ubuntu."
+msgstr ""
+
+#: ../../source/behat.rst:188
+# abb12747b8014973864df72d0d8dc64e
+msgid "The parameters used in declaration are not case sensitive which is an added advantage while compared to others."
+msgstr ""
+

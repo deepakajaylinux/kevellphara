@@ -1,0 +1,182 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 13:40+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/phpvm.rst:3
+# c0cf09632c0742419adeceab15421226
+msgid "PHPVM"
+msgstr ""
+
+#: ../../source/phpvm.rst:7
+# c92aa94aa47e415890a20ca54362734f
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/phpvm.rst:9
+# 86df16f7754e4bffa6bd9b0ac914777d
+msgid "This module acts as a facilitator for installing and as well as updating the php vm with the latest version. Let us see about the usage of this module and the possible ways to use this module in the upcoming topics."
+msgstr ""
+
+#: ../../source/phpvm.rst:12
+# bbe5b1e906104fcebeb65543750550ab
+msgid "Help Command"
+msgstr ""
+
+#: ../../source/phpvm.rst:14
+# 5bac0e8a0a6444618b39c8e3e4e799a3
+msgid "The help command guides the users regarding the purpose and as well as about the options that are included in the Phpvm module. It lists out the alternative parameters of Phpvm module. It also describes the syntax for installing the Phpvm module. The help command for Phpvm module is shown as below."
+msgstr ""
+
+#: ../../source/phpvm.rst:21
+# 034f1d4287604566908517ba9130e0c1
+msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under Phpvm."
+msgstr ""
+
+#: ../../source/phpvm.rst:45
+# 440c0e373d0d46d6b170aeaa52b9cce0
+msgid "Installation"
+msgstr ""
+
+#: ../../source/phpvm.rst:47
+# 1f8ed0d07064454d86e49b9235251a01
+msgid "The command used for installing the phpvm in the users machine is shown below:"
+msgstr ""
+
+#: ../../source/phpvm.rst:55
+# 919775d93b0e4a5aa4409b42f1ce0607
+msgid "After inputting the command above, the following process occurs as shown in the tabular format."
+msgstr ""
+
+#: ../../source/phpvm.rst:62
+# 497cbc5b45ec4464a77086efbbbfa1e2
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/phpvm.rst:62
+# 1eeb6dae5ad44f2d9d80bb08736bac0e
+msgid "Alternative Parameter"
+msgstr ""
+
+#: ../../source/phpvm.rst:62
+# 26e75b1026b247628d7951bcde5d7486
+msgid "Options"
+msgstr ""
+
+#: ../../source/phpvm.rst:62
+# 53eaacc8d68e43f6a65bd995d653ab72
+msgid "Comments"
+msgstr ""
+
+#: ../../source/phpvm.rst:64
+#: ../../source/phpvm.rst:67
+# 42b3c7a13978427c8ae4295ce2f1b2df
+# 4bdc2c8ff48646f6b3bab767cea77793
+msgid "Install PHPVM? (Y/N)"
+msgstr ""
+
+#: ../../source/phpvm.rst:64
+#: ../../source/phpvm.rst:67
+# e03edb84d9f349e1af208c25211afa19
+# de503b2ec63243769fe8d1296487bd8c
+msgid "Instead of phpvm, we can use PHPVM, Phpvm also."
+msgstr ""
+
+#: ../../source/phpvm.rst:64
+# 8d6a6c5dbffa42699d0e050e7fd0a5d4
+msgid "Y(Yes)"
+msgstr ""
+
+#: ../../source/phpvm.rst:64
+# 4e6e44fe12fc49fc87b4784eea41e1c5
+msgid "If the user wish to proceed the installation process they can input as Y."
+msgstr ""
+
+#: ../../source/phpvm.rst:67
+# c3e594890ed74adca3569f6a8cf0efec
+msgid "N(No)"
+msgstr ""
+
+#: ../../source/phpvm.rst:67
+# 68cf5399578f46a095b4e0ade23f15bb
+msgid "If the user wish to quit the installation process they can input as N.|"
+msgstr ""
+
+#: ../../source/phpvm.rst:73
+# 5d97f6f5377a46aeb3f3952bc225e235
+msgid "If the user proceeds the installation, during the process of installation is described in the below lists:"
+msgstr ""
+
+#: ../../source/phpvm.rst:75
+# 0973a872d3704081b73641d9cd965397
+msgid "builds the dependency tree."
+msgstr ""
+
+#: ../../source/phpvm.rst:76
+# 51719b91f95f4d4c81894b3a8785027c
+msgid "Reads the state information."
+msgstr ""
+
+#: ../../source/phpvm.rst:77
+# fa757044ae9242bba00aeeabe0d06959
+msgid "list outs the packages that are automatically installed."
+msgstr ""
+
+#: ../../source/phpvm.rst:78
+# 25aea442a5434daf83326122cb20dfa9
+msgid "list outs the new packages that are installing."
+msgstr ""
+
+#: ../../source/phpvm.rst:79
+# 2f7dac3821524649b84104cd41ccc843
+msgid "details regarding the number of files upgraded, newly installed, removed and not upgraded."
+msgstr ""
+
+#: ../../source/phpvm.rst:80
+# 2e2f494bd1dd4dbe9d68c5f2a86e1578
+msgid "Reads the package lists and displays the list of package that are already installed."
+msgstr ""
+
+#: ../../source/phpvm.rst:84
+# e8dadf71eac64d88a021f4c6fd865ce7
+msgid "The following screenshot pictorially depicts the above described process of installation."
+msgstr ""
+
+#: ../../source/phpvm.rst:355
+# 907a567603f64ed2bcb21bcea66d9a6d
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/phpvm.rst:357
+# 9671c4c1479b460ca67bcea1d1700e97
+msgid "The parameters used in help and installation are not case sensitive which is an added advantage while compared to others."
+msgstr ""
+
+#: ../../source/phpvm.rst:358
+# 91e5a311b1d7497e8b6ccffcda99fbe5
+msgid "It is well-to-do in both Ubuntu and as well as Cent OS."
+msgstr ""
+
+#: ../../source/phpvm.rst:359
+# c71f32cc1cc44068ae94ce0307d8e7cb
+msgid "This will module installs the phpvm in updated version."
+msgstr ""
+
+#: ../../source/phpvm.rst:360
+# 890014634bc041bf98f0e91fc2413ca1
+msgid "If the module is already existing in the user machine it will display a message as it is already existing."
+msgstr ""
+

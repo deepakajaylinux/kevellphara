@@ -1,0 +1,340 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 13:40+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/modulemanager.rst:3
+# 6eceba775ce84a9ab4f891128d9ad9bf
+msgid "ModuleManager"
+msgstr ""
+
+#: ../../source/modulemanager.rst:8
+# 84e1d1cb73dd4f1db836376660e033fe
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/modulemanager.rst:10
+# 01176ce5d77745508b4330459090cc6f
+msgid "The main scope of the module manager is to allow the user to manage their modules. Its major functions includes installation, enable, disable, ensure, uninstall. let us see about these major functions of module manager in a elaborate manner from the upcoming topics."
+msgstr ""
+
+#: ../../source/modulemanager.rst:13
+# 563e6a76e36e4205986b14bcea4ef351
+msgid "Help Command"
+msgstr ""
+
+#: ../../source/modulemanager.rst:15
+# 954b334dbc3f446c96939d92f68276c4
+msgid "The help command of this module manager is a brief user manual that guides the user regarding the purpose, of module manager, describes the user about the major functions such as install, enable, disable, ensure, uninstall along with the syntax for declaring them. It also lists outs the alternative parameters of module manager. The command for declaring the help option under module manager is shown below:"
+msgstr ""
+
+#: ../../source/modulemanager.rst:21
+# c3e7ad625c8d4506bcca1bd2b370ac7c
+msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under module manager."
+msgstr ""
+
+#: ../../source/modulemanager.rst:64
+# 33b1aaf16f6047e8a4fb747f09f7f5ad
+msgid "Installation"
+msgstr ""
+
+#: ../../source/modulemanager.rst:66
+# b0112943d76246699c1dbcf89692f910
+msgid "The command used for installing the module manager in the users machine is shown below:"
+msgstr ""
+
+#: ../../source/modulemanager.rst:72
+#: ../../source/modulemanager.rst:174
+# 7f8483f0c6f04f54b0388cf51af18d65
+# d20d917d76e14a00a00ec7bc8213d657
+msgid "After inputting the command above, the following process occurs as shown in the tabular format."
+msgstr ""
+
+#: ../../source/modulemanager.rst:78
+#: ../../source/modulemanager.rst:95
+#: ../../source/modulemanager.rst:180
+#: ../../source/modulemanager.rst:196
+# 00c260c37f794b4886ffc3534327af40
+# 4592f57277e0490fad6ea98e33b38f8f
+# 8a3074a2a22945d8a8bd5cf0e364d4cc
+# 2f61a29f6f144c12b531286ae4909bfb
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/modulemanager.rst:78
+#: ../../source/modulemanager.rst:180
+# a79f31d5b2414bcc87b3e28a06903eaf
+# 63e258c055184fff875facac1b7f4176
+msgid "Alternative Parameters"
+msgstr ""
+
+#: ../../source/modulemanager.rst:78
+#: ../../source/modulemanager.rst:95
+#: ../../source/modulemanager.rst:180
+#: ../../source/modulemanager.rst:196
+# d2fa65be822f453d9eae9faa84a21a7c
+# 153dc37bb58941d5942188f2b75fd99d
+# d5da6384c392470d8bd8118865730d0a
+# 08f4390f968f48ef950dc099f8bdf903
+msgid "Options"
+msgstr ""
+
+#: ../../source/modulemanager.rst:78
+#: ../../source/modulemanager.rst:95
+#: ../../source/modulemanager.rst:180
+#: ../../source/modulemanager.rst:196
+# 8ef15ffcb0a4460194b56949e912a912
+# cd0ea044ec464e6fbf7edfcdd633860f
+# 5353fce9441f4068ad073f6dfa6f3417
+# f4b11b07a0d04201b3347444162fcaf8
+msgid "Comments"
+msgstr ""
+
+#: ../../source/modulemanager.rst:80
+#: ../../source/modulemanager.rst:83
+# 406dd0bde43d4985813eef049d2244eb
+# e227493d4f7b438aa3675a24341626e0
+msgid "Install ModuleManager? (Y/N)"
+msgstr ""
+
+#: ../../source/modulemanager.rst:80
+#: ../../source/modulemanager.rst:83
+#: ../../source/modulemanager.rst:182
+#: ../../source/modulemanager.rst:185
+# 7f0678e20fcf43f7896d14111ada8f4d
+# f6cc998b370d461bb46bef8e3570231a
+# 35c60763d91445829268f3a6be3ed2fb
+# 19d3eae8092f416fae11bd3020d3f13f
+msgid "Instead of module-manager, we can use modulemanager, ModuleManager also."
+msgstr ""
+
+#: ../../source/modulemanager.rst:80
+#: ../../source/modulemanager.rst:182
+# bb138e002fa34c3ab56fca5370b48024
+# e58e37a1312642c982e8145254c51260
+msgid "Y(Yes)"
+msgstr ""
+
+#: ../../source/modulemanager.rst:80
+# 260307d1498741db99c27d6ae256b9ca
+msgid "If the user wish to proceed the installation process they can input as Y."
+msgstr ""
+
+#: ../../source/modulemanager.rst:83
+#: ../../source/modulemanager.rst:185
+# e7def8a63f0c4566aa092c1aaf513784
+# 0132736c3e704dac882c8f3107f0bc83
+msgid "N(No)"
+msgstr ""
+
+#: ../../source/modulemanager.rst:83
+# c10a536113484dc99033f09dc2186821
+msgid "If the user wish to quit the installation process they can input as N.|"
+msgstr ""
+
+#: ../../source/modulemanager.rst:89
+# b369e11a089d48d3b951f0968781b5d6
+msgid "If the user proceeds the installation, during the process of installation, the following process is done as shown in the tabular format:"
+msgstr ""
+
+#: ../../source/modulemanager.rst:95
+#: ../../source/modulemanager.rst:196
+# a0d372035dcc401c9b4a9c108a10ef50
+# 0b534530a599439aab410ede63b19281
+msgid "Path"
+msgstr ""
+
+#: ../../source/modulemanager.rst:97
+#: ../../source/modulemanager.rst:101
+#: ../../source/modulemanager.rst:198
+#: ../../source/modulemanager.rst:202
+# 7dd69e61a1844456a012bd7b0f1d601a
+# 150ee3dd05e642569b820145d631e33a
+# cdde3c6a5af048d18d8a2760958791ae
+# a667d4d4eb9746c9b5c9e6f403a9b6e4
+msgid "Program executor directory"
+msgstr ""
+
+#: ../../source/modulemanager.rst:98
+#: ../../source/modulemanager.rst:101
+#: ../../source/modulemanager.rst:199
+#: ../../source/modulemanager.rst:202
+# cf0fa2957b944731aaf4909fd7109684
+# e34d61c4c6254dfa9b13cabc278f4da2
+# fecad10cf96a4630816590d5f9d09ccd
+# a83011d02656486ebc5de426fc5c52dc
+msgid "(Default)"
+msgstr ""
+
+#: ../../source/modulemanager.rst:97
+#: ../../source/modulemanager.rst:198
+# 1dd3c109765f4cb5b736bb9f50d802be
+# bedca7115e1544eb83974b7ae154ecd6
+msgid "\"/usr/bin\""
+msgstr ""
+
+#: ../../source/modulemanager.rst:97
+#: ../../source/modulemanager.rst:198
+# 7f961e4a448c400ab7ed0325e247c96b
+# 32381989c25e4f4097760df85038f0e1
+msgid "Yes"
+msgstr ""
+
+#: ../../source/modulemanager.rst:97
+#: ../../source/modulemanager.rst:198
+# 2e11d2a123e548cbaceb5816d0b624af
+# dc737d8460934b16ae1f1f79504c1d33
+msgid "If the user to proceed installation with the default program executor directory they can input as Yes"
+msgstr ""
+
+#: ../../source/modulemanager.rst:100
+#: ../../source/modulemanager.rst:201
+# cab1408d78c94089851ae3dd086a5f21
+# ff2c0986a0d949408ab1e6a1ff4725ee
+msgid "user specific"
+msgstr ""
+
+#: ../../source/modulemanager.rst:100
+#: ../../source/modulemanager.rst:201
+# 5e3cc5b0dae144c1aaf095399b7e4ba4
+# 735df3d227ed47409593c3e126250c55
+msgid "No(End slash)"
+msgstr ""
+
+#: ../../source/modulemanager.rst:100
+#: ../../source/modulemanager.rst:201
+# a12e793509044485a6bfae21b775baea
+# 5dc64c76a96849a9b219846b13bb9aa0
+msgid "If the user to proceed installation with their own program executor directory they can input as N, and in hand specify they own location|"
+msgstr ""
+
+#: ../../source/modulemanager.rst:107
+# 6a7e9a5f32b64e79b394011b0f6d99df
+msgid "Finally installation will gets completed as depicted in the below screenshot."
+msgstr ""
+
+#: ../../source/modulemanager.rst:111
+# 4d1f5cfcf22245d68772148ba032922d
+msgid "Enable"
+msgstr ""
+
+#: ../../source/modulemanager.rst:113
+# 53aaa394dd9d4ad2a3838f97156b434b
+msgid "The enable process aims at enabling the module. All the installed modules are enabled by default using the command given below:"
+msgstr ""
+
+#: ../../source/modulemanager.rst:119
+# 9e309e1f20a849329590270bf0c1c8d9
+msgid "After inputting this command, the module which is specified gets enabled."
+msgstr ""
+
+#: ../../source/modulemanager.rst:122
+# 8bf695e871434ef4ba8e28633f33b151
+msgid "Disable"
+msgstr ""
+
+#: ../../source/modulemanager.rst:124
+# 54b4b4ed88324c7d9af9fb619301c082
+msgid "The disable process aims at disabling the module. The files of the disabled modules remains exists but they will not be loaded at the time of execution. This can be achieved by the following command"
+msgstr ""
+
+#: ../../source/modulemanager.rst:132
+# a216d2b85b52486b91e430136a64cfe7
+msgid "After inputting this command, the module which is specified gets disabled."
+msgstr ""
+
+#: ../../source/modulemanager.rst:135
+# 9f9706ec103348a9a76ef7c65073b29d
+msgid "Ensure"
+msgstr ""
+
+#: ../../source/modulemanager.rst:137
+# b299a3981a9b4e9b845462acd5968cf4
+msgid "The role of ensure process is to check the availability of modules. After the process of ensuring gets completed the modules will be installed only if the modules report itself as not installed. The process of ensure can be done by using the command given below:"
+msgstr ""
+
+#: ../../source/modulemanager.rst:143
+# dd22c9ec37f04ff9b591194aa9693f5b
+msgid "During the process of ensuring, the versions of the modules are not checked. The following screenshot pictorially represent the process of ensure."
+msgstr ""
+
+#: ../../source/modulemanager.rst:166
+# 6637ac05592540ebb49dd4efc765ba73
+msgid "Uninstall"
+msgstr ""
+
+#: ../../source/modulemanager.rst:168
+# 83456ecc94dc453ca59ab5455ca5c061
+msgid "The uninstall process is used to delete all the files for the modules. The command used for uninstalling the module manager is shown below:"
+msgstr ""
+
+#: ../../source/modulemanager.rst:182
+#: ../../source/modulemanager.rst:185
+# c7bdb3f79eea470c81d6a43df6d906c3
+# 48780fb1b03d4b8592395c55f75425fb
+msgid "Un Install ModuleManager? (Y/N)"
+msgstr ""
+
+#: ../../source/modulemanager.rst:182
+# 766e681646be4d8abd149e04d880a23b
+msgid "If the user wish to proceed the un installation process they can input as Y."
+msgstr ""
+
+#: ../../source/modulemanager.rst:185
+# fa0bbe95d75c41048c78269f722032cd
+msgid "If the user wish to quit the un installation process they can input as N.|"
+msgstr ""
+
+#: ../../source/modulemanager.rst:191
+# 247f5359215e45f59e8bff99f1d21881
+msgid "If the user proceeds the un installation, during the process of un installation, the following process is done as shown in the tabular format:"
+msgstr ""
+
+#: ../../source/modulemanager.rst:208
+# a35f83e94a4849269ace06aba66f58fc
+msgid "Finally, un installation gets completed as depicted in the below screenshot."
+msgstr ""
+
+#: ../../source/modulemanager.rst:214
+# ceb9a21d26c04328b4f26ff08fab3c1c
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/modulemanager.rst:216
+# 93713bad05084903a00aff2cc15fe091
+msgid "The parameters used in help and installation, uninstall, enable, disable, ensure are not case sensitive which is an added advantage while compared to others."
+msgstr ""
+
+#: ../../source/modulemanager.rst:218
+# 3684aa563f7f41a7b3e6a97393e52baf
+msgid "It is well-to-do in both Ubuntu and as well as Cent OS."
+msgstr ""
+
+#: ../../source/modulemanager.rst:219
+# 86cb4de593ad44cb92a774d50a901fd1
+msgid "The ensure process facilitates the checking availability of modules before installation."
+msgstr ""
+
+#: ../../source/modulemanager.rst:220
+# da12a2d4d3b64424b7631254a4373770
+msgid "If the user wish to disable a particular module they can disable them without deleting its corresponding files."
+msgstr ""
+
+#: ../../source/modulemanager.rst:221
+# 2648223bac1040bd83f5f4c49ab163da
+msgid "During install, uninstall the user can specify the location for program executor directory."
+msgstr ""
+

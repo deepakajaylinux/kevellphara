@@ -1,0 +1,148 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 13:40+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/run_command.rst:3
+# 15666f26634b448682df612193009a54
+msgid "Run Command"
+msgstr ""
+
+#: ../../source/run_command.rst:6
+# 36311ee25c7849e0bc3798043d13ea7d
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/run_command.rst:8
+# a5b30d6b320741df90cf899fb682f04d
+msgid "The run command modules enables the users to execute an operating system command. This is mainly be used in an Autopilot. Using this run command the user can specify the command, name of the user and also to run the either in background or front-end. Let us see the uses of run command."
+msgstr ""
+
+#: ../../source/run_command.rst:11
+# a9848d4d9a824016a1823b3e3416ec1b
+msgid "Help Command"
+msgstr ""
+
+#: ../../source/run_command.rst:13
+# 9e6af8b599e24ae6bc1a995d5cb1a2c5
+msgid "The help command describes the uses of run command, its major functionality, its alternative parameters, the commands used for executing a command, and also about the syntax for specifying the command, name of the user and also to run the either in background or front-end. The syntax used for declaring the help command is shown below."
+msgstr ""
+
+#: ../../source/run_command.rst:19
+# 17feb555673341a091f0bdd4d88c64c5
+msgid "The following screen shot depicts pictorially about the working of help command."
+msgstr ""
+
+#: ../../source/run_command.rst:42
+# 500abe7023dc4ff388986fa3cf8ee383
+msgid "How to use Run command"
+msgstr ""
+
+#: ../../source/run_command.rst:45
+# 7da2977836ba4bb5bd772230f35d7929
+msgid "The syntax used for specifying the run command in shown below."
+msgstr ""
+
+#: ../../source/run_command.rst:55
+# c5a0d3e7a558449b8e782031e13babe7
+msgid "Parameter"
+msgstr ""
+
+#: ../../source/run_command.rst:55
+# 25ee7cae56174b85b5463c00900eee27
+msgid "Function"
+msgstr ""
+
+#: ../../source/run_command.rst:55
+# 9f6cba0e87134950a02dfe0caf69be8d
+msgid "Usage"
+msgstr ""
+
+#: ../../source/run_command.rst:57
+# d4472c22144e417e87673e6b871f708f
+msgid "command=\"ls -lah /tmp\""
+msgstr ""
+
+#: ../../source/run_command.rst:57
+# 82e0f6b9753b414e8bbcd81d0d5b0aab
+msgid "It allows the user to specify the command and its purpose."
+msgstr ""
+
+#: ../../source/run_command.rst:57
+# b7b5888a7bc64690b86473eb77ad8ecc
+msgid "By using this, the user can specify their own command as per their requirements."
+msgstr ""
+
+#: ../../source/run_command.rst:60
+# 37fb27037fff4ab1821530d847da2b9f
+msgid "run-as-user=\"ubuntu\""
+msgstr ""
+
+#: ../../source/run_command.rst:60
+# 1f9a8c9de58045d4b557bafcf1ffa422
+msgid "By using this the user can specify the name of the user."
+msgstr ""
+
+#: ../../source/run_command.rst:60
+# e9a0eadf766d4cd7a2f0c4f3645d6d8f
+msgid "By using this, the user can specify their required user login as per their requirements."
+msgstr ""
+
+#: ../../source/run_command.rst:63
+# 251ad186548c4440a25577b50b648c6b
+msgid "\" --background"
+msgstr ""
+
+#: ../../source/run_command.rst:63
+# 902db823fb8545dca920e8cd6e070cf5
+msgid "It allows the user to specify where to run the particular command either in background or in the front-end.|"
+msgstr ""
+
+#: ../../source/run_command.rst:63
+# e60e78d1a6f44f6eab4f1844cf670ef4
+msgid "By using this, the user can specify their platform of usage as per their requirements."
+msgstr ""
+
+#: ../../source/run_command.rst:71
+# e87cc9cb41b64346978cd7d4dcb00b0e
+msgid "The syntax and table as described above can helps the user how to use the run command."
+msgstr ""
+
+#: ../../source/run_command.rst:74
+# ea4e3b6f52a64b38910d772c7283379e
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/run_command.rst:76
+# fdcc5c2415974d7e88b9b8448d730bca
+msgid "The parameters used for declaring help command, installation are not case sensitive which is an added advantage while compared to others."
+msgstr ""
+
+#: ../../source/run_command.rst:77
+# 632756d950544cd99cfba52eb93801ab
+msgid "It is well-to-do in both Cent OS and as well as in Ubuntu."
+msgstr ""
+
+#: ../../source/run_command.rst:78
+# cb2ef8b913eb4de68074a7554070d629
+msgid "The users can specify the command, name of the user and also to run the either in background or front-end."
+msgstr ""
+
+#: ../../source/run_command.rst:79
+# 9a32a4496d924a84a443b19b61c27e3c
+msgid "The help command guides the users in how to execute the run command an also its purpose."
+msgstr ""
+

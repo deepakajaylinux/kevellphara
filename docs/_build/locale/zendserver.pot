@@ -1,0 +1,176 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 11:09+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/zendserver.rst:3
+# cfebe79a70cf4103b1691d441726bb40
+msgid "Zend Server"
+msgstr ""
+
+#: ../../source/zendserver.rst:6
+# d24387f508f349ec86795ef15097c916
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/zendserver.rst:8
+# 6d36711dfec944959937eabaa400a746
+msgid "Zend Server is an application platform designed to run PHP applications faster and scale better on-premise or in the cloud - private, public or hybrid."
+msgstr ""
+
+#: ../../source/zendserver.rst:10
+# 1dc8be702d09470d8ba95683ac1b3c6b
+msgid "Zend Server is available as a development platform for creating higher quality apps that can be deployed on any server; and a production platform for running mission critical applications that require high performance and scalability."
+msgstr ""
+
+#: ../../source/zendserver.rst:12
+# 420ab8a92181418080a010c9438d6e63
+msgid "Zend Server is the platform that enables Continuous Delivery, which provides consistency, automation and collaboration capabilities throughout the application delivery cycle. It is a complete, Oracle-enabled, enterprise-ready Web Application Server for running and managing PHP applications that require a high level of reliability, performance and security."
+msgstr ""
+
+#: ../../source/zendserver.rst:16
+# 741837a001254127b7e83ed3f9053fff
+msgid "Help Command"
+msgstr ""
+
+#: ../../source/zendserver.rst:18
+# 89020daa25bb47c8a44343384c12a41b
+msgid "This command helps to determine the usage of Zend server module. The user will come to know about the different way/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same."
+msgstr ""
+
+#: ../../source/zendserver.rst:24
+#: ../../source/zendserver.rst:53
+# 946d73d3793f414580a2ce032f8ed8b1
+# 786df3ea392c4025980a18a77ffe8ffe
+msgid "The pictorial representation of the above command is listed below,"
+msgstr ""
+
+#: ../../source/zendserver.rst:45
+# b0bdfe5558ad4437b70488cd78049858
+msgid "Installation"
+msgstr ""
+
+#: ../../source/zendserver.rst:47
+# 0ef155c7b1aa4d1daa4f113d92368e9c
+msgid "This command helps in installing zendserver in system. If in case zendserver already available in the system this command will update the version. The below given command will execute the process of installation."
+msgstr ""
+
+#: ../../source/zendserver.rst:406
+#: ../../source/zendserver.rst:411
+# b27d7ddfa5e0405e87799ac8111ebae2
+# f6ee6c22063d41a1a91cbc9dbe38f45e
+msgid "Options"
+msgstr ""
+
+#: ../../source/zendserver.rst:411
+# 4bb6ec7e390747ffb15a14b4e937137c
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/zendserver.rst:411
+# 703b602d742e48fa9f22364f8c8f5700
+msgid "Alternative parameters"
+msgstr ""
+
+#: ../../source/zendserver.rst:411
+# 1bd0eb96a2674e2f864e0fde4225b965
+msgid "Comments"
+msgstr ""
+
+#: ../../source/zendserver.rst:413
+#: ../../source/zendserver.rst:419
+# 2be3a61ba60c4970bc306ff73a4ef3e3
+# 3ddf30ce33d44e46b7dace0496d138e7
+msgid "cleopatra zendserver Install"
+msgstr ""
+
+#: ../../source/zendserver.rst:413
+#: ../../source/zendserver.rst:419
+# 6c5797449f9e4014877f10f3e8db2cf3
+# ed33e496e0e544d585ba73562347fa39
+msgid "There are three alternative parameters which can be used in command line. zendserver , Zendserver, ZendServer Eg: cleopatra zendserver install/"
+msgstr ""
+
+#: ../../source/zendserver.rst:417
+# 0d4760157eab4a9690f565104853bf72
+msgid "cleopatra Zendserver install"
+msgstr ""
+
+#: ../../source/zendserver.rst:413
+# 28918e262b154592afbb249377f68f17
+msgid "Y"
+msgstr ""
+
+#: ../../source/zendserver.rst:413
+# 73010bc2357949e08598fd8e8162f201
+msgid "System starts installation process"
+msgstr ""
+
+#: ../../source/zendserver.rst:423
+# bf6e52802c97465b94f42647af306c4d
+msgid "cleopatra Zendserver install.|"
+msgstr ""
+
+#: ../../source/zendserver.rst:419
+# 4ce70a430fb14978b74b077956c4136e
+msgid "N"
+msgstr ""
+
+#: ../../source/zendserver.rst:419
+# 9b5705f6eebe4d92a25093a1eaea5199
+msgid "System stops installation process"
+msgstr ""
+
+#: ../../source/zendserver.rst:428
+# 6aeebd79ba2b4d75bb6d809b5e6e90f3
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/zendserver.rst:430
+# 8e4b1d49d22247498699932da10dbbe4
+msgid "Ultimate debugging of code, queries, and framework specifics"
+msgstr ""
+
+#: ../../source/zendserver.rst:431
+# 1d61ea0e77fc498d9321ad337b297440
+msgid "Complete monitoring and root cause analysis"
+msgstr ""
+
+#: ../../source/zendserver.rst:432
+# 8a017876ff1e4440bdb0c8ef1e1ebf36
+msgid "Improved code and application performance"
+msgstr ""
+
+#: ../../source/zendserver.rst:433
+# 9cb39f0d207d4be9995de93b436092f1
+msgid "Easy to install, maintain, and pre-installed in the cloud"
+msgstr ""
+
+#: ../../source/zendserver.rst:434
+# a797f5eefe114ab399ec06c266d69bb6
+msgid "Manual or automated deployment processes"
+msgstr ""
+
+#: ../../source/zendserver.rst:435
+# b9f6ca45260e47e2a3f4b06396cd42cf
+msgid "True dynamic scalability and higher availability"
+msgstr ""
+
+#: ../../source/zendserver.rst:436
+# c446baf0e9da4dbd853cfe75d780b633
+msgid "The only certified and fully supported PHP stack"
+msgstr ""
+

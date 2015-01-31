@@ -1,0 +1,187 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 11:09+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/varnish.rst:3
+# 76f37f621a9e40b3bccd640f8e42f342
+msgid "Varnish"
+msgstr ""
+
+#: ../../source/varnish.rst:6
+# 70619887ac114f2b8b139a8036f72d22
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/varnish.rst:8
+# 0cf99d86dd94453697aabe1006370385
+msgid "This module assists in installing the Varnish to the users machine. Varnish is a program that can greatly speed up a Web site while reducing the load on the Web server. According to Varnish's official site, Varnish is a \"Web application accelerator also known as a caching HTTP reverse proxy\". Let us see here, about how does this module performs installation of varnish of apt-get."
+msgstr ""
+
+#: ../../source/varnish.rst:11
+# e33bb43e9f574ebb932132f6086cab4b
+msgid "Help Command"
+msgstr ""
+
+#: ../../source/varnish.rst:13
+# e368ca15177240a688125853abe71745
+msgid "The help command guides the users regarding the purpose and as well as about the options that are included in the varnish module. The help command lists out the alternative parameters of varnish. It also describes the syntax for installing varnish. The help command under the varnish module is given below:"
+msgstr ""
+
+#: ../../source/varnish.rst:19
+# 8bb5f01a7f644c9cba5f698f69a45b86
+msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot depicts you about the help command under varnish module."
+msgstr ""
+
+#: ../../source/varnish.rst:41
+# 942aeff4bdaa4d38abffbc68142563fc
+msgid "Installation"
+msgstr ""
+
+#: ../../source/varnish.rst:43
+# a701723990854ae0b0e232f4cad8462b
+msgid "The command used for installing the varnish to the users machine is shown below."
+msgstr ""
+
+#: ../../source/varnish.rst:49
+# 859a307ba5d448138cf28ac42a35ced2
+msgid "After inputting the command above, the following operations occurs as shown in the tabular format."
+msgstr ""
+
+#: ../../source/varnish.rst:56
+# c89b773362a54a71a7f2d1669f1e7a76
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/varnish.rst:56
+# 329405d4fd404bce9b929fdf57a97a33
+msgid "Alternative Parameters"
+msgstr ""
+
+#: ../../source/varnish.rst:56
+# 39ac23d826e94b2d840d5f875f7057a9
+msgid "Options"
+msgstr ""
+
+#: ../../source/varnish.rst:56
+# 33ed65c805cc4bd58230530accc88d1f
+msgid "Comment"
+msgstr ""
+
+#: ../../source/varnish.rst:58
+#: ../../source/varnish.rst:61
+# a779bfbfa1144b1e9b6fe720315a9be8
+# 1bab8327480f4fd08c97449ab9dde622
+msgid "Install Varnish? (Y/N)"
+msgstr ""
+
+#: ../../source/varnish.rst:58
+#: ../../source/varnish.rst:61
+# c2f914c2e17c48eaa5004db7b8250544
+# 5d5549dee6604deb90df25205b7fa7ea
+msgid "In Spite of Varnish, varnish can also be used."
+msgstr ""
+
+#: ../../source/varnish.rst:58
+# e1d8fbc2530741efa59bf2dcf7c1c5e7
+msgid "Y(Yes)"
+msgstr ""
+
+#: ../../source/varnish.rst:58
+# c60ddc2c17944225bba9303943167e13
+msgid "If the user wish to proceed the installation process they can input as Y."
+msgstr ""
+
+#: ../../source/varnish.rst:61
+# 1e3644deeda443e5bb87632c05907e7b
+msgid "N(No)"
+msgstr ""
+
+#: ../../source/varnish.rst:61
+# 7bd4d79e93824596a696c309f8a32ded
+msgid "If the user wish to Quit the installation process they can input as N.|"
+msgstr ""
+
+#: ../../source/varnish.rst:66
+# 222f6d92b5f841038540d9bacc1ee429
+msgid "If the user proceeds the installation process, during execution of installation the following process occurs:"
+msgstr ""
+
+#: ../../source/varnish.rst:68
+# e3ced0d6fac3405ca5323e4d0286f58c
+msgid "Reads package lists."
+msgstr ""
+
+#: ../../source/varnish.rst:69
+# 0747da0e56c04a1085e3889931c9d374
+msgid "builds dependency tree."
+msgstr ""
+
+#: ../../source/varnish.rst:70
+# 0494cff43b88447c933d9f223e862d65
+msgid "reads state information."
+msgstr ""
+
+#: ../../source/varnish.rst:71
+# ebcf4c4c295341478866c34f7e4ff6cc
+msgid "list of installed packages."
+msgstr ""
+
+#: ../../source/varnish.rst:72
+# 3b186e5ff1ac404aa92e64ae4b1a08ad
+msgid "list of extra packages installed."
+msgstr ""
+
+#: ../../source/varnish.rst:73
+# 3d9d0afb457945f1bd46e43bd83d47d7
+msgid "list of new packages installed."
+msgstr ""
+
+#: ../../source/varnish.rst:74
+# 69c644ff29714cd7adaeafe4203773dc
+msgid "number of files upgraded, newly installed, removed, not upgraded."
+msgstr ""
+
+#: ../../source/varnish.rst:75
+# 408f72d9361840de8e5211875399b847
+msgid "Finally, starting HTTP accelerator varnished."
+msgstr ""
+
+#: ../../source/varnish.rst:76
+# 3928278f70e74d538dd3c246868733a5
+msgid "The following screen shot depicts the above mentioned process:"
+msgstr ""
+
+#: ../../source/varnish.rst:145
+# eff903dcd9f845dd90a213ef43c241d3
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/varnish.rst:147
+# 13fc73f010544255a0c7303be7777bd7
+msgid "Varnish is a modern, high-performance, open source caching reverse HTTP proxy implementation."
+msgstr ""
+
+#: ../../source/varnish.rst:148
+# a3c0cbc9eb554dae9f5499e7778fc72e
+msgid "The parameters used for declaring help command, installation are not case sensitive which is an added advantage while compared to others."
+msgstr ""
+
+#: ../../source/varnish.rst:149
+# b67f4551f9c648188c7fba943ceaa81d
+msgid "It is well-to-do in both Cent OS and as well as in Ubuntu."
+msgstr ""
+

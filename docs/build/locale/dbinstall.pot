@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 13:40+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/dbinstall.rst:3
+# 7f80472b0c3e4b8ebcf0e1e98abb5496
+msgid "DBInstall"
+msgstr ""
+
+#: ../../source/dbinstall.rst:7
+# bb0d2776c6c643eda75b1c77c7bcbc8a
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/dbinstall.rst:9
+# f1761e053013455f9cc4aa4b84c5a1b0
+msgid "Dbinstall module helps in handling database installation functions. This command used to install a new database. The installation requires sudo access, or it has to be executed as root. This includes execution of the rpm command, or the miminstall command of the tar package, and also when using the dbinstall command that creates an initial database."
+msgstr ""
+
+#: ../../source/dbinstall.rst:11
+# 13079b215d3946ec963217a66ab9f25c
+msgid "While creating an initial database, you have installed the software you can build a Mimer SQL database by using the dbinstall command."
+msgstr ""
+
+#: ../../source/dbinstall.rst:13
+# 9dc12ee89e7f4eaba0a9d155f6dc8981
+msgid "We just installed a new database on a Linux (CentOS) server and when I try to connect to the database (from the server) it requires the database name in the connect string. As mentioned before, the dbinstall command requires sudo access, or must be executed by root. If not started from a privileged shell sudo password will be asked."
+msgstr ""
+
+#: ../../source/dbinstall.rst:15
+# b2e66accae4543a985369170b1d250a5
+msgid "During the dbinstall session, database name, database location, and password for the database administrator (i.e. SYSADM) should be specified. There will also be options for installing example environments, etc. When the session is completed, a fully operational database is available - enabled for client/server access over TCP and automatic start at reboot."
+msgstr ""
+
+#: ../../source/dbinstall.rst:18
+# 240d263ae7c74c699b9a9e1afb67945e
+msgid "Help Command"
+msgstr ""
+
+#: ../../source/dbinstall.rst:20
+# a0dfc160eb434fe1aebe5a23a96ce4ab
+msgid "This command helps to determine the usage of DBinstall module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screen shot of the same."
+msgstr ""
+
+#: ../../source/dbinstall.rst:26
+# 9a00479c13e54b71b39b78186c4bf800
+msgid "The pictorial representation of the above command is shown below,"
+msgstr ""
+
+#: ../../source/dbinstall.rst:71
+# df55a7e6b47041bdb47e5bbb7e2131f8
+msgid "Installation"
+msgstr ""
+
+#: ../../source/dbinstall.rst:73
+# 36b336ee9ffb41028138f236aed9cc7b
+msgid "When the user needs to install, the user can issue the following commands for DBIstall. The system will execute the process of installation."
+msgstr ""
+
+#: ../../source/dbinstall.rst:89
+#: ../../source/dbinstall.rst:150
+#: ../../source/dbinstall.rst:193
+# fa2a87d9218948d1af9488eb42bed013
+# acef5801553040ed80520922de7be44d
+# cf3a850d423441a9b991e1aa30b70e52
+msgid "The system ask for the Mysql host, Press Enter to use the default host."
+msgstr ""
+
+#: ../../source/dbinstall.rst:96
+#: ../../source/dbinstall.rst:157
+#: ../../source/dbinstall.rst:200
+# fd29e75c0b784b0e95dfd55730ac7f02
+# 6432a721e622439f855b285dc1a3d636
+# fc8c85ef6474460f85eedd7eabcaa5d4
+msgid "Then the system ask for Mysql Admin user, the user name will be “root” and the the Mysql Admin password."
+msgstr ""
+
+#: ../../source/dbinstall.rst:106
+# 631ce3b94e924b6aab1f3a9cee315ba8
+msgid "Then the system ask for the application DB user, you can continue with the existing users or create a new user. Once you provide with the option '0' for new user the system ask for the New user name, application DB password and application DB name."
+msgstr ""
+
+#: ../../source/dbinstall.rst:115
+# 750c1e851791402f8a8a10cefd39a375
+msgid "Once the above details provided, the system ask for confirmation. After confirmation, the system  execute the process."
+msgstr ""
+
+#: ../../source/dbinstall.rst:130
+# 279029423114454d84793a8b1c5065a7
+msgid "Save"
+msgstr ""
+
+#: ../../source/dbinstall.rst:132
+# c082636eeda34c70b2c1b56491a0d772
+msgid "When the user needs to save the database for a project, the below given command will execute the process."
+msgstr ""
+
+#: ../../source/dbinstall.rst:138
+#: ../../source/dbinstall.rst:181
+# f44d769083d9412ead3506f33ff60972
+# e18dc374be914b36bc68cdb11ca2e223
+msgid "Before execution, the system ask for the confirmation to proceed, if you want to proceed enter 'Y', if no enter 'N'."
+msgstr ""
+
+#: ../../source/dbinstall.rst:167
+#: ../../source/dbinstall.rst:210
+# 48770cd0c39f4cd4981955c68036614a
+# 7466a077625f4d37a9d517d6d3d31c0c
+msgid "Then the system ask for the application DB user."
+msgstr ""
+
+#: ../../source/dbinstall.rst:173
+# c571366a02424e56aa98ecb0cfc0f4f7
+msgid "Drop"
+msgstr ""
+
+#: ../../source/dbinstall.rst:175
+# e70807bf06e649418e3dfaead5547d11
+msgid "When the user needs to drop the database for a project, the below given command will execute the process."
+msgstr ""
+
+#: ../../source/dbinstall.rst:217
+# b96fa5ef04f34aa6a5b3c28c1fca5488
+msgid "Alternative Parameter"
+msgstr ""
+
+#: ../../source/dbinstall.rst:219
+# 9798bdcba5f8442ba9aef009984baf47
+msgid "Either of the three alternative parameter can be used in command-  dbinstall, DBInstall and db-install"
+msgstr ""
+
+#: ../../source/dbinstall.rst:221
+# 728d2c7c324d48fb814e52d88c6c4e61
+msgid "eg: dapperstrano DBInstall help/  dapperstrano db-install help"
+msgstr ""
+
+#: ../../source/dbinstall.rst:224
+# 9e997d9692574fdca7dc23717e4042bc
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/dbinstall.rst:226
+# 44051620fe4c4773ba50cb8001cade16
+msgid "It will check and verify all dependencies for the package it is installing"
+msgstr ""
+
+#: ../../source/dbinstall.rst:227
+# d4d167893d7045f687f9519fa122698f
+msgid "This will run dbconfigure first to set up users unless the system already have them"
+msgstr ""
+
+#: ../../source/dbinstall.rst:228
+# 1d49e7caf50e4f18b11835e03e1c4092
+msgid "dbinstall creates all system databanks in the given database server home directory"
+msgstr ""
+

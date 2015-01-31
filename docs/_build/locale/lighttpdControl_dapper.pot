@@ -1,0 +1,163 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 11:09+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/lighttpdControl_dapper.rst:3
+# 67676919c62740ef9f2a15bedcabbb26
+msgid "LighttpdControl"
+msgstr ""
+
+#: ../../source/lighttpdControl_dapper.rst:6
+# efd5e9d6097b459c9d3eab35d74f1806
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/lighttpdControl_dapper.rst:8
+# 3beaa9dc479c41bfbef8a69e6089536c
+msgid "Lighttpd is a secure, fast, compliant, and very flexible web-server that has been optimized for high-performance environments. Lighttpd which is rapidly redefining efficiency of a dapperstrano; as it is designed and optimized for high performance environments. With a small memory footprint compared to other web-servers, effective management of the cpu-load, and advanced feature set lighttpd is the perfect solution for every server that is suffering load problems. This is suitable to work with Ubuntu and cent OS."
+msgstr ""
+
+#: ../../source/lighttpdControl_dapper.rst:11
+# 8e6106c51b274be796d7d34d2e38d03f
+msgid "Help command"
+msgstr ""
+
+#: ../../source/lighttpdControl_dapper.rst:13
+# 7f29db3003554e6ea346c18176a62bec
+msgid "Help is used to access the information about lighttpd. For quick reference with the help commands in any of the versions of dapperstrano you can also use the help command. The help command is an internal command and is available in the dapperstrano module."
+msgstr ""
+
+#: ../../source/lighttpdControl_dapper.rst:20
+# ced1144b0031464da48448c0348d1644
+msgid "The following screenshot assists the user to servitude with dapperstrano."
+msgstr ""
+
+#: ../../source/lighttpdControl_dapper.rst:59
+# 0b1ac3c2323446cb80b69df749dfe9e1
+msgid "Alternative Parameter"
+msgstr ""
+
+#: ../../source/lighttpdControl_dapper.rst:61
+# ebd80b8797c54c7dbde2b22eeb0bd569
+msgid "Preferably using Lighttpd the user can exertion the following options."
+msgstr ""
+
+#: ../../source/lighttpdControl_dapper.rst:63
+# 2380c424d14b426d8fd1c74e4b75757e
+msgid "LighttpdControl, lighttpdcontrol, lighttpdctl."
+msgstr ""
+
+#: ../../source/lighttpdControl_dapper.rst:66
+# 0a9d396708e042da8abb6490ace61a24
+msgid "Start"
+msgstr ""
+
+#: ../../source/lighttpdControl_dapper.rst:68
+# 2a81db1b2cd543859101b1b7eca64111
+msgid "Start option used to start the lighttpd server. Lighttpdcontrol is an interactive session that is run with the dapperstrano module option. Depending on how the server is run, the start command might be stored in a script, in the Linux registry."
+msgstr ""
+
+#: ../../source/lighttpdControl_dapper.rst:70
+# 2c1290d15fad4ddaa7a363aaba9d98b9
+msgid "The server can be started using a simple command with an option to connect back to control server to obtain additional options."
+msgstr ""
+
+#: ../../source/lighttpdControl_dapper.rst:76
+# 04f3d09317194313a3d9a7354deb0a0a
+msgid "after typing the command, it allows the user to start the lighttpd server functioning."
+msgstr ""
+
+#: ../../source/lighttpdControl_dapper.rst:79
+# 5bfe415ecd74463689ef98c76381b95b
+msgid "Stop"
+msgstr ""
+
+#: ../../source/lighttpdControl_dapper.rst:81
+# ec984884eed24da3b4b5bbd612336b7d
+msgid "This stop option used to stop the lighttpd service. Specifically Ubuntu Linux, the stop command calls the lighttpd to stop a job that is running on the system. It is equivalent to the command service stop. Below is a complete description of stop command."
+msgstr ""
+
+#: ../../source/lighttpdControl_dapper.rst:88
+# 311f8a70a60744edb7f7cca49775a09b
+msgid "After input as the above command, the service stops the function."
+msgstr ""
+
+#: ../../source/lighttpdControl_dapper.rst:91
+# ab1611856d8b46a6b2462dfce00b9bf2
+msgid "Restart"
+msgstr ""
+
+#: ../../source/lighttpdControl_dapper.rst:93
+# 32fcf6dcdb244d4b805beba3191a149f
+msgid "The term restart refers to an operating system closing all programs before a warm restart the lighttpd server. Restart is sometimes necessary to recover from an error, or to re-initialize drivers or hardware devices. A computer storage program would normally perform a restart with the following simple command."
+msgstr ""
+
+#: ../../source/lighttpdControl_dapper.rst:99
+# 2807fd4d585042628d73ab01322386c9
+msgid "After input as the above command, the service restart the lighttpd service."
+msgstr ""
+
+#: ../../source/lighttpdControl_dapper.rst:103
+# a817964dc39d422d906cf2a3920f91b6
+msgid "Reload"
+msgstr ""
+
+#: ../../source/lighttpdControl_dapper.rst:105
+# 6ddbdd289b704cb9b66db6fe25f53848
+msgid "Reload means things are changing. The lighttpd is undergoing an overhaul and a clean-up. It facilitates the reuse of lighttpd and services. Without kill the process it can reload lighttpd. The following command assis the user to reload. Along with the command if the user use yes.. options without asking any questions automatically it can function."
+msgstr ""
+
+#: ../../source/lighttpdControl_dapper.rst:112
+# 0cd45f45890a49ffbd01490c0e24a416
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/lighttpdControl_dapper.rst:114
+# 8eb30d6e135f4333ae90833ca64065cb
+msgid "Flexible virtual hosting."
+msgstr ""
+
+#: ../../source/lighttpdControl_dapper.rst:115
+# 8dc5edbef35b4702a8518b356c8cb810
+msgid "Supports all type of Modules."
+msgstr ""
+
+#: ../../source/lighttpdControl_dapper.rst:116
+# 5cac88800dc84d4da3c09400d87d9b68
+msgid "Light-weight (less than 1 MB)."
+msgstr ""
+
+#: ../../source/lighttpdControl_dapper.rst:117
+# 8ee8b6cc17cf417bb6229f506d006657
+msgid "Non case sensitive."
+msgstr ""
+
+#: ../../source/lighttpdControl_dapper.rst:118
+# 2b5b8a70472d401ca5e6f7b1104b76ac
+msgid "The user can function as per their wish."
+msgstr ""
+
+#: ../../source/lighttpdControl_dapper.rst:119
+# 99ebb7fc45f54e42afb72856237de985
+msgid "Termination is possible."
+msgstr ""
+
+#: ../../source/lighttpdControl_dapper.rst:120
+# 4223a93e50b0417faa0a84ecb1e0021e
+msgid "Automation is possible."
+msgstr ""
+

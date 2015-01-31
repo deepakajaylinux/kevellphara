@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2015, kevell
-# This file is distributed under the same license as the KEVELLS package.
+# This file is distributed under the same license as the KEVELL package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: KEVELLS 1.1.1\n"
+"Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-20 18:59+0530\n"
+"POT-Creation-Date: 2015-01-31 13:40+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,79 +17,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/dapperstrano.rst:3
-# bcbb80b9dd6243e9b91e0462345e859f
+# 485787fb1fb94be6a9117df6c5ff83a6
 msgid "Dapperstrano"
 msgstr ""
 
 #: ../../source/dapperstrano.rst:6
-# 9054f50e22df4874b638e859ffbc9534
+# 01c2c59e85a4464eb579568b1acc99de
 msgid "SYNOPSIS"
 msgstr ""
 
 #: ../../source/dapperstrano.rst:8
-# 95016233325f45a89e60d1b21bee9db1
+# df20278140fd48b9b4b208d8d4ed119a
 msgid "This module supports to install under Cleopatra. It can install in two ways. They are install and Ensure. It can overwrite the module in case of already existing in the system. It is convenient to work with Ubuntu and cent OS.  Let’s see how to install dapperstarano."
 msgstr ""
 
 #: ../../source/dapperstrano.rst:11
-# e1c11f20b98547cf92b562d8a86df164
+# a41c0e614c5d45dcb1759e05c602f137
 msgid "HELP COMMAND"
 msgstr ""
 
 #: ../../source/dapperstrano.rst:13
-# 760ec438640b408b9304be63431e76e7
+# b61cfef43f7041be889fdb1262e1344b
 msgid "It is time consuming because it won’t check directory link from web. Easy to Install. Suitable for all type of user. The user can indicate the path for program data directory and Program Executor directory."
 msgstr ""
 
 #: ../../source/dapperstrano.rst:16
 #: ../../source/dapperstrano.rst:40
-# 0f650e534a5a491792bb11663b2006d8
-# a05445dbe3434eccb8cd0d5bcee7e9a2
+# dcf93fbaa72848ef8e09c832c395e034
+# eb21c602379a46aeb8acefbb7da06b26
 msgid "Installation"
 msgstr ""
 
 #: ../../source/dapperstrano.rst:17
-# a3a1d0ce9eb544f6b37a066de0298f56
+# 119d77e661134602991814892ff941af
 msgid "It is a manifest process to install dapperstarano module under Cleopatra by just using the command given below,"
 msgstr ""
 
 #: ../../source/dapperstrano.rst:23
-# d44331cc524a4a47a7d40ea99ba065f7
+# 062dfbd72db14c81a6979b154ab97c81
 msgid "After vitalize the command it will catechize input. The user input as yes automatically it will install dapperstrano without checking from the directory link from the web."
 msgstr ""
 
 #: ../../source/dapperstrano.rst:27
-# 5574eddd922944679d2a226f4642b8ed
+# 94c7b634bc694d2a867e0efe37c7c1f4
 msgid "Additional features:"
 msgstr ""
 
 #: ../../source/dapperstrano.rst:30
-# a960e15be8b745289112241ab9a3b199
+# e5dfbc5013294399b56c6fc21446297e
 msgid "The following screen shot gives envision to your dreams."
 msgstr ""
 
 #: ../../source/dapperstrano.rst:34
-# 8a305b5683b94a8ca9ff5e96ad0bcf99
+# ebf6672e75b442ff9dac5ac48d1adf06
 msgid "Ensure"
 msgstr ""
 
 #: ../../source/dapperstrano.rst:36
-# 46e03d36d373460e84c788e4e8566b4e
+# ae7e1f9fe6de453d8514de9a56732eab
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/dapperstrano.rst:37
-# 2552f01a0eed4883b05a3a7fadd431f7
+# 80220cedb32f4ee2990603257276d985
 msgid "Ensure never scrutiny the version while installing. Latest update is possible with ensure. It won’t overwrite the existing one. Indicate the message as already installed So, user can be alert in changing the folder or directory."
 msgstr ""
 
 #: ../../source/dapperstrano.rst:46
-# 7f408b4e407e42fd95c714a86afd1294
+# 8dd1ab3806df46f3b9723ad56f94799c
 msgid "Then automatically install dapperstrano ensure. It won’t check the version of module.  The following screen shot explains about ensure."
 msgstr ""
 
 #: ../../source/dapperstrano.rst:49
-# 452cd6cc616742559c8c1b6c3000ffea
+# 26a40f860bfc4a77a3cba35eb0c870c7
 msgid "If dapperstrano already installed in the system, it shows already installed. The following screen shot visualize it."
 msgstr ""
 

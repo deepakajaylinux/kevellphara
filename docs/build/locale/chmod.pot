@@ -1,0 +1,188 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 13:40+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/chmod.rst:3
+# ad14803e1df047e2b2fed5767dde81d5
+msgid "Chmode"
+msgstr ""
+
+#: ../../source/chmod.rst:7
+# 662481ab418d465f9ff9c8e6e20b1ed9
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/chmod.rst:9
+# b913d010a023476f84fae9a061ddd4d2
+msgid "Files and directories belong to both an owner and a group. A group usually consists of a collection of users, all belonging to the same group. The first set of three is the read, write, and execute permissions for the owner of the file."
+msgstr ""
+
+#: ../../source/chmod.rst:11
+# f677b5e9253248e4a52c253a51859e88
+msgid "chmod is used to change the permissions of files or directories. On Linux and other Unix-like operating systems, there is a set of rules for each file which defines who can access that file, and how they can access it. These rules are called file permissions or file modes. The command name chmod stands for \"change mode\", and it is used to define the way a file can be accessed."
+msgstr ""
+
+#: ../../source/chmod.rst:13
+# 3b8e4fe8476b4abaafd8563310965767
+msgid "There are three general classes of users:"
+msgstr ""
+
+#: ../../source/chmod.rst:15
+# 4c61719ae15242dc942a88708662f715
+msgid "The user who owns the file (\"User\")"
+msgstr ""
+
+#: ../../source/chmod.rst:16
+# 0b3b61885728414b9c55f394ca15978d
+msgid "Users belonging to the file's defined ownership group (\"Group\")"
+msgstr ""
+
+#: ../../source/chmod.rst:17
+# 277ca8cc15854c3c9a3dd4d8994345dd
+msgid "Everyone else (\"Other\")"
+msgstr ""
+
+#: ../../source/chmod.rst:20
+# 6dfe74952bd94816b03f97d630fb492f
+msgid "In turn, for each of these classes of user, there are three types of file access:"
+msgstr ""
+
+#: ../../source/chmod.rst:22
+# 70aa6b10503443ef93eec422302ded28
+msgid "The ability to look at the contents of the file (\"Read\")"
+msgstr ""
+
+#: ../../source/chmod.rst:23
+# c6a654f6653445e99e07e419ba0b42b2
+msgid "The ability to change the contents of the file (\"Write\")"
+msgstr ""
+
+#: ../../source/chmod.rst:24
+# f1dfee0e093c4dac81001b5d551a9d83
+msgid "The ability to run the contents of the file as a program on the system (\"Execute\")"
+msgstr ""
+
+#: ../../source/chmod.rst:27
+# f432492912ec46a4950c4b3a175812a4
+msgid "For each of the three classes of user, there are three types of access."
+msgstr ""
+
+#: ../../source/chmod.rst:33
+# 834abd558c9746a89676748898c9c3ab
+msgid "Symbols"
+msgstr ""
+
+#: ../../source/chmod.rst:33
+# e56ddc4945554fae9f933f8c3832037f
+msgid "Meaning"
+msgstr ""
+
+#: ../../source/chmod.rst:35
+# 457b94b14ede44d8b56ab6a22cc2c8d4
+msgid "rwx"
+msgstr ""
+
+#: ../../source/chmod.rst:35
+# 960e079201df4c8e89967b7f9c5c7437
+msgid "the file's owner may read, write, or execute this file as a process on the system."
+msgstr ""
+
+#: ../../source/chmod.rst:38
+# 4a775d702bd14e48aa5a0d6f29e25b53
+msgid "r-x"
+msgstr ""
+
+#: ../../source/chmod.rst:38
+# d7947e7a46074ee585f2e54f428540e9
+msgid "anyone in the file's group may read or execute this file, but not write to it."
+msgstr ""
+
+#: ../../source/chmod.rst:41
+# d84f467a99e14d61b272afc52042a62d
+msgid "r--"
+msgstr ""
+
+#: ../../source/chmod.rst:41
+# 7ebbbecf93144e02b4d7281f04b6765f
+msgid "anyone at all may read this file, but not write to it or execute its contents as a process.|"
+msgstr ""
+
+#: ../../source/chmod.rst:47
+# 73dc90ecf05b496bb9a484a4ac3b26a7
+msgid "Help Command"
+msgstr ""
+
+#: ../../source/chmod.rst:49
+# a161b1470c0a4223ab1b9070818c8ef0
+msgid "This command helps to determine the usage of Change mode module. The user will come to know about the different way/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same."
+msgstr ""
+
+#: ../../source/chmod.rst:56
+# 6f73142fe5cc4887afb2db950d32d04c
+msgid "The pictorial representation of the above command is listed below,"
+msgstr ""
+
+#: ../../source/chmod.rst:80
+# b93681cf7d3d4491a5b5caf074ec42cb
+msgid "Path"
+msgstr ""
+
+#: ../../source/chmod.rst:82
+# 52be090f6749451ea21b838a30ecb41d
+msgid "Chmod path is the command which change the access permissions to file system objects (files and directories)."
+msgstr ""
+
+#: ../../source/chmod.rst:84
+# ce4cdbd0bc5040e29c898bb498a748f9
+msgid "The number 1, 2 and 4 represents execute , write and read. These numbers are used because any combination of these three numbers will be unique."
+msgstr ""
+
+#: ../../source/chmod.rst:87
+# 5ceb8487119c4814b05893f025da9ab5
+msgid "When the user needs to change the mode of file, the below given command will execute the process."
+msgstr ""
+
+#: ../../source/chmod.rst:96
+# 3b0b08f6a19941a9be8547ec9f3f72c0
+msgid "Alternative Parameter"
+msgstr ""
+
+#: ../../source/chmod.rst:98
+# d81ef1dea72b47f4a42a66444efdbb32
+msgid "There are two alternative parameters which can be used in command line."
+msgstr ""
+
+#: ../../source/chmod.rst:100
+# c7a414b6074f4eba831f3ff47b60e603
+msgid "chmod, Chmod"
+msgstr ""
+
+#: ../../source/chmod.rst:102
+# 5b00aa0c6f084f0ea1306fc41501ea9e
+msgid "Eg: cleopatra Chmode path/ cleopatra chmod path"
+msgstr ""
+
+#: ../../source/chmod.rst:106
+# 88e4c62103e54445b4d10a3cb745c572
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/chmod.rst:109
+# 5057843cde5444b384e2e9c7004517d2
+msgid "chmod modifies the permissions of the file specified by filename to the permissions specified by permissions. Permissions defines the permissions for the owner of the file (the \"user\"), members of the group who owns the file (the \"group\"), and anyone else (\"others\"). There are two ways to represent these permissions: with symbols (alphanumeric characters), or with octal numbers (the digits 0 through 7)."
+msgstr ""
+

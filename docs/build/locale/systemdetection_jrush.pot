@@ -1,0 +1,190 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 13:40+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/systemdetection_jrush.rst:3
+#: ../../source/systemdetection_jrush.rst:96
+# c835fb896f094c2e8d171af2eb75d589
+# 3f9dcc5e13104b4293304fe9e0f23392
+msgid "System Detection"
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:6
+# 5a0e854106da49b9bf39d3c18fb8c46d
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:8
+# 1589f21b387c464e98b338c9117f39cb
+msgid "This module aims at detecting the user’s machine and in hand provides them the necessary information to them regarding the users system. It also provides a facility to the users to configure their applications settings. The few examples for applications settings includes my sql admin user, Architecture, admin user, host, version, linux type, Distro. It is comfortable with Ubuntu and cent OS."
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:11
+# 83d7060b026a4b989ed1236deb6b13d3
+msgid "Help command"
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:13
+# db6383e2554f4201b3394e70b6a36a27
+msgid "The help command leads the users regarding the purpose and as well as about the options that are included in the System detection modules. The help command lists out the alternative parameters of System detection under Jrush module. It also describes the syntax for detecting the user’s machine. The help command for System detection is shown below."
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:20
+# fd2ba1689f684429b3d25ff61956fa77
+msgid "The syntax for the help command non case sensitive which adds an advantage for this module. The following screenshot visualize the user about the help command under system detection."
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:44
+# 02cd3fbba96041f6877dd50e1c031e10
+msgid "Detect"
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:46
+# fb3dc33ca9184910967758c1977c6568
+msgid "Detect used to detect the system settings. By using a single command the user can get all the information about the system application. The command used for system detection is given below."
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:53
+# 1c198e0fde744a1cb975a456c9230b98
+msgid "After keying the above command, the process of system detection starts. During system detection the following information's regarding the corresponding machine are reported:"
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:56
+# 19e77723bae240529b0ba32cc769b679
+msgid "Operating System"
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:57
+# 5ff5100a4b9e4ba1a24fb236edfbbaf3
+msgid "Linux Type"
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:58
+# 71d17ec43d7a4425984fafb20117378c
+msgid "Distro"
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:59
+# 84b25ad661fb4dadae3a6ff4b219abd0
+msgid "Version"
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:60
+# 7b4d6bbba05d4e1e831ae74612e490d2
+msgid "Architecture"
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:61
+# 0b00c3582b2848ce848612aa9bb91e31
+msgid "Host Name"
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:62
+# 23e3d243592f4ab199249e13027caad9
+msgid "IP Address 0."
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:63
+# b93480cb6c2e488bad4a358d182679ab
+msgid "IP Address 1."
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:65
+# 5dc3dbbd0e134f5ca5859ae9353d54bf
+msgid "Finally, after detection the information regarding the above mentioned features are clearly reported. The following screen shot depicts you about the process of system detection."
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:92
+# f223c9ad3b604102958d2b034757298d
+msgid "Alternative Parameters"
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:94
+# 1d91d86a9108481db1fb6a1c96584cf6
+msgid "Instead of system detection, the following parameters can be used:"
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:97
+# 2ddb59ecbd9741f08165a7f5ce4eca17
+msgid "system-detection"
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:98
+# 0e6242d8e0384a9d8627585e1750e979
+msgid "system detection"
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:101
+# 832a85e78bea40748c541734e5fa81f4
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:103
+# 0f333360a41d4edf9bcac8737734f978
+msgid "The users can configure the application settings using this system detections."
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:104
+# 0e67b5a2fdcc4d25b192ccd46ce44cd9
+msgid "The parameters used for declaring help command, system detection are not case sensitive which an added advantage while compared to others is."
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:105
+# 1480b60858f84c828f592281327afe13
+msgid "It is well-to-do in both Cent OS and as well as in Ubuntu."
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:106
+# 5b68c7f8bdd44916aeb41487325398af
+msgid "Protection and security is possible. Preventing harm to the system and to resources, through internal processes or malicious outsiders. Authentication, ownership, and restricted access are obvious parts of this system."
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:108
+# 932e355d396b4d93ba8a9cc49ed29d54
+msgid "System administrators generally determine which interface a user starts with when they first log in."
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:109
+# b04c8b49ff9a48928437f18c5e746f4d
+msgid "Generally written in PHP, although some are written in assembly for optimal performance."
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:111
+# d1b29971634a4a49ad4a5e16df66179e
+msgid "The system detection module provides the support:"
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:113
+# 7c29b7107ed64b9a96bd691849d641bb
+msgid "Identify a remote process and/or host with which to communicate."
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:114
+# bdcae107d9a2430985f4e9b29c63cce0
+msgid "Establish a connection between the two processes."
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:115
+# 8a7683cb2fd1459bb2103a8b3dff119d
+msgid "Open and close the connection as needed."
+msgstr ""
+
+#: ../../source/systemdetection_jrush.rst:116
+# f31db43e1e3f4a5a8a5ec6bc8955a812
+msgid "Transmit messages along the connection."
+msgstr ""
+

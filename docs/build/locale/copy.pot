@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2015, kevell
-# This file is distributed under the same license as the KEVELLS package.
+# This file is distributed under the same license as the KEVELL package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: KEVELLS 1.1.1\n"
+"Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-20 18:59+0530\n"
+"POT-Creation-Date: 2015-01-31 13:40+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,147 +17,117 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/copy.rst:3
-# 210f9dd571f248f2ac0e6747abfc5dcb
+# 3a505124c19a4e468139e7b9deea4bc6
 msgid "Copy"
 msgstr ""
 
 #: ../../source/copy.rst:6
-# 05686a24e8fb408da7d1304ca9a09a40
+# a0eb4c5240f848aab560cae53e364354
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/copy.rst:8
-# efaaa4a716a14eab8c240ce8d5d80d0d
-msgid "This module handles to copy the file under Cleopatra. It has function in two ways. They are put and get. This module can work with source and destination file path. It is user friendly with Ubuntu and cent OS.  Let’s see about copy module."
+# f004e3de249d46248c08a4d88133952c
+msgid "This modules assits to copy the file under Cleopatra. It has function in two ways. They are put and get. This module can work with source and destination file path. It is user friendly with Ubuntu and cent OS.  Let’s see about copy module."
 msgstr ""
 
 #: ../../source/copy.rst:11
-# c2c76c6357434f4abe295d63b9ecb77b
+# 7fd268713e314255a002ee527d9c3dd7
 msgid "Help command"
 msgstr ""
 
 #: ../../source/copy.rst:13
-# a7ef6e927c6848e1a3c49a390e355e22
-msgid "This command can function about the objectives and commands available under copy module. It also explains the command to copy the file. Before installation you read this help command explains its function. The following image also helps you to understand this module clearly."
+# 0058aec4683344e8b8fa80264b655961
+msgid "This help option depicts the objectives and commands available under copy module. It also explains the command to copy the file along with the syntax in two different ways. Before installation the user can read this help to know about its function. The following command and image helps you to understand this module clearly."
 msgstr ""
 
-#: ../../source/copy.rst:36
-# 8c08f841b21948b2bbd3ffb85934d815
-msgid "Installation"
+#: ../../source/copy.rst:41
+# 72061d0f57684bc8932e6f7520c6703a
+msgid "How to Use"
 msgstr ""
 
-#: ../../source/copy.rst:38
-# 1c9c1ef91d0c434894f09ab5573b142f
-msgid "It is a glaring process to copy module under Cleopatra by just using the command given below,"
+#: ../../source/copy.rst:43
+# 447a7ab380e24a1cab8f39ec17b5d5ab
+msgid "It is a glaring process to use this copy module under Cleopatra by just using the command given below,"
 msgstr ""
 
-#: ../../source/copy.rst:40
-# e5e5ba22f39d461f93885356ef279218
-msgid "The main function of copy is to copy the file  from source file to destination. Here the user has to mention the file name and destination. The following syntax is used to copy"
+#: ../../source/copy.rst:45
+# 7872066ee2b34f93b34b39f3c92bb8fa
+msgid "The main function of copy is to copy the file from source file to destination. Here the user has to mention the file name and destination. The following syntax is used to copy"
 msgstr ""
 
-#: ../../source/copy.rst:47
-# e95ff5d61aa9497892a885c9335469b1
+#: ../../source/copy.rst:52
+# 782dc690d1cb4bb8832117b688d9a222
 msgid "Example"
 msgstr ""
 
-#: ../../source/copy.rst:53
-# 4931621e5e71454dbbe46b92157be58d
-msgid "After vitalize the command it will catechize input. The user input as yes the user has to enter as source file then it requires target file. Now the user has to enter the target file. Finally the file has copied from source to destination. The following screenshot shows the copying of file."
-msgstr ""
-
-#: ../../source/copy.rst:79
-# f0be74f0de764352822924f71cbd2b0b
-msgid "Options"
-msgstr ""
-
-#: ../../source/copy.rst:81
-# e7b8f443895d493baa413e14d0ca0ac5
-msgid "The user input as copy put then access the source file path and target file path."
-msgstr ""
-
-#: ../../source/copy.rst:86
-# 631f96358a4142f594e2509da47f8642
-msgid "Parameters"
-msgstr ""
-
-#: ../../source/copy.rst:86
-# 9b85e9c5d2424173b76f82a756f99615
-msgid "Directory(default)"
-msgstr ""
-
-#: ../../source/copy.rst:86
-# b61c5abc5a234371a82d9da49086be01
-msgid "Comments"
+#: ../../source/copy.rst:58
+# 02e80597b90940b79b506e89ad1b54ca
+msgid "After inputting the command above, the user has to input as yes for copying the files, after that the user has to specify the location of source and destination file. Finally the file will get copied from source to destination. The following screenshot shows the copying of file."
 msgstr ""
 
 #: ../../source/copy.rst:88
-# 23d17a0d27d04d758de8d636d468b4aa
-msgid "put"
+# b36b2d1c47d84e6d9995189f2dd21c15
+msgid "|The place the file from       |"
 msgstr ""
 
-#: ../../source/copy.rst:88
-# eb8cdad9e07044598077cba088931258
-msgid "Source to target"
-msgstr ""
-
-#: ../../source/copy.rst:88
-# dee44d57c1af4f238d11b36d13e9220e
-msgid "The file path copied from source to destination"
+#: ../../source/copy.rst:0
+# 0e3f0d7eb748481790662262fc14fe1e
+msgid "|                              | source to destination        |"
 msgstr ""
 
 #: ../../source/copy.rst:91
-# fe0c1482db434d348ea5649df3795b59
+# 9d604a44551c4f0c8f5bc955c2260172
 msgid "get"
 msgstr ""
 
 #: ../../source/copy.rst:91
-# 08fed9e3a5894d44b6653c3bed866b12
-msgid "Path to source"
+# 831ad87dc5fa419abd84f61b935f145f
+msgid "from destination to source"
 msgstr ""
 
 #: ../../source/copy.rst:91
-# c4213509d00b446a80b5f5dde1bc43f0
-msgid "Copy the files from the path to source directory|"
+# 8255b655afd64f47aaef7cf68567c3bd
+msgid "Copy the files from the to source directory"
 msgstr ""
 
-#: ../../source/copy.rst:99
-# b6f64600b84848f2b585e4f569ec78c5
+#: ../../source/copy.rst:98
+# c497ae3a30d34213900e02e6d5bb329b
 msgid "Benefits"
 msgstr ""
 
-#: ../../source/copy.rst:101
-# e57d17d55a2c48b4885afd65f5a4f778
+#: ../../source/copy.rst:100
+# 04dfa62893ae49ce9cf52465378f30c4
 msgid "The user can work with remote place also."
 msgstr ""
 
-#: ../../source/copy.rst:102
-# e0a33108463745c5a094714533f8b023
+#: ../../source/copy.rst:101
+# 76b282b511b344e2a21feeb7c9a120b3
 msgid "User can mention the path for source and destination."
 msgstr ""
 
-#: ../../source/copy.rst:103
-# ff98d177f3f34dc28a70c0048e79875f
+#: ../../source/copy.rst:102
+# 62eca681e9eb4ca0aca0a92ffbb2c7da
 msgid "It is very secure in copying."
 msgstr ""
 
-#: ../../source/copy.rst:104
-# c785c535d7fc48ce87076dc3ad895108
+#: ../../source/copy.rst:103
+# 8c1f7f2cad744d0c98aebd56252a93e2
 msgid "Fast accessible."
 msgstr ""
 
-#: ../../source/copy.rst:105
-# a9112c1773f04d1bad62d9f727fdce80
+#: ../../source/copy.rst:104
+# b6090ed922264b4e84aa090db18d09ae
 msgid "Easily we can share the information with others."
 msgstr ""
 
-#: ../../source/copy.rst:106
-# b40a35bf9b9f45739e8e5e7081d3ddd1
+#: ../../source/copy.rst:105
+# 25cb34cefd82471784c210303472a0f5
 msgid "The user can copy any kind of information (including sound and pictures)."
 msgstr ""
 
-#: ../../source/copy.rst:107
-# e7b8f443895d493baa413e14d0ca0ac5
+#: ../../source/copy.rst:106
+# d6528aacde6944fc8d24a61a8191c216
 msgid "The user can copy entire file path from one folder to another."
 msgstr ""
 

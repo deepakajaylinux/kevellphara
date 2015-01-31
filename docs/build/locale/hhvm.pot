@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2015, kevell
-# This file is distributed under the same license as the KEVELLS package.
+# This file is distributed under the same license as the KEVELL package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: KEVELLS 1.1.1\n"
+"Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-20 18:59+0530\n"
+"POT-Creation-Date: 2015-01-31 13:40+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,136 +17,136 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/hhvm.rst:3
-# dbd98ca62fdf406d939dad508efee8e0
+# f9e6190627394bde8a3e40bff3a0345d
 msgid "HHVM"
 msgstr ""
 
 #: ../../source/hhvm.rst:6
-# 6e6b5fec1b434acf8bd2d7d3a1fe9c47
+# ef0753953ab8444c8fca5ba02a8822d6
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/hhvm.rst:8
-# e019022812c444c78acb0b3ca07cbaa6
+# 01219aa03bbe4aad96cfbbb69ab3081f
 msgid "This module facilitates installing and un installing the HHVM which is a popular build server to your machine. HipHop Virtual Machine (HHVM) is a process virtual machine based on just-in-time (JIT) compilation, serving as an execution engine for PHP and Hack programming languages. By using the principle of JIT compilation, executed PHP or Hack code is first transformed into intermediate HipHop byte code (HHBC), which is then dynamically translated into the x86-64 machine code, optimized and natively executed. Let us see about the HHVM module in upcoming topics."
 msgstr ""
 
 #: ../../source/hhvm.rst:11
-# 44f05ea880b240728856eab8279b0b5e
+# a801bf292f8349d6bcf672f904d06e31
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/hhvm.rst:13
-# 13dd07f39414402ca367e5b9726e3747
+# 1f4316c4d68141aca1496525c358e2a2
 msgid "The help command guides the users regarding the purpose and as well as about the options that are included in the HHVM module. It lists out the alternative parameters of HHVM module. It also describes the syntax for installing the HHVM module. The help command for HHVM module is shown as below."
 msgstr ""
 
 #: ../../source/hhvm.rst:19
-# d7391847d44d4b73b75a4541a9994075
+# c5b4b4965c044391beea8f10a6923791
 msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under HHVM."
 msgstr ""
 
 #: ../../source/hhvm.rst:47
-# 8969d2e5990f4b3ba37fad9ffd6f75c1
+# 4e83ad6500a74c369d69357691d2e068
 msgid "Installation"
 msgstr ""
 
 #: ../../source/hhvm.rst:49
-# 548331c5d83f4dd9a685378433f637fb
+# fc9d4eccebd848de8821c68c48f1622f
 msgid "The command used for installing the HHVM to the users machine is shown below."
 msgstr ""
 
 #: ../../source/hhvm.rst:55
-# 35c18028177c4e4881aaf7c53cebe93a
+# 4ae5ea880b98491cb551a97e1338724c
 msgid "After inputting the command above, the following process occurs as shown in the tabular format."
 msgstr ""
 
 #: ../../source/hhvm.rst:60
-# c65f53a453794facadae965f41a3e216
+# cceb8c079f954d11908f7d882e88cd8c
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/hhvm.rst:60
-# 002403b9175a42d69c1d4f44081d6b9c
+# 9b859aabe81f4306bff79440c773396b
 msgid "Alternative Parameter"
 msgstr ""
 
 #: ../../source/hhvm.rst:60
-# 14c9c005800a40ad99d30f479d867436
+# 572bdf6284c449419916cb4304757b9a
 msgid "Options"
 msgstr ""
 
 #: ../../source/hhvm.rst:60
-# 70d6ad21ee4a45158736b41a4fa75708
+# 2748946e056340b087f364601bcc5804
 msgid "Comments"
 msgstr ""
 
 #: ../../source/hhvm.rst:62
 #: ../../source/hhvm.rst:65
-# 5530b81f600544bc87dbc9aa355f1590
-# 9ae1cb78d8a04f409118f40b756dcfe8
+# 7f442e3fc24a4e87b33f3ae651c6b615
+# ac45fa00a4be4eba926a509c8f45d6ae
 msgid "Install The Oracle Java JDK 1.7? (Y/N)"
 msgstr ""
 
 #: ../../source/hhvm.rst:62
 #: ../../source/hhvm.rst:65
-# 2541877856cb4422b49fe06b9c60429a
-# af0291567c714940a4d1536a7760b185
+# 9644d431501b41889caa20b4cd202707
+# e865abde09ba4e548973cb982698f510
 msgid "Inspite of HHVM we can use hhvm also."
 msgstr ""
 
 #: ../../source/hhvm.rst:62
-# e394371accbe44719129abe56538a5e6
+# 92ec5f65f0ac43519fa99629005c3c4f
 msgid "Y(Yes)"
 msgstr ""
 
 #: ../../source/hhvm.rst:62
-# 3d59bf4758d54525b9097dba8ca70365
+# 8e629086359e41a3aef13de994c029ab
 msgid "If the user wish to proceed the installation process they can input as Y."
 msgstr ""
 
 #: ../../source/hhvm.rst:65
-# 4da4029d4d0e4bd98cfe4a6221e75bc3
+# 54412e2b2b1a42fbbdeeb1f6577daa64
 msgid "N(No)"
 msgstr ""
 
 #: ../../source/hhvm.rst:65
-# 6c4a386b6f044113b87d170ccae18655
+# 8dad39b2713844e790e7f8c498adc3bb
 msgid "If the user wish to quit the installation process they can input as N.|"
 msgstr ""
 
 #: ../../source/hhvm.rst:71
-# 4012177c97d94b2e94b5916d1a65a5e4
+# 06583e4b71fe45a3acfe731be3ac1cf4
 msgid "Finally, installation process gets completed. The following screenshot pictorially represents the process of installing HHVM."
 msgstr ""
 
 #: ../../source/hhvm.rst:317
-# 657b85b084444a55bda3a8aff6d3539f
+# c7181e9d335f4fc792b5c3bcb7b8ef32
 msgid "Un installation"
 msgstr ""
 
 #: ../../source/hhvm.rst:319
-# 6e877dc070754318ba028658e5c30d86
+# fffa6f4ec8a04255ad8546e67fc3cfe4
 msgid "The command used for un installing the hhvm is shown below."
 msgstr ""
 
 #: ../../source/hhvm.rst:326
-# 5999773013a2472e8f494c4e7a636092
+# 0220e46e7db444cdb7399676c251af5d
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/hhvm.rst:328
-# 5f11b6fb909c4638bfe2299affc43a85
+# dbb9f01a802f4bf49e806e6964b7aea2
 msgid "The parameters used in help and installation and un installation operations are not case sensitive which is an added advantage while compared to others."
 msgstr ""
 
 #: ../../source/hhvm.rst:329
-# 0b09d80bf57d4b3bb1aa1e5f92f94e34
+# a0822290c0ed41b79d5cc9a8aac6ca80
 msgid "It is well-to-do in both Ubuntu and as well as Cent OS."
 msgstr ""
 
 #: ../../source/hhvm.rst:330
-# 156de13b343348628dea4762d345f3d8
+# c4c2c238c2f34c1baaccf01588240eec
 msgid "HHVM has the ability to use live type information to produce more efficient native code, leading to higher web server throughput and lower latency."
 msgstr ""
 

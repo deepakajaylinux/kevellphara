@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2015, kevell
-# This file is distributed under the same license as the KEVELLS package.
+# This file is distributed under the same license as the KEVELL package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: KEVELLS 1.1.1\n"
+"Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-20 18:59+0530\n"
+"POT-Creation-Date: 2015-01-31 13:40+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,126 +17,126 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/testingkamen.rst:3
-# eb85e355000948a99a45a092d4202cc7
+# d89c551ad6eb467aa9142e302751cc4d
 msgid "Testingkamen module"
 msgstr ""
 
 #: ../../source/testingkamen.rst:6
-# f38315537ce04aa08756376439c9a54c
+# 45e9328a3c804f5cbe94556dec027cac
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/testingkamen.rst:8
-# 73ef9f83cd674ddb869c449b6cdce227
+# c958eef1ca4b40ca8d89015db93b256a
 msgid "Testingkamen module is for handling test suite configuration and execution using a common set of rules across a range of tools and technologies. It can be used to generate starter test suites for your applications, and automated test execution scripts within minutes. This module aims at installing the latest version of Testingkamen tool."
 msgstr ""
 
 #: ../../source/testingkamen.rst:12
-# a68bb862f7e94364a91ac3bae9945e99
+# d1c097952fa54778938bd1b5051aef6f
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/testingkamen.rst:14
-# 341a42fded4c40d59a0e0929f0d6c03d
+# ef56cfc533a646088b1ae34708d53bcd
 msgid "The help command guides the user to provide what is necessary to accomplish the task. The command to make use of help under the terminal is given as follows,"
 msgstr ""
 
 #: ../../source/testingkamen.rst:21
 #: ../../source/testingkamen.rst:52
-# e49f28d5ffa746e7a20453b24b9c46b4
-# 55adc476fe3142659cefe2fa76fe19a5
+# bbf23f428d1c4513a615d7df9f3eb928
+# c593374ad7334166bfe993b9e6e9fee0
 msgid "The snapshot below gives you a pictorial representation of help command."
 msgstr ""
 
 #: ../../source/testingkamen.rst:44
-# 7aa41101764a457ba0aa3f42696cd9e1
+# 6e4c93d921464d00908a5edf5ca2b9bb
 msgid "Installation"
 msgstr ""
 
 #: ../../source/testingkamen.rst:46
-# 4779a5f5233643eba29d1b3a5761f2b2
+# 801ea9a5f9954a35984075b45fb6fb0d
 msgid "The preferred way to install any of the pharaoh apps is through cleopatra. If you already installed cleopatra then you can install testingkamen by using the following command,"
 msgstr ""
 
 #: ../../source/testingkamen.rst:90
-# e3ed57def5344e96930a9182d33f94d3
+# a7f69f0df6fc432eaf6f58c69c149c64
 msgid "Options"
 msgstr ""
 
 #: ../../source/testingkamen.rst:96
-# 098c80c795d64b1f93f20b54d166c853
+# 738bbc5624294aeaa91396631638b7f2
 msgid "Paramaters"
 msgstr ""
 
 #: ../../source/testingkamen.rst:96
-# e9107e645d2943b7a40e914ba993c863
+# b0b08185bb4a444a9e04c12f9d156236
 msgid "Required"
 msgstr ""
 
 #: ../../source/testingkamen.rst:96
-# fee6aa2c4bf84342bbe68b7febbe6045
+# c592169c9cdb434586525b4d370dd8a5
 msgid "Comments"
 msgstr ""
 
 #: ../../source/testingkamen.rst:98
-# 56774049095a47ea8451cd142dc87019
+# 1fc500899ae34d5288d6640df60f7533
 msgid "cleopatra Testingkamen install"
 msgstr ""
 
 #: ../../source/testingkamen.rst:98
-# 4dafa74abd3e47fb85655ec8b2a0a1bf
+# 43a0be81b86d4ffdbdae3a9d737cabb3
 msgid "Yes"
 msgstr ""
 
 #: ../../source/testingkamen.rst:98
-# 111a0f477e234e079bee545ff463ef11
+# d8ae4c491d24435cba8977f2b9b925a8
 msgid "This command will install the Testingkamen module"
 msgstr ""
 
 #: ../../source/testingkamen.rst:100
 #: ../../source/testingkamen.rst:108
-# 3caa74c45ec0403fa5ab8f55d0119c2b
-# 5331b0eabe114bba9c123c7405373ee9
+# 5e0f567598b94b6faf7dbe4f6c7650c7
+# 092431f5a42b4077bef95e18d25aeb8f
 msgid "Install Testingkamen ( Y/N)"
 msgstr ""
 
 #: ../../source/testingkamen.rst:100
-# 6be09b157ec144ada8ef7afc05748ed5
+# db691d8986534aadbb380c7999a320c6
 msgid "Y"
 msgstr ""
 
 #: ../../source/testingkamen.rst:100
-# 1c5fccbffecb43dab68a11443bdeb3bd
+# 8e3860475e544eef8f9285587507d2ab
 msgid "If the user inputs Y, this module checks for previously installed version, if exits it was updated to latest version or else it installs the fresh package. To save the program files to the  specific path user must enter key ‘/’ button or else it uses the default path as shown in figure."
 msgstr ""
 
 #: ../../source/testingkamen.rst:108
-# c7b1a45d314c4f0e907e1c4d72a0c1d7
+# 0d71730bf8534b2ab2364feeb47e23ce
 msgid "N"
 msgstr ""
 
 #: ../../source/testingkamen.rst:108
-# 323faa6da2f444e092faa6a800863bc6
+# 95b5aaabe40e41a0a2d9657f7df26eef
 msgid "If the user inputs N, the installation was aborted."
 msgstr ""
 
 #: ../../source/testingkamen.rst:113
-# 14f6067c74174306bd6ddddb699999ce
+# 309e2c91ead94f79a251da773f5acab8
 msgid "Benefits to the users"
 msgstr ""
 
 #: ../../source/testingkamen.rst:115
-# f9005aa22d8a4cc6ad44fc51ef9a53d7
+# 7c5f9bbcb5604c8b993538acd87ad327
 msgid "Easy use of access and installation"
 msgstr ""
 
 #: ../../source/testingkamen.rst:116
-# 9f30bc018e1449f6b62473c1799ac796
+# 2370d412eedd41178603f27649e9d3d2
 msgid "Coding is case insensitive"
 msgstr ""
 
 #: ../../source/testingkamen.rst:117
-# 05a5e04a1aa745daab43b63bc8f0ae9d
+# 2cb64d50606d46f58c2788efb59a1c7d
 msgid "Full source is available and there are no license costs."
 msgstr ""
 

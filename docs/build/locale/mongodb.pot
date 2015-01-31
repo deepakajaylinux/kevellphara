@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2015, kevell
-# This file is distributed under the same license as the KEVELLS package.
+# This file is distributed under the same license as the KEVELL package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: KEVELLS 1.1.1\n"
+"Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-20 18:59+0530\n"
+"POT-Creation-Date: 2015-01-31 13:40+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,149 +17,149 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/mongodb.rst:3
-# ff68bff70ace4377a0bddbd37a4d6a8d
+# 89b5cbb6765b4cadbd133bc835282a5b
 msgid "MongoDB"
 msgstr ""
 
 #: ../../source/mongodb.rst:6
-# a57a751215a747ab9ae27045b128d031
+# 2dceacd1bf0644b3a7a2d8d82dcab549
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/mongodb.rst:8
-# e351e53f862441a3ae0c1068cf2b3908
+# f7cbb6dd82f148259bd39725998cf45d
 msgid "Mongo DB is a document oriented database. Mongo DB eschews the traditional table-based relational database structure in favor of php like documents with dynamic schemas, making the integration of data in certain types of applications easier and faster. Mongo DB is suitable to work with Ubuntu and Cent OS."
 msgstr ""
 
 #: ../../source/mongodb.rst:11
-# fc5d958868264562a7913db935fc68e2
+# 2ec78482ff3c4198993618f7514f5df4
 msgid "Help command"
 msgstr ""
 
 #: ../../source/mongodb.rst:12
-# 8dfbcbb6e7774089b8108e9576cc7af4
+# 41450fee5f484f11bb2d090151051992
 msgid "This command can function about the objectives and commands available under Mongo DB module. It also explains the command to install server. Before installation you read this help command explains its function"
 msgstr ""
 
 #: ../../source/mongodb.rst:43
-# 040aec25a6de4411b98346168005f760
+# a25e30d1814b4de292b523b9bcbb9a27
 msgid "Installation"
 msgstr ""
 
 #: ../../source/mongodb.rst:45
-# 89ca9bb544bd4e619183bd98855893c8
+# 5df7f24c44284bc38446f33b234631da
 msgid "Use this module to install Mongo DB on Ubuntu Linux systems from .deb packages. While Ubuntu includes its own Mongo DB packages, the official Mongo DB packages are generally more up-to-date."
 msgstr ""
 
 #: ../../source/mongodb.rst:51
-# 699156f2b1074d60864d7c45b5922759
+# df6bb1093da1417b9cbdb426c1da5b51
 msgid "Install mongo DB server?(Y/N)"
 msgstr ""
 
 #: ../../source/mongodb.rst:53
-# b9f63bfe8fb94200823557b755da080b
+# 2c7a0f8d2da14d25ba4c8ebb5594fd5b
 msgid "When the user gives input as Yes automatically it will install all depencies in root pass ass default and also install updated version. The following screen shot will explain it."
 msgstr ""
 
 #: ../../source/mongodb.rst:167
-# 931659918ddc48d9b2ea24b2b165eb9c
+# 282fe63791ab414aa78d4028642fc704
 msgid "If the user gives No it will exit."
 msgstr ""
 
 #: ../../source/mongodb.rst:170
-# 1af2d64a48e34666b528626175b50bb0
+# 6ba5676824974712b5dc432c1c95348e
 msgid "Options"
 msgstr ""
 
 #: ../../source/mongodb.rst:175
-# fe79ab12dd364b54bda1f9e933158a2a
+# cdb4502d05594cbc8b11531ea1cf14bd
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/mongodb.rst:175
-# ee4c53fda0ea4a26b1b466c318f67dcd
+# 8c7abf2fc94242fba96b232f82f166df
 msgid "Directory"
 msgstr ""
 
 #: ../../source/mongodb.rst:175
-# 3c40729ae4124bb9aec1e1fb2ad14c2f
+# 45dac74ccd154d348d832f6c839a8f57
 msgid "Option"
 msgstr ""
 
 #: ../../source/mongodb.rst:175
-# c7d392772a454948b7ce532750e081ec
+# 92209b215e4b4e3fa4c5ef66fbfed23e
 msgid "Comment"
 msgstr ""
 
 #: ../../source/mongodb.rst:177
 #: ../../source/mongodb.rst:183
-# f1d2fa5f1605415f8806f24216c1d849
-# 83eff2d201ab40f0bcecd3f911dfd78c
+# 3cb12080e3f643e59b018f19be126173
+# 9b4e502ddb944fa3aae2cd77c87fb0c9
 msgid "Install mongoDB server"
 msgstr ""
 
 #: ../../source/mongodb.rst:177
-# 389089d0dff748ea883634f520bbc1d5
+# f311ebedea7b4fd5872f40667d2f8d72
 msgid "YES"
 msgstr ""
 
 #: ../../source/mongodb.rst:177
-# b28e7e6b7fc14ea18189381efadc8fcc
+# 400ed856bc384c7c84fd057661894d65
 msgid "In Spite of mongoDB, the following alternatives can also be used: MongoDB, mongo-db-server,mongo-db, mongodb-server, mongodb,"
 msgstr ""
 
 #: ../../source/mongodb.rst:177
-# 73e4be6792ae437fb92ccedf174774ee
+# db50fe96df6c411b9d91ec2a942af4a6
 msgid "It will install mongoDB under Cleopatra"
 msgstr ""
 
 #: ../../source/mongodb.rst:183
-# 76d605ca48b24585b30c4c40411819a2
+# a4a3de5f3eca443a9dee129def63e3cc
 msgid "NO"
 msgstr ""
 
 #: ../../source/mongodb.rst:183
-# 7340e38fa07e40158573ca2b19a98ee2
+# 14a688a2a8ff438283a8c04e65d6cf7c
 msgid "In Spite of mongoDB, the following alternatives can also be used: MongoDB, mongo-db-server,mongo-db, mongodb-server, mongodb|"
 msgstr ""
 
 #: ../../source/mongodb.rst:183
-# 0f819ae1ade0479ba3405982dca59ac6
+# 35fdc69e91d64b5c823b5d950dfcdd2b
 msgid "It will exit"
 msgstr ""
 
 #: ../../source/mongodb.rst:191
-# 3452985fc5564382b12c7fe2eb6b7276
+# 5d1d21c17788475c82a122734d3db430
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/mongodb.rst:193
-# d8213fbf478d44158c7b36ec93b26220
+# 39b5668cae9e4d6c9bb2b52237770a05
 msgid "Mongo DB is document oriented database."
 msgstr ""
 
 #: ../../source/mongodb.rst:194
-# c07d1138ba794df987301f1213ae16a9
+# 67458129cc1641edb416719ec54ea2ec
 msgid "Mongo DB can updated the latest version."
 msgstr ""
 
 #: ../../source/mongodb.rst:195
-# 673d6af3e39d4c73a6885ecee0009fcd
+# 70372c5f7ed4429c8c1547654dc739cc
 msgid "While installing mongo DB all depencies, libraries can also installed automatically without searching from the web."
 msgstr ""
 
 #: ../../source/mongodb.rst:196
-# b79447f30ebe408b9678f6080f74ceb0
+# 11c0e7842c2b45df9d4016cac8242b14
 msgid "MongoDB can store the business subject in the minimal number of                    documents."
 msgstr ""
 
 #: ../../source/mongodb.rst:197
-# 8d796629b4e1444583b9b52ee9f85954
+# 151c14dbbaae4badac8e0e0d9c0d26ac
 msgid "Speed enhancements."
 msgstr ""
 
 #: ../../source/mongodb.rst:198
-# 0a94ed89d99f4e6a92e99a8f85bd0c61
+# f4628c5e7b1948e2b3381ec51e3e77b4
 msgid "Great advantage of load balancing and data replication features over multiple machines for storing files."
 msgstr ""
 

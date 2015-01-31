@@ -1,0 +1,152 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 13:40+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/phpcodebeautifier.rst:3
+# f9766f456d294f7681b1770eaedd06e2
+msgid "PHPCodeBeautifier"
+msgstr ""
+
+#: ../../source/phpcodebeautifier.rst:7
+# 8da4c7844c7c4ece8e78ff46acc0884e
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/phpcodebeautifier.rst:9
+# 9e768464fb5e4c34897fa0d591bc2e6c
+msgid "PhpCodeBeautifier is a module which avoid the user of spending hours on reformating code to suit the user own way of presenting it. Proper formatting makes code easier to read and understand. PHP Beautifier parses the user source code and formats it in the style of the user choice. It performs well in Ubuntu and cent OS."
+msgstr ""
+
+#: ../../source/phpcodebeautifier.rst:12
+# a4be86bb8da84337acd3ec2ea3c5aa24
+msgid "Help command"
+msgstr ""
+
+#: ../../source/phpcodebeautifier.rst:14
+# 585f4167d7e54d28a804e555f6d1f13c
+msgid "The help command leads the users regarding the purpose and as well as about the options that are included in the PhpCodeBeautifier modules. The help command lists out the alternative parameters of System detection under Cleopatra module. It also describes the syntax for installing the user’s code beautifier. The help command for PhpCodeBeautifier is shown below."
+msgstr ""
+
+#: ../../source/phpcodebeautifier.rst:20
+# cf4e61316f69455bbf70e956f832aa26
+msgid "The syntax for the help command non case sensitive which adds an advantage for this module. The following screenshot visualize the user about the help command under the syntax for the help command non case sensitive which adds an advantage for this module. The following screenshot visualize the user about the help command under system detection."
+msgstr ""
+
+#: ../../source/phpcodebeautifier.rst:45
+# aae97854fd0045fa9ee3781af5f5f6ab
+msgid "Installation"
+msgstr ""
+
+#: ../../source/phpcodebeautifier.rst:47
+# d24ae261600945f1a4da22eaa8f30b04
+msgid "Installation typically involves code being copied/generated from the installation files to new files on the local computer for easier access by the operating system. It formats and beautify the code; some of them can remove redundant elements. Using them, the user has to make sure and have a backup, so the user data can always be restored. The following command used to install PhpCodeBeautifier."
+msgstr ""
+
+#: ../../source/phpcodebeautifier.rst:53
+# 1c67814a21dd48daae14462e0aad1ad2
+msgid "While installing this module the following screen shot will be appeared."
+msgstr ""
+
+#: ../../source/phpcodebeautifier.rst:106
+#: ../../source/phpcodebeautifier.rst:112
+# de712061102942a4bc4d21be122ed51e
+# e47ff432bff246dfaf8f29d57e3920f7
+msgid "Options"
+msgstr ""
+
+#: ../../source/phpcodebeautifier.rst:112
+# eb0817913932487da7a35ad267a593db
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/phpcodebeautifier.rst:112
+# b7b8844a0e9f4bf08096bd7c0aeeb98b
+msgid "Alternative Parameters"
+msgstr ""
+
+#: ../../source/phpcodebeautifier.rst:112
+# 68b3f1262a064244b95047f3ba9cd07c
+msgid "Comments"
+msgstr ""
+
+#: ../../source/phpcodebeautifier.rst:114
+#: ../../source/phpcodebeautifier.rst:117
+# 3527e99729134b0594082f462dd924ff
+# 420e26c3f921418d8a3f1a950650c568
+msgid "Install PhpCodeBeautifier? (Y/N)"
+msgstr ""
+
+#: ../../source/phpcodebeautifier.rst:114
+# 628feeb9a570490b9fa74b92cd3cb9a8
+msgid "Y"
+msgstr ""
+
+#: ../../source/phpcodebeautifier.rst:114
+# 23b0e6ce9f9f4f94a179a6ebd63ed41a
+msgid "Instead of using PhpcodeBeautifier the user can use phpcodebeautifier"
+msgstr ""
+
+#: ../../source/phpcodebeautifier.rst:114
+# eeb60b27ea4d44bd8b1ef09bb71d8ea2
+msgid "It starts installing phpCodeBeautifier under cleopatra"
+msgstr ""
+
+#: ../../source/phpcodebeautifier.rst:117
+# fecb5081f2b7470a9b4f63abfd2a0de2
+msgid "N"
+msgstr ""
+
+#: ../../source/phpcodebeautifier.rst:117
+# 3b2d4fa6095a4d3aa854662dac221227
+msgid "Instead of using PhpcodeBeautifier the user can use phpcodebeautifier|"
+msgstr ""
+
+#: ../../source/phpcodebeautifier.rst:117
+# b7bc5eae5db04e6fa1978822e744c015
+msgid "It terminates the  installation"
+msgstr ""
+
+#: ../../source/phpcodebeautifier.rst:124
+# f3f1799056244d0b927d453833b6a544
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/phpcodebeautifier.rst:126
+# 879cbe47ec8342c3a8c93a40abe82600
+msgid "PhpCodeBeautifier which allow to process file visually."
+msgstr ""
+
+#: ../../source/phpcodebeautifier.rst:127
+# 1a2d222b1ff14cd598dcf03ab9f84b98
+msgid "PhpCodeBeautifier can format source codes written in over 85 languages – among them  PHP, Ruby, HTML."
+msgstr ""
+
+#: ../../source/phpcodebeautifier.rst:128
+# d41f1407b89942a097c6e97c70f0af4c
+msgid "This is non case sensitivity."
+msgstr ""
+
+#: ../../source/phpcodebeautifier.rst:129
+# e247f21a859347bb87cf43be046eb75f
+msgid "PhpCodeBeautifier suits to work with Ubuntu and cent OS."
+msgstr ""
+
+#: ../../source/phpcodebeautifier.rst:130
+# bfcd4005633d4d17beca2ab08365ecbf
+msgid "PhpCodeBeautifier is a specific utility that reformats a program to conform to a standard of presentation."
+msgstr ""
+

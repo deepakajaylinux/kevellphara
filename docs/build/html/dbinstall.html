@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>DBInstall &mdash; KEVELL 0.1 ドキュメント</title>
+    <title>DBInstall &mdash; KEVELL 0.1 documentation</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -25,11 +25,10 @@
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
-    <script type="text/javascript" src="_static/translations.js"></script>
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
-    <link rel="top" title="KEVELL 0.1 ドキュメント" href="index.html" />
+    <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
     <link rel="up" title="Dapperstrano" href="Dapperstrano_main.html" />
     <link rel="next" title="EnvironmentConfig" href="environmentconfigdapper.html" />
     <link rel="prev" title="Apache Control" href="apachecontrol.html" />
@@ -104,9 +103,9 @@
           
             
   <li><a href="apachecontrol.html"
-         title="前の章へ">&laquo; Apache Control</a></li>
+         title="previous chapter">&laquo; Apache Control</a></li>
   <li><a href="environmentconfigdapper.html"
-         title="次の章へ">EnvironmentConfig &raquo;</a></li>
+         title="next chapter">EnvironmentConfig &raquo;</a></li>
           
           
           <!--  <li>
@@ -130,16 +129,16 @@
   
   
   <div class="section" id="dbinstall">
-<h1>DBInstall<a class="headerlink" href="#dbinstall" title="このヘッドラインへのパーマリンク">¶</a></h1>
+<h1>DBInstall<a class="headerlink" href="#dbinstall" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="synopsis">
-<h2>Synopsis<a class="headerlink" href="#synopsis" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
 <p>Dbinstall module helps in handling database installation functions. This command used to install a new database. The installation requires sudo access, or it has to be executed as root. This includes execution of the rpm command, or the miminstall command of the tar package, and also when using the dbinstall command that creates an initial database.</p>
 <p>While creating an initial database, you have installed the software you can build a Mimer SQL database by using the dbinstall command.</p>
 <p>We just installed a new database on a Linux (CentOS) server and when I try to connect to the database (from the server) it requires the database name in the connect string. As mentioned before, the dbinstall command requires sudo access, or must be executed by root. If not started from a privileged shell sudo password will be asked.</p>
 <p>During the dbinstall session, database name, database location, and password for the database administrator (i.e. SYSADM) should be specified. There will also be options for installing example environments, etc. When the session is completed, a fully operational database is available - enabled for client/server access over TCP and automatic start at reboot.</p>
 </div>
 <div class="section" id="help-command">
-<h2>Help Command<a class="headerlink" href="#help-command" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>This command helps to determine the usage of DBinstall module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screen shot of the same.</p>
 <div class="highlight-bash"><div class="highlight"><pre>dapperstrano DBInstall <span class="nb">help</span>
 </pre></div>
@@ -182,7 +181,7 @@ End Help
 </div>
 </div>
 <div class="section" id="installation">
-<h2>Installation<a class="headerlink" href="#installation" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
 <p>When the user needs to install, the user can issue the following commands for DBIstall. The system will execute the process of installation.</p>
 <div class="highlight-bash"><div class="highlight"><pre>dapperstrano dbinstall install
 </pre></div>
@@ -208,7 +207,7 @@ End Help
 </div>
 </div>
 <div class="section" id="save">
-<h2>Save<a class="headerlink" href="#save" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<h2>Save<a class="headerlink" href="#save" title="Permalink to this headline">¶</a></h2>
 <p>When the user needs to save the database for a project, the below given command will execute the process.</p>
 <div class="highlight-bash"><div class="highlight"><pre>dapperstrano dbinstall save
 </pre></div>
@@ -234,7 +233,7 @@ End Help
 </div>
 </div>
 <div class="section" id="drop">
-<h2>Drop<a class="headerlink" href="#drop" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<h2>Drop<a class="headerlink" href="#drop" title="Permalink to this headline">¶</a></h2>
 <p>When the user needs to drop the database for a project, the below given command will execute the process.</p>
 <div class="highlight-bash"><div class="highlight"><pre>dapperstrano dbinstall drop
 </pre></div>
@@ -260,12 +259,12 @@ End Help
 </div>
 </div>
 <div class="section" id="alternative-parameter">
-<h2>Alternative Parameter<a class="headerlink" href="#alternative-parameter" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<h2>Alternative Parameter<a class="headerlink" href="#alternative-parameter" title="Permalink to this headline">¶</a></h2>
 <p>Either of the three alternative parameter can be used in command-  dbinstall, DBInstall and db-install</p>
 <p>eg: dapperstrano DBInstall help/  dapperstrano db-install help</p>
 </div>
 <div class="section" id="benefits">
-<h2>Benefits<a class="headerlink" href="#benefits" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
 <li>It will check and verify all dependencies for the package it is installing</li>
 <li>This will run dbconfigure first to set up users unless the system already have them</li>

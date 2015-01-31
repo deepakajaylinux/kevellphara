@@ -1,0 +1,140 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../Testingkamen_main.rst:2
+# da7b2e8a9b484486a56a365813db432b
+msgid "Testingkamen"
+msgstr ""
+
+#: ../../Testingkamen_main.rst:5
+# 3b091b44685f48dcb87574959ba536f4
+msgid "Synopsis"
+msgstr ""
+
+#: ../../Testingkamen_main.rst:7
+# 6f22bebf096d4f74a1009103a3c86b49
+msgid "The testingkamen aims at test configuration and execution automation management with the aid of php."
+msgstr ""
+
+#: ../../Testingkamen_main.rst:9
+# 9cf74124b5d840569374d383ddd54d83
+msgid "It use common set of rules across a range of tools and technologies for handling the test suite configuration and execution."
+msgstr ""
+
+#: ../../Testingkamen_main.rst:11
+# 7f41f10816ce46bdbadc3e98e00c107d
+msgid "It provides common API to execute tests in a wide range of languages and test tools. The user can run complex test suites with little or no extra configuration needed. It nourishes the users tests by manual or using an operating system and in hand ensures the environmental stability."
+msgstr ""
+
+#: ../../Testingkamen_main.rst:13
+# 260c1c889e3f4ff7ad0866b3a0ce1617
+msgid "It is modular, object-oriented and extensible. So if the users feels any extra modules as required they can frame and add their own module depending upon their requirements."
+msgstr ""
+
+#: ../../Testingkamen_main.rst:15
+# bc1703a9d2084aed8db6dd297313e82f
+msgid "It is a part of pharaoh tool suite that envelops the Configuration Management, Test Automation Management, Automated Deployment, Build and Release Management and more, all implemented in code, and all in PHP."
+msgstr ""
+
+#: ../../Testingkamen_main.rst:19
+# 986a478002f5467c8184c9884df9dbb7
+msgid "Help Command"
+msgstr ""
+
+#: ../../Testingkamen_main.rst:21
+# fb07a7aeb6ac49e1aa9520b5971fa97d
+msgid "If you want to know the purpose of a particular module, just type the command as follows:"
+msgstr ""
+
+#: ../../Testingkamen_main.rst:27
+# ce6ece5879424c8487095cbf67e5b8ad
+msgid "this command will provide the usage of that particular module and also the available options in actions that you can perform. The screenshot shown under explains the usage of the module behat under testingkamen using the help command."
+msgstr ""
+
+#: ../../Testingkamen_main.rst:29
+# cd307061db4946baa06efb242240db7a
+msgid "The help command also lists the alternative parameters that can be used in declaration."
+msgstr ""
+
+#: ../../Testingkamen_main.rst:56
+# 0d99dfd0feca4463bd6d83fb973d4e2d
+msgid "Installation"
+msgstr ""
+
+#: ../../Testingkamen_main.rst:58
+# a42cca2f23db494abf6d543ed66086c5
+msgid "Installing the testingkamen can be done in two possible ways depending upon the availability and requirements of the users. They two ways of installing testingkamen are:"
+msgstr ""
+
+#: ../../Testingkamen_main.rst:60
+#: ../../Testingkamen_main.rst:64
+# e019f6ea309b4b22b20993e897a92695
+# 236aac9559d440e6afc10714b35747ea
+msgid "Installing testingkamen via cleopatra"
+msgstr ""
+
+#: ../../Testingkamen_main.rst:61
+# 8d2f8cd402e244bfb641c803f8231ca5
+msgid "Installing the testingkamen without depending on cleopatra."
+msgstr ""
+
+#: ../../Testingkamen_main.rst:66
+# c8db2753c9a747dea06c0d192fa17aa9
+msgid "If the user have the cleopatra in their machine, then it is the simpler way to install testingkamen by using the following command:"
+msgstr ""
+
+#: ../../Testingkamen_main.rst:73
+# 3ff62f458e6c450694d530cb953a1001
+msgid "Installing the testingkamen without depending on cleopatra"
+msgstr ""
+
+#: ../../Testingkamen_main.rst:75
+# c22f939b5ffe471eb9fa662a4e75c07f
+msgid "If the user wish to install the testingkamen without depending and using the cleopatra they can use the following command:"
+msgstr ""
+
+#: ../../Testingkamen_main.rst:84
+# c6c4695ef9a14899acfb04839ad6b5e6
+msgid "or"
+msgstr ""
+
+#: ../../Testingkamen_main.rst:86
+# 15571c01a2fc4d4c95326284b346dd99
+msgid "The below command is predictable for the users who wish to specify the location during installation."
+msgstr ""
+
+#: ../../Testingkamen_main.rst:93
+# c6504bbcdcb343a7b46769058c1ddcac
+msgid "How to Use and Available Modules"
+msgstr ""
+
+#: ../../Testingkamen_main.rst:95
+# a8676e38a1454e739f978fc5c62add76
+msgid "Let us see, how to use the Testingkamen tool, first, simply type as"
+msgstr ""
+
+#: ../../Testingkamen_main.rst:101
+# 227e4b2b4438429db59653af674c7b4a
+msgid "this command will list all the names of the modules that are available under Testingkamen. The following screen shot depicts that visually."
+msgstr ""
+
+#: ../../Testingkamen_main.rst:138
+# 7cd06fc65cdb4851bb09be74e746c49f
+msgid "Playing with Testingkamen Modules"
+msgstr ""
+

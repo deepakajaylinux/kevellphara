@@ -1,0 +1,142 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../ApacheModules.rst:2
+# d401ae5d969d4ab4baa3b2e455268af1
+msgid "Apache Module"
+msgstr ""
+
+#: ../../ApacheModules.rst:5
+# 45d8a85344f94843b4fd4261525d6efa
+msgid "Synopsis"
+msgstr ""
+
+#: ../../ApacheModules.rst:7
+# a8d13c1f35994f6d96acf96083bbb717
+msgid "This module facilitates to install the Apache modules. It specifies the configuration of your environment. The checking availability of modules is possible. It is comfortable in Ubuntu as well as in Cent OS."
+msgstr ""
+
+#: ../../ApacheModules.rst:10
+# e04ffce0010341e08f0a391508345657
+msgid "Help command"
+msgstr ""
+
+#: ../../ApacheModules.rst:12
+# ee79b2acf246496481d3c011a4267656
+msgid "This help command explains about the purpose of a particular module. The syntax for installation is depicted under the help command. It also lists out the alternative parameters that can be used for declaration. The help command is easy to operate by the end user. The following command guides the user about using this module."
+msgstr ""
+
+#: ../../ApacheModules.rst:18
+# 3ea93bc9a9a5437da26c69e65dc27c34
+msgid "After giving the command, the command will list the help options. The following screen shots will give visual effect for the usage of this module."
+msgstr ""
+
+#: ../../ApacheModules.rst:40
+# c51708fe6b8843b584dac80ff88786ed
+msgid "Installation"
+msgstr ""
+
+#: ../../ApacheModules.rst:42
+# 6e8c081f325c4aa9ab4a70495c7d8765
+msgid "Installation is not a difficult process to install this module under Cleopatra by merely using the command given below,"
+msgstr ""
+
+#: ../../ApacheModules.rst:48
+# 662985d5586a4ded9b30fee2d5eeb67b
+msgid "After giving the command it will ask,"
+msgstr ""
+
+#: ../../ApacheModules.rst:57
+# ecb0d8dad9e145cb9d30494de3559216
+msgid "The following screen shots will give visual effect for the installation of this module."
+msgstr ""
+
+#: ../../ApacheModules.rst:150
+# 260a8810d3da478699107bd0338399ea
+msgid "Parameters"
+msgstr ""
+
+#: ../../ApacheModules.rst:150
+# 80cec6052a4e4dd2a628257e46a00964
+msgid "Required"
+msgstr ""
+
+#: ../../ApacheModules.rst:150
+# fdf6df91e3e544e28a69b2ce8976e417
+msgid "Comments"
+msgstr ""
+
+#: ../../ApacheModules.rst:152
+# 325f7ae0e5b2497aa03d4d8ffa68b073
+msgid "Install"
+msgstr ""
+
+#: ../../ApacheModules.rst:152
+#: ../../ApacheModules.rst:154
+# e6dfb4c6c652499abd6c5c335378b962
+# 9cebefdbcd0045b3b69592534e66a736
+msgid "Yes"
+msgstr ""
+
+#: ../../ApacheModules.rst:152
+# 865bfd43765b4eab8c77259853829348
+msgid "It will install the apache module under Cleopatra"
+msgstr ""
+
+#: ../../ApacheModules.rst:154
+#: ../../ApacheModules.rst:156
+# 9dd46960db7a48c0a21b4d1b78c03010
+# dde00684de1c47438d60b434456eccf1
+msgid "Install Apache Module? (Y/N)"
+msgstr ""
+
+#: ../../ApacheModules.rst:154
+# bb4ab222520648adb3bbb06dcceb3129
+msgid "If the user gives input as yes, it will install the module."
+msgstr ""
+
+#: ../../ApacheModules.rst:156
+# 86dbbe0d3d7245b3bc994820323574d8
+msgid "No"
+msgstr ""
+
+#: ../../ApacheModules.rst:156
+# 0e987f238dea43128ffcb7c7a1286660
+msgid "If the user gives input as no, it will be exited.|"
+msgstr ""
+
+#: ../../ApacheModules.rst:161
+# 29dc3b59094d45f89418c0cd7bc9c514
+msgid "Benefits"
+msgstr ""
+
+#: ../../ApacheModules.rst:163
+# 7e3126f2dae44116b444285222165655
+msgid "The module is an aid to Link with Cleopatra."
+msgstr ""
+
+#: ../../ApacheModules.rst:164
+# 8ea7ec2b01a146c2afd34daaeba4ff6c
+msgid "While installing the Apache modules, it will acquiesce the configuration files."
+msgstr ""
+
+#: ../../ApacheModules.rst:165
+# 58accff265c44f55b0b9feb690dd77da
+msgid "If the configuration files are not available in the system this module will automatically install it."
+msgstr ""
+

@@ -256,9 +256,17 @@ texinfo_documents = [
 # How to display URL addresses: 'footnote', 'no', or 'inline'.
 #texinfo_show_urls = 'footnote'
 
-language= 'de'
+language= 'en'
 locale_dirs = [
 		'locale/'
 	      ]  
 
 gettext_compact = True 
+
+
+
+#on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
+#if not on_rtd: # only import and set the theme if we're building docs locally
+#import sphinx_rtd_theme
+#html_theme = 'sphinx_rtd_theme'
+#html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]

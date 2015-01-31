@@ -1,0 +1,140 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../phpeclipse.rst:3
+msgid "PHPEclipse"
+msgstr ""
+
+#: ../../phpeclipse.rst:6
+msgid "Synopsis"
+msgstr ""
+
+#: ../../phpeclipse.rst:8
+msgid ""
+"PHPEclipse is a set of plug-ins for the Eclipse Framework which provides "
+"integrated IDE for PHP developers. Eclipse and PHPEclipse are written in "
+"Java, and will run on all graphical desktop environments. PHPEclipse is Open"
+" Source software, freely available under the Common Public Licence."
+msgstr ""
+
+#: ../../phpeclipse.rst:10
+msgid ""
+"The Eclipse Platform provides users with a consistent user interface "
+"paradigm. A software development IDE is one of the more complex desktop "
+"applications most of us are likely to use, and so the time required for a "
+"developer to become efficient with a particular IDE can be significant. "
+"Eclipse doesn't reduce this time, but it does provide a consistent interface"
+" approach which need only be learnt once in order to develop efficiently "
+"with a wide range of programming languages and tools. As part of this "
+"approach, Eclipse provides detailed documentation and tutorials on all its "
+"generic functionality, allowing plugin projects, such as PHPEclipse, to "
+"focus only on their areas specific to their domain. By learning to use "
+"Eclipse as a development platform, or learning to develop your own plug-in "
+"tools for eclipse, you are acquiring a useful and flexible skill."
+msgstr ""
+
+#: ../../phpeclipse.rst:13
+msgid "Help Command"
+msgstr ""
+
+#: ../../phpeclipse.rst:15
+msgid ""
+"This command helps to determine the usage of PhpEclipse module. The user "
+"will come to know about the different way/format to execute this module. "
+"This command guides the end user to know the purpose of this command. Below "
+"given are the command and the screenshot of the same."
+msgstr ""
+
+#: ../../phpeclipse.rst:21
+msgid "The pictorial representation of the above command is shown below,"
+msgstr ""
+
+#: ../../phpeclipse.rst:45
+msgid "Installation"
+msgstr ""
+
+#: ../../phpeclipse.rst:47
+msgid ""
+"This command helps in installing the latest version of PHPeclipse in system."
+" The below given command will execute the process of installation."
+msgstr ""
+
+#: ../../phpeclipse.rst:55 ../../phpeclipse.rst:62
+msgid "Options"
+msgstr ""
+
+#: ../../phpeclipse.rst:62
+msgid "Parameters"
+msgstr ""
+
+#: ../../phpeclipse.rst:62
+msgid "Alternative Parameters"
+msgstr ""
+
+#: ../../phpeclipse.rst:62
+msgid "Comments"
+msgstr ""
+
+#: ../../phpeclipse.rst:64 ../../phpeclipse.rst:70
+msgid "cleopatra PHPEclipse Install"
+msgstr ""
+
+#: ../../phpeclipse.rst:64 ../../phpeclipse.rst:70
+msgid ""
+"There are three alternative parameters which can be used in command line. "
+"PHP-Eclipse, PHPEclipse, phpeclipse Eg: cleopatra PHPEclipse install/"
+msgstr ""
+
+#: ../../phpeclipse.rst:68
+msgid "cleopatra PHP-Eclipse install"
+msgstr ""
+
+#: ../../phpeclipse.rst:64
+msgid "Y"
+msgstr ""
+
+#: ../../phpeclipse.rst:64
+msgid "System starts installation process"
+msgstr ""
+
+#: ../../phpeclipse.rst:74
+msgid "cleopatra PHP-Eclipse install|"
+msgstr ""
+
+#: ../../phpeclipse.rst:70
+msgid "N"
+msgstr ""
+
+#: ../../phpeclipse.rst:70
+msgid "System stops installation process"
+msgstr ""
+
+#: ../../phpeclipse.rst:81
+msgid "Benefits"
+msgstr ""
+
+#: ../../phpeclipse.rst:83
+msgid "PHP, HTML, XML and CSS Syntax Highlighting"
+msgstr ""
+
+#: ../../phpeclipse.rst:84
+msgid "Code completion"
+msgstr ""
+
+#: ../../phpeclipse.rst:85
+msgid "Integrated web browser preview"
+msgstr ""
+
+#: ../../phpeclipse.rst:86
+msgid "Integrated control of Apache & MySQL servers"
+msgstr ""

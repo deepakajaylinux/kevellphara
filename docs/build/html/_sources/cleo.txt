@@ -17,21 +17,21 @@ Help command
 
 .. code-block:: bash
  
-kevells@corp:/# cleopatra Cleopatra help
- ******************************
+	kevells@corp:/# cleopatra Cleopatra help
+	******************************
 
 
-  This command allows you to update Cleopatra.
+	This command allows you to update Cleopatra.
 
-  Cleopatra, cleo, cleopatra
+	Cleopatra, cleo, cleopatra
 
         - install
         Installs the latest version of cleopatra
         example: cleopatra cleopatra install
 
- ------------------------------
- End Help
- ******************************
+	------------------------------
+	End Help
+	******************************
 
 
 
@@ -89,17 +89,17 @@ The following screen shot enumerate it.
 .. cssclass:: table-bordered
 
 
-	+-------------------------------+------------------------------+--------------------------+--------------------------------+
-	| 	Parameters	        | Directory(default)           | option	  	          |Comments			   |
-	+===============================+==============================+==========================+================================+
-	|Install cleopatra cleopatra    |			       |	Y(YES)            |It will install Cleopatra 	   |
-	|Update to latest version?	|			       |			  |
-	|(Y/N)				|	     	   	       |			  |under Cleopatra                 |
-	+-------------------------------+------------------------------+--------------------------+--------------------------------+
-	|Install cleopatra cleopatra	|			       |			  |				   |	
-      	|Update to latest version?	|                              |			  |				   |
-	|(Y/N)			       	|                              |	N(NO)		  |It will exit from installation| |
-	+-------------------------------+------------------------------+--------------------------+--------------------------------+
+	+-------------------------------+--------------------------+--------------------------------+
+	| 	Parameters	        | option	  	   |Comments			    |
+	+===============================+==========================+================================+
+	|Install cleopatra cleopatra    |	Y(YES)             |It will install Cleopatra 	    |
+	|Update to latest version?	|			   |				    |
+	|(Y/N)				|	     	   	   |under Cleopatra                 |
+	+-------------------------------+--------------------------+--------------------------------+
+	|Install cleopatra cleopatra	|			   |				    |	
+      	|Update to latest version?	| 			   |				    |
+	|(Y/N)			       	|     	N(NO)		   |It will exit from installation| |
+	+-------------------------------+--------------------------+--------------------------------+
 
 Benefits
 --------

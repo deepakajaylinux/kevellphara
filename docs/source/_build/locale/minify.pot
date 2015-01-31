@@ -1,0 +1,165 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../minify.rst:3
+# e4debccb481e41d9bb44e7b996e1d344
+msgid "Minify"
+msgstr ""
+
+#: ../../minify.rst:6
+# f138eff174f74eebbeb5d785c2eb03f4
+msgid "Synopsis"
+msgstr ""
+
+#: ../../minify.rst:8
+# a8d9029c10ee46aca1d3f282ee3df5f2
+msgid "Minify is the removal of unnecessary characters from source code. Mini, when used as a prefix, means small.  The goal of minify is to make source code \"smaller\" and improve performance."
+msgstr ""
+
+#: ../../minify.rst:10
+# a252208b93e4490b90c3f86e572cae12
+msgid "The term minify is often associated with interpreted scripted languages, such as php, that are deployed and transmitted over the Internet. Code that has been minified by replacing runs of spaces by a single space, for example, is more lightweight and takes less time for a browser to load. Popular minify tools for Web development include Compressor, and ubuntu Compiler. Minify suits to work with Ubuntu and cent OS."
+msgstr ""
+
+#: ../../minify.rst:13
+# 1da19d071aeb40cb926262203048c9d1
+msgid "Help command"
+msgstr ""
+
+#: ../../minify.rst:15
+# e042870b880b4bd196601d8a1e2273ef
+msgid "Minify makes package development a breeze: Conceptually, minify is similar to compression.  Unlike code that has been compressed, however, code that has minified can still be worked with without requiring the extra step of decompression. Minified source code may also be used as a kind of obfuscation, though the term obfuscation may be distinguished as a form of false cryptography while a minified code instance may be reversed using a pretty-printer."
+msgstr ""
+
+#: ../../minify.rst:17
+# d07ed38dcd564ecdbdf3eb76a6f8c873
+msgid "The following help command guides the user to handle minify."
+msgstr ""
+
+#: ../../minify.rst:23
+# 1ccef4c67363428eb86103bd5ec6d0e8
+msgid "This screen shot shows the help command usage"
+msgstr ""
+
+#: ../../minify.rst:45
+# fc9ac1fd8bc84f68acf548a5e1e2ebfd
+msgid "Installation"
+msgstr ""
+
+#: ../../minify.rst:47
+# 539328f6345c4697a6638ae5f25a4029
+msgid "It works with existing conventions for code structure, adding efficient tools to support the cycle of coding development. With minify, developing a coding becomes so easy that it will be the user default layout whenever the user is writing a significant amount of code. This command used to install minify is as follows,"
+msgstr ""
+
+#: ../../minify.rst:53
+# de8a484684504c43bb632d492e603a7d
+msgid "The following screenshot explains it."
+msgstr ""
+
+#: ../../minify.rst:58
+# 5905e11eeff5401d9b517bf7193a85be
+msgid "Option"
+msgstr ""
+
+#: ../../minify.rst:60
+# e275648d37a1437c8ba458b14c16378d
+msgid "Minify source code is especially useful for interpreted languages deployed and transmitted on the Internet, because it reduces the amount of data that needs to be transferred."
+msgstr ""
+
+#: ../../minify.rst:65
+# 702328d41a9b40e89e4613dbaaa3519a
+msgid "Parameters"
+msgstr ""
+
+#: ../../minify.rst:65
+# 1a3899688c7e4cfbb826ac17866c161f
+msgid "Alternate Parameters"
+msgstr ""
+
+#: ../../minify.rst:65
+# a24bcdafe0a04235a8886a049aeeb832
+msgid "Oprion"
+msgstr ""
+
+#: ../../minify.rst:65
+# 32085ee272a14780a3d734941424eaa6
+msgid "Comments"
+msgstr ""
+
+#: ../../minify.rst:67
+#: ../../minify.rst:70
+# 9e0946448b614e38be7a16e5454da8f5
+# 5be2f699aa1c43158b140a3da436f9b6
+msgid "Install minify?(Y/N)"
+msgstr ""
+
+#: ../../minify.rst:67
+# 02632685f04144408df9b79095fc2f9e
+msgid "Instead of using minify we can use Minify"
+msgstr ""
+
+#: ../../minify.rst:67
+# dceee3e420204c4ca0ef2620b4e81361
+msgid "Y"
+msgstr ""
+
+#: ../../minify.rst:67
+# 648e3d676e4048fb8277b0d7961d34ed
+msgid "It installs  minify under cleopatra"
+msgstr ""
+
+#: ../../minify.rst:70
+# 4756c6b252c64eaf8bbcc72b79812e3f
+msgid "Instead of using minify we can use Minify|"
+msgstr ""
+
+#: ../../minify.rst:70
+# 4adab4ecbdf14da2a3b3c1897127b856
+msgid "N"
+msgstr ""
+
+#: ../../minify.rst:70
+# cf6149428bc84c6f922f9ea8bc6c229e
+msgid "The system exit the installation"
+msgstr ""
+
+#: ../../minify.rst:77
+# 8a2eb4973a224717b7066db011f7578b
+msgid "Benefits"
+msgstr ""
+
+#: ../../minify.rst:79
+# b076c73a0f81499fae3defccb47dcd01
+msgid "Minify communicates via Php coding."
+msgstr ""
+
+#: ../../minify.rst:80
+# c227b81d25de43649cb115ca19543850
+msgid "Minify comforts with Ubuntu and cent OS."
+msgstr ""
+
+#: ../../minify.rst:81
+# c566ca9788304fa9b27ca5149af0469f
+msgid "Minify supports non case sensitivity."
+msgstr ""
+
+#: ../../minify.rst:82
+# f46911c8a7224dd59583137844badd98
+msgid "Minify deducts unnecessary characters from the source code."
+msgstr ""
+

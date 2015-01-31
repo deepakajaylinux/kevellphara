@@ -1,0 +1,142 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../sshharden.rst:3
+# 2463d26279154ce3866f9ad195cd1399
+msgid "Ssh Harden"
+msgstr ""
+
+#: ../../sshharden.rst:8
+# 31e2e6eef21e43b48deb069e7cf9afec
+msgid "Synopsis"
+msgstr ""
+
+#: ../../sshharden.rst:10
+# fd60acb850214cd687407dd9dbd6962d
+msgid "This module assists in creating and modifying sshhardens. The ssh harden facilitates security functions for the users SSH accounts."
+msgstr ""
+
+#: ../../sshharden.rst:13
+# 3e9141840fe3414b852d5af5199e33a2
+msgid "Help Command"
+msgstr ""
+
+#: ../../sshharden.rst:15
+# 1fba881dcaa44d149d0b53593da476fb
+msgid "The help command leads the users regarding the purpose and as well as about the options that are included in the SSH harden module. The help command lists out the alternative parameters of SSH harden. It also describes the syntax for using SSH harden to securify. The help command for SSH harden is given below."
+msgstr ""
+
+#: ../../sshharden.rst:21
+# 851648e4e5154ffb8eb517b0442df95d
+msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under SSH Harden."
+msgstr ""
+
+#: ../../sshharden.rst:44
+# 005205ae0a9f412a8672b49c018c0412
+msgid "Securify"
+msgstr ""
+
+#: ../../sshharden.rst:46
+# 495dc4ef12d74b0cbfe0d0dca98041c2
+msgid "The command used for securifying the users SSH account via SSH harden is shown below:"
+msgstr ""
+
+#: ../../sshharden.rst:52
+# c6d909c277b34c5b986e65814af634e4
+msgid "After inputting the command as given above the installation of Ssh Hardening begins as shown in the tabular format."
+msgstr ""
+
+#: ../../sshharden.rst:58
+# 56031af7bb03415c9623ef95d99ced1f
+msgid "Paramaters"
+msgstr ""
+
+#: ../../sshharden.rst:58
+# 2111142c001e49a78000599287499614
+msgid "Alternative Parameter"
+msgstr ""
+
+#: ../../sshharden.rst:58
+# 62c0e494f4b54801a539d985a71ff7d1
+msgid "Options"
+msgstr ""
+
+#: ../../sshharden.rst:58
+# 86d6d6f45c0a490aae9e313e5ec81560
+msgid "comments"
+msgstr ""
+
+#: ../../sshharden.rst:60
+#: ../../sshharden.rst:65
+# 8a53c4706dbe40c6aad2d257f2232ad3
+# a2455eb5a9c6491fb9f37aabf9feb765
+msgid "Install Ssh Hardening? (Y/N)"
+msgstr ""
+
+#: ../../sshharden.rst:60
+#: ../../sshharden.rst:65
+# 90712aa24f4440bd825491c8089091ea
+# c93a64772bd547b2a4d0457a259de78e
+msgid "In Spite of Ssh Hardening, the following alternatives can also be used: SshHarden, sshharden, ssh-harden."
+msgstr ""
+
+#: ../../sshharden.rst:61
+# 50604bae770640d799bd4d3fd1a754cf
+msgid "Y(yes)"
+msgstr ""
+
+#: ../../sshharden.rst:60
+# 6cbc3eb910454646a7385e16303469a0
+msgid "If the user wish to proceed the installation process they can input as Y."
+msgstr ""
+
+#: ../../sshharden.rst:66
+# 2d90026bb96f437b8b81acfe5fa6da40
+msgid "N(No)"
+msgstr ""
+
+#: ../../sshharden.rst:65
+# f0df292228fe42bd8ff8decaa91b355a
+msgid "If the user wish to Quit the installation process they can input as Y."
+msgstr ""
+
+#: ../../sshharden.rst:72
+# 30871147751e49749813bb17e1f9b82e
+msgid "If the user proceeds the installation of Ssh harden that enables securifying the ssh account of users gets initiated. While the process of execution occurs, the sshd config gets modified that disallows root ssh login and as well as sshd config is modified that disallows password based ssh login. finally it will restarts the ssh service and display the results of completed Ssh Harden modifications. The following screen shot explains the above mentioned process pictorially."
+msgstr ""
+
+#: ../../sshharden.rst:110
+# 3d57be3ef6a04f079390031520d0dce8
+msgid "Benefits"
+msgstr ""
+
+#: ../../sshharden.rst:112
+# 5ad5e2ef71414a89b71deaf9d84a7d2c
+msgid "This Ssh harden acts as a enhancer that enables the security functions of the users SSH accounts."
+msgstr ""
+
+#: ../../sshharden.rst:113
+# 4455f2e1cb9b4092b58f222e3830d5a1
+msgid "The parameters used in help and securifying, installation operations are not case sensitive which is an added advantage while compared to others."
+msgstr ""
+
+#: ../../sshharden.rst:114
+# 0243f25b5bf3480a9cf68369e8eaa51b
+msgid "This module enables modification of ssh harden config that prohibits root ssh login, password based ssh login."
+msgstr ""
+

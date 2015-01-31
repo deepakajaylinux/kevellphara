@@ -1,0 +1,108 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../mkdir.rst:3
+# e52cb0e260b742d2a315fb3120fbdeaa
+msgid "Mkdir"
+msgstr ""
+
+#: ../../mkdir.rst:7
+# 596ecf9066ec4e61959432db0ac58d06
+msgid "Synopsis"
+msgstr ""
+
+#: ../../mkdir.rst:9
+# 6e90355efe5c4f22b5f7bc7159b4be47
+msgid "This module assists in creating a directory. The user can specify the path while declaring creation of directory or at run-time of creating a directory. It can be performed either in remote or local machine. Let us see about how this module helps in creating a directory."
+msgstr ""
+
+#: ../../mkdir.rst:12
+# 37fa941577214a0296127f82f850e4c3
+msgid "Help Command"
+msgstr ""
+
+#: ../../mkdir.rst:14
+# 82b3d6619b71496ea609e022ab1440fb
+msgid "The help command leads the users regarding the purpose and as well as about the options that are included in the Mk Dir. The help command lists out the alternative parameters of MK Dir. . It also describes the syntax for creating a directory in two different ways either at time of declaration or at run-time. . The help command for MK dir is shown below."
+msgstr ""
+
+#: ../../mkdir.rst:20
+# 06f9010343a94c449c6460a0753e81ce
+msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under MK dir."
+msgstr ""
+
+#: ../../mkdir.rst:43
+# 846da1123a0c4146bed277a97379028c
+msgid "Alternative Parameters"
+msgstr ""
+
+#: ../../mkdir.rst:45
+# d70c2c7be2f949578aff7d68a33cf2b4
+msgid "While using commands for help and creating a directory, instead of mkdir Mkdir can also be used."
+msgstr ""
+
+#: ../../mkdir.rst:48
+# eb1c4cc1faa04e208029124f7fe764af
+msgid "Creating a Mk Dir"
+msgstr ""
+
+#: ../../mkdir.rst:50
+# bea34b3d31de4bdaaa809197a0ae52d7
+msgid "Creating an Mk Dir can be done in two different ways:"
+msgstr ""
+
+#: ../../mkdir.rst:53
+# 993f95598ec44c2faee94e8e50651182
+msgid "Either at run-time"
+msgstr ""
+
+#: ../../mkdir.rst:59
+# 5b767bd6b8bc43269f2b6ff1aaba5bc1
+msgid "Or, at the time of declaration"
+msgstr ""
+
+#: ../../mkdir.rst:64
+# 7c42dd566fd8445ca16d5e470ed4bf61
+msgid "The following screen shot depicts the second way of creating a directory."
+msgstr ""
+
+#: ../../mkdir.rst:80
+# 0ac9ea3c50174b908b68fde6a7a44364
+msgid "Benefits"
+msgstr ""
+
+#: ../../mkdir.rst:81
+# 354e6f80fead449bab7cbdcbe476d6cc
+msgid "The parameters used in help and creating a directory operations are not case sensitive which is an added advantage while compared to others."
+msgstr ""
+
+#: ../../mkdir.rst:82
+# 8b165333510d43e89b750167e9038ecd
+msgid "Creating a directory can be defined in two different ways as declaration time or at run-time."
+msgstr ""
+
+#: ../../mkdir.rst:83
+# 2780316858154824b872bbba60f1835c
+msgid "It can be performed both in local or remote machine."
+msgstr ""
+
+#: ../../mkdir.rst:84
+# 49c3df38ca0c4e74a4f2c798b48575a3
+msgid "It is well-to-do in both Ubuntu and as well as Cent OS."
+msgstr ""
+

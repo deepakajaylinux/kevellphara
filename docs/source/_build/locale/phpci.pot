@@ -1,0 +1,200 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../phpci.rst:3
+# 334a104977434444b661109a51d86f26
+msgid "Phpci"
+msgstr ""
+
+#: ../../phpci.rst:6
+# f410606f251442dbb94964aac708d078
+msgid "Synopsis"
+msgstr ""
+
+#: ../../phpci.rst:8
+# e6bfc9b18054486390f647858738b829
+msgid "PHPCI is an open source continuous integration tool specifically designed for Cleopatra. The user have built it with simplicity in mind, so whilst it does not do everything Jenkins can do, it is a breeze to set up and use. This is ease with Ubuntu and cent OS."
+msgstr ""
+
+#: ../../phpci.rst:11
+# fc2e22e4ec934f80a4aac52f7a5d371b
+msgid "Help command"
+msgstr ""
+
+#: ../../phpci.rst:13
+# 869be02e6a3c475e9226f0d5acec1631
+msgid "This help command guide the user to perform certain operation about Phpci   module. This is suitable for all type of corporate users."
+msgstr ""
+
+#: ../../phpci.rst:19
+# a5b6298cc43b44bb99ce4b51fe508622
+msgid "The help command shows a short list of the commands built into the Phpci module. The following screen shot visualize it."
+msgstr ""
+
+#: ../../phpci.rst:22
+# 59ebfc4e45294773a2736b9de7715990
+msgid "Installation"
+msgstr ""
+
+#: ../../phpci.rst:24
+# e0816f22dc53447da2ecaf74ec954d7a
+msgid "This module helps to install phpci. First step this module have to check   composer is available in the system or not. If it is not available in the system automatically, it will install it."
+msgstr ""
+
+#: ../../phpci.rst:30
+# d5779d8d847d45ab8e3ba80832697f1a
+msgid "After typing this command, the system asks like this. Install PHPCI? (Y/N) The user inputs as y, automatically it can check the composer and install the updated version in default directory “/apt/”the following screen appears"
+msgstr ""
+
+#: ../../phpci.rst:35
+# 8c4ba616ea1347d782995d012797c787
+msgid "The inputs as N, it exit the screen."
+msgstr ""
+
+#: ../../phpci.rst:38
+# ef3689c665024be6859b6ce01789d081
+msgid "Option"
+msgstr ""
+
+#: ../../phpci.rst:44
+# 4117705217834dccb67dd62d5c22bb7e
+msgid "Parameters"
+msgstr ""
+
+#: ../../phpci.rst:44
+# a0727c6c827b47f7b9ff1010b8f2dbf6
+msgid "Options"
+msgstr ""
+
+#: ../../phpci.rst:44
+# 9c6ae3b6f70d48fbbd60bc5889adbd1f
+msgid "Output"
+msgstr ""
+
+#: ../../phpci.rst:46
+# 5cae180aa4a94b38a729a6bf3f1dd94e
+msgid "Install PHPCI"
+msgstr ""
+
+#: ../../phpci.rst:46
+# 9ae95de036e6421c93a4db1bc0a3d177
+msgid "yes"
+msgstr ""
+
+#: ../../phpci.rst:46
+# 204a07f2292e475ba0d8acb953a33f26
+msgid "It will install composer as well as PHPCI under cleopatra"
+msgstr ""
+
+#: ../../phpci.rst:49
+# 3eb1b23da8314b2d94d56215296696fc
+msgid "Install config-"
+msgstr ""
+
+#: ../../phpci.rst:50
+# 7c8e304c3a26453584fe1dddd574e51d
+msgid "default"
+msgstr ""
+
+#: ../../phpci.rst:49
+#: ../../phpci.rst:52
+# c70091c6f4924155b149a8f8f49cbe91
+# 1f12816ffb10476baafd82aef512b042
+msgid "Yes"
+msgstr ""
+
+#: ../../phpci.rst:49
+# 6c1f8ffc69f04201bc08d669bfb14877
+msgid "It will install configuration files .yml file"
+msgstr ""
+
+#: ../../phpci.rst:50
+# 82985b1c76a7491a8738ab6ae1a9cfc2
+msgid "for editing under Cleopatra"
+msgstr ""
+
+#: ../../phpci.rst:52
+# a2fe173c2582447ab4013b82e0b21ff2
+msgid "Install default Database"
+msgstr ""
+
+#: ../../phpci.rst:52
+# 6cdde7eed48b472d93de534694ca917b
+msgid "the user has to enter the root user id"
+msgstr ""
+
+#: ../../phpci.rst:53
+# 325a63f3d16145cab93b6f876c001fe3
+msgid "and passward under Cleopatra"
+msgstr ""
+
+#: ../../phpci.rst:55
+# a4e3846e551f4bb69d6fdef1fa008246
+msgid "Install default database"
+msgstr ""
+
+#: ../../phpci.rst:55
+# 8b2bc908a3734ad3a4895d5f01eb81a2
+msgid "No"
+msgstr ""
+
+#: ../../phpci.rst:55
+# e5dec5b94fe04730aecfbbedb0de28ab
+msgid "the user has to exit the screen |"
+msgstr ""
+
+#: ../../phpci.rst:60
+# f7d8f6f68fb24e528736b444944fc577
+msgid "Benefits"
+msgstr ""
+
+#: ../../phpci.rst:62
+# 3430bf453e6f4a34a2c7ab5bae1c5cfa
+msgid "PHPCI used to install configuration and database file. While installing if there is any file is existing, overwrite the content."
+msgstr ""
+
+#: ../../phpci.rst:63
+# 5da5e95781ba4e7b984056e1dae1c1f4
+msgid "New version can update automatically."
+msgstr ""
+
+#: ../../phpci.rst:64
+# f35a734297094824b499deccf7b24600
+msgid "It can accept user wish in case of install database."
+msgstr ""
+
+#: ../../phpci.rst:65
+# f04938c3f8124fe18d06e7cfee5b2fcf
+msgid "Continuous integration is possible."
+msgstr ""
+
+#: ../../phpci.rst:66
+# e15d1b2e8edc424892a47a1126b85bf7
+msgid "Multiple environment"
+msgstr ""
+
+#: ../../phpci.rst:67
+# 82cba4213c514a77b7deec402b23a0a7
+msgid "Build php with different variants like PDO, mysql, sqlite, debug ...etc."
+msgstr ""
+
+#: ../../phpci.rst:68
+# c00357804f494fe49305309cc025a1cd
+msgid "Automatic feature detection."
+msgstr ""
+

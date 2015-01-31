@@ -413,14 +413,14 @@ Options
  |cleopatra zendserver Install	  | There are three alternative parameters      | Y		 | System starts installation	  |
  |				  | which can be used in command line.		|		 | process			  |
  |				  | zendserver , Zendserver, ZendServer         |		 |				  |
- |				  | Eg: cleopatra zendserver install/ 		|		 |				  |
- |				  |     cleopatra Zendserver install		|		 |				  |
+ |				  | Eg: cleopatra zendserver install 		|		 |				  |
+ |				  | cleopatra Zendserver install		|		 |				  |
  +--------------------------------+---------------------------------------------+----------------+--------------------------------+
  |cleopatra zendserver Install	  | There are three alternative parameters      | N		 | System stops installation	  |
  |				  | which can be used in command line.		|		 | process			  |
  |				  | zendserver , Zendserver, ZendServer         |		 |				  |
- |				  | Eg: cleopatra zendserver install/ 		|		 |				  |
- |				  |     cleopatra Zendserver install.|		|		 |				  |
+ |				  | Eg: cleopatra zendserver install 		|		 |				  |
+ |				  | cleopatra Zendserver install.|		|		 |				  |
  +--------------------------------+---------------------------------------------+----------------+--------------------------------+
 
 

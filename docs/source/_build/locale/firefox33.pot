@@ -1,0 +1,165 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../firefox33.rst:3
+# 68a97bd779e040bd84012758d3b733ce
+msgid "FireFox 33"
+msgstr ""
+
+#: ../../firefox33.rst:6
+# 7ff069e5087044029494859ccbf5ead3
+msgid "Synopsis"
+msgstr ""
+
+#: ../../firefox33.rst:8
+# fd12e61262144384a6770059bbf4c9bc
+msgid "This module is open source web browser. It used to install firefox33. Ubuntu releases updated versions periodically. It implements current and anticipated web standards. Long-term support includes updates for new hardware, security patches and updates to the 'Ubuntu stack' (cloud computing infrastructure). It is comfortable with Ubuntu and Cent OS."
+msgstr ""
+
+#: ../../firefox33.rst:11
+# 642c038404a24535a10213ef8b21a319
+msgid "Help Command"
+msgstr ""
+
+#: ../../firefox33.rst:13
+# a20c28c36f3d426db4295eec9c0797e5
+msgid "This command can function about the objectives and commands available under Firefox33 module. It also explains the command to install firefox33. Before installation, the user can read this help command explains its function."
+msgstr ""
+
+#: ../../firefox33.rst:19
+# 91326a8c02cd459d80cc930bbbec9569
+msgid "The following image also helps you to understand this module clearly."
+msgstr ""
+
+#: ../../firefox33.rst:43
+# ef4e3aab08534e97bfdee5c522a3e790
+msgid "Installation"
+msgstr ""
+
+#: ../../firefox33.rst:45
+# e639c66b45bf478b9c7cb4aa5f1c2d65
+msgid "It is a glaring process to install firefox33 module under Cleopatra by just using the command given below,"
+msgstr ""
+
+#: ../../firefox33.rst:51
+# 82a3d18b3c084eafbade71b4c7713452
+msgid "After key in the command, it can asks"
+msgstr ""
+
+#: ../../firefox33.rst:53
+# 85794e9d96774db69066a03b0072212f
+msgid "Install firefox33?(Y/N)"
+msgstr ""
+
+#: ../../firefox33.rst:55
+# 0d202114cda34ea48364f25118827947
+msgid "In case the user input as Y, it can install firefox33 from the package. Else, it can exit the screen. The following screen shots can explain it."
+msgstr ""
+
+#: ../../firefox33.rst:94
+#: ../../firefox33.rst:99
+# 13f60cd106244358a237eb1583b2311c
+# 71bc6b4ed227473489d388bbd8d8c290
+msgid "Options"
+msgstr ""
+
+#: ../../firefox33.rst:99
+# 5e7fe65ec99c44ddb83ddc881bb851b0
+msgid "Parameters"
+msgstr ""
+
+#: ../../firefox33.rst:99
+# f31ce20d45ff454ab5a01edd99d58ea7
+msgid "Alternative Parameter"
+msgstr ""
+
+#: ../../firefox33.rst:99
+# db0702978b5c4f96acc5cd8b36aebd78
+msgid "Comments"
+msgstr ""
+
+#: ../../firefox33.rst:101
+#: ../../firefox33.rst:104
+#: ../../firefox33.rst:107
+# f8cad59f63ec41eb8db22dca7a14d5e4
+# d4cc9f9fc583402a958de4bfe0e16a07
+# 43ad8b9a6d4e4f91a34ca555b673c1be
+msgid "Cleopatra firefox33 Install"
+msgstr ""
+
+#: ../../firefox33.rst:101
+#: ../../firefox33.rst:107
+# a80a57e194fb49ed8b98244252d0d38f
+# c5fa5d013fda44b8b91c00b0e3e2f032
+msgid "Firefox33"
+msgstr ""
+
+#: ../../firefox33.rst:101
+#: ../../firefox33.rst:104
+# 2746bc98176842b99baabb0690d766f8
+# 4ece946ed4734f95a3da689e29297c4d
+msgid "Y"
+msgstr ""
+
+#: ../../firefox33.rst:101
+#: ../../firefox33.rst:104
+# d6bbf447705b4940b0aa1e841d9716b3
+# d537b2561a854533ba88eef0428ec244
+msgid "System starts installation process under cleopatra"
+msgstr ""
+
+#: ../../firefox33.rst:104
+# 475c8cb418ad469b84c18e1c0c4dbc4c
+msgid "Ff33"
+msgstr ""
+
+#: ../../firefox33.rst:107
+# 604dfca699a6407e9f79dafb0c178ab6
+msgid "N"
+msgstr ""
+
+#: ../../firefox33.rst:107
+# 311e1e702d494d2389b672476d153999
+msgid "System stops installation process under cleopatra|"
+msgstr ""
+
+#: ../../firefox33.rst:114
+# 1a84c11c43224d8492acde6eaaa1446d
+msgid "Benefits"
+msgstr ""
+
+#: ../../firefox33.rst:116
+# 1317a88d100b4570af6d2d778656abb2
+msgid "Firefox33 uses support for new hardware and integration of all the updates published in that series to date."
+msgstr ""
+
+#: ../../firefox33.rst:117
+# 4f0cf02980c74ce6b9eb1f93e3615501
+msgid "Firefox33 is an open source Web browser for Linux."
+msgstr ""
+
+#: ../../firefox33.rst:118
+# 5f7024250db24945b1ba61db8260861b
+msgid "Firefox33 is non-case sensitive."
+msgstr ""
+
+#: ../../firefox33.rst:119
+# ba86cadaf41049799941f7737a2356fb
+msgid "Privacy and security measures, smart searching is possible."
+msgstr ""
+

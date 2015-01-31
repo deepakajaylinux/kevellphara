@@ -1,0 +1,186 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../phake.rst:3
+# 8ee96ab7997b4f8dae8735534c34e134
+msgid "Phake"
+msgstr ""
+
+#: ../../phake.rst:6
+# bdcd137b94e346ab84846e60e0f73efd
+msgid "Synopsis"
+msgstr ""
+
+#: ../../phake.rst:8
+# 029a300a7746449e819e37f095926920
+msgid "Phake is a mocking framework for PHP. It allows for the creation of objects that mimic a real object in a predictable and controlled manner. This allows you to treat external method calls made by your system under test (SUT) as just another form of input to your SUT and output from your SUT. This is done by stubbing methods that supply indirect input into your test and by verifying parameters to methods that receive indirect output from your test."
+msgstr ""
+
+#: ../../phake.rst:11
+# 228c49b6a7d2477fa99b806cd10af965
+msgid "Help Command"
+msgstr ""
+
+#: ../../phake.rst:13
+# f71cddc815f94b39924c9c12f8e54196
+msgid "This command helps to determine the usage of Phake module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same."
+msgstr ""
+
+#: ../../phake.rst:42
+# c2e7e8cb442e4676846ed37a0b908410
+msgid "Installation"
+msgstr ""
+
+#: ../../phake.rst:44
+# 1eaff851bc5549149c2110a1f2f59f06
+msgid "When the user needs to install Phake in machine, the below given command will execute the process of installation."
+msgstr ""
+
+#: ../../phake.rst:52
+# 017eed7df184455caa11bd5801bfaeb3
+msgid "The system ask for the directory name, if you wants to set up your PATH you can define your path. Define your path followed by '/' symbol. Press Enter if there is no changes to be done."
+msgstr ""
+
+#: ../../phake.rst:54
+#: ../../phake.rst:134
+# 6f6aea333ab047f6a923172aeefe48fd
+# 12c0bc8d1b234433ab6424d3532fc7e2
+msgid "\"What is the program data directory? Found \"/opt/phake\" - use this?"
+msgstr ""
+
+#: ../../phake.rst:56
+# ca02c8aba9504f39a821a34398b24c11
+msgid "Then the system ask for executing directory name, if you wants to set up your PATH you can define your path. Define your path followed by '/' symbol. Press Enter if there is no changes to be done"
+msgstr ""
+
+#: ../../phake.rst:58
+#: ../../phake.rst:138
+# 8a19484e1ee2404f9768c25f57a1eb60
+# af6da8b1b2234f71958023d7671f44af
+msgid "\"What is the program executer directory? Found \"/usr/bin\" - Use this? \""
+msgstr ""
+
+#: ../../phake.rst:60
+# 19c02d7ca0654da79ba9d81b6accb913
+msgid "The below screenshot shows the same."
+msgstr ""
+
+#: ../../phake.rst:64
+# ef7cbe2a7865440e9603055d1daec5cf
+msgid "kevells@corp:/# cleopatra Phake install Install Phake ? (Y/N) Y ******************************* *        Pharaoh Tools        * *          Phake         * ******************************* What is the program data directory? Found \"/opt/phake\" - use this? (Enter nothing for yes, no end slash)"
+msgstr ""
+
+#: ../../phake.rst:73
+# 7605f87b8e9144d2be179303207360e7
+msgid "What is the program executor directory? Found \"/usr/bin\" - use this? (Enter nothing for yes, No Trailing Slash)"
+msgstr ""
+
+#: ../../phake.rst:75
+# f41d6b0e6a174eaba8486ff89e31f56f
+msgid "git clone 'http://github.com/jaz303/phake.git'  /tmp/phake/phakeCloning into '/tmp/phake/phake'... remote: Counting objects: 552, done. remote: Total 552 (delta 0), reused 0 (delta 0) Receiving objects: 100% (552/552), 91.36 KiB | 76.00 KiB/s, done. Resolving deltas: 100% (314/314), done. Checking connectivity... done. Program Data folder populated Program Executor Deleted if existed ... All done! ******************************* Thanks for installing , visit www.pharaohtools.com for more ******************************"
+msgstr ""
+
+#: ../../phake.rst:98
+#: ../../phake.rst:103
+# 4ea5e57f6a124fd7b87ca9e29a8b31ab
+# 813f6727e86e46c58928203cc50aa7d7
+msgid "Options"
+msgstr ""
+
+#: ../../phake.rst:103
+# 64612dffe7144420bfd558f618d295e0
+msgid "Parameters"
+msgstr ""
+
+#: ../../phake.rst:103
+# 63e5529a72a04baaa72bcb0d75f1bf00
+msgid "Alternative Parameter"
+msgstr ""
+
+#: ../../phake.rst:103
+# 69f007d8325749df8114985c8fef58f8
+msgid "Comments"
+msgstr ""
+
+#: ../../phake.rst:105
+#: ../../phake.rst:110
+# 925feecb9aeb4229a5a5b5f18559d373
+# 616f7d048a884b6b8965f2e853607c4f
+msgid "Cleopatra Phake Install"
+msgstr ""
+
+#: ../../phake.rst:105
+# 71319c6ec06d40fea10cbc73b0bc94ae
+msgid "Either of the two alternative parameter can be used in command- Phake, phake eg: Cleopatra  phake Install"
+msgstr ""
+
+#: ../../phake.rst:105
+# 40078c01669943598ffcbc41955b83b5
+msgid "Y"
+msgstr ""
+
+#: ../../phake.rst:105
+# 5bb63ef25cfe46d5a26c8fed9c9f8d55
+msgid "Once the user provides the option, System starts installation process"
+msgstr ""
+
+#: ../../phake.rst:110
+# c5c6994c8b2e496ebcf1d76485b913f2
+msgid "Either of the two alternative parameter can be used in command- Phake, phake eg: Cleopatra phake Install|"
+msgstr ""
+
+#: ../../phake.rst:110
+# 57a23bd1297d433a93c17679e913a6df
+msgid "N"
+msgstr ""
+
+#: ../../phake.rst:110
+# 3f57a52431a54071a448e27912fbca16
+msgid "Once the user provides the option, System stops installation process"
+msgstr ""
+
+#: ../../phake.rst:118
+# 1d5f1c117c494e819f3f40439577a406
+msgid "Ensure"
+msgstr ""
+
+#: ../../phake.rst:120
+# c61095b7fa0449919a08241fce26115b
+msgid "Installs the latest version of Phake, only if a version is not available. The below given command will execute the process."
+msgstr ""
+
+#: ../../phake.rst:132
+# ed5b15d2481343c196ac9c192f782775
+msgid "The system ask for the directory name, define your path followed by '/' symbol. Press Enter if there is no changes to be done."
+msgstr ""
+
+#: ../../phake.rst:136
+# 433ff228abef4a27af1f791314eeb2f9
+msgid "Then the system ask for executing directory name, define your path followed by '/' symbol. Press Enter if there is no changes to be done"
+msgstr ""
+
+#: ../../phake.rst:141
+# 291e2ec9d50a4e69a5ee6e5385f4d668
+msgid "Benefits"
+msgstr ""
+
+#: ../../phake.rst:143
+# 4dd67f1c061540ac8e7636fbb7885012
+msgid "Phake is a great mocking library and can be easily integrated into PHPUnit. Its new approach to prototype mocks and stubs and the separation between stubbing and verification phases is very refreshing and easy to use."
+msgstr ""
+

@@ -1,0 +1,280 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../aptana.rst:3
+# 7f6d47f663734e459cabc2fdfe35bf27
+msgid "Aptana"
+msgstr ""
+
+#: ../../aptana.rst:6
+# 4e8932b4e38e459cb8f05f65a0591fa0
+msgid "Synopsis"
+msgstr ""
+
+#: ../../aptana.rst:8
+# 5a133c1d3df7405ca2d7f4b247aa7922
+msgid "Aptana is an open source integrated development environment (IDE) for building web applications. This command used to allow the user to install aptana. It is  a open source web development .Based on Eclipse, it supports JavaScript, HTML, DOM and CSS with code-completion, outlining, JavaScript debugging, error and warning notifications and integrated documentation. Additional plugins allow Aptana  to support PHP, Python, Perl. Aptana is available as a standalone on Windows, Mac OS X and Linux, or as a plugin for Eclipse."
+msgstr ""
+
+#: ../../aptana.rst:11
+# e8ab5a0ce6e2460d91cb7fc59e9859b1
+msgid "Help command"
+msgstr ""
+
+#: ../../aptana.rst:13
+# be96a44179e74549ac16d544e465c732
+msgid "The help command leads the users regarding the purpose and as well as about the options that are included in the Aptana module. It also describes the syntax for installing Aptana. The help command for Aptana module is shown as below."
+msgstr ""
+
+#: ../../aptana.rst:19
+# 5ca98a643c364f7fbe973f6a3e81d7ec
+msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under Aptana."
+msgstr ""
+
+#: ../../aptana.rst:48
+# 783106cddf3045cb968a652d42f5e573
+msgid "Installation"
+msgstr ""
+
+#: ../../aptana.rst:50
+# 3af620b1b6124154bc64eceee66b57af
+msgid "The command used for installing the Aptana to the users machine is shown below."
+msgstr ""
+
+#: ../../aptana.rst:57
+#: ../../aptana.rst:83
+# 03b24f9bec6048e485f43fbe68414cdc
+# b2fce1fdbe3548da9d8becb459fff405
+msgid "After inputting the command above, the following process occurs as shown in the screenshot  format."
+msgstr ""
+
+#: ../../aptana.rst:62
+#: ../../aptana.rst:89
+# d1086038c8974b9187c54f7676b6f4e3
+# 98cbd4b240c34f0c9134f00aa076a277
+msgid "Parameters"
+msgstr ""
+
+#: ../../aptana.rst:62
+#: ../../aptana.rst:89
+# ceef312332be41a780f4c95fdd897c08
+# 88e05cf779d6435ea57edcce51563b4e
+msgid "Options"
+msgstr ""
+
+#: ../../aptana.rst:62
+#: ../../aptana.rst:89
+# d2bc01c67a194d9cb54361bff874b45a
+# 76d2ab4c25ef4a8d8365ff5c1f6cdee3
+msgid "Alternative parameters"
+msgstr ""
+
+#: ../../aptana.rst:62
+#: ../../aptana.rst:89
+# 20e7db97b69148eb9689de0b227b8cc5
+# ea8d4dfe1eb243faa5fe8ca37323bc01
+msgid "Comments"
+msgstr ""
+
+#: ../../aptana.rst:64
+#: ../../aptana.rst:67
+# 5123eaffdfee4b03b8bb1bb5af69d878
+# 5fddc5b6a00b4db48ada40779d9d281b
+msgid "Install Aptana?(Y/N)"
+msgstr ""
+
+#: ../../aptana.rst:64
+#: ../../aptana.rst:91
+# adb6abe3b7b245ce8bda51b27f2a173b
+# 44e7d2bfe67f47e5b938e7ffda661cc6
+msgid "Yes"
+msgstr ""
+
+#: ../../aptana.rst:64
+#: ../../aptana.rst:91
+#: ../../aptana.rst:94
+# 722896a9f36f48abb479b681707ab60c
+# 7a08a74c37804418a862c66d79d3d1a4
+# 5bda06527b8a41ce9906babb1a6d3125
+msgid "Instead of using Aptana the user can use aptana"
+msgstr ""
+
+#: ../../aptana.rst:64
+# e8de8ab699584506b9f6583deb92e053
+msgid "It will install Aptana module under cleopatra"
+msgstr ""
+
+#: ../../aptana.rst:67
+#: ../../aptana.rst:94
+# d5160f2007f44ba6ac2ebc3b071ff09b
+# feaac26e534348c88d067d57d9aa537e
+msgid "No"
+msgstr ""
+
+#: ../../aptana.rst:67
+# 878ffed57b92498d94d0b56ac5092984
+msgid "Instead of using Aptana the user can use aptana|"
+msgstr ""
+
+#: ../../aptana.rst:67
+# 4d5f558408694b6caaf7deec64c226a8
+msgid "The user has to exit the installation"
+msgstr ""
+
+#: ../../aptana.rst:75
+# fd9d88a5bd7d487790159cdc3924f7b6
+msgid "Uninstallation"
+msgstr ""
+
+#: ../../aptana.rst:77
+# e2566f4670d14e8ab476c07431783d13
+msgid "The command used for uninstalling the Aptana to the users machine is shown below."
+msgstr ""
+
+#: ../../aptana.rst:91
+#: ../../aptana.rst:94
+# 4e4ead7e0c9a4e289b08e8ba0f40304e
+# de1ae6acfb134e16ac77d0f70f067c45
+msgid "UnInstall Aptana?(Y/N)"
+msgstr ""
+
+#: ../../aptana.rst:91
+# 220342ee669a42d893b052339804af05
+msgid "It will uninstall Aptana module under cleopatra"
+msgstr ""
+
+#: ../../aptana.rst:94
+# 2e0764fb38fd4651a9b8c35911d6c17f
+msgid "The user has to exit the uninstallation|"
+msgstr ""
+
+#: ../../aptana.rst:102
+# 8c76940a19a0404aa74cecebcdcdce0a
+msgid "Platform & Language support"
+msgstr ""
+
+#: ../../aptana.rst:104
+# fe4f863c851a4184ab98f77b6e5667b9
+msgid "Aptana Studio 3 provides the following support for PHP application development:"
+msgstr ""
+
+#: ../../aptana.rst:106
+# a1ba0e635d934d678a3bf656624ba344
+msgid "Syntax Coloring according to the selected theme in the preferences;"
+msgstr ""
+
+#: ../../aptana.rst:107
+# 38fbcad3481845b0aee6f33f6caf2a4a
+msgid "Code Assist;"
+msgstr ""
+
+#: ../../aptana.rst:108
+# 5e0661374cc14bf5a119a497402dfa49
+msgid "Syntax error annotations;"
+msgstr ""
+
+#: ../../aptana.rst:109
+# b58b511db0f14f24bcd01532c3c2b33e
+msgid "Auto indentation and Code Formatting;"
+msgstr ""
+
+#: ../../aptana.rst:110
+# c95c19f0ba80464699e8c4f4f9c20e2d
+msgid "Hyper-linking to classes, functions and variables by hovering over elements and pressing the Ctrl key;"
+msgstr ""
+
+#: ../../aptana.rst:111
+# 68fbbaa94a82420fa4bf9e53ef4568c3
+msgid "PHPDoc popups when hovering over items that have attached documentation;"
+msgstr ""
+
+#: ../../aptana.rst:112
+# d9cfcc44c72d4f12a60efb5ea2218749
+msgid "Read and write Occurrences Markers when clicking on specific PHP elements."
+msgstr ""
+
+#: ../../aptana.rst:115
+# 7f76e25ed6de4edc8cc99dd598dee8bc
+msgid "Aptana version 1.5 provided support for developing PHP applications via the add-on PHP plugin. This included:"
+msgstr ""
+
+#: ../../aptana.rst:117
+# 211aa56d68804389a133b63e5a625317
+msgid "Built-in PHP server for previewing within Aptana,"
+msgstr ""
+
+#: ../../aptana.rst:119
+# 6bd1599d842f42a1bb929ff1d1ac44ce
+msgid "Full code assist, code outlining and code formatting,"
+msgstr ""
+
+#: ../../aptana.rst:121
+# 499001b391bd4466ad1706de58ebefe9
+msgid "Integrated PHP debugger,"
+msgstr ""
+
+#: ../../aptana.rst:123
+# e66d8a4dafc0411087707ccc386ef1b0
+msgid "Built in Smarty,"
+msgstr ""
+
+#: ../../aptana.rst:125
+# 954f9b526d8e44e4b5267275875a8389
+msgid "Type hierarchy view,"
+msgstr ""
+
+#: ../../aptana.rst:127
+# 3dca5613210244cd9b959d401f5d466c
+msgid "Go to declaration,"
+msgstr ""
+
+#: ../../aptana.rst:129
+# d7cacdef05184a84a0887d5fab6b13e4
+msgid "Integrated PHP manual"
+msgstr ""
+
+#: ../../aptana.rst:134
+# 4152f8d463c74caf9e1bea0e6d5d146c
+msgid "Benefits"
+msgstr ""
+
+#: ../../aptana.rst:136
+# 31e76236d28740f89b3a584185dbebe6
+msgid "This is used to install and un install aptana"
+msgstr ""
+
+#: ../../aptana.rst:137
+# 10e09ecd709f422b820ad674746d99b6
+msgid "Non case sensitivity"
+msgstr ""
+
+#: ../../aptana.rst:138
+# aae9b5fa2468478f9477fcf9f9527af5
+msgid "It supports Ubuntu and Cent OS"
+msgstr ""
+
+#: ../../aptana.rst:139
+# 315599aaea394a038131c22af08cfae2
+msgid "Integrated PHP debugger"
+msgstr ""
+
+#: ../../aptana.rst:140
+# 8bbf95dc80d5403fb9ff66dfc907f048
+msgid "Full code assist, code outlining and code formatting"
+msgstr ""
+

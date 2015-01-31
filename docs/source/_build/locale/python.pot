@@ -1,0 +1,140 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../python.rst:3
+# 02814e06128d4478a4437e3f8f861ac5
+msgid "Python"
+msgstr ""
+
+#: ../../python.rst:7
+# 31d2187715634cb582ba7e9d66faff1c
+msgid "Synopsis"
+msgstr ""
+
+#: ../../python.rst:9
+# 6aa15342a57c4f33b2b0df33909b2041
+msgid "Python is a widely used general –purpose, high-level programming language. This module aims to install the latest version of python package and its dependencies."
+msgstr ""
+
+#: ../../python.rst:12
+# a420d88f1277449db841b54364653017
+msgid "Help Command"
+msgstr ""
+
+#: ../../python.rst:14
+# d3877de2398a44f5a456d3edd7cc8e75
+msgid "The help command guides the user to provide what is necessary to accomplish the task. The command to make use of help under the terminal is given as follows,"
+msgstr ""
+
+#: ../../python.rst:20
+# 297f5a4485764d7cbd6c209940078702
+msgid "The snapshot below gives you a pictorial representation of help command and it listed two parameters as Python and python. ( Paramters are case insensitive )"
+msgstr ""
+
+#: ../../python.rst:42
+# b0b1d98281c34e5da3f2e09e9c1e53fe
+msgid "Installation"
+msgstr ""
+
+#: ../../python.rst:43
+# 26ea08176ed84e18b59e95271c2af3a4
+msgid "The command used for installing python module is given below,"
+msgstr ""
+
+#: ../../python.rst:55
+# 4efb6dc8b14447c3b7c923bf76babc77
+msgid "Paramaters"
+msgstr ""
+
+#: ../../python.rst:55
+# 62a9b5e7286c41b594c236a0ce2ec5cc
+msgid "Required"
+msgstr ""
+
+#: ../../python.rst:55
+# 0081a585ddc84e21a0f92c7127361c0b
+msgid "Comments"
+msgstr ""
+
+#: ../../python.rst:57
+# 1e965a41ec274d438c5fe235e6860a59
+msgid "cleopatra python install"
+msgstr ""
+
+#: ../../python.rst:57
+# 57cce36688944908aabe9949f48b1225
+msgid "Yes"
+msgstr ""
+
+#: ../../python.rst:57
+# 3416dc67d30e4c8fb78e80e74e165ddf
+msgid "This command will install the python module"
+msgstr ""
+
+#: ../../python.rst:59
+#: ../../python.rst:64
+# fca393a566214aabbf681d88a6659fd8
+# 4a3e98b436024204b8016f359bfcc1e3
+msgid "Install python ( Y/N)"
+msgstr ""
+
+#: ../../python.rst:59
+# d7626b4e5419468e9f6e7c75fdf1924d
+msgid "Y"
+msgstr ""
+
+#: ../../python.rst:59
+# c883c56f8e1e452b8784011b1e6ec0d8
+msgid "If the user inputs Y, this modue checks for previously installed package,  if exits it was updated to the new version or else it installs the fresh package."
+msgstr ""
+
+#: ../../python.rst:64
+# 521ee06b12184e87902ae7d33124210f
+msgid "N"
+msgstr ""
+
+#: ../../python.rst:64
+# f2eb0d38aa6143ada8711d515d4b9ca6
+msgid "If the user inputs N, the installation was aborted."
+msgstr ""
+
+#: ../../python.rst:69
+# dd22d9dd45f34d32a85f21e13467d4c8
+msgid "Benefits to the users"
+msgstr ""
+
+#: ../../python.rst:71
+# f070fd196576401ebd02156ae4d45697
+msgid "Time consuming"
+msgstr ""
+
+#: ../../python.rst:72
+# 6b61835d868d412bac122187ef146b31
+msgid "Ease use of access and installation"
+msgstr ""
+
+#: ../../python.rst:73
+# 80c6e75d734644049fab1d995b110048
+msgid "Coding is case insensitive"
+msgstr ""
+
+#: ../../python.rst:74
+# f4bef64bd82644caa8a33fe8b6e5a776
+msgid "Full source is available and there are no license costs."
+msgstr ""
+

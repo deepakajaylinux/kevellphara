@@ -1,0 +1,123 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../jarticle.rst:3
+# 8a038db4c02a4effa148d7551e071791
+msgid "JArticle"
+msgstr ""
+
+#: ../../jarticle.rst:6
+# 3783a30a1af546e1bc2c28bc35041449
+msgid "Synopsis"
+msgstr ""
+
+#: ../../jarticle.rst:8
+# 6a48af6430934df294eca4d2ebeefa5c
+msgid "It manages jarticle's details. This allows you to use an Article as a Module. Joomla provides an extremely wide range of options for creating different types of content and for structuring it on your website."
+msgstr ""
+
+#: ../../jarticle.rst:10
+# 6a7f4853b4924a748544c043e06466ac
+msgid "In Joomla, an Article is a piece of content consisting of text, possibly with links to other resources (for example, images). Articles are the basic units of information in the content system and the bottom level in the content hierarchy. Each Article is in exactly one Category. A Category can be in another Category making it a sub Category. It is also possible to have Uncategorized Articles. These articles exist without being associated with any Category."
+msgstr ""
+
+#: ../../jarticle.rst:14
+# 3d2d8fc6a159409bb9e1b5a590d3ab49
+msgid "Help Command"
+msgstr ""
+
+#: ../../jarticle.rst:16
+# cfac18a0acd245ff94755ddf8e97eaa3
+msgid "This command helps to determine the usage of jarticle module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screen shot of the same."
+msgstr ""
+
+#: ../../jarticle.rst:54
+# d292ac94f6c34f8195f5d08f301305af
+msgid "Enable"
+msgstr ""
+
+#: ../../jarticle.rst:56
+# 211c2aec91714ee88a989ff50aacc036
+msgid "When the user needs to enable a particular article, the below given command will execute the process of installation."
+msgstr ""
+
+#: ../../jarticle.rst:63
+# 71454386c11b41f096946b13ab684e0e
+msgid "Info"
+msgstr ""
+
+#: ../../jarticle.rst:65
+# 13459e61037442259b1e9a2db9e98a3f
+msgid "If the user needs to know about the information of an article. The below given command will help you"
+msgstr ""
+
+#: ../../jarticle.rst:72
+# 40a75dcd8efc46928662bd906f3261d9
+msgid "The pictorial representation of the above command is listed below,"
+msgstr ""
+
+#: ../../jarticle.rst:99
+# 0efc3c3a1ed244de811306b55531e099
+msgid "Disable"
+msgstr ""
+
+#: ../../jarticle.rst:101
+# 2c01f1b64068486c94e7874f6af7079e
+msgid "When the user needs to disable a particular article, the below given command will execute the process of installation."
+msgstr ""
+
+#: ../../jarticle.rst:108
+# 18c807037da14dcd961b59e6f44ada7c
+msgid "Alternative Parameter"
+msgstr ""
+
+#: ../../jarticle.rst:110
+# b23d65d48a9c4db3a12187f50a3fd5d0
+msgid "Either of the two alternative parameter can be used in command-  jarticle, JArticle"
+msgstr ""
+
+#: ../../jarticle.rst:112
+# b380a608733f4c53bc3794c7b4f47835
+msgid "eg:  jrush jarticle disable/ jrush JArticle disable"
+msgstr ""
+
+#: ../../jarticle.rst:118
+# 6e2c7b7944f54110a16d791c59788b63
+msgid "Benefits"
+msgstr ""
+
+#: ../../jarticle.rst:119
+# e9583427a2ab43778adc528e3f57dc7b
+msgid "Provide an optional method for organizing your articles"
+msgstr ""
+
+#: ../../jarticle.rst:120
+# bc6b5a34daaa4232bc979c3f9e5b0119
+msgid "It contains some text and can contain pictures and other types of content"
+msgstr ""
+
+#: ../../jarticle.rst:121
+# 1d92ebe18e264a4590f1b3ffecff9761
+msgid "Helps to get the information about an article in easy way"
+msgstr ""
+
+#: ../../jarticle.rst:122
+# 967b68e4e4b649b99d24fa51c759acd1
+msgid "Can enable and disable an article in one step"
+msgstr ""
+

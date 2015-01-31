@@ -13,6 +13,7 @@ Help Command
 The help command guides the users regarding the purpose and as well as about the options that are included in the xvfb module. The help command lists out the alternative parameters of xvfb module. It also describes the syntax for installing xvfb module The help command for xvfb module is shown as below.
 
 .. code-block:: bash
+
 		cleopatra Xvfb help
 
 The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under xvfb module.
@@ -43,6 +44,7 @@ Installation
 The command used for installing the xvfb to the users machine is shown below.
 
 .. code-block:: bash
+
 		cleopatra xvfb install
 
 After inputting the command above, the following operations occurs as shown in the tabular format.

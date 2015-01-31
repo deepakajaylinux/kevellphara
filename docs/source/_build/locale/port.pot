@@ -1,0 +1,113 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../port.rst:3
+# 882cd55a75f34938869ea9fa1a606a57
+msgid "Port"
+msgstr ""
+
+#: ../../port.rst:6
+# 514931ca7c0c44baa8d9fcacba6a7c0f
+msgid "Synopsis"
+msgstr ""
+
+#: ../../port.rst:8
+# dd14a242c30a4682b51bb301694cc1be
+msgid "Port certify to check the status of ports and services. This module helps to check the port service under Cleopatra. This module is most comfortable with Ubuntu and cent OS."
+msgstr ""
+
+#: ../../port.rst:11
+# 4c11db61509d479fa91438c6d1dc9773
+msgid "Help"
+msgstr ""
+
+#: ../../port.rst:13
+# e94a7ba673ea4821a13ccc1da6703cfb
+msgid "This help command guide the user about Port module. This is suitable for all type of IT people."
+msgstr ""
+
+#: ../../port.rst:19
+# 402bd33698ef42d7beafde29507cfb09
+msgid "The help command shows a short list of the commands built into the port module."
+msgstr ""
+
+#: ../../port.rst:46
+# dbe902312cb04427bdb9e43b9b321515
+msgid "Local Host"
+msgstr ""
+
+#: ../../port.rst:48
+# 78d2757423774f1f935cc27ceb0f701b
+msgid "When the user want to check the status of the port in local host then it can ask the user IP address. The following screenshot will explain it."
+msgstr ""
+
+#: ../../port.rst:72
+# 47722bae31ea4e80a9be2d2878be918f
+msgid "Options"
+msgstr ""
+
+#: ../../port.rst:77
+# e3c2097ca1b54323a073eea98fcf9564
+msgid "Parameters"
+msgstr ""
+
+#: ../../port.rst:77
+# 58d6246461924c98bd3cdbbe2cb8cae5
+msgid "Fuctions"
+msgstr ""
+
+#: ../../port.rst:77
+# 84dbdcdd0bac4dc386f717c64977f6ec
+msgid "Output"
+msgstr ""
+
+#: ../../port.rst:79
+# 2b7fc0a026834ab5b937056ccddcdd0e
+msgid "is-responding"
+msgstr ""
+
+#: ../../port.rst:79
+# e227f1a2c3d74bdda95bb525687ea227
+msgid "Test of port is responding  Or not"
+msgstr ""
+
+#: ../../port.rst:81
+# babfff5ca0e1449697c47d2cbe96b941
+msgid "Process"
+msgstr ""
+
+#: ../../port.rst:81
+# 602985c411444b6da7b51b109b0a5ea0
+msgid "Test the process  status  Of port"
+msgstr ""
+
+#: ../../port.rst:81
+# 30a9f1358a3b46c4b178735f22b2abd1
+msgid "It will display the process of port|"
+msgstr ""
+
+#: ../../port.rst:86
+# 7e4ebe3868184ea3b5940c7972d78547
+msgid "Benefits"
+msgstr ""
+
+#: ../../port.rst:87
+# 95d538b44ef74cc094d89bfb30814e22
+msgid "The user can check the current working status of the port. It is a user friendly module. Less time consuming."
+msgstr ""
+

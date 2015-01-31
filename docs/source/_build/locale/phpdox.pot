@@ -1,0 +1,150 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../phpdox.rst:3
+# 17b815e4b7db4689b997d943d5d2c19f
+msgid "PHPDox"
+msgstr ""
+
+#: ../../phpdox.rst:6
+# b5f0f75791a44c03886a81010e8e8ec7
+msgid "Synopsis"
+msgstr ""
+
+#: ../../phpdox.rst:8
+# a35c49ed170441bfb6cd660a6c575d94
+msgid "This module facilitates the users in installing the Php Dox with the latest version. phpdox is a documentation generator for generating API documentation in HTML format, for instance, from PHP source code. Let us see how this module, assists in installing the Php Dox."
+msgstr ""
+
+#: ../../phpdox.rst:11
+# 8f8aa183d3bc4a1b89c2fc5733801e5d
+msgid "Help Command"
+msgstr ""
+
+#: ../../phpdox.rst:13
+# 2ba63c3c86dd4695898c23d03bb26173
+msgid "The help command guides the users regarding the purpose and as well as about the options that are included in the Phpdox module. It lists out the alternative parameters of Phpdox module. It also describes the syntax for installing the Phpdox module. The help command for Phpdox module is shown as below."
+msgstr ""
+
+#: ../../phpdox.rst:19
+# 70555dbd5a93435db76e412e0a52298e
+msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under Phpdox."
+msgstr ""
+
+#: ../../phpdox.rst:41
+# 89493f9bc8024eb18e9aaee5ea1c84a5
+msgid "Installation"
+msgstr ""
+
+#: ../../phpdox.rst:43
+# 6ece367ceb1d4baab387a12abdc07067
+msgid "The command used for installing the phpdox in the users machine is shown below:"
+msgstr ""
+
+#: ../../phpdox.rst:49
+# 99e2a4e928da4957bdfa2731e8b5db59
+msgid "After inputting the command above, the following process occurs as shown in the tabular format."
+msgstr ""
+
+#: ../../phpdox.rst:55
+# 9c6f080a933c4992a3d0425eeb9727c7
+msgid "Parameters"
+msgstr ""
+
+#: ../../phpdox.rst:55
+# 34f25b33093540339d02ec816695d52a
+msgid "Alternative Parameter"
+msgstr ""
+
+#: ../../phpdox.rst:55
+# 16fdf42437e7450193c09a95b763fed1
+msgid "Options"
+msgstr ""
+
+#: ../../phpdox.rst:55
+# 61395909a2b74666ba9f9c418fbc5f0d
+msgid "Comments"
+msgstr ""
+
+#: ../../phpdox.rst:57
+#: ../../phpdox.rst:60
+# 1dcbf05793b048a4974d8eedc781e715
+# a9c9d3fce29d48c6945a7f0c467582e4
+msgid "Install PHPDox? (Y/N)"
+msgstr ""
+
+#: ../../phpdox.rst:57
+# 0ff466584e50483cae9dc4392b802617
+msgid "Instead of phpdox, we can use PHPDox also."
+msgstr ""
+
+#: ../../phpdox.rst:57
+# 7023e8e9c17a41aab195c0fd599df814
+msgid "Y(Yes)"
+msgstr ""
+
+#: ../../phpdox.rst:57
+# 8bbbcb3ca32349579a296a8a52db0719
+msgid "If the user wish to proceed the installation process they can input as Y."
+msgstr ""
+
+#: ../../phpdox.rst:60
+# 9ba4565fa2a04849a785b43c74a3a46b
+msgid "Instead of phpdox, we can use PHPDox also"
+msgstr ""
+
+#: ../../phpdox.rst:60
+# 01f30003cdaa495491c4e7f67a6671a1
+msgid "N(No)"
+msgstr ""
+
+#: ../../phpdox.rst:60
+# 62601b50e27c4544b95e0061494e52d9
+msgid "If the user wish to quit the installation process they can input as N.|"
+msgstr ""
+
+#: ../../phpdox.rst:67
+# 2200610807fb4077badfc1360097a174
+msgid "If the user proceeds the installation, the process of installation looks like the screenshot given below:"
+msgstr ""
+
+#: ../../phpdox.rst:139
+# 1f34a8b644b0437fbc98fb872875adb7
+msgid "Benefits"
+msgstr ""
+
+#: ../../phpdox.rst:141
+# 4769a2d5d6884902896b9fbf164d9848
+msgid "The parameters used in help and installation are not case sensitive which is an added advantage while compared to others."
+msgstr ""
+
+#: ../../phpdox.rst:142
+# 4fb27bb645ff4eb39db08997173bb886
+msgid "It is well-to-do in both Ubuntu and as well as Cent OS."
+msgstr ""
+
+#: ../../phpdox.rst:143
+# 614d0743778b461389f2e80d8f2b8866
+msgid "This will module installs the phpdox in updated version."
+msgstr ""
+
+#: ../../phpdox.rst:144
+# 9d51827fd9a741a1a5b4c55b666cc389
+msgid "If the module is already existing in the user machine it will display a message as it is already existing."
+msgstr ""
+

@@ -1,0 +1,146 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../firefox17.rst:3
+msgid "FireFox 17"
+msgstr ""
+
+#: ../../firefox17.rst:7
+msgid "Synopsis"
+msgstr ""
+
+#: ../../firefox17.rst:9
+msgid ""
+"This module is open source web browser. It used to install firefox17. Ubuntu"
+" releases updated versions periodically. It implements current and "
+"anticipated web standards. Long-term support includes updates for new "
+"hardware, security patches and updates to the 'Ubuntu stack' (cloud "
+"computing infrastructure). It is comfortable with Ubuntu and Cent OS."
+msgstr ""
+
+#: ../../firefox17.rst:12
+msgid "Help Command"
+msgstr ""
+
+#: ../../firefox17.rst:14
+msgid ""
+"This command can function about the objectives and commands available under "
+"Firefox17 module. It also explains the command to install firefox17. Before "
+"installation, the user can read this help command explains its function."
+msgstr ""
+
+#: ../../firefox17.rst:20
+msgid "The following image also helps you to understand this module clearly."
+msgstr ""
+
+#: ../../firefox17.rst:43
+msgid "Installation"
+msgstr ""
+
+#: ../../firefox17.rst:45
+msgid ""
+"It is a glaring process to install firefox17 module under Cleopatra by just "
+"using the command given below,"
+msgstr ""
+
+#: ../../firefox17.rst:51
+msgid "After key in the command, it can asks"
+msgstr ""
+
+#: ../../firefox17.rst:53
+msgid "Install firefox17?(Y/N)"
+msgstr ""
+
+#: ../../firefox17.rst:55
+msgid ""
+"In case the user input as Y, it can install firefox17 from the package. "
+"Else, it can exit the screen. The following screen shots can explain it."
+msgstr ""
+
+#: ../../firefox17.rst:94
+msgid "Options"
+msgstr ""
+
+#: ../../firefox17.rst:99 ../../firefox17.rst:148
+msgid "Parameters"
+msgstr ""
+
+#: ../../firefox17.rst:99 ../../firefox17.rst:148
+msgid "Alternative Parameter"
+msgstr ""
+
+#: ../../firefox17.rst:99 ../../firefox17.rst:148
+msgid "Required"
+msgstr ""
+
+#: ../../firefox17.rst:99 ../../firefox17.rst:148
+msgid "Comment"
+msgstr ""
+
+#: ../../firefox17.rst:101 ../../firefox17.rst:104
+msgid "Cleopatra firefox17 Install"
+msgstr ""
+
+#: ../../firefox17.rst:101 ../../firefox17.rst:104
+msgid "Firefox,ff17,firefox"
+msgstr ""
+
+#: ../../firefox17.rst:101 ../../firefox17.rst:150
+msgid "Y(YES)"
+msgstr ""
+
+#: ../../firefox17.rst:101 ../../firefox17.rst:150
+msgid "System starts installation process Under cleopatra"
+msgstr ""
+
+#: ../../firefox17.rst:104 ../../firefox17.rst:153
+msgid "N(NO)"
+msgstr ""
+
+#: ../../firefox17.rst:104
+msgid "System stops installation process|"
+msgstr ""
+
+#: ../../firefox17.rst:110
+msgid "Benefits"
+msgstr ""
+
+#: ../../firefox17.rst:112
+msgid ""
+"Firefox17 uses support for new hardware and integration of all the updates "
+"published in that series to date."
+msgstr ""
+
+#: ../../firefox17.rst:113
+msgid "Firefox17 is an open source Web browser for Linux."
+msgstr ""
+
+#: ../../firefox17.rst:114
+msgid "Firefox17 is non-case sensitive."
+msgstr ""
+
+#: ../../firefox17.rst:115
+msgid "Privacy and security measures, smart searching is possible."
+msgstr ""
+
+#: ../../firefox17.rst:150 ../../firefox17.rst:153
+msgid "Cleopatra firefox14 Install"
+msgstr ""
+
+#: ../../firefox17.rst:150 ../../firefox17.rst:153
+msgid "Firefox,ff14,firefox"
+msgstr ""
+
+#: ../../firefox17.rst:153
+msgid "System stops installation process"
+msgstr ""

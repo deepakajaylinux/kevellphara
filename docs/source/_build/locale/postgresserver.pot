@@ -1,0 +1,147 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../postgresserver.rst:3
+# eb6a7c9bbf2c49d5a0f4af5d60e73632
+msgid "PostgresServer"
+msgstr ""
+
+#: ../../postgresserver.rst:6
+# b440ea53414e47a68e553ba9c9eeb0ef
+msgid "Synopsis"
+msgstr ""
+
+#: ../../postgresserver.rst:8
+# a726aa66bd3a4459a5f6a80103658cf9
+msgid "PostgresServer is a general purpose and object-relational database management system. Use to install database. PostgresServer designed to run on LINUX-like platforms. However, PostgresServer is portable so that it could run on various platforms such as Mac OS X, Solaris and Windows. It allows you to add custom functions developed using different programming languages such as C/C++, Java, etc."
+msgstr ""
+
+#: ../../postgresserver.rst:12
+# 824e181dd6e840548f9a24dbb14b5c3f
+msgid "Help Command"
+msgstr ""
+
+#: ../../postgresserver.rst:14
+# 7ed6a8b38fdc496989a519bf81636e18
+msgid "This command helps to determine the usage of PostgresServer module. User will come to know about the different ways/format to execute this module. This command will guide the end user to know when and how the command to be used. Below given are the command and the screenshot of the same."
+msgstr ""
+
+#: ../../postgresserver.rst:47
+# 2703b42e56bc424bad504465cdd53730
+msgid "Installation"
+msgstr ""
+
+#: ../../postgresserver.rst:49
+# eadf5caf9ad44e54afb32a8d1f2c52ca
+msgid "When the user needs to install the module in machine. The below given command will execute the process of installation."
+msgstr ""
+
+#: ../../postgresserver.rst:57
+#: ../../postgresserver.rst:63
+# 3d8d1c11d31242a2a10cb46a615a5ead
+# 162c07e7796744148519417fc3d2b616
+msgid "Options"
+msgstr ""
+
+#: ../../postgresserver.rst:63
+# e740126d61c24651b4cdb2924b08cef2
+msgid "Parameters"
+msgstr ""
+
+#: ../../postgresserver.rst:63
+# 1384c339f435460bad51ff23fc122154
+msgid "Alternative Parameter"
+msgstr ""
+
+#: ../../postgresserver.rst:63
+# 55d57b60553a4f93815498fb8552af7b
+msgid "Comment"
+msgstr ""
+
+#: ../../postgresserver.rst:65
+#: ../../postgresserver.rst:69
+# f7d5fe036f6e48189532d1d33472b9b7
+# 8d06f4a9a0ac4f28a5bef01c450e0028
+msgid "Cleopatra postgres-server Install"
+msgstr ""
+
+#: ../../postgresserver.rst:65
+# e425e0e427e1490ba31b620b370a6b4c
+msgid "PostgresServer, postgresserver, postgres-server"
+msgstr ""
+
+#: ../../postgresserver.rst:65
+# 4c78ab4542a14c0a8ce008743dd4e9a8
+msgid "Y"
+msgstr ""
+
+#: ../../postgresserver.rst:65
+# 61b23b2e30f04bb69e610a52e2b4b63b
+msgid "System starts installation process"
+msgstr ""
+
+#: ../../postgresserver.rst:69
+# fa37b93a13d84276a14aa067e9a9c31e
+msgid "PostgresServer,postgres server,postgres-server|"
+msgstr ""
+
+#: ../../postgresserver.rst:69
+# 9350e48313ba400298f26ff251da4a04
+msgid "N"
+msgstr ""
+
+#: ../../postgresserver.rst:69
+# 0fa8d35deece4d3c80013f24db7f915a
+msgid "System stops  installation process"
+msgstr ""
+
+#: ../../postgresserver.rst:74
+# 4e1dac37846b4f679d1661d760e58d68
+msgid "Benefits"
+msgstr ""
+
+#: ../../postgresserver.rst:76
+# d12b8168d3b24579843d9444f9133c19
+msgid "User-defined types"
+msgstr ""
+
+#: ../../postgresserver.rst:77
+# 7874eef46c55435191abfb98ed228dbf
+msgid "Table inheritance"
+msgstr ""
+
+#: ../../postgresserver.rst:78
+# 31cc19c67b574da7a23403036931719f
+msgid "Sophisticated locking mechanism"
+msgstr ""
+
+#: ../../postgresserver.rst:79
+# ec3f969762af4e5e9a9c7a9321f00fb0
+msgid "Views, rules, sub-select"
+msgstr ""
+
+#: ../../postgresserver.rst:80
+# 41b5b2543fb747a0b5624127db4b9f83
+msgid "Nested transactions (save points)"
+msgstr ""
+
+#: ../../postgresserver.rst:81
+# 4f1e9f76ec64440ea1ef1598e8d3cf13
+msgid "Point-in-time recovery"
+msgstr ""
+

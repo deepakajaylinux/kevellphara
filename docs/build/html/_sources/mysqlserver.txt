@@ -1,4 +1,3 @@
-
 ===============
 Mysqlserver
 ===============
@@ -21,7 +20,6 @@ The help command guides the users regarding the methodology in usage and also ab
 This command makes the users to be aware of its purpose and also about the command used for installing the mysql-server.
 The screenshot given below shows a pictorial presentation about the help command.
 
-.. image:: /docs/image/cleopatra_help.png
 .. code-block:: bash
 
 
@@ -90,12 +88,10 @@ Let us see about, the additional options involved in installing the mysql-server
 
 The following screen shot gives you an graphical presentation regarding the installation process.
 
-.. image:: /image/mysqlser_install.png
 
 
 If the mysql server is already exists in your machine, then it will throw an message to the user as it is already installed. The following screen shot represents the process of ensuring:
 
-.. image:: /image/mysqlserver_instal_already.png
 
 
 Benefits

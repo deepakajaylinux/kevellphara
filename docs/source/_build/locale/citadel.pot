@@ -1,0 +1,155 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../citadel.rst:3
+# cb03250403134a5f86f1b702d2e5bec1
+msgid "Citadel"
+msgstr ""
+
+#: ../../citadel.rst:6
+# a2c97b58c420440297dd2f16aca51eb3
+msgid "Synopsis"
+msgstr ""
+
+#: ../../citadel.rst:8
+# 2f12c5f4e7dc4ac981508af17864ec93
+msgid "Citadel is a complete and feature-rich open source groupware platform. The Citadel system is extremely versatile. It provides numerous front ends to present to users, such as a text-based interface, an AJAX-style web interface, and many popular PIM clients using SMTP/POP/IMAP. All of these can be used simultaneously."
+msgstr ""
+
+#: ../../citadel.rst:10
+# 53d23d9e90d949339fdf04bc737b46af
+msgid "It is also extremely scalable. Not only can a well-equipped Citadel server support a large number of concurrent users, but you can also build a distributed network of Citadel nodes that share rooms and their content."
+msgstr ""
+
+#: ../../citadel.rst:13
+# f2f731839f124267abc0debe2bfeec24
+msgid "Help Command"
+msgstr ""
+
+#: ../../citadel.rst:15
+# 69b1af4d837f444f83ba91a752f166d1
+msgid "This command helps to determine the usage of Citadel module. The user will come to know about the different ways/format to execute this module. The alternative parameter that are used in declaration is clearly defined under help option.  This command guides the end user to know the command used for installation. Below given are the command."
+msgstr ""
+
+#: ../../citadel.rst:21
+# 69a7ad85e2424a29ae380cd4f5fbffdc
+msgid "The pictorial representation of the screenshot is listed below,"
+msgstr ""
+
+#: ../../citadel.rst:49
+# 89e6e517e7ec4398992887f67788f22d
+msgid "Installation"
+msgstr ""
+
+#: ../../citadel.rst:51
+# 3dad2d6914ec46f99d957b8d69d80d4f
+msgid "When the user needs to install Citadel server in machine, you can input the following commands to install the citadel-suite. The system will execute the process of installation. Below given are the command and the screenshot of the same."
+msgstr ""
+
+#: ../../citadel.rst:224
+# cd264357a1ae496385ed31f76afa95a8
+msgid "Parameters"
+msgstr ""
+
+#: ../../citadel.rst:224
+# e400b39ca02c4657a6a28138ce06cefc
+msgid "Alternative Parameter"
+msgstr ""
+
+#: ../../citadel.rst:224
+# 4c9748adad384547b4414afeda3bd8a2
+msgid "Options"
+msgstr ""
+
+#: ../../citadel.rst:224
+# 6cde079ba02d44c9900c945e56caac04
+msgid "Comments"
+msgstr ""
+
+#: ../../citadel.rst:226
+#: ../../citadel.rst:231
+# 5361e3bb0d8f4c5684cbe772f81d7ea0
+# 67130eeaf3734236bc91b1b2af1be655
+msgid "cleopatra Citadel Install? (Y/N)"
+msgstr ""
+
+#: ../../citadel.rst:226
+# 0624a90eadf144ab91593b52b666a618
+msgid "Either of the three alternative parameter can be used in command- Citadel, citadel-server,  citadel eg: Cleopatra  citadel-server Install"
+msgstr ""
+
+#: ../../citadel.rst:226
+# 2ba3863d35f04b85b65b5edd0e0c2f18
+msgid "Y"
+msgstr ""
+
+#: ../../citadel.rst:226
+# 4a5b46ca292e426891dc3f3b62e2d25a
+msgid "Once the user provides this option, System starts installation process"
+msgstr ""
+
+#: ../../citadel.rst:231
+# 430f167e9f2a4305b0ec30fb517dce65
+msgid "Either of the three alternative parameter can be used in command- Citadel, citadel-server,  citadel eg: Cleopatra  citadel-server Install.|"
+msgstr ""
+
+#: ../../citadel.rst:231
+# 1fcbf7664a5b4563a626b098ab491023
+msgid "N"
+msgstr ""
+
+#: ../../citadel.rst:231
+# 50ea4a4f79334c46bab7eb76e1c41bd4
+msgid "Once the user provides this option, System stops installation process"
+msgstr ""
+
+#: ../../citadel.rst:242
+# e812008062ce46d29e05229cc54e6c1e
+msgid "Configuration"
+msgstr ""
+
+#: ../../citadel.rst:244
+# 6648b1d012b34da2b2acc798a2c1813b
+msgid "This command helps in configuring the Citadel server. Once the below given command is executed the system provides you with the default value for each section, if there are any changes to be done, the user can provide the data. The command used for configuration is shown below."
+msgstr ""
+
+#: ../../citadel.rst:251
+# a435141d90ef45eb98414c23a1f166bf
+msgid "Benefits"
+msgstr ""
+
+#: ../../citadel.rst:253
+# 32bb2d2fcb20449dad52d0cb2dd2fbb2
+msgid "Email, calendaring/scheduling, address books"
+msgstr ""
+
+#: ../../citadel.rst:254
+# cbda01014adf49beafa0d38c12b7184e
+msgid "Bulletin boards, mailing list server, instant messaging"
+msgstr ""
+
+#: ../../citadel.rst:255
+# ef9db857d7a946e2a4d930257b61d873
+msgid "Multiple domain support"
+msgstr ""
+
+#: ../../citadel.rst:256
+# 71f2679e42274a98823060211da9f695
+msgid "An intuitive, attractive AJAX-style web interface"
+msgstr ""
+

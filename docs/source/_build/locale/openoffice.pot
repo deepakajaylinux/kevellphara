@@ -1,0 +1,197 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../openoffice.rst:3
+# 4e7ab54553bc4507a76f288a9c6d03a9
+msgid "OpenOffice"
+msgstr ""
+
+#: ../../openoffice.rst:6
+# 9d28cdccaad6454196ce1d58a2574108
+msgid "Synopsis"
+msgstr ""
+
+#: ../../openoffice.rst:8
+# f80f72077e764928ad95f3f325dc1967
+msgid "This module acts as a facilitator to install Openoffice .Open-office is the  premier open suite of office-related software. Let us see the usage and methodologies of installing open office in upcoming topics."
+msgstr ""
+
+#: ../../openoffice.rst:11
+# df20473ceea64d1489a2c4935fc2da64
+msgid "Help Command"
+msgstr ""
+
+#: ../../openoffice.rst:13
+# 5812902734fd4fbeb50030ee0e1a2082
+msgid "The help command guides the users regarding the purpose and as well as about the options that are included in the Open Office module. It lists out the alternative parameters of Open Office module. It also describes the syntax for installing the Open Office module. The help command for Open Office module is shown as below."
+msgstr ""
+
+#: ../../openoffice.rst:20
+# 1def79dacb7b462e95bc7b9e0aac0080
+msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under Open Office."
+msgstr ""
+
+#: ../../openoffice.rst:44
+# 1ce751b6a6864a02a5b6e15817f55e5c
+msgid "Installation"
+msgstr ""
+
+#: ../../openoffice.rst:46
+# 0d3f31b39b7b4e35a27d1ec10445cef3
+msgid "The command used for installing the Open Office in the users machine is shown below:"
+msgstr ""
+
+#: ../../openoffice.rst:53
+# f241700f0a544e5098eb1ff71d857bef
+msgid "After inputting the command above, the following process occurs as shown in the tabular format."
+msgstr ""
+
+#: ../../openoffice.rst:58
+# 0c22bd8b874744589aef1a5e44f36c75
+msgid "Parameters"
+msgstr ""
+
+#: ../../openoffice.rst:58
+# b12bdf27188d4ce79d8dceb3bc71ac77
+msgid "Alternative Parameters"
+msgstr ""
+
+#: ../../openoffice.rst:58
+# 61440b8522f54c7b835fbe55bc827c15
+msgid "Options"
+msgstr ""
+
+#: ../../openoffice.rst:58
+# d2c2e23c43194312801b4c65399c250b
+msgid "Comments"
+msgstr ""
+
+#: ../../openoffice.rst:60
+#: ../../openoffice.rst:64
+# a7103a0d87d54ae7aff3629121c77d02
+# 77a50ebcf190465b8c98cd1b6330b221
+msgid "Install Open Office? (Y/N)"
+msgstr ""
+
+#: ../../openoffice.rst:60
+#: ../../openoffice.rst:64
+# aea120259d384a1a8b9726d2f7bebbf7
+# 98e690befa5d45f2b34881ead64def51
+msgid "Instead of openoffice, we can use OpenOffice, Openoffice also."
+msgstr ""
+
+#: ../../openoffice.rst:60
+# 932923039bab411f96453b032e76a91a
+msgid "Y(Yes)"
+msgstr ""
+
+#: ../../openoffice.rst:60
+# b356d7246912413e98ff00d1c866c098
+msgid "If the user wish to proceed the installation process they can input as Y."
+msgstr ""
+
+#: ../../openoffice.rst:64
+# 2b28bbab6d2a41a7b6ed336e24b649e2
+msgid "N(No)"
+msgstr ""
+
+#: ../../openoffice.rst:64
+# b4c02a63202f4b0bb7eff60515265258
+msgid "If the user wish to quit the installation process they can input as N.|"
+msgstr ""
+
+#: ../../openoffice.rst:71
+# d15ec881c2864099a7a6059072a5e4f5
+msgid "If the user proceeds the installation, during the process of installation is described in the below lists:"
+msgstr ""
+
+#: ../../openoffice.rst:73
+# 4f40088b032f414a92cb42c1f40bf536
+msgid "Reads package lists."
+msgstr ""
+
+#: ../../openoffice.rst:74
+# 836b9129f51a4b89bddf62ce231866ed
+msgid "Builds the dependency tree."
+msgstr ""
+
+#: ../../openoffice.rst:75
+# 465252ad278547c599f5952a4a7d804a
+msgid "Reads state information."
+msgstr ""
+
+#: ../../openoffice.rst:76
+# eb09db1e116c4f5dafc762d6f368a18d
+msgid "List outs the packages that are automatically installed."
+msgstr ""
+
+#: ../../openoffice.rst:77
+# 590c29f7f4d24f0fbd1215a3d01e2f77
+msgid "List outs the extra package that are installing."
+msgstr ""
+
+#: ../../openoffice.rst:78
+# f381e989d8b04c23a2f9094197287ef2
+msgid "List outs the suggested packages."
+msgstr ""
+
+#: ../../openoffice.rst:79
+# 6be9b1b78b4c41439881fee0c68682e7
+msgid "List outs the new packages that are installing."
+msgstr ""
+
+#: ../../openoffice.rst:80
+# 51a2d6c35e7d4874b36cc20cababe279
+msgid "Details regarding the number of files upgraded, newly installed, removed and not upgraded."
+msgstr ""
+
+#: ../../openoffice.rst:84
+# 0e5d8296976f4e98987a6867b87fa8c7
+msgid "Finally, the process of installation gets completed. The following screenshot visually represent the process of installing the open Office."
+msgstr ""
+
+#: ../../openoffice.rst:91
+# d79063c095d348a08b6264f58e2e0316
+msgid "Benefits"
+msgstr ""
+
+#: ../../openoffice.rst:93
+# 3aa42494da714a01b2e9379eb417b52a
+msgid "The parameters used in help and installation are not case sensitive which is an added advantage while compared to others."
+msgstr ""
+
+#: ../../openoffice.rst:94
+# 039a1ac59ee04448bf54a7f73e496138
+msgid "It is well-to-do in both Ubuntu and as well as Cent OS."
+msgstr ""
+
+#: ../../openoffice.rst:95
+# 1e96395a22004206aeb81a28c946c09e
+msgid "This will module installs the php apc in updated version."
+msgstr ""
+
+#: ../../openoffice.rst:96
+# c99214901edd4c2299453bf351eebf23
+msgid "The primary advantage of using Apache OpenOffice as a productivity suite comes from the cost. It includes word processing, spreadsheet, presentation, vector graphic editing and database management components."
+msgstr ""
+
+#: ../../openoffice.rst:98
+# 2a1a845474b94b358d0c31c6ec35c8a2
+msgid "It's easy for beginners to learn to use, but it is powerful enough to do the advanced tasks experienced users want. It's designed so that the  commands and functions you perform in one component of the software work throughout the entire suite."
+msgstr ""
+

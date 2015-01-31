@@ -1,0 +1,145 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../apacheserver.rst:3
+# f3fb6fe2fa564036a4f220289d5c566c
+msgid "ApacheServer"
+msgstr ""
+
+#: ../../apacheserver.rst:6
+# efff6e52bcfd4cff9ae47e15ee5155af
+msgid "Synopsis"
+msgstr ""
+
+#: ../../apacheserver.rst:8
+# a4b9b00c4bc54461b5ded4e8f3fe9558
+msgid "This modules aims at installing the Apache server. Without any request it will automatically install the current version of the apache server while installation."
+msgstr ""
+
+#: ../../apacheserver.rst:11
+# df49cc7291174c2e91c586a827fe9cdd
+msgid "Help command"
+msgstr ""
+
+#: ../../apacheserver.rst:13
+# d531c1a9fe014f648a94a6f5b564c7b0
+msgid "The help command describes about the purpose and the commands available under this modules. It also explains the command to install the particular module."
+msgstr ""
+
+#: ../../apacheserver.rst:15
+# c7a74d359b39441cbd396a87e17436aa
+msgid "The screen shot as shown below, visually represent the usage of the help command under this module."
+msgstr ""
+
+#: ../../apacheserver.rst:39
+# 6c6164d4aab242f8bb6b73ef9e523033
+msgid "Installation"
+msgstr ""
+
+#: ../../apacheserver.rst:41
+# 1f4e3609e4b94a2a9afa8df5b4632577
+msgid "It is easier to install this particular tool under Cleopatra by simply using the command given below,"
+msgstr ""
+
+#: ../../apacheserver.rst:47
+# ebf4bb9968ae40e48264710d69ac032d
+msgid "After giving the command above, the tool will ask as"
+msgstr ""
+
+#: ../../apacheserver.rst:49
+# 7f1aef2e5d894a6998928b71eaf75e46
+msgid "Install Apache Server? (Y/N)"
+msgstr ""
+
+#: ../../apacheserver.rst:51
+# 4275ebd44d5641f780f445a06b48f0da
+msgid "if you give an input as Y, the module will get installed successfully."
+msgstr ""
+
+#: ../../apacheserver.rst:53
+# 44ea072f67c24ee1b440e7c121641f98
+msgid "The screen shot given below explains visually about the steps and commands involves in installation."
+msgstr ""
+
+#: ../../apacheserver.rst:88
+# fba336625d744093908d660af5aa991c
+msgid "Options"
+msgstr ""
+
+#: ../../apacheserver.rst:93
+# 02ad0bf189b645f79632208b720b8551
+msgid "Parameter"
+msgstr ""
+
+#: ../../apacheserver.rst:93
+# e110865192604f738b7475043a2c4258
+msgid "Required"
+msgstr ""
+
+#: ../../apacheserver.rst:93
+# dd123aec68544aa987cc889e3f08ffd1
+msgid "Comments"
+msgstr ""
+
+#: ../../apacheserver.rst:95
+#: ../../apacheserver.rst:98
+# f194ab2a4da94edd819755d15e896b86
+# 7b256483818d4efaa216f10244a9b15d
+msgid "Install"
+msgstr ""
+
+#: ../../apacheserver.rst:95
+# 291c5fe7e8e541b797eafda7aa83f53f
+msgid "Yes"
+msgstr ""
+
+#: ../../apacheserver.rst:95
+# 2d025bb38c6546c3a1313723688cb50e
+msgid "If the user gives the input as Y it will install the apache server"
+msgstr ""
+
+#: ../../apacheserver.rst:98
+# b3547d4ed03746aa9df73792af07679b
+msgid "No"
+msgstr ""
+
+#: ../../apacheserver.rst:98
+# bbc602cec1e0483e8e37a0958b3d276a
+msgid "If the user gives input as N, it will get exit.|"
+msgstr ""
+
+#: ../../apacheserver.rst:104
+# d2f95a6f710c4e91883c89c7473d45aa
+msgid "Version"
+msgstr ""
+
+#: ../../apacheserver.rst:106
+# b476b542eec84ccdbe1c5ebfb5dd78a2
+msgid "While the tool is processing it will automatically grabs the most-recent updated version and makes it to get ready for installation."
+msgstr ""
+
+#: ../../apacheserver.rst:110
+# c333ea949491417ea049d34d1946c112
+msgid "Benefits to the end users"
+msgstr ""
+
+#: ../../apacheserver.rst:112
+# 0b5f79277d8240d5848945a08b3c3f99
+msgid "This modules helps the users in installing the apache server. It simplifies the work of the users while installing the server as its automatically check the current version of apache server."
+msgstr ""
+

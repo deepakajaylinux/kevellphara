@@ -179,7 +179,7 @@ Playing with Phlagrant Modules
 ------------------------------------
 
 .. toctree::
-   :maxdepth: 6
+   :maxdepth: 3
 
  autossh
  box

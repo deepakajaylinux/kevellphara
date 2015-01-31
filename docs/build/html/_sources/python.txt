@@ -43,6 +43,7 @@ Installation
 The command used for installing python module is given below,
 
 .. code-block:: bash
+
 	cleopatra python install
 
 

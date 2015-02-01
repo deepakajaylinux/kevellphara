@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 12:00+0530\n"
+"POT-Creation-Date: 2015-02-01 14:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,172 +17,172 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/service.rst:3
-# 600c2ec323204366bab18b5333f8a45c
+# 3fbd85fac8e94b5d8b24dec23f58f0f2
 msgid "Service"
 msgstr ""
 
 #: ../../source/service.rst:5
-# 818c9ee7d7c244d59888251693be2181
+# 89dc74291983491cbcec19666c5a0e13
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/service.rst:7
-# f240cb1aa61140f38531b0b4e51b4212
+# f4f8395a489943fe8f9228bbe1576a7c
 msgid "This module facilitates the current status of file in the system. It can mention the status as running or not. Automation is possible. This module specify the configuration of your environment. It is user friendly with Ubuntu and cent OS."
 msgstr ""
 
 #: ../../source/service.rst:10
-# 4f4293405014443989fb469d5c662267
+# d83db8cd09b94e819cbcbf912f0dbb85
 msgid "Help command"
 msgstr ""
 
 #: ../../source/service.rst:12
-# a1e3b688d8a94493b2b793d458d50ae9
+# 90649362a22543009db64ae7e6f9f4c8
 msgid "Help command used to find information about a specified command. For more information about changes to functionality of service we can use this help command. The following screen shot will guide you."
 msgstr ""
 
 #: ../../source/service.rst:61
-# 4ad3d4193daf47d691e1e7508d481231
+# ae4c564928b0436aa3fa26011070ed9a
 msgid "Options"
 msgstr ""
 
 #: ../../source/service.rst:67
-# 0edaf77b2dca4823ad7c7c32b130c28d
+# b9fc8aaa9d65410896826bb0dadb4c28
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/service.rst:67
-# 03c1208e9c9944fca57e481cabc73ef9
+# d30bc5e8fba74e36b75904d5b2d2e369
 msgid "Functions"
 msgstr ""
 
 #: ../../source/service.rst:67
-# 229357f8228f4bb5a82e62ad57a9bb8e
+# 25fcef5387ce4418abb58f7716385190
 msgid "Comment"
 msgstr ""
 
 #: ../../source/service.rst:69
-# e7611d19718f460daaafd552a879eb59
+# 6fdc622201c64814995c62e3aee48169
 msgid "start"
 msgstr ""
 
 #: ../../source/service.rst:69
-# 62ad53d9fc5c4e9085781fedb9120e30
+# cf84553ae79f450189ceef51644c6499
 msgid "Start a system  service"
 msgstr ""
 
 #: ../../source/service.rst:69
-# 1822c6d9ccbb4d74ace19a51683d2f5b
+# 241057ff8b4a4b4785d1bb43f4d82257
 msgid "Cleopatra service start –service-name=”apache2”"
 msgstr ""
 
 #: ../../source/service.rst:71
-# c6696ca4447d43a39e5f1b4b64f3a6ef
+# 3de55e202bed40ba86a24634c4684b75
 msgid "stop"
 msgstr ""
 
 #: ../../source/service.rst:71
-# 593955684b2846c5bfbe30e5cdd1ac2e
+# 4ff93005630e4c1f9a8f3b7fcf82290c
 msgid "Stop asystem service"
 msgstr ""
 
 #: ../../source/service.rst:71
-# 116195c6ac784f74a49558433e7042f0
+# e906afbc429240a6bc055de092222de1
 msgid "Cleopatra service stop –service-name=”apache2”"
 msgstr ""
 
 #: ../../source/service.rst:73
-# 72ec2715208e432c9df085b6113d8ba2
+# 9dba4d679c78490a900db010ca761cf2
 msgid "Restart"
 msgstr ""
 
 #: ../../source/service.rst:73
-# bb3419b3983845b29a2c0d1ef28b0f8c
+# 5637c4aabce9463eaeb5123d30fb7b74
 msgid "Restart a system  service"
 msgstr ""
 
 #: ../../source/service.rst:73
-# 09a84036015a4f12ae7b272581e21f62
+# 4ea3242268c84922bdabde4c761e57cc
 msgid "Cleopatra service restart –service-name=”apache2”"
 msgstr ""
 
 #: ../../source/service.rst:75
-# 5b00c6e61f054534991b6ca4650030fe
+# a0ef4acc5ad540fd9e770357e69a26e7
 msgid "Ensure-running"
 msgstr ""
 
 #: ../../source/service.rst:75
-# 82ac42275c224729abc91c16c5213b59
+# b86c4e1b5fe641c6bc05550d8f2577e1
 msgid "Ensure a system service is running.In case of not running start it else don’t attempt"
 msgstr ""
 
 #: ../../source/service.rst:75
-# fd21f8e330ed4ceca7b4c0c5ef567d59
+# 634ed696c83243cf90b17dead7901657
 msgid "Cleopatra service ensure-running –service-name=”apache2”"
 msgstr ""
 
 #: ../../source/service.rst:78
-# b757e72f4b254af68b3679d3bfe78f3d
+# 3fc8f6fdc67644568f5076dbec227bf7
 msgid "Is-running"
 msgstr ""
 
 #: ../../source/service.rst:78
-# 43b00eeece544439a330138ee54d9148
+# fa56094bf9f14563ab22fd9aa304091d
 msgid "Check whether a system service is running or not running start it else don’t attempt"
 msgstr ""
 
 #: ../../source/service.rst:78
-# 3149945eab984b36b1f5a935813fd8bf
+# 10d57c2a019541b29a8d35217ee77f6a
 msgid "Cleopatra service is-running –service-name=”apache2”"
 msgstr ""
 
 #: ../../source/service.rst:81
-# e511e225a2d44e9ba242ae484d5b4189
+# 49468f5f80514836b15328dcab004465
 msgid "Run-at-reboots"
 msgstr ""
 
 #: ../../source/service.rst:81
-# 0900a8fdd8844caa8ee425a59f8fd818
+# c5542fc0402d4121b136d45ec7130bb2
 msgid "Ensure a system service auto start on reboots"
 msgstr ""
 
 #: ../../source/service.rst:81
-# 63b4decfa92148f3ba9d340fd13afd9a
+# 38ccd28cc316458b93ff7064fc88e1ac
 msgid "Cleopatra service run-at-reboots –service-name=”apache2|"
 msgstr ""
 
 #: ../../source/service.rst:86
-# aba8eb0cbc86402c8caefe8edc90de9f
+# 551e45a36ea94dd4a077dc801607dcd9
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/service.rst:88
-# 266eaad6646a40cd8099d896484482e0
+# 427bffb6f624458aa6a8331e05f0ad4d
 msgid "The user can check the system working status at any time."
 msgstr ""
 
 #: ../../source/service.rst:89
-# cc353ff2dbb14cf6a65d25b65102b82d
+# 581df83df0394b4c8774f4279fe8a205
 msgid "Service provides to exchange data among the system."
 msgstr ""
 
 #: ../../source/service.rst:90
-# 7e14de96a54a406da11b6c71ef32513c
+# 9c5d67fe6e234fdda9be64936cc653d5
 msgid "It permits the sharing of the resources of the machine"
 msgstr ""
 
 #: ../../source/service.rst:91
-# 2a26926b569f4fa7afaae59224b9aa4e
+# e540564d88184e509f3b516b3ab7d312
 msgid "Service also provides the function of back-up."
 msgstr ""
 
 #: ../../source/service.rst:92
-# 89ad0f7ddaad435ab38fb1fd4cb56f72
+# ae9ce2b48ac84c9d950309d81ce1f094
 msgid "Service provides a flexible networking environment."
 msgstr ""
 
 #: ../../source/service.rst:93
-# 7d4ee3b19d3146298a4cb745816cc320
+# a247c9614e164491ac9090124dd64c25
 msgid "This involves coordination of distributed data."
 msgstr ""
 

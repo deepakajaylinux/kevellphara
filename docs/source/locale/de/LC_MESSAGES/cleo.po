@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"POT-Creation-Date: 2015-01-31 11:09+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,15 +11,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../cleo.rst:3
+#: ../../source/cleo.rst:3
 msgid "Cleopatra"
 msgstr ""
 
-#: ../../cleo.rst:6
+#: ../../source/cleo.rst:6
 msgid "Synopsis"
 msgstr ""
 
-#: ../../cleo.rst:8
+#: ../../source/cleo.rst:8
 msgid ""
 "This module lift installation in updated version. Automation is possible. "
 "Location for data directory and executor directory can be specified while "
@@ -27,11 +27,11 @@ msgid ""
 "environment. It is user friendly with Ubuntu and cent OS."
 msgstr ""
 
-#: ../../cleo.rst:11
+#: ../../source/cleo.rst:11
 msgid "Help command"
 msgstr ""
 
-#: ../../cleo.rst:12
+#: ../../source/cleo.rst:12
 msgid ""
 "This help command guide the user about Cleopatra. Suitable for all type of "
 "user. It depicts the alternative parameters and commands for installation. "
@@ -39,67 +39,98 @@ msgid ""
 " the usage."
 msgstr ""
 
-#: ../../cleo.rst:36
-msgid "kevells@corp:/# cleopatra Cleopatra help"
-msgstr ""
-
-#: ../../cleo.rst:24
-msgid "This command allows you to update Cleopatra."
-msgstr ""
-
-#: ../../cleo.rst:26
-msgid "Cleopatra, cleo, cleopatra"
-msgstr ""
-
-#: ../../cleo.rst:28
-msgid "install"
-msgstr ""
-
-#: ../../cleo.rst:29
-msgid ""
-"Installs the latest version of cleopatra example: cleopatra cleopatra "
-"install"
-msgstr ""
-
-#: ../../cleo.rst:39
+#: ../../source/cleo.rst:39
 msgid "Installation"
 msgstr ""
 
-#: ../../cleo.rst:40
+#: ../../source/cleo.rst:40
 msgid ""
 "It is a simplier process to install Cleopatra module by just using the "
 "command given below,"
 msgstr ""
 
-#: ../../cleo.rst:46
+#: ../../source/cleo.rst:46
 msgid ""
 "After giving the command the Cleopatra will be installed with new updates."
 msgstr ""
 
-#: ../../cleo.rst:48
+#: ../../source/cleo.rst:48
 msgid ""
 "After the user input has passed it will check if any file is missing and in "
 "hand it will install automatically."
 msgstr ""
 
-#: ../../cleo.rst:50
+#: ../../source/cleo.rst:50
 msgid "The following screen shot enumerate it."
 msgstr ""
 
-#: ../../cleo.rst:105
+#: ../../source/cleo.rst:105
 msgid "Benefits"
 msgstr ""
 
-#: ../../cleo.rst:107
+#: ../../source/cleo.rst:107
 msgid ""
 "Cleopatra is used to install configuration file. While installing if there "
 "is any file is existing overwrite the content."
 msgstr ""
 
-#: ../../cleo.rst:108
+#: ../../source/cleo.rst:108
 msgid "New version can update automatically."
 msgstr ""
 
-#: ../../cleo.rst:109
+#: ../../source/cleo.rst:109
 msgid "Updation can be done in this module without web search."
 msgstr ""
+
+#: ../../source/cleo.rst:93
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/cleo.rst:93
+msgid "option"
+msgstr ""
+
+#: ../../source/cleo.rst:93
+msgid "Comments"
+msgstr ""
+
+#: ../../source/cleo.rst:95 ../../source/cleo.rst:99
+msgid "Install cleopatra cleopatra Update to latest version? (Y/N)"
+msgstr ""
+
+#: ../../source/cleo.rst:95
+msgid "Y(YES)"
+msgstr ""
+
+#: ../../source/cleo.rst:95
+msgid "It will install Cleopatra"
+msgstr ""
+
+#: ../../source/cleo.rst:97
+msgid "under Cleopatra"
+msgstr ""
+
+#: ../../source/cleo.rst:101
+msgid "N(NO)"
+msgstr ""
+
+#: ../../source/cleo.rst:101
+msgid "It will exit from installation|"
+msgstr ""
+
+#~ msgid "kevells@corp:/# cleopatra Cleopatra help"
+#~ msgstr ""
+
+#~ msgid "This command allows you to update Cleopatra."
+#~ msgstr ""
+
+#~ msgid "Cleopatra, cleo, cleopatra"
+#~ msgstr ""
+
+#~ msgid "install"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Installs the latest version of cleopatra example: cleopatra cleopatra "
+#~ "install"
+#~ msgstr ""

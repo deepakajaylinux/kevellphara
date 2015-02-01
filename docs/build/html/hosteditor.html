@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Host Editor &mdash; KEVELL 0.1 documentation</title>
+    <title>Host Editor &mdash; KEVELL 0.1 Dokumentation</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -25,10 +25,11 @@
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/translations.js"></script>
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
-    <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
+    <link rel="top" title="KEVELL 0.1 Dokumentation" href="index.html" />
     <link rel="up" title="Dapperstrano" href="Dapperstrano_main.html" />
     <link rel="next" title="LighttpdControl" href="lighttpdControl_dapper.html" />
     <link rel="prev" title="EnvironmentConfig" href="environmentconfigdapper.html" />
@@ -105,9 +106,9 @@
           
             
   <li><a href="environmentconfigdapper.html"
-         title="previous chapter">&laquo; EnvironmentConfig</a></li>
+         title="vorheriges Kapitel">&laquo; EnvironmentConfig</a></li>
   <li><a href="lighttpdControl_dapper.html"
-         title="next chapter">LighttpdControl &raquo;</a></li>
+         title="nächstes Kapitel">LighttpdControl &raquo;</a></li>
           
           
           <!--  <li>
@@ -131,13 +132,13 @@
   
   
   <div class="section" id="host-editor">
-<h1>Host Editor<a class="headerlink" href="#host-editor" title="Permalink to this headline">¶</a></h1>
+<h1>Host Editor<a class="headerlink" href="#host-editor" title="Permalink zu dieser Überschrift">¶</a></h1>
 <div class="section" id="synopsis">
-<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
+<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>This module supports to handle Apache Virtual Host Editor under dapperstrano. It can function in two ways. They are add and remove. Vhost Editor is a PHP Tool written to make adding virtual hosts to apache a breeze. Vhost Editor will enable the user to add, edit, or delete Virtual Host information on user’s webserver. It is convenient to work with Ubuntu and cent OS.  Let’s see how the apache Vhost Editor can function under dapperstarano.</p>
 </div>
 <div class="section" id="help-command">
-<h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
+<h2>Help command<a class="headerlink" href="#help-command" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>This help command guides the user to create a virtual host. This also displays to add a virtual host, remove a virtual host, Enable a virtual host, and Disable a virtual host.</p>
 <p>The help command for Apachevhosteditor  is shown below.</p>
 <div class="highlight-bash"><div class="highlight"><pre>dapperstrano Apachevhosteditor <span class="nb">help</span>
@@ -208,12 +209,12 @@ Wordpress - Wordpress - Integration and Templates for Wordpress
 </div>
 </div>
 <div class="section" id="alternative-parameters">
-<h2>Alternative parameters<a class="headerlink" href="#alternative-parameters" title="Permalink to this headline">¶</a></h2>
+<h2>Alternative parameters<a class="headerlink" href="#alternative-parameters" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>The following are the alternative parameters that can be defined in declarations:</p>
 <p>ApacheVHostEditor, apachevhosteditor, vhosteditor, vhe, vhosted.</p>
 </div>
 <div class="section" id="add">
-<h2>Add<a class="headerlink" href="#add" title="Permalink to this headline">¶</a></h2>
+<h2>Add<a class="headerlink" href="#add" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>This facilitates the user to create a virtual host. While adding Virtual host it can asks vhe-docroot, vhe-file-ext, vhe-apache-command, vhe-ip port,vhe-host-dir, vhe-templates,vhe-default-template-name. The user can enter the according to their wish.</p>
 <div class="highlight-bash"><div class="highlight"><pre>sudo dapperstrano vhe add
 </pre></div>
@@ -326,7 +327,7 @@ Apache VHost Editor Finished
 </div>
 </div>
 <div class="section" id="remove">
-<h2>Remove<a class="headerlink" href="#remove" title="Permalink to this headline">¶</a></h2>
+<h2>Remove<a class="headerlink" href="#remove" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>The terminal command for deleting virtual host(s) is rm. The general format of this command is rm . rm removes a virtual host if you specify a correct path for it and if you don&#8217;t, then it displays an error message and move on to the next host. Sometimes you may not have the write permissions for a virtual host, in that case it asks you for confirmation. Type yes if you want to delete it.</p>
 <p>If the removed name was the last link to a virtual host and no processes have
 the virtual host open, the virtual host is deleted and the space it was using is made available for reuse.</p>
@@ -346,7 +347,7 @@ the virtual host open, the virtual host will remain in existence until the last 
 </div>
 </div>
 <div class="section" id="list">
-<h2>List<a class="headerlink" href="#list" title="Permalink to this headline">¶</a></h2>
+<h2>List<a class="headerlink" href="#list" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>List information about the Virtual host (the current directory by default). Sort entries alphabetically. Mandatory arguments has long options as well as short options too. A list invoked with a URL specifying both the list name and also the underlying view which will provide and organize the data. The following command used to list the virtual host.</p>
 <div class="highlight-bash"><div class="highlight"><pre>dapperstrano vhe list
 </pre></div>
@@ -359,7 +360,7 @@ the virtual host open, the virtual host will remain in existence until the last 
 </div>
 </div>
 <div class="section" id="enable">
-<h2>Enable<a class="headerlink" href="#enable" title="Permalink to this headline">¶</a></h2>
+<h2>Enable<a class="headerlink" href="#enable" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>Secure Boot is a feature designed to prevent malicious software and unauthorized media from loading during the boot process. This enable option enabled the server block. In virtual host when the used typed the following command,</p>
 <div class="highlight-bash"><div class="highlight"><pre>dapperstrano vhe <span class="nb">enable</span>
 </pre></div>
@@ -373,7 +374,7 @@ the virtual host open, the virtual host will remain in existence until the last 
 </div>
 </div>
 <div class="section" id="disable">
-<h2>Disable<a class="headerlink" href="#disable" title="Permalink to this headline">¶</a></h2>
+<h2>Disable<a class="headerlink" href="#disable" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>This disable used to disable the server. Inactive or idle virtual host editor connections are normally disconnected by the server after a certain period of time. The following command is used to disable the virtual host editor.</p>
 <div class="highlight-bash"><div class="highlight"><pre>dapperstrano vhe disable
 </pre></div>
@@ -387,7 +388,7 @@ the virtual host open, the virtual host will remain in existence until the last 
 </div>
 </div>
 <div class="section" id="benefits">
-<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
+<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink zu dieser Überschrift">¶</a></h2>
 <ul class="simple">
 <li>Multi user can access at a time.</li>
 <li>The user can add or remove virtual host.</li>

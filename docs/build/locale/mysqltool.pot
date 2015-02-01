@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 12:00+0530\n"
+"POT-Creation-Date: 2015-02-01 14:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,169 +17,169 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/mysqltool.rst:3
-# c60bfc8a8a404462a1cbf964de99a281
+# 4c8276721838470d9a8f7764e47318c2
 msgid "MysqlTools"
 msgstr ""
 
 #: ../../source/mysqltool.rst:6
-# ce25162ecb564f36ac9d61e21dbf10a5
+# 22312a912c5848ddbf58df751439e743
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/mysqltool.rst:8
-# b4a05c0eb0bd45fca51dae642d9741fc
+# 84c2acbf685b469c99334cfe83731516
 msgid "This module aims at installing some tools that assists the MySQL server. It also facilitates in installing the MySQL Workbench GUI and as well as mytop Command Line Tool."
 msgstr ""
 
 #: ../../source/mysqltool.rst:11
-# 65b28d75a0b549e597b03dcb02efecf1
+# b5fb374c217f42bb9b8278aa642646e4
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/mysqltool.rst:13
-# 20deae42376c4cf89800fbfe320d8b15
+# 12b0bc9fb086453397c57faaa7e916f9
 msgid "The help command instructs the users in handling this module. In addition to this, it will also specifies the alternative parameters. The command used for help option is given below:"
 msgstr ""
 
 #: ../../source/mysqltool.rst:19
-# f5e2ac380f054d24ba301c251361676e
+# 936c70c2f1aa42448b8b8201b9e13707
 msgid "The help command also specifies the command used for installing this mysqltools module. Look at the screen shot given below."
 msgstr ""
 
 #: ../../source/mysqltool.rst:22
-# 1da8e4c8294b433ea07bdb2db6b26f9c
+# 5592f8b5c0cc436e9ca6982083bb7f7b
 msgid "Installation"
 msgstr ""
 
 #: ../../source/mysqltool.rst:24
-# 77a478f27e1e49f2b1ab21fc62a0be21
+# 15dfad6ff66c423699c924a4a32addd4
 msgid "This module installs the mysql tools that supports the mysql server with the aid of apt-get. The command used for installing mysqltools to your machine is shown below:"
 msgstr ""
 
 #: ../../source/mysqltool.rst:36
-# 51c3558f68a649bebe763d785df30910
+# 604aa95df01c4432b96df57d8ec3e72d
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/mysqltool.rst:36
-# d3465de0707140f491937cc9a566e739
+# e66d3b346dcc4531bde8d453bb81b19c
 msgid "Alternative Parameter"
 msgstr ""
 
 #: ../../source/mysqltool.rst:36
-# 9b130596f30449b99aa1f792761c17c1
+# 4aba71f9f00749fdb91a9c42c901643d
 msgid "option"
 msgstr ""
 
 #: ../../source/mysqltool.rst:36
-# bae68275d116401c94afb9743692cf5f
+# 5f682b69e5834e8bb7b3ce400c85b26e
 msgid "Comments"
 msgstr ""
 
 #: ../../source/mysqltool.rst:38
 #: ../../source/mysqltool.rst:43
-# 05b477eb6fc84c7ea0a44e4356f801c6
-# 56283781257a4c2f9a218b9f8ec5049d
+# 205f238fdf6d4713854b1b18b4078e45
+# 627e2d0e1d844bba86331805852c403e
 msgid "Install MySQL Tools? (Y/N)"
 msgstr ""
 
 #: ../../source/mysqltool.rst:38
-# 002b35e33a184f519959ccf0a9fad099
+# b624ffdfd0a841febb35f787b437d903
 msgid "In the place of Mysql Tools these alternative names can be used:MysqlTools,mysql-tools, mysqltools."
 msgstr ""
 
 #: ../../source/mysqltool.rst:38
-# 934408201b27452e93f65ee3dcf22646
+# 4e47407fd1324bbfbe6669c832078e6f
 msgid "Y(YES)"
 msgstr ""
 
 #: ../../source/mysqltool.rst:38
-# 0d7005e0aa574d85865c5463fdd11948
+# d414b75e0c124b3e8cfdafca69a75d73
 msgid "If the user wish to proceed the installation process they can input as Y."
 msgstr ""
 
 #: ../../source/mysqltool.rst:43
-# 2591afa687e14dfc9b848fa5c3232c1d
+# 9c45740e0d9b456b941f5a2b4da3da5c
 msgid "In the place of Mysql Tools these alternative names can be used:MysqlTools,mysql-tools,"
 msgstr ""
 
 #: ../../source/mysqltool.rst:43
-# fb30f05479f0499da91fd569ebfee29b
+# f3f71a0d82d24b29816207e5e45e1454
 msgid "N(YES)"
 msgstr ""
 
 #: ../../source/mysqltool.rst:43
-# 699ccc43242a46dc94652ad13bef3d4e
+# 0f9a64854fa24212a69511c5c4a9e7ef
 msgid "If the user wish to proceed the installation process they can input as N.|"
 msgstr ""
 
 #: ../../source/mysqltool.rst:58
-# 272766f8614a47b0ac751aae0a4f7d62
+# 78f3d57b99e042a4b0102e3de7124177
 msgid "If the user proceed installing the mysql tools the following operations are performed while installing"
 msgstr ""
 
 #: ../../source/mysqltool.rst:59
-# cb839f6d501c433688a80ae85420c843
+# ebb33c97c14648e6909b9a72000eea41
 msgid "It reads the package lists."
 msgstr ""
 
 #: ../../source/mysqltool.rst:60
-# fb7a79c49e234e84a7da5ef15a5dee1d
+# 88b447699576483eaa176c7d78dd6bbb
 msgid "Builds the dependency tree."
 msgstr ""
 
 #: ../../source/mysqltool.rst:61
-# abb37263d21148d9a2b8f1490afed643
+# 62b93a92087f4bacb592922d608987b0
 msgid "Reads the state information."
 msgstr ""
 
 #: ../../source/mysqltool.rst:62
-# 1f589b7a9df840c8ae7c681236817b72
+# cec43cac5c284bcfbba3235e3a7ff88a
 msgid "Installs the extra packages that are required."
 msgstr ""
 
 #: ../../source/mysqltool.rst:63
-# d127b52716764eeaa310e49c2d00cc48
+# 8f7b35fe3a28413ea1367c938b96f393
 msgid "Installs the suggested packages."
 msgstr ""
 
 #: ../../source/mysqltool.rst:64
-# 0b923cffe62f4fddb1efb846bfc517cd
+# 79f43fe028d04636b6d6da3a5bbd76d5
 msgid "Installs the new packages."
 msgstr ""
 
 #: ../../source/mysqltool.rst:65
-# c05a1e28f9614303916dc8e7d116ecdb
+# 8864fd9455b24dabbcd66f495e8744a6
 msgid "Displays the number of files that are upgraded, newly installed, removed, and not upgraded."
 msgstr ""
 
 #: ../../source/mysqltool.rst:67
-# 7237abf3a42f4d3a844d4e5abccfc209
+# 03b39114412d47debf14890de5b7fe69
 msgid "The Screen shot as shown below gives you an graphical presentation regarding the steps as explained above."
 msgstr ""
 
 #: ../../source/mysqltool.rst:69
-# 065ee1dc221a4880882f4decebef49a1
+# 01c084f8fead49889fc8989676810591
 msgid "It will also specifies the name of tools that are installed, for example .. rubric:: mysql-server-core-5.5:amd64, mysql-server-5.5: amd64, libaio1:amd64, mysql-server:amd64."
 msgstr ""
 
 #: ../../source/mysqltool.rst:73
-# 40681a87d9b64080b4dfe745aae322b6
+# 8ee800df92d04f98a8a05969efca3b7d
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/mysqltool.rst:75
-# 1382fec31d9a405cb311a9274baf1742
+# 8b62d823c05d4625899064d0bb1927f6
 msgid "The user can install their required tools that supports mysql server."
 msgstr ""
 
 #: ../../source/mysqltool.rst:76
-# fb90972c4099460fa85a8387f43346b4
+# a565664b0d804850b8a3b822fd22ac4a
 msgid "It also facilitates in installing the MySQL Workbench GUI and as well as mytop Command Line Tool."
 msgstr ""
 
 #: ../../source/mysqltool.rst:77
-# 3ddaca0a2a184d928a5028253bfdea23
+# 1567146476b5409fb236e86a5265a649
 msgid "After completion of installation, it will displays the tools lists that are newly installed."
 msgstr ""
 

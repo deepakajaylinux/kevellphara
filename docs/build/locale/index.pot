@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 12:00+0530\n"
+"POT-Creation-Date: 2015-02-01 14:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,47 +17,47 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/index.rst:2
-# 27055dcb27004e34adf060ec88a87e32
+# bd0ee0f37b6a4f70a8bebfef2c05b820
 msgid "Praohtools Documentation"
 msgstr ""
 
 #: ../../source/index.rst:5
-# f155171882534c5292bffa566a793b73
+# 1341dc416f884269841bdefcd67ad769
 msgid "About pharaohtools"
 msgstr ""
 
 #: ../../source/index.rst:7
-# 00346b8abdf246198e33b6dbab7d00d2
+# 1bf441feeff74d60b1db0415eafe8362
 msgid "Welcome to the pharaohtools documentation!"
 msgstr ""
 
 #: ../../source/index.rst:9
-# 99f2c00b81c643b596ddcde9471732b4
+# d3289a397ac24be8aaa625ae68391f9e
 msgid "The Pharaohs has its own benefit while comparing to other tools as it is user friendly. In this tool the coding and the entire process depends and based php. As the pharaoh tool is framed as per php, it is easier to re-write the codes if required. Its modules functionality provides support to Mac, Linux or Unix, and also for the windows. It is a known as a shorter route which is less time-consuming, limits the use of manpower, reduces the necessity of input from users while installation. No need to download separately the templates and plug-ins that are used to support the software's as everything gets covers under a single root. It is extensible, as if any extra module is required the user can frame and design the module as per their requirements and they can include. It is also simpler to rewrite the coding as required. By installing a single application Cleopatra entire modules under the pharaoh tool get enveloped."
 msgstr ""
 
 #: ../../source/index.rst:12
-# 921f1d5653ae46e99a1ac7a9a1a715e4
+# 12814ee3720546a38f3d80f70cc19669
 msgid "Commands"
 msgstr ""
 
 #: ../../source/index.rst:23
-# b22316193ada448d8a5e5525c345d67f
+# 9b3942fc7c624d90b2e94d7fc4d2fb20
 msgid "Indices and tables"
 msgstr ""
 
 #: ../../source/index.rst:25
-# 320426448270431c8b4da7a254480a2e
+# a3633d4539404ffa85548c167a320bb0
 msgid ":ref:`genindex`"
 msgstr ""
 
 #: ../../source/index.rst:26
-# 531aceba57dc47c1b30d8694247d823f
+# 2cfde0d97d6f48c2a47124e3347d1545
 msgid ":ref:`modindex`"
 msgstr ""
 
 #: ../../source/index.rst:27
-# b98320877b5442688d806f36443d4ada
+# 3b9a4b999d1f4bf9944daee8154619ea
 msgid ":ref:`search`"
 msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 12:00+0530\n"
+"POT-Creation-Date: 2015-02-01 14:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,134 +17,134 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/phpdox.rst:3
-# 81c64ab5358d4962b03ceb1e12d8dc83
+# 3d6c1e186a2b44cdbfd2569f79444400
 msgid "PHPDox"
 msgstr ""
 
 #: ../../source/phpdox.rst:6
-# b0e62ad142c148cf8687d67923eef3b8
+# a411d21b302b453aa23e7f565ee3ee86
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/phpdox.rst:8
-# f9a65a0a7c224f92ae247108f65598f7
+# 532af47420de481b952a9fd14bf1fea8
 msgid "This module facilitates the users in installing the Php Dox with the latest version. phpdox is a documentation generator for generating API documentation in HTML format, for instance, from PHP source code. Let us see how this module, assists in installing the Php Dox."
 msgstr ""
 
 #: ../../source/phpdox.rst:11
-# 8aebffa65abb4d9a90eb9da9709d7801
+# 7a2f03ef02794cdb966623a99c19f0b9
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/phpdox.rst:13
-# e48d9cb221264ce196e3c259da0a7c3d
+# e5c499690eb14440922b0e65fb651136
 msgid "The help command guides the users regarding the purpose and as well as about the options that are included in the Phpdox module. It lists out the alternative parameters of Phpdox module. It also describes the syntax for installing the Phpdox module. The help command for Phpdox module is shown as below."
 msgstr ""
 
 #: ../../source/phpdox.rst:19
-# 97ca17d796f84e5ca10c02a9905baf95
+# 69f8a8cbe71a40f6aefff3fe89797a88
 msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under Phpdox."
 msgstr ""
 
 #: ../../source/phpdox.rst:41
-# 9314086c312547e782eb0b8de46c6bf5
+# 1f56feffba7949c297521c8804b8240f
 msgid "Installation"
 msgstr ""
 
 #: ../../source/phpdox.rst:43
-# 9c03da0ee4fb4334a6581b69a4f0dac5
+# b97c6e44c3244d58882a2c83bfabbae4
 msgid "The command used for installing the phpdox in the users machine is shown below:"
 msgstr ""
 
 #: ../../source/phpdox.rst:49
-# ab79dda3af684ae699c884b5a5987102
+# bd5754d256804f4e9745a9c21a96d1a1
 msgid "After inputting the command above, the following process occurs as shown in the tabular format."
 msgstr ""
 
 #: ../../source/phpdox.rst:55
-# 35e2fea73f4d441aba993aa837f13f05
+# 063663a13b254425a48f27073a26d0c9
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/phpdox.rst:55
-# 9c7e759b31294dc5b89944460d7b1eeb
+# 78c9d92623dc4e2791c548922e1f327c
 msgid "Alternative Parameter"
 msgstr ""
 
 #: ../../source/phpdox.rst:55
-# 7d79de6614754b36b772b70376b76678
+# ca7e34ca2a0d49b290eb10e7013b7a97
 msgid "Options"
 msgstr ""
 
 #: ../../source/phpdox.rst:55
-# 551219e5b91c4530a90e771dafd8fab6
+# c8fb87ecd1ed4beaab80027ab8ac7b27
 msgid "Comments"
 msgstr ""
 
 #: ../../source/phpdox.rst:57
 #: ../../source/phpdox.rst:60
-# bef03d34ed47451cbbe6373471987f2b
-# 37908f2848b140e68d8b7437a3ac9e4f
+# 794d382afff64af0af3a05f36e2a666d
+# 0aaf104c85624ab09e3da5f3808d9079
 msgid "Install PHPDox? (Y/N)"
 msgstr ""
 
 #: ../../source/phpdox.rst:57
-# 8713bae565bd49fc8e54fd79f7df0d16
+# 22ac6e598e80447ab9c29cd77067855d
 msgid "Instead of phpdox, we can use PHPDox also."
 msgstr ""
 
 #: ../../source/phpdox.rst:57
-# bbdbbf5b081e4419b9091cbd5f26702a
+# 613b59b5495e4d50b4135884da1ab377
 msgid "Y(Yes)"
 msgstr ""
 
 #: ../../source/phpdox.rst:57
-# 7b60df39ad744c4eacffd8acec431424
+# 3f0a2d497fe44acb97d8efd55113723a
 msgid "If the user wish to proceed the installation process they can input as Y."
 msgstr ""
 
 #: ../../source/phpdox.rst:60
-# 4161c44be09e43feb375c85e33999898
+# 043740a8fccc444eb04f2ac2e0b417dc
 msgid "Instead of phpdox, we can use PHPDox also"
 msgstr ""
 
 #: ../../source/phpdox.rst:60
-# ac1be75259924e949ae84a528e6072ff
+# 488a60ae08564e2bbcc8790ed04ea07e
 msgid "N(No)"
 msgstr ""
 
 #: ../../source/phpdox.rst:60
-# 03342d5c51664bb5aac54e656b3345ab
+# 0a9d9c6763054d359a718030b9b00d25
 msgid "If the user wish to quit the installation process they can input as N.|"
 msgstr ""
 
 #: ../../source/phpdox.rst:67
-# e4543eddc6e34d6aa55e9a48a1ec9686
+# 056a3149afdb4c2e83bf0ef59121bed3
 msgid "If the user proceeds the installation, the process of installation looks like the screenshot given below:"
 msgstr ""
 
 #: ../../source/phpdox.rst:139
-# ab3dd40f20a1464d82b5f739ea4499cb
+# 6e512a7d82dd4ebf971cd90e23329f12
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/phpdox.rst:141
-# 6d97f63bf1e44ecd8cc33184d5c5f8cf
+# 05c7a5141ee44a8cbb50bc801204b9f1
 msgid "The parameters used in help and installation are not case sensitive which is an added advantage while compared to others."
 msgstr ""
 
 #: ../../source/phpdox.rst:142
-# 65e4e183b511439a9f7c52ff4f636572
+# 54ca796c1ac245f2b38a58328b636e25
 msgid "It is well-to-do in both Ubuntu and as well as Cent OS."
 msgstr ""
 
 #: ../../source/phpdox.rst:143
-# 53bd24493ae44fbba2624ee2e8fa4418
+# 517486d10b6c419f97f04476a69ca0ad
 msgid "This will module installs the phpdox in updated version."
 msgstr ""
 
 #: ../../source/phpdox.rst:144
-# a5ae3a92824a43239dc3d83f9555d71d
+# 71d138ab82fe4fcc9a506d2a645a7f9b
 msgid "If the module is already existing in the user machine it will display a message as it is already existing."
 msgstr ""
 

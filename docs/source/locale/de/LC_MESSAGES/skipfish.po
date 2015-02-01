@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"POT-Creation-Date: 2015-01-31 11:09+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,15 +11,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../skipfish.rst:3
+#: ../../source/skipfish.rst:3
 msgid "Skipfish"
 msgstr ""
 
-#: ../../skipfish.rst:7
+#: ../../source/skipfish.rst:7
 msgid "Synopsis"
 msgstr ""
 
-#: ../../skipfish.rst:9
+#: ../../source/skipfish.rst:9
 msgid ""
 "skipfish module used to install skipfish. Skipfish is an active web "
 "application security reconnaissance tool. It prepares an interactive sitemap"
@@ -30,11 +30,11 @@ msgid ""
 "assessments. This module strengthen with Ubuntu and cent OS."
 msgstr ""
 
-#: ../../skipfish.rst:12
+#: ../../source/skipfish.rst:12
 msgid "Help command"
 msgstr ""
 
-#: ../../skipfish.rst:14
+#: ../../source/skipfish.rst:14
 msgid ""
 "The help command guides the users regarding the purpose and as well as about"
 " the options that are included in the Skipfish module. It lists out the "
@@ -43,104 +43,104 @@ msgid ""
 "shown as below."
 msgstr ""
 
-#: ../../skipfish.rst:20
+#: ../../source/skipfish.rst:20
 msgid ""
 "The syntax for declaring the help command is not case sensitive which is an "
 "added advantage. The following screenshot visualize you about the help "
 "command under Skipfish."
 msgstr ""
 
-#: ../../skipfish.rst:44
+#: ../../source/skipfish.rst:44
 msgid "Installation"
 msgstr ""
 
-#: ../../skipfish.rst:46
+#: ../../source/skipfish.rst:46
 msgid ""
 "This command authorize to install skipfish with interactive site map . When "
 "the user want to install skipfish the following command guides  the user to "
 "install."
 msgstr ""
 
-#: ../../skipfish.rst:52
+#: ../../source/skipfish.rst:52
 msgid ""
 "after typing this command the system asks users wish. The other process "
 "explains the installation through the screenshot."
 msgstr ""
 
-#: ../../skipfish.rst:98
+#: ../../source/skipfish.rst:98
 msgid "Option"
 msgstr ""
 
-#: ../../skipfish.rst:103
+#: ../../source/skipfish.rst:103
 msgid "Parameters"
 msgstr ""
 
-#: ../../skipfish.rst:103
+#: ../../source/skipfish.rst:103
 msgid "Alternative Parameters"
 msgstr ""
 
-#: ../../skipfish.rst:103
+#: ../../source/skipfish.rst:103
 msgid "Options"
 msgstr ""
 
-#: ../../skipfish.rst:103
+#: ../../source/skipfish.rst:103
 msgid "Comments"
 msgstr ""
 
-#: ../../skipfish.rst:105 ../../skipfish.rst:109
+#: ../../source/skipfish.rst:105 ../../source/skipfish.rst:109
 msgid "Install Skipfish ? (Y/N)"
 msgstr ""
 
-#: ../../skipfish.rst:105 ../../skipfish.rst:109
+#: ../../source/skipfish.rst:105 ../../source/skipfish.rst:109
 msgid "Instead of Skipfish we can use skipfish"
 msgstr ""
 
-#: ../../skipfish.rst:105
+#: ../../source/skipfish.rst:105
 msgid "Y(Yes)"
 msgstr ""
 
-#: ../../skipfish.rst:105
+#: ../../source/skipfish.rst:105
 msgid ""
 "If the user wish to proceed the installation process they can input as Y."
 msgstr ""
 
-#: ../../skipfish.rst:109
+#: ../../source/skipfish.rst:109
 msgid "N(No)"
 msgstr ""
 
-#: ../../skipfish.rst:109
+#: ../../source/skipfish.rst:109
 msgid ""
 "If the user wish to quit the installation process they can input as N.|"
 msgstr ""
 
-#: ../../skipfish.rst:116
+#: ../../source/skipfish.rst:116
 msgid "Benefits"
 msgstr ""
 
-#: ../../skipfish.rst:118
+#: ../../source/skipfish.rst:118
 msgid "skipfish is highly adaptive and reliable."
 msgstr ""
 
-#: ../../skipfish.rst:119
+#: ../../source/skipfish.rst:119
 msgid "Well-designed security checks."
 msgstr ""
 
-#: ../../skipfish.rst:120
+#: ../../source/skipfish.rst:120
 msgid "Graceful handling of multi-framework sites"
 msgstr ""
 
-#: ../../skipfish.rst:121
+#: ../../source/skipfish.rst:121
 msgid "Automatic updated version installation"
 msgstr ""
 
-#: ../../skipfish.rst:122
+#: ../../source/skipfish.rst:122
 msgid "High speed accessible."
 msgstr ""
 
-#: ../../skipfish.rst:123
+#: ../../source/skipfish.rst:123
 msgid "Non case sensitivity."
 msgstr ""
 
-#: ../../skipfish.rst:124
+#: ../../source/skipfish.rst:124
 msgid "well to do in  Ubuntu and Cent OS."
 msgstr ""

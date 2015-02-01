@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 12:00+0530\n"
+"POT-Creation-Date: 2015-02-01 14:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,250 +17,250 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/sftp.rst:3
-# 1118ad5be2bb431d862dc505a0c09471
+# 2749012efb90435e931fbcd43258d168
 msgid "SFTP"
 msgstr ""
 
 #: ../../source/sftp.rst:7
-# 36ab4562e6a6427eab52db06b4c69502
+# 459eba3473104a6189c1d8a2ac90a693
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/sftp.rst:9
-# b576ee9603614efd970c9cb375bd1d45
+# efebbaa7c227421cbc0b54ce2344d467
 msgid "This module assist in transferring files from one system to another. It can upload or download the files to the system. Automation is possible. Put and get options are available in this module. It also manages virtual box. It is user friendly with Ubuntu and cent OS."
 msgstr ""
 
 #: ../../source/sftp.rst:12
-# ce8b10abf56743d6829b7d2589c626e5
+# 7f93b1ff390f4d7ba4a2ba0487976036
 msgid "Help command"
 msgstr ""
 
 #: ../../source/sftp.rst:14
-# e2d0f05689bd441ba5230f2744322e85
+# 1b18ab93721b4fd49424a460f712add0
 msgid "Help command used to find information about a specified command. For more information about changes to functionality of Secure File Transfer Protocol(SFTP) under phlagrant the user can use this help command."
 msgstr ""
 
 #: ../../source/sftp.rst:21
-# a0a0e39d1d01414abcf2fe8b4a653dbd
+# 984e00657c744e4fb193cc7c340fd277
 msgid "The following screen shot guides you."
 msgstr ""
 
 #: ../../source/sftp.rst:54
-# fa1be05148684ec0918fb94f3717107a
+# dd2fba88704f4e0fa48edb3ccd1c332b
 msgid "Alternative parameters"
 msgstr ""
 
 #: ../../source/sftp.rst:56
-# c83ecb31b1194c4d8f96eaa79f349f7f
+# f5c5d43b7b2d423086af0ec6f6e28a3a
 msgid "There are two alternative parameters are available. They are SFTP and sftp. Instead of using sftp, the user can use SFTP."
 msgstr ""
 
 #: ../../source/sftp.rst:60
-# db3d5af74fc441a3a0d379370bb88d9a
+# 9a8567d82fd44a408ba597a9a4e53fbc
 msgid "Put"
 msgstr ""
 
 #: ../../source/sftp.rst:62
-# ebeb29ef8c3843e2b598d7fb5ddfc151
+# a88ff9f56ae04186ac6acf912540eb9c
 msgid "The file transfer can be done from local to remote server. This put option asks the user datails for servers. The following command used for put option."
 msgstr ""
 
 #: ../../source/sftp.rst:69
-# 2e1caf808d724a9091c9fc6c3b34c2fb
+# c718210f107f41e5b2de512839fad485
 msgid "The following screen shot denotes the usage of this command."
 msgstr ""
 
 #: ../../source/sftp.rst:99
 #: ../../source/sftp.rst:166
-# a930fa3dc6ff4675962a436f955d41e5
-# 211688bd6815490aaf320693ce0f2792
+# d227b0e348b04712a9bbbb2472de1ced
+# d5586a2e1d3a4c918126f0e25895dedb
 msgid "SFTP on server group? Y/N"
 msgstr ""
 
 #: ../../source/sftp.rst:101
 #: ../../source/sftp.rst:168
-# 473cb43e69084901beef5b8e7606c766
-# ee91cf7fe3f349ceb8a1bffff205b42a
+# 63ec1f5ccbe249deacd95021e9e9d588
+# 71051e802e28462f96e30e83b36b3535
 msgid "If the user input as Y then"
 msgstr ""
 
 #: ../../source/sftp.rst:103
 #: ../../source/sftp.rst:170
-# b79c1c3dc53a4a4783c4b12176cda2c0
-# fcd8f3ac769142d9b81f5ae1c4b58c11
+# d91b868831584bee8c9019e535c436cf
+# 04752b8355ed447e969350eda6e93be7
 msgid "SSh timeout section?"
 msgstr ""
 
 #: ../../source/sftp.rst:105
 #: ../../source/sftp.rst:172
-# 32b333022a4b4607ba5a88570c722d57
-# 1515b6d2cdeb42568d1673d66c743e4c
+# ffa4f1ba8c9c499c9defd9ad1355af82
+# 00cb0d443e04480b89946103e3f93a81
 msgid "The user has to enter the value"
 msgstr ""
 
 #: ../../source/sftp.rst:107
 #: ../../source/sftp.rst:174
-# 550e85d5ef2b4411bfa2e03b7392ec94
-# d3d0e1da4e5e492db03fff6f30eb3824
+# 0fc52cc79dbf438eb04d4e35efc68afb
+# c1ec70e947004875b66fdcdb43e5fbba
 msgid "Please enter remote ssh port"
 msgstr ""
 
 #: ../../source/sftp.rst:109
 #: ../../source/sftp.rst:176
-# 0712cb30ba774188b514c00b87fefdd7
-# 2235d3c1a1b74f05a6ee6ac2a3feb395
+# b77e992037a6460e879daf4b471ecde0
+# 8f3df96f37b54b71b7533620d13d2bd6
 msgid "Default value is 22. The user can enter any value"
 msgstr ""
 
 #: ../../source/sftp.rst:111
 #: ../../source/sftp.rst:178
-# 815b50acbbd143379b085caace1a2ef3
-# 20dd80cd4e314b8dbfc29eddcea398c9
+# 4ac8ec0d98ac4966b21fc02e21420b1e
+# a90f827c3a0044d1ba95668f3d7e863d
 msgid "Enter environments configured in project? (Y/N)"
 msgstr ""
 
 #: ../../source/sftp.rst:113
 #: ../../source/sftp.rst:180
-# b43bcaa3846e4ef281ca0d32c14b6afa
-# b5f51dbedfd142b8ab6f528510ac1896
+# 4d0bd86046164d16beaf45f8602cf463
+# cac5f6b2aa0a4861834a7fa9d0df272c
 msgid "The user has to enter y then it starts loading."
 msgstr ""
 
 #: ../../source/sftp.rst:115
-# 112b3e604c45437a9b2dc13b5ae015bb
+# 23bb469cb72d48ef9c9240e3f10e33c2
 msgid "Enter local source file path?"
 msgstr ""
 
 #: ../../source/sftp.rst:117
-# a4fa2d29028c4061b1d40c6024b9b351
+# 68cb8a7967d5433797aa604333f31b26
 msgid "The user  has to enter the file path"
 msgstr ""
 
 #: ../../source/sftp.rst:119
 #: ../../source/sftp.rst:186
-# 8a96928f92244f098ef9d274f07e29a7
-# 062161b12af644afb3442345a9182219
+# 79994e2b6caf4daba4bbdf0626be190e
+# 0dbfa148138e4903aa9f625708a22de3
 msgid "Then everything will be connected."
 msgstr ""
 
 #: ../../source/sftp.rst:121
-# 622eb8aa3dda4dc6886cb213eaaaf28b
+# 3bb62bb8b0b4443b943f061b99b252c2
 msgid "If the user input as N, it can be terminated."
 msgstr ""
 
 #: ../../source/sftp.rst:126
-# 6500ea4dce934d64a56b1ee7d08915a0
+# 2081e32537ec40f3804eabab5efc3ebb
 msgid "Get"
 msgstr ""
 
 #: ../../source/sftp.rst:128
-# e29a50b356da4bcf937ed22e86c9a4e3
+# 2b20c756e4c14b08a2c2c1625bef0e98
 msgid "File transfer can be done from remote to local server. It asks the user to enter server group. The following command used for get option."
 msgstr ""
 
 #: ../../source/sftp.rst:134
-# 1016adb4e92f4809bd6375f71f8d0d69
+# d1fb5b3f27cc482b876021d4823220c9
 msgid "The following screen shot explains it."
 msgstr ""
 
 #: ../../source/sftp.rst:182
-# e7fa03cad9b14c18a377d762a95a8246
+# fcdbf76ae3b84115956b61b63966eb4b
 msgid "Enter local target file path?"
 msgstr ""
 
 #: ../../source/sftp.rst:184
-# c839bf5454494cd7b206794e44f7ad10
+# 1cf8b59f6b45408ab0b011f58627dd7e
 msgid "The user has to enter the local target file path"
 msgstr ""
 
 #: ../../source/sftp.rst:188
-# 3518665f550540f999dfe44c7ec1fbc4
+# 18a9dd377e1e4cc2822c7d1f2226488c
 msgid "If the user input as N, it can be terminated. The following screenshots shows its function."
 msgstr ""
 
 #: ../../source/sftp.rst:209
-# 0690b81991234428bbe4d436c159a301
+# c4004fba40b64df3930639831541b908
 msgid "Options"
 msgstr ""
 
 #: ../../source/sftp.rst:214
-# 5733ec66e6a442d3a8be6dd457758ea3
+# e7227401af3a469597b5efd5e14fb27a
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/sftp.rst:214
-# fa2cc0d9b70d4dc1aa1e94f93e1b1944
+# 48a9078d51c446af9cc3d8bd58845cb5
 msgid "Syntax"
 msgstr ""
 
 #: ../../source/sftp.rst:214
-# af2b891358d0469d8f0e6ebaa8c938e3
+# 2a02a192927e41f0b5f9d694f353a162
 msgid "Comments"
 msgstr ""
 
 #: ../../source/sftp.rst:216
-# f3569e0e62ee4817ba272c3177c98845
+# bf6daa3d8f0f49fe92132f532d0746fd
 msgid "put"
 msgstr ""
 
 #: ../../source/sftp.rst:216
-# c397cd60f136466a9e8c887ecec25373
+# abac0326bbdc4fa490ba36e21f7087ac
 msgid "Source to target"
 msgstr ""
 
 #: ../../source/sftp.rst:216
-# 6fbd01843ba1484b886ea7cda6761634
+# 67e42e2562e143338902271559b64d64
 msgid "The file can transferred from source to target."
 msgstr ""
 
 #: ../../source/sftp.rst:218
-# 1ab38a14772f4fa1a75d02fba86286ba
+# ec85a3a7431246259a5b7f16a9ee621f
 msgid "get"
 msgstr ""
 
 #: ../../source/sftp.rst:218
-# face540a8cae480b88987bd9c46c24fb
+# 996b3c5133ba489f80f35565d2511312
 msgid "Path to source"
 msgstr ""
 
 #: ../../source/sftp.rst:218
-# f416e757f3b648aeb0409e270f2ac0b4
+# e280d30b94f44057a5dba0a6d2d7f89f
 msgid "The file can be downloaded from remote system.|"
 msgstr ""
 
 #: ../../source/sftp.rst:225
-# bc0458686147438d98f48b71ff4400d1
+# 0ca7910a27214a61b3b3622483c51171
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/sftp.rst:227
-# cc10888882d74cf58ffefc9367163ab3
+# 22c215a61f194c6fa917d34566bc70ad
 msgid "Multi server from remote area."
 msgstr ""
 
 #: ../../source/sftp.rst:228
-# f90a0d7647f1426e9373d918c41ce5dd
+# 583712f5e3a948c28c37284577f369f4
 msgid "Specified file is not available error message will come."
 msgstr ""
 
 #: ../../source/sftp.rst:229
-# b09e755077604e5295d98098c32f746c
+# 9f5626e8fa614b8e90a2312484f3a3ec
 msgid "Accessability is difficult without permission."
 msgstr ""
 
 #: ../../source/sftp.rst:230
-# 5efdb704c6a94650b1c44f4a2ba4fa21
+# 0c48490b37874b7ab5c94ca8fbd9da06
 msgid "Automatically overwrite in case of already in case of file exist."
 msgstr ""
 
 #: ../../source/sftp.rst:231
-# 732949ad3b1345e698131aede2131ba4
+# 1b7d25588d5448959429604647280b56
 msgid "Non case sensitive."
 msgstr ""
 
 #: ../../source/sftp.rst:232
-# bc01f303459e4eb9b75a86508a5984fd
+# ac2581af46594734beba8aa26acd354c
 msgid "Secrecy and security is possible."
 msgstr ""
 

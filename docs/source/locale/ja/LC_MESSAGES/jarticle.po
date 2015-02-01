@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"POT-Creation-Date: 2015-01-31 11:09+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,22 +11,22 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../jarticle.rst:3
+#: ../../source/jarticle.rst:3
 msgid "JArticle"
 msgstr ""
 
-#: ../../jarticle.rst:6
+#: ../../source/jarticle.rst:6
 msgid "Synopsis"
 msgstr ""
 
-#: ../../jarticle.rst:8
+#: ../../source/jarticle.rst:8
 msgid ""
 "It manages jarticle's details. This allows you to use an Article as a "
 "Module. Joomla provides an extremely wide range of options for creating "
 "different types of content and for structuring it on your website."
 msgstr ""
 
-#: ../../jarticle.rst:10
+#: ../../source/jarticle.rst:10
 msgid ""
 "In Joomla, an Article is a piece of content consisting of text, possibly "
 "with links to other resources (for example, images). Articles are the basic "
@@ -37,11 +37,11 @@ msgid ""
 "any Category."
 msgstr ""
 
-#: ../../jarticle.rst:14
+#: ../../source/jarticle.rst:14
 msgid "Help Command"
 msgstr ""
 
-#: ../../jarticle.rst:16
+#: ../../source/jarticle.rst:16
 msgid ""
 "This command helps to determine the usage of jarticle module. The user will "
 "come to know about the different ways/format to execute this module. This "
@@ -49,71 +49,71 @@ msgid ""
 " are the command and the screen shot of the same."
 msgstr ""
 
-#: ../../jarticle.rst:54
+#: ../../source/jarticle.rst:54
 msgid "Enable"
 msgstr ""
 
-#: ../../jarticle.rst:56
+#: ../../source/jarticle.rst:56
 msgid ""
 "When the user needs to enable a particular article, the below given command "
 "will execute the process of installation."
 msgstr ""
 
-#: ../../jarticle.rst:63
+#: ../../source/jarticle.rst:63
 msgid "Info"
 msgstr ""
 
-#: ../../jarticle.rst:65
+#: ../../source/jarticle.rst:65
 msgid ""
 "If the user needs to know about the information of an article. The below "
 "given command will help you"
 msgstr ""
 
-#: ../../jarticle.rst:72
+#: ../../source/jarticle.rst:72
 msgid "The pictorial representation of the above command is listed below,"
 msgstr ""
 
-#: ../../jarticle.rst:99
+#: ../../source/jarticle.rst:99
 msgid "Disable"
 msgstr ""
 
-#: ../../jarticle.rst:101
+#: ../../source/jarticle.rst:101
 msgid ""
 "When the user needs to disable a particular article, the below given command"
 " will execute the process of installation."
 msgstr ""
 
-#: ../../jarticle.rst:108
+#: ../../source/jarticle.rst:108
 msgid "Alternative Parameter"
 msgstr ""
 
-#: ../../jarticle.rst:110
+#: ../../source/jarticle.rst:110
 msgid ""
 "Either of the two alternative parameter can be used in command-  jarticle, "
 "JArticle"
 msgstr ""
 
-#: ../../jarticle.rst:112
+#: ../../source/jarticle.rst:112
 msgid "eg:  jrush jarticle disable/ jrush JArticle disable"
 msgstr ""
 
-#: ../../jarticle.rst:118
+#: ../../source/jarticle.rst:118
 msgid "Benefits"
 msgstr ""
 
-#: ../../jarticle.rst:119
+#: ../../source/jarticle.rst:119
 msgid "Provide an optional method for organizing your articles"
 msgstr ""
 
-#: ../../jarticle.rst:120
+#: ../../source/jarticle.rst:120
 msgid ""
 "It contains some text and can contain pictures and other types of content"
 msgstr ""
 
-#: ../../jarticle.rst:121
+#: ../../source/jarticle.rst:121
 msgid "Helps to get the information about an article in easy way"
 msgstr ""
 
-#: ../../jarticle.rst:122
+#: ../../source/jarticle.rst:122
 msgid "Can enable and disable an article in one step"
 msgstr ""

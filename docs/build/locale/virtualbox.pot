@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 12:00+0530\n"
+"POT-Creation-Date: 2015-02-01 14:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,121 +17,121 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/virtualbox.rst:3
-# bbfb45e621bd4657ba320b5e45ce9912
+# 06312e80b5f14bc597e374112a8f2e1e
 msgid "Virtual box"
 msgstr ""
 
 #: ../../source/virtualbox.rst:6
-# 95113023ddc44b789f295003b7f8a2d1
+# ff4c58ee8aa14c1684254f9f1e325a47
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/virtualbox.rst:8
-# 330a4ba38fdb45cfa5d7e224caa96416
+# 4b75e999e3ff4317b714c0da613b4de3
 msgid "This module encourage installation of voice. In case of phlagrant module fully managed by virtual box.  It is user friendly with Ubuntu and cent OS.  The Virtual Box package installs on an existing host operating system as an application. Users of Virtual Box can load multiple guest OSs under a single host operating-system. Virtual Box has supported Open Virtualization Format (OVF).This is comfortable with Ubuntu and Cent OS."
 msgstr ""
 
 #: ../../source/virtualbox.rst:11
-# 2ccf2d05ac4044928168e8e5dbe735e2
+# 0c1651d4ceab4896a7fa722d4740adcd
 msgid "Help command"
 msgstr ""
 
 #: ../../source/virtualbox.rst:13
-# 81bbb3df8ac049599fabaea0e9f01233
+# b2262d4c64244b09ad8af5aa6fc96271
 msgid "The help command guide the user to install virtual box. The following screen shot shows about installation of virtual box."
 msgstr ""
 
 #: ../../source/virtualbox.rst:34
-# 1b872f814c6445d98facaef794c55c16
+# 96a3425326bb4fc2a8464f18b6d29e08
 msgid "Installation"
 msgstr ""
 
 #: ../../source/virtualbox.rst:36
-# 69af568a363642618bf281ad75d5c98f
+# a2a1378f5621419ea4f16aebbc06a0da
 msgid "This module instruct the user to install. To activate virtual box follow the command as,"
 msgstr ""
 
 #: ../../source/virtualbox.rst:42
-# fc0044b7c43a4e4d9224813b65de03c4
+# 8d90c3ff738540f59150c125b770ede0
 msgid "Then the system can enquire cleopatra virtual box install? (Y/N) If the user enters Y then it will be installed, else it will exit the screen."
 msgstr ""
 
 #: ../../source/virtualbox.rst:212
-# 9bf2383c0db04275a4e1d43ee3706a85
+# 1df4d4981dae4dd29a72746becb683c7
 msgid "Options"
 msgstr ""
 
 #: ../../source/virtualbox.rst:217
-# e7598dbab11f4481bc29b2cb136fe287
+# 0a4cfdc38a8d49f0b4900e39f6c29f04
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/virtualbox.rst:217
-# 95e82a738fc24f8d8625cc94dea2ff8a
+# b42faf4065b9485889260141f6199cc8
 msgid "Syntax"
 msgstr ""
 
 #: ../../source/virtualbox.rst:217
-# c8c2b0dfaf184a679d8cb859208ed789
+# d9173a4c22824919a9834923cd203154
 msgid "Option"
 msgstr ""
 
 #: ../../source/virtualbox.rst:217
-# f54b1238219d4597862b041912ef509f
+# 45a984967f264234a428d4799302ba35
 msgid "Comments"
 msgstr ""
 
 #: ../../source/virtualbox.rst:219
-# cc81c842dea34aa9a9213eed502738e5
+# 75acc952dc5e4b0f832b5253fbcfd050
 msgid "Install Virtual box"
 msgstr ""
 
 #: ../../source/virtualbox.rst:219
-# 4cd63ea62293413eb144ed896abc9fd4
+# 8027155371164715b46bf1b72dabf267
 msgid "Yes"
 msgstr ""
 
 #: ../../source/virtualbox.rst:219
 #: ../../source/virtualbox.rst:221
-# fbcb93e804aa4f6d8a47db997021a23a
-# 246d656bfdf041dcae3011bad84f66c3
+# 1c8046f92fc04fb1a241e35ed7b8b2b6
+# 8c4a79c6d14a4c2d8a76c79a391db590
 msgid "Virtualbox"
 msgstr ""
 
 #: ../../source/virtualbox.rst:219
 #: ../../source/virtualbox.rst:221
-# e91a8ec2dd3642288c411b66886af108
-# 05e3a673f7a24900bf1d11b61c76f101
+# 75003dc40ecf4196b76ebf9cb9eae37c
+# aac604b2b71449b6a15bc8aab0bbdfab
 msgid "Installed successfully"
 msgstr ""
 
 #: ../../source/virtualbox.rst:223
-# a4eb144b21f548dbab94254fb07dc11e
+# 2695535010ae48c783075c3635f02ecf
 msgid "No"
 msgstr ""
 
 #: ../../source/virtualbox.rst:223
-# 059fb72431114740b41901d3bd1b52ec
+# 7582fb10e6d346c4b678e9e4f1517772
 msgid "Exit the screen|"
 msgstr ""
 
 #: ../../source/virtualbox.rst:230
-# 58d232b6a3bb4ace8b3ebe3c84204fc9
+# 8c14ba5015fc4f16ace16663018b55b4
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/virtualbox.rst:232
-# f203c392ba514ae38cbf671d53a11268
+# c8e3717acb044729b0c2cc10a052004a
 msgid "Voice can be installed via this module."
 msgstr ""
 
 #: ../../source/virtualbox.rst:233
-# 84dfa1c655d24cd395fda2b452f0ff4d
+# e2ff5b79e2a245489d559cf7c21abf0f
 msgid "Both ISO images and host-connected physical devices can be mounted as CD/DVD drives."
 msgstr ""
 
 #: ../../source/virtualbox.rst:234
-# feeff74d631545989f171e1924847b95
+# 7112f0c1443e47469ec8ddce5e9e9ade
 msgid "The DVD image of a Linux distribution can be downloaded and used directly by VirtualBox."
 msgstr ""
 

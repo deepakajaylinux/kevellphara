@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Process &mdash; KEVELL 0.1 documentation</title>
+    <title>Process &mdash; KEVELL 0.1 Dokumentation</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -25,10 +25,11 @@
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/translations.js"></script>
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
-    <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
+    <link rel="top" title="KEVELL 0.1 Dokumentation" href="index.html" />
     <link rel="up" title="Cleopatra" href="cleopatra.html" />
     <link rel="next" title="Python" href="python.html" />
     <link rel="prev" title="PostgresServer" href="postgresserver.html" />
@@ -104,9 +105,9 @@
           
             
   <li><a href="postgresserver.html"
-         title="previous chapter">&laquo; PostgresServer</a></li>
+         title="vorheriges Kapitel">&laquo; PostgresServer</a></li>
   <li><a href="python.html"
-         title="next chapter">Python &raquo;</a></li>
+         title="nächstes Kapitel">Python &raquo;</a></li>
           
           
           <!--  <li>
@@ -130,13 +131,13 @@
   
   
   <div class="section" id="process">
-<h1>Process<a class="headerlink" href="#process" title="Permalink to this headline">¶</a></h1>
+<h1>Process<a class="headerlink" href="#process" title="Permalink zu dieser Überschrift">¶</a></h1>
 <div class="section" id="synopsis">
-<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
+<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>This module assists the users in handling a required process functions, and also to kill a process. The user can specify the particular process based on their requirements. The user can specify the name of the process, the file or directory either from local or in a remote machine. Let us see, the usage and methodologies involved in it.</p>
 </div>
 <div class="section" id="help-command">
-<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
+<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>The help command serves the users regarding how to handle and to work with process as per their needs. It also lists out the alternative parameters of process. It describes the syntax for killing a process, and also about how to specify killing a process on the basis of their needs. The help command for process module is shown as below.</p>
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra process <span class="nb">help</span>
 </pre></div>
@@ -144,7 +145,7 @@
 <p>The following screenshot as shown below, depicts how to kill a process, and how to define killing a process.</p>
 </div>
 <div class="section" id="how-to-define-and-to-use-the-process">
-<h2>How to define and to use the process<a class="headerlink" href="#how-to-define-and-to-use-the-process" title="Permalink to this headline">¶</a></h2>
+<h2>How to define and to use the process<a class="headerlink" href="#how-to-define-and-to-use-the-process" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>To kill a process the following syntax can be used.</p>
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra process <span class="nb">kill</span>
 </pre></div>
@@ -175,7 +176,7 @@
 <p>The command as above is used to kill a process by specifying its name. The following screenshot depicts the working of killing a process.</p>
 </div>
 <div class="section" id="killing-a-process-using-a-pid">
-<h2>Killing a process using a PID<a class="headerlink" href="#killing-a-process-using-a-pid" title="Permalink to this headline">¶</a></h2>
+<h2>Killing a process using a PID<a class="headerlink" href="#killing-a-process-using-a-pid" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>If the PID # 3486 is assigned to the lighttpd process. To kill the lighttpd server, you need to pass a PID as follows:</p>
 <div class="highlight-bash"><div class="highlight"><pre><span class="c"># kill 3486</span>
 </pre></div>
@@ -187,7 +188,7 @@
 <p>This will terminate a process with a PID of 3486.</p>
 </div>
 <div class="section" id="how-do-i-verify-that-the-process-is-gone-killed">
-<h2>How do I verify that the process is gone / killed?<a class="headerlink" href="#how-do-i-verify-that-the-process-is-gone-killed" title="Permalink to this headline">¶</a></h2>
+<h2>How do I verify that the process is gone / killed?<a class="headerlink" href="#how-do-i-verify-that-the-process-is-gone-killed" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>Use the ps or pidof command:</p>
 <div class="highlight-bash"><div class="highlight"><pre><span class="nv">$ </span>ps aux <span class="p">|</span> grep lighttpd
 <span class="nv">$ </span>pidof lighttpd
@@ -195,7 +196,7 @@
 </div>
 </div>
 <div class="section" id="how-can-i-kill-two-or-more-pids">
-<h2>How can I kill two or more PIDs?<a class="headerlink" href="#how-can-i-kill-two-or-more-pids" title="Permalink to this headline">¶</a></h2>
+<h2>How can I kill two or more PIDs?<a class="headerlink" href="#how-can-i-kill-two-or-more-pids" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>The syntax is as follows to kill two or more PIDs as required can be used in a single command:</p>
 <div class="highlight-bash"><div class="highlight"><pre><span class="nb">kill  </span>pid1 pid2 pid3
 <span class="nb">kill</span> -15  pid1 pid2 pid3
@@ -205,7 +206,7 @@
 </div>
 </div>
 <div class="section" id="say-hello-to-kill-all-command">
-<h2>Say hello to kill all command<a class="headerlink" href="#say-hello-to-kill-all-command" title="Permalink to this headline">¶</a></h2>
+<h2>Say hello to kill all command<a class="headerlink" href="#say-hello-to-kill-all-command" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>This is a Linux only command. to kill processes by name. So no need to find the PIDs using the &#8216;pidof process&#8217; or &#8216;ps aux | grep process&#8217; command. Do not use&nbsp;killall&nbsp;command on Unix operating systems. This is a Linux&nbsp;specific&nbsp;command.</p>
 <p>The syntax is</p>
 <div class="highlight-bash"><div class="highlight"><pre>killall Process-Name-Here
@@ -226,7 +227,7 @@
 <p>As I said earlier, the kill all command on UNIX-like system does something else. It kills all process and not just specific process. Do not use kill all on UNIX system.</p>
 </div>
 <div class="section" id="benefits">
-<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
+<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink zu dieser Überschrift">¶</a></h2>
 <ul class="simple">
 <li>The user can kill a process using different parameters as per their requirements. For example: by using the id, level of the process it can be specified to kill.</li>
 </ul>

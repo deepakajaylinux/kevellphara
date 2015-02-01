@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"POT-Creation-Date: 2015-01-31 11:09+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,15 +11,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../hosteditor.rst:3
+#: ../../source/hosteditor.rst:3
 msgid "Host Editor"
 msgstr ""
 
-#: ../../hosteditor.rst:6
+#: ../../source/hosteditor.rst:6
 msgid "Synopsis"
 msgstr ""
 
-#: ../../hosteditor.rst:8
+#: ../../source/hosteditor.rst:8
 msgid ""
 "This module supports to handle Apache Virtual Host Editor under "
 "dapperstrano. It can function in two ways. They are add and remove. Vhost "
@@ -30,46 +30,46 @@ msgid ""
 "dapperstarano."
 msgstr ""
 
-#: ../../hosteditor.rst:11
+#: ../../source/hosteditor.rst:11
 msgid "Help command"
 msgstr ""
 
-#: ../../hosteditor.rst:13
+#: ../../source/hosteditor.rst:13
 msgid ""
 "This help command guides the user to create a virtual host. This also "
 "displays to add a virtual host, remove a virtual host, Enable a virtual "
 "host, and Disable a virtual host."
 msgstr ""
 
-#: ../../hosteditor.rst:15
+#: ../../source/hosteditor.rst:15
 msgid "The help command for Apachevhosteditor  is shown below."
 msgstr ""
 
-#: ../../hosteditor.rst:21
+#: ../../source/hosteditor.rst:21
 msgid ""
 "After inputs the above command, it starts functioning to add a virtual host "
 "editor. It catechesis the functions in the screenshots."
 msgstr ""
 
-#: ../../hosteditor.rst:89
+#: ../../source/hosteditor.rst:89
 msgid "Alternative parameters"
 msgstr ""
 
-#: ../../hosteditor.rst:91
+#: ../../source/hosteditor.rst:91
 msgid ""
 "The following are the alternative parameters that can be defined in "
 "declarations:"
 msgstr ""
 
-#: ../../hosteditor.rst:93
+#: ../../source/hosteditor.rst:93
 msgid "ApacheVHostEditor, apachevhosteditor, vhosteditor, vhe, vhosted."
 msgstr ""
 
-#: ../../hosteditor.rst:97
+#: ../../source/hosteditor.rst:97
 msgid "Add"
 msgstr ""
 
-#: ../../hosteditor.rst:99
+#: ../../source/hosteditor.rst:99
 msgid ""
 "This facilitates the user to create a virtual host. While adding Virtual "
 "host it can asks vhe-docroot, vhe-file-ext, vhe-apache-command, vhe-ip port"
@@ -77,130 +77,130 @@ msgid ""
 "the according to their wish."
 msgstr ""
 
-#: ../../hosteditor.rst:105
+#: ../../source/hosteditor.rst:105
 msgid ""
 "After input as the above command the user can fill the following process."
 msgstr ""
 
-#: ../../hosteditor.rst:110
+#: ../../source/hosteditor.rst:110
 msgid "Parameters"
 msgstr ""
 
-#: ../../hosteditor.rst:110
+#: ../../source/hosteditor.rst:110
 msgid "Directory"
 msgstr ""
 
-#: ../../hosteditor.rst:110
+#: ../../source/hosteditor.rst:110
 msgid "Option"
 msgstr ""
 
-#: ../../hosteditor.rst:110
+#: ../../source/hosteditor.rst:110
 msgid "Comments"
 msgstr ""
 
-#: ../../hosteditor.rst:112
+#: ../../source/hosteditor.rst:112
 msgid "Dapperstrano vhe add (Default)"
 msgstr ""
 
-#: ../../hosteditor.rst:112
+#: ../../source/hosteditor.rst:112
 msgid "Yes"
 msgstr ""
 
-#: ../../hosteditor.rst:112
+#: ../../source/hosteditor.rst:112
 msgid "It can ask the user for Document root"
 msgstr ""
 
-#: ../../hosteditor.rst:112
+#: ../../source/hosteditor.rst:112
 msgid "Added virtual host in the specified document root under dapperstrano"
 msgstr ""
 
-#: ../../hosteditor.rst:115
+#: ../../source/hosteditor.rst:115
 msgid "What’s the server name"
 msgstr ""
 
-#: ../../hosteditor.rst:115
+#: ../../source/hosteditor.rst:115
 msgid "It can ask the user for server name"
 msgstr ""
 
-#: ../../hosteditor.rst:115
+#: ../../source/hosteditor.rst:115
 msgid "Added server name under dapperstrano"
 msgstr ""
 
-#: ../../hosteditor.rst:118
+#: ../../source/hosteditor.rst:118
 msgid "What IP:Port (default)"
 msgstr ""
 
-#: ../../hosteditor.rst:118
+#: ../../source/hosteditor.rst:118
 msgid "127.0.0.1:80"
 msgstr ""
 
-#: ../../hosteditor.rst:118
+#: ../../source/hosteditor.rst:118
 msgid "It can ask the user for IP port"
 msgstr ""
 
-#: ../../hosteditor.rst:118
+#: ../../source/hosteditor.rst:118
 msgid "When the user input as enter the default value added for IP:Port"
 msgstr ""
 
-#: ../../hosteditor.rst:121
+#: ../../source/hosteditor.rst:121
 msgid "What file extension should be used? (Default)"
 msgstr ""
 
-#: ../../hosteditor.rst:121
+#: ../../source/hosteditor.rst:121
 msgid "None"
 msgstr ""
 
-#: ../../hosteditor.rst:121
+#: ../../source/hosteditor.rst:121
 msgid "It can asks the user for extension"
 msgstr ""
 
-#: ../../hosteditor.rst:121
+#: ../../source/hosteditor.rst:121
 msgid "The user gives input as file extension"
 msgstr ""
 
-#: ../../hosteditor.rst:124
+#: ../../source/hosteditor.rst:124
 msgid "Dapperstrano vhe add"
 msgstr ""
 
-#: ../../hosteditor.rst:124
+#: ../../source/hosteditor.rst:124
 msgid "No"
 msgstr ""
 
-#: ../../hosteditor.rst:124
+#: ../../source/hosteditor.rst:124
 msgid "It can asks the user for input.|"
 msgstr ""
 
-#: ../../hosteditor.rst:124
+#: ../../source/hosteditor.rst:124
 msgid "It can terminates the process"
 msgstr ""
 
-#: ../../hosteditor.rst:130
+#: ../../source/hosteditor.rst:130
 msgid ""
 "Finally the system can asks for vhost templates directory. There are 5 "
 "options are available in templates. They are as follows."
 msgstr ""
 
-#: ../../hosteditor.rst:132
+#: ../../source/hosteditor.rst:132
 msgid "0 for doc root-no-suffix"
 msgstr ""
 
-#: ../../hosteditor.rst:134
+#: ../../source/hosteditor.rst:134
 msgid "1 for doc –src-suffix   used for document screen suffix"
 msgstr ""
 
-#: ../../hosteditor.rst:136
+#: ../../source/hosteditor.rst:136
 msgid "2 for doc –web-suffix used for document web suffix"
 msgstr ""
 
-#: ../../hosteditor.rst:138
+#: ../../source/hosteditor.rst:138
 msgid "3 for doc –www-suffix used for world wide web suffix"
 msgstr ""
 
-#: ../../hosteditor.rst:140
+#: ../../source/hosteditor.rst:140
 msgid "4 for docroot-suffix used for document root suffix"
 msgstr ""
 
-#: ../../hosteditor.rst:142
+#: ../../source/hosteditor.rst:142
 msgid ""
 "The user wishes to select the values according to their needs. Then the "
 "system can ask the vhost name ,IP address and root user etc is correct or "
@@ -208,15 +208,15 @@ msgid ""
 " this vhost?"
 msgstr ""
 
-#: ../../hosteditor.rst:144
+#: ../../source/hosteditor.rst:144
 msgid "The user answers yes it can enable the vhost else it can exit."
 msgstr ""
 
-#: ../../hosteditor.rst:194
+#: ../../source/hosteditor.rst:194
 msgid "Remove"
 msgstr ""
 
-#: ../../hosteditor.rst:196
+#: ../../source/hosteditor.rst:196
 msgid ""
 "The terminal command for deleting virtual host(s) is rm. The general format "
 "of this command is rm . rm removes a virtual host if you specify a correct "
@@ -226,35 +226,35 @@ msgid ""
 "want to delete it."
 msgstr ""
 
-#: ../../hosteditor.rst:198
+#: ../../source/hosteditor.rst:198
 msgid ""
 "If the removed name was the last link to a virtual host and no processes "
 "have the virtual host open, the virtual host is deleted and the space it was"
 " using is made available for reuse."
 msgstr ""
 
-#: ../../hosteditor.rst:201
+#: ../../source/hosteditor.rst:201
 msgid ""
 "If the name was the last link to a virtual host, but any processes still "
 "have the virtual host open, the virtual host will remain in existence until "
 "the last virtual host descriptor referring to it is closed."
 msgstr ""
 
-#: ../../hosteditor.rst:204
+#: ../../source/hosteditor.rst:204
 msgid ""
 "If the name referred to a symbolic link, the link is removed. The following "
 "command used to delete the virtual host."
 msgstr ""
 
-#: ../../hosteditor.rst:210
+#: ../../source/hosteditor.rst:210
 msgid "The following screen shot can explain its functions."
 msgstr ""
 
-#: ../../hosteditor.rst:223
+#: ../../source/hosteditor.rst:223
 msgid "List"
 msgstr ""
 
-#: ../../hosteditor.rst:225
+#: ../../source/hosteditor.rst:225
 msgid ""
 "List information about the Virtual host (the current directory by default). "
 "Sort entries alphabetically. Mandatory arguments has long options as well as"
@@ -263,7 +263,7 @@ msgid ""
 "following command used to list the virtual host."
 msgstr ""
 
-#: ../../hosteditor.rst:231
+#: ../../source/hosteditor.rst:231
 msgid ""
 "Note that whether a list can be used with a variety of views, or might be "
 "tailored to produce an elaborate page from a view designed specifically to "
@@ -271,11 +271,11 @@ msgid ""
 "document. It can be visualized by the screen shots."
 msgstr ""
 
-#: ../../hosteditor.rst:240
+#: ../../source/hosteditor.rst:240
 msgid "Enable"
 msgstr ""
 
-#: ../../hosteditor.rst:242
+#: ../../source/hosteditor.rst:242
 msgid ""
 "Secure Boot is a feature designed to prevent malicious software and "
 "unauthorized media from loading during the boot process. This enable option "
@@ -283,13 +283,13 @@ msgid ""
 "command,"
 msgstr ""
 
-#: ../../hosteditor.rst:248
+#: ../../source/hosteditor.rst:248
 msgid ""
 "This option is enabled by default. This option allows the virtual host "
 "server enable."
 msgstr ""
 
-#: ../../hosteditor.rst:250
+#: ../../source/hosteditor.rst:250
 msgid ""
 "Assists module develop many of the enabling capabilities required to service"
 " high performing environments through our understanding of the "
@@ -297,11 +297,11 @@ msgid ""
 "screen shot explains the same."
 msgstr ""
 
-#: ../../hosteditor.rst:260
+#: ../../source/hosteditor.rst:260
 msgid "Disable"
 msgstr ""
 
-#: ../../hosteditor.rst:262
+#: ../../source/hosteditor.rst:262
 msgid ""
 "This disable used to disable the server. Inactive or idle virtual host "
 "editor connections are normally disconnected by the server after a certain "
@@ -309,35 +309,35 @@ msgid ""
 "editor."
 msgstr ""
 
-#: ../../hosteditor.rst:268
+#: ../../source/hosteditor.rst:268
 msgid ""
 "After typing this command it can ask the user to disable the server. If the "
 "user inputs as yes it disable the server i.e. it won’t allow any body to "
 "work in that server."
 msgstr ""
 
-#: ../../hosteditor.rst:270
+#: ../../source/hosteditor.rst:270
 msgid "The following screen shot visualize it evidently."
 msgstr ""
 
-#: ../../hosteditor.rst:284
+#: ../../source/hosteditor.rst:284
 msgid "Benefits"
 msgstr ""
 
-#: ../../hosteditor.rst:286
+#: ../../source/hosteditor.rst:286
 msgid "Multi user can access at a time."
 msgstr ""
 
-#: ../../hosteditor.rst:287
+#: ../../source/hosteditor.rst:287
 msgid "The user can add or remove virtual host."
 msgstr ""
 
-#: ../../hosteditor.rst:288
+#: ../../source/hosteditor.rst:288
 msgid ""
 "The virtual host editor can enable or disable the virtual host according to "
 "the user’s wish."
 msgstr ""
 
-#: ../../hosteditor.rst:289
+#: ../../source/hosteditor.rst:289
 msgid "Non case sensitivity."
 msgstr ""

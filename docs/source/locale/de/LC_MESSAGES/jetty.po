@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"POT-Creation-Date: 2015-01-31 11:09+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,15 +11,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../jetty.rst:3
+#: ../../source/jetty.rst:3
 msgid "Jetty"
 msgstr ""
 
-#: ../../jetty.rst:6
+#: ../../source/jetty.rst:6
 msgid "Synopsis"
 msgstr ""
 
-#: ../../jetty.rst:8
+#: ../../source/jetty.rst:8
 msgid ""
 "Jetty provides a Web server and javax.servlet container, plus support for "
 "SPDY, WebSocket, OSGi, JMX, JNDI, JAAS and much other integration. These "
@@ -29,7 +29,7 @@ msgid ""
 "tools, frameworks, application servers, and clusters."
 msgstr ""
 
-#: ../../jetty.rst:10
+#: ../../source/jetty.rst:10
 msgid ""
 "Jetty is a pure Java-based HTTP (Web) server and Java Servlet container. "
 "While Web Servers are usually associated with serving documents to people, "
@@ -43,11 +43,11 @@ msgid ""
 " (with JSP support) as well as protocols SPDY and WebSocket."
 msgstr ""
 
-#: ../../jetty.rst:14
+#: ../../source/jetty.rst:14
 msgid "Help Command"
 msgstr ""
 
-#: ../../jetty.rst:16
+#: ../../source/jetty.rst:16
 msgid ""
 "This command helps to determine the usage of jetty module. The user will "
 "come to know about the different way/format to execute this module. This "
@@ -55,102 +55,111 @@ msgid ""
 " are the command and the screenshot of the same."
 msgstr ""
 
-#: ../../jetty.rst:22
+#: ../../source/jetty.rst:22
 msgid "The pictorial representation of the above command is shown below,"
 msgstr ""
 
-#: ../../jetty.rst:45
+#: ../../source/jetty.rst:45
 msgid "Installation"
 msgstr ""
 
-#: ../../jetty.rst:48
+#: ../../source/jetty.rst:48
 msgid ""
 "This command helps in installing jetty in system. The below given command "
 "will execute the process of installation."
 msgstr ""
 
-#: ../../jetty.rst:56 ../../jetty.rst:61
+#: ../../source/jetty.rst:56 ../../source/jetty.rst:61
 msgid "Options"
 msgstr ""
 
-#: ../../jetty.rst:61
+#: ../../source/jetty.rst:61
 msgid "Parameters"
 msgstr ""
 
-#: ../../jetty.rst:61
+#: ../../source/jetty.rst:61
 msgid "Alternative Parameters"
 msgstr ""
 
-#: ../../jetty.rst:61
+#: ../../source/jetty.rst:61
 msgid "Comments"
 msgstr ""
 
-#: ../../jetty.rst:63 ../../jetty.rst:68
+#: ../../source/jetty.rst:63 ../../source/jetty.rst:68
 msgid "Cleopatra jetty  Install"
 msgstr ""
 
-#: ../../jetty.rst:63 ../../jetty.rst:68
-msgid ""
-"There are two alternative parameters which can be used in command line. "
-"Jetty , jetty Eg: cleopatra jetty install/"
-msgstr ""
-
-#: ../../jetty.rst:66
-msgid "cleopatra Jetty install"
-msgstr ""
-
-#: ../../jetty.rst:63
+#: ../../source/jetty.rst:63
 msgid "Y"
 msgstr ""
 
-#: ../../jetty.rst:63
+#: ../../source/jetty.rst:63
 msgid "System starts installation process"
 msgstr ""
 
-#: ../../jetty.rst:71
-msgid "cleopatra Jetty install|"
-msgstr ""
-
-#: ../../jetty.rst:68
+#: ../../source/jetty.rst:68
 msgid "N"
 msgstr ""
 
-#: ../../jetty.rst:68
+#: ../../source/jetty.rst:68
 msgid "System stops installation process"
 msgstr ""
 
-#: ../../jetty.rst:78
+#: ../../source/jetty.rst:78
 msgid "Benefits"
 msgstr ""
 
-#: ../../jetty.rst:80
+#: ../../source/jetty.rst:80
 msgid "Full-featured and standards-based"
 msgstr ""
 
-#: ../../jetty.rst:81
+#: ../../source/jetty.rst:81
 msgid "Open source and commercially usable"
 msgstr ""
 
-#: ../../jetty.rst:82
+#: ../../source/jetty.rst:82
 msgid "Flexible and extensible"
 msgstr ""
 
-#: ../../jetty.rst:83
+#: ../../source/jetty.rst:83
 msgid "Small footprint"
 msgstr ""
 
-#: ../../jetty.rst:84
+#: ../../source/jetty.rst:84
 msgid "Embeddable"
 msgstr ""
 
-#: ../../jetty.rst:85
+#: ../../source/jetty.rst:85
 msgid "Asynchronous"
 msgstr ""
 
-#: ../../jetty.rst:86
+#: ../../source/jetty.rst:86
 msgid "Enterprise scalable"
 msgstr ""
 
-#: ../../jetty.rst:87
+#: ../../source/jetty.rst:87
 msgid "Dual licensed under Apache and Eclipse"
 msgstr ""
+
+#: ../../source/jetty.rst:63
+msgid ""
+"There are two alternative parameters which can be used in command line. "
+"Jetty , jetty Eg: cleopatra jetty install cleopatra Jetty install"
+msgstr ""
+
+#: ../../source/jetty.rst:68
+msgid ""
+"There are two alternative parameters which can be used in command line. "
+"Jetty , jetty Eg: cleopatra jetty install cleopatra Jetty install|"
+msgstr ""
+
+#~ msgid ""
+#~ "There are two alternative parameters which can be used in command line. "
+#~ "Jetty , jetty Eg: cleopatra jetty install/"
+#~ msgstr ""
+
+#~ msgid "cleopatra Jetty install"
+#~ msgstr ""
+
+#~ msgid "cleopatra Jetty install|"
+#~ msgstr ""

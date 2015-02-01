@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 12:00+0530\n"
+"POT-Creation-Date: 2015-02-01 14:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,241 +17,241 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/memcached.rst:3
-# e8f85b71f8354b0289d2258ab3f600c5
+# d542c02a07804729909b2b25eae381a4
 msgid "Memcached"
 msgstr ""
 
 #: ../../source/memcached.rst:6
-# f7893c05eafc44abb117bfda374964e5
+# 2dbe220ac16a4b1cab8167a779b653b0
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/memcached.rst:8
-# 733689da540c467c84bec70fc859e438
+# 6d0dd7c7f33c4d31b353121a90cfa05f
 msgid "The major aspect of this module is to install and update the memcache with the latest version. Memcached is a general-purpose distributed memory caching system. It is often used to speed up dynamic database-driven websites by caching data and objects in RAM to reduce the number of times an external data source (such as a database or API) must be read."
 msgstr ""
 
 #: ../../source/memcached.rst:11
-# 558bd871ae784b47a6cbf392d6306dad
+# 2ab41f4519f24cb6b9aea2e010177c60
 msgid "Memcached is free and open-source software, subject to the terms of the Revised BSD license.[2] Memcached runs on Unix-like (at least Linux and OS X) operating systems and on Microsoft Windows. There is a strict dependency on libevent."
 msgstr ""
 
 #: ../../source/memcached.rst:13
-# 85e5351093ac4ba6b38c1d9587f21cbf
+# 3551975bc84a40b585a4e89caea91703
 msgid "Let us see about the process of installing and using this module in upcoming topics."
 msgstr ""
 
 #: ../../source/memcached.rst:18
-# f38be5951a5040398a85f39fbf1dcac3
+# a9464ec78f944e588665f09a59aef649
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/memcached.rst:20
-# 96ef1d52f67447e0a4f1fc1c51110ff5
+# e49e2b826dd24742b1ad5bfb7223dad6
 msgid "The help command guides the users regarding the purpose and as well as about the options that are included in the Memcached module. It lists out the alternative parameters of Memcached module. It also describes the syntax for installing the Memcached module. The help command for Memcached module is shown as below."
 msgstr ""
 
 #: ../../source/memcached.rst:27
-# 5aa1b5fd82a64e2984e4e47af0d2bd71
+# f975cb0b6c7a416ba83118f117e9b0c9
 msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under Memcached."
 msgstr ""
 
 #: ../../source/memcached.rst:50
-# 64f82fb76f09434b90e6b978b58d4b88
+# f28879298e1746db9376bd9df90c040d
 msgid "Installation"
 msgstr ""
 
 #: ../../source/memcached.rst:52
-# 648ac8222a8b48b2a87623267338d0d9
+# 510ddf4932964bd08f4e4500de843e1d
 msgid "The command used for installing the Memcached in the users machine is shown below:"
 msgstr ""
 
 #: ../../source/memcached.rst:59
-# b16ff3608d8246b0847fc293e9b7e583
+# 765a2dab659c4d86bf3724f9e827f84b
 msgid "After inputting the command above, the following process occurs as shown in the tabular format."
 msgstr ""
 
 #: ../../source/memcached.rst:65
-# ce80c4b4072a46c69c18d123292f2735
+# 5a9f6ff1e7c14417adc6b07a3f02161d
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/memcached.rst:65
-# caf296a09b4d4a0cbcbc23d64ac6c245
+# a5a0164bb9fb4e058962527f6a6fbe35
 msgid "Alternative Parameters"
 msgstr ""
 
 #: ../../source/memcached.rst:65
-# 32d2e78e312c4a7c9c50d0fa18c7c797
+# 625f08322cb74663b28893e1b234d861
 msgid "Options"
 msgstr ""
 
 #: ../../source/memcached.rst:65
-# c1801609ef614ca390b8b5a779ae1441
+# 5dfadad5b8a34f44ad484130ff8cb75f
 msgid "Comments"
 msgstr ""
 
 #: ../../source/memcached.rst:67
 #: ../../source/memcached.rst:70
-# 94cda6e396bc41d580c70ddf470010cb
-# 96556db4877f437d8ff6d5e61597a20c
+# 179de2b92a224076827aac6de53715a3
+# 969e5c0527cc440b8f9d5e8f51724c90
 msgid "Install Memcached? (Y/N)"
 msgstr ""
 
 #: ../../source/memcached.rst:67
 #: ../../source/memcached.rst:70
-# 89d8ff3623304358a1fa7d130c23aab0
-# d72374eccacf464199f13ee024cc369c
+# 4d5d5aeef33749ef8aba3d7abebf7adc
+# 37482ea715a64a188afa0ad13859975f
 msgid "Instead of memcached, we can use Memcached also."
 msgstr ""
 
 #: ../../source/memcached.rst:67
-# ef0e2025d9c249b6bcc165f0bcc462a8
+# ed80689da09a460f982a8dae99be3b10
 msgid "Y(Yes)"
 msgstr ""
 
 #: ../../source/memcached.rst:67
-# 0a6921d495bb4c41b52231e19f58cf19
+# d6e34b89908142be8f5ca9b15ff3541b
 msgid "If the user wish to proceed the installation process they can input as Y."
 msgstr ""
 
 #: ../../source/memcached.rst:70
-# bc99e9d8893148f28eeccc898c2134d4
+# 4a270714ebf449b2892c4d2e0fcdd337
 msgid "N(No)"
 msgstr ""
 
 #: ../../source/memcached.rst:70
-# bbaae911e36a4598aaf4ed3a55b01294
+# 2a7d8ecc4a5f496fa2cd6221c6f31d00
 msgid "If the user wish to quit the installation process they can input as N.|"
 msgstr ""
 
 #: ../../source/memcached.rst:77
-# 13c0ce791c9e4669b579ab0db84e27f2
+# ccc6da63af74485e871a6de6026c1fb4
 msgid "The following screenshot can give you an pictorial representation regarding the process of installation."
 msgstr ""
 
 #: ../../source/memcached.rst:84
-# 602e5179e39f4cdcbfe9fb53d228286a
+# 512db81922874448985bedc9fc1185b0
 msgid "Functions of memcached"
 msgstr ""
 
 #: ../../source/memcached.rst:86
-# 018537ce79eb46f5a85303f4ac2585d9
+# 5921a0899af64ba8b2ec9ee2e9437ee7
 msgid "While using the memcached, the process can read and implement the following functions that are included in memcached,"
 msgstr ""
 
 #: ../../source/memcached.rst:88
-# 3474e5929f87449e8fceee9d1da1e5c9
+# 8fb28c29e4244fcd88605bcdefb11a5d
 msgid "Memcache::add — Add an item to the server"
 msgstr ""
 
 #: ../../source/memcached.rst:89
-# 98895d54fe0f486696b60f9980dbc911
+# 8b2aa04c152d4b0282e198fc9330a802
 msgid "Memcache::addServer — Add a memcached server to connection pool"
 msgstr ""
 
 #: ../../source/memcached.rst:90
-# 36462effc4f94b4bb25fbd5dcee52f0d
+# 734566169d69477983ae88620490c177
 msgid "Memcache::close — Close memcached server connection"
 msgstr ""
 
 #: ../../source/memcached.rst:91
-# fc33586e151a4cd1a27551edafc147e2
+# 4887144a54c84fb99e9f6f99586ab4a2
 msgid "Memcache::connect — Open memcached server connection"
 msgstr ""
 
 #: ../../source/memcached.rst:92
-# eda788b58fc24c1cb176c41f5ed541da
+# 0f85b334f49f476ea00b7a82f76e537f
 msgid "Memcache::decrement — Decrement item's value"
 msgstr ""
 
 #: ../../source/memcached.rst:93
-# cd06650866894430b6d009e12602b147
+# 2bb131f639ab4f868a92bb00e2e12656
 msgid "Memcache::delete — Delete item from the server"
 msgstr ""
 
 #: ../../source/memcached.rst:94
-# a59c25df37e544f38ab39426c46edf46
+# e81f4338700244238d680ac8c61ea6a2
 msgid "Memcache::flush — Flush all existing items at the server"
 msgstr ""
 
 #: ../../source/memcached.rst:95
-# 56b972d5ce684f928836444a968a89fd
+# 44a42d8a20f840dabbcc20975dfe5dcd
 msgid "Memcache::get — Retrieve item from the server"
 msgstr ""
 
 #: ../../source/memcached.rst:96
-# 61a733c8ad82403f951d6de0ca9bd307
+# cf2b3572291140d6a04a633cd153835b
 msgid "Memcache::getExtendedStats — Get statistics from all servers in pool"
 msgstr ""
 
 #: ../../source/memcached.rst:97
-# 0786b32a580942afa341897b0af5e34b
+# 034a1a8d5f774147852d8939e2bb25b0
 msgid "Memcache::getServerStatus — Returns server status"
 msgstr ""
 
 #: ../../source/memcached.rst:98
-# 62a59f31a54d40729c79a04228b23ae2
+# 57599ddd672541679f60e8f294c95fc0
 msgid "Memcache::getStats — Get statistics of the server"
 msgstr ""
 
 #: ../../source/memcached.rst:99
-# a9cae6578a6c469688f2aa5bfab8c914
+# 8f3ad10b3b754704993d067d5da12507
 msgid "Memcache::getVersion — Return version of the server"
 msgstr ""
 
 #: ../../source/memcached.rst:100
-# f74c4bf21fe847369ccdd61dd042a1a2
+# 3dd1eb842ace4623b7041f46b0a7198f
 msgid "Memcache::increment — Increment item's value"
 msgstr ""
 
 #: ../../source/memcached.rst:101
-# 41933d02808b4214aac5cffcda500eac
+# a1bcab7e62574133ab75c165be929575
 msgid "Memcache::pconnect — Open memcached server persistent connection"
 msgstr ""
 
 #: ../../source/memcached.rst:102
-# d7b4928dd42d473b94a90a684e414297
+# e0488dde8d6b45d1a41ae22eb671acfa
 msgid "Memcache::replace — Replace value of the existing item"
 msgstr ""
 
 #: ../../source/memcached.rst:103
-# 6a2b3c055ce546d894381f90ed53d7e7
+# 256a28acbb97499da8971a94f5b89c5b
 msgid "Memcache::set — Store data at the server"
 msgstr ""
 
 #: ../../source/memcached.rst:104
-# 51a8f4a8d482427384e8d116d5351cf8
+# e53bf58fca314225a1d80d3abb8dc266
 msgid "Memcache::setCompressThreshold — Enable automatic compression of large values"
 msgstr ""
 
 #: ../../source/memcached.rst:105
-# a8d2a104696c4c9c9acb307d107ae05c
+# 4c77756eca0f45209f03e829d2671a80
 msgid "Memcache::setServerParams — Changes server parameters and status at runtime"
 msgstr ""
 
 #: ../../source/memcached.rst:109
-# eeb0c80f8564434ba45afd28c4004d57
+# ad2c6c7f85db4655b29dfc34443f0710
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/memcached.rst:111
-# 3d52c610428b43fa9aa2b60c0ca6859c
+# e18dfb027abc4e31bec9a7cee97c05ee
 msgid "The parameters used in help and installation are not case sensitive which is an added advantage while compared to others."
 msgstr ""
 
 #: ../../source/memcached.rst:112
-# 47a118bf14724123ad07f24f49d11890
+# 2b9b670b78784eb2a66223d64a806080
 msgid "It is well-to-do in both Ubuntu and as well as Cent OS."
 msgstr ""
 
 #: ../../source/memcached.rst:113
-# 753b2bbd6fe845f2a7af072cd67750cd
+# f6588f95b7724e7d8c74e23c90fe3c59
 msgid "This will module installs the memcached in updated version."
 msgstr ""
 
 #: ../../source/memcached.rst:114
-# 478f6114e40b485daccfc5ccc78eeabe
+# e3214898d18f4b7b9b19aa34d02a529b
 msgid "If the module is already existing in the user machine it will display a message as it is already existing."
 msgstr ""
 

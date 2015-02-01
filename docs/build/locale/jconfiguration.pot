@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 12:00+0530\n"
+"POT-Creation-Date: 2015-02-01 14:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,246 +17,246 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/jconfiguration.rst:3
-# 6b6fa39dafb142729906694d0f8ec294
+# a061fad16223420891961708a84018d9
 msgid "JConfiguration"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:6
-# 55e5341324d64b41857053097a6b1a4c
+# f02ff2d2921543c9ab98cef95d6858b8
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:8
-# 0eafc6e01e334af3bc811bcc64891863
+# 945c1bb9dbdc4d218d40e3cc76be4c3d
 msgid "This module is a part of a default module that handles data basing functions. Let us see how to configure and to reset in upcoming topics."
 msgstr ""
 
 #: ../../source/jconfiguration.rst:11
-# ef758d2a6bf549f78652d3ef50216cb6
+# f4de3bbe820248eebd98fc5338624824
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:13
-# 622fc27bb13a462286e4c3c6c6d877cf
+# 30e089ada88c49f2bd5132b2a1d87c91
 msgid "The help command guides the user about the purpose of the module. It lists out the alternative parameters that can be used in declaration. It specifies two different syntax for configuring and resetting. The command used for help option is shown below:"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:19
-# ecb21aa0ddfc4200b6de7fb605e43271
+# e1bf3192f5a5440d864bd492c1a695e7
 msgid "The following screen shot depicts pictorially about the working of help command."
 msgstr ""
 
 #: ../../source/jconfiguration.rst:48
-# 91293be26bff4b0ba01f5200687b78ca
+# f6e74c040c6c4aa596d40c62dd71c2be
 msgid "How to Configure"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:50
-# 035a01b54aaf4ab583e373df3886ebc4
+# 993a7e30071c4c3fa3dcfef3756d9609
 msgid "The command used for configure joomla is shown below:"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:56
-# 70e1896faacd4b74ad63b0fed23332d3
+# 27f1846b28a14077bb61e772de64d289
 msgid "After inputting the command above, it will ask"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:61
-# fe983de7604e430f90ab8f692c4fa5ba
+# 4c06125c39c847b9b36fd99d9442a9f5
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:61
-# 8c850f15eb8f49a49dccff521c394a02
+# c0d53e7c70fa4790a51cdc345239dd70
 msgid "Alternative Parameters"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:61
-# b8b9e0024d3c4967a78427ae65b9a727
+# 0f709165a7ef41918a3cc1e558afb327
 msgid "Options"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:61
-# 892239c3ade94b58a6422eba328bf0a0
+# e50a6adbe731435794cdc43b4cfc9dd7
 msgid "Comments"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:63
 #: ../../source/jconfiguration.rst:66
-# ee3ed678a4b5402f968361974c3c8374
-# e4ce00c4fa4b492dae38ea86a3dc19d0
+# 7a8cb8e40a4f4f8fa97d8528184b2d80
+# 9b13769555d9447d9914775f618323bd
 msgid "Do you want to configure Joomla? (Y/N)"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:63
 #: ../../source/jconfiguration.rst:66
-# ba4d53b1b50a4d17bb6c83c6b448e00c
-# 6452bb105f194b689fb901c1d596e47a
+# 16e96fae2a284421b4ae6ccf9e4e94b8
+# 646733a0ba5e48fa9baee4fa2002264c
 msgid "Instead of conf we can also use configure."
 msgstr ""
 
 #: ../../source/jconfiguration.rst:63
-# 87ed8d159cf84542be5214c1388d10b8
+# 9eefd0f78e5449b696e809b402f60eed
 msgid "Y"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:63
-# dffe0975d5bf4f919112c7caba30f1cb
+# 7148301ca1444d36ae8451ddf5c4004f
 msgid "If the user wish to configure they can input as Y."
 msgstr ""
 
 #: ../../source/jconfiguration.rst:66
-# a555f6713f0b4b15b08ddfe2b10912f7
+# 49f6fffccfe74823871ea6547e3ee1aa
 msgid "N"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:66
-# fa73426a5d8d470ca1be8e115a6f78c6
+# 21584fd1e4db4b5ebe8f5a48b19015a4
 msgid "If the user doesn't wish to configure they can input as N.|"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:70
-# b8ae242453314452b2ee35886abe289f
+# ccd388f63e8044ea9f8a7fd5684e8d97
 msgid "If the user proceeds configuring, it will asks the user whether they wish to set non-default values for the following. It will also specifies the default value:"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:72
-# 04ea586ad4a341e28b0da0eb403e1799
+# 2a2d793dbdfb4e08b3599954b2d6d299
 msgid "Set non-default values for log_path?"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:73
-# c260f349fc4e41579a97915ebe4cfb3e
+# a163dc24f13d40c782eb969b95ba91c2
 msgid "Set non-default values for temp_path?"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:74
-# 4fca330685a7448680d8fd37901a068a
+# 2c08ced4edc24ac08022d242d99bcbb5
 msgid "Set non-default values for MetaAuthor?"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:75
-# 51b1f3e0e96a4d31ac3d065caa4c016a
+# 36874b967a55408887c90b02ed20e609
 msgid "Set non-default values for MetaDesc?"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:76
-# 45cad989e52f407eb3b0a59c07ec7cbf
+# 0d496dd4342048e29bb64c404de9b9c9
 msgid "Set non-default values for MetaKeys?"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:77
-# 996ab15d4900442092ea2f0d74af7e87
+# 0417f2cac0da4364a65d8a0616e6c5ae
 msgid "Set non-default values for MetaRights?"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:78
-# f47d6e8a30414cd98088c460fccc8bbc
+# 1e0b715a5414452eb114b3f8d0eb2e32
 msgid "Set non-default values for MetaTitle?"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:79
-# b36e9457793d40f696a5fb2d7a6634eb
+# 84b99c3cba6c4fa1ab5e1f35dd469b95
 msgid "Set non-default values for MetaVersion?"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:80
-# 9fdca25ad2df441f98f6ed8f22007d75
+# d393c8a607eb4430b634c7c285563086
 msgid "Set non-default values for access?"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:81
-# 2a1c984e640a418e8a2907f3193204b0
+# 12f6f819b2b14abaa1cf51a982316e74
 msgid "Set non-default values for cache_handler?"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:82
-# 775ed9840fdb4a9796f8b9625e007c19
+# 92fca0071c8f425fafe3643d3006438b
 msgid "Set non-default values for cachetime?"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:83
-# 7893f1ea20334f70bfc0a8fff69bc0ea
+# f47b336d7c9e40e49a7d51d992c2cad3
 msgid "Set non-default values for frontediting?"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:84
-# 668f512da43c4621bf9b5dd802050210
+# 3387baa3941e4adeaace0b685cf86358
 msgid "Set non-default values for assest_id?"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:85
-# 342dfc5221d24acfbe94c055dd93d70e
+# 8b6c07813bcb44658705b268d5d133db
 msgid "Set non-default values for user?"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:86
-# 5ec748c3d0e242eca3bc79e73784dd3a
+# 3d019b90de854574ad7f1e4e998a6d0f
 msgid "Set non-default values for db?"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:87
-# 1342f21eae8443f5b9e76a0cd8d3dd49
+# 396d691b7e1c42c78a7d0a7b1c77ec5e
 msgid "Set non-default values for host?"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:88
-# 8a98a5b8341444cba7780c715db9026f
+# 085bc883bbc048c785313934d803161d
 msgid "Set non-default values for password?"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:91
-# 1e46e43d8a0a4e16bb3a0c5797666b1b
+# d4b7663a25ac4c40a26da8492c8220ca
 msgid "Finally, the process of configuration gets completed as depicted in the screenshot."
 msgstr ""
 
 #: ../../source/jconfiguration.rst:296
-# f1dfa33e255441a2bd3b8437d3dcd01a
+# 47d77abd82514ab28803bd9764eb8c0c
 msgid "while configuring, it will asks the user as"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:303
-# 319539599cc243c7ba111f4fa648c215
+# 5d5cdf75b59c403e8a57b624c57183c7
 msgid "Is this Okay? (Y/N)"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:305
-# 2d1d333f7e1a4cad83ae81b0766c0616
+# 39d2bbfbe672470fb4823140b915cccd
 msgid "The user have to specify Y or N."
 msgstr ""
 
 #: ../../source/jconfiguration.rst:308
-# 850c347336b7498090ec38b93b5cdb43
+# fa78ae9ea76e44a4bdd1c3f43120270b
 msgid "How to Reset"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:310
-# dda563fd103c4446b1023835e92b5450
+# c3856400fc1e440b9b2f65a1f3311b53
 msgid "The command used for reset is shown below:"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:316
-# 7d1fd3cfba2a40cdaa7c196127f31e12
+# cd2abdb9e70544b69520bf4c49422fb1
 msgid "The screenshot shown below depicts visually about the process of reset"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:319
-# ad7f3782a4914a95b2c2067ee06f678c
+# 59e29785ef1944a0914aa5cc1e854e78
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/jconfiguration.rst:320
-# 5b090c3066344c38bb093878bcbdf3c4
+# e96b90483165426b9ba54f3c7ae7b305
 msgid "It is well-to-do in both cent OS and as well as in ubuntu."
 msgstr ""
 
 #: ../../source/jconfiguration.rst:321
-# 6b0acd13e6fc4b19b8c2cf721ce5e350
+# 8c21e0f7c1614975857275a8965eff6b
 msgid "The parameters used in declaration are not case sensitive which is an added advantage while compared to others."
 msgstr ""
 
 #: ../../source/jconfiguration.rst:322
-# 2b60e78725884af79a30aff973e6798a
+# 40cece5836eb47308cab34889443ebda
 msgid "The user can specify the non default values while configuring."
 msgstr ""
 

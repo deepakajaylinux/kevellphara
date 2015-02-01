@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"POT-Creation-Date: 2015-01-31 11:09+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,15 +11,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../virtualbox.rst:3
+#: ../../source/virtualbox.rst:3
 msgid "Virtual box"
 msgstr ""
 
-#: ../../virtualbox.rst:6
+#: ../../source/virtualbox.rst:6
 msgid "Synopsis"
 msgstr ""
 
-#: ../../virtualbox.rst:8
+#: ../../source/virtualbox.rst:8
 msgid ""
 "This module encourage installation of voice. In case of phlagrant module "
 "fully managed by virtual box.  It is user friendly with Ubuntu and cent OS."
@@ -29,91 +29,91 @@ msgid ""
 "Format (OVF).This is comfortable with Ubuntu and Cent OS."
 msgstr ""
 
-#: ../../virtualbox.rst:11
+#: ../../source/virtualbox.rst:11
 msgid "Help command"
 msgstr ""
 
-#: ../../virtualbox.rst:13
+#: ../../source/virtualbox.rst:13
 msgid ""
 "The help command guide the user to install virtual box. The following screen"
 " shot shows about installation of virtual box."
 msgstr ""
 
-#: ../../virtualbox.rst:34
+#: ../../source/virtualbox.rst:34
 msgid "Installation"
 msgstr ""
 
-#: ../../virtualbox.rst:36
+#: ../../source/virtualbox.rst:36
 msgid ""
 "This module instruct the user to install. To activate virtual box follow the"
 " command as,"
 msgstr ""
 
-#: ../../virtualbox.rst:42
+#: ../../source/virtualbox.rst:42
 msgid ""
 "Then the system can enquire cleopatra virtual box install? (Y/N) If the user"
 " enters Y then it will be installed, else it will exit the screen."
 msgstr ""
 
-#: ../../virtualbox.rst:212
+#: ../../source/virtualbox.rst:212
 msgid "Options"
 msgstr ""
 
-#: ../../virtualbox.rst:217
+#: ../../source/virtualbox.rst:217
 msgid "Parameters"
 msgstr ""
 
-#: ../../virtualbox.rst:217
+#: ../../source/virtualbox.rst:217
 msgid "Syntax"
 msgstr ""
 
-#: ../../virtualbox.rst:217
+#: ../../source/virtualbox.rst:217
 msgid "Option"
 msgstr ""
 
-#: ../../virtualbox.rst:217
+#: ../../source/virtualbox.rst:217
 msgid "Comments"
 msgstr ""
 
-#: ../../virtualbox.rst:219
+#: ../../source/virtualbox.rst:219
 msgid "Install Virtual box"
 msgstr ""
 
-#: ../../virtualbox.rst:219
+#: ../../source/virtualbox.rst:219
 msgid "Yes"
 msgstr ""
 
-#: ../../virtualbox.rst:219 ../../virtualbox.rst:221
+#: ../../source/virtualbox.rst:219 ../../source/virtualbox.rst:221
 msgid "Virtualbox"
 msgstr ""
 
-#: ../../virtualbox.rst:219 ../../virtualbox.rst:221
+#: ../../source/virtualbox.rst:219 ../../source/virtualbox.rst:221
 msgid "Installed successfully"
 msgstr ""
 
-#: ../../virtualbox.rst:223
+#: ../../source/virtualbox.rst:223
 msgid "No"
 msgstr ""
 
-#: ../../virtualbox.rst:223
+#: ../../source/virtualbox.rst:223
 msgid "Exit the screen|"
 msgstr ""
 
-#: ../../virtualbox.rst:230
+#: ../../source/virtualbox.rst:230
 msgid "Benefits"
 msgstr ""
 
-#: ../../virtualbox.rst:232
+#: ../../source/virtualbox.rst:232
 msgid "Voice can be installed via this module."
 msgstr ""
 
-#: ../../virtualbox.rst:233
+#: ../../source/virtualbox.rst:233
 msgid ""
 "Both ISO images and host-connected physical devices can be mounted as CD/DVD"
 " drives."
 msgstr ""
 
-#: ../../virtualbox.rst:234
+#: ../../source/virtualbox.rst:234
 msgid ""
 "The DVD image of a Linux distribution can be downloaded and used directly by"
 " VirtualBox."

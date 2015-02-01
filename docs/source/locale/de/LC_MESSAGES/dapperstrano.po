@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"POT-Creation-Date: 2015-01-31 11:09+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,15 +11,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../dapperstrano.rst:3
+#: ../../source/dapperstrano.rst:3
 msgid "Dapperstrano"
 msgstr ""
 
-#: ../../dapperstrano.rst:6
+#: ../../source/dapperstrano.rst:6
 msgid "SYNOPSIS"
 msgstr ""
 
-#: ../../dapperstrano.rst:8
+#: ../../source/dapperstrano.rst:8
 msgid ""
 "This module supports to install under Cleopatra. It can install in two ways."
 " They are install and Ensure. It can overwrite the module in case of already"
@@ -27,51 +27,51 @@ msgid ""
 "Let’s see how to install dapperstarano."
 msgstr ""
 
-#: ../../dapperstrano.rst:11
+#: ../../source/dapperstrano.rst:11
 msgid "HELP COMMAND"
 msgstr ""
 
-#: ../../dapperstrano.rst:13
+#: ../../source/dapperstrano.rst:13
 msgid ""
 "It is time consuming because it won’t check directory link from web. Easy to"
 " Install. Suitable for all type of user. The user can indicate the path for "
 "program data directory and Program Executor directory."
 msgstr ""
 
-#: ../../dapperstrano.rst:16 ../../dapperstrano.rst:40
+#: ../../source/dapperstrano.rst:16 ../../source/dapperstrano.rst:40
 msgid "Installation"
 msgstr ""
 
-#: ../../dapperstrano.rst:17
+#: ../../source/dapperstrano.rst:17
 msgid ""
 "It is a manifest process to install dapperstarano module under Cleopatra by "
 "just using the command given below,"
 msgstr ""
 
-#: ../../dapperstrano.rst:23
+#: ../../source/dapperstrano.rst:23
 msgid ""
 "After vitalize the command it will catechize input. The user input as yes "
 "automatically it will install dapperstrano without checking from the "
 "directory link from the web."
 msgstr ""
 
-#: ../../dapperstrano.rst:27
+#: ../../source/dapperstrano.rst:27
 msgid "Additional features:"
 msgstr ""
 
-#: ../../dapperstrano.rst:30
+#: ../../source/dapperstrano.rst:30
 msgid "The following screen shot gives envision to your dreams."
 msgstr ""
 
-#: ../../dapperstrano.rst:34
+#: ../../source/dapperstrano.rst:34
 msgid "Ensure"
 msgstr ""
 
-#: ../../dapperstrano.rst:36
+#: ../../source/dapperstrano.rst:36
 msgid "Benefits"
 msgstr ""
 
-#: ../../dapperstrano.rst:37
+#: ../../source/dapperstrano.rst:37
 msgid ""
 "Ensure never scrutiny the version while installing. Latest update is "
 "possible with ensure. It won’t overwrite the existing one. Indicate the "
@@ -79,13 +79,13 @@ msgid ""
 " directory."
 msgstr ""
 
-#: ../../dapperstrano.rst:46
+#: ../../source/dapperstrano.rst:46
 msgid ""
 "Then automatically install dapperstrano ensure. It won’t check the version "
 "of module.  The following screen shot explains about ensure."
 msgstr ""
 
-#: ../../dapperstrano.rst:49
+#: ../../source/dapperstrano.rst:49
 msgid ""
 "If dapperstrano already installed in the system, it shows already installed."
 " The following screen shot visualize it."

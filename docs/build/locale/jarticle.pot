@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 12:00+0530\n"
+"POT-Creation-Date: 2015-02-01 14:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,107 +17,107 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/jarticle.rst:3
-# 2903a9f3e2a54e8d93a8bb171826a66f
+# 8d279322cbb1405d8e99f5a90c2982b7
 msgid "JArticle"
 msgstr ""
 
 #: ../../source/jarticle.rst:6
-# 22218385e5274555a00674d2e270ab54
+# 4a4ef5868ac648948636f34ff8977954
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/jarticle.rst:8
-# 7e97199c7efb4952b75760514c5423f0
+# 9d1cf3bcf4e3479ea91084b708ff0913
 msgid "It manages jarticle's details. This allows you to use an Article as a Module. Joomla provides an extremely wide range of options for creating different types of content and for structuring it on your website."
 msgstr ""
 
 #: ../../source/jarticle.rst:10
-# 101e1466541a48ceb228d579d8f2cde2
+# 8bce68c36c294109b756a2f8bcc9c55f
 msgid "In Joomla, an Article is a piece of content consisting of text, possibly with links to other resources (for example, images). Articles are the basic units of information in the content system and the bottom level in the content hierarchy. Each Article is in exactly one Category. A Category can be in another Category making it a sub Category. It is also possible to have Uncategorized Articles. These articles exist without being associated with any Category."
 msgstr ""
 
 #: ../../source/jarticle.rst:14
-# cfb4cad2e86a4f2d84cb3ab4cf16bd2d
+# e7319275a6964072bc4a12733737959b
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/jarticle.rst:16
-# 41a1350b6d7245abb15585253c80d033
+# 601e99657618457caa620705d130a42b
 msgid "This command helps to determine the usage of jarticle module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screen shot of the same."
 msgstr ""
 
 #: ../../source/jarticle.rst:54
-# a00c4595e8524305b4c7fb3a26adf864
+# df66812ba9264f43b22791f49b5441fe
 msgid "Enable"
 msgstr ""
 
 #: ../../source/jarticle.rst:56
-# 6ba2f7c859604de8887cc4d8c034133b
+# 86bf4120a1a9449caf9a6efd30411616
 msgid "When the user needs to enable a particular article, the below given command will execute the process of installation."
 msgstr ""
 
 #: ../../source/jarticle.rst:63
-# d33a4197585e49a797966cd335cae37c
+# d4b762c96a2f455288f2e5ddf5fa8bad
 msgid "Info"
 msgstr ""
 
 #: ../../source/jarticle.rst:65
-# 2eafafee01e64cc3a59e19f12777ebed
+# 0329728c0d00458fbb58099b3557c5f1
 msgid "If the user needs to know about the information of an article. The below given command will help you"
 msgstr ""
 
 #: ../../source/jarticle.rst:72
-# 34664dc8972a40dd8f2996b38abdc4d5
+# cfce4eafcd954ddcb6d76822c716f71d
 msgid "The pictorial representation of the above command is listed below,"
 msgstr ""
 
 #: ../../source/jarticle.rst:99
-# f01c04ddfb4449a59a06a6ae02e679e0
+# fb7d1371363d4d359e88110be1d0bdbb
 msgid "Disable"
 msgstr ""
 
 #: ../../source/jarticle.rst:101
-# 1baf09aef5ef4f4693bb8b1ba88bde8f
+# 684e858c6da04d46a9d9d78557852290
 msgid "When the user needs to disable a particular article, the below given command will execute the process of installation."
 msgstr ""
 
 #: ../../source/jarticle.rst:108
-# f3545dc0e5d24a97916634a02c47e952
+# 710c4078ef804d8387b2997da5e846a9
 msgid "Alternative Parameter"
 msgstr ""
 
 #: ../../source/jarticle.rst:110
-# c4f8e2b3e9714e06aeb9128838661222
+# fd558f8bd7fc47ad8124de76ef21fd7a
 msgid "Either of the two alternative parameter can be used in command-  jarticle, JArticle"
 msgstr ""
 
 #: ../../source/jarticle.rst:112
-# 3cf6c160477b4953b65e865b4634a01c
+# 019adb8c697c417da72531ee81f3cbeb
 msgid "eg:  jrush jarticle disable/ jrush JArticle disable"
 msgstr ""
 
 #: ../../source/jarticle.rst:118
-# 11f48e19ba924f2fad937d89e4b79eb4
+# 889c64f18f9a4367880eb4aa495d42cf
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/jarticle.rst:119
-# e6aa7a6287d24ba8ad4f7a2bbc8a887c
+# 4b913d90640544e2a07cff4cb007bf00
 msgid "Provide an optional method for organizing your articles"
 msgstr ""
 
 #: ../../source/jarticle.rst:120
-# bb982fca834e42afa8165f5ff81a7e1f
+# b1a4922e62c540d0b56eb233998ffbce
 msgid "It contains some text and can contain pictures and other types of content"
 msgstr ""
 
 #: ../../source/jarticle.rst:121
-# 3e6b75c2f5294049a2025c459a981d87
+# d0a8ba988383459ab5bb7ac4a782a7ca
 msgid "Helps to get the information about an article in easy way"
 msgstr ""
 
 #: ../../source/jarticle.rst:122
-# 6908a050477547b29b2c2921bb34cf8a
+# db7a8f6fb0d4412ea83bd0a5901584d8
 msgid "Can enable and disable an article in one step"
 msgstr ""
 

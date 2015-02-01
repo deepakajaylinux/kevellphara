@@ -1,4 +1,3 @@
 [main]
-host = http://kevellpharaohtools.readthedocs.org/en/latest/
-type = PO
+host = http://kevellpharaohtools.readthedocs.org
 

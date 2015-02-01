@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 12:00+0530\n"
+"POT-Creation-Date: 2015-02-01 14:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,149 +17,149 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/minify.rst:3
-# f8e0402f870b41d8a0e2b51765d9a5ce
+# 976d88466d9b40d0b6a4457371967622
 msgid "Minify"
 msgstr ""
 
 #: ../../source/minify.rst:6
-# 411d6871c72242feb77c7d4da6460011
+# 633964a9991e4a92999ed25214fea919
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/minify.rst:8
-# 65a9fa1725ed4acba6c7560f16e813b5
+# b2161cb0631c48cead5d9b44b7f31bb7
 msgid "Minify is the removal of unnecessary characters from source code. Mini, when used as a prefix, means small.  The goal of minify is to make source code \"smaller\" and improve performance."
 msgstr ""
 
 #: ../../source/minify.rst:10
-# b4fa91f043cd4f16bc65c92d1f4a129c
+# ef886169b3bd4692b4d84fdbe58433de
 msgid "The term minify is often associated with interpreted scripted languages, such as php, that are deployed and transmitted over the Internet. Code that has been minified by replacing runs of spaces by a single space, for example, is more lightweight and takes less time for a browser to load. Popular minify tools for Web development include Compressor, and ubuntu Compiler. Minify suits to work with Ubuntu and cent OS."
 msgstr ""
 
 #: ../../source/minify.rst:13
-# d47027428a2d4dc9a4ef0a13d850f0f9
+# 2542a7397eaf4b779f425e7948c1677e
 msgid "Help command"
 msgstr ""
 
 #: ../../source/minify.rst:15
-# 4f59890eb44c431c9872676d2b731087
+# e9b9a9b1dde146c5b60238a5691c547c
 msgid "Minify makes package development a breeze: Conceptually, minify is similar to compression.  Unlike code that has been compressed, however, code that has minified can still be worked with without requiring the extra step of decompression. Minified source code may also be used as a kind of obfuscation, though the term obfuscation may be distinguished as a form of false cryptography while a minified code instance may be reversed using a pretty-printer."
 msgstr ""
 
 #: ../../source/minify.rst:17
-# eb5f306410d147578b59e0743f42559c
+# 9a337d50727c42c289c13b3637551f37
 msgid "The following help command guides the user to handle minify."
 msgstr ""
 
 #: ../../source/minify.rst:23
-# 77fd2d58ee874460a69b687dd857ff57
+# ba5f9bdebadd466d95da4dcccb6cf9e8
 msgid "This screen shot shows the help command usage"
 msgstr ""
 
 #: ../../source/minify.rst:45
-# 9d1fac5ed5bf41af84b1a828c83e8100
+# 1d5eb86581284ccfade1f0701c67fc3a
 msgid "Installation"
 msgstr ""
 
 #: ../../source/minify.rst:47
-# 673fd8844f7d49d9877ace66c4091285
+# f823156b63284eb298a363001f00767d
 msgid "It works with existing conventions for code structure, adding efficient tools to support the cycle of coding development. With minify, developing a coding becomes so easy that it will be the user default layout whenever the user is writing a significant amount of code. This command used to install minify is as follows,"
 msgstr ""
 
 #: ../../source/minify.rst:53
-# 57dc7266d5b946618f7cee20dcad3eaa
+# ba2af63d94ac4d0084f918714c73a8ed
 msgid "The following screenshot explains it."
 msgstr ""
 
 #: ../../source/minify.rst:58
-# b222bc2613dd4fd2aa6b70924db72a3b
+# 2372d83e0cdb4f2b94d5f361a7a393cd
 msgid "Option"
 msgstr ""
 
 #: ../../source/minify.rst:60
-# 65b538bb5fc64812b0c9e0470568ba03
+# dd3d1c4f83a047c29de58e0138a72f8a
 msgid "Minify source code is especially useful for interpreted languages deployed and transmitted on the Internet, because it reduces the amount of data that needs to be transferred."
 msgstr ""
 
 #: ../../source/minify.rst:65
-# 3a00b96e5023412094ffbcadf666aede
+# 6bad499f0ea14c1f8a0ab8b3f38f8d5d
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/minify.rst:65
-# e63d42a0af554f838f202fd9ce1d1781
+# a345f1a6763345b388c9c45b9233b3a2
 msgid "Alternate Parameters"
 msgstr ""
 
 #: ../../source/minify.rst:65
-# 3f6a3284c2414e6fa936009d6eb95c0a
+# fbbb0794f78f4e8bb4d624807fc0b066
 msgid "Oprion"
 msgstr ""
 
 #: ../../source/minify.rst:65
-# dbcf9d939cf9406f81c6ad7e6035b4e4
+# 713e1c98aec5446c90238fd0c3591b2c
 msgid "Comments"
 msgstr ""
 
 #: ../../source/minify.rst:67
 #: ../../source/minify.rst:70
-# b61578ff1a9b402ea44c45ce032002ec
-# 2342a48c424845299ad6900450a409a1
+# 4708ecc9a32d409288da381efc75d2f0
+# 0cd6be97d5b1462dac303b0cbae93fae
 msgid "Install minify?(Y/N)"
 msgstr ""
 
 #: ../../source/minify.rst:67
-# 4c7651b866374258bce6820d37d4f021
+# bfa2d9958ef646e28c899f9b4668f289
 msgid "Instead of using minify we can use Minify"
 msgstr ""
 
 #: ../../source/minify.rst:67
-# c29f741522d14ef484d33c89194d04db
+# 430171229c504f5191449fe145adde76
 msgid "Y"
 msgstr ""
 
 #: ../../source/minify.rst:67
-# 730ffd09b6964d9aa745f91d8057f339
+# adebe392a41243af95a063dc7612fc5b
 msgid "It installs  minify under cleopatra"
 msgstr ""
 
 #: ../../source/minify.rst:70
-# c606a6f6098247e49c4dcba8a6cef014
+# 9d464b2b531c4f1e8e21146dfa172140
 msgid "Instead of using minify we can use Minify|"
 msgstr ""
 
 #: ../../source/minify.rst:70
-# 5e5b875ace034e68a6c94d8815cd30d6
+# 4c2857e6d5b6403a8a8838b9b90c97e4
 msgid "N"
 msgstr ""
 
 #: ../../source/minify.rst:70
-# 7d7aff0ba8fc4c1d8cf70a355d765f1a
+# e29179aa83434a3ab89e92640a4b14d9
 msgid "The system exit the installation"
 msgstr ""
 
 #: ../../source/minify.rst:77
-# aac1e172ec744a7aa5e07f426cd05a1b
+# 6f640eecb363403ba7c8884d991045a0
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/minify.rst:79
-# 5f06f5328c284ec9901642414cbe34e0
+# 6276fddb3b66482dba4ffb779638e7b5
 msgid "Minify communicates via Php coding."
 msgstr ""
 
 #: ../../source/minify.rst:80
-# f79badfb2d1f4a46a8a6d0a220a7bd6d
+# ca525e48ae3b45039b78df25705ee47c
 msgid "Minify comforts with Ubuntu and cent OS."
 msgstr ""
 
 #: ../../source/minify.rst:81
-# d0d52cbf4d6c4aaf919780802cefd474
+# 5dfa09f403484eab9b16a45b4c462825
 msgid "Minify supports non case sensitivity."
 msgstr ""
 
 #: ../../source/minify.rst:82
-# 27d892c4b27e44d7849301cabc1c4082
+# c449910b87bb49f2a61e485638b4bdef
 msgid "Minify deducts unnecessary characters from the source code."
 msgstr ""
 

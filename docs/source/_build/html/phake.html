@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Phake &mdash; KEVELL 0.1 documentation</title>
+    <title>Phake &mdash; KEVELL 0.1 Dokumentation</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -25,10 +25,11 @@
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/translations.js"></script>
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
-    <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
+    <link rel="top" title="KEVELL 0.1 Dokumentation" href="index.html" />
     <link rel="up" title="Cleopatra" href="cleopatra.html" />
     <link rel="next" title="PHPAPC" href="phpapc.html" />
     <link rel="prev" title="Parallax" href="parrallax.html" />
@@ -102,9 +103,9 @@
           
             
   <li><a href="parrallax.html"
-         title="previous chapter">&laquo; Parallax</a></li>
+         title="vorheriges Kapitel">&laquo; Parallax</a></li>
   <li><a href="phpapc.html"
-         title="next chapter">PHPAPC &raquo;</a></li>
+         title="nächstes Kapitel">PHPAPC &raquo;</a></li>
           
           
           <!--  <li>
@@ -128,13 +129,13 @@
   
   
   <div class="section" id="phake">
-<h1>Phake<a class="headerlink" href="#phake" title="Permalink to this headline">¶</a></h1>
+<h1>Phake<a class="headerlink" href="#phake" title="Permalink zu dieser Überschrift">¶</a></h1>
 <div class="section" id="synopsis">
-<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
+<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>Phake is a mocking framework for PHP. It allows for the creation of objects that mimic a real object in a predictable and controlled manner. This allows you to treat external method calls made by your system under test (SUT) as just another form of input to your SUT and output from your SUT. This is done by stubbing methods that supply indirect input into your test and by verifying parameters to methods that receive indirect output from your test.</p>
 </div>
 <div class="section" id="help-command">
-<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
+<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>This command helps to determine the usage of Phake module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same.</p>
 <div class="highlight-bash"><div class="highlight"><pre>               cleopatra Phake <span class="nb">help</span>
 
@@ -162,7 +163,7 @@ End Help
 </div>
 </div>
 <div class="section" id="installation">
-<h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
+<h2>Installation<a class="headerlink" href="#installation" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>When the user needs to install Phake in machine, the below given command will execute the process of installation.</p>
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra Phake install
 </pre></div>
@@ -172,30 +173,42 @@ End Help
 <p>Then the system ask for executing directory name, if you wants to set up your PATH you can define your path. Define your path followed by &#8216;/&#8217; symbol. Press Enter if there is no changes to be done</p>
 <p>&#8220;What is the program executer directory? Found &#8220;/usr/bin&#8221; - Use this? &#8220;</p>
 <p>The below screenshot shows the same.</p>
-<p class="table-bordered"><a class="reference external" href="mailto:kevells&#37;&#52;&#48;corp">kevells<span>&#64;</span>corp</a>:/# cleopatra Phake install
-Install Phake ? (Y/N)
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra Phake install
+Install Phake ? <span class="o">(</span>Y/N<span class="o">)</span>
 Y
-<strong>***************************</strong>
+*******************************
 *        Pharaoh Tools        *
 *          Phake         *
-<strong>***************************</strong>
-What is the program data directory? Found &#8220;/opt/phake&#8221; - use this? (Enter nothing for yes, no end slash)</p>
-<p class="table-bordered">What is the program executor directory? Found &#8220;/usr/bin&#8221; - use this? (Enter nothing for yes, No Trailing Slash)</p>
-<p class="table-bordered">git clone &#8216;<a class="reference external" href="http://github.com/jaz303/phake.git">http://github.com/jaz303/phake.git</a>&#8216;  /tmp/phake/phakeCloning into &#8216;/tmp/phake/phake&#8217;...
-remote: Counting objects: 552, done.
-remote: Total 552 (delta 0), reused 0 (delta 0)
-Receiving objects: 100% (552/552), 91.36 KiB | 76.00 KiB/s, done.
-Resolving deltas: 100% (314/314), done.
-Checking connectivity... done.
+*******************************
+What is the program data directory? Found <span class="s2">&quot;/opt/phake&quot;</span> - use this? <span class="o">(</span>Enter nothing <span class="k">for</span> yes, no end slash<span class="o">)</span>
+
+What is the program executor directory? Found <span class="s2">&quot;/usr/bin&quot;</span> - use this? <span class="o">(</span>Enter nothing <span class="k">for</span> yes, No Trailing Slash<span class="o">)</span>
+
+git clone <span class="s1">&#39;http://github.com/jaz303/phake.git&#39;</span>  /tmp/phake/phakeCloning into <span class="s1">&#39;/tmp/phake/phake&#39;</span>...
+remote: Counting objects: 552, <span class="k">done</span>.
+remote: Total <span class="m">552</span> <span class="o">(</span>delta 0<span class="o">)</span>, reused <span class="m">0</span> <span class="o">(</span>delta 0<span class="o">)</span>
+Receiving objects: 100% <span class="o">(</span>552/552<span class="o">)</span>, 91.36 KiB <span class="p">|</span> 76.00 KiB/s, <span class="k">done</span>.
+Resolving deltas: 100% <span class="o">(</span>314/314<span class="o">)</span>, <span class="k">done</span>.
+Checking connectivity... <span class="k">done</span>.
 Program Data folder populated
-Program Executor Deleted if existed
-... All done!
-<strong>***************************</strong>
-Thanks for installing , visit www.pharaohtools.com for more
-<strong>**************************</strong></p>
+Program Executor Deleted <span class="k">if</span> existed
+... All <span class="k">done</span>!
+*******************************
+Thanks <span class="k">for</span> installing , visit www.pharaohtools.com <span class="k">for</span> more
+******************************
+
+
+Single App Installer:
+--------------------------------------------
+Phake: Success
+------------------------------
+Installer Finished
+******************************
+</pre></div>
+</div>
 </div>
 <div class="section" id="options">
-<h2>Options<a class="headerlink" href="#options" title="Permalink to this headline">¶</a></h2>
+<h2>Options<a class="headerlink" href="#options" title="Permalink zu dieser Überschrift">¶</a></h2>
 <table border="1" class="table-bordered docutils">
 <colgroup>
 <col width="24%" />
@@ -233,7 +246,7 @@ System stops installation process</td>
 </table>
 </div>
 <div class="section" id="ensure">
-<h2>Ensure<a class="headerlink" href="#ensure" title="Permalink to this headline">¶</a></h2>
+<h2>Ensure<a class="headerlink" href="#ensure" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>Installs the latest version of Phake, only if a version is not available. The below given command will execute the process.</p>
 <div class="highlight-bash"><div class="highlight"><pre>Cleapatra Phake ensure
 </pre></div>
@@ -244,7 +257,7 @@ System stops installation process</td>
 <p>&#8220;What is the program executer directory? Found &#8220;/usr/bin&#8221; - Use this? &#8220;</p>
 </div>
 <div class="section" id="benefits">
-<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
+<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>Phake is a great mocking library and can be easily integrated into PHPUnit. Its new approach to prototype mocks and stubs and the separation between stubbing and verification phases is very refreshing and easy to use.</p>
 </div>
 </div>

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"POT-Creation-Date: 2015-01-31 11:09+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,15 +11,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../apachereverseproxy.rst:3
+#: ../../source/apachereverseproxy.rst:3
 msgid "Apache Reverse proxy modules"
 msgstr ""
 
-#: ../../apachereverseproxy.rst:6
+#: ../../source/apachereverseproxy.rst:6
 msgid "Synopsis"
 msgstr ""
 
-#: ../../apachereverseproxy.rst:8
+#: ../../source/apachereverseproxy.rst:8
 msgid ""
 "This module aims at installing the library functions. While installing the "
 "library functions, it will check the availability of already existing "
@@ -27,40 +27,40 @@ msgid ""
 "settings. The user can specify the default values for application settings."
 msgstr ""
 
-#: ../../apachereverseproxy.rst:11
+#: ../../source/apachereverseproxy.rst:11
 msgid "Help command"
 msgstr ""
 
-#: ../../apachereverseproxy.rst:13
+#: ../../source/apachereverseproxy.rst:13
 msgid ""
 "The help command guides the user get aware of the uses, and also the options"
 " and actions that can be performed. The coding to make use of help command "
 "under Apache Reverse proxy module, is given as follows"
 msgstr ""
 
-#: ../../apachereverseproxy.rst:20
+#: ../../source/apachereverseproxy.rst:20
 msgid ""
 "The screen shot shown below gives you an pictorial representation of help "
 "command usage."
 msgstr ""
 
-#: ../../apachereverseproxy.rst:45
+#: ../../source/apachereverseproxy.rst:45
 msgid "Installation"
 msgstr ""
 
-#: ../../apachereverseproxy.rst:50
+#: ../../source/apachereverseproxy.rst:50
 msgid "Parameters"
 msgstr ""
 
-#: ../../apachereverseproxy.rst:50
+#: ../../source/apachereverseproxy.rst:50
 msgid "Required"
 msgstr ""
 
-#: ../../apachereverseproxy.rst:50
+#: ../../source/apachereverseproxy.rst:50
 msgid "Comment"
 msgstr ""
 
-#: ../../apachereverseproxy.rst:52
+#: ../../source/apachereverseproxy.rst:52
 msgid ""
 "Install Reverse Proxy Apache Modules (In the place of Reverse Proxy Apache "
 "Modules the user can also specify the following parameters: "
@@ -69,36 +69,37 @@ msgid ""
 "modules,apache-proxy-mods"
 msgstr ""
 
-#: ../../apachereverseproxy.rst:53
+#: ../../source/apachereverseproxy.rst:53
 msgid "Yes"
 msgstr ""
 
-#: ../../apachereverseproxy.rst:53
+#: ../../source/apachereverseproxy.rst:53
 msgid "This command will install the apache rev proxy module"
 msgstr ""
 
-#: ../../apachereverseproxy.rst:61 ../../apachereverseproxy.rst:65
+#: ../../source/apachereverseproxy.rst:61
+#: ../../source/apachereverseproxy.rst:65
 msgid "Install ApacheReverseProxyModules (Y/N)"
 msgstr ""
 
-#: ../../apachereverseproxy.rst:61
+#: ../../source/apachereverseproxy.rst:61
 msgid "Y(Yes)"
 msgstr ""
 
-#: ../../apachereverseproxy.rst:61
+#: ../../source/apachereverseproxy.rst:61
 msgid ""
 "If the user input as Y,the apache reverse proxy module will be installed."
 msgstr ""
 
-#: ../../apachereverseproxy.rst:65
+#: ../../source/apachereverseproxy.rst:65
 msgid "N(NO)"
 msgstr ""
 
-#: ../../apachereverseproxy.rst:65
+#: ../../source/apachereverseproxy.rst:65
 msgid "If the user inputs as N,the process will gets quit from installation.|"
 msgstr ""
 
-#: ../../apachereverseproxy.rst:70
+#: ../../source/apachereverseproxy.rst:70
 msgid ""
 "While installing the Reverse Proxy Modules, it will reads the package lists,"
 " state information, builds the dependency tree. If any packages are missing,"
@@ -106,28 +107,28 @@ msgid ""
 "explains the process of installation graphically."
 msgstr ""
 
-#: ../../apachereverseproxy.rst:231
+#: ../../source/apachereverseproxy.rst:231
 msgid "Benefits to the users"
 msgstr ""
 
-#: ../../apachereverseproxy.rst:233
+#: ../../source/apachereverseproxy.rst:233
 msgid ""
 "It displays the available package lists, and in turn installs the missing "
 "and required packages."
 msgstr ""
 
-#: ../../apachereverseproxy.rst:234
+#: ../../source/apachereverseproxy.rst:234
 msgid ""
 "The reverse proxy forwards to a fixed destination on behalf of arbitrary "
 "clients."
 msgstr ""
 
-#: ../../apachereverseproxy.rst:235
+#: ../../source/apachereverseproxy.rst:235
 msgid ""
 "It will incorporates the content that is hosted from one server into a "
 "larger website."
 msgstr ""
 
-#: ../../apachereverseproxy.rst:236
+#: ../../source/apachereverseproxy.rst:236
 msgid "It helps in configuring the applications settings."
 msgstr ""

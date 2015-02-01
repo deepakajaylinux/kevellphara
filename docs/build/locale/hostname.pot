@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 12:00+0530\n"
+"POT-Creation-Date: 2015-02-01 14:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,138 +17,138 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/hostname.rst:3
-# 278e4bc822fd49f590b638112e591b81
+# f32c510bc7d24b50bb29fd1a5ff808a7
 msgid "Host name"
 msgstr ""
 
 #: ../../source/hostname.rst:6
-# 12601f2a4dd343ed9f0389bbf3fcab1b
+# 90c60ffc549e4a53b66dc2ad5f095171
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/hostname.rst:8
-# a9bc5f7e951841989fd337c8466b3e81
+# e1fa984e198e401d98413f5acd1c62b5
 msgid "Since IP addresses are rather difficult to remember (and are not particularly descriptive), the Internet also allows the user to specify a computer by a name rather than a number string. This whole string is known as the comput     er's host name. There are two options are available. Show and Change. By using this module the user can view or modify host name."
 msgstr ""
 
 #: ../../source/hostname.rst:11
-# 0583c4009bb3464ab8b716a1ce5e452f
+# 4a8fb31ae8594a25b74517fcf768d2b1
 msgid "Help command"
 msgstr ""
 
 #: ../../source/hostname.rst:13
-# 120bf665ba824dfcb38b68a1dd7fa1ec
+# 61625ea9782e427c85ba6923ad7322ac
 msgid "This command can function about the objectives and commands available under host name module. It also explains the command to modify host name module. Before modify host name, the user read this help command explains its function."
 msgstr ""
 
 #: ../../source/hostname.rst:19
-# 203114640566400b811ccc27e23e1a6e
+# 84c7deed11ec4a10b663bcdf1d4f77d2
 msgid "The following screen shot can bring to mind it."
 msgstr ""
 
 #: ../../source/hostname.rst:22
 #: ../../source/hostname.rst:54
-# 9a122baca7c34d97ad1083992d3cbae3
-# 24d05078b5314b57a0688858ead7c717
+# de1b5dd4414146b1b30b1a6efe4a8892
+# 0ba9ebc6cb5c489c86c85a1149633442
 msgid "Change"
 msgstr ""
 
 #: ../../source/hostname.rst:24
-# 89f7599d76fe4acbacd3e826ac2f4db8
+# 967774d75124415fbf311de2bbfef2c6
 msgid "Hostnames are typically used in an administrative capacity and may appear in computer browser lists, active directory lists, IP address to hostname resolutions, email headers, etc. When the user want to change the host name, can use the following command."
 msgstr ""
 
 #: ../../source/hostname.rst:30
-# 2c425ef7a0294ca1ad6be369e7a8c2c1
+# 13904ad457bb436d8d808ef91204a0cb
 msgid "From the above command the new host name can enter."
 msgstr ""
 
 #: ../../source/hostname.rst:33
 #: ../../source/hostname.rst:51
-# 518cb8a8d2b24f43b1b285aa2962330f
-# 6024df6ee74a406f9de8969a039d0326
+# 0753d067f8fc4b0b9e5b3311a5d676a9
+# a5b55bc4114b45c9b712040614b6d112
 msgid "Show"
 msgstr ""
 
 #: ../../source/hostname.rst:35
-# ab48f50ca92642bbbc2f6d93168cc7a8
+# f8b7a6bfefd04413b40ed5f8e317c03b
 msgid "This module is a perceptible process to view host name under Cleopatra by just using the command given below,"
 msgstr ""
 
 #: ../../source/hostname.rst:41
-# 11e0b2eea4804a4db75dafe3609faf5f
+# 38ab661f4c7a40ee82ac15807e883772
 msgid "After key in the command, it shows the host name."
 msgstr ""
 
 #: ../../source/hostname.rst:44
-# ea38cbd2fe944d46b5221e4986289c42
+# d7b6717b691546e1940dd56ebe46af48
 msgid "Option"
 msgstr ""
 
 #: ../../source/hostname.rst:49
-# 6040493d061f49889fc77301ed95cf29
+# c188fa536bde46afa22b24940b0d833a
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/hostname.rst:49
-# 3b802d457c684a7f8252956a3d7e7c68
+# 1f8027d19c4c4297955c548a11722223
 msgid "Alternative Parameter"
 msgstr ""
 
 #: ../../source/hostname.rst:49
-# 44085723d73a49689726149c275a3445
+# f5128b3d4f6544d78c9f7df13ceb1ed3
 msgid "Options"
 msgstr ""
 
 #: ../../source/hostname.rst:49
-# dc571058a7c64d6389098de918eb4947
+# f5a4148c88704f2ba2516292c196c976
 msgid "Comments"
 msgstr ""
 
 #: ../../source/hostname.rst:51
-# 9678bdc84d3c4d758644c3f95ea991eb
+# 53f08945b8a04d1da132839045d9a329
 msgid "cleopatra host name"
 msgstr ""
 
 #: ../../source/hostname.rst:51
 #: ../../source/hostname.rst:54
-# d4e2d77999f749c4b31444f0be984781
-# 22799912a1d548e4ac1701d968810b74
+# 1b91bab548c24a74b573f8a5fc6ee0c3
+# 105b07c6ce984ba5ab15a878afcfc336
 msgid "Instead of Hostname we can use Hostname,hostname"
 msgstr ""
 
 #: ../../source/hostname.rst:51
-# 23f2d0d5b45b4067b1c309639edffed5
+# 8496a6398a0a459b9635bdc3dbd09f51
 msgid "System starts showing the host name process under cleopatra"
 msgstr ""
 
 #: ../../source/hostname.rst:54
-# 7339cda1344941b8883d6f54dc33a8a9
+# 9058a2a9d6cf464f838f9bf404eed34a
 msgid "cleopatra hostname change --hostname=\"Name\""
 msgstr ""
 
 #: ../../source/hostname.rst:54
-# 47dec388d26c4401a8c3089eeae0970a
+# c7aff1cd07a349aabfcbda41a8eb78f1
 msgid "System starts changing the host name process under cleopatra|"
 msgstr ""
 
 #: ../../source/hostname.rst:60
-# 47f0aa9020d946119e8d36b1878e3eb5
+# e47be47d3bdd49b79b7e701ea3f80c0c
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/hostname.rst:62
-# e14420f2050e4f608ebcfd6f75d74ceb
+# 05777e86ad644d08bd95fe5269a6d9a7
 msgid "Hostnames may be simple names consisting of a single word or phrase, or they may be structured."
 msgstr ""
 
 #: ../../source/hostname.rst:63
-# 979193050ef648ec9a02af10cb66da08
+# 2e3266d701b047d78872fc454c29bce4
 msgid "Hostnames can be non-sensitive."
 msgstr ""
 
 #: ../../source/hostname.rst:64
-# 8d7aebce7fc74dec81a701d10e115c6b
+# 70f2e13ec9dd44a28f4fba18d6e5983e
 msgid "Hostname can view and modified easily."
 msgstr ""
 

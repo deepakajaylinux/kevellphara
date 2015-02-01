@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 12:00+0530\n"
+"POT-Creation-Date: 2015-02-01 14:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,129 +17,129 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/apacheserver.rst:3
-# c1698a3010714e3ea982b9321e1b5dc3
+# 1285eafb888e4b14a2849dac374e3622
 msgid "ApacheServer"
 msgstr ""
 
 #: ../../source/apacheserver.rst:6
-# e0da6fe47cd54c479152838d6b1bfed4
+# ae05a48ee38b40aabf86aaf9e5e8520d
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/apacheserver.rst:8
-# e849205280254153bb332d7f6f5918f1
+# 2a19fa2063e24c8dbf5aa2a3d70a7129
 msgid "This modules aims at installing the Apache server. Without any request it will automatically install the current version of the apache server while installation."
 msgstr ""
 
 #: ../../source/apacheserver.rst:11
-# 770dc5b8c53c4103886f89f1748c16d4
+# 63804d1cdea842b497ee9adf26bc4ed4
 msgid "Help command"
 msgstr ""
 
 #: ../../source/apacheserver.rst:13
-# a93bb96e25254c62bec8e8915ed23bd4
+# 6635ea6c71e4447780dc60b03a929607
 msgid "The help command describes about the purpose and the commands available under this modules. It also explains the command to install the particular module."
 msgstr ""
 
 #: ../../source/apacheserver.rst:15
-# 7f2d9228ba534dfcbcf41676b1e21b78
+# 4e57ac47f3e847708b8b67eacab24b49
 msgid "The screen shot as shown below, visually represent the usage of the help command under this module."
 msgstr ""
 
 #: ../../source/apacheserver.rst:39
-# fee8414058dd40be9839431cf4180850
+# e4cc95065d0c4535a7c8efaf0976a32e
 msgid "Installation"
 msgstr ""
 
 #: ../../source/apacheserver.rst:41
-# fe326901ba6943a4ba8ac2d20e487ad3
+# c7a20fbd2fe54609bd9063e63d6694e5
 msgid "It is easier to install this particular tool under Cleopatra by simply using the command given below,"
 msgstr ""
 
 #: ../../source/apacheserver.rst:47
-# 5d6d6b0132a4402786577571bc79fd2c
+# cf8b5ad43efc4c77bbeda0b516669e79
 msgid "After giving the command above, the tool will ask as"
 msgstr ""
 
 #: ../../source/apacheserver.rst:49
-# e33f96833387458e8986717d05561202
+# 465d3649268045e8814be2bf96193809
 msgid "Install Apache Server? (Y/N)"
 msgstr ""
 
 #: ../../source/apacheserver.rst:51
-# d724680b2e75414b899729f9d3f13269
+# 693529c6088d4c7fb393bf73a67759b4
 msgid "if you give an input as Y, the module will get installed successfully."
 msgstr ""
 
 #: ../../source/apacheserver.rst:53
-# e478f2ee3de548aea944f356e535593e
+# 76e9e9720ece4c13860a1b22b00786e0
 msgid "The screen shot given below explains visually about the steps and commands involves in installation."
 msgstr ""
 
 #: ../../source/apacheserver.rst:88
-# 8cf07dee150b442d96e0479fed79bf5b
+# 5ecf9289111045dfbddecd7f848ca998
 msgid "Options"
 msgstr ""
 
 #: ../../source/apacheserver.rst:93
-# eb29faf650f74ef8a52c4f0094ccf50c
+# 26041967f2cf4e9eb4d84d90d649a571
 msgid "Parameter"
 msgstr ""
 
 #: ../../source/apacheserver.rst:93
-# 5feb93132b0f46dfa0b39401c88e5da7
+# 7c941696163248c6b19e9b9b7abf0893
 msgid "Required"
 msgstr ""
 
 #: ../../source/apacheserver.rst:93
-# 1a65a1ea3db14d6699dc775900703e99
+# 65659ab5f54242bfa1597d78df09f856
 msgid "Comments"
 msgstr ""
 
 #: ../../source/apacheserver.rst:95
 #: ../../source/apacheserver.rst:98
-# 30f937a36f204a16a55e84bff0f3e537
-# 2816f4fdbe5d4a53bafeffcb1907807b
+# d1efe03ee2bb4dfea4aa2592df36b3ed
+# 9bc951c5f92841c3a7188b410ffcef56
 msgid "Install"
 msgstr ""
 
 #: ../../source/apacheserver.rst:95
-# 4b3ed4766e914912a0da826b5a92d92f
+# 8f9ae7a80d104accb2a19c39f13ec458
 msgid "Yes"
 msgstr ""
 
 #: ../../source/apacheserver.rst:95
-# 6b2461f68b514b40b310c6fac1c01872
+# 2e50e6f9e16e4f20ad943336efa58753
 msgid "If the user gives the input as Y it will install the apache server"
 msgstr ""
 
 #: ../../source/apacheserver.rst:98
-# 04cedaf22acc4fb6acec6b95107540c3
+# e79efc32ae724323945c59b2b6eb046d
 msgid "No"
 msgstr ""
 
 #: ../../source/apacheserver.rst:98
-# 57e9c0c3903f4cfe8d0fbdadf52dc509
+# 747140888d324913ba79caac1dcb4989
 msgid "If the user gives input as N, it will get exit.|"
 msgstr ""
 
 #: ../../source/apacheserver.rst:104
-# e4292c12f67246649e87a85744f2b23c
+# 5218c5c220dc4572a8c90b2c333219da
 msgid "Version"
 msgstr ""
 
 #: ../../source/apacheserver.rst:106
-# d9afbb3b2bc5493fa343bbd7ea8d5ddc
+# fd5b6cc26c114522b0c3a0afe6265e5a
 msgid "While the tool is processing it will automatically grabs the most-recent updated version and makes it to get ready for installation."
 msgstr ""
 
 #: ../../source/apacheserver.rst:110
-# d922b95030334e9eb457c2a471ae6a9b
+# e87c1878e5c34406ab74c84259d31812
 msgid "Benefits to the end users"
 msgstr ""
 
 #: ../../source/apacheserver.rst:112
-# 92605484abe84c8d9afc1b2357dd1160
+# 3f01f49a2b5d463c8a89b65daad9cc86
 msgid "This modules helps the users in installing the apache server. It simplifies the work of the users while installing the server as its automatically check the current version of apache server."
 msgstr ""
 

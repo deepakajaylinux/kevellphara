@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Change Group &mdash; KEVELL 0.1 documentation</title>
+    <title>Change Group &mdash; KEVELL 0.1 Dokumentation</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -25,10 +25,11 @@
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/translations.js"></script>
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
-    <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
+    <link rel="top" title="KEVELL 0.1 Dokumentation" href="index.html" />
     <link rel="up" title="Cleopatra" href="cleopatra.html" />
     <link rel="next" title="Chmode" href="chmod.html" />
     <link rel="prev" title="Chgrp" href="chgrp.html" />
@@ -101,9 +102,9 @@
           
             
   <li><a href="chgrp.html"
-         title="previous chapter">&laquo; Chgrp</a></li>
+         title="vorheriges Kapitel">&laquo; Chgrp</a></li>
   <li><a href="chmod.html"
-         title="next chapter">Chmode &raquo;</a></li>
+         title="nächstes Kapitel">Chmode &raquo;</a></li>
           
           
           <!--  <li>
@@ -127,15 +128,15 @@
   
   
   <div class="section" id="change-group">
-<h1>Change Group<a class="headerlink" href="#change-group" title="Permalink to this headline">¶</a></h1>
+<h1>Change Group<a class="headerlink" href="#change-group" title="Permalink zu dieser Überschrift">¶</a></h1>
 <div class="section" id="synopsis">
-<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
+<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>Files and directories belong to both an owner and a group. A group usually consists of a collection of users, all belonging to the same group. The first set of three is the read, write, and execute permissions for the owner of the file.</p>
 <p>A group can also consist of one user, normally the user who creates the file. Each user on the system, including the root user, is assigned his or her own group of which he or she is the only member, ensuring access only by that user. The second set of three is the read, write, and execute permissions for anyone who belongs to the user group for the file.</p>
 <p>The root user, the system administrator, owns most of the system files that also belong to the root group, of which only the root user is a member. Most administration files, like configuration files in the /etc directory, are owned by the root user and belong to the root group. Only the root user has permission to modify them, whereas normal users can read and, in the case of programs, also execute them</p>
 </div>
 <div class="section" id="help-command">
-<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
+<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>This command helps to determine the usage of Change group module. The user will come to know about the different way/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same.</p>
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra Chgrp <span class="nb">help</span>
 </pre></div>
@@ -161,20 +162,20 @@ End Help
 </div>
 </div>
 <div class="section" id="path">
-<h2>Path<a class="headerlink" href="#path" title="Permalink to this headline">¶</a></h2>
+<h2>Path<a class="headerlink" href="#path" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>When the user needs to change the file group ownership of a path, the below given command will execute the process.</p>
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra chgrp path –yes –guess –recursive –path<span class="o">=</span>/”File path” –group<span class="o">=</span>”group name”
 </pre></div>
 </div>
 </div>
 <div class="section" id="alternative-parameter">
-<h2>Alternative Parameter<a class="headerlink" href="#alternative-parameter" title="Permalink to this headline">¶</a></h2>
+<h2>Alternative Parameter<a class="headerlink" href="#alternative-parameter" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>There are two alternative parameters which can be used in command line.</p>
 <p>chgrp, Chgrp</p>
 <p>Eg: cleopatra Chgrp path/ cleopatra chgrp path</p>
 </div>
 <div class="section" id="benefits">
-<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
+<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink zu dieser Überschrift">¶</a></h2>
 <ul class="simple">
 <li>Although other users may be able to access a file, only the owner can change its permissions. If you want to give other user to control over   one of your file&#8217;s permissions, you can change the owner of the file from yourself to the other user.</li>
 <li>You can also change the group for a file and directories, using the chgrp command. chgrp takes as its first argument the name of the new

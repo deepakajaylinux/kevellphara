@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 12:00+0530\n"
+"POT-Creation-Date: 2015-02-01 14:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,97 +17,97 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/phpmodules.rst:3
-# 6b02c45e88904b159412aae312ac132c
+# 5a3ef155486a4f57b6b8b817c4bb94a3
 msgid "Php Modules"
 msgstr ""
 
 #: ../../source/phpmodules.rst:6
-# e4ad2d0ba0974289a88272b47f8eb425
+# 976ee4085656480c8c9adbb8c51494bf
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/phpmodules.rst:8
-# bd5016cde53745b3999a2a782709f902
+# e7d5de1fb11842ce89c056b991e0efde
 msgid "This module lift installation in common and helpful php modules. Automation is possible. The common modules include php libs and php image, php curl, mysql.   It is user friendly with Ubuntu and cent OS."
 msgstr ""
 
 #: ../../source/phpmodules.rst:11
-# d7c2a6d9780642ff8322d8db54505c27
+# 560058fde84a4c46bb8a575f3afbc603
 msgid "Help command"
 msgstr ""
 
 #: ../../source/phpmodules.rst:13
-# f74694089311456caa04cf6439988f27
+# 6847a93a52a7496695d2fcd241dc07d7
 msgid "Help command used to find information about a specified command. For more information about changes to functionality of php modules. We can use this help command."
 msgstr ""
 
 #: ../../source/phpmodules.rst:15
-# bdc759049c50421faf1ab8d791b87737
+# 2fbb82fca9484351b89637d6c9356f32
 msgid "The following screen shot will guide you."
 msgstr ""
 
 #: ../../source/phpmodules.rst:22
-# 52c1228186a5434994d2c71dfcaa4f37
+# fe70947da65945d79d98da5925295bbe
 msgid "Installation"
 msgstr ""
 
 #: ../../source/phpmodules.rst:24
-# 4d6e56fa740b42c9ade9656742f7f2c3
+# dae39b65b624427692db3a1f9a353373
 msgid "Use this module to install PHP Modules on Ubuntu Linux systems packages. It allows you to install some common modules and helpful php modules. Also install my sql connections. The following command used to install php modules."
 msgstr ""
 
 #: ../../source/phpmodules.rst:30
-# efc1c12cb06e4488a8701e4c2538b543
+# 484ecccb5d624941a6037b2cd169f36c
 msgid "When the user keys as Y, Automatically it can install common modules. User keys as N it exit the screen. The following Screen shot visualize it."
 msgstr ""
 
 #: ../../source/phpmodules.rst:35
-# 11bd5b12160d4bd0843539995420c5d1
+# f8916c8fea9c4c83bb8e0b3767f09dec
 msgid "Alternative parameters"
 msgstr ""
 
 #: ../../source/phpmodules.rst:40
-# 70ad4fda2141419aa0e8e7a6a9894d74
+# ad6e3fb421e845828753e07b69f2a88c
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/phpmodules.rst:40
-# 2f0d5cb5113d4f19a8fbea1e785de087
+# 0016f16b9fa240089d142c140b3ce5e1
 msgid "Directory(default)"
 msgstr ""
 
 #: ../../source/phpmodules.rst:40
-# e61084f45b104ae1960322cf5097f275
+# 57bfddeae49e423397ddd08968502a2a
 msgid "Option"
 msgstr ""
 
 #: ../../source/phpmodules.rst:40
-# e31d57691a504201a3e563809f6543ce
+# 30fed2f0315c41caac33bcaec79250a3
 msgid "Comments"
 msgstr ""
 
 #: ../../source/phpmodules.rst:42
-# 8b893aab5cbb45e799a5e304e07a84a0
+# 9208b737d0ed44418765baf37ecad571
 msgid "Install PHPModules"
 msgstr ""
 
 #: ../../source/phpmodules.rst:42
-# 3cc3950e0e874c4ab27ee43b48cdbd88
+# 3b145580d3ea43eb88c3d2aafb8dc3a2
 msgid "Yes"
 msgstr ""
 
 #: ../../source/phpmodules.rst:42
-# b401221d35224f649d65111b6580c41d
+# d5895dabf8174270a5f7b4419bd269f5
 msgid "PHPModules"
 msgstr ""
 
 #: ../../source/phpmodules.rst:42
-# 2d0203aeee584581bf6420f1814729a7
+# 721b7dd62cc2418495b739b16f7bb270
 msgid "It will install PHPModules under cleopatra"
 msgstr ""
 
 #: ../../source/phpmodules.rst:44
-# f40f1dd235f042bab10a26cc03dcecce
+# 6df15cdff6a748ac88ca21fd5c2f30bc
 msgid "Install Php-mods"
 msgstr ""
 
@@ -115,104 +115,104 @@ msgstr ""
 #: ../../source/phpmodules.rst:46
 #: ../../source/phpmodules.rst:48
 #: ../../source/phpmodules.rst:50
-# b26426338124405db775134aa9c37267
-# eb9797c99f89419ca1efdc88d5dbdf3b
-# 93ed6c2aeff74cfb8108da5b29c9c2d5
-# 4e09c9da432b45e28285237c6ae6deee
+# fbc53beaceac4b8bb2c93eed6066b6de
+# fca88191af16444cb05a17e101209805
+# b53a7c089e38411ba3881c2c60dc62ef
+# b70682cadaf34dd188538936012081b2
 msgid "yes"
 msgstr ""
 
 #: ../../source/phpmodules.rst:44
-# 604390f9b2734bc9a903c9192ef9fd94
+# 8e6b1e7ac5114b718ee5ac63dcc097e4
 msgid "Php-mods"
 msgstr ""
 
 #: ../../source/phpmodules.rst:44
-# 85a71e5ffb8947be97b252286637ab71
+# 06a3f63ee56043089ba4b263281d305a
 msgid "It will install Php-mods under Cleopatra"
 msgstr ""
 
 #: ../../source/phpmodules.rst:46
-# b037e11d53b74859bdaf6b846951d055
+# f75cf90d812f46eaba2943774e794c2a
 msgid "Install phpmods"
 msgstr ""
 
 #: ../../source/phpmodules.rst:46
-# 5e0216f625344d73994ce991273874da
+# 8b408f6f346149ac9dd98eca80d60f46
 msgid "phpmods"
 msgstr ""
 
 #: ../../source/phpmodules.rst:46
-# 15bd3b6d72eb4fd5b959c5e2060643d0
+# c51e7b7c08474f668144a06ec9bce238
 msgid "It will install phpmods under Cleopatra"
 msgstr ""
 
 #: ../../source/phpmodules.rst:48
-# 47c6cd9d093147d9a6e92ae17e76d2ad
+# bf88f378d0544409a28a7321f6607489
 msgid "Install php-modules"
 msgstr ""
 
 #: ../../source/phpmodules.rst:48
-# b5e4f383ed574f658ab1a4588f55056f
+# 924a8d21643c4ea69a8dc2de5476a3a2
 msgid "Php-modules"
 msgstr ""
 
 #: ../../source/phpmodules.rst:48
-# 6ac4d5bff2454be689c7e65add0d05b0
+# 7a1afd2710674a3e9559e88e1149b23f
 msgid "It will install php-modules under Cleopatra"
 msgstr ""
 
 #: ../../source/phpmodules.rst:50
 #: ../../source/phpmodules.rst:52
-# 90d5a131046d4f87b2b2e628655de181
-# f29195ff451146ee987b6414677dcd30
+# 8bc101ae33c94e11a9c758dd71213a98
+# a1fbfa92dd7946ef8d1d34327e41744a
 msgid "Install phpmodules"
 msgstr ""
 
 #: ../../source/phpmodules.rst:50
 #: ../../source/phpmodules.rst:52
-# 76b90ae6942848279e2d619b42cc36e9
-# f33a23a18e9648f6a41ae80e79f0891f
+# d52bf88b20594992a38f5118d576d68c
+# de52b7e126ea4d58bdf2a711a69b1d34
 msgid "phpmodules"
 msgstr ""
 
 #: ../../source/phpmodules.rst:50
-# 58a73167bc134a3480f780884fe16a74
+# ae905a3aed234acb98458bd9fe9566f0
 msgid "It will install phpmodules under Cleopatra"
 msgstr ""
 
 #: ../../source/phpmodules.rst:52
-# a6b86465f79f46d5974080afbfed83d2
+# 7596621ec89f473c90097654925d7a7a
 msgid "No"
 msgstr ""
 
 #: ../../source/phpmodules.rst:52
-# c5df7d6b4d1244e3b61e8832aea32766
+# b30b2d52a77b434980801689e410a241
 msgid "It will exit|"
 msgstr ""
 
 #: ../../source/phpmodules.rst:57
-# 81d4028acfe64815aff5aca20140dd73
+# c9cc2b1c69924236a02851e020914bcb
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/phpmodules.rst:59
-# c9944eef95294f69a179325c9a9e24b3
+# bcf31d653bc14a108543cfcf48afc5d2
 msgid "This module can install common modules."
 msgstr ""
 
 #: ../../source/phpmodules.rst:60
-# 4b957031192d4b5aa61dd5cd2f58eda8
+# bc1b99de000c467a9d4476170c3492cd
 msgid "This module can check all the modules are available with the updated version."
 msgstr ""
 
 #: ../../source/phpmodules.rst:61
-# 639481fbe2584e7fbfb44a70eec045dd
+# aaa151fc04684dbaac01555c4d399b1d
 msgid "Non case sensitive."
 msgstr ""
 
 #: ../../source/phpmodules.rst:62
-# 870ed100eef540deaf98a38fd3454276
+# 083a3acb429a42d792e148430314dc07
 msgid "Automatically install supporting files like curl, mysql, mem catche,mongo."
 msgstr ""
 

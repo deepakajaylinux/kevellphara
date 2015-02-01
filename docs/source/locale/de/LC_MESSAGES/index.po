@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"POT-Creation-Date: 2015-01-31 11:09+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,19 +11,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../index.rst:2
+#: ../../source/index.rst:2
 msgid "Praohtools Documentation"
 msgstr ""
 
-#: ../../index.rst:5
+#: ../../source/index.rst:5
 msgid "About pharaohtools"
 msgstr ""
 
-#: ../../index.rst:7
+#: ../../source/index.rst:7
 msgid "Welcome to the pharaohtools documentation!"
 msgstr ""
 
-#: ../../index.rst:9
+#: ../../source/index.rst:9
 msgid ""
 "The Pharaohs has its own benefit while comparing to other tools as it is "
 "user friendly. In this tool the coding and the entire process depends and "
@@ -40,22 +40,22 @@ msgid ""
 " entire modules under the pharaoh tool get enveloped."
 msgstr ""
 
-#: ../../index.rst:12
+#: ../../source/index.rst:12
 msgid "Commands"
 msgstr ""
 
-#: ../../index.rst:23
+#: ../../source/index.rst:23
 msgid "Indices and tables"
 msgstr ""
 
-#: ../../index.rst:25
+#: ../../source/index.rst:25
 msgid ":ref:`genindex`"
 msgstr ""
 
-#: ../../index.rst:26
+#: ../../source/index.rst:26
 msgid ":ref:`modindex`"
 msgstr ""
 
-#: ../../index.rst:27
+#: ../../source/index.rst:27
 msgid ":ref:`search`"
 msgstr ""

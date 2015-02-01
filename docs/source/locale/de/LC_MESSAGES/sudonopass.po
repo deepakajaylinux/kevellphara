@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"POT-Creation-Date: 2015-01-31 11:09+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,15 +11,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../sudonopass.rst:3
+#: ../../source/sudonopass.rst:3
 msgid "Sudonopass"
 msgstr ""
 
-#: ../../sudonopass.rst:6
+#: ../../source/sudonopass.rst:6
 msgid "Synopsis"
 msgstr ""
 
-#: ../../sudonopass.rst:8
+#: ../../source/sudonopass.rst:8
 msgid ""
 "Sudonopass used to run a particular command with root permissions. The "
 "interesting thing is that when the user use sudo for a particular command, "
@@ -28,11 +28,11 @@ msgid ""
 "with Ubuntu and Cent OS."
 msgstr ""
 
-#: ../../sudonopass.rst:11
+#: ../../source/sudonopass.rst:11
 msgid "Help command"
 msgstr ""
 
-#: ../../sudonopass.rst:13
+#: ../../source/sudonopass.rst:13
 msgid ""
 "This help command guide the user about sudonopass module. This is suitable "
 "for all type of business users. The help command shows a short list of the "
@@ -40,87 +40,87 @@ msgid ""
 "enumerate it."
 msgstr ""
 
-#: ../../sudonopass.rst:37
+#: ../../source/sudonopass.rst:37
 msgid "Installation"
 msgstr ""
 
-#: ../../sudonopass.rst:39
+#: ../../source/sudonopass.rst:39
 msgid "Use this module to install sudonopass on Ubuntu Linux system packages."
 msgstr ""
 
-#: ../../sudonopass.rst:45
+#: ../../source/sudonopass.rst:45
 msgid "Install sudonopass ?(Y/N)"
 msgstr ""
 
-#: ../../sudonopass.rst:47
+#: ../../source/sudonopass.rst:47
 msgid ""
 "When the user gives input, as yes automatically it will install configure "
 "the root pass access for everybody. The following screen shot will explain "
 "it."
 msgstr ""
 
-#: ../../sudonopass.rst:80
+#: ../../source/sudonopass.rst:80
 msgid "Option"
 msgstr ""
 
-#: ../../sudonopass.rst:85
+#: ../../source/sudonopass.rst:85
 msgid "Parameters"
 msgstr ""
 
-#: ../../sudonopass.rst:85
+#: ../../source/sudonopass.rst:85
 msgid "Dirctory(default)"
 msgstr ""
 
-#: ../../sudonopass.rst:85
+#: ../../source/sudonopass.rst:85
 msgid "Output"
 msgstr ""
 
-#: ../../sudonopass.rst:87 ../../sudonopass.rst:89
+#: ../../source/sudonopass.rst:87 ../../source/sudonopass.rst:89
 msgid "Install sudonopass"
 msgstr ""
 
-#: ../../sudonopass.rst:87
+#: ../../source/sudonopass.rst:87
 msgid "yes"
 msgstr ""
 
-#: ../../sudonopass.rst:87
+#: ../../source/sudonopass.rst:87
 msgid "It will install sudonopass under Cleopatra"
 msgstr ""
 
-#: ../../sudonopass.rst:89
+#: ../../source/sudonopass.rst:89
 msgid "No"
 msgstr ""
 
-#: ../../sudonopass.rst:89
+#: ../../source/sudonopass.rst:89
 msgid "It will exit|"
 msgstr ""
 
-#: ../../sudonopass.rst:93
+#: ../../source/sudonopass.rst:93
 msgid "Benefits"
 msgstr ""
 
-#: ../../sudonopass.rst:95
+#: ../../source/sudonopass.rst:95
 msgid ""
 "Sudonopass makes sure that root privileges are there for a specific command "
 "(or for a specific time) and not for the complete session as that may result"
 " in accidental misuse of root privileges."
 msgstr ""
 
-#: ../../sudonopass.rst:96
+#: ../../source/sudonopass.rst:96
 msgid ""
 "The user can use sudonopass even grant limited privileges to a user. This is"
 " helpful when the user do not want a user to have control of all the root "
 "powers while doing a sudonopass."
 msgstr ""
 
-#: ../../sudonopass.rst:97
+#: ../../source/sudonopass.rst:97
 msgid ""
 "The best advantage is that sudonopass requires user’s own login password "
 "rather than root password. This helps in keeping root password private and "
 "there is no need to change it even when a user (sudoer) leaves."
 msgstr ""
 
-#: ../../sudonopass.rst:98
+#: ../../source/sudonopass.rst:98
 msgid ""
 "This file provides information on the commands that were execute using sudo "
 "and their time of execution. This helps administrator to keep track of even "

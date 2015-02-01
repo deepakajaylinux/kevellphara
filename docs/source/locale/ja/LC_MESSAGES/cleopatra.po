@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"POT-Creation-Date: 2015-01-31 11:09+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,15 +11,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../cleopatra.rst:2
+#: ../../source/cleopatra.rst:2
 msgid "Cleopatra"
 msgstr ""
 
-#: ../../cleopatra.rst:6
+#: ../../source/cleopatra.rst:6
 msgid "Synopsis"
 msgstr ""
 
-#: ../../cleopatra.rst:8
+#: ../../source/cleopatra.rst:8
 msgid ""
 "The Cleopatra is an automation drive that allows DevOps Engineers, system "
 "administrators, infrastructure managers in performing the Configuration "
@@ -27,13 +27,13 @@ msgid ""
 "provisions the entire projects of the users automatically."
 msgstr ""
 
-#: ../../cleopatra.rst:10
+#: ../../source/cleopatra.rst:10
 msgid ""
 "This can also be used for providing packages and configuration files to your"
 " projects. It ensures the environment stability of your project."
 msgstr ""
 
-#: ../../cleopatra.rst:12
+#: ../../source/cleopatra.rst:12
 msgid ""
 "The modules under Cleopatra envelopes and satisfies the requirements of "
 "simple and as well as complex development environment while compared to "
@@ -41,7 +41,7 @@ msgid ""
 "of the entire Pharaoh tool gets covered."
 msgstr ""
 
-#: ../../cleopatra.rst:14
+#: ../../source/cleopatra.rst:14
 msgid ""
 "Installing Cleopatra to your machine acts as a shorter route to complete "
 "installation of other Pharaoh tools. While executing the installation "
@@ -49,27 +49,27 @@ msgid ""
 "install, which is an added advantage."
 msgstr ""
 
-#: ../../cleopatra.rst:16
+#: ../../source/cleopatra.rst:16
 msgid ""
 "Cleopatra aims to simplify the methods in package installation. And as well "
 "as it is secured for using, easily perceivable to the users."
 msgstr ""
 
-#: ../../cleopatra.rst:18
+#: ../../source/cleopatra.rst:18
 msgid ""
 "Cleopatra assists in enveloping the entire management of all sizes. It "
 "enriches and fulfills the need of users of a management like the developers,"
 " system administrator, release engineers etc."
 msgstr ""
 
-#: ../../cleopatra.rst:20
+#: ../../source/cleopatra.rst:20
 msgid ""
 "The coding system of Cleopatra is based in php. The Cleopatra is object-"
 "oriented that enrich not only the data type but also the types of operations"
 " that can be applied to the data."
 msgstr ""
 
-#: ../../cleopatra.rst:22
+#: ../../source/cleopatra.rst:22
 msgid ""
 "Hence, while comparing object-oriented programming techniques over "
 "procedural programming techniques , the object-oriented programming enables "
@@ -77,650 +77,650 @@ msgid ""
 "of object is added."
 msgstr ""
 
-#: ../../cleopatra.rst:24
+#: ../../source/cleopatra.rst:24
 msgid ""
 "It is extensible, as if any of the extra modules is required the users can "
 "frame and design the module as per their requirements and they can include."
 msgstr ""
 
-#: ../../cleopatra.rst:26
+#: ../../source/cleopatra.rst:26
 msgid ""
 "And also it is easier to rewrite the code as per the needs of the users. Its"
 " documentation includes the Cleopatra's current released version as 1.1.1."
 msgstr ""
 
-#: ../../cleopatra.rst:29
+#: ../../source/cleopatra.rst:29
 msgid "Installation"
 msgstr ""
 
-#: ../../cleopatra.rst:31
+#: ../../source/cleopatra.rst:31
 msgid ""
 "Before installing the Cleopatra to your machine, ensure whether git and php5"
 " exists in your machine or not. if not follow as given below"
 msgstr ""
 
-#: ../../cleopatra.rst:35
+#: ../../source/cleopatra.rst:35
 msgid "command to install git and php5 in ubuntu"
 msgstr ""
 
-#: ../../cleopatra.rst:38 ../../cleopatra.rst:53
+#: ../../source/cleopatra.rst:38 ../../source/cleopatra.rst:53
 msgid "git"
 msgstr ""
 
-#: ../../cleopatra.rst:44 ../../cleopatra.rst:59
+#: ../../source/cleopatra.rst:44 ../../source/cleopatra.rst:59
 msgid "php"
 msgstr ""
 
-#: ../../cleopatra.rst:50
+#: ../../source/cleopatra.rst:50
 msgid "command to install git and php5 in cent OS"
 msgstr ""
 
-#: ../../cleopatra.rst:64
+#: ../../source/cleopatra.rst:64
 msgid ""
 "after completion of git and php5 installation, let's see how to install the "
 "Cleopatra in your machine."
 msgstr ""
 
-#: ../../cleopatra.rst:67
+#: ../../source/cleopatra.rst:67
 msgid "For Mac, Linux or Unix"
 msgstr ""
 
-#: ../../cleopatra.rst:68
+#: ../../source/cleopatra.rst:68
 msgid "It is simple by using the coding"
 msgstr ""
 
-#: ../../cleopatra.rst:75
+#: ../../source/cleopatra.rst:75
 msgid "For Windows"
 msgstr ""
 
-#: ../../cleopatra.rst:76
+#: ../../source/cleopatra.rst:76
 msgid ""
 "It is simple, get the terminal open via the option \"Run as Administrator\","
 " and then apply the following coding,"
 msgstr ""
 
-#: ../../cleopatra.rst:85
+#: ../../source/cleopatra.rst:85
 msgid "Available Modules"
 msgstr ""
 
-#: ../../cleopatra.rst:87
+#: ../../source/cleopatra.rst:87
 msgid "DummyLinuxModule - Dummy Linux Module"
 msgstr ""
 
-#: ../../cleopatra.rst:89
+#: ../../source/cleopatra.rst:89
 msgid "AWSCloudFormation - The AWS CloudFormation CLI Tools"
 msgstr ""
 
-#: ../../cleopatra.rst:91
+#: ../../source/cleopatra.rst:91
 msgid "AWSCloudWatch - The AWS CloudWatch CLI Tools"
 msgstr ""
 
-#: ../../cleopatra.rst:93
+#: ../../source/cleopatra.rst:93
 msgid "AWSEC2 - AWS EC2 Server Management Functions"
 msgstr ""
 
-#: ../../cleopatra.rst:95
+#: ../../source/cleopatra.rst:95
 msgid "ApacheConf - Apache Conf - Install a Apache Configuration"
 msgstr ""
 
-#: ../../cleopatra.rst:97
+#: ../../source/cleopatra.rst:97
 msgid "ApacheModules - Apache Modules - Commonly used modules for Apache"
 msgstr ""
 
-#: ../../cleopatra.rst:99
+#: ../../source/cleopatra.rst:99
 msgid ""
 "ApacheReverseProxyModules - Apache Reverse Proxy Modules - Reverse "
 "Proxy/Load Balancer Modules for Apache"
 msgstr ""
 
-#: ../../cleopatra.rst:101
+#: ../../source/cleopatra.rst:101
 msgid "ApacheServer - Apache Server - Install or remove the Apache Server"
 msgstr ""
 
-#: ../../cleopatra.rst:103
+#: ../../source/cleopatra.rst:103
 msgid "Apt - Add, Remove or Modify Apts"
 msgstr ""
 
-#: ../../cleopatra.rst:105
+#: ../../source/cleopatra.rst:105
 msgid "Autopilot - Cleopatra Autopilot - User Defined Installations"
 msgstr ""
 
-#: ../../cleopatra.rst:107
+#: ../../source/cleopatra.rst:107
 msgid "Behat - Behat - The PHP BDD Testing Suite"
 msgstr ""
 
-#: ../../cleopatra.rst:109
+#: ../../source/cleopatra.rst:109
 msgid "Boxify - Boxify Wrapper - Create Cloud Instances"
 msgstr ""
 
-#: ../../cleopatra.rst:111
+#: ../../source/cleopatra.rst:111
 msgid "Chgrp - Chgrp Functionality"
 msgstr ""
 
-#: ../../cleopatra.rst:113
+#: ../../source/cleopatra.rst:113
 msgid "Chmod - Chmod Functionality"
 msgstr ""
 
-#: ../../cleopatra.rst:115
+#: ../../source/cleopatra.rst:115
 msgid "Chown - Chown Functionality"
 msgstr ""
 
-#: ../../cleopatra.rst:117
+#: ../../source/cleopatra.rst:117
 msgid "Chrome - Chrome - Install or remove Chrome"
 msgstr ""
 
-#: ../../cleopatra.rst:119
+#: ../../source/cleopatra.rst:119
 msgid "ChromeDriver - The Chrome Browser remote controlling server"
 msgstr ""
 
-#: ../../cleopatra.rst:121
+#: ../../source/cleopatra.rst:121
 msgid "Citadel - Citadel Server - Install or remove the Citadel Server"
 msgstr ""
 
-#: ../../cleopatra.rst:123
+#: ../../source/cleopatra.rst:123
 msgid ""
 "Cleofy - Cleopatra Cleofyer - Creates default autopilots for your project"
 msgstr ""
 
-#: ../../cleopatra.rst:125
+#: ../../source/cleopatra.rst:125
 msgid "Cleopatra - Cleopatra - Upgrade or Re-install Cleopatra"
 msgstr ""
 
-#: ../../cleopatra.rst:127
+#: ../../source/cleopatra.rst:127
 msgid "Composer - Composer - Upgrade or Re-install Composer"
 msgstr ""
 
-#: ../../cleopatra.rst:129
+#: ../../source/cleopatra.rst:129
 msgid "Copy - Copy Functionality"
 msgstr ""
 
-#: ../../cleopatra.rst:131
+#: ../../source/cleopatra.rst:131
 msgid ""
 "DNSify - DNSify Wrapper - Ensure the existence or removal of DNS records"
 msgstr ""
 
-#: ../../cleopatra.rst:133
+#: ../../source/cleopatra.rst:133
 msgid ""
 "Dapperstrano - Dapperstrano - The PHP Automated Website Deployment tool"
 msgstr ""
 
-#: ../../cleopatra.rst:135
+#: ../../source/cleopatra.rst:135
 msgid ""
 "DeveloperTools - Developer Tools - IDE's and other tools for Developers"
 msgstr ""
 
-#: ../../cleopatra.rst:137
+#: ../../source/cleopatra.rst:137
 msgid "DigitalOcean - Digital Ocean Server Management Functions"
 msgstr ""
 
-#: ../../cleopatra.rst:139
+#: ../../source/cleopatra.rst:139
 msgid ""
 "DigitalOceanV2 - Digital Ocean Server Management Functions - API Version 2"
 msgstr ""
 
-#: ../../cleopatra.rst:141
+#: ../../source/cleopatra.rst:141
 msgid "Encryption - Encryption or Decryption of files"
 msgstr ""
 
-#: ../../cleopatra.rst:143
+#: ../../source/cleopatra.rst:143
 msgid ""
 "EnvironmentConfig - Environment Configuration - Configure Environments for a"
 " project"
 msgstr ""
 
-#: ../../cleopatra.rst:145
+#: ../../source/cleopatra.rst:145
 msgid "File - Functions to Modify Files"
 msgstr ""
 
-#: ../../cleopatra.rst:147
+#: ../../source/cleopatra.rst:147
 msgid "Firefox - Firefox - Install or remove Firefox"
 msgstr ""
 
-#: ../../cleopatra.rst:149
+#: ../../source/cleopatra.rst:149
 msgid ""
 "Firefox14 - Firefox 14 - A version of Firefox highly tested with Selenium "
 "Server"
 msgstr ""
 
-#: ../../cleopatra.rst:151
+#: ../../source/cleopatra.rst:151
 msgid ""
 "Firefox17 - Firefox 17 - A version of Firefox highly tested with Selenium "
 "Server"
 msgstr ""
 
-#: ../../cleopatra.rst:153
+#: ../../source/cleopatra.rst:153
 msgid ""
 "Firefox24 - Firefox 24 - A version of Firefox highly tested with Selenium "
 "Server"
 msgstr ""
 
-#: ../../cleopatra.rst:155
+#: ../../source/cleopatra.rst:155
 msgid ""
 "Firefox33 - Firefox 33 - A version of Firefox highly tested with Selenium "
 "Server"
 msgstr ""
 
-#: ../../cleopatra.rst:157
+#: ../../source/cleopatra.rst:157
 msgid "Firewall - Add, Remove or Modify Firewalls"
 msgstr ""
 
-#: ../../cleopatra.rst:159
+#: ../../source/cleopatra.rst:159
 msgid "GIMP - GIMP - The Image Editor"
 msgstr ""
 
-#: ../../cleopatra.rst:161
+#: ../../source/cleopatra.rst:161
 msgid "Gem - Ruby Gems Package Manager"
 msgstr ""
 
-#: ../../cleopatra.rst:163
+#: ../../source/cleopatra.rst:163
 msgid ""
 "Generator - Dapperstrano Autopilot Generator - Generate Autopilot files "
 "interactively"
 msgstr ""
 
-#: ../../cleopatra.rst:165
+#: ../../source/cleopatra.rst:165
 msgid "GitBucket - Git Bucket - The Git SCM Management Web Application"
 msgstr ""
 
-#: ../../cleopatra.rst:167
+#: ../../source/cleopatra.rst:167
 msgid ""
 "GitKeySafe - Git Key-Safe - Install a script for git to allow specifying ssh"
 " keys during commands"
 msgstr ""
 
-#: ../../cleopatra.rst:169
+#: ../../source/cleopatra.rst:169
 msgid "GitLab - Git Lab - The Git SCM Management Web Application"
 msgstr ""
 
-#: ../../cleopatra.rst:171
+#: ../../source/cleopatra.rst:171
 msgid "GitTools - Git Tools - Tools for working with Git SCM"
 msgstr ""
 
-#: ../../cleopatra.rst:173
+#: ../../source/cleopatra.rst:173
 msgid "HAProxy - HA Proxy Server - Install or remove the HA Proxy Server"
 msgstr ""
 
-#: ../../cleopatra.rst:175
+#: ../../source/cleopatra.rst:175
 msgid "HHVM - HHVM - The PHP Virtual Machine runtime from Facebook"
 msgstr ""
 
-#: ../../cleopatra.rst:177
+#: ../../source/cleopatra.rst:177
 msgid "Hostname - View or Modify Hostname"
 msgstr ""
 
-#: ../../cleopatra.rst:179
+#: ../../source/cleopatra.rst:179
 msgid "InstallPackage - Cleopatra Predefined Installers"
 msgstr ""
 
-#: ../../cleopatra.rst:181
+#: ../../source/cleopatra.rst:181
 msgid "IntelliJ - IntelliJ - A great IDE from JetBrains"
 msgstr ""
 
-#: ../../cleopatra.rst:183
+#: ../../source/cleopatra.rst:183
 msgid "Invoke - SSH Invocation Functions"
 msgstr ""
 
-#: ../../cleopatra.rst:185
+#: ../../source/cleopatra.rst:185
 msgid "JRush - JRush - The Joomla command line utility from Golden Contact"
 msgstr ""
 
-#: ../../cleopatra.rst:187
+#: ../../source/cleopatra.rst:187
 msgid "Java - Java JDK 1.7"
 msgstr ""
 
-#: ../../cleopatra.rst:189
+#: ../../source/cleopatra.rst:189
 msgid "Jenkins - Jenkins - The Java Build Server"
 msgstr ""
 
-#: ../../cleopatra.rst:191
+#: ../../source/cleopatra.rst:191
 msgid ""
 "JenkinsPlugins - Jenkins PHP Plugins - Common Plugins for Jenkins PHP Builds"
 msgstr ""
 
-#: ../../cleopatra.rst:193
+#: ../../source/cleopatra.rst:193
 msgid "JenkinsSudoNoPass - Configure Passwordless Sudo for your Jenkins user"
 msgstr ""
 
-#: ../../cleopatra.rst:195
+#: ../../source/cleopatra.rst:195
 msgid ""
 "LigHTTPDServer - LigHTTPD Server - Install or remove the LigHTTPD Server"
 msgstr ""
 
-#: ../../cleopatra.rst:197
+#: ../../source/cleopatra.rst:197
 msgid "Logging - Logging - Output errors to the logging"
 msgstr ""
 
-#: ../../cleopatra.rst:199
+#: ../../source/cleopatra.rst:199
 msgid "MediaTools - Media Tools - Tools to help view and manage Media files"
 msgstr ""
 
-#: ../../cleopatra.rst:201
+#: ../../source/cleopatra.rst:201
 msgid "Mkdir - Mkdir Functionality"
 msgstr ""
 
-#: ../../cleopatra.rst:203
+#: ../../source/cleopatra.rst:203
 msgid "ModuleManager - Manage the modules used in Cleopatra"
 msgstr ""
 
-#: ../../cleopatra.rst:205
+#: ../../source/cleopatra.rst:205
 msgid "MongoDB - MongoDB Server - The MongoDB Datastore Server"
 msgstr ""
 
-#: ../../cleopatra.rst:207
+#: ../../source/cleopatra.rst:207
 msgid "MysqlAdmins - Mysql Admins - Install administrative users for Mysql"
 msgstr ""
 
-#: ../../cleopatra.rst:209
+#: ../../source/cleopatra.rst:209
 msgid "MysqlServer - Mysql Server - The Mysql RDBMS Server"
 msgstr ""
 
-#: ../../cleopatra.rst:211
+#: ../../source/cleopatra.rst:211
 msgid ""
 "MysqlServerGalera - Mysql Server Galera - The Galera Clustering compatible "
 "version of Mysql RDBMS Server"
 msgstr ""
 
-#: ../../cleopatra.rst:213
+#: ../../source/cleopatra.rst:213
 msgid "MysqlTools - Mysql Tools - For administering and developing with Mysql"
 msgstr ""
 
-#: ../../cleopatra.rst:215
+#: ../../source/cleopatra.rst:215
 msgid "NagiosServer - Nagios Server - Install or remove the Nagios Server"
 msgstr ""
 
-#: ../../cleopatra.rst:217
+#: ../../source/cleopatra.rst:217
 msgid "NetworkTools - Network Tools - Tools for working with Networks"
 msgstr ""
 
-#: ../../cleopatra.rst:219
+#: ../../source/cleopatra.rst:219
 msgid "NginxServer - Nginx Server - Install or remove the Nginx Server"
 msgstr ""
 
-#: ../../cleopatra.rst:221
+#: ../../source/cleopatra.rst:221
 msgid "NodeJS - Node JS - The Server Side Javascript Engine"
 msgstr ""
 
-#: ../../cleopatra.rst:223
+#: ../../source/cleopatra.rst:223
 msgid "PECL - Add, Remove or Modify PECLs"
 msgstr ""
 
-#: ../../cleopatra.rst:225
+#: ../../source/cleopatra.rst:225
 msgid "PHPAPC - PHP APC - Commonly used PHP APC"
 msgstr ""
 
-#: ../../cleopatra.rst:227
+#: ../../source/cleopatra.rst:227
 msgid "PHPCI - PHPCI - The PHP Build Server"
 msgstr ""
 
-#: ../../cleopatra.rst:229
+#: ../../source/cleopatra.rst:229
 msgid "PHPCS - PHP Code Sniffer - The static code analysis tool"
 msgstr ""
 
-#: ../../cleopatra.rst:231
+#: ../../source/cleopatra.rst:231
 msgid "PHPConf - PHP Conf - Install a PHP Configuration"
 msgstr ""
 
-#: ../../cleopatra.rst:233
+#: ../../source/cleopatra.rst:233
 msgid "PHPMD - PHP Mess Detector - The static analysis tool"
 msgstr ""
 
-#: ../../cleopatra.rst:235
+#: ../../source/cleopatra.rst:235
 msgid "PHPModules - PHP Modules - Commonly used PHP Modules"
 msgstr ""
 
-#: ../../cleopatra.rst:237
+#: ../../source/cleopatra.rst:237
 msgid "PHPSSH - PHP SSH - PHP SSH Extension"
 msgstr ""
 
-#: ../../cleopatra.rst:239
+#: ../../source/cleopatra.rst:239
 msgid "PHPStorm - PHPStorm - A great IDE from JetBrains"
 msgstr ""
 
-#: ../../cleopatra.rst:241
+#: ../../source/cleopatra.rst:241
 msgid ""
 "PHPUnit - PHP Unit - The PHP Implementation of the XUnit Unit Testing "
 "standard"
 msgstr ""
 
-#: ../../cleopatra.rst:243
+#: ../../source/cleopatra.rst:243
 msgid ""
 "PackageManager - Native Package Manager Wrapper - Install OS neutral "
 "packages"
 msgstr ""
 
-#: ../../cleopatra.rst:245
+#: ../../source/cleopatra.rst:245
 msgid "PapyrusEditor - Papyrus Editor Web Interface"
 msgstr ""
 
-#: ../../cleopatra.rst:247
+#: ../../source/cleopatra.rst:247
 msgid "Parallax - Parallax - Execute commands in parallel"
 msgstr ""
 
-#: ../../cleopatra.rst:249
+#: ../../source/cleopatra.rst:249
 msgid "Pear - Pear Package Manager"
 msgstr ""
 
-#: ../../cleopatra.rst:251
+#: ../../source/cleopatra.rst:251
 msgid "Phake - Phake - The PHP task creation tool (Make/Rake)"
 msgstr ""
 
-#: ../../cleopatra.rst:253
+#: ../../source/cleopatra.rst:253
 msgid "PharaohTools - Pharaoh Tools - Gotta Install them all"
 msgstr ""
 
-#: ../../cleopatra.rst:255
+#: ../../source/cleopatra.rst:255
 msgid ""
 "Phlagrant - Phlagrant - The Virtual Machine management solution for PHP"
 msgstr ""
 
-#: ../../cleopatra.rst:257
+#: ../../source/cleopatra.rst:257
 msgid ""
 "Phrankinsense - Phrankinsense - The Pharaoh Tools Project Management "
 "Solution"
 msgstr ""
 
-#: ../../cleopatra.rst:259
+#: ../../source/cleopatra.rst:259
 msgid "Ping - Test a Ping to see if its responding"
 msgstr ""
 
-#: ../../cleopatra.rst:261
+#: ../../source/cleopatra.rst:261
 msgid "Port - Test a Port to see if its responding"
 msgstr ""
 
-#: ../../cleopatra.rst:263
+#: ../../source/cleopatra.rst:263
 msgid "PostInput - HTTP Post/Get Input Interface"
 msgstr ""
 
-#: ../../cleopatra.rst:265
+#: ../../source/cleopatra.rst:265
 msgid "PostgresServer - Postgres Server - The Postgres RDBMS Server"
 msgstr ""
 
-#: ../../cleopatra.rst:267
+#: ../../source/cleopatra.rst:267
 msgid "Process - Process Functionality"
 msgstr ""
 
-#: ../../cleopatra.rst:269
+#: ../../source/cleopatra.rst:269
 msgid "Python - Python - The programming language"
 msgstr ""
 
-#: ../../cleopatra.rst:271
+#: ../../source/cleopatra.rst:271
 msgid "Ra - Ra - The Pharaoh Tools Build Server"
 msgstr ""
 
-#: ../../cleopatra.rst:273
+#: ../../source/cleopatra.rst:273
 msgid "Rackspace - Rackspace/Opencloud Cloud Management Functions"
 msgstr ""
 
-#: ../../cleopatra.rst:275
+#: ../../source/cleopatra.rst:275
 msgid ""
 "RubyBDD - Ruby BDD Suite - Install Common Gems for Cucumber, Calabash, "
 "Capybara and Saucelabs"
 msgstr ""
 
-#: ../../cleopatra.rst:277
+#: ../../source/cleopatra.rst:277
 msgid "RubyRVM - Ruby RVM - The Ruby version manager"
 msgstr ""
 
-#: ../../cleopatra.rst:279
+#: ../../source/cleopatra.rst:279
 msgid ""
 "RubySystem - Ruby RVM System wide - The Ruby version manager system wide "
 "version"
 msgstr ""
 
-#: ../../cleopatra.rst:281
+#: ../../source/cleopatra.rst:281
 msgid "RunCommand - Execute a Command"
 msgstr ""
 
-#: ../../cleopatra.rst:283
+#: ../../source/cleopatra.rst:283
 msgid "SFTP - SFTP Functionality"
 msgstr ""
 
-#: ../../cleopatra.rst:285
+#: ../../source/cleopatra.rst:285
 msgid "SVN - SVN - The Source Control Manager"
 msgstr ""
 
-#: ../../cleopatra.rst:287
+#: ../../source/cleopatra.rst:287
 msgid "SeleniumServer - The Selenium Web Browser controlling server"
 msgstr ""
 
-#: ../../cleopatra.rst:289
+#: ../../source/cleopatra.rst:289
 msgid "Service - Start, Stop or Restart a Service"
 msgstr ""
 
-#: ../../cleopatra.rst:291
+#: ../../source/cleopatra.rst:291
 msgid "SshEncrypt - Install/encrypt private SSH keys"
 msgstr ""
 
-#: ../../cleopatra.rst:293
+#: ../../source/cleopatra.rst:293
 msgid ""
 "SshHarden - Apply security functions to the SSH accounts/setup of the "
 "machine"
 msgstr ""
 
-#: ../../cleopatra.rst:295
+#: ../../source/cleopatra.rst:295
 msgid "SshKeyInstall - Install SSH Public Keys to a user account"
 msgstr ""
 
-#: ../../cleopatra.rst:297
+#: ../../source/cleopatra.rst:297
 msgid "SshKeyStore - Install SSH Public Keys to a user account"
 msgstr ""
 
-#: ../../cleopatra.rst:299
+#: ../../source/cleopatra.rst:299
 msgid "SshKeygen - SSH Keygen - Generate SSH Kay Pairs"
 msgstr ""
 
-#: ../../cleopatra.rst:301
+#: ../../source/cleopatra.rst:301
 msgid "StandardTools - Standard Tools for any Installation"
 msgstr ""
 
-#: ../../cleopatra.rst:303
+#: ../../source/cleopatra.rst:303
 msgid "SudoNoPass - Configure Passwordless Sudo for any User"
 msgstr ""
 
-#: ../../cleopatra.rst:305
+#: ../../source/cleopatra.rst:305
 msgid ""
 "SystemDetection - System Detection - Detect the Running Operating System"
 msgstr ""
 
-#: ../../cleopatra.rst:307
+#: ../../source/cleopatra.rst:307
 msgid "Teamcity - Teamcity - The Jetbrains Build Server"
 msgstr ""
 
-#: ../../cleopatra.rst:309
+#: ../../source/cleopatra.rst:309
 msgid ""
 "Templating - Install files with placeholders or lines replaced at runtime"
 msgstr ""
 
-#: ../../cleopatra.rst:311
+#: ../../source/cleopatra.rst:311
 msgid "Testingkamen - Upgrade or Re-install Testingkamen"
 msgstr ""
 
-#: ../../cleopatra.rst:313
+#: ../../source/cleopatra.rst:313
 msgid "ThoughtWorksGo - The Continuous Delivery server from ThoughtWorks"
 msgstr ""
 
-#: ../../cleopatra.rst:315
+#: ../../source/cleopatra.rst:315
 msgid "UbuntuCompiler - For Compiling Linux Programs"
 msgstr ""
 
-#: ../../cleopatra.rst:317
+#: ../../source/cleopatra.rst:317
 msgid "User - Add, Remove or Modify Users"
 msgstr ""
 
-#: ../../cleopatra.rst:319
+#: ../../source/cleopatra.rst:319
 msgid "VNC - VNC - The Display Manager Solution"
 msgstr ""
 
-#: ../../cleopatra.rst:321
+#: ../../source/cleopatra.rst:321
 msgid "VNCPasswd - VNCPasswd - The Display Manager Solution"
 msgstr ""
 
-#: ../../cleopatra.rst:323
+#: ../../source/cleopatra.rst:323
 msgid "VSphere - VMWare VSphere - Server Management Functions"
 msgstr ""
 
-#: ../../cleopatra.rst:325
+#: ../../source/cleopatra.rst:325
 msgid "Varnish - The HTTP Cache"
 msgstr ""
 
-#: ../../cleopatra.rst:327
+#: ../../source/cleopatra.rst:327
 msgid "Virtualbox - Virtualbox - The local Virtual Machine Solution"
 msgstr ""
 
-#: ../../cleopatra.rst:329
+#: ../../source/cleopatra.rst:329
 msgid "WinExe - Add, Remove or Modify WinExes"
 msgstr ""
 
-#: ../../cleopatra.rst:331
+#: ../../source/cleopatra.rst:331
 msgid "WireframeSketcher - Wireframe Sketcher - the Wireframing application"
 msgstr ""
 
-#: ../../cleopatra.rst:333
+#: ../../source/cleopatra.rst:333
 msgid "Xvfb - Xvfb - The Display Manager Solution"
 msgstr ""
 
-#: ../../cleopatra.rst:335
+#: ../../source/cleopatra.rst:335
 msgid "Yum - Add, Remove or Modify Yum Packages"
 msgstr ""
 
-#: ../../cleopatra.rst:339
+#: ../../source/cleopatra.rst:339
 msgid "How to Use"
 msgstr ""
 
-#: ../../cleopatra.rst:341
+#: ../../source/cleopatra.rst:341
 msgid "Let us see, how to use the Cleopatra tool, first, simply type as"
 msgstr ""
 
-#: ../../cleopatra.rst:348
+#: ../../source/cleopatra.rst:348
 msgid ""
 "this command will list all the names of the modules that are available under"
 " Cleopatra. here, the screenshot denotes the display of all modules "
 "available under Cleopatra."
 msgstr ""
 
-#: ../../cleopatra.rst:501
+#: ../../source/cleopatra.rst:501
 msgid "Video Cast Instruction"
 msgstr ""
 
-#: ../../cleopatra.rst:515
+#: ../../source/cleopatra.rst:515
 msgid "What You can Learn Here"
 msgstr ""
 
-#: ../../cleopatra.rst:517
+#: ../../source/cleopatra.rst:517
 msgid "The Help command"
 msgstr ""
 
-#: ../../cleopatra.rst:519
+#: ../../source/cleopatra.rst:519
 msgid ""
 "If you want to know the purpose of a particular module, just type the "
 "command as follows:"
 msgstr ""
 
-#: ../../cleopatra.rst:521
+#: ../../source/cleopatra.rst:521
 msgid "cleopatra ModuleName help"
 msgstr ""
 
-#: ../../cleopatra.rst:523
+#: ../../source/cleopatra.rst:523
 msgid ""
 "this command will provide the usage of that particular module and also the "
 "available options in actions that you can perform. The screenshot shown "
@@ -728,6 +728,6 @@ msgid ""
 "command."
 msgstr ""
 
-#: ../../cleopatra.rst:546
+#: ../../source/cleopatra.rst:546
 msgid "Playing with Cleopatra Modules"
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 12:00+0530\n"
+"POT-Creation-Date: 2015-02-01 14:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,138 +17,138 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/phpssh.rst:3
-# feeb84449c2e4521a0466be27b59f015
+# a5f823da276349e188bd20052b7ae89c
 msgid "Php SSH"
 msgstr ""
 
 #: ../../source/phpssh.rst:6
-# 2be14a08c1f5401bb21edabcf9562179
+# b8767420cc2644dc8c3fba4b9e77ff13
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/phpssh.rst:8
-# 1a2ab1b404cc4b3488b9e3de924ca622
+# cdaf098b9df743aaaea79e7daf1625e4
 msgid "PhpSSH has now become even easier to get it up and running. Making it much easier to auto upgrade Cleopatra via PhpSSH. Taking remote shell, for carrying out different tasks is a norm, if the user have multiple server machine's in an infrastructure."
 msgstr ""
 
 #: ../../source/phpssh.rst:11
-# 86e1d18d69464e05bf0324129524ac0c
+# 097064453ba643af9f843b975416690e
 msgid "Help command"
 msgstr ""
 
 #: ../../source/phpssh.rst:13
-# e95d077b82ad4e09a7755dce7ded41ea
+# a06710fa0fa54398be1daf9583517d3a
 msgid "In this help command, the user will be discussing one such tool that was designed to eliminate the flaws in previous remote shell programs. Cleopatra topic of interest for this command is none other than the Secure Sell, better known as phpSSH. The command for help as follows"
 msgstr ""
 
 #: ../../source/phpssh.rst:19
-# 62d88434a5324cca8dddee2fecd87729
+# 7841a7be746d4e0da28f7f0e71181f04
 msgid "The following screen shot can envisage the help command."
 msgstr ""
 
 #: ../../source/phpssh.rst:23
-# 4980275d712441a0a85d9a227f74afb6
+# 4600b304093d44058b971bdaa3c4d81f
 msgid "Installation"
 msgstr ""
 
 #: ../../source/phpssh.rst:25
-# c088666f0b2b4bfc8ecbebd0d99fa89c
+# bfa357540e7f456fa014ae87d1d4d1cf
 msgid "This is a prominent process to install Phpssh module under Cleopatra by just using the command given below,"
 msgstr ""
 
 #: ../../source/phpssh.rst:31
-# 9e161b4cd170454693420814196f5d90
+# 0eb29b7361ba4496971d2fd8b419fb63
 msgid "After key in the command, it can asks"
 msgstr ""
 
 #: ../../source/phpssh.rst:33
-# 60ed0b3f2c7f48478b32c87e8eff3123
+# 24e25c76b5eb4b7fa39a983e50fb7da0
 msgid "Install phpssh? (Y/N)"
 msgstr ""
 
 #: ../../source/phpssh.rst:35
-# 2c9483392df643bba98964fdf3f33a8b
+# be092cb664704abeb351713d36690298
 msgid "In case the user input as Y, it can install phpssh from the package. Else, it can exit the screen. The following screen shots can explain it."
 msgstr ""
 
 #: ../../source/phpssh.rst:38
 #: ../../source/phpssh.rst:43
-# 446652e6653a4a3980aa6b93ed24b8a3
-# be7bd2494da843a3ae5fb4cf19435613
+# e3fe6c1aa2b64b3fa1fd0d403ab3a74e
+# 4cecf3f03c26402c83874695a75383ef
 msgid "Options"
 msgstr ""
 
 #: ../../source/phpssh.rst:43
-# fa30eb9165994e589193f0fc90f24726
+# f66fedc71db64f878528efbdde089959
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/phpssh.rst:43
-# ac11560a8cb346c299b245260b375e18
+# 0a8984605d0b4893aa4ccbc3239f4ea0
 msgid "Alternative Parameter"
 msgstr ""
 
 #: ../../source/phpssh.rst:43
-# 77839a61a2b7477f9bd66c13f61eea0f
+# 3a9c04984789408f854168536be17229
 msgid "Comments"
 msgstr ""
 
 #: ../../source/phpssh.rst:45
 #: ../../source/phpssh.rst:48
-# 6cc7a74bec0f478c845788f28071fa8c
-# 6e65676dda8b45d6a94dbc3d84b4b98a
+# df223d300f284f59891baf0c569cdaf2
+# f1f7409bc7f043c0b78c2c37e54c5a0a
 msgid "Cleopatra PHPSSH Install"
 msgstr ""
 
 #: ../../source/phpssh.rst:45
 #: ../../source/phpssh.rst:48
-# 9f0b43bf0a4a45119282a876e0aa1397
-# 711c7ead25c944ab9c8d620e37585252
+# 365cbc7396094592b4da51ff8067c2de
+# 143c42ea0d7d4b0b8b49d986f89dc5f7
 msgid "Instead of using PHP SSH We  can use PHPSSH, phpssh,php-ssh"
 msgstr ""
 
 #: ../../source/phpssh.rst:45
-# 74a5c07709ce4ea98edeba4b6ad2cc5c
+# 0f696e0142114370932944aae4eb4fca
 msgid "Y"
 msgstr ""
 
 #: ../../source/phpssh.rst:46
-# 61be2a76d59d40b7b81fe07000a1bcdf
+# d65a2535dc9e425eb05e52752e56e2ef
 msgid "System starts installation process"
 msgstr ""
 
 #: ../../source/phpssh.rst:48
-# df46a456b09647df9bb90599debc6bf8
+# 167ababeef8943ff8b4a1e550e5ebfb2
 msgid "N"
 msgstr ""
 
 #: ../../source/phpssh.rst:49
-# 22c2f8315ce944b4902c391bed537b1d
+# 249204674e35469a8131c8e777a92ed7
 msgid "System stops installation process|"
 msgstr ""
 
 #: ../../source/phpssh.rst:53
-# c4b38fbc129d4553abb6838d5b132786
+# f3d0c77de22a44878ba06a33c1834226
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/phpssh.rst:55
-# 4c07978cae24483ea456a68b1546145a
+# dabf1e3a19844b5bb68edd49b8e839ed
 msgid "The first and the foremost is the privacy of the communication. This means the connection, which provides a remote shell login, must be encrypted to prevent eavesdropping."
 msgstr ""
 
 #: ../../source/phpssh.rst:56
-# 630af6fb82d4431cb1fd85662287b682
+# 26fb2ee337374c0382754ce0bdae2e95
 msgid "There must be a mechanism to check whether the data send by either party is not altered, or tampered with. In short, integrity check is necessary."
 msgstr ""
 
 #: ../../source/phpssh.rst:57
-# 16485b63b4dc40d399fb24d5ddd788ce
+# d576a811a8674966a8ed5e294a42448b
 msgid "Identity of both the server and the client must be provided to each other, to establish a proper authentication."
 msgstr ""
 
 #: ../../source/phpssh.rst:58
-# e9eecf52e1594ddd8660cdcd40e435cf
+# 142521b0d8ff4be790a264aa2bae91f5
 msgid "Encryption and authentication mechanisms provided by PhpSSH enhances security to a greater extent."
 msgstr ""
 

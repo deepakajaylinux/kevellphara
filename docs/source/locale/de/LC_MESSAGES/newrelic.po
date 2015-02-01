@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"POT-Creation-Date: 2015-01-31 11:09+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,15 +11,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../newrelic.rst:3
+#: ../../source/newrelic.rst:3
 msgid "Newrelic"
 msgstr ""
 
-#: ../../newrelic.rst:6
+#: ../../source/newrelic.rst:6
 msgid "Synopsis"
 msgstr ""
 
-#: ../../newrelic.rst:8
+#: ../../source/newrelic.rst:8
 msgid ""
 "Newrelic used to monitoring the server. Collaboration across the different "
 "roles delivers many benefits. The combination of a shared code base, "
@@ -32,11 +32,11 @@ msgid ""
 "things. The newrelic is comfortable with Ubuntu and cent OS."
 msgstr ""
 
-#: ../../newrelic.rst:11
+#: ../../source/newrelic.rst:11
 msgid "Help command"
 msgstr ""
 
-#: ../../newrelic.rst:13
+#: ../../source/newrelic.rst:13
 msgid ""
 "The help command leads the users regarding the purpose and as well as about "
 "the options that are included in the newrelic modules. The help command "
@@ -45,18 +45,18 @@ msgid ""
 " for newrelic is shown below."
 msgstr ""
 
-#: ../../newrelic.rst:19
+#: ../../source/newrelic.rst:19
 msgid ""
 "The syntax for the help command non case sensitive which adds an advantage "
 "for this module. The following screenshot visualize the user about the help "
 "command under newrelic."
 msgstr ""
 
-#: ../../newrelic.rst:40
+#: ../../source/newrelic.rst:40
 msgid "Installation"
 msgstr ""
 
-#: ../../newrelic.rst:42
+#: ../../source/newrelic.rst:42
 msgid ""
 "These installation procedures are for system administrators. This section "
 "provides information about compatibility and requirements, basic "
@@ -64,135 +64,135 @@ msgid ""
 "information."
 msgstr ""
 
-#: ../../newrelic.rst:44
+#: ../../source/newrelic.rst:44
 msgid "Before installation the user has to follow:"
 msgstr ""
 
-#: ../../newrelic.rst:46
+#: ../../source/newrelic.rst:46
 msgid ""
 "Make sure your system meets New Relic's PHP compatibility and requirements."
 msgstr ""
 
-#: ../../newrelic.rst:48
+#: ../../source/newrelic.rst:48
 msgid "If you do not already have a New Relic account, create one."
 msgstr ""
 
-#: ../../newrelic.rst:50
+#: ../../source/newrelic.rst:50
 msgid ""
 "From your New Relic Account settings, copy your license key information."
 msgstr ""
 
-#: ../../newrelic.rst:52
+#: ../../source/newrelic.rst:52
 msgid ""
 "Follow the agent installation procedures for both the PHP extension and the "
 "local proxy daemon."
 msgstr ""
 
-#: ../../newrelic.rst:54
+#: ../../source/newrelic.rst:54
 msgid ""
 "Complete the configuration settings for the agent and optionally the proxy "
 "daemon."
 msgstr ""
 
-#: ../../newrelic.rst:56
+#: ../../source/newrelic.rst:56
 msgid "Change the default application name to a meaningful name."
 msgstr ""
 
-#: ../../newrelic.rst:58
+#: ../../source/newrelic.rst:58
 msgid ""
 "Restart Apache or your PHP host program (such as php-fpm) as applicable."
 msgstr ""
 
-#: ../../newrelic.rst:60
+#: ../../source/newrelic.rst:60
 msgid ""
 "If no data appears after a few minutes, see Troubleshooting your "
 "installation."
 msgstr ""
 
-#: ../../newrelic.rst:409 ../../newrelic.rst:414
+#: ../../source/newrelic.rst:409 ../../source/newrelic.rst:414
 msgid "Options"
 msgstr ""
 
-#: ../../newrelic.rst:414
+#: ../../source/newrelic.rst:414
 msgid "Parameters"
 msgstr ""
 
-#: ../../newrelic.rst:414
+#: ../../source/newrelic.rst:414
 msgid "Alternative Parameters"
 msgstr ""
 
-#: ../../newrelic.rst:414
+#: ../../source/newrelic.rst:414
 msgid "Comments"
 msgstr ""
 
-#: ../../newrelic.rst:416 ../../newrelic.rst:419
+#: ../../source/newrelic.rst:416 ../../source/newrelic.rst:419
 msgid "Install newrelic?(Y/N)"
 msgstr ""
 
-#: ../../newrelic.rst:416
+#: ../../source/newrelic.rst:416
 msgid "Y"
 msgstr ""
 
-#: ../../newrelic.rst:416
+#: ../../source/newrelic.rst:416
 msgid "Instead of using newrelic the user can use NewRellic, Newrelic"
 msgstr ""
 
-#: ../../newrelic.rst:416
+#: ../../source/newrelic.rst:416
 msgid "It starts installing newrelic under cleopatra"
 msgstr ""
 
-#: ../../newrelic.rst:419
+#: ../../source/newrelic.rst:419
 msgid "N"
 msgstr ""
 
-#: ../../newrelic.rst:419
+#: ../../source/newrelic.rst:419
 msgid "Instead of using newrelic the user can use NewRellic, Newrelic.|"
 msgstr ""
 
-#: ../../newrelic.rst:419
+#: ../../source/newrelic.rst:419
 msgid "It terminates the installation"
 msgstr ""
 
-#: ../../newrelic.rst:425
+#: ../../source/newrelic.rst:425
 msgid "Benefits"
 msgstr ""
 
-#: ../../newrelic.rst:428
+#: ../../source/newrelic.rst:428
 msgid "Technical benefits"
 msgstr ""
 
-#: ../../newrelic.rst:430
+#: ../../source/newrelic.rst:430
 msgid "Continuous software delivery"
 msgstr ""
 
-#: ../../newrelic.rst:431
+#: ../../source/newrelic.rst:431
 msgid "Less complex problems to fix"
 msgstr ""
 
-#: ../../newrelic.rst:432
+#: ../../source/newrelic.rst:432
 msgid "Faster resolution of problems"
 msgstr ""
 
-#: ../../newrelic.rst:433
+#: ../../source/newrelic.rst:433
 msgid "Comforts with Ubuntu and centOS"
 msgstr ""
 
-#: ../../newrelic.rst:434
+#: ../../source/newrelic.rst:434
 msgid "Non case sensitivity"
 msgstr ""
 
-#: ../../newrelic.rst:438
+#: ../../source/newrelic.rst:438
 msgid "Business benefits"
 msgstr ""
 
-#: ../../newrelic.rst:440
+#: ../../source/newrelic.rst:440
 msgid "Faster delivery of features"
 msgstr ""
 
-#: ../../newrelic.rst:441
+#: ../../source/newrelic.rst:441
 msgid "More stable operating environments"
 msgstr ""
 
-#: ../../newrelic.rst:442
+#: ../../source/newrelic.rst:442
 msgid "More time available to add value (rather than fix/maintain)"
 msgstr ""

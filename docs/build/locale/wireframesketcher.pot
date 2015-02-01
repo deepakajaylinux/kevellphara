@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 12:00+0530\n"
+"POT-Creation-Date: 2015-02-01 14:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,124 +17,124 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/wireframesketcher.rst:3
-# 9626bd4f94524a36b9dae64202e0c52f
+# c83e16cd031846ecbdeaed1b66d29ef4
 msgid "Wireframe sketcher"
 msgstr ""
 
 #: ../../source/wireframesketcher.rst:6
-# 17733609299745d1bff910e3f6e5301b
+# 521414f121524dc29573000a9b9b1987
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/wireframesketcher.rst:8
-# a21b7482f4934e2e9a91da510789e298
+# f4a8b5d3416640d1ab151f665ce869fa
 msgid "Wireframing is an important step in any screen design process. It primarily allows you to define the information hierarchy of your design, making it easier for you to plan the layout according to how you want your user to process the information. Wireframing is important because it allows the designer to plan the layout and interaction of an interface without being distracted by colors, typeface choices or even copy. I like to explain to my clients that if a user cannot figure out where to go on a black and white wireframe, it doesn't matter what colors you eventually use. A button has to be obvious even if it's not shiny or brightly colored."
 msgstr ""
 
 #: ../../source/wireframesketcher.rst:12
-# 835da12b06fe4a3e850d479a3aa84e06
+# ca84fc9f07284634bfdfdf2401c7d671
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/wireframesketcher.rst:14
-# 4d48a4122c41488eb258efaf7cf01cdf
+# 4065c6bac31b466a8f63055bc270f2f0
 msgid "This command allows you to install Wireframe Sketcher, for Wireframing. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same."
 msgstr ""
 
 #: ../../source/wireframesketcher.rst:43
-# 44ac760f5a414264a4b857bc739cf23b
+# 6bb8000cdc1a4431a5a213563b609c78
 msgid "Installation"
 msgstr ""
 
 #: ../../source/wireframesketcher.rst:45
-# 09b8d017607948009cb1488bd18d4367
+# e8763477256b473b97b00f453ee0ce31
 msgid "When the user needs to install Wireframe Sketcher in machine. Below given are the command and the screenshot of the installation process."
 msgstr ""
 
 #: ../../source/wireframesketcher.rst:273
-# ff215f9f2b1c46ad9d89f8972c0f4db4
+# a038cbb9eff04a6a9eb58f0d8efdfe47
 msgid "Options"
 msgstr ""
 
 #: ../../source/wireframesketcher.rst:278
-# a61bd19cba1a4814a4af4f152a27c932
+# 69f7d19302d54d4cb60621cabe2f02c4
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/wireframesketcher.rst:278
-# ca0c5b8b331b4676ac5987a0ddc1fd7d
+# 7f2b30cbf7b747e3bfd2921a56d6864a
 msgid "Alternative Parameter"
 msgstr ""
 
 #: ../../source/wireframesketcher.rst:278
-# c820a7c811df40bf84e6ca213e89bcc6
+# 8b2d7cd9257b412496b58bca0dbb6e6a
 msgid "Option"
 msgstr ""
 
 #: ../../source/wireframesketcher.rst:278
-# 97d034ee46fe40fdaf67f852931f271a
+# 0437d862c05b4c5b86105b530f7d9c77
 msgid "Comments"
 msgstr ""
 
 #: ../../source/wireframesketcher.rst:280
 #: ../../source/wireframesketcher.rst:288
-# a59496576dec4f489249157177ab97e5
-# aeb6122ce72b46f2bbdaa897a3f3ea3d
+# 3d103e5b974f47289d82e194807078d7
+# bd5691b19d9842a9826d880eea694a52
 msgid "Cleopatra  WireframeSketcher Install"
 msgstr ""
 
 #: ../../source/wireframesketcher.rst:280
-# 3927cc6a5e8f4962b2baa9ef52259638
+# df70e7ed708a4cd3b4bf343fb2b530a3
 msgid "Either of the two alternative parameter can be used in command- WireframeSketcher, wireframe-sketcher, wireframesketcher eg: Cleopatra wireframe-sketcher Install"
 msgstr ""
 
 #: ../../source/wireframesketcher.rst:280
-# c96998a41cc9485ebe98c968058976b1
+# bd5748236bb1482fbb12166cc64c8dc9
 msgid "Y"
 msgstr ""
 
 #: ../../source/wireframesketcher.rst:280
-# 46ee0a478d3a4d22a0e715a35fb56870
+# 7ea1ab79a151481c8bc5bcae3ca6c994
 msgid "Once the user provides the option, System starts installation process"
 msgstr ""
 
 #: ../../source/wireframesketcher.rst:288
-# 8a0f6bfd441e4e6795320aa65554df9f
+# 2daad094ba0141bbbde4bcc5e4a433ec
 msgid "Either of the two alternative parameter can be used in command- WireframeSketcher, wireframe-sketcher, wireframesketcher eg: Cleopatra wireframe-sketcher Install|"
 msgstr ""
 
 #: ../../source/wireframesketcher.rst:288
-# df825b6e21c84d7a97285964a559eedc
+# 968073adbe7341f782202e168f9b16c6
 msgid "N"
 msgstr ""
 
 #: ../../source/wireframesketcher.rst:288
-# 31982b7dd31a4e868f1fd7f5c3d72756
+# 44d6bbfeb8db4c7d958119ef015025ff
 msgid "Once the user provides the option, System Stops installation process"
 msgstr ""
 
 #: ../../source/wireframesketcher.rst:302
-# 39e6bcee93d342ee8add02c8801181ce
+# e37b1e7821e84210a3bafe839ab34391
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/wireframesketcher.rst:303
-# c32ab7ca0a8c4847bd3c1feea2e897e3
+# 3ace3cd58f1b48e9972530152984ef29
 msgid "The range of functions available"
 msgstr ""
 
 #: ../../source/wireframesketcher.rst:304
-# bc19321a797e43b6957e9ea43c32f498
+# 2bbfe4022aef488f972be1c96cd6b6d9
 msgid "The relative priorities of the information and functions"
 msgstr ""
 
 #: ../../source/wireframesketcher.rst:305
-# 450432309635453bb341982946a6d509
+# 24a8e7c5d86749df9a6fc88d33bbd291
 msgid "The rules for displaying certain kinds of information"
 msgstr ""
 
 #: ../../source/wireframesketcher.rst:306
-# b553d9c1d28c46c092f2bc0da2a211be
+# 8e8c08a812e049b0aca8a4511acb456d
 msgid "The effect of different scenarios on the display"
 msgstr ""
 

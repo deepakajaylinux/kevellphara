@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 12:00+0530\n"
+"POT-Creation-Date: 2015-02-01 14:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,124 +17,124 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/apachereverseproxy.rst:3
-# 2fdd10ffd7f24deeb2d0d0e9c27d8ff2
+# 4c75d7b2545e48d48e7e3a3deebcbf48
 msgid "Apache Reverse proxy modules"
 msgstr ""
 
 #: ../../source/apachereverseproxy.rst:6
-# 3e319d01974343ffa7ae9d5321dd9613
+# 473392f5670648638f254cecdf00e440
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/apachereverseproxy.rst:8
-# 3952a1b8ac224f1a8be219e911d9f408
+# d1ebf5eadcbf45289479dfc3f13d902e
 msgid "This module aims at installing the library functions. While installing the library functions, it will check the availability of already existing library functions. It helps in managing and configuring the application settings. The user can specify the default values for application settings."
 msgstr ""
 
 #: ../../source/apachereverseproxy.rst:11
-# 20425af521534645bc6a40d06a172a24
+# 09beabde5e7e4c3686eaa44eb62e4865
 msgid "Help command"
 msgstr ""
 
 #: ../../source/apachereverseproxy.rst:13
-# 2ed89e30899b486c9ddd8032e6dfe3a5
+# caafb7afe0e44c0c9a83fcf4d21b2e16
 msgid "The help command guides the user get aware of the uses, and also the options and actions that can be performed. The coding to make use of help command under Apache Reverse proxy module, is given as follows"
 msgstr ""
 
 #: ../../source/apachereverseproxy.rst:20
-# 6a958ebbdc504eeea1ae5c0e6357d142
+# b195f6d3df15437bbd9cea532e570831
 msgid "The screen shot shown below gives you an pictorial representation of help command usage."
 msgstr ""
 
 #: ../../source/apachereverseproxy.rst:45
-# 750a42cd4b2440abb97f5520bfba1035
+# d0249a4fd91a40b5a30aca2c47ea4f8c
 msgid "Installation"
 msgstr ""
 
 #: ../../source/apachereverseproxy.rst:50
-# 2d45af7677e347b4b7cf28ba56c74582
+# 8253c0f9c6634b3abba46eebec2d341e
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/apachereverseproxy.rst:50
-# f94cd4274662420c990494bda2988f32
+# 067951ddc687424b94314f73dcd29c85
 msgid "Required"
 msgstr ""
 
 #: ../../source/apachereverseproxy.rst:50
-# 10038e415fc64629a721d950675e3e8e
+# 57011909e2d6484d9a00f2cbb75b31d5
 msgid "Comment"
 msgstr ""
 
 #: ../../source/apachereverseproxy.rst:52
-# 1b88ffdf32264e71864f14050f14cdb2
+# 88390c2de6254ff6a6b0510dce968ea0
 msgid "Install Reverse Proxy Apache Modules (In the place of Reverse Proxy Apache Modules the user can also specify the following parameters: ApacheReverseProxyModules,apache-lb-mods a pacheproxymodules ,apache-proxy-mods apache-lb-mods,apache-load-balancer-modules apache-reverse-proxy-modules,apache-proxy-mods"
 msgstr ""
 
 #: ../../source/apachereverseproxy.rst:53
-# a8e7c96d0d804c27a25abb9f310c7f7e
+# 8f727bd76800414eb9d0d41a4e8c3ce3
 msgid "Yes"
 msgstr ""
 
 #: ../../source/apachereverseproxy.rst:53
-# 8170a34053bf4c2fb13a66b78c5aadcb
+# 8096f0323a3e47b1bb864c180fae0b83
 msgid "This command will install the apache rev proxy module"
 msgstr ""
 
 #: ../../source/apachereverseproxy.rst:61
 #: ../../source/apachereverseproxy.rst:65
-# 7e87974747b24fec9d8d7a8979a7c779
-# 6e985c90477b4546ad649fb74b70deef
+# 2eeac1ca2a794e6b8525cd0fc953b34d
+# 8ff00d4c6ca14ca8a812e1d2546c0a84
 msgid "Install ApacheReverseProxyModules (Y/N)"
 msgstr ""
 
 #: ../../source/apachereverseproxy.rst:61
-# 15adc7aceffe44589edec7fe0391591f
+# 8abcec162e7049818e6a558b15e6d0d9
 msgid "Y(Yes)"
 msgstr ""
 
 #: ../../source/apachereverseproxy.rst:61
-# 4769c05031334eae836816c89388a9b1
+# fe7b63ae505648f18733ccd7dbc1396d
 msgid "If the user input as Y,the apache reverse proxy module will be installed."
 msgstr ""
 
 #: ../../source/apachereverseproxy.rst:65
-# 443556a0489248788641f3691e80f3ca
+# 7f15217d318942d193288645abbd4395
 msgid "N(NO)"
 msgstr ""
 
 #: ../../source/apachereverseproxy.rst:65
-# 9bc4ac81bc4e4068ad9081b93614588c
+# 968f8cc008314dae9dad419721c8b6c5
 msgid "If the user inputs as N,the process will gets quit from installation.|"
 msgstr ""
 
 #: ../../source/apachereverseproxy.rst:70
-# f5592bd591a447bf94ac8ef3f1318ac0
+# 42204db488bf4283a103422644102891
 msgid "While installing the Reverse Proxy Modules, it will reads the package lists, state information, builds the dependency tree. If any packages are missing, the new packages will be installed. The screenshot shown below will explains the process of installation graphically."
 msgstr ""
 
 #: ../../source/apachereverseproxy.rst:231
-# 2ed584a4eed84803a5007bcc83817e7d
+# f3916f7a3290450a93cb7b21fd7c0206
 msgid "Benefits to the users"
 msgstr ""
 
 #: ../../source/apachereverseproxy.rst:233
-# c64a102004e8405eaccea4b14d140771
+# a7bf0fec44d7472aa95c2701fdb4ddb6
 msgid "It displays the available package lists, and in turn installs the missing and required packages."
 msgstr ""
 
 #: ../../source/apachereverseproxy.rst:234
-# 8b3a5c741299413f92ca9ccc4213144f
+# dda03ad171ba466685827c9c0ba2ff69
 msgid "The reverse proxy forwards to a fixed destination on behalf of arbitrary clients."
 msgstr ""
 
 #: ../../source/apachereverseproxy.rst:235
-# 54f270db57b349d4b6c88842a4c02ebb
+# 24e5351bd365419fa25bdcaf755481e8
 msgid "It will incorporates the content that is hosted from one server into a larger website."
 msgstr ""
 
 #: ../../source/apachereverseproxy.rst:236
-# 275dd59db6014d269436c7db47eae594
+# 578bd441f3b54c9f846476feeacae0f9
 msgid "It helps in configuring the applications settings."
 msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 12:00+0530\n"
+"POT-Creation-Date: 2015-02-01 14:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,264 +17,264 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/aptana.rst:3
-# 1e9002b53c364c4c992b2d1dd0427cea
+# 9f35317a804942f2b260c2eb58542c86
 msgid "Aptana"
 msgstr ""
 
 #: ../../source/aptana.rst:6
-# 4931b9c2ed2a400c8411d6f31d38ad2c
+# 16ded21bf89d4bd09384c96396b16af3
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/aptana.rst:8
-# 5c4a45c500cd4569a0be55c8ef238380
+# f26d67691416424f9fe1a4d528f72ecc
 msgid "Aptana is an open source integrated development environment (IDE) for building web applications. This command used to allow the user to install aptana. It is  a open source web development .Based on Eclipse, it supports JavaScript, HTML, DOM and CSS with code-completion, outlining, JavaScript debugging, error and warning notifications and integrated documentation. Additional plugins allow Aptana  to support PHP, Python, Perl. Aptana is available as a standalone on Windows, Mac OS X and Linux, or as a plugin for Eclipse."
 msgstr ""
 
 #: ../../source/aptana.rst:11
-# 4ce4026dc5fc42a7bb394bc8422197ac
+# 8bfd63c9dba54414b817d9a5e15558cc
 msgid "Help command"
 msgstr ""
 
 #: ../../source/aptana.rst:13
-# 1bb19138fe5442e0a8aaa3dfc2950c13
+# b751f5b485e24ba38307dcfe993681b3
 msgid "The help command leads the users regarding the purpose and as well as about the options that are included in the Aptana module. It also describes the syntax for installing Aptana. The help command for Aptana module is shown as below."
 msgstr ""
 
 #: ../../source/aptana.rst:19
-# 0c653faaf2334e3492f6dac5be230c2a
+# 00fc0ace5f0e4a07bebb997ff298bdab
 msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under Aptana."
 msgstr ""
 
 #: ../../source/aptana.rst:48
-# fa7447a6e90347f69429380bd106458a
+# 869af373c3114d7492ca1a41a216ba1a
 msgid "Installation"
 msgstr ""
 
 #: ../../source/aptana.rst:50
-# 257287ca3a6e40b89bf98d047d59823b
+# 2690ce742eb3435b86f33a5ff6be0fdc
 msgid "The command used for installing the Aptana to the users machine is shown below."
 msgstr ""
 
 #: ../../source/aptana.rst:57
 #: ../../source/aptana.rst:83
-# a615d4ea46a348e39b23fa7a624c1918
-# 0d6158fe38af4582ba0724e87d534f62
+# 532cd4fc533d42389c7fb5415131c211
+# 7297d806c12d4533a1671ae43b535dfb
 msgid "After inputting the command above, the following process occurs as shown in the screenshot  format."
 msgstr ""
 
 #: ../../source/aptana.rst:62
 #: ../../source/aptana.rst:89
-# 8cea7e64038b4396b46a7ae8aad3ea4d
-# 8705e6dc9444409995198405b097a809
+# 8b74347b8d2a4a5cb22e10d0909bfe4f
+# fbf652458e0a4f3bb600d2724c64919b
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/aptana.rst:62
 #: ../../source/aptana.rst:89
-# 1356aa5c46fa44f28c924059e19e86ee
-# 84d425f83a0d42a491efd9e259b751af
+# 203b79742e0f4424b9fff8c0fa78c652
+# 297ccc9c439f464f8da8a99faeab868e
 msgid "Options"
 msgstr ""
 
 #: ../../source/aptana.rst:62
 #: ../../source/aptana.rst:89
-# 72e156687b6f4c1aa4b812f1a761bc5a
-# cb08bc2418604d56b0c6b02423b83487
+# f449f59bbb12468f9ed7b91e02820951
+# 1367bcad735c477092219701b9970d07
 msgid "Alternative parameters"
 msgstr ""
 
 #: ../../source/aptana.rst:62
 #: ../../source/aptana.rst:89
-# 736b184b94274859b223fb7f9197892f
-# 9a8ce390b5c14989864c59a9bce44ff5
+# e6bb98cd5d8a4c989b04a8fae3e562c4
+# fc2896064a834124937b9747ae989b0b
 msgid "Comments"
 msgstr ""
 
 #: ../../source/aptana.rst:64
 #: ../../source/aptana.rst:67
-# e544f0b34d034a0e9ff5caad2fa4842c
-# fc7d8299cbf443fa98044d3a0fcdd71f
+# c33dfb7151554f7da01d7177628a6c5a
+# 8dec56339bd64863843b6188c0294233
 msgid "Install Aptana?(Y/N)"
 msgstr ""
 
 #: ../../source/aptana.rst:64
 #: ../../source/aptana.rst:91
-# 966f3c1d7f424fbe996675a6fd0f4b62
-# 8d763661e6d540a2bad68a152a0c73cf
+# 41543263448741529a66c87b15e0ceda
+# 0a712e6b9b454ddc949171641c7de077
 msgid "Yes"
 msgstr ""
 
 #: ../../source/aptana.rst:64
 #: ../../source/aptana.rst:91
 #: ../../source/aptana.rst:94
-# 504dc063aeb44f059ac0f2439c12a557
-# 858f9dff2db44ceca46e5a37896a228c
-# 40b70d9ac60c47cdad64a30b8c84f923
+# 7d5e7406db6d4f599683c8b713fc3024
+# 16fd3037b46942f58a5490d18e9782d0
+# bde0085cfdcd44c0b79be987b86e4dda
 msgid "Instead of using Aptana the user can use aptana"
 msgstr ""
 
 #: ../../source/aptana.rst:64
-# 3bcb7cb405d54deda11ad7b07b2eb6bc
+# 8069574c7d664ebcbf2941d7a45a3926
 msgid "It will install Aptana module under cleopatra"
 msgstr ""
 
 #: ../../source/aptana.rst:67
 #: ../../source/aptana.rst:94
-# d964c49fa88e404d89224e7b537e8dd9
-# 1a03ababab2044fc8cafb058232a78f8
+# b3130370e50242179b6d2edca4466c9e
+# 053200c4f09e4dfe986660e5b11a1541
 msgid "No"
 msgstr ""
 
 #: ../../source/aptana.rst:67
-# d936eb8d0b784b70b942f7af68e505f5
+# 1b21f1a6159845cb8438b453a66161fb
 msgid "Instead of using Aptana the user can use aptana|"
 msgstr ""
 
 #: ../../source/aptana.rst:67
-# 0d6db888a86d4972b888983b262909f0
+# 44cbb0f073714248b6c495c014a32d94
 msgid "The user has to exit the installation"
 msgstr ""
 
 #: ../../source/aptana.rst:75
-# 95b414b1876a455ab2970d179598d3ac
+# ef75eecf3bf44bf4bc0844b3c0db7663
 msgid "Uninstallation"
 msgstr ""
 
 #: ../../source/aptana.rst:77
-# 5dc99a10bd644f6e93f470e2ffa20450
+# 31840eb71d5f47e5ac7dd86160f00b4a
 msgid "The command used for uninstalling the Aptana to the users machine is shown below."
 msgstr ""
 
 #: ../../source/aptana.rst:91
 #: ../../source/aptana.rst:94
-# 1f821e07974240c983bdb07859328acb
-# 634eab261ee04499a95dbf015c66d3fb
+# 49863585e79e42919e25c9b3a68c1aba
+# 2ddf23a2240645619056f0e49d9d9819
 msgid "UnInstall Aptana?(Y/N)"
 msgstr ""
 
 #: ../../source/aptana.rst:91
-# aea2c0531002464e81b82662b646733b
+# f339226f60984a3e90ac21c01760eed8
 msgid "It will uninstall Aptana module under cleopatra"
 msgstr ""
 
 #: ../../source/aptana.rst:94
-# 210b715bb2894c60885b516537b91261
+# 480bd56090e248ad9986f6a90fb859b1
 msgid "The user has to exit the uninstallation|"
 msgstr ""
 
 #: ../../source/aptana.rst:102
-# 19af006984494e8b9fe84c2ee49bfb3d
+# bde9fb25a41240f4a3d4ffb6cb6766ad
 msgid "Platform & Language support"
 msgstr ""
 
 #: ../../source/aptana.rst:104
-# 36fa35fa1e5a481095f24d655353f3fc
+# dad1a279124442d5aed55fc87e381c1f
 msgid "Aptana Studio 3 provides the following support for PHP application development:"
 msgstr ""
 
 #: ../../source/aptana.rst:106
-# 10bf4b50b4fa4bb29ec1d7a0ba032517
+# b9b77dfd5a86453cbb29c6a8a8c07d27
 msgid "Syntax Coloring according to the selected theme in the preferences;"
 msgstr ""
 
 #: ../../source/aptana.rst:107
-# 3a32de5898f04070bca8d21916b0a8c4
+# 967a9d383295418a96adf1f88c5601da
 msgid "Code Assist;"
 msgstr ""
 
 #: ../../source/aptana.rst:108
-# 15cf3db571744c3984c54f2097584ba1
+# fe94a72c11584b9f921de4043ca2b8e1
 msgid "Syntax error annotations;"
 msgstr ""
 
 #: ../../source/aptana.rst:109
-# 0d75475dfd6e4b85b89b47ff30322c1b
+# 17e4411ab96f49449769492fc6e1af1e
 msgid "Auto indentation and Code Formatting;"
 msgstr ""
 
 #: ../../source/aptana.rst:110
-# 3617a4cdc34c4290970450b205059d01
+# 99e8d7b5ead34c24b9673d8258574421
 msgid "Hyper-linking to classes, functions and variables by hovering over elements and pressing the Ctrl key;"
 msgstr ""
 
 #: ../../source/aptana.rst:111
-# a6eb981a0ca24f79b49a9057f8c5c69f
+# c5a64624c8d84af5aa7f250fc1193896
 msgid "PHPDoc popups when hovering over items that have attached documentation;"
 msgstr ""
 
 #: ../../source/aptana.rst:112
-# a38abf4e97824d1495cc21d1fb2467d7
+# 58a9f2e8413a45d18efcfe587e53f776
 msgid "Read and write Occurrences Markers when clicking on specific PHP elements."
 msgstr ""
 
 #: ../../source/aptana.rst:115
-# a1e41b0a4b8f415486a2ae3f3207b734
+# 2a1dc7bee15f405f967be761f4beda62
 msgid "Aptana version 1.5 provided support for developing PHP applications via the add-on PHP plugin. This included:"
 msgstr ""
 
 #: ../../source/aptana.rst:117
-# 595d311e4c954a608ca3f4ce1dd0c42d
+# 5a69a1fd3793442ca1bd12e78c3214ee
 msgid "Built-in PHP server for previewing within Aptana,"
 msgstr ""
 
 #: ../../source/aptana.rst:119
-# 39c0cead48124a2da73e2d6c61a334c3
+# 3e441e33090d41ba9a99cf7f59dc0611
 msgid "Full code assist, code outlining and code formatting,"
 msgstr ""
 
 #: ../../source/aptana.rst:121
-# ddac83681ad04bb0a4d201576ba0c9bb
+# 13588702ca8e4b68ac3543473ac3b7a0
 msgid "Integrated PHP debugger,"
 msgstr ""
 
 #: ../../source/aptana.rst:123
-# 2ea5146a964741819e855cbf7586b0b7
+# bb565888dd854c81a3362584bc96debd
 msgid "Built in Smarty,"
 msgstr ""
 
 #: ../../source/aptana.rst:125
-# a9da68e149c842eeabcda049ee2aa134
+# 043c80423ed64b789d1489144f93d61b
 msgid "Type hierarchy view,"
 msgstr ""
 
 #: ../../source/aptana.rst:127
-# ac83fd965150424bb5b9bfc283babfa9
+# e9caccce6f8a443288b2870db8166e9c
 msgid "Go to declaration,"
 msgstr ""
 
 #: ../../source/aptana.rst:129
-# ce1bfd8b0fbf4d9c906c225677054fe5
+# e1413ac8e3cf4fabb445e22b24447f7d
 msgid "Integrated PHP manual"
 msgstr ""
 
 #: ../../source/aptana.rst:134
-# 237e64e67c634e9e96e24c8643f782e5
+# 36a1c463900b4b74a04cf92fe1b6f190
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/aptana.rst:136
-# 2de70bdddd84481ea8d5693263df77f3
+# 4c0c5ee1f6d54480b04e9205fb619df5
 msgid "This is used to install and un install aptana"
 msgstr ""
 
 #: ../../source/aptana.rst:137
-# c61f66ca5c67471fbcee40624e6bac23
+# 9087a1bbadc44d0188c41e71eed38bbf
 msgid "Non case sensitivity"
 msgstr ""
 
 #: ../../source/aptana.rst:138
-# 3910433a055647ca9b38b925c47f0d05
+# 03e9fa3a32da422c80c6e346bebd0009
 msgid "It supports Ubuntu and Cent OS"
 msgstr ""
 
 #: ../../source/aptana.rst:139
-# 9aaf82cd5a40493dbce5203d9fa56a64
+# ccfe77cf3e69465db2122e906ecd10f7
 msgid "Integrated PHP debugger"
 msgstr ""
 
 #: ../../source/aptana.rst:140
-# 43ee8466166c41489247d037cdc9f7f3
+# f96f8690f5564817af965d801f929702
 msgid "Full code assist, code outlining and code formatting"
 msgstr ""
 

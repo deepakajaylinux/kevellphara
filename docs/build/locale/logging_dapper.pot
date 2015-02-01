@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 12:00+0530\n"
+"POT-Creation-Date: 2015-02-01 14:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,166 +17,166 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/logging_dapper.rst:3
-# f57dc8749b5f4a93ac85adcb811f7c9f
+# d65e122924234f0aa2772a6f80aa4796
 msgid "Logging"
 msgstr ""
 
 #: ../../source/logging_dapper.rst:7
-# ed1eccd4cc4748ae883d73809c38be1d
+# 5db24030900d4d8888876b5de9ffbe97
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/logging_dapper.rst:9
-# 081249a21fae477dbb8acce10e73257a
+# e7d3e9f504ab47cd9b39b38d9a1a0f9b
 msgid "This logging module is used for the purpose of log a message to the console, and is optionally used for php error log. Let us see how to install and to use the log for declaring message and in php error log."
 msgstr ""
 
 #: ../../source/logging_dapper.rst:13
-# d80d722fc6b140b688f34ec02614814e
+# dd4c552b59fb406e92547a191840a9cf
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/logging_dapper.rst:15
-# 282694c9992548628c863e7d7403a972
+# e9cbb08e1d4d439bb99da58e28f514ee
 msgid "The help command acts as a brief user manual that leads the user about its usage and methodologies. It specifies the alternative parameters that can be used in declaration, and a syntax example to define a log. The command used for declaring the help option is given below:"
 msgstr ""
 
 #: ../../source/logging_dapper.rst:21
-# f2c59a6884c84779995b4b78cd0532f8
+# 9addba8847464e4fa2939dfa17121ec1
 msgid "The following screen shot depicts pictorially about the working of help command."
 msgstr ""
 
 #: ../../source/logging_dapper.rst:43
-# f72f5cca47134e11a9ee3ca0bcf2e881
+# d3d87dbf555443bd91f7f3e3d3aa6f81
 msgid "Installation"
 msgstr ""
 
 #: ../../source/logging_dapper.rst:45
-# 1c23e0203af6429199ed371093f9465b
+# 32ed4c1f997145fa929afd196077ff64
 msgid "The command used for installing the logging under dapperstrano is given below:"
 msgstr ""
 
 #: ../../source/logging_dapper.rst:52
-# 9ed5646b2b8542c197dc304279e41b37
+# 56ba5ad693694e6980270565fd51ffbc
 msgid "After inputting, the command above, the process of installation is depicted in the following tabular column."
 msgstr ""
 
 #: ../../source/logging_dapper.rst:59
-# 3af585cf71de40e493d21967c00b6430
+# fa4a6396715944b08695afb71f274e27
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/logging_dapper.rst:59
-# cd79348cea1f43ca96ffc7016b7e08ce
+# 6503d7d6620a4acc8c327dc483cbe16b
 msgid "Alternative Parameters"
 msgstr ""
 
 #: ../../source/logging_dapper.rst:59
-# 8f555c209e7b487d896e192e6d989ede
+# 1f8bdd8ecb57439ba695b2557263bf90
 msgid "Options"
 msgstr ""
 
 #: ../../source/logging_dapper.rst:59
-# a20410af353a4d8285ea6edaeaa85b04
+# e121d89945074feca3e5d42b80ee16fa
 msgid "Comments"
 msgstr ""
 
 #: ../../source/logging_dapper.rst:61
 #: ../../source/logging_dapper.rst:64
-# 4b2991a02d6c4b77a32c850d457f4bd6
-# 59938b39101f43e682ea1b5c7d4af180
+# 1e51be783c8d4d018eed2d0f2ec53178
+# ea6d1aa57bdd4788a74623649befd314
 msgid "Install Logging? (Y/N)"
 msgstr ""
 
 #: ../../source/logging_dapper.rst:61
 #: ../../source/logging_dapper.rst:64
-# e4a4ac25e49246c5a64650945e3c887f
-# 260f127f4f534526a1b6d52bfd530661
+# 1deb09c9aaae43db8f6e366d34816b51
+# 6288edfba7bc49b38342dffcedc047d1
 msgid "Instead of Logging, we can use logging also."
 msgstr ""
 
 #: ../../source/logging_dapper.rst:61
-# 92325eac816b48c88738da609ae1c7da
+# def2782aca024cf2bdce29d7cdcba474
 msgid "Y(Yes)"
 msgstr ""
 
 #: ../../source/logging_dapper.rst:61
-# 419e37e51c90408cb2b9e2b57f2e724a
+# 26f47f78c3ab48d1be91eb121a062683
 msgid "If the user wish to proceed the installation process they can input as Y."
 msgstr ""
 
 #: ../../source/logging_dapper.rst:64
-# 8099a8e4e0594da981943d5c4434cca8
+# 79f63bc627194848affe23a9732d34b7
 msgid "N(No)"
 msgstr ""
 
 #: ../../source/logging_dapper.rst:64
-# 18736b0254b144d5b527dd12093ce724
+# d3d1d9aadc8d4a28ae40d0c460a8c039
 msgid "If the user wish to quit the installation process they can input as N.|"
 msgstr ""
 
 #: ../../source/logging_dapper.rst:70
-# e7360bd046564c5295e1deed0d7baf03
+# 68dbd3ff402844f0ac66c739c91823ce
 msgid "If the user proceeds the installation process, the process request the users to specify the log message by asking"
 msgstr ""
 
 #: ../../source/logging_dapper.rst:79
-# 57cdb12164d0479897aa6b59379e0ec0
+# 6f752180390b4c07b63e4303d72a128d
 msgid "Once the user input the message, the give log message will be appearing on the screen as shown:"
 msgstr ""
 
 #: ../../source/logging_dapper.rst:81
-# 8774c6f25c414a358a1fc319d454b627
+# 6f9ef8b0a47f4b1cab715a2412cfd192
 msgid "\"Good Morning\""
 msgstr ""
 
 #: ../../source/logging_dapper.rst:83
-# 404adc78b3ba4c39adb7d104e0a65963
+# 1817965cbc034e29a1ea238d57e60567
 msgid "Finally, installation gets completed. The following screenshot depicts the process of installation pictorially."
 msgstr ""
 
 #: ../../source/logging_dapper.rst:116
-# 254dc87f138e41d4906bc340dc5ef56f
+# 729c2f99b4554af0b399558c65807678
 msgid "How to define php error log"
 msgstr ""
 
 #: ../../source/logging_dapper.rst:118
-# 07edb9f21abe4c5f9b8b1560336f3951
+# d2646bc279e44156853836b373176b87
 msgid "The syntax for declaring the log for php error log is shown below:"
 msgstr ""
 
 #: ../../source/logging_dapper.rst:124
-# 95d46cf45e5a4dd1b6925c95bb2a3e6a
+# 1bd4287418404505a0817b060529e6c8
 msgid "Instead of"
 msgstr ""
 
 #: ../../source/logging_dapper.rst:131
-# 2545f33f0a124b8e84ab8d69bd0bb7ec
+# 7fba91e252134ae4bcd5040cec082c0d
 msgid "the user can add any text to the portion of log message depending upon their requirements."
 msgstr ""
 
 #: ../../source/logging_dapper.rst:134
-# 0b4cc559633641d8be53691744c47f6e
+# 693463ee4bb04cc09e93b485baac82b0
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/logging_dapper.rst:136
-# bcff167e090e45eca334f20b7889ea02
+# 318780fd98f9433c9a131d14c359dab3
 msgid "The user can add their frequently used log message for the php error log."
 msgstr ""
 
 #: ../../source/logging_dapper.rst:137
-# 1785e406c32240558078b9e7771bfb27
+# 13be9a08f17d4aadad22b26e0cc4a592
 msgid "While installing the log the user can input and ensure the display of log message."
 msgstr ""
 
 #: ../../source/logging_dapper.rst:138
-# c0bcd74ab54e462a985598c34f999b2d
+# ffd17bd7f54c4982a174041437c3edc1
 msgid "It is well-to-do in both ubuntu and as well as in cent OS."
 msgstr ""
 
 #: ../../source/logging_dapper.rst:139
-# 74782b2b48a1491681fc0e466e49ebcb
+# e82b7a16c7b949a8a1f13922f26d24c1
 msgid "The parameters used in declaration is not case sensitive."
 msgstr ""
 

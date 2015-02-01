@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"POT-Creation-Date: 2015-01-31 11:09+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,33 +11,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../gitbucket.rst:3
+#: ../../source/gitbucket.rst:3
 msgid "Gitbucket"
 msgstr ""
 
-#: ../../gitbucket.rst:6
+#: ../../source/gitbucket.rst:6
 msgid "Synopsis"
 msgstr ""
 
-#: ../../gitbucket.rst:8
+#: ../../source/gitbucket.rst:8
 msgid ""
 "Git is a distributed revision control system with an emphasis on speed, data"
 " integrity and support for distributed, non-linear workflows. Git is the "
 "widely adopted version control system for software development."
 msgstr ""
 
-#: ../../gitbucket.rst:10
+#: ../../source/gitbucket.rst:10
 msgid ""
 "Git working directory is a full-fledged repository with complete history and"
 " full version-tracking capabilities, independent of network access or a "
 "central server."
 msgstr ""
 
-#: ../../gitbucket.rst:13
+#: ../../source/gitbucket.rst:13
 msgid "Help Command"
 msgstr ""
 
-#: ../../gitbucket.rst:15
+#: ../../source/gitbucket.rst:15
 msgid ""
 "This command helps to determine the usage of gitbucket module. The user "
 "comes to know about the different ways/format to execute this module. This "
@@ -45,11 +45,11 @@ msgid ""
 " are the command and the screenshot of the same."
 msgstr ""
 
-#: ../../gitbucket.rst:22
+#: ../../source/gitbucket.rst:22
 msgid "Installation"
 msgstr ""
 
-#: ../../gitbucket.rst:24
+#: ../../source/gitbucket.rst:24
 msgid ""
 "When the user needs to install gitbucket module in machine. The below given "
 "command will execute the process of installation. While installing, the "
@@ -57,67 +57,67 @@ msgid ""
 " is no default directory."
 msgstr ""
 
-#: ../../gitbucket.rst:32
+#: ../../source/gitbucket.rst:32
 msgid "Options"
 msgstr ""
 
-#: ../../gitbucket.rst:37
+#: ../../source/gitbucket.rst:37
 msgid "Parameters"
 msgstr ""
 
-#: ../../gitbucket.rst:37
+#: ../../source/gitbucket.rst:37
 msgid "Alternative Parameter"
 msgstr ""
 
-#: ../../gitbucket.rst:37
+#: ../../source/gitbucket.rst:37
 msgid "Option"
 msgstr ""
 
-#: ../../gitbucket.rst:37
+#: ../../source/gitbucket.rst:37
 msgid "Comments"
 msgstr ""
 
-#: ../../gitbucket.rst:39 ../../gitbucket.rst:42
+#: ../../source/gitbucket.rst:39 ../../source/gitbucket.rst:42
 msgid "cleopatra  gitbucket Install"
 msgstr ""
 
-#: ../../gitbucket.rst:39 ../../gitbucket.rst:42
+#: ../../source/gitbucket.rst:39 ../../source/gitbucket.rst:42
 msgid "GitBucket, gitbucket , git-bucket"
 msgstr ""
 
-#: ../../gitbucket.rst:39
+#: ../../source/gitbucket.rst:39
 msgid "Y"
 msgstr ""
 
-#: ../../gitbucket.rst:39
+#: ../../source/gitbucket.rst:39
 msgid "System starts installation process"
 msgstr ""
 
-#: ../../gitbucket.rst:42
+#: ../../source/gitbucket.rst:42
 msgid "N"
 msgstr ""
 
-#: ../../gitbucket.rst:43
+#: ../../source/gitbucket.rst:43
 msgid "System stops installation|"
 msgstr ""
 
-#: ../../gitbucket.rst:49
+#: ../../source/gitbucket.rst:49
 msgid "Benefits"
 msgstr ""
 
-#: ../../gitbucket.rst:51
+#: ../../source/gitbucket.rst:51
 msgid ""
 "Git supports rapid branching and merging, and includes specific tools for "
 "visualizing and navigating a non-linear development history."
 msgstr ""
 
-#: ../../gitbucket.rst:52
+#: ../../source/gitbucket.rst:52
 msgid ""
 "Repositories can be published via HTTP, FTP, rsync, or a Git protocol over "
 "either a plain socket, or ssh."
 msgstr ""
 
-#: ../../gitbucket.rst:53
+#: ../../source/gitbucket.rst:53
 msgid ""
 "Git described as being very fast, scalable and showed it was an order of "
 "magnitude faster than some version-control systems, and fetching version "

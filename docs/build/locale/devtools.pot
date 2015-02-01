@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 12:00+0530\n"
+"POT-Creation-Date: 2015-02-01 14:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,144 +17,144 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/devtools.rst:3
-# 2fca948ae85b40268bee2e4ef968b7ed
+# 4b9415a02a2440958f6998fad7e73c41
 msgid "DeveloperTools"
 msgstr ""
 
 #: ../../source/devtools.rst:6
-# 2bfb178bb03941c9b2c4ded5cfdd39b6
+# 57fcedf0627143e0a9b343d69c614f07
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/devtools.rst:8
-# 64026b971bdf4ea1846b9cd6ded05404
+# b6f4592ba2ff42899456c0ba43ba2a0b
 msgid "The devtools module makes the installation much easier to create a package following the structure defined in the Devtools. It also makes it easier to test your package, through editor. This module in a package having an excellent idea: not only does it make the user package more reliable in the long run, it also simplifies the development process in surprising way. This is suitable in Ubuntu and centOS."
 msgstr ""
 
 #: ../../source/devtools.rst:11
-# 2f12a83dde51425ea91d3b2ba5f1285b
+# 9d74aeebd570407c915ee6856f898ce8
 msgid "Help command"
 msgstr ""
 
 #: ../../source/devtools.rst:13
-# 5fc6c34976e94b439002c1201bb797ad
+# f9748449ab684097b555878f4bc5dc73
 msgid "Devtools makes package development a breeze: it works with existing conventions for code structure, adding efficient tools to support the cycle of package development. With devtools, developing a package becomes so easy that it will be the user default layout whenever the user is writing a significant amount of code."
 msgstr ""
 
 #: ../../source/devtools.rst:19
-# 434808013e064eb6bc9143fef2b6f17b
+# a89e2cbdcdfd4d9cb7d0f48fd9755c46
 msgid "The following screenshot explains it."
 msgstr ""
 
 #: ../../source/devtools.rst:45
-# 43cfff014bcc41e19f83f0ccfb13274c
+# 0546bd8344a74e1fbeb6741f1744f058
 msgid "Installation"
 msgstr ""
 
 #: ../../source/devtools.rst:47
-# b818ba5a89ad49ccab0cd8188bc9c444
+# 02b71daeb19c45e69bf945b5ca430328
 msgid "Installation includes provision of or connection to services required to make the installed equipment ready for operation. It is a manifest process to install devtools module under Cleopatra by just using the command given below,"
 msgstr ""
 
 #: ../../source/devtools.rst:54
-# 5d3fe98cab024bef99b80a3559633e66
+# e3c5af2140634503a8d2ddf3345a9368
 msgid "After vitalize the command it will catechize input."
 msgstr ""
 
 #: ../../source/devtools.rst:56
-# 1ec3547ac8494fd7b937ed4f195e558c
+# 70542b78b793490b90383de8cac575a6
 msgid "When the user input as yes automatically it will install devtools with checking from the system. If not exit the installation. The following screen shot demonstrates it."
 msgstr ""
 
 #: ../../source/devtools.rst:65
-# 3929aba7e9cb4c9dad0e8c3c2afc5e63
+# 0a23a05173554cc88f1745bc1d61172c
 msgid "Options"
 msgstr ""
 
 #: ../../source/devtools.rst:70
-# 24760de8a8e9466d9d7de22f912ae4a4
+# 9c99aedce02c473091ee4222d04bcb2d
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/devtools.rst:70
-# d2e0341a6c3c451892dc55a6a9525f75
+# 4c2496f06eb54b83adb3c295ea77ddb9
 msgid "Alternateparameter"
 msgstr ""
 
 #: ../../source/devtools.rst:70
-# acdb126be4064a56901efb0e1de1002c
+# 0eee737dfe7c4dff806d94a8d22b7235
 msgid "Option"
 msgstr ""
 
 #: ../../source/devtools.rst:70
-# 06590fb98f1a40f88448a2f7cc8df848
+# 639c98fd3fdb4f2eaf9fc590ad9e5a6f
 msgid "Comments"
 msgstr ""
 
 #: ../../source/devtools.rst:72
 #: ../../source/devtools.rst:76
-# 958aedb6ef294fa19eb2735f728773b0
-# a78d27eb3b354a2487372d59e6c57f6b
+# 3361c141dac0454d83c03764e980633c
+# 0cbf89e6287541358db8a82f6c1e85ba
 msgid "Install devtools?(Y/N)"
 msgstr ""
 
 #: ../../source/devtools.rst:72
-# c624b682907340e790d42d0f9adc0f78
+# b2159c8d00994385b78af36edeb7a1f1
 msgid "Instead of using devtools we can use DeveloperTools, devtools,dev-tools"
 msgstr ""
 
 #: ../../source/devtools.rst:72
-# 8791a4aea9c7489d851f2c3efc670663
+# 0e35251ae69f4d118bac971b55869aa3
 msgid "Y"
 msgstr ""
 
 #: ../../source/devtools.rst:72
-# 05ef5db4c0f44e52b4d7850c2032a9c0
+# 75ad051e5187431b9f1ba31adcb6780b
 msgid "It will install editor and Database devtools under cleopatra"
 msgstr ""
 
 #: ../../source/devtools.rst:76
-# 1805d7407ba3480eb22366770a31e3e8
+# 21296037bdfd4eb0bc4b41a2a64f9164
 msgid "Instead of using devtools we can use DeveloperTools, devtools,dev-tools|"
 msgstr ""
 
 #: ../../source/devtools.rst:76
-# 50880573178f446fa4dafb23c49b1973
+# 8ed0eeb7ae0e4bbb8bbebab84f0a35cf
 msgid "N"
 msgstr ""
 
 #: ../../source/devtools.rst:76
-# cbe9c3f9aace49c3b9071bec3ecccffa
+# e15af9abaaa745a98c106d20babdd991
 msgid "The system exit the installation"
 msgstr ""
 
 #: ../../source/devtools.rst:84
-# 47eb16319c674536851046df8a7258dc
+# 59f2315b75ec4970a15a69d9f4442a77
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/devtools.rst:86
-# f8c36ccb877d4008b26e58875117b9c4
+# 2184908e4a264718b3fb345909d715ef
 msgid "Facilitate the package development process"
 msgstr ""
 
 #: ../../source/devtools.rst:87
-# 6692b8e7f11a49ab8e8c7f02d18dc3a5
+# 1f6787d554e744c7ac60f60bd00329ef
 msgid "Help release your package into the wild"
 msgstr ""
 
 #: ../../source/devtools.rst:88
-# dcf77fd3ea7848fd9923058f635f2dd3
+# 5d0b01cd1f7641b09184184865d1c3ed
 msgid "Make it easy to install editor and Database."
 msgstr ""
 
 #: ../../source/devtools.rst:89
-# d6e4ac5208a9435f9afded98e815365e
+# 9cdbddf1772a49689254fab41292e907
 msgid "Rapid Debugging"
 msgstr ""
 
 #: ../../source/devtools.rst:90
-# 76450940e7ad4edab313fe809280b571
+# 1a61ac870c9e469d9a5507c8369f4e92
 msgid "On-the-Fly Style Changes - For quick style changes, the user don't even need to use a text editor. The user can inspect the particular element on the page to determine which styles are being applied."
 msgstr ""
 

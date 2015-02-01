@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 12:00+0530\n"
+"POT-Creation-Date: 2015-02-01 14:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,161 +17,161 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/vnc.rst:3
-# 979516f21ebb4291815d23177bd184f7
+# 02f7f65f2b0146308b73588dbcb3fa72
 msgid "VNC"
 msgstr ""
 
 #: ../../source/vnc.rst:6
-# d5993bb945c44beabb918d8a69d73405
+# 3531033f669d45ccbe760a1538c56895
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/vnc.rst:8
-# 673d977fde2349e8b8b7832086ffe24e
+# 0f9cd04ec5e042e8816bc6aca380a2e7
 msgid "This module provides assistance for installing VNC4server via apt get. It enables connectivity for virtual machine. It facilitates ensuring before installation."
 msgstr ""
 
 #: ../../source/vnc.rst:11
-# cdecd505dccb4bf88549eacb64ebca3c
+# 201973fb23ec441db8a45a14ae3d2cca
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/vnc.rst:13
-# b052e4f373574627aa41bd65fb35a0a2
+# 95ea3a9a4c93472682df79e06cc0d609
 msgid "The help command provides an awareness regarding the VNC module. It also describes about the options that can be performed under this VNC module. The help command for this VNC module is given below,"
 msgstr ""
 
 #: ../../source/vnc.rst:20
-# 5ae0d1b8135347d4a742d97da31e0547
+# daedfd14cbe34f9bbe489bb181ae5392
 msgid "The screen shot given below shows you an pictorial representation regarding the usage of help command under VNC module."
 msgstr ""
 
 #: ../../source/vnc.rst:42
-# 14ef302b6e03456895f63074c7577080
+# 8f0db2a84dc2416ea69180075116aac5
 msgid "Installation"
 msgstr ""
 
 #: ../../source/vnc.rst:49
-# 0ab9c9afaeef48a48640d306317cd246
+# 1c9e1c69d1434112a56aafd13d4d018b
 msgid "After inputting the command as given above, the following operations takes places."
 msgstr ""
 
 #: ../../source/vnc.rst:54
-# 326e24d9b27a411a9a5a305abb4f6dfa
+# 6581ce0f8b1845fc9a836dfc42cbeb70
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/vnc.rst:54
-# 96af6624b91e42fbac587b4eb598c94b
+# 66fc709baafb424694aa9d811c084df7
 msgid "Required"
 msgstr ""
 
 #: ../../source/vnc.rst:54
-# ee1f2126d175461bb140e8b2f022d52a
+# d416611e93824cc6b15966c8518f6b29
 msgid "Comment"
 msgstr ""
 
 #: ../../source/vnc.rst:56
 #: ../../source/vnc.rst:60
-# 3f258ec947f34f81b098feb69cdc75a4
-# aaf3dc67ca1f4bad8a98238b602b3346
+# f3997f5cb54e45ed865a839dca33c5e6
+# 1004f6eb5ccd46ada5fecc48c72c7263
 msgid "Install VNC? (Y/N)"
 msgstr ""
 
 #: ../../source/vnc.rst:56
-# 65c152d8f03444c2a598bc6d335612f3
+# febadcd24b6b4c65a341ad2313c2ca1b
 msgid "Y(YES)"
 msgstr ""
 
 #: ../../source/vnc.rst:56
-# 763c9e23b3bb4f36b424f9be163449ca
+# b491a6b0d03f41b2ae71d4f816ec4155
 msgid "If the user wish to proceed with installation process, they can input as Y."
 msgstr ""
 
 #: ../../source/vnc.rst:60
 #: ../../source/vnc.rst:64
-# 188802fb29c44ebfaa6d3cb608a32570
-# b4f459e89e6141fa8e106685822e8992
+# d542cea118c343b0ad9cd0a94b48002b
+# 829b3c185d6e45efa9b2c865e9a39fb9
 msgid "N(NO)"
 msgstr ""
 
 #: ../../source/vnc.rst:60
-# 58b1c43e389448f58e6098edb8c80b3a
+# a258b20f5b8f47a8824dade7cd5b8d1e
 msgid "If the user wish to quit the installation process, they can quit simply by using N."
 msgstr ""
 
 #: ../../source/vnc.rst:64
-# f7ac9c5715ed406390cf4c9d22158303
+# 0e1a00451ece4a9aa183002ebd288d60
 msgid "Install ApacheReverseProxyModules (Y/N)"
 msgstr ""
 
 #: ../../source/vnc.rst:64
-# 9d97aa0f0c6849f8895ed04eae97289b
+# bd1cf0471a5e4afc9e7b4b2d35302bc2
 msgid "If the user inputs as N,the process will gets quit from installation|"
 msgstr ""
 
 #: ../../source/vnc.rst:69
-# 1391f85627964b5db5a0e5578d787202
+# c0361bb89b7f4404a9e8fd3b0391a72a
 msgid "While installing the VNC server it performs the following operations as given below:"
 msgstr ""
 
 #: ../../source/vnc.rst:71
-# 60e2099d62be44cb9bca999f873eb91e
+# 4437aac2d5104ecd92404848352e26be
 msgid "Reads the package lists, state information,"
 msgstr ""
 
 #: ../../source/vnc.rst:72
-# c76bd88974634084ac04f84949c7d16e
+# f5b2040a65814994b89ebbd767fc6d9a
 msgid "Builds the dependency tree."
 msgstr ""
 
 #: ../../source/vnc.rst:73
-# 65743993d79f4ced8d4beb55ef8ca9a0
+# a753abbef8ea403e83a9645d4ce3b24e
 msgid "Installs the xbase-clients as extra packages, vnc-java as suggested packages."
 msgstr ""
 
 #: ../../source/vnc.rst:74
-# 3e5ee5cd1e3240d6aa1cbba4db45e4cd
+# 0dd2f8d31e5440c9a1d50d755cc0fdb1
 msgid "Installs vnc4server xbase-clients as new packages."
 msgstr ""
 
 #: ../../source/vnc.rst:75
-# 6c6ff76389cf4615947b55fa55d74108
+# b7e75e49e42f4236a50b16494fda1b24
 msgid "It also displays the number of files upgraded, newly installed, removed, not upgraded."
 msgstr ""
 
 #: ../../source/vnc.rst:77
-# e065cba954304efa9933e8ba350968de
+# e567c873f36d467380c36791efd69bbb
 msgid "The screen shot as given below, explains the users graphically regarding the process of installation."
 msgstr ""
 
 #: ../../source/vnc.rst:134
-# feb26407b6b74ad4a47bed03fd76ccd7
+# 8cc70a9ce6ba4d2887436b51ab950b8a
 msgid "If the vnc server already exists in the users machine, it will throws an exception message as the vnc server is already installed. The following screenshot gives an pictorial representation regarding the exception message."
 msgstr ""
 
 #: ../../source/vnc.rst:163
-# 2e588e27c3a34b3ab0ca65ea658aa172
+# 2ac8bcf853d34e31a8714022d188a1ff
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/vnc.rst:165
-# eb46520060d140bf927581398402d5f8
+# 30e1c85475fc40919d88f2609748b7a4
 msgid "It allows the process of ensuring before installation."
 msgstr ""
 
 #: ../../source/vnc.rst:166
-# 7ebce241f410467c8e301a59ef74c35b
+# eb63ac961bf148f1a425180382f7229b
 msgid "It facilitates installation via apt get."
 msgstr ""
 
 #: ../../source/vnc.rst:167
-# 4167ad70423049ca818eb55c698ef878
+# b33d3ec42d224e548f3aa4f28ffeb144
 msgid "It enables the virtual machine connectivity."
 msgstr ""
 
 #: ../../source/vnc.rst:168
-# 1e42702ce86a451ba6e854ad22f75739
+# 8355b6fa68cc4acbbba0140f8395475f
 msgid "In case of VNC server is already exist, it throws exceptional message during the process of ensuring."
 msgstr ""
 

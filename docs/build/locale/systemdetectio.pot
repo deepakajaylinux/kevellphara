@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 12:00+0530\n"
+"POT-Creation-Date: 2015-02-01 14:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,132 +17,132 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/systemdetectio.rst:3
-# 71ab142b4bc5497e837f55d3fe11d071
+# aaee1d07001d4eab962c4d2e02416734
 msgid "System Detection"
 msgstr ""
 
 #: ../../source/systemdetectio.rst:6
-# 0f875369c4fc48f5a6c8f9d585306e89
+# cdd68e3eac8d4f93b97ce6509bb1628a
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/systemdetectio.rst:8
-# 6755cc3dad88409891afad178ed83bca
+# c70d094cc32a4e1fab3825df55f220c2
 msgid "This module aims at detecting the users machine and in hand provides them the necessary information to them regarding the users system. It also provides a facility to the users to configure their applications settings. The few examples for applications settings includes mysql admin user, host, pass."
 msgstr ""
 
 #: ../../source/systemdetectio.rst:11
-# 6eceef9a91eb4d2a89b3c6683fe8bb57
+# c8bd49c3a21f4a8b9d6bb80fe723063c
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/systemdetectio.rst:13
-# 63b325b91655430ba554db588495175b
+# 8b1240e7b0244a1585843675ac13286f
 msgid "The help command leads the users regarding the purpose and as well as about the options that are included in the System detection modules. The help command lists out the alternative parameters of System detection. It also describes the syntax for detecting the users machine. The help command for System detection is shown below."
 msgstr ""
 
 #: ../../source/systemdetectio.rst:19
-# 40680b094cac4ce188fc8ef6480a0b26
+# 8e0f4123ae054043b4071dab7504ca0e
 msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under system detection."
 msgstr ""
 
 #: ../../source/systemdetectio.rst:41
-# 212f999e630249ce90f34481e86ec74a
+# 8320168d6d364eafa1c7b976639a0336
 msgid "Detection"
 msgstr ""
 
 #: ../../source/systemdetectio.rst:43
-# b9075400e0ba43669ea82a61722e7523
+# 940842f5d0a249da8d01404065447ca1
 msgid "The command used for system detection is given below."
 msgstr ""
 
 #: ../../source/systemdetectio.rst:49
-# e49e163d802e454e9a89282f6ff9d87e
+# baf3b24f9c434215997241d49808c18d
 msgid "After inputting the command above, the process of system detection starts. During system detection the following information's regarding the corresponding machine are reported:"
 msgstr ""
 
 #: ../../source/systemdetectio.rst:51
-# 022de3a96b0843839af03e8ac7beb9ca
+# 77266424db20470183094c2c647f5a82
 msgid "Operating System"
 msgstr ""
 
 #: ../../source/systemdetectio.rst:52
-# 1053ace05f8f41519e98d5d63bded412
+# e0cd81d0e04342ce9d0605de9aafd0e5
 msgid "Linux Type"
 msgstr ""
 
 #: ../../source/systemdetectio.rst:53
-# b8eb69c8cd144b2ab995d6d0cac519e7
+# 251808ee6c8f4109b46e341e91ec100f
 msgid "Distro"
 msgstr ""
 
 #: ../../source/systemdetectio.rst:54
-# aeea0099f87440969ad40f37f258f9c5
+# 995c75a0977147378cb527069c3ac696
 msgid "Version"
 msgstr ""
 
 #: ../../source/systemdetectio.rst:55
-# fd01b15c0ce74bd4a591daebaa564e38
+# 438988bf22ea46659f87b4ea14e97c7e
 msgid "Architecture"
 msgstr ""
 
 #: ../../source/systemdetectio.rst:56
-# cb998145e8ca40638752be20049442d3
+# feeee97f1e30428db9daa3135bf73d58
 msgid "Host Name"
 msgstr ""
 
 #: ../../source/systemdetectio.rst:57
-# 2ca66331d0bd4770bd58aebe7ae4dfbd
+# 9abd6baa1eaf4e5482c4c04c6ca3c3bb
 msgid "IP Address 0."
 msgstr ""
 
 #: ../../source/systemdetectio.rst:58
-# e359280aa2c749e8b7db2cca2966e67e
+# 3d5a5a33b9d641fab27703f1850d3156
 msgid "IP Address 1."
 msgstr ""
 
 #: ../../source/systemdetectio.rst:60
-# 5bf7143bc36443c88e42a0bff7b4c865
+# bff38e2cfc90458dab67b6e690c81c36
 msgid "Finally, After detection the information regarding the above mentioned features are clearly reported. The following screen shot depicts you about the process of system detection."
 msgstr ""
 
 #: ../../source/systemdetectio.rst:87
-# 066ccc3024424364a55c21f17d474591
+# 1bbaf19d16124326a14ba2ab38b90306
 msgid "Alternative Parameters"
 msgstr ""
 
 #: ../../source/systemdetectio.rst:89
-# 9c6eaa887ac74b4da9f73793e8ef75b2
+# 5f1b998789ee48ffa15d44c02cd25ed3
 msgid "Instead of systemdetection, the following parameters can be used:"
 msgstr ""
 
 #: ../../source/systemdetectio.rst:91
-# 77c2445ae6dd4653baebb84eb239c52e
+# ae8c03accbe147ba8456600a0ef7d60a
 msgid "SystemDetection"
 msgstr ""
 
 #: ../../source/systemdetectio.rst:92
-# ada406d30e3e442c99808e1122e37729
+# ae9fd9add9574691853fe63b75a3acec
 msgid "system-detection"
 msgstr ""
 
 #: ../../source/systemdetectio.rst:95
-# 209d9584c70748c3bab0c7c4e903e5c8
+# ccd0c178c100446891c8f0c96bfa3a45
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/systemdetectio.rst:97
-# 96ac6131163b49b6b1d34c7352e7f66a
+# 0a1232c80dc544c1bd17994fbb865976
 msgid "The users can configure the application settings using this system detections."
 msgstr ""
 
 #: ../../source/systemdetectio.rst:98
-# 669923dd13c940bca133ecb37abefdb7
+# 82018df50c9145d784f4119d1fd9802f
 msgid "The parameters used for declaring help command, system detection are not case sensitive which is an added advantage while compared to others."
 msgstr ""
 
 #: ../../source/systemdetectio.rst:99
-# 76529e76246343cda1e78c02f10854ed
+# 5c8a7433d2d74e1ca2aae5c8a8258540
 msgid "It is well-to-do in both Cent OS and as well as in Ubuntu."
 msgstr ""
 

@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Nginx Control &mdash; KEVELL 0.1 documentation</title>
+    <title>Nginx Control &mdash; KEVELL 0.1 Dokumentation</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -25,10 +25,11 @@
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/translations.js"></script>
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
-    <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
+    <link rel="top" title="KEVELL 0.1 Dokumentation" href="index.html" />
     <link rel="up" title="Dapperstrano" href="Dapperstrano_main.html" />
     <link rel="next" title="Project" href="project.html" />
     <link rel="prev" title="Logging" href="logging_dapper.html" />
@@ -104,9 +105,9 @@
           
             
   <li><a href="logging_dapper.html"
-         title="previous chapter">&laquo; Logging</a></li>
+         title="vorheriges Kapitel">&laquo; Logging</a></li>
   <li><a href="project.html"
-         title="next chapter">Project &raquo;</a></li>
+         title="nächstes Kapitel">Project &raquo;</a></li>
           
           
           <!--  <li>
@@ -130,14 +131,14 @@
   
   
   <div class="section" id="nginx-control">
-<h1>Nginx Control<a class="headerlink" href="#nginx-control" title="Permalink to this headline">¶</a></h1>
+<h1>Nginx Control<a class="headerlink" href="#nginx-control" title="Permalink zu dieser Überschrift">¶</a></h1>
 <div class="section" id="synopsis">
-<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
+<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>Nginx (pronounced &#8220;engine-x&#8221;) is an open source reverse proxy server for HTTP, HTTPS, SMTP, POP3, and IMAP protocols, as well as a load balancer, HTTP cache, and a web server (origin server). The nginx project started with a strong focus on high concurrency, high performance and low memory usage. It is licensed under the 2-clause BSD-like license and it runs on Linux, BSD variants, Mac OS X, Solaris, AIX, HP-UX, as well as on other nix flavours.</p>
 <p>Nginx uses an asynchronous event-driven approach to handling requests, instead of the Apache HTTP Server model that defaults to a threaded or process-oriented approach, where the Event MPM is required for asynchronous processing. Nginx&#8217;s modular event-driven architecture can provide more predictable performance under high loads.</p>
 </div>
 <div class="section" id="help-command">
-<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
+<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>This command helps to determine the usage of Nginx  module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same.</p>
 <div class="highlight-bash"><div class="highlight"><pre>       dapperstrano nginxcontrol <span class="nb">help</span>
 
@@ -172,7 +173,7 @@ End Help
 </div>
 </div>
 <div class="section" id="start">
-<h2>Start<a class="headerlink" href="#start" title="Permalink to this headline">¶</a></h2>
+<h2>Start<a class="headerlink" href="#start" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>When the user needs to start the Nginx server, the below given command will execute the process.</p>
 <div class="highlight-bash"><div class="highlight"><pre>dapperstrano nginxcontrol start
 </pre></div>
@@ -180,7 +181,7 @@ End Help
 <p>Before execution, the system ask for the confirmation to proceed, if you want to proceed enter &#8216;Y&#8217;, if no enter &#8216;N&#8217;.</p>
 </div>
 <div class="section" id="stop">
-<h2>Stop<a class="headerlink" href="#stop" title="Permalink to this headline">¶</a></h2>
+<h2>Stop<a class="headerlink" href="#stop" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>When the user needs to stop the Nginx server, the below given command will execute the process.</p>
 <div class="highlight-bash"><div class="highlight"><pre>dapperstrano nginxcontrol stop
 </pre></div>
@@ -188,7 +189,7 @@ End Help
 <p>Before execution, the system ask for the confirmation to proceed, if you want to proceed enter &#8216;Y&#8217;, if no enter &#8216;N&#8217;.</p>
 </div>
 <div class="section" id="restart">
-<h2>Restart<a class="headerlink" href="#restart" title="Permalink to this headline">¶</a></h2>
+<h2>Restart<a class="headerlink" href="#restart" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>When the user needs to Restart the Nginx server(when there are any changes happened in configuration file this option will be used), the below given command will execute the process.</p>
 <div class="highlight-bash"><div class="highlight"><pre>dapperstrano nginxcontrol restart
 </pre></div>
@@ -196,7 +197,7 @@ End Help
 <p>Before execution, the system ask for the confirmation to proceed, if you want to proceed enter &#8216;Y&#8217;, if no enter &#8216;N&#8217;.</p>
 </div>
 <div class="section" id="reload">
-<h2>Reload<a class="headerlink" href="#reload" title="Permalink to this headline">¶</a></h2>
+<h2>Reload<a class="headerlink" href="#reload" title="Permalink zu dieser Überschrift">¶</a></h2>
 <p>When the user needs to Reload the Nginx server without restarting, the below given command will execute the process.</p>
 <div class="highlight-bash"><div class="highlight"><pre>dapperstrano nginxcontrol reload
 </pre></div>
@@ -204,7 +205,7 @@ End Help
 <p>Before execution, the system ask for the confirmation to proceed, if you want to proceed enter &#8216;Y&#8217;, if no enter &#8216;N&#8217;.</p>
 </div>
 <div class="section" id="options">
-<h2>Options<a class="headerlink" href="#options" title="Permalink to this headline">¶</a></h2>
+<h2>Options<a class="headerlink" href="#options" title="Permalink zu dieser Überschrift">¶</a></h2>
 <table border="1" class="table-bordered docutils">
 <colgroup>
 <col width="25%" />
@@ -229,7 +230,7 @@ processing</td>
 </table>
 </div>
 <div class="section" id="benefits">
-<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
+<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink zu dieser Überschrift">¶</a></h2>
 <ul class="simple">
 <li>Ability to handle more than 10,000 simultaneous connections with a low          memory footprint</li>
 <li>Handling of static files, index files, and auto-indexing</li>

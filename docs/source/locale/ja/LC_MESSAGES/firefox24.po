@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"POT-Creation-Date: 2015-01-31 11:09+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,15 +11,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../firefox24.rst:3
+#: ../../source/firefox24.rst:3
 msgid "FireFox 24"
 msgstr ""
 
-#: ../../firefox24.rst:6
+#: ../../source/firefox24.rst:6
 msgid "Synopsis"
 msgstr ""
 
-#: ../../firefox24.rst:8
+#: ../../source/firefox24.rst:8
 msgid ""
 "This module is open source web browser. It used to install firefox24. Ubuntu"
 " releases updated versions periodically. It implements current and "
@@ -28,107 +28,108 @@ msgid ""
 "computing infrastructure). It is comfortable with Ubuntu and Cent OS."
 msgstr ""
 
-#: ../../firefox24.rst:11
+#: ../../source/firefox24.rst:11
 msgid "Help Command"
 msgstr ""
 
-#: ../../firefox24.rst:13
+#: ../../source/firefox24.rst:13
 msgid ""
 "This command can function about the objectives and commands available under "
 "Firefox24 module. It also explains the command to install firefox24. Before "
 "installation, the user can read this help command explains its function."
 msgstr ""
 
-#: ../../firefox24.rst:19
+#: ../../source/firefox24.rst:19
 msgid "The following image also helps you to understand this module clearly."
 msgstr ""
 
-#: ../../firefox24.rst:42
+#: ../../source/firefox24.rst:42
 msgid "Installation"
 msgstr ""
 
-#: ../../firefox24.rst:44
+#: ../../source/firefox24.rst:44
 msgid ""
 "It is a glaring process to install firefox24 module under Cleopatra by just "
 "using the command given below,"
 msgstr ""
 
-#: ../../firefox24.rst:50
+#: ../../source/firefox24.rst:50
 msgid "After key in the command, it can asks"
 msgstr ""
 
-#: ../../firefox24.rst:52
+#: ../../source/firefox24.rst:52
 msgid "Install firefox24?(Y/N)"
 msgstr ""
 
-#: ../../firefox24.rst:54
+#: ../../source/firefox24.rst:54
 msgid ""
 "In case the user input as Y, it can install firefox24 from the package. "
 "Else, it can exit the screen. The following screen shots can explain it."
 msgstr ""
 
-#: ../../firefox24.rst:91 ../../firefox24.rst:96
+#: ../../source/firefox24.rst:91 ../../source/firefox24.rst:96
 msgid "Options"
 msgstr ""
 
-#: ../../firefox24.rst:96
+#: ../../source/firefox24.rst:96
 msgid "Parameters"
 msgstr ""
 
-#: ../../firefox24.rst:96
+#: ../../source/firefox24.rst:96
 msgid "Alternative Parameter"
 msgstr ""
 
-#: ../../firefox24.rst:96
+#: ../../source/firefox24.rst:96
 msgid "Comments"
 msgstr ""
 
-#: ../../firefox24.rst:98 ../../firefox24.rst:101 ../../firefox24.rst:104
+#: ../../source/firefox24.rst:98 ../../source/firefox24.rst:101
+#: ../../source/firefox24.rst:104
 msgid "cleopatra firefox24 Install"
 msgstr ""
 
-#: ../../firefox24.rst:98 ../../firefox24.rst:104
+#: ../../source/firefox24.rst:98 ../../source/firefox24.rst:104
 msgid "Firefox24"
 msgstr ""
 
-#: ../../firefox24.rst:98 ../../firefox24.rst:101
+#: ../../source/firefox24.rst:98 ../../source/firefox24.rst:101
 msgid "Y"
 msgstr ""
 
-#: ../../firefox24.rst:98 ../../firefox24.rst:101
+#: ../../source/firefox24.rst:98 ../../source/firefox24.rst:101
 msgid "System starts installation process under cleopatra"
 msgstr ""
 
-#: ../../firefox24.rst:101
+#: ../../source/firefox24.rst:101
 msgid "Ff24"
 msgstr ""
 
-#: ../../firefox24.rst:104
+#: ../../source/firefox24.rst:104
 msgid "N"
 msgstr ""
 
-#: ../../firefox24.rst:104
+#: ../../source/firefox24.rst:104
 msgid "System stops installation process under cleopatra|"
 msgstr ""
 
-#: ../../firefox24.rst:109
+#: ../../source/firefox24.rst:109
 msgid "Benefits"
 msgstr ""
 
-#: ../../firefox24.rst:111
+#: ../../source/firefox24.rst:111
 msgid ""
 "Firefox24 uses support for new hardware and integration of all the updates "
 "published in that series to date."
 msgstr ""
 
-#: ../../firefox24.rst:112
+#: ../../source/firefox24.rst:112
 msgid "Firefox24 is an open source Web browser for Linux."
 msgstr ""
 
-#: ../../firefox24.rst:113
+#: ../../source/firefox24.rst:113
 msgid "Firefox24 is non-case sensitive."
 msgstr ""
 
-#: ../../firefox24.rst:114
+#: ../../source/firefox24.rst:114
 msgid "Privacy and security measures, smart searching is possible."
 msgstr ""

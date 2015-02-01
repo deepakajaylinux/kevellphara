@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 12:00+0530\n"
+"POT-Creation-Date: 2015-02-01 14:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,127 +17,127 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/ubuntucompiler.rst:3
-# ce9323b736424e4fb1ec80afd147c394
+# 8d6ee1ac873e4b5091b48332da7d4585
 msgid "Ubuntu Compiler"
 msgstr ""
 
 #: ../../source/ubuntucompiler.rst:6
-# a3840f02772a4fad9d7d9262a49e3038
+# 2f87732f7f8f4db3a5bbf9f83770237d
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/ubuntucompiler.rst:7
-# f121906a013d47c193e1380da8750f22
+# ee98de7a66ab4decb5663a6abc323fe8
 msgid "This module revitalize c program. Ubuntu and other Linux distributions have extensive package repositories to save the user from the trouble of compiling. With just a single command, you can build from source like a pro. It is comfort with Ubuntu and centOS."
 msgstr ""
 
 #: ../../source/ubuntucompiler.rst:10
-# e961944b55a242b6b582fb92157007b7
+# c3f612b27d934573a0e823055eadcce0
 msgid "Help command"
 msgstr ""
 
 #: ../../source/ubuntucompiler.rst:12
-# 8bc37af28cb34eac8ae591df009243ce
+# c8c2d4c9e7fc4278b4bbf1d699bd64a6
 msgid "This help command guide the user about Ubuntu compiler. It is less time consuming because it can installed automatically. Suitable for C program."
 msgstr ""
 
 #: ../../source/ubuntucompiler.rst:18
-# 7326b8401a87445fbfcbd4f1638a8d72
+# 9c9e83f334f247fdaaa86d65966f2e03
 msgid "The following help command will assist the user for installation."
 msgstr ""
 
 #: ../../source/ubuntucompiler.rst:39
-# 7bddc719bb5a4eff9087f500477036fd
+# 0a361ea1778c4ec6b326a45b65526691
 msgid "Installation"
 msgstr ""
 
 #: ../../source/ubuntucompiler.rst:41
-# 2893f9a9b2b04f4ca71b5d815a936b80
+# e202f7570cb142fd92781322d94a5c01
 msgid "This is a noticeable process to install Ubuntu compiler module under Cleopatra by just using the command given below,"
 msgstr ""
 
 #: ../../source/ubuntucompiler.rst:47
-# 719fbb57cb35469ca6d22261ecf87522
+# fee7a001822649d5b12d8eeb358a6643
 msgid "After giving the command, the Ubuntu compiler will be installed with new updates."
 msgstr ""
 
 #: ../../source/ubuntucompiler.rst:49
-# 32b327089c4547979f2b71ffef473132
+# 8f640394b15244ca9c5991ffee469735
 msgid "If the user input as N the following screen will come."
 msgstr ""
 
 #: ../../source/ubuntucompiler.rst:69
-# c285e5b0dbb14e3394b61c3dbc1fd52b
+# 38a8d373890546b78362ec63afc655c3
 msgid "option"
 msgstr ""
 
 #: ../../source/ubuntucompiler.rst:74
-# 646ac17e0d184926b98c237727bfc5ea
+# ee03082ebdf84001b2acb71acc0e5c23
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/ubuntucompiler.rst:74
-# ee450700f3b04208bc5ae3238ccbd7a5
+# 0d37115adf6a49b986a03cf90c3e23f2
 msgid "syntax"
 msgstr ""
 
 #: ../../source/ubuntucompiler.rst:74
-# 629b04d5825b491fbbc54432db0345a0
+# f2ad0dfae89c4e86a879b4147ae44e6c
 msgid "Comment"
 msgstr ""
 
 #: ../../source/ubuntucompiler.rst:76
-# 8489a5654f4b4a42a5336ee3ebdf7f49
+# f7b330fce1f84f28815dbd9bb50153b6
 msgid "Install Ubuntu compiler? Y/N"
 msgstr ""
 
 #: ../../source/ubuntucompiler.rst:76
-# 72c574ed16104b188baf78e904df002b
+# 2e8d1b728beb4d38a390a8b77b38ba74
 msgid "Yes"
 msgstr ""
 
 #: ../../source/ubuntucompiler.rst:76
-# c3bb4331582e446a8c91861b3e662466
+# dcfbb0eeb531445b985d4246b58813d9
 msgid "Installed successfully"
 msgstr ""
 
 #: ../../source/ubuntucompiler.rst:78
-# 64383f41d0e047fa9662bad81e15809e
+# d66d5b2219334831919f94b4cc706a07
 msgid "stop"
 msgstr ""
 
 #: ../../source/ubuntucompiler.rst:78
-# 087962a575cd461ca560b5ba7cf96ba2
+# a4109b92274b4c10a801c9acd8853399
 msgid "No"
 msgstr ""
 
 #: ../../source/ubuntucompiler.rst:78
-# d50ac00733d942318ee4cf3e16aefde0
+# 185284426ed8421d97c08e10636b1e46
 msgid "Exit the screen|"
 msgstr ""
 
 #: ../../source/ubuntucompiler.rst:82
-# 57a7982af3f64f4ba71e043e438752fe
+# 87080a166e9249f78d3ef35505fa7e05
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/ubuntucompiler.rst:84
-# 356e59578eab41c58537cdef35affaa3
+# f1bc703dfc7c496f89bc9ffbb4fdb374
 msgid "Faster boot"
 msgstr ""
 
 #: ../../source/ubuntucompiler.rst:85
-# da8ec98990f242538be9b54f76662138
+# 07da505f3422489e8525ae8226c0cdab
 msgid "Better security"
 msgstr ""
 
 #: ../../source/ubuntucompiler.rst:86
-# ebfbe185c40147c5849ec7a148cc9055
+# 54dfe81b8476401788adb75b1f12e509
 msgid "Changing the kernel to pre-empt while compilation"
 msgstr ""
 
 #: ../../source/ubuntucompiler.rst:87
-# 33d66f432fac49069bd7156adfcc4b31
+# 3ae4b1b48d5c4ef59d3bd917b3bec1c7
 msgid "Suitable for C program"
 msgstr ""
 

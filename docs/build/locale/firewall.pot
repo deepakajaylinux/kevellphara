@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 12:00+0530\n"
+"POT-Creation-Date: 2015-02-01 14:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,237 +17,237 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/firewall.rst:3
-# 1bac8e11b5bf46f9afbe231069678796
+# 16a71caedaf240719c7efcc69f3b5f87
 msgid "Firewall"
 msgstr ""
 
 #: ../../source/firewall.rst:6
-# 1e78ed1b1496433f827abedfe8537c36
+# 9917c3d3bc2e4dbb90b78ffede04e9c2
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/firewall.rst:8
-# 535fc0c8148c4f979266007dadfa8992
+# 81931fcd1db641b0a985bc0d4e440ddd
 msgid "A firewall is a network security system that controls the incoming and outgoing network traffic based on an applied rule set. Firewalls exist both as a software solution and as a hardware appliance."
 msgstr ""
 
 #: ../../source/firewall.rst:11
-# d6790bcdf965497585391f0bf72fb4b3
+# 37f58899b2cc467793a0e382661c3c21
 msgid "Help command"
 msgstr ""
 
 #: ../../source/firewall.rst:13
-# 1b019af9d1994b2ea26467278bf77b59
+# 4c5273c585b14ac4920ee0ccd109b60e
 msgid "This help command assist the user about Cleopatra. It guides the user permission. The user can do the modification as per wish. Help image will guide the user. Let’s visualize it."
 msgstr ""
 
 #: ../../source/firewall.rst:21
-# 89926ad0299c4799800f505d87c119ed
+# 24048141d3aa49f89a95adedae505a66
 msgid "Options"
 msgstr ""
 
 #: ../../source/firewall.rst:23
-# 1b31dbe7311440b4b913d622419081f8
+# 4b4194deec594fe3b80f2794c6ab332a
 msgid "Firewalls rules can be customized as per your needs, requirements & security threat levels. The user can create or disable firewall rules based on such conditions as:"
 msgstr ""
 
 #: ../../source/firewall.rst:29
-# b3414efdea154271bc398df85f9db8e8
+# 9496d9beffbe447b9a1b3942074172c6
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/firewall.rst:29
-# cff55a2b1e344151a2378009a27cc859
+# abba46e02bac42968c97e8d56694fec3
 msgid "Function"
 msgstr ""
 
 #: ../../source/firewall.rst:29
-# 74cd913db7664c2d851dbb2fa524a130
+# ce62136fcf5048bea0d7a879f7a394fd
 msgid "Comment"
 msgstr ""
 
 #: ../../source/firewall.rst:31
-# 5f5f0362f34144378f5193be045031e5
+# b5764233874a4a53adef0d4f6f401686
 msgid "IP address"
 msgstr ""
 
 #: ../../source/firewall.rst:31
-# 4e1febbad1a948a48a6a5832a7c66aae
+# e1ab76ff1a3a44c7a749ba60c4ed6e47
 msgid "Blocking off a certain IP address or a range of IP addresses, which you think are predatory"
 msgstr ""
 
 #: ../../source/firewall.rst:35
-# 0ec74cae55df4f269de502fd132a00fe
+# 8c795a294afc43a19c2ae60dfe80decb
 msgid "Enable"
 msgstr ""
 
 #: ../../source/firewall.rst:35
-# afabd683f91344a998d0e539061847c3
+# 2077d80ad92241ca979ebca19fb98998
 msgid "Enable system firewall"
 msgstr ""
 
 #: ../../source/firewall.rst:35
-# 61264314826a4a98a2eb9a595ec962da
+# 1d517710a02642ad94b4331ff124e4b9
 msgid "Cleopatra firewall enable"
 msgstr ""
 
 #: ../../source/firewall.rst:37
-# 699779f93665435f8153a95460aaff4e
+# 9a977f742ef84cd299c88d0fc1c065f4
 msgid "Disable"
 msgstr ""
 
 #: ../../source/firewall.rst:37
-# 7aead7e1d34c41dea4b58888468a9fa0
+# 5d5cf3b3fa844b008640c8baf272d750
 msgid "Disable system firewall"
 msgstr ""
 
 #: ../../source/firewall.rst:37
-# b5f4b4fde58b4a64970afed2b6f9cb65
+# ab637ef38e3346049bc128422f7a03dc
 msgid "Cleopatra firewall disable"
 msgstr ""
 
 #: ../../source/firewall.rst:39
-# 8b6498eba80f4a779b7059550bafe9a9
+# d6352b1994394ff6b198e313756fd965
 msgid "Allow"
 msgstr ""
 
 #: ../../source/firewall.rst:39
-# 1485647bfacc4d2da86eaf767c3df1fb
+# 4e633ec05ab942f782c2ea63145562ee
 msgid "Allow firewall rule"
 msgstr ""
 
 #: ../../source/firewall.rst:39
-# 9e1a62f4c73444eb9880c3c165d7b96f
+# f70ae63844af480db5492fd273bf6252
 msgid "Cleopatra firewall allow –firewall-rule=”ssh/tcp”"
 msgstr ""
 
 #: ../../source/firewall.rst:41
-# d43b41dff1634dc0891c988aebcf1700
+# a9a876653bb2437c87f99e148d04cda2
 msgid "Deny"
 msgstr ""
 
 #: ../../source/firewall.rst:41
-# 7a23dc8698854a33bc2d572cea988e34
+# 0c055989d02d4d12ae4c9054b0607eed
 msgid "Allow connection attempt to be ignored and time out"
 msgstr ""
 
 #: ../../source/firewall.rst:41
-# b069bdf8a6784adf9bd333674ab32615
+# 2cc3639b79de479e9a5f4b81b8b1d12e
 msgid "Cleopatra firewall deny –firewall-rule=”ssh/tcp”"
 msgstr ""
 
 #: ../../source/firewall.rst:44
-# 7662715f0f2a4e419fbad98112243eff
+# 7c48f21e70004709bab1c4661aac2ecb
 msgid "Reject"
 msgstr ""
 
 #: ../../source/firewall.rst:44
-# 3a97b727776f415eb5377b045103ae5e
+# 79f380f184b048fb88d648ecdf187d15
 msgid "Terminate connection attempts with an error to the connector"
 msgstr ""
 
 #: ../../source/firewall.rst:44
-# 88ab3843afc2460da55f2e27b5ac737a
+# b2abfde4791a47608d8f6ea3d8c72b55
 msgid "Cleopatra firewall reject –firewall-rule=”ssh/tcp”"
 msgstr ""
 
 #: ../../source/firewall.rst:47
-# 095dc7192be74edd80eb8117f00f79be
+# 9ea00639a20b4cd18d54f06b25ea6f57
 msgid "Limit"
 msgstr ""
 
 #: ../../source/firewall.rst:47
-# 613bf7fcb0a14f8f831fcff62602ea4d
+# 0606fe660733407caa6bb94c3cb539e1
 msgid "Ufw will deny connections if an IP address has initiate 6 or attempted to more connection in the last 30 seconds."
 msgstr ""
 
 #: ../../source/firewall.rst:47
-# ad7741b9e1414c498e52e48e88593626
+# b29818c1cecc4495a140f4b424a7cc45
 msgid "Cleopatra firewall limit –firewall-rule=”ssh/tcp”"
 msgstr ""
 
 #: ../../source/firewall.rst:52
-# 204c90b77ce24f99a72f975752994d46
+# 3461522bd7454f5389428509350e5a98
 msgid "Delete"
 msgstr ""
 
 #: ../../source/firewall.rst:52
-# 7ad68e15fc95455c9070fa972ecb92ac
+# 8fb001d841ad4da88a002e20101681ea
 msgid "Delete a firewall rule"
 msgstr ""
 
 #: ../../source/firewall.rst:52
-# 1195ddb8c8e142e3b41814bdf80a5907
+# 027efff030734d33b20520d3bdb53135
 msgid "Cleopatra firewall delete –firewall-rule=”ssh/tcp”"
 msgstr ""
 
 #: ../../source/firewall.rst:54
-# 96a102fecded4991892a8ee646d48b12
+# d5903c4afa744557afa3626211e3b618
 msgid "Insert"
 msgstr ""
 
 #: ../../source/firewall.rst:54
-# 4cc57b06b091429f9dbdaa6b21d97ee3
+# 57f5c9bac07044ff86cbbfc0c47ca1ef
 msgid "Insert a  firewall rule"
 msgstr ""
 
 #: ../../source/firewall.rst:54
-# c9cfb8c444da47d48493adc22e85420b
+# f3cb44dfb8884b9b846c10fbe98ed017
 msgid "Cleopatra firewall insert –firewall-rule=”ssh/tcp”"
 msgstr ""
 
 #: ../../source/firewall.rst:56
-# 866c32cdea6745eb812373a93dad52fc
+# f84ff07e4ad245b587d2ce7a11d9ebc3
 msgid "Reset"
 msgstr ""
 
 #: ../../source/firewall.rst:56
-# 9d78d8b3959443f8944e2a9af200c596
+# 0a98ec9fa97b4003b9571d63de4c62dd
 msgid "Reset a firewall rule"
 msgstr ""
 
 #: ../../source/firewall.rst:56
-# 069870002c5a4e55805a9d31831a8f9a
+# 447e8ef69cad4724ae7dcf9cc586a2ea
 msgid "Cleopatra firewall reset –firewall-rule=”ssh/tcp”"
 msgstr ""
 
 #: ../../source/firewall.rst:58
-# e1e10d6bd47a44ad9030f97c606c1cc7
+# 97f9381b09b54b9d80125616151f671b
 msgid "default"
 msgstr ""
 
 #: ../../source/firewall.rst:58
-# 3a0770ae322f4797ac24acba443bd2e1
+# f594958688eb41b6bab28cd6d0514efb
 msgid "Default policy, should be allow, deny or reject."
 msgstr ""
 
 #: ../../source/firewall.rst:58
-# 284b3a9b92824db4a9d8666ef788e535
+# bd502ef6ad9b4d9995f0a79bb50481d7
 msgid "Cleopatra firewall default – policy=”deny”"
 msgstr ""
 
 #: ../../source/firewall.rst:65
-# f15ce4bad3c6450f9951c24a8fe4a580
+# 227ccb9d5d4b42ddbd51ef3076594d9f
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/firewall.rst:67
-# e6f541e05e38465b9ed990df7daeaf60
+# 34e6969f67a546baa0ec2d7bfb73e1b0
 msgid "The firewall prevents unwanted access to the system over a network connection by identifying and preventing communication over risky ports."
 msgstr ""
 
 #: ../../source/firewall.rst:69
-# 91df096a345c47c19abffa0efb83d322
+# cbf1130145ea489ca301dd3cde57b028
 msgid "System communicate over many different recognized ports, and the firewall will tend to permit these without prompting or alerting the user."
 msgstr ""
 
 #: ../../source/firewall.rst:71
-# c4919518922745e592d79872c68a2841
+# 8abee4ef8dc540b7a70615b2cd74cf23
 msgid "Firewalls can also detect \"suspicious\" activity from the outside."
 msgstr ""
 
 #: ../../source/firewall.rst:73
-# 73a9690edcc04314b5176f3c5be0d6c6
+# 02819fff0bd34728bc2b21b09c8cb4da
 msgid "The user can set their rule according to their wish."
 msgstr ""
 

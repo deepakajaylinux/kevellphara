@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"POT-Creation-Date: 2015-01-31 11:09+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,15 +11,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../cassandra.rst:3
+#: ../../source/cassandra.rst:3
 msgid "Cassandra"
 msgstr ""
 
-#: ../../cassandra.rst:7
+#: ../../source/cassandra.rst:7
 msgid "Synopsis"
 msgstr ""
 
-#: ../../cassandra.rst:9
+#: ../../source/cassandra.rst:9
 msgid ""
 "Apache Cassandra is an open source distributed database management system "
 "designed to handle large amounts of data across many commodity servers, "
@@ -29,7 +29,7 @@ msgid ""
 " clients."
 msgstr ""
 
-#: ../../cassandra.rst:11
+#: ../../source/cassandra.rst:11
 msgid ""
 "Cassandra's data model is a partitioned row store with tunable consistency. "
 "Rows are organized into tables; the first component of a table's primary key"
@@ -38,11 +38,11 @@ msgid ""
 "the primary key."
 msgstr ""
 
-#: ../../cassandra.rst:14
+#: ../../source/cassandra.rst:14
 msgid "Help Command"
 msgstr ""
 
-#: ../../cassandra.rst:16
+#: ../../source/cassandra.rst:16
 msgid ""
 "This command helps to determine the usage of Cassandra module. The user will"
 " come to know about the different way/format to execute this module. This "
@@ -50,75 +50,61 @@ msgid ""
 " are the command and the screenshot of the same."
 msgstr ""
 
-#: ../../cassandra.rst:22 ../../cassandra.rst:54
+#: ../../source/cassandra.rst:22 ../../source/cassandra.rst:54
 msgid "The pictorial representation of the above command is shown below,"
 msgstr ""
 
-#: ../../cassandra.rst:47
+#: ../../source/cassandra.rst:47
 msgid "Installation"
 msgstr ""
 
-#: ../../cassandra.rst:48
+#: ../../source/cassandra.rst:48
 msgid ""
 "This command helps in installing Cassandra in system. The below given "
 "command will execute the process of installation."
 msgstr ""
 
-#: ../../cassandra.rst:324 ../../cassandra.rst:330
+#: ../../source/cassandra.rst:324 ../../source/cassandra.rst:330
 msgid "Options"
 msgstr ""
 
-#: ../../cassandra.rst:330
+#: ../../source/cassandra.rst:330
 msgid "Parameters"
 msgstr ""
 
-#: ../../cassandra.rst:330
+#: ../../source/cassandra.rst:330
 msgid "Alternative Parameter"
 msgstr ""
 
-#: ../../cassandra.rst:330
+#: ../../source/cassandra.rst:330
 msgid "Comments"
 msgstr ""
 
-#: ../../cassandra.rst:332 ../../cassandra.rst:338
+#: ../../source/cassandra.rst:332 ../../source/cassandra.rst:338
 msgid "cleopatra cassandra Install"
 msgstr ""
 
-#: ../../cassandra.rst:332 ../../cassandra.rst:338
-msgid ""
-"There are two alternative parameters which can be used in command line. "
-"Cassandra , cassandra Eg: Cleapatra cassandra install/"
-msgstr ""
-
-#: ../../cassandra.rst:336
-msgid "Cleapatra Cassandra install"
-msgstr ""
-
-#: ../../cassandra.rst:332
+#: ../../source/cassandra.rst:332
 msgid "Y"
 msgstr ""
 
-#: ../../cassandra.rst:332
+#: ../../source/cassandra.rst:332
 msgid "System starts installation process"
 msgstr ""
 
-#: ../../cassandra.rst:342
-msgid "Cleapatra Cassandra install|"
-msgstr ""
-
-#: ../../cassandra.rst:338
+#: ../../source/cassandra.rst:338
 msgid "N"
 msgstr ""
 
-#: ../../cassandra.rst:338
+#: ../../source/cassandra.rst:338
 msgid "System stops installation process"
 msgstr ""
 
-#: ../../cassandra.rst:347
+#: ../../source/cassandra.rst:347
 msgid "Benefits"
 msgstr ""
 
-#: ../../cassandra.rst:349
+#: ../../source/cassandra.rst:349
 msgid ""
 "Decentralized - Every node in the cluster has the same role. There is no "
 "single point of failure. Data is distributed across the cluster (so   each "
@@ -126,7 +112,7 @@ msgid ""
 "service any request."
 msgstr ""
 
-#: ../../cassandra.rst:351
+#: ../../source/cassandra.rst:351
 msgid ""
 "Supports replication and multi data center replication - Replication "
 "strategies are configurable. Cassandra is designed as a distributed system, "
@@ -136,22 +122,47 @@ msgid ""
 "disaster recovery."
 msgstr ""
 
-#: ../../cassandra.rst:355
+#: ../../source/cassandra.rst:355
 msgid ""
 "Scalability - Read and write throughput both increase linearly as new "
 "machines are added, with no downtime or interruption to applications."
 msgstr ""
 
-#: ../../cassandra.rst:357
+#: ../../source/cassandra.rst:357
 msgid ""
 "Fault-tolerant - Data is automatically replicated to multiple nodes for "
 "fault-tolerance. Replication across multiple data centers is supported. "
 "Failed nodes can be replaced with no downtime."
 msgstr ""
 
-#: ../../cassandra.rst:360
+#: ../../source/cassandra.rst:360
 msgid ""
 "Tunable consistency - Writes and reads offer a tunable level of consistency,"
 " all the way from \"writes never fail\" to \"block for all replicas   to be "
 "readable\", with the quorum level in the middle."
 msgstr ""
+
+#: ../../source/cassandra.rst:332
+msgid ""
+"There are two alternative parameters which can be used in command line. "
+"Cassandra , cassandra Eg: Cleapatra cassandra install Cleapatra Cassandra "
+"install"
+msgstr ""
+
+#: ../../source/cassandra.rst:338
+msgid ""
+"There are two alternative parameters which can be used in command line. "
+"Cassandra , cassandra Eg: Cleapatra cassandra install Cleapatra Cassandra "
+"install|"
+msgstr ""
+
+#~ msgid ""
+#~ "There are two alternative parameters which can be used in command line. "
+#~ "Cassandra , cassandra Eg: Cleapatra cassandra install/"
+#~ msgstr ""
+
+#~ msgid "Cleapatra Cassandra install"
+#~ msgstr ""
+
+#~ msgid "Cleapatra Cassandra install|"
+#~ msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 12:00+0530\n"
+"POT-Creation-Date: 2015-02-01 14:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,143 +17,143 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/logging_cleo.rst:3
-# 19f9aaac4e714753a64ab8b2f502d532
+# 43a58dcb3ded429782a4520ed82135b3
 msgid "Logging"
 msgstr ""
 
 #: ../../source/logging_cleo.rst:6
-# 10bb0496b6804b72abab6b29e2532597
+# d21417ba91b04331bb66f15ec13be3d6
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/logging_cleo.rst:8
-# a926470a35eb4b57bd386460862d1f1f
+# 75fa01a1fca94ceab7e147529caba071
 msgid "This module logs an information to the control panel and optionally php log."
 msgstr ""
 
 #: ../../source/logging_cleo.rst:10
-# 24b7462038a64fa5ad03e01487f8e5eb
+# 3d32225e5ed542a992b70f617fdc1e8e
 msgid "The process of using this module to collect data through sensors, analyze the data and save and output the results of the collection and analysis. Logging also implies the controlpanel of the system installs and analyzes the data. Non case sensitivity is a crown for this module. This suits to work with Ubuntu and cent OS."
 msgstr ""
 
 #: ../../source/logging_cleo.rst:13
-# 89e5962f6adf4cc993fdcf1931119274
+# e3491cd514984b13b3b8253e698c55bd
 msgid "Help command"
 msgstr ""
 
 #: ../../source/logging_cleo.rst:15
-# aa83496eed424b40932a0ab8f7bcfcd2
+# d909311d07864138a4abb7e63110a71a
 msgid "This command can function about the objectives and commands available in Logging  under Cleopatra module. It also explains the command to install logging module. Before installation, the user can read this help command explains its function."
 msgstr ""
 
 #: ../../source/logging_cleo.rst:22
 #: ../../source/logging_cleo.rst:57
-# ca772e5048bd4a148693a9ce8d28f3ae
-# 51365660c4b042f1aae09801a30c042b
+# 39a667af3244424a996787f2cfc8ca70
+# 0614a37e41ac4955a01889c7bc7d7aa9
 msgid "The following screenshots can visualize the help command"
 msgstr ""
 
 #: ../../source/logging_cleo.rst:48
-# 8d7269d71a834223b36f9ccf787d0547
+# a89bad6c1bc84d9a835731ebc7a8c54f
 msgid "Installation"
 msgstr ""
 
 #: ../../source/logging_cleo.rst:50
-# 2b04f3fb12e54fbc9e0ed288795a2826
+# 5e60bdc2d98a4bda916be16f38bc638c
 msgid "These installation procedures are for control php log. This section provides information about compatibility and requirements, basic instructions on how to install and configure cleopatra to more detailed information. This command can function about the objectives and commands available under Cleopatra logging module. It also explains the command to install logging module. Before installation, the user can read this help command explains its function."
 msgstr ""
 
 #: ../../source/logging_cleo.rst:88
-# 9fc9a8f1446b4986915b5857f4de4241
+# d1694dda0a48487b8a84c74cfba0e8e4
 msgid "Option"
 msgstr ""
 
 #: ../../source/logging_cleo.rst:94
-# bafb6e5cdaa04b93b68160a96fc8e761
+# c7f395cf70ac4fecb96039a831e1c9f2
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/logging_cleo.rst:94
-# 746b38e60ebc4ce1971c5c547d880505
+# 8e44771cac2447cd9ea55bf481025838
 msgid "Alternative Parameters"
 msgstr ""
 
 #: ../../source/logging_cleo.rst:94
-# 1263162fa06047ac8d2eb421085c2c1f
+# 36b807ce6c3847c6921808f46536572f
 msgid "Options"
 msgstr ""
 
 #: ../../source/logging_cleo.rst:94
-# 31592476aa7040b58783c259dbd5917f
+# 9af68c93d9d34e399323f78c4b6be5d3
 msgid "Comments"
 msgstr ""
 
 #: ../../source/logging_cleo.rst:96
 #: ../../source/logging_cleo.rst:99
-# 46b1d853264b4433a267cc871cfe4150
-# 57dee105d37040b8a670f2e872b1fcda
+# 97e8520352d044f58e28421473507c37
+# 620210838498435a88c620a515af5c8d
 msgid "cleopatra logging Install"
 msgstr ""
 
 #: ../../source/logging_cleo.rst:96
 #: ../../source/logging_cleo.rst:99
-# 8d4388a844894dd7b131c3b6c76eaf82
-# f4310a60473a4fc4befcd6c639b2a3a4
+# c95ece7b1b234977b016d2be6e0da787
+# cdb3229bf0674d229742609dc7c91843
 msgid "We can use Logging, logging"
 msgstr ""
 
 #: ../../source/logging_cleo.rst:96
-# a9033940a760407fa20e8097123b4233
+# 1935f9d715924a6f9cf3d6aee6369791
 msgid "Y"
 msgstr ""
 
 #: ../../source/logging_cleo.rst:96
-# 766fa6c4eb694f689bfb356087c3edb3
+# 45be0124bc59481a9c7a0c5e0c200cb5
 msgid "System starts installation process under cleopatra"
 msgstr ""
 
 #: ../../source/logging_cleo.rst:99
-# 45050dbd7f5f480db0d37fc7ad1ab6bd
+# 790e708a93d74514b4c03dc74b6dc7b2
 msgid "N"
 msgstr ""
 
 #: ../../source/logging_cleo.rst:99
-# ceebdb2d86234ad989df356b8941b839
+# 2ac782b8e9ae45b98c5ef2d895955a78
 msgid "System stops installation process under cleopatra|"
 msgstr ""
 
 #: ../../source/logging_cleo.rst:105
-# bf677750673449159648dba5a724ac0d
+# 44868dcf9c4c4503853def33125e1a40
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/logging_cleo.rst:107
-# 45384d67b7da4413a15a054bba285a0f
+# 3e32a94f48624b46a7d0ce32e8218238
 msgid "Real-time Data Visualization"
 msgstr ""
 
 #: ../../source/logging_cleo.rst:108
-# 260afcdae85c460bb1bec3697db6ce54
+# 77a899918a2240be938d27e7f800785e
 msgid "Non case sensitivity"
 msgstr ""
 
 #: ../../source/logging_cleo.rst:109
-# 3716235f0eaa430b9512dd58eead999e
+# 569d2af7597f4626a02166c432ad3e95
 msgid "User-defined Functionality"
 msgstr ""
 
 #: ../../source/logging_cleo.rst:110
-# 57de3a82a77943c79954fb905a39b7d2
+# 2c6b1d090a7f4712a7f47bea381950e4
 msgid "Terabytes of Data Storage"
 msgstr ""
 
 #: ../../source/logging_cleo.rst:111
-# 445391c3aed04d568868d5a96ef97996
+# d1cb9cb8ee8346ef8940aa81ddc72ba6
 msgid "Network Connectivity"
 msgstr ""
 
 #: ../../source/logging_cleo.rst:112
-# f68b2282291e4a62ab7e9eb134ea9a8d
+# 20e812992f1a429bbfcc01bbd9d86b40
 msgid "Well to do in Ubuntu and cent OS"
 msgstr ""
 

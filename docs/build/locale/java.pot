@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 12:00+0530\n"
+"POT-Creation-Date: 2015-02-01 14:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,121 +17,121 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/java.rst:3
-# 5da4ef208913449e87df452c60bba0f8
+# dfe17177a8bb460c9aaa6b028c0548b4
 msgid "JAVA"
 msgstr ""
 
 #: ../../source/java.rst:6
-# 79e28211f81847d0a845226b74bdf9b8
+# d76bf443e8ae4662af99a8ae0e324f33
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/java.rst:8
-# 52f6085a95784a42a84aa892ea4d809b
+# b3834147087749c2b730846b02afc957
 msgid "This module assists in installing the version of oracle java JDK 1.7. It will also facilitates configuring java, javac, javaws along with the new oracle version."
 msgstr ""
 
 #: ../../source/java.rst:11
-# d570e28e0ddd470c86f96f95bc7d5da6
+# daa611215d66436d80bd53c46b2ca958
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/java.rst:13
-# 4f135bcb0ba043b1bd9314e3ff3d6821
+# 863278082af643ae99a6771859440af7
 msgid "The help command guides the users regarding the purpose and as well as about the options that are included in java module. The help command lists out the alternative parameters of java module. It also describes the syntax for installing Java JDK 1.7. The help command for Java module is shown as below."
 msgstr ""
 
 #: ../../source/java.rst:19
-# fab73be4dbcc44c08965fdcf76d598af
+# 7633fea1149d4c0bb93fa83c9a640830
 msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under java module."
 msgstr ""
 
 #: ../../source/java.rst:43
-# 2e54083bca4044198108cb0e33ad3d20
+# d54380a04cf74333ab753a9491fb3db4
 msgid "Installation"
 msgstr ""
 
 #: ../../source/java.rst:45
-# 61aafe388085493091cf545c735bdf1a
+# 0f77c8214c32408292b78f1448fc4a7e
 msgid "Installing the oracle version of java JDK 1.7 to the users machine can be done by simply using the command as shown below."
 msgstr ""
 
 #: ../../source/java.rst:51
-# fc1d651193ce4655964f7b996c9e9b37
+# 8ccc79b1d1634137923496f862795de5
 msgid "After inputting the command above, the following process occurs as shown in the tabular format."
 msgstr ""
 
 #: ../../source/java.rst:56
-# 94f25113ff9f42a0a99b12c261a224fd
+# 31b0d0be333a46cd97b01eea0e9e0abe
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/java.rst:56
-# a65ad6f927da4a138a35d7394c9f45ee
+# 25df851adfa34e189455fbf3c04345eb
 msgid "Alternative Parameter"
 msgstr ""
 
 #: ../../source/java.rst:56
-# f8b57f0e3a6644889bee2978547995e1
+# b08432be8fb94eb4b3aadf419b28309b
 msgid "Option"
 msgstr ""
 
 #: ../../source/java.rst:56
-# 2608308a3f5947ed8594f4b50addc642
+# 44e7129cbc144a7e8355f4505b770c5e
 msgid "Comments"
 msgstr ""
 
 #: ../../source/java.rst:58
 #: ../../source/java.rst:62
-# 927b57b03d7640d696a746f108ceee19
-# 753f8292905d494eb4883dc948c9ee38
+# 7eebca2c346e4b7ead5ffdbe65196a3b
+# 86606c43f78c4aa28fd740158e765f36
 msgid "Install The Oracle Java JDK 1.7? (Y/N)"
 msgstr ""
 
 #: ../../source/java.rst:58
 #: ../../source/java.rst:62
-# e430141ab3e04ad8a1adb88baf05c276
-# 42c9d7d4db5d4ea5b5001f6372b8195f
+# 8e64b0dfce6f41818f7b484839a6e13f
+# 22ee7519a5d7434ca322d8ec22896a88
 msgid "Inspite of Oracle Java JDK 1.7, the following alternatives can also be used: Java, java, java17"
 msgstr ""
 
 #: ../../source/java.rst:58
-# f91d85896991463d838ce92dbb728ff8
+# de148c47c0814383a97f10c84140e4e5
 msgid "Y(Yes)"
 msgstr ""
 
 #: ../../source/java.rst:58
-# 5acb5f4c695042de876fd5e56bf98069
+# d1123e53a91543718d9fd5ca402fb5dc
 msgid "If the user wish to proceed the installation process they can input as Y."
 msgstr ""
 
 #: ../../source/java.rst:62
-# 0a2c748dbc42424db2ddd47d1b5b7128
+# f18ce5f8df0141db88cca4a875a3b24e
 msgid "N(No)"
 msgstr ""
 
 #: ../../source/java.rst:62
-# ea680c71a2b849029190b8067e8f4f41
+# 31ed64972c8e405f87ba6e1d6c69eeae
 msgid "If the user wish to quit the installation process they can input as N.|"
 msgstr ""
 
 #: ../../source/java.rst:70
-# f849f3cda5734de3bd6f21a9e3f7a6d8
+# 257c790157f34264bedb7c6a636ae893
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/java.rst:72
-# a239f69dcde643249c29aaf44b23b054
+# bfceb0d1092f4f05b9751fe08cd83641
 msgid "The parameters used in help and installation operations are not case sensitive which is an added advantage while compared to others."
 msgstr ""
 
 #: ../../source/java.rst:73
-# 3386bd2d543c4fcea49fcbe27f34532b
+# 5ed45244cd66414b996b71f5582a69a5
 msgid "It is well-to-do in both Ubuntu and as well as Cent OS."
 msgstr ""
 
 #: ../../source/java.rst:74
-# e1351ec23d564e97ba69d33bedd1cbef
+# 4a2494f5ef2449f9b4ef8ffb39175124
 msgid "Configuring java, javac, javaws can be done with the aid of new oracle version."
 msgstr ""
 

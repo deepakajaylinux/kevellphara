@@ -256,14 +256,12 @@ texinfo_documents = [
 # How to display URL addresses: 'footnote', 'no', or 'inline'.
 #texinfo_show_urls = 'footnote'
 
-language= 'en'
 locale_dirs = [
 		'../doc/source/locale/'
 	      ]  
 
 gettext_compact = False 
 
-language= 'de'
 locale_dirs = [
                 'locale/'
               ]

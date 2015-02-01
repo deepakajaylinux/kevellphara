@@ -1,0 +1,212 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-02 01:03+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../sftp.rst:3
+msgid "SFTP"
+msgstr ""
+
+#: ../../sftp.rst:7
+msgid "Synopsis"
+msgstr ""
+
+#: ../../sftp.rst:9
+msgid ""
+"This module assist in transferring files from one system to another. It can "
+"upload or download the files to the system. Automation is possible. Put and "
+"get options are available in this module. It also manages virtual box. It is"
+" user friendly with Ubuntu and cent OS."
+msgstr ""
+
+#: ../../sftp.rst:12
+msgid "Help command"
+msgstr ""
+
+#: ../../sftp.rst:14
+msgid ""
+"Help command used to find information about a specified command. For more "
+"information about changes to functionality of Secure File Transfer "
+"Protocol(SFTP) under phlagrant the user can use this help command."
+msgstr ""
+
+#: ../../sftp.rst:21
+msgid "The following screen shot guides you."
+msgstr ""
+
+#: ../../sftp.rst:54
+msgid "Alternative parameters"
+msgstr ""
+
+#: ../../sftp.rst:56
+msgid ""
+"There are two alternative parameters are available. They are SFTP and sftp. "
+"Instead of using sftp, the user can use SFTP."
+msgstr ""
+
+#: ../../sftp.rst:60
+msgid "Put"
+msgstr ""
+
+#: ../../sftp.rst:62
+msgid ""
+"The file transfer can be done from local to remote server. This put option "
+"asks the user datails for servers. The following command used for put "
+"option."
+msgstr ""
+
+#: ../../sftp.rst:69
+msgid "The following screen shot denotes the usage of this command."
+msgstr ""
+
+#: ../../sftp.rst:99 ../../sftp.rst:166
+msgid "SFTP on server group? Y/N"
+msgstr ""
+
+#: ../../sftp.rst:101 ../../sftp.rst:168
+msgid "If the user input as Y then"
+msgstr ""
+
+#: ../../sftp.rst:103 ../../sftp.rst:170
+msgid "SSh timeout section?"
+msgstr ""
+
+#: ../../sftp.rst:105 ../../sftp.rst:172
+msgid "The user has to enter the value"
+msgstr ""
+
+#: ../../sftp.rst:107 ../../sftp.rst:174
+msgid "Please enter remote ssh port"
+msgstr ""
+
+#: ../../sftp.rst:109 ../../sftp.rst:176
+msgid "Default value is 22. The user can enter any value"
+msgstr ""
+
+#: ../../sftp.rst:111 ../../sftp.rst:178
+msgid "Enter environments configured in project? (Y/N)"
+msgstr ""
+
+#: ../../sftp.rst:113 ../../sftp.rst:180
+msgid "The user has to enter y then it starts loading."
+msgstr ""
+
+#: ../../sftp.rst:115
+msgid "Enter local source file path?"
+msgstr ""
+
+#: ../../sftp.rst:117
+msgid "The user  has to enter the file path"
+msgstr ""
+
+#: ../../sftp.rst:119 ../../sftp.rst:186
+msgid "Then everything will be connected."
+msgstr ""
+
+#: ../../sftp.rst:121
+msgid "If the user input as N, it can be terminated."
+msgstr ""
+
+#: ../../sftp.rst:126
+msgid "Get"
+msgstr ""
+
+#: ../../sftp.rst:128
+msgid ""
+"File transfer can be done from remote to local server. It asks the user to "
+"enter server group. The following command used for get option."
+msgstr ""
+
+#: ../../sftp.rst:134
+msgid "The following screen shot explains it."
+msgstr ""
+
+#: ../../sftp.rst:182
+msgid "Enter local target file path?"
+msgstr ""
+
+#: ../../sftp.rst:184
+msgid "The user has to enter the local target file path"
+msgstr ""
+
+#: ../../sftp.rst:188
+msgid ""
+"If the user input as N, it can be terminated. The following screenshots "
+"shows its function."
+msgstr ""
+
+#: ../../sftp.rst:209
+msgid "Options"
+msgstr ""
+
+#: ../../sftp.rst:214
+msgid "Parameters"
+msgstr ""
+
+#: ../../sftp.rst:214
+msgid "Syntax"
+msgstr ""
+
+#: ../../sftp.rst:214
+msgid "Comments"
+msgstr ""
+
+#: ../../sftp.rst:216
+msgid "put"
+msgstr ""
+
+#: ../../sftp.rst:216
+msgid "Source to target"
+msgstr ""
+
+#: ../../sftp.rst:216
+msgid "The file can transferred from source to target."
+msgstr ""
+
+#: ../../sftp.rst:218
+msgid "get"
+msgstr ""
+
+#: ../../sftp.rst:218
+msgid "Path to source"
+msgstr ""
+
+#: ../../sftp.rst:218
+msgid "The file can be downloaded from remote system.|"
+msgstr ""
+
+#: ../../sftp.rst:225
+msgid "Benefits"
+msgstr ""
+
+#: ../../sftp.rst:227
+msgid "Multi server from remote area."
+msgstr ""
+
+#: ../../sftp.rst:228
+msgid "Specified file is not available error message will come."
+msgstr ""
+
+#: ../../sftp.rst:229
+msgid "Accessability is difficult without permission."
+msgstr ""
+
+#: ../../sftp.rst:230
+msgid "Automatically overwrite in case of already in case of file exist."
+msgstr ""
+
+#: ../../sftp.rst:231
+msgid "Non case sensitive."
+msgstr ""
+
+#: ../../sftp.rst:232
+msgid "Secrecy and security is possible."
+msgstr ""

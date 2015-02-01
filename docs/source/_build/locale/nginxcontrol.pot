@@ -1,0 +1,259 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-02 01:03+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../nginxcontrol.rst:3
+# 583743ab46b942a9af8fb40edb4a647e
+msgid "Nginx Control"
+msgstr ""
+
+#: ../../nginxcontrol.rst:6
+# 7c76d454082c4396ad462cc42bdf011a
+msgid "Synopsis"
+msgstr ""
+
+#: ../../nginxcontrol.rst:8
+# 1b0c323d1f134e9d8a49e12e4cd7f82c
+msgid "Nginx (pronounced \"engine-x\") is an open source reverse proxy server for HTTP, HTTPS, SMTP, POP3, and IMAP protocols, as well as a load balancer, HTTP cache, and a web server (origin server). The nginx project started with a strong focus on high concurrency, high performance and low memory usage. It is licensed under the 2-clause BSD-like license and it runs on Linux, BSD variants, Mac OS X, Solaris, AIX, HP-UX, as well as on other nix flavours."
+msgstr ""
+
+#: ../../nginxcontrol.rst:10
+# b360f959712d4c5d9ead96d20f639759
+msgid "Nginx uses an asynchronous event-driven approach to handling requests, instead of the Apache HTTP Server model that defaults to a threaded or process-oriented approach, where the Event MPM is required for asynchronous processing. Nginx's modular event-driven architecture can provide more predictable performance under high loads."
+msgstr ""
+
+#: ../../nginxcontrol.rst:13
+# a77ef9bd589d4655ad34a4b2c945b26f
+msgid "Help Command"
+msgstr ""
+
+#: ../../nginxcontrol.rst:15
+# 60602638d61f4ba6b06aac7eb39dcb02
+msgid "This command helps to determine the usage of Nginx  module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same."
+msgstr ""
+
+#: ../../nginxcontrol.rst:51
+# 6f8f25ef50bf4e7fa94b0ed6df4cbba6
+msgid "Start"
+msgstr ""
+
+#: ../../nginxcontrol.rst:53
+# 5a10404f005b46cb8f3e18866e6b61ea
+msgid "When the user needs to start the Nginx server, the below given command will execute the process."
+msgstr ""
+
+#: ../../nginxcontrol.rst:59
+#: ../../nginxcontrol.rst:70
+#: ../../nginxcontrol.rst:81
+#: ../../nginxcontrol.rst:92
+# dd982fb1a40142e09beae764a0eb2bfd
+# ca6bb6fc48434ada860e574b8003d253
+# 1aefa60d681f4a3a942c28d91a6b21b8
+# a7c2bfce803c4bb5ab32c3c2ca3df4e2
+msgid "Before execution, the system ask for the confirmation to proceed, if you want to proceed enter 'Y', if no enter 'N'."
+msgstr ""
+
+#: ../../nginxcontrol.rst:62
+# e30ba6fbf800480a8f5169cd66ce6e17
+msgid "Stop"
+msgstr ""
+
+#: ../../nginxcontrol.rst:64
+# 3bc8f549bc4f4bde814c0c34723ce042
+msgid "When the user needs to stop the Nginx server, the below given command will execute the process."
+msgstr ""
+
+#: ../../nginxcontrol.rst:73
+# 63f96b8073734f3e96c87f9adea04a31
+msgid "Restart"
+msgstr ""
+
+#: ../../nginxcontrol.rst:75
+# bd9abc1d94154bea8514ac03958d2029
+msgid "When the user needs to Restart the Nginx server(when there are any changes happened in configuration file this option will be used), the below given command will execute the process."
+msgstr ""
+
+#: ../../nginxcontrol.rst:84
+# 0b6098d767614635a857a2591c76efd7
+msgid "Reload"
+msgstr ""
+
+#: ../../nginxcontrol.rst:86
+# 373bf59b8cd84c268c52691998144dc9
+msgid "When the user needs to Reload the Nginx server without restarting, the below given command will execute the process."
+msgstr ""
+
+#: ../../nginxcontrol.rst:95
+# 55243964c9ca4393873a67592f112e3e
+msgid "Options"
+msgstr ""
+
+#: ../../nginxcontrol.rst:100
+# 46da602eb34f4fffab8dddd814e50e50
+msgid "Parameters"
+msgstr ""
+
+#: ../../nginxcontrol.rst:100
+# 5ead27f4f27d4b12b5af7c00f1981db8
+msgid "Alternative Parameter"
+msgstr ""
+
+#: ../../nginxcontrol.rst:100
+# 9a5215a0e76b4915b045df779f3eb2e0
+msgid "Comments"
+msgstr ""
+
+#: ../../nginxcontrol.rst:102
+# 47e3b343d31040e0a949b62152929c5d
+msgid "dapperstrano ngnixcontrolhelp"
+msgstr ""
+
+#: ../../nginxcontrol.rst:102
+# 74c015d9b86e446282fa387e0b032bb3
+msgid "Either of the three alternative parameter can be used in command- ngnixcontrol , NgnixControl and nginxcil eg: dapperstrano ngnixcontrol help/ dapperstrano ngnixControl help|"
+msgstr ""
+
+#: ../../nginxcontrol.rst:102
+# 672429b7d0ab43eaa69963a3ba1f3cf5
+msgid "Once the user provides the option, System starts processing"
+msgstr ""
+
+#: ../../nginxcontrol.rst:110
+# a95b1e5677f1499bbffda18c37ac7f74
+msgid "Benefits"
+msgstr ""
+
+#: ../../nginxcontrol.rst:112
+# b3fe8108e0204c5bbf882526b57b520a
+msgid "Ability to handle more than 10,000 simultaneous connections with a low          memory footprint"
+msgstr ""
+
+#: ../../nginxcontrol.rst:113
+# 50b9b7c767a94c0b973ac6e63c6e0dd2
+msgid "Handling of static files, index files, and auto-indexing"
+msgstr ""
+
+#: ../../nginxcontrol.rst:114
+# 3d3d5bc7890c4f2eb9b4c3f82df6c4b1
+msgid "Reverse proxy with caching"
+msgstr ""
+
+#: ../../nginxcontrol.rst:115
+# 629a405f4e99477ca7270258a0d28e0b
+msgid "Load balancing with in-band health checks"
+msgstr ""
+
+#: ../../nginxcontrol.rst:116
+# fd2cadfc79d9443e9b36c232f6c2de5a
+msgid "Fault tolerance"
+msgstr ""
+
+#: ../../nginxcontrol.rst:117
+# 29440c9585df43cdac92b7c91fe0a091
+msgid "TLS/SSL with SNI and OCSP stapling support, via OpenSSL."
+msgstr ""
+
+#: ../../nginxcontrol.rst:118
+# 61fe771161b94c218e9486503f779c4a
+msgid "FastCGI, SCGI, uWSGI support with caching"
+msgstr ""
+
+#: ../../nginxcontrol.rst:119
+# 419734627dc3488e9302e80795fa5d77
+msgid "Name- and IP address-based virtual servers"
+msgstr ""
+
+#: ../../nginxcontrol.rst:120
+# c39dafa08c2f4bf5a0dcd22c23c51b33
+msgid "IPv6-compatible"
+msgstr ""
+
+#: ../../nginxcontrol.rst:121
+# a6898f9130064632b4af382bd8b8d84d
+msgid "SPDY protocol support"
+msgstr ""
+
+#: ../../nginxcontrol.rst:122
+# 033a8f9b0b0f4e3e997952ce796c6988
+msgid "WebSockets and HTTP/1.1 Upgrade (101 Switching Protocols)"
+msgstr ""
+
+#: ../../nginxcontrol.rst:123
+# 00ca580b368b4b198ee812ed8010b2a4
+msgid "FLV and MP4 streaming"
+msgstr ""
+
+#: ../../nginxcontrol.rst:124
+# a89fbe3a37f74abc9bdaf54733db880f
+msgid "Web page access authentication"
+msgstr ""
+
+#: ../../nginxcontrol.rst:125
+# a6fa6a5d40c942b49c876f4ed56a2b5e
+msgid "gzip compression and decompression"
+msgstr ""
+
+#: ../../nginxcontrol.rst:126
+# d8ce1d93249842d2bd2ab23acbd48578
+msgid "URL rewriting"
+msgstr ""
+
+#: ../../nginxcontrol.rst:127
+# e1446bb1c7594669a925ab83be22d13f
+msgid "Custom logging with on-the-fly gzip compression"
+msgstr ""
+
+#: ../../nginxcontrol.rst:128
+# fbd11201197944f58d1849b38f578c58
+msgid "Response rate and concurrent requests limiting"
+msgstr ""
+
+#: ../../nginxcontrol.rst:129
+# 0272f8ebb56a416693986979982c826f
+msgid "Bandwidth throttling"
+msgstr ""
+
+#: ../../nginxcontrol.rst:130
+# 1b92c777b5e847d0ae4cb0608d0783c2
+msgid "Server Side Includes"
+msgstr ""
+
+#: ../../nginxcontrol.rst:131
+# 0f6f13af92d34653aa12a443ac917dfc
+msgid "IP address-based geolocation"
+msgstr ""
+
+#: ../../nginxcontrol.rst:132
+# b37da62ff80d411eb3655570e7c4b9f7
+msgid "User tracking"
+msgstr ""
+
+#: ../../nginxcontrol.rst:133
+# 943b94c34467412d979e94ba45343787
+msgid "WebDAV"
+msgstr ""
+
+#: ../../nginxcontrol.rst:134
+# 4083686ee25845fb9a0e3d93fdef3a37
+msgid "XSLT data processing"
+msgstr ""
+
+#: ../../nginxcontrol.rst:135
+# cce4fad5f8134edfb2c80aff3ac3697d
+msgid "Embedded Perl scripting"
+msgstr ""
+

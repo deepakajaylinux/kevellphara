@@ -1,0 +1,125 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-02 01:03+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../juser.rst:3
+# 7719023f8f114fdbb682f1e2c2510714
+msgid "JUser"
+msgstr ""
+
+#: ../../juser.rst:6
+# 55faf5826acf4235abda6c3e655877f9
+msgid "Synopsis"
+msgstr ""
+
+#: ../../juser.rst:8
+# 89c502014c9f411d8f6488913ebe9b0e
+msgid "A user is a person who uses a computer or network service. Users generally use a system or a software product without the technical expertise required to fully understand it."
+msgstr ""
+
+#: ../../juser.rst:10
+# 7c14dd158fc3436ca17297533180e0a5
+msgid "A user often has a user account and is identified to the system by a username (or user name). Other terms for username include login name, screen name."
+msgstr ""
+
+#: ../../juser.rst:12
+# bf26cd5d986144edbec2220c53e908e2
+msgid "A user's account allows a user to authenticate to a system and to be granted authorization to access resources provided by or connected to that system; however, authentication does not imply authorization. To log into an account, a user is typically required to authenticate oneself with a password or other credentials for the purposes of accounting, security, logging, and resource management."
+msgstr ""
+
+#: ../../juser.rst:15
+# 121c598d81094b3581036e35f2ec9df1
+msgid "Help Command"
+msgstr ""
+
+#: ../../juser.rst:17
+# 521667ccc4de45dca57f33861ee2ce65
+msgid "This command helps to determine the usage of Juser module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screen shot of the same."
+msgstr ""
+
+#: ../../juser.rst:54
+# c980fcb5079946069f24ecb3e0fa3cc4
+msgid "Delete"
+msgstr ""
+
+#: ../../juser.rst:56
+# 95a9b561c6a549389456b03d21bdd3e5
+msgid "When the user needs to delete an user in machine, the below given command will execute the process of installation."
+msgstr ""
+
+#: ../../juser.rst:62
+#: ../../juser.rst:96
+# 7aab84c8c09c405fb215ca2408e9516b
+# 3b1decfe90df495e8e258c29ac6516fd
+msgid "The pictorial representation of the above command is listed below,"
+msgstr ""
+
+#: ../../juser.rst:88
+# 1d6743b0b9084102a000866c4cb06b48
+msgid "Info"
+msgstr ""
+
+#: ../../juser.rst:90
+# 128a1d43c7a64b7dbc727f724f1b85f7
+msgid "When the user needs to display the details of a user in machine, the below given command will execute the process of installation."
+msgstr ""
+
+#: ../../juser.rst:121
+# 327fe0b8b98a4b2f8b36843a82455ae9
+msgid "Password"
+msgstr ""
+
+#: ../../juser.rst:123
+# 32f21537f2d84557b330cbb21db70976
+msgid "When the user needs to change the password of a user in machine, the below given command will execute the process of installation."
+msgstr ""
+
+#: ../../juser.rst:131
+# 01eeed59581042ba963ce0f91c5570a0
+msgid "Alternative Parameter"
+msgstr ""
+
+#: ../../juser.rst:133
+# 9caca2255f95499ba00affa094e0d7db
+msgid "Either of the two alternative parameter can be used in command- juser and JUser"
+msgstr ""
+
+#: ../../juser.rst:135
+# 9c0fbb8f33bf4f75b8ce0e175811e0ed
+msgid "eg: jrush juser info ..config file=”bootstrap file path” / jrush JUser info ..config file=”bootstrap file path”"
+msgstr ""
+
+#: ../../juser.rst:163
+# 235be688d6be4ad9b294e2ed665d7f23
+msgid "Benefits"
+msgstr ""
+
+#: ../../juser.rst:165
+# bf38a135cc964aa6b2e4c6b3719bcdde
+msgid "Easy to get the information about a user using a single command"
+msgstr ""
+
+#: ../../juser.rst:166
+# 5d793aedfea34532a55b459b0fa125cb
+msgid "Easy to change the password of a user from back end using single command"
+msgstr ""
+
+#: ../../juser.rst:167
+# 01f2008db15745e995ae797ae310bd29
+msgid "Easy to handle to user accounts"
+msgstr ""
+

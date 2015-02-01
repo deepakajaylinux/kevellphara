@@ -1,0 +1,168 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-02 01:03+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../chgrp.rst:2
+#: ../../chgrp.rst:41
+# efd2f47cd9724c3e8fed88eb149ffa30
+# c3a90a4078cd44409daf58c08ce2c162
+msgid "Chgrp"
+msgstr ""
+
+#: ../../chgrp.rst:5
+# 34ee510e09d3417eb089770d6af41749
+msgid "Synopsis"
+msgstr ""
+
+#: ../../chgrp.rst:7
+# 2d8292a9f64c4761b53029f019309a4f
+msgid "This module confess many owners. Linux can accept many groups."
+msgstr ""
+
+#: ../../chgrp.rst:10
+# 367642e8634f4eb99140bdc1da8913fe
+msgid "Help Command"
+msgstr ""
+
+#: ../../chgrp.rst:11
+# caa454e78a8145218bb695115e68d278
+msgid "The help command interprets about the scope and the commands available under this modules. It also explains the command to change the group. It lists out the alaterntive parameters that can be used for declaration. The command used for defining the help option is shown below:"
+msgstr ""
+
+#: ../../chgrp.rst:18
+# ea16b126f4ed466da2f429b7fde79356
+msgid "The following screen shot visualize it translucently."
+msgstr ""
+
+#: ../../chgrp.rst:21
+# 705e027e10104cd586090cb4bab5d81f
+msgid "How to use"
+msgstr ""
+
+#: ../../chgrp.rst:23
+# 099058854632484fab2e89a2313c077e
+msgid "It is an obvious process to use this change group module under Cleopatra by just using the command given below,"
+msgstr ""
+
+#: ../../chgrp.rst:29
+# 3f70b97cc31d409792982d9a0ba852ed
+msgid "After inputting the command it will change the group."
+msgstr ""
+
+#: ../../chgrp.rst:35
+# bd14425a895f4f949ae7040d26b2d46f
+msgid "Parameters"
+msgstr ""
+
+#: ../../chgrp.rst:35
+# a6a5898857284dfc9683eaf5d78c621a
+msgid "Requirement"
+msgstr ""
+
+#: ../../chgrp.rst:35
+# bfee8e066ede4d0d8b1fa333865a257e
+msgid "Option"
+msgstr ""
+
+#: ../../chgrp.rst:35
+# d51262976a174e69971a9fc9d942d2ca
+msgid "Comments"
+msgstr ""
+
+#: ../../chgrp.rst:37
+#: ../../chgrp.rst:43
+# 7c6610d968044b85b8fd58bf5065610f
+# 3d831d10c4e84015bf91553295d9d86c
+msgid "chgrp"
+msgstr ""
+
+#: ../../chgrp.rst:37
+#: ../../chgrp.rst:39
+#: ../../chgrp.rst:43
+# dd8f73a0ea1b4ae18e4dab5cd5260a3d
+# 9e4019027f734d448c0408703e0a4630
+# 28a78fcaf9ee409a88f5b1fe6676387f
+msgid "Yes"
+msgstr ""
+
+#: ../../chgrp.rst:37
+# a24b475a18c54d0ea789c60445a4889c
+msgid "It will  the change group module under Cleopatra"
+msgstr ""
+
+#: ../../chgrp.rst:39
+# d91e41366732422c9597319703974c39
+msgid "Path"
+msgstr ""
+
+#: ../../chgrp.rst:39
+# 78799980c6994653bddebfb57e7ac95f
+msgid "Specify the path"
+msgstr ""
+
+#: ../../chgrp.rst:41
+#: ../../chgrp.rst:43
+# 3a11357cfd3b4f27b227de2d442d4dc9
+# 8da8d99df2ad4dd7bdd734c9e29e6d58
+msgid "group"
+msgstr ""
+
+#: ../../chgrp.rst:41
+# 9b2008b20e3d4b6891f5ef19b707c7e3
+msgid "No"
+msgstr ""
+
+#: ../../chgrp.rst:41
+# b7d074de972940148d8f6f0cbeab5672
+msgid "While changing user can specify the path."
+msgstr ""
+
+#: ../../chgrp.rst:43
+# 00b3876f7bcb4389a217b7eed6606b00
+msgid "Facilitate to change the new group name|"
+msgstr ""
+
+#: ../../chgrp.rst:47
+# 23b6fffc7c804d929b83223c3d2f1443
+msgid "Benefits"
+msgstr ""
+
+#: ../../chgrp.rst:49
+# 05054c9dc08d42e0a8a5e98d76c7daaf
+msgid "Change group can be used to change the group permission."
+msgstr ""
+
+#: ../../chgrp.rst:50
+# 7aaa53798f754e72b598fae7e1319ad6
+msgid "It simplifies the process."
+msgstr ""
+
+#: ../../chgrp.rst:51
+# 3b53bac1278d49e6bb7ad9855b425545
+msgid "It is suitable for all types of user."
+msgstr ""
+
+#: ../../chgrp.rst:52
+# eccfabe459e04f6fa995ace49f4f2ccb
+msgid "We can give the command anywhere any time."
+msgstr ""
+
+#: ../../chgrp.rst:53
+# 8b27a5b8eeb442d08a0a341842187539
+msgid "Easy to operate."
+msgstr ""
+

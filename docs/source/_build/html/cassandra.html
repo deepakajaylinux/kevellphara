@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Cassandra &mdash; KEVELL 0.1 Dokumentation</title>
+    <title>Cassandra &mdash; KEVELL 0.1 documentation</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -25,11 +25,10 @@
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
-    <script type="text/javascript" src="_static/translations.js"></script>
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
-    <link rel="top" title="KEVELL 0.1 Dokumentation" href="index.html" />
+    <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
     <link rel="up" title="Cleopatra" href="cleopatra.html" />
     <link rel="next" title="Chgrp" href="chgrp.html" />
     <link rel="prev" title="Behat" href="behatcleo.html" />
@@ -102,9 +101,9 @@
           
             
   <li><a href="behatcleo.html"
-         title="vorheriges Kapitel">&laquo; Behat</a></li>
+         title="previous chapter">&laquo; Behat</a></li>
   <li><a href="chgrp.html"
-         title="nächstes Kapitel">Chgrp &raquo;</a></li>
+         title="next chapter">Chgrp &raquo;</a></li>
           
           
           <!--  <li>
@@ -128,14 +127,14 @@
   
   
   <div class="section" id="cassandra">
-<h1>Cassandra<a class="headerlink" href="#cassandra" title="Permalink zu dieser Überschrift">¶</a></h1>
+<h1>Cassandra<a class="headerlink" href="#cassandra" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="synopsis">
-<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
 <p>Apache Cassandra is an open source distributed database management system designed to handle large amounts of data across many commodity servers, providing high availability with no single point of failure. Cassandra offers robust support for clusters spanning multiple datacenters, with asynchronous master less replication allowing low latency operations for all clients.</p>
 <p>Cassandra&#8217;s data model is a partitioned row store with tunable consistency. Rows are organized into tables; the first component of a table&#8217;s primary key is the partition key; within a partition, rows are clustered by the remaining columns of the key. Other columns may be indexed separately from the primary key.</p>
 </div>
 <div class="section" id="help-command">
-<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>This command helps to determine the usage of Cassandra module. The user will come to know about the different way/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same.</p>
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra cassandra <span class="nb">help</span>
 </pre></div>
@@ -161,7 +160,7 @@ End Help
 </div>
 </div>
 <div class="section" id="installation">
-<h2>Installation<a class="headerlink" href="#installation" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
 <p>This command helps in installing Cassandra in system. The below given command will execute the process of installation.</p>
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra cassandra install
 </pre></div>
@@ -434,7 +433,7 @@ Installer Finished
 </div>
 </div>
 <div class="section" id="options">
-<h2>Options<a class="headerlink" href="#options" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Options<a class="headerlink" href="#options" title="Permalink to this headline">¶</a></h2>
 <table border="1" class="table-bordered docutils">
 <colgroup>
 <col width="19%" />
@@ -474,7 +473,7 @@ Cleapatra Cassandra install|</td>
 </table>
 </div>
 <div class="section" id="benefits">
-<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
 <li>Decentralized - Every node in the cluster has the same role. There is no single point of failure. Data is distributed across the cluster (so   each node contains different data), but there is no master as every node can service any request.</li>
 <li>Supports replication and multi data center replication - Replication strategies are configurable. Cassandra is designed as a distributed

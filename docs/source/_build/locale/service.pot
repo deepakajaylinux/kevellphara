@@ -1,0 +1,188 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-02 01:03+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../service.rst:3
+# 781690dbb9c746279c48dafd777bef76
+msgid "Service"
+msgstr ""
+
+#: ../../service.rst:5
+# 982961b18fe14de7a47c6c1f22267824
+msgid "Synopsis"
+msgstr ""
+
+#: ../../service.rst:7
+# 15d4e6d381654fc3862d2de46014678d
+msgid "This module facilitates the current status of file in the system. It can mention the status as running or not. Automation is possible. This module specify the configuration of your environment. It is user friendly with Ubuntu and cent OS."
+msgstr ""
+
+#: ../../service.rst:10
+# eabbae4e6aa24062885e831258410cd0
+msgid "Help command"
+msgstr ""
+
+#: ../../service.rst:12
+# 05e8697868c2490280bcb0fbdf083982
+msgid "Help command used to find information about a specified command. For more information about changes to functionality of service we can use this help command. The following screen shot will guide you."
+msgstr ""
+
+#: ../../service.rst:61
+# b98f680477c740e287e140aa2ba0c47f
+msgid "Options"
+msgstr ""
+
+#: ../../service.rst:67
+# 98b6abe4275b4dc18c5927df20bd8ca0
+msgid "Parameters"
+msgstr ""
+
+#: ../../service.rst:67
+# 022a5224d5524f92aa1e0926350636f2
+msgid "Functions"
+msgstr ""
+
+#: ../../service.rst:67
+# 1f2fd9ed3a4e48b08c66d44badfcf6d9
+msgid "Comment"
+msgstr ""
+
+#: ../../service.rst:69
+# 32395ae0de514a9b9ed803a7e920e586
+msgid "start"
+msgstr ""
+
+#: ../../service.rst:69
+# 77b09e6dad4844858166e20810f3bf55
+msgid "Start a system  service"
+msgstr ""
+
+#: ../../service.rst:69
+# 953bfc5b4f884ae391d0b029f3f1eda9
+msgid "Cleopatra service start –service-name=”apache2”"
+msgstr ""
+
+#: ../../service.rst:71
+# 3305f9c9de9d4c60ae3a40e2513f65d7
+msgid "stop"
+msgstr ""
+
+#: ../../service.rst:71
+# d695e5bf08b74ddb85b5ead931911a2c
+msgid "Stop asystem service"
+msgstr ""
+
+#: ../../service.rst:71
+# 1640a889b6834ea48e4e518830f53194
+msgid "Cleopatra service stop –service-name=”apache2”"
+msgstr ""
+
+#: ../../service.rst:73
+# 667f4c7bb23b4c38a4b1cd39f1fc2027
+msgid "Restart"
+msgstr ""
+
+#: ../../service.rst:73
+# df69d443371d401f8ea76d011f5bcc16
+msgid "Restart a system  service"
+msgstr ""
+
+#: ../../service.rst:73
+# b9ea808851134528bb367003161bcea3
+msgid "Cleopatra service restart –service-name=”apache2”"
+msgstr ""
+
+#: ../../service.rst:75
+# e62b47e0260643389a5baf5ca1fb4e00
+msgid "Ensure-running"
+msgstr ""
+
+#: ../../service.rst:75
+# 6bc737fced184a858b7a7c3de3b93350
+msgid "Ensure a system service is running.In case of not running start it else don’t attempt"
+msgstr ""
+
+#: ../../service.rst:75
+# 81f3339eab2d47b78cf61e9f044d3c70
+msgid "Cleopatra service ensure-running –service-name=”apache2”"
+msgstr ""
+
+#: ../../service.rst:78
+# 9cc0bdd53407455dab5feb0cacda31b3
+msgid "Is-running"
+msgstr ""
+
+#: ../../service.rst:78
+# 645e020b364d44dc9baf8f8a9cab82c0
+msgid "Check whether a system service is running or not running start it else don’t attempt"
+msgstr ""
+
+#: ../../service.rst:78
+# a57189bef49448da906ff9f73eaf1b53
+msgid "Cleopatra service is-running –service-name=”apache2”"
+msgstr ""
+
+#: ../../service.rst:81
+# 6b716eb3c5f947e19cbf6ce96c47d2c6
+msgid "Run-at-reboots"
+msgstr ""
+
+#: ../../service.rst:81
+# 186aef6c76f74deb8ad45ce74c97957a
+msgid "Ensure a system service auto start on reboots"
+msgstr ""
+
+#: ../../service.rst:81
+# b405a6cc1d8d4b7d834a5571bf9625cc
+msgid "Cleopatra service run-at-reboots –service-name=”apache2|"
+msgstr ""
+
+#: ../../service.rst:86
+# 288c0b376879453b9cc393379aef6cf9
+msgid "Benefits"
+msgstr ""
+
+#: ../../service.rst:88
+# 56969d6732474dd4b8a8725602cb4ce7
+msgid "The user can check the system working status at any time."
+msgstr ""
+
+#: ../../service.rst:89
+# d338366aeba14dc892763d355802926d
+msgid "Service provides to exchange data among the system."
+msgstr ""
+
+#: ../../service.rst:90
+# 68532fe9c0ba4a7eb9e48ea52037176d
+msgid "It permits the sharing of the resources of the machine"
+msgstr ""
+
+#: ../../service.rst:91
+# f4e3b029af0a4eb7abc9c6ead12e859f
+msgid "Service also provides the function of back-up."
+msgstr ""
+
+#: ../../service.rst:92
+# 26a73237091f41e9bcc264a899c05e5d
+msgid "Service provides a flexible networking environment."
+msgstr ""
+
+#: ../../service.rst:93
+# 94a224178d4d4637bafa7e660390d09c
+msgid "This involves coordination of distributed data."
+msgstr ""
+

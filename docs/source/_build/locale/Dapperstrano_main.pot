@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"POT-Creation-Date: 2015-02-01 11:34+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -118,192 +118,192 @@ msgstr ""
 msgid "If the user wish to install the dapperstrano without depending and using the cleopatra they can use the following command:"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:114
+#: ../../Dapperstrano_main.rst:115
 # 8fc97fa105b245fab598ac68f2a7160b
 msgid "or"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:116
+#: ../../Dapperstrano_main.rst:117
 # b716a13625ce4211b58d231ad892c89f
 msgid "The below command is predictable for the users who wish to specify the location during installation."
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:123
+#: ../../Dapperstrano_main.rst:124
 # 5bc93a2c64b14b9eba76e910092155fd
 msgid "Advanced features"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:125
+#: ../../Dapperstrano_main.rst:126
 # edaf492dd406440fb4ad3a6f14196f6a
 msgid "Editing the host files, virtual host files, configuration files, database updates and more can all be automated using this."
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:127
+#: ../../Dapperstrano_main.rst:128
 # d2c9207376bb4d1da8459445d4f53753
 msgid "By using the capability of remote server management, the users can automate deployments across infrastructure of any size."
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:130
+#: ../../Dapperstrano_main.rst:131
 # 0b6ddfcd06d74f559e256f39eab96cb6
 msgid "The way how the dapperstrano promotes your project using dapperfy"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:132
+#: ../../Dapperstrano_main.rst:133
 # 1158323a7f8c4415a7b470655a7badcd
 msgid "The word dapperfy is a dapperstrano command that creates some autopilots for your project."
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:134
+#: ../../Dapperstrano_main.rst:135
 # 458fb9422fe44a94ae78a6bd6661f52f
 msgid "Using the dapperfy is very quick, and is probably the best starting point."
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:137
+#: ../../Dapperstrano_main.rst:138
 # 87b240b910014544a80c7b8424cb9a72
 msgid "Capify Vs Dapperfy"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:139
+#: ../../Dapperstrano_main.rst:140
 # 604602a9617c49ddb16e05bb214c9ff9
 msgid "When comparing the capify with dapperfy, it is obvious to say that the dapperfy is the best as it is written in PHP."
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:141
+#: ../../Dapperstrano_main.rst:142
 # 0ad3c7cbc4b349ea9b7b8866844a0276
 msgid "The strong point is that the dapperfy dapperstrano command provides the standard set of autopilots for the users projects. where the capify provides similar function to the Ruby project."
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:144
+#: ../../Dapperstrano_main.rst:145
 # a45919d5c9d3450ca381e5ae49e58325
 msgid "How to Use and Available Modules"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:146
+#: ../../Dapperstrano_main.rst:147
 # 594cdd2445ba475ba28aa9a59987f7bb
 msgid "Let us see, how to use the Dapperstrano tool, first, simply type as"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:152
+#: ../../Dapperstrano_main.rst:153
 # 035adb35113a4b33add5e4c3aeeb476f
 msgid "this command will list all the names of the modules that are available under Dapperstrano."
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:154
+#: ../../Dapperstrano_main.rst:155
 # 948227b6bb674117975baba54010b474
 msgid "ApacheControl - Apache Server Control"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:155
+#: ../../Dapperstrano_main.rst:156
 # a994006857944ecda829055187a3932c
 msgid "ApacheVHostEditor - Apache Virtual Host Functions"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:156
+#: ../../Dapperstrano_main.rst:157
 # e82988aa819b41b3bb7583e6adede71d
 msgid "AppSettings - Dapperstrano Application Settings"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:157
+#: ../../Dapperstrano_main.rst:158
 # e35d75c139a84f80b8e6f566f98aeec6
 msgid "Autopilot - Dappestrano Autopilot - User Defined Installations"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:158
+#: ../../Dapperstrano_main.rst:159
 # 013d2591218749fb960069497e8eb850
 msgid "Builderfy - Dapperstrano Builderfyer - Create some standard autopilots for your project"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:159
+#: ../../Dapperstrano_main.rst:160
 # 0ac4b43ac619445b899ac6488e040662
 msgid "CukeConf - Cucumber Configuration"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:160
+#: ../../Dapperstrano_main.rst:161
 # 717e44a134bf4372b0ba2e924f88ac6c
 msgid "DBConfigure - Database Connection Configuration Functions"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:161
+#: ../../Dapperstrano_main.rst:162
 # a4aebccbce4e46a9a1b4869bb278c271
 msgid "DBInstall - Database Installation Management Functions"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:162
+#: ../../Dapperstrano_main.rst:163
 # fd0ca2a8aa624f4485b35d4b56932305
 msgid "Dapperfy - Dapperstrano Dapperfyer - Create some standard autopilots for your project"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:163
+#: ../../Dapperstrano_main.rst:164
 # ab9e4f49feef497790c24ad4a7945703
 msgid "EnvironmentConfig - Environment Configuration - Configure Environments for a project"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:164
+#: ../../Dapperstrano_main.rst:165
 # a8f6fd38202144ef84d4e4424eeaf711
 msgid "GitClone - GitClone Source Control Clone Functions"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:165
+#: ../../Dapperstrano_main.rst:166
 # 482950582d574fc9aba141a332235b4e
 msgid "HostEditor - Host File Management Functions"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:166
+#: ../../Dapperstrano_main.rst:167
 # 11eae6d9668848c8a249218a1c4b4401
 msgid "Invoke - SSH Invocation Functions"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:167
+#: ../../Dapperstrano_main.rst:168
 # 604038b1818c48a08d863151a7db6947
 msgid "LighttpdControl - Lighttpd Server Control"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:168
+#: ../../Dapperstrano_main.rst:169
 # 70b4cc5c5760463b8d5a56d3b82eec37
 msgid "Logging - Logging - Output errors to the logging"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:169
+#: ../../Dapperstrano_main.rst:170
 # 90daa9f508a84355a78642de4a9d6010
 msgid "NginxControl - Nginx Server Control"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:170
+#: ../../Dapperstrano_main.rst:171
 # 5a706c7cae544b3d9cdcb5346b56c75d
 msgid "NginxSBEditor - Nginx Server Block Functions"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:171
+#: ../../Dapperstrano_main.rst:172
 # 8f92713667974677aee6991bbbf6a8ef
 msgid "ParallelSshChild - Command Execution Functions"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:172
+#: ../../Dapperstrano_main.rst:173
 # 7b41831c86d44c6b8f97f31896eb41b1
 msgid "Project - Dapperstrano Project Management Functions"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:173
+#: ../../Dapperstrano_main.rst:174
 # be11b5ed10c84b27ac8200e466fb4c79
 msgid "SVN - SVN Source Control Project Checkout/Download Functions"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:174
+#: ../../Dapperstrano_main.rst:175
 # 77e6c9e37baa4a478043e76710647c56
 msgid "SystemDetection - System Detection - Detect the Running Operating System"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:175
+#: ../../Dapperstrano_main.rst:176
 # d8c9f86c4e674af19899b81d24fe027c
 msgid "Templating - Templating"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:176
+#: ../../Dapperstrano_main.rst:177
 # a1e9a9c5688c4843a6370a4c49c0d420
 msgid "Version - Versioning Functions"
 msgstr ""
 
-#: ../../Dapperstrano_main.rst:178
+#: ../../Dapperstrano_main.rst:179
 # 0c0fce8472c142bdbdda1ad1fbdd7d9a
 msgid "here, the screenshot denotes the display of all modules available under Cleopatra."
 msgstr ""

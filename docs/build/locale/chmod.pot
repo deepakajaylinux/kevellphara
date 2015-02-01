@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:25+0530\n"
+"POT-Creation-Date: 2015-02-01 12:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,172 +17,172 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/chmod.rst:3
-# ad14803e1df047e2b2fed5767dde81d5
+# d05f17c855704ac2ab9f046b45db2d44
 msgid "Chmode"
 msgstr ""
 
 #: ../../source/chmod.rst:7
-# 662481ab418d465f9ff9c8e6e20b1ed9
+# e5b72d8de9b5404283fa6de44e95f694
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/chmod.rst:9
-# b913d010a023476f84fae9a061ddd4d2
+# 5168e49c552b42cf933b3ac9ee8f954d
 msgid "Files and directories belong to both an owner and a group. A group usually consists of a collection of users, all belonging to the same group. The first set of three is the read, write, and execute permissions for the owner of the file."
 msgstr ""
 
 #: ../../source/chmod.rst:11
-# f677b5e9253248e4a52c253a51859e88
+# 8276880fe99f4bdd9504b086639a10cf
 msgid "chmod is used to change the permissions of files or directories. On Linux and other Unix-like operating systems, there is a set of rules for each file which defines who can access that file, and how they can access it. These rules are called file permissions or file modes. The command name chmod stands for \"change mode\", and it is used to define the way a file can be accessed."
 msgstr ""
 
 #: ../../source/chmod.rst:13
-# 3b8e4fe8476b4abaafd8563310965767
+# 47b8105c387c4dd09482a64bd9b890a8
 msgid "There are three general classes of users:"
 msgstr ""
 
 #: ../../source/chmod.rst:15
-# 4c61719ae15242dc942a88708662f715
+# e835666c778e4429ab93f741d3edf0f0
 msgid "The user who owns the file (\"User\")"
 msgstr ""
 
 #: ../../source/chmod.rst:16
-# 0b3b61885728414b9c55f394ca15978d
+# bdb181579ec6438484f13631eaf06fa8
 msgid "Users belonging to the file's defined ownership group (\"Group\")"
 msgstr ""
 
 #: ../../source/chmod.rst:17
-# 277ca8cc15854c3c9a3dd4d8994345dd
+# 31bc818f113e45e8a678829c5043d266
 msgid "Everyone else (\"Other\")"
 msgstr ""
 
 #: ../../source/chmod.rst:20
-# 6dfe74952bd94816b03f97d630fb492f
+# b0d0c0dd3fa2441782751445dbd9482e
 msgid "In turn, for each of these classes of user, there are three types of file access:"
 msgstr ""
 
 #: ../../source/chmod.rst:22
-# 70aa6b10503443ef93eec422302ded28
+# ec0f67de71e742648f855a0f9b68d158
 msgid "The ability to look at the contents of the file (\"Read\")"
 msgstr ""
 
 #: ../../source/chmod.rst:23
-# c6a654f6653445e99e07e419ba0b42b2
+# 285e652ad14b46eaa58921609cffccdf
 msgid "The ability to change the contents of the file (\"Write\")"
 msgstr ""
 
 #: ../../source/chmod.rst:24
-# f1dfee0e093c4dac81001b5d551a9d83
+# c8af9327212349b0863d952fbe8fdeff
 msgid "The ability to run the contents of the file as a program on the system (\"Execute\")"
 msgstr ""
 
 #: ../../source/chmod.rst:27
-# f432492912ec46a4950c4b3a175812a4
+# b564bc258cd14b7f85cc5e233acef0a6
 msgid "For each of the three classes of user, there are three types of access."
 msgstr ""
 
 #: ../../source/chmod.rst:33
-# 834abd558c9746a89676748898c9c3ab
+# 80d133a304f44420b0c1cc8e44618e28
 msgid "Symbols"
 msgstr ""
 
 #: ../../source/chmod.rst:33
-# e56ddc4945554fae9f933f8c3832037f
+# 1b21d0d5b52a402b9a5374d1a61aff03
 msgid "Meaning"
 msgstr ""
 
 #: ../../source/chmod.rst:35
-# 457b94b14ede44d8b56ab6a22cc2c8d4
+# 4e56685cbf604f96ac8aa99cd473fdc2
 msgid "rwx"
 msgstr ""
 
 #: ../../source/chmod.rst:35
-# 960e079201df4c8e89967b7f9c5c7437
+# 5e0fe14da9a34f6197d2d3f2f0fc2759
 msgid "the file's owner may read, write, or execute this file as a process on the system."
 msgstr ""
 
 #: ../../source/chmod.rst:38
-# 4a775d702bd14e48aa5a0d6f29e25b53
+# 42b6313d18b04dd1843ed6a919016b47
 msgid "r-x"
 msgstr ""
 
 #: ../../source/chmod.rst:38
-# d7947e7a46074ee585f2e54f428540e9
+# b0147103b75b4f2dadb808ea24c8153a
 msgid "anyone in the file's group may read or execute this file, but not write to it."
 msgstr ""
 
 #: ../../source/chmod.rst:41
-# d84f467a99e14d61b272afc52042a62d
+# 9c27e8c4c6d349c3952d02fd21b00acb
 msgid "r--"
 msgstr ""
 
 #: ../../source/chmod.rst:41
-# 7ebbbecf93144e02b4d7281f04b6765f
+# 732c55eee06f467490dd4ec39b14aadc
 msgid "anyone at all may read this file, but not write to it or execute its contents as a process.|"
 msgstr ""
 
 #: ../../source/chmod.rst:47
-# 73dc90ecf05b496bb9a484a4ac3b26a7
+# 0210c1c2f91e439490a1f78e5fb38678
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/chmod.rst:49
-# a161b1470c0a4223ab1b9070818c8ef0
+# 1bbfebe6bd4b4676943bced9a44451e7
 msgid "This command helps to determine the usage of Change mode module. The user will come to know about the different way/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same."
 msgstr ""
 
 #: ../../source/chmod.rst:56
-# 6f73142fe5cc4887afb2db950d32d04c
+# 25d07e7af3704a9793f5284eda96ba92
 msgid "The pictorial representation of the above command is listed below,"
 msgstr ""
 
 #: ../../source/chmod.rst:80
-# b93681cf7d3d4491a5b5caf074ec42cb
+# b5189d21af5c42ddaff40f1cd1034011
 msgid "Path"
 msgstr ""
 
 #: ../../source/chmod.rst:82
-# 52be090f6749451ea21b838a30ecb41d
+# e4e9e6cc61b544eabf7dd9f8fdd17405
 msgid "Chmod path is the command which change the access permissions to file system objects (files and directories)."
 msgstr ""
 
 #: ../../source/chmod.rst:84
-# ce4cdbd0bc5040e29c898bb498a748f9
+# 5b621d41a35a4b5498ce9b10d79b0a04
 msgid "The number 1, 2 and 4 represents execute , write and read. These numbers are used because any combination of these three numbers will be unique."
 msgstr ""
 
 #: ../../source/chmod.rst:87
-# 5ceb8487119c4814b05893f025da9ab5
+# 3ed97a039ee34806ac3485e4827cb7b0
 msgid "When the user needs to change the mode of file, the below given command will execute the process."
 msgstr ""
 
 #: ../../source/chmod.rst:96
-# 3b0b08f6a19941a9be8547ec9f3f72c0
+# d0efa8735e784d1e97dc7417d88bf664
 msgid "Alternative Parameter"
 msgstr ""
 
 #: ../../source/chmod.rst:98
-# d81ef1dea72b47f4a42a66444efdbb32
+# 86eba35045b846fd8098dfde1eb86646
 msgid "There are two alternative parameters which can be used in command line."
 msgstr ""
 
 #: ../../source/chmod.rst:100
-# c7a414b6074f4eba831f3ff47b60e603
+# 3ce27af75267400d915094a8e39c805e
 msgid "chmod, Chmod"
 msgstr ""
 
 #: ../../source/chmod.rst:102
-# 5b00aa0c6f084f0ea1306fc41501ea9e
+# 9b0fdcc3210443859931ca701f52508c
 msgid "Eg: cleopatra Chmode path/ cleopatra chmod path"
 msgstr ""
 
 #: ../../source/chmod.rst:106
-# 88e4c62103e54445b4d10a3cb745c572
+# 19d333227a8b45d3a9c53b365e4ac5c1
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/chmod.rst:109
-# 5057843cde5444b384e2e9c7004517d2
+# 3d214adf91474aad8a228246a72009fe
 msgid "chmod modifies the permissions of the file specified by filename to the permissions specified by permissions. Permissions defines the permissions for the owner of the file (the \"user\"), members of the group who owns the file (the \"group\"), and anyone else (\"others\"). There are two ways to represent these permissions: with symbols (alphanumeric characters), or with octal numbers (the digits 0 through 7)."
 msgstr ""
 

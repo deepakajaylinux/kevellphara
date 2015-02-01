@@ -62,13 +62,13 @@ Options
  +==========================+===============================================+==============+=========================================+
  |Cleopatra jetty  Install  | There are two alternative parameters which    | Y		   | System starts installation process	     |
  |			    | can be used in command line. Jetty , jetty    |		   | 					     |
- |			    | Eg: cleopatra jetty install/		    |		   | 					     |
- |			    |     cleopatra Jetty install                   |              |					     |
+ |			    | Eg: cleopatra jetty install		    |		   | 					     |
+ |			    | cleopatra Jetty install                       |              |					     |
  +--------------------------+-----------------------------------------------+--------------+-----------------------------------------+
  |Cleopatra jetty  Install  | There are two alternative parameters which    | N            | System stops installation process       |
  |                          | can be used in command line. Jetty , jetty    |              |                                         |
- |                          | Eg: cleopatra jetty install/                  |              |                                         |
- |                          |     cleopatra Jetty install|                  |              |                                         |
+ |                          | Eg: cleopatra jetty install                   |              |                                         |
+ |                          | cleopatra Jetty install|                      |              |                                         |
  +--------------------------+-----------------------------------------------+--------------+-----------------------------------------+
 
 

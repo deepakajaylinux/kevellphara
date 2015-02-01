@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:25+0530\n"
+"POT-Creation-Date: 2015-02-01 12:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,351 +18,351 @@ msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:3
 #: ../../source/environmentconfigdapper.rst:357
-# 9be1e8e427564f1db64a14cf5d5d4208
-# 726a5b8bd9604b949fc4423b8c0ccaed
+# c74e6d6c4448458fa39b63e099a22864
+# 2f45bb08048e44b1a17663d905fd2ecc
 msgid "EnvironmentConfig"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:6
-# 409dd485e3814bedaebe145e42804287
+# 1b08088ae710400c9568b11b0f730b2c
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:8
-# 4a41c666466c43beb2d98a07f68cddc1
+# 648555bb75f64f6aadb438ebb13ce2ac
 msgid "This module facilitates the users in configuring their environment required for their project. Let us see how to configure the environment, how to delete the unwanted environment, how to use the list option for listing the available environments in upcoming topics."
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:11
-# 6ac4f2f5bcb84350b70efeea0837b7ba
+# 6e7cd07e15624cfe960826639664d27e
 msgid "Help command"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:13
-# d6f6d491066048b49e9149f517c247b4
+# d4f34d48435b4addaa833682bd1477d5
 msgid "The help command guides the users regarding the purpose of the module, its alternative parameters that are used in declaration. It highlights the three functions of environment configuration which are list, configure, delete. It also specifies the syntax for using three major functions. The syntax used for declaring the help is shown below:"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:19
-# ea9f9905722440198b646b1020135512
+# 5cbc4f14ba0749bda02bbffbc9122c0c
 msgid "The following screen shot depicts pictorially about the working of help command."
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:57
-# fba85d6a71d249a780ecdcd0b96e6dd7
+# bfedef539aa34ef29ab29ba776578764
 msgid "How to Configure the environment"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:59
-# 57f6b5fc9bd747b898eb3c3e1f6ab2e3
+# fca4dc7d96b1412ea64cee0979dc9dc0
 msgid "For the purpose of configuring the environments the user can use the following command:"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:65
-# d8148a6e8207425bba44a421cc85fdf0
+# a90f469ed0c14f1e8d2cce3c587e5f74
 msgid "After inputting the command above the following operations takes place as shown:"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:67
-# ed78a18c8e894a41915ef55b9ce68638
+# 2f15e95be1764e5e91d199ce14c592e2
 msgid "Step 1: Configure Environments Here? (Y/N)"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:69
 #: ../../source/environmentconfigdapper.rst:73
 #: ../../source/environmentconfigdapper.rst:93
-# aa9b660b9583413ba80917b7ce9897d4
-# b3f151432ade484ea39630233a9ebffb
-# 3764fa5d6a8e4a74953fe701de583203
+# 77e9c4686ff3461bbad012acd73eb91b
+# 401c011561d04cbda7c489575b4e2476
+# 8cc156e9d4f44122a0998e53b2c3abca
 msgid "The user have to input Y or N."
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:71
-# 0eb8b7adc7f145d2995286fe9329a766
+# 1b94bac9098f48daa91cc3a413cd4307
 msgid "Step 2: Use existing environment Settings? (Y/N)"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:75
-# 242ddae8aa1c44b7814084cff149b153
+# 60dd2edafb124c329d8611dc57041b93
 msgid "If the user input as Y it will proceed with already existing."
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:77
-# 8b4a23866aaf4ec1a17e7883485a8d53
+# 365515881ac24ca3896fbcb89cc24e0f
 msgid "If they input as N, it will asks information regarding the environment as"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:79
-# 20d3a0fe846045aa868639a80f7d6150
+# fb1c90f9130646f0ab59552f95de56d2
 msgid "Value for: Name of the environment"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:81
-# 4a455af778ee44e19a7f11235f67520e
+# 89aef77f3c3a4dd5a28362e5f93ca685
 msgid "Value for: Default temp dir(Location)"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:83
-# e2862985a602453ea9a2725decccb0c3
+# d30a02a5b5f644dfa12d85845f760d76
 msgid "After the above steps, the user have to input the following details:"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:85
-# ceb0eae723674f208672678e7c14549e
+# 64a36cc3092d4dcaac0c804be9093be6
 msgid "Enter target?"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:87
-# 057b8a5322ff4ead88dae17b8a40b479
+# a696aa228a114fa5bfb50c70ceaeda0e
 msgid "Enter user?"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:89
-# c0d59e487fd44741a3376afbd92d4132
+# b9a58cbcd6524cbda9d4a59dad9e2264
 msgid "Enter password?"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:91
-# 48d46794a41c421ca80d0389a692bad2
+# 9ab63d8823264835a293e206cb590126
 msgid "Add Another Server? (Y/N)"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:95
-# 0604c67b0adf42cbad57441253688592
+# af66ceea216d4cfc8d42f8e640e10129
 msgid "Finally, the environment configuration gets success as depicted in the below screenshot."
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:126
-# a5d24ce91fc24638a9de6ab8e557dc41
+# 307a16e7b63c49d286037f5877652ba1
 msgid "While configuring an environment, if the user wish to configure with current environment , they can use the following command:"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:133
-# 4c794469e603412488f4c5be0ac9f3c0
+# b29d706b96f64529880c95cb3e4696ff
 msgid "After inputting the command above, it will asks the following details as shown in the tabular format:"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:140
-# 43bbd8f76f3d49b6b7168453e6e5546c
+# 274c6c58d0384e88a37f8087f2635cfe
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:140
-# d11989ceb07c405883e1437b4eda8d68
+# 4e5d6938242241e08324753eed332ceb
 msgid "Options"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:140
-# beb727286ee745b18678cfb36041b6ee
+# 30e88045c17b423cb3ae2ff10844260d
 msgid "Comments"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:142
 #: ../../source/environmentconfigdapper.rst:145
-# 670506344e424705ad7d49b69cd089b1
-# 4bf5e66b1a674f0ba6b3cde58e0c0944
+# 74fc870809ff43d4b4033425e48424fb
+# 0c809cdb29114c63b8250afbaa66ee57
 msgid "Configure Environments Here? (Y/N)"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:142
 #: ../../source/environmentconfigdapper.rst:148
 #: ../../source/environmentconfigdapper.rst:154
-# 85636541f8294f6aa8be184b83a76496
-# 4af6741bf21049519771352924279884
-# 6f1caf6067ba46c3bf92843aa1c73e9f
+# 79fa61f98efc464fbc8753229d198686
+# f3b96a4f9afd478da89b995370e850a6
+# e43eaae8ff5f47c68b86e833e76929a1
 msgid "Y"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:142
-# 1fa5aa5a0c2f40f797e748f4e23865e1
+# 284c9d0a982744d698a116ac98d16f9a
 msgid "If the user wish to configure the environments at the current environment they can input as Y"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:145
 #: ../../source/environmentconfigdapper.rst:151
 #: ../../source/environmentconfigdapper.rst:157
-# 9ac33dedb47a4887a17dd41c65ea1498
-# f65084787ac94b9b9edda93543168db0
-# 2b3b72e6651d4204bfeedfb9b72c7bee
+# eb85d2b5fff84b9382e690441afd5644
+# 278e5af1e3e74c8aa56238f23c51b700
+# 88db191aac624e6aa589a4ee90ec8aa6
 msgid "N"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:145
-# cc7f9ef38b0d4b5d8618abeb81ccf0fb
+# cb44f2c6878144c6a5e6b651c92d6203
 msgid "If the user doesn't wish to configure the environments at the current environment they can input as N"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:148
 #: ../../source/environmentconfigdapper.rst:151
-# 4431e3e323344eef97d3968bbb1b387d
-# 831726ab812347e08b30e6f9eec2093b
+# f88acccb6c524efcb281b06feddf5781
+# 79c6ea83be96461b9c2c4867f7844f49
 msgid "Use existing environment settings? (Y/N)"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:148
-# 495e606a8883457fb00d161fc350dc3f
+# b8ac02a790d14bb090383e7830123ad4
 msgid "If the user wish to use the existing environment settings they can input as Y."
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:151
-# a6e90e32830a45cf93caded030692c19
+# 7efad9e4dbb4408ebba4725d29a6fb31
 msgid "If the user doesn't wish to use the existing environment settings they can input as N."
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:154
 #: ../../source/environmentconfigdapper.rst:157
-# 55037619b43c454a9a60853fb690fd55
-# 2741d48459894516b46933e80d16810e
+# 74c4e5ed634b41d98b37765dc0ab475a
+# 72a0b9c9e7b5426593e6cdd712b493ee
 msgid "Do you want to add another environment? (Y/N)"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:154
-# 00329ec5a7884d0cb75913dd535311b7
+# bb135cf03f674c8ea26ddaa3c55334a8
 msgid "If the user wish to add another environment,they can input as Y."
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:157
-# ca7490984d0044c4903c638c2b5af6cc
+# 62e716eed296464fb0b57fd900d0deba
 msgid "If the user doesn't wish to add another environment, they can input as N.|"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:165
-# 9299b4faba7541d7be89fa240e2875e0
+# 412c8cbe0fa2440185094a6ff17d3fd1
 msgid "The following screenshot pictorially represents the above mentioned process:"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:189
-# 2c84e3987dd54aaeaa535046b7d4c21d
+# 9073610cc0b6494aa5270599a8b8729d
 msgid "How to Delete environment configuration"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:191
-# 05497ff200bf42d9b918f60821587deb
+# df2ccb53294949a7a00d050d6ab57a58
 msgid "If the user needs to delete the environment configuration, they can input the following command:"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:197
-# 49733d873c9f409e93f204b932c87780
+# 9d068580149a4e47b3c137aba5e6d321
 msgid "The user can specify the name of the environment they wish to delete as shown above."
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:199
 #: ../../source/environmentconfigdapper.rst:244
-# 2c03afdb44cc4f248e7d15e8085d8dcc
-# 6cbcc8cd5e304ce789e399f5dbbeb6c9
+# 5b099c6f084d4f66b38027ba36166816
+# fbb7aee259ea46e797a87142087ef7e0
 msgid "After inputting the command above, it will ask"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:201
 #: ../../source/environmentconfigdapper.rst:246
-# 818dce001ee74d958d30747db929843d
-# cc8ae5ead50043bc852deeb2a716d862
+# c6443d1d7a684dedb89524ea766208a0
+# df20625b47204152a72aedb5b66f9237
 msgid "Step 1: Delete Environments Here?"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:203
 #: ../../source/environmentconfigdapper.rst:248
-# 675a05d6e549489f882b6cd51848820d
-# f20b5c6c07ea4441a10b509e0add9830
+# 311be05bd70f4b5eabd47061dcae6dd4
+# e6f6dcfdf9e442fda7ad5dead01e05ff
 msgid "and shows a warning message as"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:211
 #: ../../source/environmentconfigdapper.rst:216
 #: ../../source/environmentconfigdapper.rst:255
-# b6e1eb4b3c414120a5497054eb455039
-# ac407f07731245f29ddceff687551b89
-# e7879e194baa40d7ba61e1bf434922a1
+# bbf5073b174e46c99870a5358cd2ee2e
+# 4a4a34bae45a4b16841e541316d03458
+# 1403c25dcf2c45f3b7efe184d74575b5
 msgid "The user has to specify Y or N"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:214
-# cc7e11903a124b6d8086413d0ef5aa19
+# aafff2368bf04b009ca37f368fe0c742
 msgid "Step 2: Environment Kevells(Name of the specified environment that is supposed to delete) found. Are you sure want to delete it? (Y/N)"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:218
-# 0265802cb9dc4304a79ecbfa8274e7b2
+# c53cd6016e72458a97da7f42d639ac35
 msgid "Finally, the specified environment gets deleted as shown in the screenshot."
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:238
-# b96d15e5995041af8700d2ddd7496b17
+# 1031d987f0184227a87984c34607aa04
 msgid "Another way of deleting an environment by without specifying the name of the environment is as shown by using the command:"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:257
-# 06285aa5da6b4d81b7e902fdd057f820
+# b3b6ca42b0a74622b0c129c88878e4ab
 msgid "Finally, the environment gets deleted as shown in the screenshot:"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:279
-# 911302057a594c2083de0fe8a276c02d
+# 2865514a1c6c424ea6af02656cd5eab3
 msgid "How to list environment configuration"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:281
-# f07c545a7ead45d4a243f17beb1fff3e
+# 9d0183e1755e4457be8087ec8668d496
 msgid "If the user wish to view the list of details regarding the environment configuration, they can input as shown:"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:287
-# f0ebfaa7d3a44287914b515d47b467a6
+# 92458a32f48749939963b7ad130751a0
 msgid "After inputting the command above, it will asks"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:289
-# 21b2a59ecf0e4aba8f7141b6c9626852
+# 7fd4493fa6424bf39c8864787b7fd607
 msgid "List Environment Here? (Y/N)"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:291
-# 844e8195bab6442b9cbcc5a17542e054
+# fb414841c4124812b680932da2cc02b1
 msgid "if the user specifies as Y, it will generate the display of output as shown in the screenshot:"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:353
-# b7846a2eb7754f23a49a14b6b5ae9dbb
+# 250fa702204a4b0682b052261c2b24df
 msgid "Alternative Parameters"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:355
-# 263cfd59f4c14f03984f38ac914ccfe5
+# 3092649cf67d40dbb06966e4e144ea3d
 msgid "Instead of envconfig the following parameters can be used in declaration:"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:358
-# 4b72f8a87fd74f3abfeee02a3829ae8e
+# 3623a87981774870a29164bce22b7f6e
 msgid "environmentconfig"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:359
-# 5f8dcad30f974895ad5a7695d8b25196
+# d0ab58027fe54610b6aa4b3ebc2f22c6
 msgid "environment-config"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:360
-# 3e4897296edc42289b597b81e08bbb1c
+# 884ac8bbfe3c415b980b8e8164e13b1e
 msgid "env-config"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:363
-# 7c42aa6343a64a53b86d36672e07e72b
+# 7e4578e0345d419c805b795b8d7f6516
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:365
-# a41ef07f56034e22a6fe67c77ca20c80
+# 419d29aaf118479a8e2dde0daed37efc
 msgid "It is well-to-do in both cent OS and as well as in ubuntu."
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:366
-# 2d491cdbbea64135afd477b90178d055
+# ed34e74bb2b5438c98ed069bb2fe62a1
 msgid "The parameters used in declaration are not case sensitive which is an added advantage while compared to others."
 msgstr ""
 
 #: ../../source/environmentconfigdapper.rst:367
-# 4950ae8e86c04625986034c7885e48dd
+# 97988e5a08db498a89699e3d0569d4c3
 msgid "This module leads the users how to configure the environment, how to delete the unwanted environment, how to use the list option for listing   the available environments."
 msgstr ""
 

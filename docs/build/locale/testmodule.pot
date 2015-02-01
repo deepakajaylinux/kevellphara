@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:25+0530\n"
+"POT-Creation-Date: 2015-02-01 12:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,119 +17,119 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/testmodule.rst:3
-# eadd41deb5be49c781ebec18c5b12783
+# 8b414827440b4f6fb98e49b8ffd339df
 msgid "Test module"
 msgstr ""
 
 #: ../../source/testmodule.rst:6
-# 40f5b429452c4a85998d79fa487268a7
+# ba9dc9ff268a4e6baa4194cfe9cbe1ef
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/testmodule.rst:8
-# 0c476a4dafbf423f92bfe7d1f1d7fad8
+# de13ca418d1048a092a828e562adcb79
 msgid "Testmodule is the most popular jrush testing module, as of this checking about extension of file and make use of it. Testmodule is a framework but can be used in concert with other testing article. As a result, TestModule provides only the baseline testing functions leaving other libraries to implement more specific and sophisticated functionality. It shows the current actions. This is comfortable with Ubuntu and cent OS."
 msgstr ""
 
 #: ../../source/testmodule.rst:11
-# 48766168e65242ed8bb0a71473e4d09b
+# 3e8b47aee4cb4038841d51732b775acf
 msgid "Help command"
 msgstr ""
 
 #: ../../source/testmodule.rst:13
-# c807ca57fb7249f2a1a7058b1263a97b
+# 900c826ac1164c848c6f80a6b08e7fa5
 msgid "The help command guides the users regarding the purpose and as well as about the options that are included in the testmodule. It lists out the alternative parameters of testmodule. It also describes the syntax for functioning of Jrush module. The help command for testmodule is shown as below."
 msgstr ""
 
 #: ../../source/testmodule.rst:19
-# 36c28e6b39d0432a8218aaad26d43004
+# 771e603c11ad41398fb55dc6b46283a7
 msgid "After typing the command it lists the options as action. The following image visualize it obviously."
 msgstr ""
 
 #: ../../source/testmodule.rst:48
-# 79cc56dc9fb643f1a1140d8dc3d25125
+# 3023d02c92d645a6bef746ce68c3313f
 msgid "Alternative parameter"
 msgstr ""
 
 #: ../../source/testmodule.rst:50
-# 06a5babb540445258f081108a97fc23b
+# d77d7921f93a4bc59eb784b88b0d8ea0
 msgid "Alternatively using Testmodule the user can utilize the following options."
 msgstr ""
 
 #: ../../source/testmodule.rst:52
-# eb7d0a723082485a812c72c7088523d3
+# c65cb463e5d949978cd6f84f96b481c5
 msgid "Test Module, testmodule, test-module."
 msgstr ""
 
 #: ../../source/testmodule.rst:55
-# 72d74ba8cc8b414788fe5e8b3abf2e96
+# a26308f841eb4eb4ac329c0e33499e55
 msgid "Options"
 msgstr ""
 
 #: ../../source/testmodule.rst:57
-# bfc9519afcd84ff8b5efd8e1ea4335af
+# 0b6d1e653cb0412eba910f81423828f2
 msgid "There are two options are available. They are as follows. * Action-one * Action-two"
 msgstr ""
 
 #: ../../source/testmodule.rst:62
-# e0a3b0fac0d141fe9a4f3e5fa575ac75
+# 630822a081b7480f8966cf6885e209bd
 msgid "Action-one"
 msgstr ""
 
 #: ../../source/testmodule.rst:64
 #: ../../source/testmodule.rst:106
-# e5abf14ae8fd4a73b358787b4c74c45d
-# 23f6a478632544dcb1146c452f4780fa
+# 83f97b574d4f436aa752b9b2002adb99
+# f108518b2cdc4289a59956b756129f7c
 msgid "It shows the current titles of articles. The command used to do action-one is as follows,"
 msgstr ""
 
 #: ../../source/testmodule.rst:70
-# 3497b8070b0f4c58a2fe9c8ac4bcf915
+# d0a99c2d913848fda2ee154b196ab484
 msgid "After gives the command it shows the current details and titles of articles. The screenshot represents the same."
 msgstr ""
 
 #: ../../source/testmodule.rst:104
-# f01502c4277340ee9b630c50516d8944
+# a13eb16d64a94eca84f1bffccd3bc4bd
 msgid "Action-two"
 msgstr ""
 
 #: ../../source/testmodule.rst:112
-# 352fac6fe2704b52b570cfcd4ad43510
+# 6f016448b868499895032d29d8e1feaa
 msgid "After gives the command it shows the current details and titles of articles."
 msgstr ""
 
 #: ../../source/testmodule.rst:115
-# acfb8678558642bfb0675d1925cc85ba
+# 97fd6611235f4f559da8b53a58535175
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/testmodule.rst:117
-# b95a1ee857fd45bb8ba34875ac13c772
+# 9acaa02d71b547b7b7f9f948e6f1bca0
 msgid "Check the modules in a correct way."
 msgstr ""
 
 #: ../../source/testmodule.rst:118
-# fd56a4c7fa9c44429201dc5fef81da44
+# 1ed3f6f5c7f14a57be5891a3f8c11c85
 msgid "Non case sensitive."
 msgstr ""
 
 #: ../../source/testmodule.rst:119
-# fbee57ae0dfd4955b98eeb8289dd5404
+# 45fbf1ce59774cccba15b9e193a561a1
 msgid "Less time consuming."
 msgstr ""
 
 #: ../../source/testmodule.rst:120
-# ce20ab5366ba431d9b2b2de69ef90870
+# f3ac2aae814c4ecebb269cbb203bbc69
 msgid "Cheaper to upgrade in simple site."
 msgstr ""
 
 #: ../../source/testmodule.rst:121
-# 2e6af4bb8a5e45dba473ccdb6e3f49e7
+# c6ea631876864eedbd5f7a4e9aff5f96
 msgid "Latest update is available"
 msgstr ""
 
 #: ../../source/testmodule.rst:122
-# d84d202cd07d4ddc8df44fedac05aa87
+# 0d2d95483b214c7ca7d9b3a1e66bdcf3
 msgid "Suitable to work with Ubuntu and centOS."
 msgstr ""
 

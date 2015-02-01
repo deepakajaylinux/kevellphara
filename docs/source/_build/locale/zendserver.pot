@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"POT-Creation-Date: 2015-02-01 11:34+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -98,15 +98,8 @@ msgid "cleopatra zendserver Install"
 msgstr ""
 
 #: ../../zendserver.rst:413
-#: ../../zendserver.rst:419
-# 1c9e8cbf2161437a894667c9fe120c90
 # f316a9afb1b54335ab6f2a42e77e471a
-msgid "There are three alternative parameters which can be used in command line. zendserver , Zendserver, ZendServer Eg: cleopatra zendserver install/"
-msgstr ""
-
-#: ../../zendserver.rst:417
-# c390c1d5a25b47488107125fa7ae97c0
-msgid "cleopatra Zendserver install"
+msgid "There are three alternative parameters which can be used in command line. zendserver , Zendserver, ZendServer Eg: cleopatra zendserver install cleopatra Zendserver install"
 msgstr ""
 
 #: ../../zendserver.rst:413
@@ -119,9 +112,9 @@ msgstr ""
 msgid "System starts installation process"
 msgstr ""
 
-#: ../../zendserver.rst:423
-# 1fae831dce8c43408e8b1784cb03076a
-msgid "cleopatra Zendserver install.|"
+#: ../../zendserver.rst:419
+# f316a9afb1b54335ab6f2a42e77e471a
+msgid "There are three alternative parameters which can be used in command line. zendserver , Zendserver, ZendServer Eg: cleopatra zendserver install cleopatra Zendserver install.|"
 msgstr ""
 
 #: ../../zendserver.rst:419

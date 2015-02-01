@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"POT-Creation-Date: 2015-02-01 11:34+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -86,87 +86,87 @@ msgstr ""
 msgid "When the user needs to delete a system file, the below given command will execute the process."
 msgstr ""
 
-#: ../../file.rst:56
+#: ../../file.rst:57
 # 7518b7254ff047eaafb954b36683539a
 msgid "Exists"
 msgstr ""
 
-#: ../../file.rst:58
+#: ../../file.rst:59
 # c6ceaf9818b24de6bccea4e370848157
 msgid "When the user needs to check the existence of a file, the below given command will execute the process."
 msgstr ""
 
-#: ../../file.rst:64
+#: ../../file.rst:66
 # e265a56951b54e7f84609de1a8821a4a
 msgid "Append"
 msgstr ""
 
-#: ../../file.rst:66
+#: ../../file.rst:68
 # 5231e3c0c786411b87b0db38dca92d68
 msgid "When the user needs to append a line to a file, the below given command will execute the process."
 msgstr ""
 
-#: ../../file.rst:72
+#: ../../file.rst:74
 # dd1ee6ccbe204ba28d9f460f7e186ed7
 msgid "Line option – you can insert a line to be appended"
 msgstr ""
 
-#: ../../file.rst:75
+#: ../../file.rst:77
 # f2825448b2b64438a6538af5b6929ecc
 msgid "Should-have-line"
 msgstr ""
 
-#: ../../file.rst:77
+#: ../../file.rst:79
 # c97ca6b05c2a42e2a7e0b2bda474e4ef
 msgid "When the user needs to ensure that a file contains a particular line, the below given command will execute the process."
 msgstr ""
 
-#: ../../file.rst:83
+#: ../../file.rst:85
 # 40944e9e43cf424e8e510a5835ee787d
 msgid "Line option – Statement that needs to be checked"
 msgstr ""
 
-#: ../../file.rst:87
+#: ../../file.rst:89
 # a4248e7f3f5a4a6ca7dea1b0e9a808eb
 msgid "Options"
 msgstr ""
 
-#: ../../file.rst:92
+#: ../../file.rst:94
 # fd78c84fbeaf492f99fb136c40ae9c5e
 msgid "Parameters"
 msgstr ""
 
-#: ../../file.rst:92
+#: ../../file.rst:94
 # 41d6fd5a10674f13925f926f2a9f7760
 msgid "Alternative Parameter"
 msgstr ""
 
-#: ../../file.rst:92
+#: ../../file.rst:94
 # e4b78898d9114220a003ae879ee47083
 msgid "Comments"
 msgstr ""
 
-#: ../../file.rst:94
+#: ../../file.rst:96
 # 2f54ef5414d84d1e9a0d803d3041cd08
 msgid "Cleopatra file help"
 msgstr ""
 
-#: ../../file.rst:94
+#: ../../file.rst:96
 # a395ae79dc6e4be99ac99bb79e22a126
 msgid "Either of the two alternative parameter can be used in command- File, file eg: Cleopatra File Install/ Cleopatra file Install|"
 msgstr ""
 
-#: ../../file.rst:94
+#: ../../file.rst:96
 # d694dcb5e560437abbd57145b3876b2b
 msgid "Once the user provides the option, System starts processing"
 msgstr ""
 
-#: ../../file.rst:101
+#: ../../file.rst:103
 # 07b4a04aad4a4602b83c652120937fa8
 msgid "Benefits"
 msgstr ""
 
-#: ../../file.rst:103
+#: ../../file.rst:105
 # 9d4fd97a5a044a049f052d2a309b3622
 msgid "Specify a file specially formatted containing position-sensitive tests; default position-sensitive tests and context-sensitive tests will not be performed."
 msgstr ""

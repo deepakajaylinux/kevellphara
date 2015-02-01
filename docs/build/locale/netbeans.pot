@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:25+0530\n"
+"POT-Creation-Date: 2015-02-01 12:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,153 +17,146 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/netbeans.rst:3
-# 172cfbd0ef82443f8563d6816a6cb179
+# 59b9490fc810435a93b297df344bbbd1
 msgid "NetBeans"
 msgstr ""
 
 #: ../../source/netbeans.rst:7
-# 03b40dd2a6484cd392ec671bfd67130c
+# cb5794558aba4854bdda4e66cbd9d1dc
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/netbeans.rst:9
-# 78465f0e685a49b5a4e23a4b1019a340
+# 9d970b38755a491dbe0bab2419e9e1f8
 msgid "NetBeans is an integrated development environment (IDE) for developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML. It is also an application platform framework for Java desktop applications and others."
 msgstr ""
 
 #: ../../source/netbeans.rst:11
-# 7a0bde5ffdda4960a9ef29cb7a6f8f9d
+# bdf979912abf48228ad6c2b0ad7c835a
 msgid "The NetBeans IDE is written in Java and can run on Windows, OS X, Linux, Solaris and other platforms supporting a compatible JVM. NetBeans IDE is a free, open-source, cross-platform IDE with built-in-support for Java Programming Language."
 msgstr ""
 
 #: ../../source/netbeans.rst:13
-# fbd0f0c56b6f4cf9b8a6723ab9c2f671
+# c4184bf04dd34352bd717a8054f27ec7
 msgid "The NetBeans Platform allows applications to be developed from a set of modular software components called modules. Applications based on the NetBeans Platform (including the NetBeans IDE itself) can be extended by third party developers."
 msgstr ""
 
 #: ../../source/netbeans.rst:16
-# 8fc8dfd028bc43c58d2e83374ba4852a
+# f6e4341c45cd4a1cb99e7cb58e4765b5
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/netbeans.rst:18
-# 18a75d45b182481ebe4f6efa37479858
+# e38c092fa0e94f0ca5db4cecefe855f0
 msgid "This command helps to determine the usage of Netbeans module. The user will come to know about the different way/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same."
 msgstr ""
 
 #: ../../source/netbeans.rst:26
-# 19c6f4c2b81742f8a5d9bd402b9e68c6
+# 077f100c9b23421f97f66862ea079769
 msgid "Installation"
 msgstr ""
 
 #: ../../source/netbeans.rst:28
-# 4e594ef18bd041f69ea3b2fa0eaeeb1c
+# e21868a6b3fb4337b04f3def7f8f926e
 msgid "This command helps in installing Netbeans in system. The below given command will execute the process of installation."
 msgstr ""
 
 #: ../../source/netbeans.rst:36
 #: ../../source/netbeans.rst:42
-# c339e6719c4b4ea3bfb6200a7c7fefde
-# cf74ab1f0d894676b2ce3c761c685d5f
+# 32f16d8ffc7c47c98c890fb3a3ebe6d5
+# fe380fa6df074af8b5414ec31b4d1d2e
 msgid "Options"
 msgstr ""
 
 #: ../../source/netbeans.rst:42
-# 6412ec9a28574419b8c9725dda684980
+# 94d87e8b5e1848438cf93e7bb49770e7
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/netbeans.rst:42
-# d24c828318654f4e9524cad3db14bda3
+# 145b227d9ef9475e9fd91b258e1ec09d
 msgid "Alternative Parameters"
 msgstr ""
 
 #: ../../source/netbeans.rst:42
-# 36fe4fdb26ec4219bc66fb15e7ebda72
+# 347bf66df0e44390a85c7470770f5323
 msgid "Comments"
 msgstr ""
 
 #: ../../source/netbeans.rst:44
 #: ../../source/netbeans.rst:50
-# eff737b4c0fb48b7b8dca9678ac037f8
-# 8a4ace0aa1394695a6b820dc5298eaab
+# 4b55b469140d4a729744bb3601b57360
+# 2aa3c1454f0b4540a7b29ca1c34de75e
 msgid "cleopatra Netbeans  Install"
 msgstr ""
 
 #: ../../source/netbeans.rst:44
-#: ../../source/netbeans.rst:50
-# 3b3ff42596ae4484b136206035b4632f
-# d672504be32645c5b3eaa831c40d5faf
-msgid "There are Three alternative parameters which can be used in command line. Netbeans , NetBeans , netbeans Eg: cleopatra NetBeans install/"
-msgstr ""
-
-#: ../../source/netbeans.rst:48
-# f3f507b774d84903a91b1a13ad226b0a
-msgid "cleopatra netbeans install"
+# 543d90aee98a4b4986e33387d6b3b2a2
+msgid "There are Three alternative parameters which can be used in command line. Netbeans , NetBeans , netbeans Eg: cleopatra NetBeans install cleopatra netbeans install"
 msgstr ""
 
 #: ../../source/netbeans.rst:44
-# 85f6c3a2115b442686439fb29c039399
+# cb392dcf1d604868b67dbefeef49490b
 msgid "Y"
 msgstr ""
 
 #: ../../source/netbeans.rst:44
-# 5e773a409a804d6e86f373f1ebf02080
+# 5dd2be9cb3ca428d9afeb8bac769f2e6
 msgid "System starts installation process"
 msgstr ""
 
-#: ../../source/netbeans.rst:54
-# 3a904b11f0d84a7ca2dddf8418494609
-msgid "cleopatra netbeans install|"
+#: ../../source/netbeans.rst:50
+# 305bcc6cbd8b42a5a6e80affbfc25fc1
+msgid "There are Three alternative parameters which can be used in command line. Netbeans , NetBeans , netbeans Eg: cleopatra NetBeans install cleopatra netbeans install|"
 msgstr ""
 
 #: ../../source/netbeans.rst:50
-# c100c0ee6b7b4c2481dac96b2b1583e0
+# b49efb54fe484281899d9428dd50ab98
 msgid "N"
 msgstr ""
 
 #: ../../source/netbeans.rst:50
-# beeb9821420143e6adef2b6d09087d6a
+# ac995e13e23349c3b4b787766e7cb8e7
 msgid "System stops installation process"
 msgstr ""
 
 #: ../../source/netbeans.rst:60
-# 47b3ddc6de784985b98f7f59315cb5f7
+# 56b1b1c241a1400b80ef7439335426fe
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/netbeans.rst:62
-# 7c3ee8b95adf4eda9db76da4045e0714
+# 4d7c4d8d1dc84b52b44ace1a4d6178f7
 msgid "User interface management (e.g. menus and toolbars)"
 msgstr ""
 
 #: ../../source/netbeans.rst:63
-# 3826e85f944d4dd28a4ddefdfa7bb195
+# 31db2ad1d1ef4aaf9c60a866da9b3e81
 msgid "User settings management"
 msgstr ""
 
 #: ../../source/netbeans.rst:64
-# dd8bc1ca4a6a4be7bd89969bf282ef24
+# b6cc93cbb7e64e4e9b78c1bb599b33fa
 msgid "Storage management (saving and loading any kind of data)"
 msgstr ""
 
 #: ../../source/netbeans.rst:65
-# 8658e43baff149f6afcfff89a126cfa3
+# 86495e99330a41868fcab22aa4bb3dae
 msgid "Window management"
 msgstr ""
 
 #: ../../source/netbeans.rst:66
-# a6cbc8cd5a7d4a7a802a205f1339882d
+# 1196fd119a90428eba23aaeb7c44919e
 msgid "Wizard framework (supports step-by-step dialogs)"
 msgstr ""
 
 #: ../../source/netbeans.rst:67
-# 26a580d501a54527b2bd6f00478ae2c6
+# c912e68f93e24e3bb7451a4f0ad34010
 msgid "NetBeans Visual Library"
 msgstr ""
 
 #: ../../source/netbeans.rst:68
-# 1bdb02cce9564d7fb9c6a0b31ae21c7d
+# a6dd9325b34a436aa3614d85ffecafaa
 msgid "Integrated development tools"
 msgstr ""
 

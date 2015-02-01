@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"POT-Creation-Date: 2015-02-01 11:34+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -96,7 +96,7 @@ msgstr ""
 #: ../../cassandra.rst:338
 # a027c963be5446319a98dd86a1c253fd
 # bf42922eaff345659669977ceba980a0
-msgid "There are two alternative parameters which can be used in command line. Cassandra , cassandra Eg: Cleapatra cassandra install/"
+msgid "There are two alternative parameters which can be used in command line. Cassandra , cassandra Eg: Cleapatra cassandra install"
 msgstr ""
 
 #: ../../cassandra.rst:336

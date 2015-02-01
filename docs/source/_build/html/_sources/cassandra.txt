@@ -332,13 +332,13 @@ Options
  |cleopatra cassandra     | There are two alternative parameters which   | Y		 | System starts installation process     | 
  |Install		  | can be used in command line.		 |		 |					  |
  |			  | Cassandra , cassandra			 |		 |					  |
- |			  | Eg: Cleapatra cassandra install/ 		 | 		 |					  |
+ |			  | Eg: Cleapatra cassandra install 		 | 		 |					  |
  |			  |     Cleapatra Cassandra install		 |		 |					  |
  +------------------------+----------------------------------------------+---------------+----------------------------------------+
  |cleopatra cassandra     | There are two alternative parameters which   | N             | System stops installation process      | 
  |Install                 | can be used in command line.                 |               |                                        |
  |                        | Cassandra , cassandra                        |               |                                        |
- |                        | Eg: Cleapatra cassandra install/             |               |                                        |
+ |                        | Eg: Cleapatra cassandra install              |               |                                        |
  |                        |     Cleapatra Cassandra install|             |               |                                        |
  +------------------------+----------------------------------------------+---------------+----------------------------------------+
 

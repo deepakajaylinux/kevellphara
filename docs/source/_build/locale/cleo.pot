@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"POT-Creation-Date: 2015-02-01 11:34+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -41,31 +41,6 @@ msgstr ""
 msgid "This help command guide the user about Cleopatra. Suitable for all type of user. It depicts the alternative parameters and commands for installation. The following help command and the screenshot will assist the user regarding the usage."
 msgstr ""
 
-#: ../../cleo.rst:36
-# dbd2f50be9eb43d494060752ea22d773
-msgid "kevells@corp:/# cleopatra Cleopatra help"
-msgstr ""
-
-#: ../../cleo.rst:24
-# 2bede6efcb744e5daf025faeb37d843c
-msgid "This command allows you to update Cleopatra."
-msgstr ""
-
-#: ../../cleo.rst:26
-# 1d7366f58c22417a9f8da4039370d0e2
-msgid "Cleopatra, cleo, cleopatra"
-msgstr ""
-
-#: ../../cleo.rst:28
-# bddb6cc85f0b4ccbb4d0f03bb377ef8f
-msgid "install"
-msgstr ""
-
-#: ../../cleo.rst:29
-# cd808ec3f68844f7915dcb5334396b4e
-msgid "Installs the latest version of cleopatra example: cleopatra cleopatra install"
-msgstr ""
-
 #: ../../cleo.rst:39
 # fa13896168b748a0a54587551f1c2b56
 msgid "Installation"
@@ -89,6 +64,53 @@ msgstr ""
 #: ../../cleo.rst:50
 # 32bcbfbacb864ee293f93debe75fd303
 msgid "The following screen shot enumerate it."
+msgstr ""
+
+#: ../../cleo.rst:93
+# d126fa579f484732a6128f8d56075f8a
+msgid "Parameters"
+msgstr ""
+
+#: ../../cleo.rst:93
+# 8d77904b246a4a718a49c4a6f61a502a
+msgid "option"
+msgstr ""
+
+#: ../../cleo.rst:93
+# 33e87d9b19504edbb2379b704bb10ad6
+msgid "Comments"
+msgstr ""
+
+#: ../../cleo.rst:95
+#: ../../cleo.rst:99
+# cd808ec3f68844f7915dcb5334396b4e
+# cd808ec3f68844f7915dcb5334396b4e
+msgid "Install cleopatra cleopatra Update to latest version? (Y/N)"
+msgstr ""
+
+#: ../../cleo.rst:95
+# 288b12c0cb4e4cec93a96264702a50dc
+msgid "Y(YES)"
+msgstr ""
+
+#: ../../cleo.rst:95
+# 2bede6efcb744e5daf025faeb37d843c
+msgid "It will install Cleopatra"
+msgstr ""
+
+#: ../../cleo.rst:97
+# 298f85ece0bb45939b0fee6f214956c8
+msgid "under Cleopatra"
+msgstr ""
+
+#: ../../cleo.rst:101
+# 7eab55bde1114b1390a44f79570becd8
+msgid "N(NO)"
+msgstr ""
+
+#: ../../cleo.rst:101
+# 5f470c3fe96846d0a5090b006a6f9175
+msgid "It will exit from installation|"
 msgstr ""
 
 #: ../../cleo.rst:105

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:25+0530\n"
+"POT-Creation-Date: 2015-02-01 12:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,151 +17,151 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/phpstorm.rst:3
-# 0782d43d0fb24a3cb47f84c214ea9485
+# f5d648c12d794da2a7b4486ba7ced3c1
 msgid "PHPStorm"
 msgstr ""
 
 #: ../../source/phpstorm.rst:6
-# 13c8a7821be34d0aa97f568714689b0b
+# 195257a278ed40b895eb1821d7872c0d
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/phpstorm.rst:8
-# f31ae65a17064ee78a11d77902e47b7a
+# 4772883bde8e41d18f6102d6041d3215
 msgid "PhpStorm keeps up with latest PHP & Cleopatra trends, integrates a variety of modern tools, and brings even more extensibility with support for major PHP frameworks. Development environment auto-configuration (coding standard, file associations, etc.)Is possible. It is comfortable with Ubuntu and cent OS."
 msgstr ""
 
 #: ../../source/phpstorm.rst:11
-# e9b9f3cd3c73452f8c60bec332dba0f0
+# 07fbfe11ec584a2e8adc5e8eed5d33e7
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/phpstorm.rst:12
-# a5bb15660088477fafc20d2afe9f989f
+# da9307648db54927b197a453276b19be
 msgid "This command can function about the objectives and commands available under Cleopatra Php storm module. It also explains the command to install Php storm module. Before installation, the user can read this help command explains its function."
 msgstr ""
 
 #: ../../source/phpstorm.rst:18
-# 11b64a7b93754b85800e51dbe6df994d
+# a37bf0cff32a455383ff73bd1ff1a366
 msgid "The following screenshots can visualize the help command."
 msgstr ""
 
 #: ../../source/phpstorm.rst:22
-# ce5a8014a16146b78d82c919c4b15f27
+# 7570534f82d04cc0930e1130f711cc0d
 msgid "Installation"
 msgstr ""
 
 #: ../../source/phpstorm.rst:24
-# a0be24e8f282469f9368de5cd4fbf9f0
+# 9b17d6cd048d4cdcbd5196034a96fce3
 msgid "It is a noticable process to install Phpstorm module under Cleopatra by just using the command given below,"
 msgstr ""
 
 #: ../../source/phpstorm.rst:30
-# f0c7621b46884843a2e80e540d453964
+# 6eb500251240403395fcb72e5f63f7c0
 msgid "After key in the command, it can asks"
 msgstr ""
 
 #: ../../source/phpstorm.rst:32
-# 2179fbfa1e074c8abfe8ab70447acb01
+# 11c00f05c0d04518a2504ae3ec9d7f27
 msgid "Install phpstorm? (Y/N)"
 msgstr ""
 
 #: ../../source/phpstorm.rst:34
-# 03b5d3615cae41b49512dbd20d2b4f7a
+# ab43873b5b9e49d28d7f2af868765258
 msgid "In case the user input as Y, it can install phpstorm from the package. Else, it can exit the screen. The following screen shots can explain it."
 msgstr ""
 
 #: ../../source/phpstorm.rst:38
 #: ../../source/phpstorm.rst:43
-# 07f9de837060400fa4534539881b0575
-# a33bb6c4fb1241908ff100d8b0bb3566
+# 926a916ff7b246c7bb69618fa8a3a6ab
+# 6dc37f53175f4068a5aca5acfced57cc
 msgid "Options"
 msgstr ""
 
 #: ../../source/phpstorm.rst:43
-# 08f054e9a24b42fba818d9b5aa908829
+# f03b340781384dd3b4889aa47cdce257
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/phpstorm.rst:43
-# efd3742a9932405b9ac8d6a9bb82fd36
+# acd20423ac734666b14a2e5ee75d7413
 msgid "Alternative Parameter"
 msgstr ""
 
 #: ../../source/phpstorm.rst:43
-# df8c90dfd84441fcaf1cb14c58f0cb81
+# 29c398be190341cdb057a01ccca5ca66
 msgid "Comments"
 msgstr ""
 
 #: ../../source/phpstorm.rst:45
 #: ../../source/phpstorm.rst:48
-# 5e84c35bc3de471597b40feb0c7dcc75
-# 56cdeeab60fe47d7b7c661a82ec5a428
+# 5447bc44d05c4c5e8499c361b6fd7431
+# aa730deb5bdc4501ba64aaea06b5f169
 msgid "Cleopatra phpstorm Install"
 msgstr ""
 
 #: ../../source/phpstorm.rst:45
-# e957827b4faf4bc984a57dbabf0ce6ef
+# a94e7930342e4c86bd0a55795907bbdf
 msgid "We can use PHPStorm & phpstorm"
 msgstr ""
 
 #: ../../source/phpstorm.rst:45
-# 12e33c011b1f4f88adcc5719952a7708
+# 82bf8c6be27f4c6b9a34e5b2ea7aa27f
 msgid "Y"
 msgstr ""
 
 #: ../../source/phpstorm.rst:45
-# eeab09044645496db298eb99081c798a
+# 442409312a0646f99c849f69171a3ab0
 msgid "System starts installation process under cleopatra"
 msgstr ""
 
 #: ../../source/phpstorm.rst:48
-# ad5e670ee724467c8c411bdd0bb5c024
+# 46c10b2cc5ef4e94888539d3ce0d6c0c
 msgid "N"
 msgstr ""
 
 #: ../../source/phpstorm.rst:48
-# 8beb95a4d00d4413b91ab626f9ecbafc
+# 3b81a0b3dadb4ef0b6f12305b6765f56
 msgid "System stops installation process under cleopatra|"
 msgstr ""
 
 #: ../../source/phpstorm.rst:55
-# 72727a71cf414ebbaa8e5b8b972447fc
+# 2282b1f710094a53ae93a566039d82ac
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/phpstorm.rst:57
-# 8959641d82ae46d1bd925308d0af5e1c
+# e0c98d7ea0e04c5088e25b484a4bcfaf
 msgid "More settings to keep your code as neat as possible"
 msgstr ""
 
 #: ../../source/phpstorm.rst:58
-# 7f6ce988f3514e1695bb4d853073c32b
+# 0dcd729c1c214e5ea9200e4dddfbd139
 msgid "Better interface with Development environment auto-configuration."
 msgstr ""
 
 #: ../../source/phpstorm.rst:59
-# 1fb34d6b8b51415d82b4c7ba50e5307f
+# d8764b68a4b945cb9ddcd836df67ed56
 msgid "Better code hints & debugging"
 msgstr ""
 
 #: ../../source/phpstorm.rst:60
-# 15dd25797b62478bb55dd975d56f4541
+# 0b20d48d73254cb39f95a999c7c80f62
 msgid "Zen Coding is available with Devops."
 msgstr ""
 
 #: ../../source/phpstorm.rst:61
-# 157a1363d0514648a1e595da3c067f5c
+# 028475cc80f5448a93cf23b8ff4895b7
 msgid "Multiple cursors and simple keyboard shortcuts for creating, editing, and navigating between issues."
 msgstr ""
 
 #: ../../source/phpstorm.rst:62
-# 4874fa598c944964865530c97981001c
+# ecb0b24d3b924aae8b88b14816a91688
 msgid "More Custom attributes, customizable workflows and powerful Customization."
 msgstr ""
 
 #: ../../source/phpstorm.rst:63
-# ba0a1478a00648d693b7d6ebd37d16fb
+# e671387e682444f388602c53d8fe71eb
 msgid "Used to install latest version of developer tools."
 msgstr ""
 

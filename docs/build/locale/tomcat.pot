@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:25+0530\n"
+"POT-Creation-Date: 2015-02-01 12:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,144 +17,144 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/tomcat.rst:3
-# fdbba47bc3e543f1aaeb0922c783b116
+# 899b3d6edf314304b16692e72521f726
 msgid "Tomcat"
 msgstr ""
 
 #: ../../source/tomcat.rst:7
-# 85294f008beb4db4a6fa026f09021d08
+# 63b2b47fdb544dd5b55c9db24177e203
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/tomcat.rst:9
-# 28791914fa25423991a2ca4c3d4797e9
+# 1d89daa653e54e50b7a3e826ef89b488
 msgid "Tomcat is an application server from cleopatra that executes php and renders Web pages that include php coding. Tomcat is the result of developers and is available from the php Web site in both binary and source versions. Tomcat can be used as either a standalone product with its own internal Web server or together with other Web servers. Tomcat supports Ubuntu and cent OS."
 msgstr ""
 
 #: ../../source/tomcat.rst:12
-# 38f995641db8498b88ccc93da2e21039
+# 666d44ab9a6b4ed09bc7649a1f651ca4
 msgid "Help command"
 msgstr ""
 
 #: ../../source/tomcat.rst:14
-# af197fc772274537a6b010f89b9fb753
+# 2e4363bf114c402494113e49a43b28a4
 msgid "This command can function about the objectives and commands available under tomcat module. It also explains the command to install tomcat. Before installation the user read this help command."
 msgstr ""
 
 #: ../../source/tomcat.rst:21
-# cfb2a94ba9e046b2bc6f6839286142b4
+# ff8fbcafc7b1436abf692579120f2fd9
 msgid "The following screen shots explains its function"
 msgstr ""
 
 #: ../../source/tomcat.rst:45
-# 9b922a485c1848059078aa68577b187b
+# 0e9cfec93b7a44969b323e18bdd8fb44
 msgid "Installation"
 msgstr ""
 
 #: ../../source/tomcat.rst:47
-# 9626847434d641b094fbd291d635b63b
+# bb28ebe8f01745ef896237d020988e98
 msgid "Use this module to install Tomcat on Ubuntu Linux systems from php. While Ubuntu includes its own Tomcat , the official Tomcat servers are generally more up-to-date."
 msgstr ""
 
 #: ../../source/tomcat.rst:53
-# 7892d95b106d4c65a07b8a2fc9bd82b2
+# 20c6db9852ec47b28389a0ccf9df73a6
 msgid "Install tomcat?(Y/N)"
 msgstr ""
 
 #: ../../source/tomcat.rst:55
-# 1ebc5dc2f782405ea0d73660597ba7d9
+# 8392175cc7734684aecd390ab6d9d2da
 msgid "When the user gives input as Yes automatically it installs all depencies in default and also install updated version. The following screen shot will explain it."
 msgstr ""
 
 #: ../../source/tomcat.rst:168
-# dad16bdd1d7c4d7aa0918551778d36b2
+# 0ff68603f671430f8e70246c101b8ab7
 msgid "Option"
 msgstr ""
 
 #: ../../source/tomcat.rst:174
-# 0f8fa7a807344a85b68bd1bbec71f153
+# 38e0ad42af714ee0a0ce2e01df246701
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/tomcat.rst:174
-# 36e610f9488c4b32bef9de98b2224a70
+# d39fe8d291264a45b62a52fbed6ab7d8
 msgid "Alternate Parameters"
 msgstr ""
 
 #: ../../source/tomcat.rst:174
-# 0bfcac44e0c645a384891c5b6a59b51c
+# 3d7c5cff7278492ea863b0178609c2ad
 msgid "Options"
 msgstr ""
 
 #: ../../source/tomcat.rst:174
-# c44503c1835940fcb0483f4cee568875
+# bb1cda59ecb64c4d9146a28d36d03be1
 msgid "Comments"
 msgstr ""
 
 #: ../../source/tomcat.rst:176
 #: ../../source/tomcat.rst:179
-# 910c19fce99d4ec7af6efa0090de7a96
-# bbe5fd722e07462689c2dc3774b8407f
+# 919645cdc49e4328b57cbd031153be38
+# 20cab3b6610242bdbc65e7d2a9def9c5
 msgid "Install tomcat(Y/N)"
 msgstr ""
 
 #: ../../source/tomcat.rst:176
-# 5fa49659c52049da8c11f9ec98a10f7c
+# 97c88b481c2a41b4b7ecf75d401020a7
 msgid "Instead of using tomcat we can use Tomcat, tom-cat"
 msgstr ""
 
 #: ../../source/tomcat.rst:176
-# 6798d881d91a402d86ffd03b598fc577
+# c55c2a2454a34a4b98857e7e5467e032
 msgid "Y"
 msgstr ""
 
 #: ../../source/tomcat.rst:176
-# b2c30465d20e44b5a5de9f4a6d00e931
+# fd9593423d5f4aaba18fcb778003c025
 msgid "It will install tomcat under cleopatra"
 msgstr ""
 
 #: ../../source/tomcat.rst:179
-# e83e70d416374af2b9530466305d1914
+# 91da8e8d5651446593806903ce2e5158
 msgid "Instead of using tomcat we can use Tomcat, tom-cat|"
 msgstr ""
 
 #: ../../source/tomcat.rst:179
-# 75ee718f464e43df99650eb65e3830b3
+# 74e2227f7a914a9aa3b33cc2cf196f72
 msgid "N"
 msgstr ""
 
 #: ../../source/tomcat.rst:179
-# d86481e4ba814d0e97f60f5b3db42bcd
+# 97918da8f1794c678b61d2bfb7963915
 msgid "The system exit the installation"
 msgstr ""
 
 #: ../../source/tomcat.rst:185
-# 2afe4c70e1e740629e013d478258b2b8
+# d5dce50b3f834fd5a5d37ce17428f2fe
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/tomcat.rst:187
-# f13489948e5842eab99c4746f40b4521
+# f1edbbcc672444a1b4748b951d1f3adf
 msgid "Its fairly extensible with modules to run things like php, python, etc."
 msgstr ""
 
 #: ../../source/tomcat.rst:188
-# 77903a0cab7b48fb80a96b589c77989f
+# a13173857a814844b121c94935713e4e
 msgid "It comforts with Ubuntu and cent OS."
 msgstr ""
 
 #: ../../source/tomcat.rst:189
-# fe59d0ba4fa44b74af1105913fe8fec3
+# 4b927311104542a987d7fb08d9399ed8
 msgid "Non case sensitivity is a highlighted advantage."
 msgstr ""
 
 #: ../../source/tomcat.rst:190
-# 8b3033ee3f3749d18fa78353313319fb
+# db70f13c08654f64ae03665f206558b6
 msgid "Tomcat is the application layer where most of the logic processing happens."
 msgstr ""
 
 #: ../../source/tomcat.rst:191
-# 3f4086fad0a14a079d2c06809bb56fec
+# b86c6d64b4ed4f2e8a2d8408f1cb531c
 msgid "Finally there would be a database layer that tomcat talks to."
 msgstr ""
 

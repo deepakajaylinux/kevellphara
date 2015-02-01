@@ -45,6 +45,7 @@ Installation
 Installing the Node-JS to your machine, can be done simply by using the following command as shown:
 
 .. code-block:: bash
+
 		cleopatra node-js install
 
 After inputting the command above, the following operations occurs as shown in the tabular format.

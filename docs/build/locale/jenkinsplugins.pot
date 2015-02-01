@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:25+0530\n"
+"POT-Creation-Date: 2015-02-01 12:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,119 +17,119 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/jenkinsplugins.rst:3
-# 4d58a7b6e3e04f9596f870537d69a3ce
+# 86a074fa267d47dcb03bf74ef92ee0cf
 msgid "JenkinsPlugins"
 msgstr ""
 
 #: ../../source/jenkinsplugins.rst:6
-# 35f50a30e8ac45e295e0e78fae271fb6
+# 744df3d6863e4ea49f2d5d496af0701a
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/jenkinsplugins.rst:8
-# 5676f141577a4f83a8ecd06140def645
+# b8075ffb38c94939b6d400f9908c9bfb
 msgid "Jenkins is popular to build server. Jenkins is an open source continuous integration tool written in Java. Jenkins provides continuous integration services for software development."
 msgstr ""
 
 #: ../../source/jenkinsplugins.rst:10
-# 881cbbc8503e490db849ad1b873d4f9b
+# a941cb70063144ffa9df8000f0d60a7a
 msgid "Plugins have been released for Jenkins that extend its use to projects written in languages other than Java. Plugins are available for integrating Jenkins with most version control systems and big databases. Many build tools are supported via their respective plugins. Plugins can also change the way Jenkins looks or add new functionality. Builds can generate test reports in various formats supported by plugins (JUnit support is currently bundled) and Jenkins can display the reports and generate trends and render them in the GUI."
 msgstr ""
 
 #: ../../source/jenkinsplugins.rst:13
-# 8e3fbb8656644ce18d4f4efbd540e650
+# 8e45e19efae24302bba327b77645d196
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/jenkinsplugins.rst:15
-# 9d1c30bd8e6247a98965608cbd98f343
+# 3e711bebf3d84a778ef8faf4aa019b2c
 msgid "This command helps to determine the usage of JenkinsPlugins module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same."
 msgstr ""
 
 #: ../../source/jenkinsplugins.rst:44
-# 6e68ad8aa980442fbebeea6dd8e44508
+# 029a6c9876ac4a4a9ea81f42c40534ec
 msgid "Installation"
 msgstr ""
 
 #: ../../source/jenkinsplugins.rst:45
-# 12e5b693300d4fbc8138fe15df5d098c
+# a1279e1f450b469eba4f59d3b6cc1e85
 msgid "This command allows you to install a bunch of plugins that we recommend for PHP builds in Jenkins. If the user needs to install Jenkins module in machine, the below given command will execute the process of installation."
 msgstr ""
 
 #: ../../source/jenkinsplugins.rst:88
-# bca10d68b2d4469bbbff786ed131e9bf
+# ddea3d91345d476b93af3683d4601cb2
 msgid "Options"
 msgstr ""
 
 #: ../../source/jenkinsplugins.rst:93
-# d4970cc750b34c1f88275463bf14b31b
+# 21f3d5c0042942cca636077d94b3ca2d
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/jenkinsplugins.rst:93
-# da8a85cb5c8040ccb437099070d1890c
+# 9fae9a5d6a2f4440a8ef35adfcfda1f9
 msgid "Alternative Parameter"
 msgstr ""
 
 #: ../../source/jenkinsplugins.rst:93
-# b5260145ddae49dcbde02558ec90bbec
+# 81c3ad58752d4fd8afa5e86bda0908a4
 msgid "Option"
 msgstr ""
 
 #: ../../source/jenkinsplugins.rst:93
-# 4749fc997b9b43a79bfb92559c61433e
+# 59325943fcab4925b82feb71c31e7ea1
 msgid "Comments"
 msgstr ""
 
 #: ../../source/jenkinsplugins.rst:95
 #: ../../source/jenkinsplugins.rst:104
-# b1c8b3639c5a43e189742fb82ea1744a
-# 73982eb20557475ba98da2cd27f36994
+# e9b75528b35d474d8f81df1b8202e41e
+# 3cdb5a4e647b48e09fde6ddb6ab58a8e
 msgid "cleopatra  JenkinsPlugins Install"
 msgstr ""
 
 #: ../../source/jenkinsplugins.rst:95
-# 532cc86600b349b1a0e2f2e9cec96471
+# f2a7cd4e593e4f1dac7dca9682e2fca8
 msgid "Either of the four alternative parameter can be used in command- JenkinsPlugins, jenkinsplugins, jenkins-plugins, jenkins-plugs eg: Cleopatra jenkins-plugins Install"
 msgstr ""
 
 #: ../../source/jenkinsplugins.rst:95
-# fd37d982ddb54e01969026fd62bc258f
+# 72afdacb4a054ccca5229eaae5936f00
 msgid "Y"
 msgstr ""
 
 #: ../../source/jenkinsplugins.rst:95
-# a8bf4a75c76147db98da37b2517e019b
+# 718b88d9ae5140c0bab51d16a4eb27bc
 msgid "Once the user provides the option, System starts installation process"
 msgstr ""
 
 #: ../../source/jenkinsplugins.rst:104
-# b3f9e6ef724a41eebce305f102d76647
+# df55c035cef8420eaaba849b2a60301c
 msgid "Either of the four alternative parameter can be used in command- JenkinsPlugins, jenkinsplugins, jenkins-plugins, jenkins-plugs eg: Cleopatra jenkins-plugins Install|"
 msgstr ""
 
 #: ../../source/jenkinsplugins.rst:104
-# 6633d201a9194010afcd06d0e710610b
+# abf0942f148e43009eac83a1f9a879a1
 msgid "N"
 msgstr ""
 
 #: ../../source/jenkinsplugins.rst:104
-# c72ec0700544451eae84295eac1daf1a
+# 20eb3f4444c14684ba9ce5896b2f727f
 msgid "Once the user provides the option, System Stops installation process"
 msgstr ""
 
 #: ../../source/jenkinsplugins.rst:116
-# e802566e5ad4456aa7e137a386c72a0c
+# 5d04cbb487544457ba456aee77e469be
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/jenkinsplugins.rst:118
-# f3239cd3119041e1abf67473790ca6ea
+# 267dff97fb21453b89047ad7511a7ecf
 msgid "The plugin will give you a report on how much every plugin will be used in all of your jobs . Therefore it will analyze the used extension points of each job."
 msgstr ""
 
 #: ../../source/jenkinsplugins.rst:119
-# 3c94b52742014b719a1bf55f10652243
+# b9020f602caf408ea06ee318d9a74206
 msgid "This plugin gives you the possibility to analyze the usage of your installed plugins."
 msgstr ""
 

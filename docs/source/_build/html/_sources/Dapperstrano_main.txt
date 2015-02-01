@@ -111,6 +111,7 @@ If the user wish to install the dapperstrano without depending and using the cle
 .. code-block:: bash
 
 	git clone https://git.pharaoh-tools.com/phpengine/dapperstrano && sudo php dapperstrano/install-silent
+
 or 
 
 The below command is predictable for the users who wish to specify the location during installation.

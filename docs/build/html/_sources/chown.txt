@@ -1,14 +1,14 @@
-=====
+=======
 Chown
-=====
+=======
 
 Synopsis
---------
+----------
 
 This module enables to change owner’s permission. It can change the permission on individual file Or directory. Before that you must be aware of the default permission assigned to your files and directories at the time you create it. 
 
 Help command
-------------
+--------------
 
 This help command explains about the installation of a particular module. The help command is easy to operate by the end user. It also lists out the alternative parameters that are used in declaration. The following command guides the user about the handling this module.
 
@@ -76,9 +76,9 @@ This is Visually shown by the following screen shot.
 	+------------------------------------------------+------------+----------------------------+-----------------------------+
 	| 	Parameters	              		 | Required   | option  		   |Comments			 |
 	+================================================+============+============================+=============================+
-	|Chown	 			 		 | Yes	      |	__			   |				 |
+	|Chown	 			 		 | Yes	      |				   |				 |
 	+------------------------------------------------+------------+----------------------------+-----------------------------+
-	|Path						 | Yes	      |	__			   |The user has to give the     |
+	|Path						 | Yes	      |				   |The user has to give the     |
 	|						 |            |			           |path			 |
 	+------------------------------------------------+------------+----------------------------+-----------------------------+
 	|Owner				 		 | Yes        |	Chown       		   |				 |

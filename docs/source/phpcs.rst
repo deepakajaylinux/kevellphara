@@ -66,19 +66,19 @@ If the user proceeds the installation process the following operations occurs as
 
 
   +-------------------------------+------------------+------------------+-----------------------------------+
-  |   Paramaters 		  |Path              | Option    	| Comment		            |
+  |Paramaters 		          |Path              | Option    	| Comment		            |
   +===============================+==================+==================+===================================+
-  |Program data directory(Default)|"/opt/phpcs       |  Yes             |If the user to proceed installation|
+  |Program data directory(Default)|opt/phpcs         |Yes               |If the user to proceed installation|
   |				  |(corresponding    |			| with the default program data     |
-  |				  | module)"         |			| directory they can input as Yes   |
+  |				  |module)"          |			| directory they can input as Yes   |
   +-------------------------------+------------------+------------------+-----------------------------------+
   |Program data directory         |User specific     |No(End slash)     |If the user wish to proceed with   |
   |				  |		     |                  |their own program data directory,  |
   |				  |	             |			|they can input as N, and in hand   |
   |				  |		     |                  |specify they own location.         |
   +-------------------------------+------------------+------------------+-----------------------------------+
-  |Program executor directory     |"/usr/bin"        | Yes              |If the user to proceed installation|
-  | (Default)    		  |		     |     		|with the default program executor  |
+  |Program executor directory     |"/usr/bin"        |Yes               |If the user to proceed installation|
+  |(Default)    		  |		     |     		|with the default program executor  |
   |				  |		     |			|directory they can input as Yes    |
   +-------------------------------+------------------+------------------+-----------------------------------+
   |Program executor directory     |User specific     |No(End slash)     |If the user wish to proceed with   |

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"POT-Creation-Date: 2015-02-01 11:34+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,7 +23,7 @@ msgstr ""
 # 60db961466a9419c90a7d7fbe44cb4f6
 # 4f65c0cbbce4419b923477c6a32175a9
 # f06f96589727429b848c18f114cc49b8
-# ec6b7275cb7346319e73e6f64fb9cd0f
+# f06f96589727429b848c18f114cc49b8
 msgid "Chown"
 msgstr ""
 
@@ -97,7 +97,7 @@ msgstr ""
 #: ../../chown.rst:84
 # f28c4e4f36cf4027bdbe1e8ee320b146
 # 025e9537c4c74c0695b11fc9c4d18a32
-# 9d34b2025b09462a82bfc6989d09d9d3
+# 025e9537c4c74c0695b11fc9c4d18a32
 msgid "Yes"
 msgstr ""
 
@@ -114,7 +114,7 @@ msgstr ""
 #: ../../chown.rst:84
 #: ../../chown.rst:86
 # 16dd22b7e2804d758207ec57563b6c61
-# d4fbe5c3322f417985b6c0cee32bf169
+# 16dd22b7e2804d758207ec57563b6c61
 msgid "Owner"
 msgstr ""
 

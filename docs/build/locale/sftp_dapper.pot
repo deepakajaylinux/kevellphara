@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:25+0530\n"
+"POT-Creation-Date: 2015-02-01 12:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,197 +17,197 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/sftp_dapper.rst:3
-# e0ebb8b7449948a391d640e9c2b79f24
+# 28ee91d51f4d454f8a59b1444c2f1d7a
 msgid "SFTP"
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:8
-# 7d854081653d4edf9ec5413387cc1e62
+# 204e071ccfb9424c8bfbb2a34f32ae55
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:10
-# b69ab5943bae4905a24630995e36ca61
+# c11e783c6c7245b683aeda40d14d32d3
 msgid "This module assist in transferring files from one system to another. It can upload or download the files to the system. Automation is possible. Put and get options are available in this module. It specifies the configuration of your environment. It is user friendly with Ubuntu and cent OS."
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:13
-# 019a820e50f943cf9040378339d3fd80
+# d117b928b35b4a3f805bf64df34b609c
 msgid "Help command"
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:15
-# ec6987d8b70945d085d7d61f73af7d75
+# 0f180cf16b5b49d39a979137512b8ea8
 msgid "Help command used to find information about a specified command. For more information about changes to functionality of SFTP we can use this help command."
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:22
-# 79c8e9bd9f4f4465af534d7899260a0c
+# 8f83b341ad824b22baf8b0ec1310ac8c
 msgid "The following screen shot guides you."
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:54
-# 8453280d5d6a483ca1ac66842f58b52d
+# cc17194e71c74519838a55d910916fc1
 msgid "Installation"
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:56
-# ba0b9ca14abf4f5a9dc110e25eb9eee6
+# e75a790f09cd418099398acdb1b77b7c
 msgid "As a company, and as individuals, SFTP has been dedicated to meeting each partner’s technology challenges, fulfilling their engineering requirements, and satisfying their business goals. It is an obvious process to install SFTP module under Dapperstrano by just using the command given below,"
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:64
-# 772d99b226a64dee90cd96e2c1e78902
+# e5774f0fb7db4b269ba0895ebaf25207
 msgid "After giving the command then the system will raise the question as,"
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:66
-# b7b33283485d4e08ae8dbcbe4cd756ca
+# 9dbd895915f044d4a6e5eba1816ae888
 msgid "Install SFTP server group? Y/N"
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:68
-# 8ab714943efb4738a8ab9d364b1164e1
+# bd3d3abaacb344ec859b334c62b2b703
 msgid "If the user input as Y then"
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:70
-# 5443a98389064de7acedf05b86a8faf5
+# a01f63d42bc041959bb8c40e193d6d01
 msgid "SSh timeout section?"
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:72
-# 6799db9679f848e58af214b0819599d7
+# 366d55c4e8894fd2af6f626ab4a4e57b
 msgid "The user has to enter the value"
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:74
-# 192021824124406fabe716cbae8b6568
+# 3eb86a5ac4f44082a07a90a7b7189f56
 msgid "Please enter remote ssh port"
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:76
-# 67fb4b47572f4f159d19584a6bbce586
+# c703defa34f2452d8e09f0a49b4d5414
 msgid "Default value is 22. The user can enter any value"
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:78
-# 031f76cc1b314547b4778badb0bec4ad
+# 169e6b2d8e704fa58590c5afe87aa54e
 msgid "Enter server host IP?"
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:80
-# 1484bce1c33f4a97833f5808e25a3f34
+# 1e4882471f5c4097810218544812a4ff
 msgid "The user has to enter username, password, and key path."
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:82
-# eb9bb1769f104ef3801e72c89323d9e2
+# f1beacc1e08e4dc7a459cadf85957237
 msgid "Add another server?"
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:84
-# 2feacf929d694343a18d7a200240c1f6
+# 4fe88e7ba3b04192935ac475530b78d0
 msgid "If the user input as Y he has to enter new server name"
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:86
-# e708fe1208ef446da1e99ec48f4c380b
+# 2959bc501df1480bb1ec17f8b7e0ca70
 msgid "Then everything will be connected."
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:88
-# 19356d8e09b748198be1764cf04edf6f
+# 438ffbc074b64c21846af2bc13b8db38
 msgid "If the user input as N previous server name can be accessed."
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:121
-# 770869dd62874279b5e2ef29c469b507
+# e1a1cfd9bf9b4c2aad3544e8fc6a3bf6
 msgid "Options"
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:127
-# 8e189915fd8d4486b9d872125a6ad235
+# 504e57229cb74528b866c773e6a85561
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:127
-# 0bd1e04c7ec343b888d9c029d287236a
+# 0db7d7fa367a42629030d0b5a2684e4e
 msgid "Syntax"
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:127
-# 4aa668a3ff3e4396899f54cd35aff09d
+# 104bdd8634bf4a9f92af11e0fd83be26
 msgid "Comments"
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:129
-# 0b936e9a2031481eb383dfd63d2c6996
+# e0148eaa35cb4a568fc5f92defb28d34
 msgid "put"
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:129
-# 64b704da5c754701b3f3d8d6ab47dc4f
+# 6e9e3e16743f4c4483d0a2299a84b1e1
 msgid "Source to target"
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:129
-# 5c17e60a79b049df98bb46db32bba010
+# 8edae6fbffe1415bb313cde73167d91d
 msgid "The file can transferred"
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:131
-# 90a129241bb3460f81f50b7ef296862f
+# 51f86af5b44e45b7b26af7be94ad85fe
 msgid "get"
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:131
-# 7f6c3f9970dd4698a3f7a304a938139a
+# 6a21cc8c4b91461c9368de7ff8d656fb
 msgid "Path to source"
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:131
-# 8b4df393428b4d0684caa9bccf5a7d9f
+# 658a1da3466c493e98bc99fdda55da31
 msgid "The file can downloaded from remote system|"
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:138
-# 551de4b5f2a7421c8e8b2dea5e48a36d
+# c6a4fbf1064d4f59ac6a59f46c3684a3
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:141
-# efa2748bb8b848039ef28ade40b60ae6
+# 8633c6f28ef147baa621a17bc8c3cada
 msgid "Multi server from remote area."
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:142
-# a04508cc2d874220a7161bea3471d233
+# 6bfc53c0b96c4476923b91dee923246d
 msgid "Specified file is not available error message will come."
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:143
-# f58baa5221544af0b07b6f0c81ad1f68
+# 18662a9587454a4eafb3a0c9cdb917cc
 msgid "Accessability is difficult without permission."
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:144
-# 3cc3c5d0ec2a4ed1a0353011ad2c7615
+# 9901baf9cdf5482b8f98fe2c7f1cd644
 msgid "Automatically overwrite in case of already in case of file exist."
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:145
-# 0f13604c8bda4b639c4f858ad5857f13
+# b1a58cdbd094466d8d7b5a7174b12982
 msgid "Non case sensitive."
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:146
-# ccb7585d7dea431f8149c7ad82b8976f
+# 1c1f183afd144195b6de1be7e2cb39cc
 msgid "Secrecy and security is possible."
 msgstr ""
 
 #: ../../source/sftp_dapper.rst:149
-# 7af1f423a0a64ff89c83156334fb66df
+# 19e8c40b6de542ca8357591399859059
 msgid "Solving customers most challenging technology problems and enabling their success is the SFTP mission and passion."
 msgstr ""
 

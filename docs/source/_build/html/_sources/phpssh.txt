@@ -1,14 +1,14 @@
-
 =========
 Php SSH
 =========
 
 Synopsis 
---------------
+-----------
+
                   PhpSSH has now become even easier to get it up and running. Making it much easier to auto upgrade Cleopatra via PhpSSH. Taking remote shell, for carrying out different tasks is a norm, if the user have multiple server machine's in an infrastructure.
 
  Help command
-------------------------
+--------------
 
 In this help command, the user will be discussing one such tool that was designed to eliminate the flaws in previous remote shell programs. Cleopatra topic of interest for this command is none other than the Secure Sell, better known as phpSSH. The command for help as follows
 

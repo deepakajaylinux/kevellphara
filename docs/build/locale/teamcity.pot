@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:25+0530\n"
+"POT-Creation-Date: 2015-02-01 12:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,129 +17,129 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/teamcity.rst:3
-# 3db49496f7e444f5be8e8b646ffb6521
+# d55a7414710545e8a4cfb2b6693ba349
 msgid "Teamcity module"
 msgstr ""
 
 #: ../../source/teamcity.rst:6
-# 5bdb6b5452d5478f88e65ddef8fc93b4
+# fc954566742448179c4ae071934d6d43
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/teamcity.rst:8
-# d33f41852b68441e9bc7943cc6e16e15
+# 4e83bca704ac48c78f5d59f56b7d9b20
 msgid "Teamcity is a Java-based build management and continuous integration server. This module aims to install the latest version of Teamcity server and its dependencies."
 msgstr ""
 
 #: ../../source/teamcity.rst:11
-# 486fe13bb3694762b0e9c710e57b8d31
+# 14fa21e13d024ed09ff45e3654ba1d4e
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/teamcity.rst:13
-# 347f2d873a5b42cbbee2aceb29768c6f
+# 4e2c51f82dad47fc9bb5e778b38269d8
 msgid "The help command guides the user to provide what is necessary to accomplish the task. The command to make use of help under the terminal is given as follows,"
 msgstr ""
 
 #: ../../source/teamcity.rst:19
-# 1bb6bd8ca9e84f478b5d6fe26ac9e399
+# 0a37ec567410426f88c84ab4a5ea8157
 msgid "The snapshot below gives you a pictorial representation of help command and it listed two parameters as Teamcity and teamcity. (Parameters are case insensitive)"
 msgstr ""
 
 #: ../../source/teamcity.rst:41
-# 5fa94a12eb37471aba6e41b344342d80
+# cfffed2b278543169ad140672f9ec64f
 msgid "Installation"
 msgstr ""
 
 #: ../../source/teamcity.rst:43
-# b77bff4d82ac435f90ab53ff40f92187
+# 43266f65345a4634ac2fa69deecb64c2
 msgid "The command used for installing Teamcity module is given below,"
 msgstr ""
 
 #: ../../source/teamcity.rst:50
-# 30b2fbab637a4fd3abfa054767300b3d
+# 1523b46745e14b9e8f77c4ff5803337e
 msgid "The screenshot below explains how to install teamcity module."
 msgstr ""
 
 #: ../../source/teamcity.rst:87
-# 16f6f25db1ee4bd9b8d6c78db81a9e44
+# e8eb0f8d8d26413c9b346506e827af87
 msgid "Options"
 msgstr ""
 
 #: ../../source/teamcity.rst:94
-# bf2cedaaf7e7420bbe8d1f6e1ea6f1c0
+# b51850e14cd54403989d7c08c8cf2960
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/teamcity.rst:94
-# 3006717be29b49e5bc86b7a197c11dd9
+# 5aa0c43ba73f46f196c40fb3a8c9543e
 msgid "Required"
 msgstr ""
 
 #: ../../source/teamcity.rst:94
-# 0d998a7905f445dbadd373a0f8812578
+# 4660bda995e64524bd9a7eab951c5674
 msgid "Comments"
 msgstr ""
 
 #: ../../source/teamcity.rst:96
-# acb2aad7633347e0b6f1ff3732169fe1
+# 5c4d8b33761942a3a34447946f8706b9
 msgid "cleopatra Teamcity  install"
 msgstr ""
 
 #: ../../source/teamcity.rst:96
-# a5fc4bb2438d4b6ba062b17e057c195b
+# 5fcd7ba28bf44386bc192e93379575ef
 msgid "Y(YES)"
 msgstr ""
 
 #: ../../source/teamcity.rst:96
-# 66cdf2d887774a4e8fe95ca67f435fb3
+# 28961b60bc6e46aab8cdeb7e88dc7207
 msgid "This command will install Teamcity module"
 msgstr ""
 
 #: ../../source/teamcity.rst:101
 #: ../../source/teamcity.rst:110
-# 50a322a329774b56ad47b9edde3b5d7a
-# c75ce3a7fdbe4596b33cfc28a29b8a02
+# 92571ae167064ca7b1b66468e1edacce
+# 37cca8c3bb3d4c6e91222b4341af0cb2
 msgid "Install Teamcity ( Y/N)"
 msgstr ""
 
 #: ../../source/teamcity.rst:102
-# c552f03ddec34ed49ff723555abd0597
+# 23fa677d70f44bd4845a9aaba67a07e5
 msgid "Y"
 msgstr ""
 
 #: ../../source/teamcity.rst:101
-# ed06df3ba0474f34a5aab20d912e5a44
+# 12166c43b4e34ee1b88cd9512b427a8a
 msgid "If the user inputs Y, this module checks for supporting requirements for Teamcity if exits it was updated to the new version or else it installs the fresh package with supporting requirements."
 msgstr ""
 
 #: ../../source/teamcity.rst:110
-# a3924155da744041af7d1f5ec0cb15ea
+# c2ab943024d74800a0b93162d6f01c7e
 msgid "N"
 msgstr ""
 
 #: ../../source/teamcity.rst:110
-# 61f547d67b194c1290e4a21ba1be713d
+# 3704b9ba144549a38cf32196bffe6de0
 msgid "If the user inputs N, the installation was aborted.|"
 msgstr ""
 
 #: ../../source/teamcity.rst:115
-# e10d2cd580bc4d6d956471d60faacd78
+# 91608c5da32d40b892975caaf64f3160
 msgid "Benefits to the users"
 msgstr ""
 
 #: ../../source/teamcity.rst:117
-# a98913730061494ca03671f384b13b95
+# f65fe7fd15f0441a841d8834da4b4b63
 msgid "Installs all supporting requirements to run teamcity server in an efficient manner"
 msgstr ""
 
 #: ../../source/teamcity.rst:118
-# 4cc01d067b744c1f9b41e98fe3a879dd
+# 4152363b2913403d896eb32097570f32
 msgid "Ease use of access and installation"
 msgstr ""
 
 #: ../../source/teamcity.rst:119
-# 79a6cf037cc744758ba5a03e812a8527
+# 7ae8c2ad51e148498d69a1c75dcf9113
 msgid "Coding is case insensitive."
 msgstr ""
 

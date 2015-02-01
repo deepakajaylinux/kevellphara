@@ -3,12 +3,12 @@ Process
 ==========
 
 Synopsis
-------------
+---------
 
 This module assists the users in handling a required process functions, and also to kill a process. The user can specify the particular process based on their requirements. The user can specify the name of the process, the file or directory either from local or in a remote machine. Let us see, the usage and methodologies involved in it.
 
 Help Command
-------------------
+--------------
 
 The help command serves the users regarding how to handle and to work with process as per their needs. It also lists out the alternative parameters of process. It describes the syntax for killing a process, and also about how to specify killing a process on the basis of their needs. The help command for process module is shown as below.
 
@@ -19,13 +19,14 @@ The help command serves the users regarding how to handle and to work with proce
 The following screenshot as shown below, depicts how to kill a process, and how to define killing a process.
 
 How to define and to use the process
-----------------------------------------------
+-------------------------------------
 
 To kill a process the following syntax can be used.
 
 .. code-block:: bash
 
 		cleopatra process kill
+
 or
 
 .. code-block:: bash

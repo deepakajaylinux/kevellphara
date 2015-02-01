@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"POT-Creation-Date: 2015-02-01 11:34+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -108,32 +108,32 @@ msgstr ""
 msgid "If the user wish to install the testingkamen without depending and using the cleopatra they can use the following command:"
 msgstr ""
 
-#: ../../Testingkamen_main.rst:84
+#: ../../Testingkamen_main.rst:85
 # c6c4695ef9a14899acfb04839ad6b5e6
 msgid "or"
 msgstr ""
 
-#: ../../Testingkamen_main.rst:86
+#: ../../Testingkamen_main.rst:87
 # 15571c01a2fc4d4c95326284b346dd99
 msgid "The below command is predictable for the users who wish to specify the location during installation."
 msgstr ""
 
-#: ../../Testingkamen_main.rst:93
+#: ../../Testingkamen_main.rst:94
 # c6504bbcdcb343a7b46769058c1ddcac
 msgid "How to Use and Available Modules"
 msgstr ""
 
-#: ../../Testingkamen_main.rst:95
+#: ../../Testingkamen_main.rst:96
 # a8676e38a1454e739f978fc5c62add76
 msgid "Let us see, how to use the Testingkamen tool, first, simply type as"
 msgstr ""
 
-#: ../../Testingkamen_main.rst:101
+#: ../../Testingkamen_main.rst:102
 # 227e4b2b4438429db59653af674c7b4a
 msgid "this command will list all the names of the modules that are available under Testingkamen. The following screen shot depicts that visually."
 msgstr ""
 
-#: ../../Testingkamen_main.rst:138
+#: ../../Testingkamen_main.rst:139
 # 7cd06fc65cdb4851bb09be74e746c49f
 msgid "Playing with Testingkamen Modules"
 msgstr ""

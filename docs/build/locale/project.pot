@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:25+0530\n"
+"POT-Creation-Date: 2015-02-01 12:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,97 +17,97 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/project.rst:3
-# 22e5a8d6d2e7476fb97615eb400c4372
+# 560def22b17047e58bee6ea6abc1dd93
 msgid "Project"
 msgstr ""
 
 #: ../../source/project.rst:6
-# 13836f956ee3437b8312f7ccf46b8169
+# 29bf22b325604fabba2d6ca43a55c770
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/project.rst:8
-# 0a98128348024c12a7e1cf7d39113844
+# dbc3ad3da60740aeae2ec48c02d4728f
 msgid "In contemporary business and science a project is defined as a collaborative enterprise, involving research or design, which is carefully planned to achieve a particular aim. Projects can be further defined as temporary rather than permanent social systems or work systems that are constituted by teams within or across organizations to accomplish particular tasks under time constraints. An ongoing project is usually called (or evolves into) a program."
 msgstr ""
 
 #: ../../source/project.rst:10
-# b3f21150351d49f5a01f67958ba1c92c
+# 7b6a52b72ded403da89d7c129342f899
 msgid "This command is part of default modules and handles project initialization functions, like configuring a project, or a project container and also installing Jenkins build files into a running Jenkins instance."
 msgstr ""
 
 #: ../../source/project.rst:13
-# f2ad3bf0759741fd83b776c23aa989c0
+# 451e87cf1e374b4f94f524b9afaf6dae
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/project.rst:15
-# 81d1d3d37c0f47c3a4007c7a618520e9
+# 018c2b11d39b454ebb2f2989f0b52054
 msgid "This command helps to determine the usage of project module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screen shot of the same."
 msgstr ""
 
 #: ../../source/project.rst:57
-# deeaf976fea648e087197f7307f7f504
+# 0223d3a1eb32434f82c0819e28423ea3
 msgid "Container"
 msgstr ""
 
 #: ../../source/project.rst:59
-# 691f8ec188064a7fb7a7cf85a95a3291
+# b738ee19226d42268060c51572cdafaf
 msgid "This command helps make a container folder for revisions (like /var/www/applications/*APP NAME*). When the user needs to install, the user can issue the following commands for DBIstall. The system will execute the process of installation."
 msgstr ""
 
 #: ../../source/project.rst:87
-# 89ec25998c30466dbc7e38c6b96d44a2
+# 6cee621697884f5cbd462c47246ba312
 msgid "init"
 msgstr ""
 
 #: ../../source/project.rst:88
-# 65f4a7910611439684b78c3b4fd9e836
+# dc34d8afc350498bae2235af3740b46d
 msgid "When the user needs to initialize dapper project, the user can issue the following commands. The system will execute the process."
 msgstr ""
 
 #: ../../source/project.rst:111
-# 89e324a310a541728d980e1146b61779
+# 36388db28be0405594336e068e22439c
 msgid "Build-Install"
 msgstr ""
 
 #: ../../source/project.rst:113
-# a544a1babb9944f9a6026b9d3e702f05
+# e7f2f5e233f74b46b99a43816e711b50
 msgid "When the user needs copy Jenkins project stored in repo to running Jenkins, the user can issue the following commands. The system will execute the process."
 msgstr ""
 
 #: ../../source/project.rst:120
-# ffc80e598b4b4c18a18e4672d66ff915
+# 112f7d8746a643f1ad94decf8f21d0a2
 msgid "Alternative Parameter"
 msgstr ""
 
 #: ../../source/project.rst:122
-# dcc6c5112cab473186eacc9f5df0b0d1
+# 6141860b2aa64c589ad51b20f31431bb
 msgid "There are two alternative parameters which can be used in command."
 msgstr ""
 
 #: ../../source/project.rst:124
-# 6c2de9ef3441405b895a0fd5eba411ca
+# 8bdae1f0d7554f1688ed3853a459664f
 msgid "Project, project and proj"
 msgstr ""
 
 #: ../../source/project.rst:126
-# 9ae9d8e9da17465eb6180e3a2d673d41
+# 29996b69fa644733afa6f3cb420ce6f3
 msgid "eg: dapperstrano Project help/  dapperstrano proj help"
 msgstr ""
 
 #: ../../source/project.rst:129
-# 803a59bd0d4a474fa578aa517abbad6a
+# bf6b8ee87a2f4acfa97cea0fe51e3517
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/project.rst:131
-# bbb41d6debfd40808d12b21618e0bbec
+# fc1b5c3a5c6047faa3341e7415321d19
 msgid "Helps make a container folder for revisions"
 msgstr ""
 
 #: ../../source/project.rst:132
-# c3716493c28b4a9b99b1d384106f0c84
+# 286ea35731f7413fa73483d21fdbfb7d
 msgid "Helps to initialize dapper project"
 msgstr ""
 

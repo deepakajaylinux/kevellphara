@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"POT-Creation-Date: 2015-02-01 11:34+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -64,66 +64,59 @@ msgstr ""
 #: ../../jetty.rst:56
 #: ../../jetty.rst:61
 # 6369ed251bac4399ae82ac5e77145f68
-# f9a3d9a2d0314c1492a0ea74e1a11633
+# 772341dbadd9466ead455ecbf81f84c4
 msgid "Options"
 msgstr ""
 
 #: ../../jetty.rst:61
-# 2eb204115c85453ebc7fc206e8279cb6
+# e1443e22648345b89832c76dafb1299b
 msgid "Parameters"
 msgstr ""
 
 #: ../../jetty.rst:61
-# 87ecc292cdb442d48f580e43a2395f1e
+# 9c356a0218b24decb5da64aa435e75be
 msgid "Alternative Parameters"
 msgstr ""
 
 #: ../../jetty.rst:61
-# 4e1198daba4a4c6d862dd20ad2a5aeb1
+# ffb54f909a174d919d8c698e37e12418
 msgid "Comments"
 msgstr ""
 
 #: ../../jetty.rst:63
 #: ../../jetty.rst:68
-# b3e9e196b0464aefa8eaa2788bf94bd8
-# 723719c7723b425284dedaae074c184f
+# 24d85253e4524f13b988419480eb1186
+# 72082db5727b4db5babe8b8d2551a26f
 msgid "Cleopatra jetty  Install"
 msgstr ""
 
 #: ../../jetty.rst:63
-#: ../../jetty.rst:68
-# 3c4c672645324acb82b5c5f57511b7cf
-# 0b9181b8b660470ab0f69619e134893a
-msgid "There are two alternative parameters which can be used in command line. Jetty , jetty Eg: cleopatra jetty install/"
-msgstr ""
-
-#: ../../jetty.rst:66
-# 980a144486774a78bb4b9e9b488dcb01
-msgid "cleopatra Jetty install"
+# c7490988fd5b46eb9de7f457dc48ac64
+msgid "There are two alternative parameters which can be used in command line. Jetty , jetty Eg: cleopatra jetty install cleopatra Jetty install"
 msgstr ""
 
 #: ../../jetty.rst:63
-# 047c70a611334f1aa6d2bbe98fddd1fe
+# a6407b0c16414ce9addacf8a145a5771
 msgid "Y"
 msgstr ""
 
 #: ../../jetty.rst:63
-# 75995cf28e024058a5b97c03b9534bce
+# 78b87bf5e6904b25b159d0f77717dc81
 msgid "System starts installation process"
 msgstr ""
 
-#: ../../jetty.rst:71
-# 13657eafc9444cc3bc01586c91d975b0
-msgid "cleopatra Jetty install|"
+#: ../../jetty.rst:68
+# c7490988fd5b46eb9de7f457dc48ac64
+msgid "There are two alternative parameters which can be used in command line. Jetty , jetty Eg: cleopatra jetty install cleopatra Jetty install|"
 msgstr ""
 
 #: ../../jetty.rst:68
-# 6f3ffc633ddc4618b9b3668a6c144940
+# 0d457ca64c764a8998b412697ce9bd22
 msgid "N"
 msgstr ""
 
 #: ../../jetty.rst:68
-# 7574c225f9da4513ba4a251506774bd7
+# 848e6fa11d5d42d8ac4365c932a703b7
 msgid "System stops installation process"
 msgstr ""
 

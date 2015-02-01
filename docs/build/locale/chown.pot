@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:25+0530\n"
+"POT-Creation-Date: 2015-02-01 12:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,131 +20,131 @@ msgstr ""
 #: ../../source/chown.rst:79
 #: ../../source/chown.rst:84
 #: ../../source/chown.rst:86
-# 4eb8c70ef640418f8926ef7bf1a4c745
-# f4936fb8b6c64d808c68f5509f8e42a0
-# ad5a688fe5634cb0bd1809b3eb4ba843
-# 017e16c4d5fe4b3f8d7d153324e9f22e
+# 746da0274c1e45f0961c503449b3b96c
+# b228cb79f6464897a93d11675e91cfc8
+# 905c0116cf484b279aaf2eb28322e704
+# 454802b5ae7f4c0880daa0c7d4590c3a
 msgid "Chown"
 msgstr ""
 
 #: ../../source/chown.rst:6
-# 7a1159067e844063913ed079f75660e3
+# 352f6460dbc046bfb6377e0e44916542
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/chown.rst:8
-# 25d2a0141dcc40a9a7629a9218e31bdf
+# cfde4feadf2147e5be758e4d1b09a895
 msgid "This module enables to change owner’s permission. It can change the permission on individual file Or directory. Before that you must be aware of the default permission assigned to your files and directories at the time you create it."
 msgstr ""
 
 #: ../../source/chown.rst:11
-# 62de1464306544b0addc8fb69668aa3b
+# 12fb10eab9c14409b23ef0adbe242125
 msgid "Help command"
 msgstr ""
 
 #: ../../source/chown.rst:13
-# 0445e08dd1d64749b062a804df49b8b2
+# ef629b51ed224b6289a3e91f5f1ba3ea
 msgid "This help command explains about the installation of a particular module. The help command is easy to operate by the end user. It also lists out the alternative parameters that are used in declaration. The following command guides the user about the handling this module."
 msgstr ""
 
 #: ../../source/chown.rst:19
-# 30a9f775b52e4b728c40a89130ac3206
+# d8a747b86c864f878e0c689e28e91fc4
 msgid "After giving the command, the command will list the help options. The following screen shots will give visual effect for the usage of this module."
 msgstr ""
 
 #: ../../source/chown.rst:40
-# 89c4559e6ad34dca94b19fd123623c76
+# 245e0701f27a499e82e25fa4b7e3e263
 msgid "Installation"
 msgstr ""
 
 #: ../../source/chown.rst:42
-# 62180c6b71d44b8097e21e9d00f4ab0c
+# cbd4b1bb11a74cba86120ace4f06f448
 msgid "It is an excellent process for this module under Cleopatra by slightly using the command given below,"
 msgstr ""
 
 #: ../../source/chown.rst:48
-# 9bb67e3587e049dd86c0be5cd3dc3375
+# 913fe5c6d7e446c88035ebb2a8698d63
 msgid "Then we can enter the input. Enter Ownership User After typing the owner name It will display Chown result success."
 msgstr ""
 
 #: ../../source/chown.rst:54
-# 5f4b91dba94c4675bd65062019d380c7
+# 72fdbdc8534b4a879dfe70d747d6961d
 msgid "This is Visually shown by the following screen shot."
 msgstr ""
 
 #: ../../source/chown.rst:77
-# 85f1913c5eb04f138c30f8290c6e3e9d
+# 26f8af77af884b5bbeded81baf45c16e
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/chown.rst:77
-# 1cd0cee58fd9465da2fb69ac80804d80
+# e1566f3ecc534db99d8ea9c003806753
 msgid "Required"
 msgstr ""
 
 #: ../../source/chown.rst:77
-# 22bc7f262db241de9225ad209b1e7f44
+# eb02061204ec4a73804c6ce5b440547e
 msgid "option"
 msgstr ""
 
 #: ../../source/chown.rst:77
-# 488ccf41e0334e11961dd5fb1929c2ef
+# 2069e69824c04e3a8f0e50c3cecc12b3
 msgid "Comments"
 msgstr ""
 
 #: ../../source/chown.rst:79
 #: ../../source/chown.rst:81
 #: ../../source/chown.rst:84
-# 35425d2b34c74862ad0fb8e9726b1521
-# 71a8f4d09b894e2ba3fe40e1c75c284f
-# 50080e3a86b8483f91bdc5bddeb0a019
+# 25bc301644a7414ab009651b22c5ccd9
+# 6ec0ef2d3f2a48ea9b11131fcabb37ed
+# b282fd0c07b74d7fa902fcaf2ef526ec
 msgid "Yes"
 msgstr ""
 
 #: ../../source/chown.rst:81
-# c1a0cf509d744d38b289a9034fd1c5ab
+# 4f8bdb5e0093456db66770d283c1f160
 msgid "Path"
 msgstr ""
 
 #: ../../source/chown.rst:81
-# a391ff7c85124afd862a99ae21ec9eeb
+# 2da19547257049bca39c96429ccd18d9
 msgid "The user has to give the path"
 msgstr ""
 
 #: ../../source/chown.rst:84
 #: ../../source/chown.rst:86
-# 83628ee795904c3395e13274e3700d2a
-# ad54c838c5b648eda0004c59eaff2d32
+# 5d3952479105472a80fe3f6719203bc0
+# e52c24b9e33f45a687db87edffe3d39f
 msgid "Owner"
 msgstr ""
 
 #: ../../source/chown.rst:86
-# 7c5a9c6ae1ff4f9e80780546e9fb6708
+# 09535479c1464e0c9d83356c380acd18
 msgid "No"
 msgstr ""
 
 #: ../../source/chown.rst:86
-# 37e663a15a81440a9f7a256d388556a7
+# 0a6896b32c7744d485d72cf4d4034894
 msgid "The user gives input as no, it will ask the owner name|"
 msgstr ""
 
 #: ../../source/chown.rst:93
-# ec659f1f11454da28fe40ccaa096c1d4
+# 02ee2fcf8743498fb8477afcd51c5197
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/chown.rst:95
-# 019ace1cb0f34e85aaabc0f35f22b54c
+# b1fb875d23034d759f3a6a3f72f78390
 msgid "The module can change the owner at any time with Cleopatra."
 msgstr ""
 
 #: ../../source/chown.rst:96
-# 6b6d598fbce244df924095815bc4e8f8
+# 16b40e304d4d422cacd96e7a9f1098ee
 msgid "While doing recursive process if you change single file the entire folder can also be changed."
 msgstr ""
 
 #: ../../source/chown.rst:97
-# b3d2d48a5c8f41c2be5c918dbcc9bb01
+# 5009c2afea90436f97aa6a46dcaa84a8
 msgid "We can verify the current status of the owner."
 msgstr ""
 

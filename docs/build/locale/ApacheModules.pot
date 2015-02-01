@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:25+0530\n"
+"POT-Creation-Date: 2015-02-01 12:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,126 +17,126 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/ApacheModules.rst:2
-# 1f484b229b18437dbf49be1131ea4d57
+# 2cbc6aae5fb24336b10ec5988e09fdd0
 msgid "Apache Module"
 msgstr ""
 
 #: ../../source/ApacheModules.rst:5
-# bc07ef12d3fd4dbeb275812f12bdf301
+# e586d41243674633b35ecc296fb1c3aa
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/ApacheModules.rst:7
-# 7e46ab57d23a49fca850e8e5e4507a25
+# 8c651b523005404e9c6c14579e2e8795
 msgid "This module facilitates to install the Apache modules. It specifies the configuration of your environment. The checking availability of modules is possible. It is comfortable in Ubuntu as well as in Cent OS."
 msgstr ""
 
 #: ../../source/ApacheModules.rst:10
-# 57861d79889d4c26ab12121e187308dd
+# 9fedff40af9d474ea713ade8d87cea2c
 msgid "Help command"
 msgstr ""
 
 #: ../../source/ApacheModules.rst:12
-# fead6f8bbf3946b58d511ae741b34723
+# 26df1ebb2db746629534ee85c23ccc6a
 msgid "This help command explains about the purpose of a particular module. The syntax for installation is depicted under the help command. It also lists out the alternative parameters that can be used for declaration. The help command is easy to operate by the end user. The following command guides the user about using this module."
 msgstr ""
 
 #: ../../source/ApacheModules.rst:18
-# fa28ca714fa8417f8ec1902741f04d6c
+# 650f2067940d46fa8bfe23744b23d1ca
 msgid "After giving the command, the command will list the help options. The following screen shots will give visual effect for the usage of this module."
 msgstr ""
 
 #: ../../source/ApacheModules.rst:40
-# 0cd19111e7914ae49cf415fc47ce3c60
+# 1248b734adc74193aac35d83b073e938
 msgid "Installation"
 msgstr ""
 
 #: ../../source/ApacheModules.rst:42
-# c271c800057844a883db920740c96d73
+# bdbdcf54b3894f399045ac59a77a5435
 msgid "Installation is not a difficult process to install this module under Cleopatra by merely using the command given below,"
 msgstr ""
 
 #: ../../source/ApacheModules.rst:48
-# f11bb1ea04e644c5b5cd2876d704f719
+# c87445abccbe4a1895ecc492a65c6ee9
 msgid "After giving the command it will ask,"
 msgstr ""
 
 #: ../../source/ApacheModules.rst:57
-# e9a6fee3225d4458b040925ee50b5a00
+# 15bfa8d7628d47a19a493146d1373ed7
 msgid "The following screen shots will give visual effect for the installation of this module."
 msgstr ""
 
 #: ../../source/ApacheModules.rst:150
-# bd2af5cc548b4596a51e6935df85360f
+# 2310494f2978491283afbc307ee4bfc6
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/ApacheModules.rst:150
-# d23a8844fb0d441698d5044ac4267617
+# 717503cf28094ed2b96b04c6bd6e9417
 msgid "Required"
 msgstr ""
 
 #: ../../source/ApacheModules.rst:150
-# 6cee181edce043218f37d65ff202305c
+# b18f320277a14173a0259789f77c4a75
 msgid "Comments"
 msgstr ""
 
 #: ../../source/ApacheModules.rst:152
-# d528d5e88ec9415b89d74e791af56c94
+# fa9784fe845b4947b00e5ab8987bc31d
 msgid "Install"
 msgstr ""
 
 #: ../../source/ApacheModules.rst:152
 #: ../../source/ApacheModules.rst:154
-# 53609266ea7e48db98346cbb7f223527
-# e28a14225ac948bf8cdc5e8e730023c1
+# b88461d47daf4a0aad1cd96204dfbc81
+# 58413e114eea4622bceda6e5240146d4
 msgid "Yes"
 msgstr ""
 
 #: ../../source/ApacheModules.rst:152
-# bfefbe1e066c42b2875125decc84443b
+# 3c8ecec7831f4c9281ed158841a1d6ce
 msgid "It will install the apache module under Cleopatra"
 msgstr ""
 
 #: ../../source/ApacheModules.rst:154
 #: ../../source/ApacheModules.rst:156
-# 3b952f1eaf7848c9b4c9b8885f71fbff
-# e5b2e8056e8f4c56810db4f5287e1b2a
+# 79e308e05fae4190a57d10c67087f474
+# 8f21e1429a4e47569edd65b88bbb4a4d
 msgid "Install Apache Module? (Y/N)"
 msgstr ""
 
 #: ../../source/ApacheModules.rst:154
-# 92e311c6494346e8886b9c23517854b8
+# a56d563c8264487e9bc0144f2d3e3ae4
 msgid "If the user gives input as yes, it will install the module."
 msgstr ""
 
 #: ../../source/ApacheModules.rst:156
-# d29c5d7dd4d9490b93e7315ab9b3a924
+# d4c1387e71b94a538d10482962a5a707
 msgid "No"
 msgstr ""
 
 #: ../../source/ApacheModules.rst:156
-# 2f1b01b0d2fe48bf9a494aace7c6831d
+# fe5f6d2efa2a409298725fc8a1281b16
 msgid "If the user gives input as no, it will be exited.|"
 msgstr ""
 
 #: ../../source/ApacheModules.rst:161
-# 6aa4e117e9084ef599103b0909d32158
+# c58e917012e64b56b5e6a717f2f539c4
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/ApacheModules.rst:163
-# 4ca5bc7a7810440d8c8074d0429e9bc9
+# 7004b98af56a401cab2ee9d0790ecf6b
 msgid "The module is an aid to Link with Cleopatra."
 msgstr ""
 
 #: ../../source/ApacheModules.rst:164
-# 34f2023dd5fe4e20ab62f43bfb349f33
+# 460ed485ebf4430c80da95d01db57c21
 msgid "While installing the Apache modules, it will acquiesce the configuration files."
 msgstr ""
 
 #: ../../source/ApacheModules.rst:165
-# 39645139d29d48359f675863e687e354
+# dccc2e8bccb74c49b778284fcd1dcf8e
 msgid "If the configuration files are not available in the system this module will automatically install it."
 msgstr ""
 

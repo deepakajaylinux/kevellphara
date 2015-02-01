@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:25+0530\n"
+"POT-Creation-Date: 2015-02-01 12:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,87 +17,87 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/cucumber.rst:3
-# 755065d099d7430f826b4aa86b17662b
+# caa973e90b6e4f4c9b6976ef144dde23
 msgid "Cucumber"
 msgstr ""
 
 #: ../../source/cucumber.rst:7
-# acaabca1870249c3aaf9992677d28ae3
+# ada502d656c644cc9d2211eafc966506
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/cucumber.rst:9
-# db340bc6ca9a4fe5a31f82c8dc2994bb
+# 8e25f825643949bfa2d342da0f34ab5b
 msgid "This module assists the user to initialize and execute the cucumber test suite. Let us see how initialize and to execute the cucumber test suite in the upcoming topics."
 msgstr ""
 
 #: ../../source/cucumber.rst:12
-# 3958f2161c3c4b6785db34611052cf5c
+# 21530b124b634250be4994d1abd62be5
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/cucumber.rst:14
-# f898c643c67646f3a67faebb21b48c97
+# 297a191079db402e8cb3ef79190f42e6
 msgid "The help command guides the user regarding the purpose and options available under a module. It lists out the alternative parameters that are used in declaration. It describes the syntax for initialize and to execute the cucumber under the testingkamen. The command used for declaring help is shown below:"
 msgstr ""
 
 #: ../../source/cucumber.rst:20
-# ed5c982b728b44ec811e45586d5642d7
+# 4540f9b43f4d4769a8677fc97887beef
 msgid "The following screen shot depicts pictorially about the working of help command."
 msgstr ""
 
 #: ../../source/cucumber.rst:47
-# 11e541876ba24c81afaa8d4155e591c0
+# 8e6b6e97926a4ceab844140acf0b2159
 msgid "How to initialize cucumber"
 msgstr ""
 
 #: ../../source/cucumber.rst:49
-# 0609efa8efcb4b27bf6f846e2a4ed329
+# 5567a4c64ff541dca3e8b14e058a6c3b
 msgid "The command used for initialize the cucumber under testingkamen is shown:"
 msgstr ""
 
 #: ../../source/cucumber.rst:55
-# e2563a37b65f4fec806587dd33c289a3
+# f4950d4102994e7fb3d46d6616e6c103
 msgid "or"
 msgstr ""
 
 #: ../../source/cucumber.rst:61
-# 0ed7241f29684f5f90b10e773ca90f2f
+# 6d54250e46ae440da96ad38ec23bbe50
 msgid "After inputting the command above, the process of initialize occurs as depicted in the below table."
 msgstr ""
 
 #: ../../source/cucumber.rst:67
 #: ../../source/cucumber.rst:136
-# 402e363c2cca4e5fa1414560cb5156e6
-# 42987120b91b47d69663218da41d6170
+# 2b3789143a4f4021b63169d5a26656c2
+# 6122a30b784942d4a37e0cadaf50f05b
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/cucumber.rst:67
 #: ../../source/cucumber.rst:136
-# 550803d7053d41819085dbded3267c3b
-# b84559b813d34d6fafc6697404c73c82
+# fdeacaa609ba4671ad2e8712a75924df
+# d3d1b9bc717046a28c663d554a9fa4e7
 msgid "Alternative parameters"
 msgstr ""
 
 #: ../../source/cucumber.rst:67
 #: ../../source/cucumber.rst:136
-# d363797db1e642369f05def5dc7f4091
-# 746e1e30bb77426eba812d2daf1c38e4
+# 0a1ddcdb3fca48699e4b153aa7b46aeb
+# 6407b98c3a0f45d8a1360a5517ec6f6c
 msgid "Options"
 msgstr ""
 
 #: ../../source/cucumber.rst:67
 #: ../../source/cucumber.rst:136
-# a67993e14cc54fc3b01045c3b2287555
-# 79476acc0ffa484abb09f7e76ccd2474
+# 45b6fe53226f41109c1be29e8acb98fa
+# 2cd5ea5d0a24447590537a3b6aa2ecc4
 msgid "Comments"
 msgstr ""
 
 #: ../../source/cucumber.rst:69
 #: ../../source/cucumber.rst:72
-# d805c5c6b31c4a40aafbdead26d26cc1
-# 816aee11795f438faf6929cfb39388e9
+# a79a05ab5c8f44158034fea5dcfa7b00
+# 62e4d8be9b254ccf9c08eea179201510
 msgid "Initialize Cucumber? (Y/N)"
 msgstr ""
 
@@ -105,96 +105,96 @@ msgstr ""
 #: ../../source/cucumber.rst:72
 #: ../../source/cucumber.rst:138
 #: ../../source/cucumber.rst:141
-# c840745c9d4d432fb7b9bf2efc4b4f66
-# d79abdba6a474348a7ff0cd76f6eb5c6
-# 789dbf7c0b19442ab9a4d288c8ff8769
-# 05e16d4e3aa049d3b838a5a7b7e6dd7e
+# 1e032d1b2306462681f2b44960eaa4d9
+# e0cd692b2ccb4d989e7ba2be8dc25bcb
+# c0869ce99ea1401eae6111c1e40596d8
+# da534c65f3cf4ba6afd0dcca1e842929
 msgid "Instead of Cucumber, we can use cucumber also."
 msgstr ""
 
 #: ../../source/cucumber.rst:69
 #: ../../source/cucumber.rst:138
-# c074856059e14b7c8064c5fa63585589
-# abc40155bc384d67a31adf41737b2606
+# 01e217a11c4f479c9457e8bb590665fd
+# 0aededbf95194e7f93400732392b1fd6
 msgid "Y(Yes)"
 msgstr ""
 
 #: ../../source/cucumber.rst:69
-# a4306a491aa24b9490c045fba559ce26
+# 021a081f28894ae5b92b94d3692043e0
 msgid "If the user wish to proceed the init they can input as Y."
 msgstr ""
 
 #: ../../source/cucumber.rst:72
 #: ../../source/cucumber.rst:141
-# ee3416d4612a4d2399543deb132b6c1d
-# 4f01fe212c4049f78a35bb6c6a51d8a2
+# 1e46f52ea0f84d7fb470a61986872285
+# 7acedd083cb1432ea36a34c1ccedc5d2
 msgid "N(No)"
 msgstr ""
 
 #: ../../source/cucumber.rst:72
-# 886b7d007bbb4949b8030e809e6acaa5
+# b1bc5e53266b46d980bbfd4e97a04884
 msgid "If the user wish to quit the init process they can input as N.|"
 msgstr ""
 
 #: ../../source/cucumber.rst:79
-# 4406aff6c589432d974d3c80db620b77
+# 43f163bffb0b4bbebcd97a4a815f2d83
 msgid "Finally the testingkamen cucumber gets initialized as shown in the following screenshot."
 msgstr ""
 
 #: ../../source/cucumber.rst:120
-# f1a5e8913f9048ecac158754312f60cf
+# 9f4b7954c3884a44bc74fb51772391c2
 msgid "How to Execute the Cucumber"
 msgstr ""
 
 #: ../../source/cucumber.rst:122
-# bb926201afe7457fb9920ab163d19708
+# a32d68cf00814faeb1736d769e4d813d
 msgid "The command used for executing the cucumber under testingkamen is shown:"
 msgstr ""
 
 #: ../../source/cucumber.rst:128
-# 0a7bb3ec4bd14f5287fd1e66f1974af4
+# d0e18e3b9ab347ada6fbb740a34c1e9a
 msgid "After inputting the command above, the process of execution occurs as depicted in the below table."
 msgstr ""
 
 #: ../../source/cucumber.rst:138
 #: ../../source/cucumber.rst:141
-# 60773c1a1c8142029725b61ffaea450e
-# 98e0497081a14b118e93e8d00907aafb
+# f881c08569cf40e8b615e30a745a8c98
+# 760faacb17b941ecb4fa4288c5b4e90e
 msgid "Execute Cucumber? (Y/N)"
 msgstr ""
 
 #: ../../source/cucumber.rst:138
-# d792e7479b174b4e8eafa548c872865a
+# 74412478edc34f25827c5bae5fb91256
 msgid "If the user wish to proceed the execution they can input as Y."
 msgstr ""
 
 #: ../../source/cucumber.rst:141
-# b008a6ed4b5a4c9ab039b4e7b2b7ff75
+# 350592ea350244548e909b5060c40b32
 msgid "If the user wish to quit the execution process they can input as N.|"
 msgstr ""
 
 #: ../../source/cucumber.rst:148
-# 7e743026dfcd43279a346536747d824e
+# 99e26259bc2148109b9711a541ca07b1
 msgid "If the user proceed the execution, the process of execution will occur as depicted in the following screen shot."
 msgstr ""
 
 #: ../../source/cucumber.rst:153
-# fac2460391154d19a1985f91ef1a0c27
+# 397a686ea54b495ba630d339336f470e
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/cucumber.rst:156
-# 69dbbf14f9c84c769435ab7eb47f38a8
+# 93cee3621e3c405a8eec2b56bd8f79b8
 msgid "It is well-to-do in both cent OS and as well as in ubuntu."
 msgstr ""
 
 #: ../../source/cucumber.rst:157
-# 3e73f927c2dc4eed848b090c41328487
+# d71bfea314424eabbc9cb8a204c50743
 msgid "The parameters used in declaration are not case sensitive which is an added advantage while compared to others."
 msgstr ""
 
 #: ../../source/cucumber.rst:158
-# d3731f2e72374b5486c8848320cab948
+# 39819b052fda4b6f910c6186880cbec7
 msgid "This cucumber allows the users to initialize and to execute the cucumber test suite."
 msgstr ""
 

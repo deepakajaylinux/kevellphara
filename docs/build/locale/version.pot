@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:25+0530\n"
+"POT-Creation-Date: 2015-02-01 12:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,97 +17,97 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/version.rst:3
-# 245170d4ade44194b2bdb13d0bf92ec5
+# d68658cbc4004ceda00d2265dc011bb1
 msgid "Version"
 msgstr ""
 
 #: ../../source/version.rst:7
-# a6d9e3230ed34a4295b42d50417b99cd
+# bb2f918ca0b54b068cc050bb8d59aad0
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/version.rst:9
-# a3164db188794adbb94161d6136350e0
+# e53522ba88d0493ea3cbb010262a37de
 msgid "This article is about the term \"version\" as it is used in various contexts. Software versioning is the process of assigning either unique version names or unique version numbers to unique states of computer software. Within a given version number category (major, minor), these numbers are generally assigned in increasing order and correspond to new developments in the software. At a fine-grained level, revision control is often used for keeping track of incrementally different versions of electronic information, whether or not this information is computer software."
 msgstr ""
 
 #: ../../source/version.rst:12
-# ff72c34d01344cb4919944da4790b24c
+# 0d6c2d9620cd4d2fb423b4e2a40898b2
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/version.rst:14
-# d143db38bd6842739c63807e7f40facc
+# 76fc26df09a94bddbb2f7823e8b5db73
 msgid "This command helps to determine the usage of version module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screen shot of the same."
 msgstr ""
 
 #: ../../source/version.rst:20
-# d3d616f03eab4ec5b9075c13f0fe8b78
+# bf9efd83cfff43a68cac23cbccdc8412
 msgid "The pictorial representation of the help command is listed below,"
 msgstr ""
 
 #: ../../source/version.rst:47
-# c6e72d6366754c00b3bbaa21f5f2b508
+# a83731937de44f3bb9a5736448bf1604
 msgid "Available"
 msgstr ""
 
 #: ../../source/version.rst:49
-# 2bb1fbfbe5414abf9d66bd675810df02
+# fbdbbb75a758460d93d9c9553deaf161
 msgid "When the user needs to know about the available joomla version, the below given command will execute the process of installation."
 msgstr ""
 
 #: ../../source/version.rst:56
-# cc0335fdc09243e98f6a923e12535eef
+# ce36fef78cad4050b0ec7708f9b21399
 msgid "The pictorial representation of the screenshot is listed below,"
 msgstr ""
 
 #: ../../source/version.rst:84
-# 57a8eaa2f98346b687f1716df5910d6e
+# b242e159ed2f4d1b97efd3bc24e7e412
 msgid "Current"
 msgstr ""
 
 #: ../../source/version.rst:86
-# ff85a27484e745b8bf24fdfdcf137f72
+# 35eec7c0d1be4117b02436a30f4c136c
 msgid "When the user needs to know about the current joomla version, the below given command will execute the process of installation."
 msgstr ""
 
 #: ../../source/version.rst:92
-# 85fbcb6c95fe4d509b649410b6993e90
+# 904e6ef803834126956b348c1c98c910
 msgid "The pictorial representation of the above command is listed below,"
 msgstr ""
 
 #: ../../source/version.rst:146
-# 69f2b1e2b5f54cd8a05630c3860e10a4
+# 75dd0048ee3d462ab5773d05c1c7aa29
 msgid "Alternative Parameter"
 msgstr ""
 
 #: ../../source/version.rst:148
-# 33ee6a0f9b3a43d4b090c0afc977027b
+# 34bdcb220ea54859a98a90dbada8f2d8
 msgid "Either of the two alternative parameter can be used in command-  jarticle, JArticle"
 msgstr ""
 
 #: ../../source/version.rst:150
-# 7ad3549f11294a3f82fb63141cbc2703
+# 76ec0bb169004ad18f912edefc20222d
 msgid "eg:  jrush version current ..config file=”bootstrap file path”/ jrush Version current ..config file=”bootstrap file path”"
 msgstr ""
 
 #: ../../source/version.rst:153
-# 0bb7e284564e48ecbf76db10da5afc31
+# 78117dc344b148d289db1ae50e2f8974
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/version.rst:155
-# d6183c82a7ee464e8f7127bddaa0189e
+# f09725f0176349adb61f1c0d8b96cd26
 msgid "Helps to get the information about an version in easy way"
 msgstr ""
 
 #: ../../source/version.rst:156
-# 32ea45e25e454999a5ef8bb35c5d27c0
+# b550f57209fe4c59ad35a12767e44894
 msgid "Helps the user to get to know about the availability of the joomla version"
 msgstr ""
 
 #: ../../source/version.rst:157
-# a3f33ae45347451d87297a39c24e70fb
+# d06cd3862ad2486a885c8be092f92a1c
 msgid "Helps the user to get to know about the current joomla version"
 msgstr ""
 

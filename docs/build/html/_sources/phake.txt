@@ -59,7 +59,7 @@ Then the system ask for executing directory name, if you wants to set up your PA
 
 The below screenshot shows the same.
 
-.. cssclass:: table-bordered
+.. code-block:: bash
 
  kevells@corp:/# cleopatra Phake install
  Install Phake ? (Y/N) 

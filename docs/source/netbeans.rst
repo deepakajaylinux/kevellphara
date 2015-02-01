@@ -44,14 +44,14 @@ Options
  |cleopatra Netbeans  Install      | There are Three alternative parameters 	| Y	      | System starts installation process   |
  |				   | which can be used in command line. 	| 	      | 				     |
  |				   | Netbeans , NetBeans , netbeans		| 	      |					     |
- |				   | Eg: cleopatra NetBeans install/ 		|	      |					     |	
- | 				   | 	 cleopatra netbeans install		|             |					     |
+ |				   | Eg: cleopatra NetBeans install 		|	      |					     |	
+ | 				   | cleopatra netbeans install		        |             |					     |
  +---------------------------------+--------------------------------------------+-------------+--------------------------------------+
  |cleopatra Netbeans  Install      | There are Three alternative parameters     | N           | System stops installation process    |
  |                                 | which can be used in command line.         |             |                                      |
  |                                 | Netbeans , NetBeans , netbeans             |             |                                      |
- |                                 | Eg: cleopatra NetBeans install/            |             |                                      |  
- |                                 |     cleopatra netbeans install|            |             |                                      |
+ |                                 | Eg: cleopatra NetBeans install             |             |                                      |  
+ |                                 | cleopatra netbeans install|                |             |                                      |
  +---------------------------------+--------------------------------------------+-------------+--------------------------------------+
 
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"POT-Creation-Date: 2015-02-01 11:34+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -93,8 +93,8 @@ msgstr ""
 #: ../../netbeans.rst:44
 #: ../../netbeans.rst:50
 # e75952d4e9954976b4907998b0d43ca0
-# 8e6c1c1a69244bfb9676771639963678
-msgid "There are Three alternative parameters which can be used in command line. Netbeans , NetBeans , netbeans Eg: cleopatra NetBeans install/"
+# e75952d4e9954976b4907998b0d43ca0
+msgid "There are Three alternative parameters which can be used in command line. Netbeans , NetBeans , netbeans Eg: cleopatra NetBeans install"
 msgstr ""
 
 #: ../../netbeans.rst:48

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"POT-Creation-Date: 2015-02-01 11:34+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,12 +16,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../phpssh.rst:4
+#: ../../phpssh.rst:3
 # e296a7b7566c4971ac1795888edf262b
 msgid "Php SSH"
 msgstr ""
 
-#: ../../phpssh.rst:7
+#: ../../phpssh.rst:6
 # 2ad63b79b761404dae322686b1513f89
 msgid "Synopsis"
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:26+0530\n"
+"POT-Creation-Date: 2015-02-01 11:34+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -56,122 +56,122 @@ msgstr ""
 msgid "To kill a process the following syntax can be used."
 msgstr ""
 
-#: ../../process.rst:29
+#: ../../process.rst:30
 # 106e239db101478bb01af9232f80e4a2
 msgid "or"
 msgstr ""
 
-#: ../../process.rst:35
+#: ../../process.rst:36
 # b605508f852d465988438eaa2232bc58
 msgid "The syntax as shown above will looks for string in result of."
 msgstr ""
 
-#: ../../process.rst:41
+#: ../../process.rst:42
 # 418406b2c31d415f8bcb6ddc549577e3
 msgid "The syntax as shown above is used to specify or find a string which is to be killed."
 msgstr ""
 
-#: ../../process.rst:49
+#: ../../process.rst:50
 # dedba328506546358d6f6f9248b9f4d2
 msgid "The command as shown above will kills a process as per the given id."
 msgstr ""
 
-#: ../../process.rst:56
+#: ../../process.rst:57
 # d360e872e481488ab8dbe6b32903ad26
 msgid "The command as above is used to kill a process as per the specified level."
 msgstr ""
 
-#: ../../process.rst:62
+#: ../../process.rst:63
 # bd23311141e949f2a5e6a81aa7405445
 msgid "The command as above is used to kill a process by specifying its name. The following screenshot depicts the working of killing a process."
 msgstr ""
 
-#: ../../process.rst:65
+#: ../../process.rst:66
 # eec732364f264bea87592519950a3c1f
 msgid "Killing a process using a PID"
 msgstr ""
 
-#: ../../process.rst:67
+#: ../../process.rst:68
 # 624e06d584ab4def913cae7e41abc002
 msgid "If the PID # 3486 is assigned to the lighttpd process. To kill the lighttpd server, you need to pass a PID as follows:"
 msgstr ""
 
-#: ../../process.rst:73
+#: ../../process.rst:74
 # b5efcddd07b140c4b6a35d7de4fc4d9e
 msgid "OR"
 msgstr ""
 
-#: ../../process.rst:79
+#: ../../process.rst:80
 # 2fa1f5bf989848c29ca7f72b17a3ede0
 msgid "This will terminate a process with a PID of 3486."
 msgstr ""
 
-#: ../../process.rst:82
+#: ../../process.rst:83
 # b0da2f63c7ee493794723d5d91411649
 msgid "How do I verify that the process is gone / killed?"
 msgstr ""
 
-#: ../../process.rst:84
+#: ../../process.rst:85
 # 3f110025d4af4174b389f773bfcb6c72
 msgid "Use the ps or pidof command:"
 msgstr ""
 
-#: ../../process.rst:92
+#: ../../process.rst:93
 # 312630dda9194ebd93675123b51e4295
 msgid "How can I kill two or more PIDs?"
 msgstr ""
 
-#: ../../process.rst:94
+#: ../../process.rst:95
 # e61360b6fc424f39bdf0f4cfe1eb3a40
 msgid "The syntax is as follows to kill two or more PIDs as required can be used in a single command:"
 msgstr ""
 
-#: ../../process.rst:104
+#: ../../process.rst:105
 # ab858233560c4d749c0a086f44ae81f7
 msgid "Say hello to kill all command"
 msgstr ""
 
-#: ../../process.rst:106
+#: ../../process.rst:107
 # 93e64bbb552a4a9c8f477460dd31455d
 msgid "This is a Linux only command. to kill processes by name. So no need to find the PIDs using the 'pidof process' or 'ps aux | grep process' command. Do not use killall command on Unix operating systems. This is a Linux specific command."
 msgstr ""
 
-#: ../../process.rst:108
+#: ../../process.rst:109
 # 4892381bed8e4ec7af72b8efbd9a0f81
 msgid "The syntax is"
 msgstr ""
 
-#: ../../process.rst:114
+#: ../../process.rst:115
 # 71dc9b1a66794d0fa603365ac1d5b914
 msgid "To kill the lighttpd server, enter:"
 msgstr ""
 
-#: ../../process.rst:120
+#: ../../process.rst:121
 # 51e673618ab848e68ca451e3091d1e03
 msgid "OR .. code-block:: bash"
 msgstr ""
 
-#: ../../process.rst:123
+#: ../../process.rst:124
 # 098a18b9a5b54551915897190b63a949
 msgid "# killall -9 lighttpd"
 msgstr ""
 
-#: ../../process.rst:125
+#: ../../process.rst:126
 # dd04fb11c02d41198c4897dc95782713
 msgid "To kill the Firefox web-browser process, enter:"
 msgstr ""
 
-#: ../../process.rst:131
+#: ../../process.rst:132
 # 36c2909838de4cd2869f6a2132c30917
 msgid "As I said earlier, the kill all command on UNIX-like system does something else. It kills all process and not just specific process. Do not use kill all on UNIX system."
 msgstr ""
 
-#: ../../process.rst:134
+#: ../../process.rst:135
 # 773df3f22f7b4d9cb27da49fe586a937
 msgid "Benefits"
 msgstr ""
 
-#: ../../process.rst:136
+#: ../../process.rst:137
 # 1dd65f6c2b564dfb8a255a021494fca1
 msgid "The user can kill a process using different parameters as per their requirements. For example: by using the id, level of the process it can be specified to kill."
 msgstr ""

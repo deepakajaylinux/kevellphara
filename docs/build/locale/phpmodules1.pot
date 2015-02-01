@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:25+0530\n"
+"POT-Creation-Date: 2015-02-01 12:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,159 +17,159 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/phpmodules1.rst:3
-# 78d98a27fea549e1b71c6f0cb115f50a
+# f09fe3e62bf34e078809c8831d64cf22
 msgid "PHPModules"
 msgstr ""
 
 #: ../../source/phpmodules1.rst:6
-# e1e6a86916034788ad01a038e188021b
+# 81bfe8835fc0495abdb7030b18d8c2ba
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/phpmodules1.rst:8
-# b194453a40b24841b7184e5879e055d1
+# d9059c037e8c4271abf8751fb17ff824
 msgid "This Modules aims at installing and enveloping some of the common and helpful, supporting Php modules. Few examples are: php5-gd the image libs, php5-imagick the image libs, php5-curl the remote file handling libs, php5-mysql the libs for handling mysql connections. Let us see how to use this module, the process of installation in upcoming topics."
 msgstr ""
 
 #: ../../source/phpmodules1.rst:11
-# 64737b414b0448f4a3c3217f00702647
+# c2ff591a445e430e974a2146d0258936
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/phpmodules1.rst:13
-# 9155db01b55941e3939e483d6ebf2e7a
+# b798aed5d7ab49c298abf9e0da322207
 msgid "The help command guides the users regarding the purpose and as well as about the options that are included in the Php module. It lists out the alternative parameters of Php module. It also describes the syntax for installing the Php module. The help command for Php module is shown as below."
 msgstr ""
 
 #: ../../source/phpmodules1.rst:19
-# e2c778b90b4b4b1b9816a70e8ee9bc3b
+# 8c307bf530d34f4ca275986282ff4918
 msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under Php module."
 msgstr ""
 
 #: ../../source/phpmodules1.rst:45
-# 661cf3055ae14456980d6c93d4f0dfd0
+# 50bf7bf3afc54aedbc9b487ef342ead6
 msgid "Installation"
 msgstr ""
 
 #: ../../source/phpmodules1.rst:47
-# 3cb72eb6822b4bc28146f1e43059853b
+# 8512fec7923948e38322c9fc2586bf2b
 msgid "The command used for installing the php modules in the users machine is shown below:"
 msgstr ""
 
 #: ../../source/phpmodules1.rst:53
-# ff6350bd5a014a6ba5f32b208aaa4077
+# 7a95e423304640d28dc0d40789720dd0
 msgid "After inputting the command above, the following process occurs as shown in the tabular format."
 msgstr ""
 
 #: ../../source/phpmodules1.rst:59
-# af9cca63ed404114b560854519b975a1
+# b590f7841fe44c0b9d8ef5acebf1a7b8
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/phpmodules1.rst:59
-# 098afa57149f43619aad96386c2a1694
+# 8e2520cc675b44c5a4f9fc6253fae137
 msgid "Alternative Parameter"
 msgstr ""
 
 #: ../../source/phpmodules1.rst:59
-# 034200fff36340e8ac7bdd735b6c40e1
+# 98986b22cb794e96aff8cb7cf5b8f1e5
 msgid "Options"
 msgstr ""
 
 #: ../../source/phpmodules1.rst:59
-# 8fe91c86b6cf465cb4d7aead2b9235c5
+# cbdb057765be496bbf95e42734e3e831
 msgid "Comments"
 msgstr ""
 
 #: ../../source/phpmodules1.rst:61
 #: ../../source/phpmodules1.rst:65
-# 6d2c305ff4f24e7582331a31d1cd02df
-# d249da648780446db561c9c94e170c7b
+# 885bb056d1a74cf791e513ffc62fddd8
+# 1a32e0e9542a49039487a39fb9b5ad24
 msgid "Install PHP Modules? (Y/N)"
 msgstr ""
 
 #: ../../source/phpmodules1.rst:61
-# e4a24ddfc4214cf393172330c39da5c6
+# 8063797fa8ed47428f8f4191a1d7995c
 msgid "Instead of phpmods, we can use PHPModules, php-mods, php-modules, phpmodules also."
 msgstr ""
 
 #: ../../source/phpmodules1.rst:61
-# 7fa06209cd854553a5a9e7403273bad5
+# fe0b479acf8444e5b0818b766122fe15
 msgid "Y(Yes)"
 msgstr ""
 
 #: ../../source/phpmodules1.rst:61
-# e3f72ffed2c147efbb4b9e5c014d0f28
+# 65534d5a8f144029ad77a83caf9e370f
 msgid "If the user wish to proceed the installation process they can input as Y."
 msgstr ""
 
 #: ../../source/phpmodules1.rst:65
-# 2bd107a5b8714f26bbd84eb75423fb41
+# 90c5605f57994ecda91eba12b64f37d2
 msgid "Instead of phpmods, we can use PHPModules, php-mods, php-modules, phpmodules also.|"
 msgstr ""
 
 #: ../../source/phpmodules1.rst:65
-# 8edb29c2cde04cb18f0212bf10f28440
+# 1a5e0583e743483fb1bbd103dd838b7d
 msgid "N(No)"
 msgstr ""
 
 #: ../../source/phpmodules1.rst:65
-# ddf95abe1a91450f8099c2ca64a3c8f1
+# 51248d9c61c440b9bb0cd8f8b992c981
 msgid "If the user wish to quit the installation process they can input as N."
 msgstr ""
 
 #: ../../source/phpmodules1.rst:70
-# 9b40efbe39894ee08496accd7bdbe8fe
+# 68e1b822ab78434da7500304d2cd00f7
 msgid "If the user proceeds the installation, during the process of installation is described in the below lists:"
 msgstr ""
 
 #: ../../source/phpmodules1.rst:73
-# 6e2175de492749cbbbe12be712ca81e8
+# c26192fbfcdd4c67a976a70dfa838edf
 msgid "builds the dependency tree."
 msgstr ""
 
 #: ../../source/phpmodules1.rst:74
-# 09c8125f1f514dd8bfff5a609a989140
+# 061b31dd0f60401ea3ad8192adec59eb
 msgid "Reads the state information."
 msgstr ""
 
 #: ../../source/phpmodules1.rst:75
-# 11f1e3e03d6549d4afd32435b84c9a7e
+# 62c2e6cdee6f4d94b6cedb400969d70d
 msgid "list outs the packages that are automatically installed."
 msgstr ""
 
 #: ../../source/phpmodules1.rst:76
-# d6274a2247304f109662920e8d40c132
+# 71f90589a7154022ac9d74f91cf90a32
 msgid "list outs the new packages that are installing."
 msgstr ""
 
 #: ../../source/phpmodules1.rst:77
-# 9df354c02a0b468aaa9cb105d1e5e138
+# 714952e7537e42cf86ca88885a1fec65
 msgid "details regarding the number of files upgraded, newly installed, removed and not upgraded."
 msgstr ""
 
 #: ../../source/phpmodules1.rst:81
-# 08eab01f2c2149a7a6a1a0c2f24aaf65
+# 5bf0008e76c1468c8e217d94285779a8
 msgid "The following screenshot pictorially depicts the above described process of installation."
 msgstr ""
 
 #: ../../source/phpmodules1.rst:126
-# 00daba124e4348cfb4dbd7316320e13f
+# 7a61cdb51a0e48a6bcdb49a215399ffe
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/phpmodules1.rst:127
-# 348799525ddc472fa1ae2b692627788c
+# 0aee536fd871477893e485043f952316
 msgid "The parameters used in help and installation are not case sensitive which is an added advantage while compared to others."
 msgstr ""
 
 #: ../../source/phpmodules1.rst:128
-# f81f6abd92a643ada70eb34b0c7d05ec
+# 34651929c3b848b18f21c1573df9a5f9
 msgid "It is well-to-do in both Ubuntu and as well as Cent OS."
 msgstr ""
 
 #: ../../source/phpmodules1.rst:129
-# 22cc70fc153b4b7f9f3574b44dbe52c2
+# ad264ec538eb4854a4d85f3fd77e3bdd
 msgid "All the frequently used php modules installation gets enveloped under a single process."
 msgstr ""
 

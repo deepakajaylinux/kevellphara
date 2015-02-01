@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:25+0530\n"
+"POT-Creation-Date: 2015-02-01 12:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,153 +18,153 @@ msgstr ""
 
 #: ../../source/box.rst:3
 #: ../../source/box.rst:151
-# 3de161286f3e4cb7bea1ab7dbe40dfc7
-# 751e21a7aa2e45b69b7dca538c24782e
+# 3a8786cf072849a49fed3d5fea746ad3
+# ceb03d7466d5434395e5781e8a50f925
 msgid "Box"
 msgstr ""
 
 #: ../../source/box.rst:6
-# ac27db8cd50e492eb1c9eeefe317b2e0
+# 1c6b2993540e460fbeec545b21535eef
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/box.rst:8
-# 24ce2e4461bf40a59bf18e419f803e8e
+# eac0f6c7e1e34b74a15d67d7071e725b
 msgid "This module assists the users in handling and managing the boxes that are available in the phlagrant. Let us see how this module works in handling the functions of box."
 msgstr ""
 
 #: ../../source/box.rst:11
-# ad7252dc459348f1b2e485f61eb8677e
+# 3a198825b3df4c4e8081fbbbb3a3514f
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/box.rst:13
-# 212b8e618be74986ae52463ce978b185
+# a35cdc7f32424422a2cd66cebf0b4f76
 msgid "The help command guides the users regarding the purpose and as well as about the options that are included in the Box module. It lists out the alternative parameters of Box module. It also describes the syntax for using the add, remove, package ,list commands. The help command for Box module is shown as below."
 msgstr ""
 
 #: ../../source/box.rst:19
-# 4ec6cf87cc3a4459bf81bc7af9e5695c
+# ec3532b21d4d49a9a9f5644c7c58fce6
 msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under Box."
 msgstr ""
 
 #: ../../source/box.rst:69
-# 4a4634214feb4a9e8e99f166c69b75ed
+# c24ea13989924ea480082289d74df843
 msgid "Functions of phlagrant Box"
 msgstr ""
 
 #: ../../source/box.rst:71
-# 7b83662b7d6e4dd79c875e5a8844b8b2
+# c44dab6db5eb487c9fd0b06b96ab9e1b
 msgid "As depicted in the above help command the functions of the phlagrant box includes the following:"
 msgstr ""
 
 #: ../../source/box.rst:73
 #: ../../source/box.rst:79
-# 3df7bd2d7bbc47d0b2a378f900ab16bd
-# 2c46ee83e03a42508f4e363cdccbc123
+# b76a8132aa8f4fec96f76a2c036c473d
+# 2c60b2e739504c6e85f85c3625e634cd
 msgid "Add"
 msgstr ""
 
 #: ../../source/box.rst:74
 #: ../../source/box.rst:99
-# 0cb9e0d386cf4f028c1abfa0c5843609
-# 75a5183bb12440b49480fdf7cdf8c45b
+# 315f782411294c8ba704f1e6c777c4f2
+# 9f002886de894f6da214c273f043471f
 msgid "Remove"
 msgstr ""
 
 #: ../../source/box.rst:75
 #: ../../source/box.rst:110
-# 4a66dcb94317477e99636a0ba888b6e5
-# 737ff274f4304a679c5e6fb6995c8d0d
+# 919d0c723337471c996ad8e11a7af628
+# af8e20d3aaa8435f9995f8f29c069c8c
 msgid "Package"
 msgstr ""
 
 #: ../../source/box.rst:76
 #: ../../source/box.rst:137
-# 7ef31498df9141a4b2617a04f050656b
-# 55bfd529099a47a5a4b63d2b292a3946
+# 4e18d6899f3e4d5cb6f61368511eb867
+# 1b4bf25b60584534838e840b7d588ec5
 msgid "List"
 msgstr ""
 
 #: ../../source/box.rst:81
-# 6159fa0b9fad4dd39ca3afda125bebe4
+# 16c7d7ea0d8e41c7af26e2a932af7255
 msgid "The add is used for initializing the box as usable by phlagrant. The following syntax can be used for adding a phlagrant box."
 msgstr ""
 
 #: ../../source/box.rst:87
 #: ../../source/box.rst:118
-# 0c4ce271925e4c7c9bbe5cea1e0da7c9
-# 2f994e5b8c824397b8f8ab7b3d8c7db1
+# 0be8c0a68f0a4027b0c7de76f6f70a5b
+# eff214642de54e3985c87635f5dacbe7
 msgid "or"
 msgstr ""
 
 #: ../../source/box.rst:96
-# 318c24ab587a489e8462709a4be2d308
+# a0700e9aaa66480e8b9112dc84e392c5
 msgid "In the above mentioned ways the box can be added to a phlagrant."
 msgstr ""
 
 #: ../../source/box.rst:101
-# 49f1dc40e4d341f49fc6c8d7a26ea6fc
+# 9b1a12d18aa44c1f9d93e20355c128ca
 msgid "This function is used for removing the box as usable by phlagrant. This can be done using the command shown below:"
 msgstr ""
 
 #: ../../source/box.rst:107
-# bbb0dbd54118413fbc2e6d7bcf27e6fa
+# 832bb32def3c4229a8841dce914383d2
 msgid "In the above mentioned ways the box can be removed from a phlagrant."
 msgstr ""
 
 #: ../../source/box.rst:112
-# 8a70815597bc47a28334e596fd25a9e6
+# 61bad671b5fe43cba5fff7a099e143f5
 msgid "This functions is used to package the box as usable by phlagrant. This can be implemented by using the following command:"
 msgstr ""
 
 #: ../../source/box.rst:134
-# c53a96da67564f92abd069add09b24ff
+# 994ca5b85468478ab3c7d1b7d32d9a79
 msgid "Finally, a box is packaged as usable by the phlagrant."
 msgstr ""
 
 #: ../../source/box.rst:139
-# 6e3096d7d9094f008a2a47256f0da902
+# 32cc75432bbd48cdabef8d26afa5bee3
 msgid "This function is used for listing the boxes that are installed in phlagrant. This can be done by using the following command,"
 msgstr ""
 
 #: ../../source/box.rst:145
-# 334ac6ee7c5640bfb1c778548dfb791c
+# ff09c44aacb04f9485ae915876a76ab1
 msgid "By using the command above, the list of phlagrant boxes that are newly installed will be displayed."
 msgstr ""
 
 #: ../../source/box.rst:149
-# 67c273518f4d4cd38db67d62a3106075
+# e395425253e6480f801ba28e14de9779
 msgid "Alternative Parameters"
 msgstr ""
 
 #: ../../source/box.rst:152
-# 7c5c21b1964e4d3892688613d4f30d07
+# 0eaa8d4e5f6843f0a981e28613bd27b0
 msgid "box"
 msgstr ""
 
 #: ../../source/box.rst:155
-# d857e8d581f747968c45218821d59890
+# 9486ed461dc945eab5bef359912b8dd2
 msgid "In the above mentioned list, any of the alternative parameters can be used in declaration."
 msgstr ""
 
 #: ../../source/box.rst:159
-# a3ee44b7ec1142a3a7eeef51868cdba6
+# 0001da4f5e7a4e13aa2b0a16a51af78c
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/box.rst:161
-# f6aebdff2cf848228e0531a449aa2c6e
+# c31406b6a8d74c99aa9ca4e0a927c778
 msgid "The parameters used in help is not case sensitive which is an added advantage while compared to others."
 msgstr ""
 
 #: ../../source/box.rst:162
-# 9e86c89bf5eb4a32af3b96c45d402c69
+# ec280377ac7242948e61e1acaf111cb7
 msgid "It is well-to-do in both Ubuntu and as well as Cent OS."
 msgstr ""
 
 #: ../../source/box.rst:163
-# 36c8d45dc4a1451d9dc19a62c75a755b
+# d5db07715e35498493745a6617882e2f
 msgid "The syntax for using add, remove, package, list are not case sensitive."
 msgstr ""
 

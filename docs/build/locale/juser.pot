@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:25+0530\n"
+"POT-Creation-Date: 2015-02-01 12:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,109 +17,109 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/juser.rst:3
-# d4c5989303784ffcbc1c9d3ff6dc114c
+# 8872c75993c44d31a5a74cf8ba6cc825
 msgid "JUser"
 msgstr ""
 
 #: ../../source/juser.rst:6
-# c39771f4e87a4e95aedd01c3a0c5950a
+# 6268200b0b7546bcaf39076e7822f850
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/juser.rst:8
-# 586ab513c31a4cff898274bc69cab118
+# 8459dd3bc58b458aa264e7103415419c
 msgid "A user is a person who uses a computer or network service. Users generally use a system or a software product without the technical expertise required to fully understand it."
 msgstr ""
 
 #: ../../source/juser.rst:10
-# 0fe8aa993cf6411aa8bbbd37567c51ee
+# 13ec593a25714f08973982df548b571a
 msgid "A user often has a user account and is identified to the system by a username (or user name). Other terms for username include login name, screen name."
 msgstr ""
 
 #: ../../source/juser.rst:12
-# cd0f0d1f0beb4625b4492c23cc929491
+# d58bf48d95b840e3859433deb8bee879
 msgid "A user's account allows a user to authenticate to a system and to be granted authorization to access resources provided by or connected to that system; however, authentication does not imply authorization. To log into an account, a user is typically required to authenticate oneself with a password or other credentials for the purposes of accounting, security, logging, and resource management."
 msgstr ""
 
 #: ../../source/juser.rst:15
-# d51e3ec0e5044b779cc7deaba0276e4d
+# 8d7f28871be243f9b99a5d63804be2ec
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/juser.rst:17
-# 049bafdc65924467a5330353afdb3f43
+# 2b3ca76e68ec430c8e9dcdbc07f1494f
 msgid "This command helps to determine the usage of Juser module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screen shot of the same."
 msgstr ""
 
 #: ../../source/juser.rst:54
-# 7168d3c5278b4e22bd6b08787af41aee
+# ed53cacc6b824621ad6524f833e516bf
 msgid "Delete"
 msgstr ""
 
 #: ../../source/juser.rst:56
-# bbe10b04f7b34a1aa15ce97c2f5b7d38
+# 29b3eb1234c84dba90efadf4be4f6807
 msgid "When the user needs to delete an user in machine, the below given command will execute the process of installation."
 msgstr ""
 
 #: ../../source/juser.rst:62
 #: ../../source/juser.rst:96
-# 14b37694c71a42098c0e283358d0dee3
-# 9ea53981e7984e45a0cd0cbcfb70818d
+# c1be70e206c04e5a8860a18560634acc
+# fdd94ac86661429c91ba6a078f6041c2
 msgid "The pictorial representation of the above command is listed below,"
 msgstr ""
 
 #: ../../source/juser.rst:88
-# d279c3c2137646d9b5e99a54b0a4b955
+# 6d906125681c433483ab05614cd0c152
 msgid "Info"
 msgstr ""
 
 #: ../../source/juser.rst:90
-# 1bfcc1fd2d0c47079ceea9f6cb815a17
+# 150482d0b8c84db0addb561a35c59210
 msgid "When the user needs to display the details of a user in machine, the below given command will execute the process of installation."
 msgstr ""
 
 #: ../../source/juser.rst:121
-# cf19196bed1440e584ae0b8fb0dc06c6
+# dbe53d6d54c1426990500b7cf23eda68
 msgid "Password"
 msgstr ""
 
 #: ../../source/juser.rst:123
-# 0a11bed0084749e383f75fad30706443
+# d84c7285cf8f44e484967bb675c6feed
 msgid "When the user needs to change the password of a user in machine, the below given command will execute the process of installation."
 msgstr ""
 
 #: ../../source/juser.rst:131
-# 0d6965a0dfd949ddb3f8d7ac4da51975
+# 635d5c76535b4430b1693234ab4a569f
 msgid "Alternative Parameter"
 msgstr ""
 
 #: ../../source/juser.rst:133
-# b0c9ee44e28d4f1fa9f49d2f5e265f58
+# 450fdc6de9f64b01a2a9643d85073788
 msgid "Either of the two alternative parameter can be used in command- juser and JUser"
 msgstr ""
 
 #: ../../source/juser.rst:135
-# c89cbf27070340989c4eae1345488b5a
+# 79d09ecc8b144cd8b9a80ab63cb46cd7
 msgid "eg: jrush juser info ..config file=”bootstrap file path” / jrush JUser info ..config file=”bootstrap file path”"
 msgstr ""
 
 #: ../../source/juser.rst:163
-# 831d948e299c41ddafffcea9a154ed33
+# eefe3dbbfb194be489b04b5c1afc7248
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/juser.rst:165
-# 830aa320ca404580a3a2021104eb202a
+# b4a591730de44a1584a0b310fd4be6c9
 msgid "Easy to get the information about a user using a single command"
 msgstr ""
 
 #: ../../source/juser.rst:166
-# bf2574a6ac514283bc43ebc9946073a3
+# b742a9e5947e4334b0bcab8b31567a47
 msgid "Easy to change the password of a user from back end using single command"
 msgstr ""
 
 #: ../../source/juser.rst:167
-# 34e88f53dcdc4607bdc67b01273bf418
+# cda58eeb36c9435586e5187561f53f2e
 msgid "Easy to handle to user accounts"
 msgstr ""
 

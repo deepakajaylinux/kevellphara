@@ -81,6 +81,7 @@ If the user wish to install the testingkamen without depending and using the cle
 .. code-block:: bash
 
 	git clone https://github.com/phpengine/testingkamen && sudo php testingkamen/install-silent
+
 or
 
 The below command is predictable for the users who wish to specify the location during installation.

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:25+0530\n"
+"POT-Creation-Date: 2015-02-01 12:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,181 +17,181 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/openoffice.rst:3
-# 410ac186cdce49a8abab29a71fa63c3a
+# 21f3dc246f9c491a83e4eac8782d662a
 msgid "OpenOffice"
 msgstr ""
 
 #: ../../source/openoffice.rst:6
-# 5fa41e3665c44a88b4bb66cab8025be5
+# 6d5c37a08d024c14b5418532c6636197
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/openoffice.rst:8
-# a4d743262d34432e96ba182f01cf0a01
+# b62780944589402d99d52760373498ed
 msgid "This module acts as a facilitator to install Openoffice .Open-office is the  premier open suite of office-related software. Let us see the usage and methodologies of installing open office in upcoming topics."
 msgstr ""
 
 #: ../../source/openoffice.rst:11
-# f08da654bac144009a60f3517febad0c
+# 36af80986e4247228eeb36fbf478942e
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/openoffice.rst:13
-# e3ee17e2a0834778b9c106141cb437a1
+# 05e6c515921a40fc9edfa5cbe0e5a03f
 msgid "The help command guides the users regarding the purpose and as well as about the options that are included in the Open Office module. It lists out the alternative parameters of Open Office module. It also describes the syntax for installing the Open Office module. The help command for Open Office module is shown as below."
 msgstr ""
 
 #: ../../source/openoffice.rst:20
-# f8c4ed0a26f6498a84238e3cee9f02ba
+# bd6e2a50014943a5aa68d11fa4dc63b5
 msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under Open Office."
 msgstr ""
 
 #: ../../source/openoffice.rst:44
-# 4080731d16a248a2a923671250f4c246
+# c402693dbc964afb9134f5a88e4e899e
 msgid "Installation"
 msgstr ""
 
 #: ../../source/openoffice.rst:46
-# 125d4783c7b340e696ec0dbbe7c659d0
+# 1554c97ddc04499facf840a9c04e1c2b
 msgid "The command used for installing the Open Office in the users machine is shown below:"
 msgstr ""
 
 #: ../../source/openoffice.rst:53
-# 1fcb45488f714662b9d883b35176b6ea
+# 98d61c4c0f784301bf7770fbbeaf6b78
 msgid "After inputting the command above, the following process occurs as shown in the tabular format."
 msgstr ""
 
 #: ../../source/openoffice.rst:58
-# cf3f92529426408188781a88b2ee6036
+# 19ffb013f87e4a07acdecb9d6b000daf
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/openoffice.rst:58
-# 9987b0d916184c9bb3cca5c506eb5da5
+# 0ba339ea55754451808b82a113aa9865
 msgid "Alternative Parameters"
 msgstr ""
 
 #: ../../source/openoffice.rst:58
-# bac8821a910b42c39a7db3c418dfc403
+# 7d35b98700924e86a0e512afe06eafa6
 msgid "Options"
 msgstr ""
 
 #: ../../source/openoffice.rst:58
-# 720e9b2172c542b3a3ef3b0374dc1355
+# 9a857177e17e409d8858c77dca22671e
 msgid "Comments"
 msgstr ""
 
 #: ../../source/openoffice.rst:60
 #: ../../source/openoffice.rst:64
-# 90122ffd13114020a0953c0c7c5a5ca3
-# 04376cb7ddfb4f769c611598568fd53e
+# b190296cc5af43cb819ccbc8f16bb07f
+# 365823a88ddd4756be52c17775ec1f2a
 msgid "Install Open Office? (Y/N)"
 msgstr ""
 
 #: ../../source/openoffice.rst:60
 #: ../../source/openoffice.rst:64
-# 16dd7bd16a6d43abbba9eb7be3373125
-# d020d632b31a46efb70facd75af365c4
+# 1653666214394c659c9d5ef710751c89
+# 6de5261931164c06b7b951c426158932
 msgid "Instead of openoffice, we can use OpenOffice, Openoffice also."
 msgstr ""
 
 #: ../../source/openoffice.rst:60
-# 74dd3df1653543bfacebf1276701ede0
+# 5a9c67f8b0da4d92b50ad13ffdc1f945
 msgid "Y(Yes)"
 msgstr ""
 
 #: ../../source/openoffice.rst:60
-# f7b167b5a5f34c8cbd0bec717cd46445
+# a2e53cce2fc84867aa9a5c787a3ecad3
 msgid "If the user wish to proceed the installation process they can input as Y."
 msgstr ""
 
 #: ../../source/openoffice.rst:64
-# 2f5de2f4a44e4325a00cae31448b941a
+# 98662369cf7f4716bc39cddce3a58c63
 msgid "N(No)"
 msgstr ""
 
 #: ../../source/openoffice.rst:64
-# 24d4d0ef279b4df4b1052086c32f6904
+# dbbcfdbb45f2471dbe20fb8a7676bd56
 msgid "If the user wish to quit the installation process they can input as N.|"
 msgstr ""
 
 #: ../../source/openoffice.rst:71
-# 91c95c47810e4f0b9e504dd463081e1c
+# e81f411cf6024d2db3d4a30cc5ef6af0
 msgid "If the user proceeds the installation, during the process of installation is described in the below lists:"
 msgstr ""
 
 #: ../../source/openoffice.rst:73
-# 9282494f2e5a433eb2ac0396ad806e39
+# e3c09b1285df44f98d9d8e63b67194a4
 msgid "Reads package lists."
 msgstr ""
 
 #: ../../source/openoffice.rst:74
-# 8e3e6728a5c84af58566186949263d27
+# 0af636844f644a27b498841969250ab5
 msgid "Builds the dependency tree."
 msgstr ""
 
 #: ../../source/openoffice.rst:75
-# 6c2316799d404072947c78bd7b2c3c50
+# 0dea3ae069eb4f3798a33e51ac3357a2
 msgid "Reads state information."
 msgstr ""
 
 #: ../../source/openoffice.rst:76
-# 0af4fceb6e1c4a6bbe64306800b2e34e
+# 74c38d58bee94612ba37c84d372cbc10
 msgid "List outs the packages that are automatically installed."
 msgstr ""
 
 #: ../../source/openoffice.rst:77
-# 32391298d64641f487ecf30461c35b6f
+# 726ed7ceb2a741e78eb57fbccd82d951
 msgid "List outs the extra package that are installing."
 msgstr ""
 
 #: ../../source/openoffice.rst:78
-# 9568b4afb9084dfdaeed619cfde9c583
+# 2f7b33a1c6434f62b6c928da87409bbc
 msgid "List outs the suggested packages."
 msgstr ""
 
 #: ../../source/openoffice.rst:79
-# bad9595e457b40b198a1d2b8cd83b255
+# 59e8158474754180b95ee124441f46b0
 msgid "List outs the new packages that are installing."
 msgstr ""
 
 #: ../../source/openoffice.rst:80
-# 48a24b6d5b104bcb9005cbc6fa32b9b2
+# 5b282588da0648f580dd61d27f1bbad2
 msgid "Details regarding the number of files upgraded, newly installed, removed and not upgraded."
 msgstr ""
 
 #: ../../source/openoffice.rst:84
-# 08b62c5de34c4bd8a34a973608cc4432
+# f512e08731d4414abc1d03a17d757aac
 msgid "Finally, the process of installation gets completed. The following screenshot visually represent the process of installing the open Office."
 msgstr ""
 
 #: ../../source/openoffice.rst:91
-# fd24158a0e5e424392a32aa3217a46a6
+# 95eb900617ed43e281ece26a9db06615
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/openoffice.rst:93
-# fad43bebafa74cfd9c7898028a70fb24
+# 217acc45c65b4e3ba4ead1519e38fa0f
 msgid "The parameters used in help and installation are not case sensitive which is an added advantage while compared to others."
 msgstr ""
 
 #: ../../source/openoffice.rst:94
-# 745ce93bf08d40f0997808cee5cd9fd6
+# ee75215d48fd443b90922f772e1acb3e
 msgid "It is well-to-do in both Ubuntu and as well as Cent OS."
 msgstr ""
 
 #: ../../source/openoffice.rst:95
-# d8b00f86b00d43699b4527a2c02762e4
+# d762013e0b114e6bb884d7dec6403a17
 msgid "This will module installs the php apc in updated version."
 msgstr ""
 
 #: ../../source/openoffice.rst:96
-# 41b7695354584ce1b61607ab5c0d7228
+# 7d712cde25344815a1acaa690970125c
 msgid "The primary advantage of using Apache OpenOffice as a productivity suite comes from the cost. It includes word processing, spreadsheet, presentation, vector graphic editing and database management components."
 msgstr ""
 
 #: ../../source/openoffice.rst:98
-# 937a44e50f2440608b4dff28ca6b37b2
+# 27098a4cc50c4675849d00081369579e
 msgid "It's easy for beginners to learn to use, but it is powerful enough to do the advanced tasks experienced users want. It's designed so that the  commands and functions you perform in one component of the software work throughout the entire suite."
 msgstr ""
 

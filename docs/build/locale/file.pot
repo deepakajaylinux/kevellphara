@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:25+0530\n"
+"POT-Creation-Date: 2015-02-01 12:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,157 +17,157 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/file.rst:3
-# c3aa0eb5f3de47cdb17b45115763894e
+# 0487fd411e1d476abc951076aef148e1
 msgid "File"
 msgstr ""
 
 #: ../../source/file.rst:6
-# b86da869f1b046a48d6d5647d8be790f
+# b48c7a3ba7874589a66e7f9cccfaab3a
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/file.rst:8
-# b63287dbfe8b46b4a9c7fcd9347833f9
+# ea16fa3afa164627897e2bd7d93cb203
 msgid "File is a standard program for recognizing the type of data contained in a computer file. The file command attempts to classify each file system object (i.e., file, directory or link) that is provided to it as an argument (i.e., input). File tests each argument in an attempt to classify it. There are three sets of tests, performed in this order: file system tests, magic number tests, and language tests."
 msgstr ""
 
 #: ../../source/file.rst:10
-# f8f1bbb222024fcc87a043ae5801d06c
+# 8a7376b0c7e445a0921a12c25186ccea
 msgid "The first is a file system test, which uses the stat system call to obtain information from the object's inode (which contains information about a file)."
 msgstr ""
 
 #: ../../source/file.rst:12
-# bbe93d13aaa742f09284a8c68dd1288d
+# 9184e95ee8ba4dfc8d295ca2a81ab228
 msgid "The second test checks to see if there is a magic number, which is a number embedded at or near the beginning of many types of files that indicates the file format (i.e., the type of file)."
 msgstr ""
 
 #: ../../source/file.rst:15
-# 37a963a384b24529a2097148627f701f
+# 8cfef12815f24bcfa254b2030f0b7b0c
 msgid "In the event that the first two tests fail to determine the type of a file, language tests are employed to determine if it is plain text (i.e., composed entirely of human-readable characters), and, if so, what type of plain text, such as HTML (hypertext markup language) or source code"
 msgstr ""
 
 #: ../../source/file.rst:18
-# c40facfca5f54afc9c0206b8c9b5f57d
+# 1d4b56d579fe4e659a489c80ae71720c
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/file.rst:20
-# 2f5ac70ab81940d49e8998dbc9d4cfee
+# 2f5dd55ea8644370a86183ce628a37bb
 msgid "This command helps to determine the usage of file module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same."
 msgstr ""
 
 #: ../../source/file.rst:27
-# 867099434d4b4061ab461d32693b23fc
+# 71ebbbe3a7684f1e81c473113d2f4a8d
 msgid "Create"
 msgstr ""
 
 #: ../../source/file.rst:29
-# 9ecedfb340b94bf38a8ffeec796ebd9e
+# 5e95acdb4fd74ef4aaae5110fa562990
 msgid "When the user needs to Create a new system file, the below given command will execute the process."
 msgstr ""
 
 #: ../../source/file.rst:35
-# 12aee7e7cc6744af95c7be06c90ea234
+# 04a1e1948e9e490e9f1c7e4fa0a4b379
 msgid "The below given commands overwrite files that exist"
 msgstr ""
 
 #: ../../source/file.rst:41
-# cab258ce0a854f60a46c016b702a675d
+# 065fa187131a4822b757d884717398d8
 msgid "The below given command for write the data in the file"
 msgstr ""
 
 #: ../../source/file.rst:48
-# 3e6a2a4a8ec24fc7b3c1d8260b51ab37
+# 006a18db5db94b91881e3f6862ff2a6a
 msgid "Delete"
 msgstr ""
 
 #: ../../source/file.rst:50
-# 9ec9bd9c077d4ea78b29fdfeffb47be4
+# 4f365369cfb74d4fa96a196f4b12b34f
 msgid "When the user needs to delete a system file, the below given command will execute the process."
 msgstr ""
 
-#: ../../source/file.rst:56
-# ddc32415835f41b2a3917485c99c9581
+#: ../../source/file.rst:57
+# 7686382feb66448b9c095e1d7c53ab7f
 msgid "Exists"
 msgstr ""
 
-#: ../../source/file.rst:58
-# ee84111983674638aab3da0af59ca5c6
+#: ../../source/file.rst:59
+# 5457b696d2fd48ab9acc8c4078292d3a
 msgid "When the user needs to check the existence of a file, the below given command will execute the process."
 msgstr ""
 
-#: ../../source/file.rst:64
-# 32377d59b6b643779940f57941569248
+#: ../../source/file.rst:66
+# 949426688b28484098024fa266b1ae8e
 msgid "Append"
 msgstr ""
 
-#: ../../source/file.rst:66
-# 3f7f4e571a8a41b1a508b9525b5aad20
+#: ../../source/file.rst:68
+# 7809544b01e84a37aa14c2bb8713a277
 msgid "When the user needs to append a line to a file, the below given command will execute the process."
 msgstr ""
 
-#: ../../source/file.rst:72
-# 40834bf2789b42dfbf9e70121372c103
+#: ../../source/file.rst:74
+# 569cfc60d94f4d7d9f47c6e3ea16a8af
 msgid "Line option – you can insert a line to be appended"
 msgstr ""
 
-#: ../../source/file.rst:75
-# 9033327da966436d9a4d6d753c65ecb6
+#: ../../source/file.rst:77
+# 3f21efaefe2e459782fed12b9473b250
 msgid "Should-have-line"
 msgstr ""
 
-#: ../../source/file.rst:77
-# 7d71c2e1e95a41a7b2e3d90d8e4ffd8c
+#: ../../source/file.rst:79
+# 5ff4509e88b945d2a59a3cb95775f7c2
 msgid "When the user needs to ensure that a file contains a particular line, the below given command will execute the process."
 msgstr ""
 
-#: ../../source/file.rst:83
-# c6395f0893b04f6c837da245f5cec94c
+#: ../../source/file.rst:85
+# 64ae16e3073a4cbc82d41bc91fda5764
 msgid "Line option – Statement that needs to be checked"
 msgstr ""
 
-#: ../../source/file.rst:87
-# 2f07c4d199b9446882f1e74570d0b6ef
+#: ../../source/file.rst:89
+# 4da3b4a695bf4688837a544e5f2a0c54
 msgid "Options"
 msgstr ""
 
-#: ../../source/file.rst:92
-# cd6bfc8279944f0bb57210a5b62152cf
+#: ../../source/file.rst:94
+# 863d41117a274407a33178792e4b17e0
 msgid "Parameters"
 msgstr ""
 
-#: ../../source/file.rst:92
-# e2898e62bcd941aa9f149da67b898348
+#: ../../source/file.rst:94
+# a666d41fcadc40a0a4164c089ab1f15b
 msgid "Alternative Parameter"
 msgstr ""
 
-#: ../../source/file.rst:92
-# 201ac903eebc4abd83c749f092d4b77b
+#: ../../source/file.rst:94
+# 6689a8b72b374226b50eb5dfec5025bc
 msgid "Comments"
 msgstr ""
 
-#: ../../source/file.rst:94
-# a27eb544cac744f5a23039797c520ae0
+#: ../../source/file.rst:96
+# 66371ca12d4440c8857406801dac18e5
 msgid "Cleopatra file help"
 msgstr ""
 
-#: ../../source/file.rst:94
-# eae17790c19a40d8b222b6c9b9a59325
+#: ../../source/file.rst:96
+# bf4cc4fd0c6e4577b145125e802043c7
 msgid "Either of the two alternative parameter can be used in command- File, file eg: Cleopatra File Install/ Cleopatra file Install|"
 msgstr ""
 
-#: ../../source/file.rst:94
-# 9278185d9d9d472a8a639c9fea8396e0
+#: ../../source/file.rst:96
+# 7f7a1b06d9114ac480a8a683a54c305f
 msgid "Once the user provides the option, System starts processing"
 msgstr ""
 
-#: ../../source/file.rst:101
-# 2e3d74566a99449284ec5e6342d7af7b
+#: ../../source/file.rst:103
+# 8db4664dc28347d2b2363edd09af904f
 msgid "Benefits"
 msgstr ""
 
-#: ../../source/file.rst:103
-# 64962a94015e474bb753974980dcf482
+#: ../../source/file.rst:105
+# d4c78136b220415fa059b369a282ebe6
 msgid "Specify a file specially formatted containing position-sensitive tests; default position-sensitive tests and context-sensitive tests will not be performed."
 msgstr ""
 

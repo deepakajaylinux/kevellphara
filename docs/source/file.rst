@@ -52,6 +52,7 @@ When the user needs to delete a system file, the below given command will execut
 .. code-block:: bash
 	
 		cleopatra file delete --file="somename"
+
 Exists
 -----------
 
@@ -60,6 +61,7 @@ When the user needs to check the existence of a file, the below given command wi
 .. code-block:: bash
 
 		cleopatra file exists --filename="somename"
+
 Append
 ------------
 

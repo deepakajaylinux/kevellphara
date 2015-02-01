@@ -64,14 +64,14 @@ Options
  |cleopatra PHPEclipse       | There are three alternative parameters which  | Y	    | System starts installation process      |
  |Install 		     | can be used in command line.		     | 		    |					      |
  |			     | PHP-Eclipse, PHPEclipse, phpeclipse	     |              |					      |
- |			     | Eg: cleopatra PHPEclipse install/	     | 		    |					      |
- |			     |     cleopatra PHP-Eclipse install 	     |		    | 					      |
+ |			     | Eg: cleopatra PHPEclipse install	             | 		    |					      |
+ |			     | cleopatra PHP-Eclipse install 	             |		    | 					      |
  +---------------------------+-----------------------------------------------+--------------+-----------------------------------------+
  |cleopatra PHPEclipse       | There are three alternative parameters which  | N            | System stops installation process       |
  |Install                    | can be used in command line.                  |              |                                         |
  |                           | PHP-Eclipse, PHPEclipse, phpeclipse           |              |                                         |
- |                           | Eg: cleopatra PHPEclipse install/             |              |                                         |
- |                           |     cleopatra PHP-Eclipse install|            |              |                                         |
+ |                           | Eg: cleopatra PHPEclipse install              |              |                                         |
+ |                           | cleopatra PHP-Eclipse install|                |              |                                         |
  +---------------------------+-----------------------------------------------+--------------+-----------------------------------------+
 
 

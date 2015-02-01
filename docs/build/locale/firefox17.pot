@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:25+0530\n"
+"POT-Creation-Date: 2015-02-01 12:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,174 +17,174 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/firefox17.rst:3
-# 4b75a613efe6460ebc7beebe86b18335
+# 464f76e5258248128189e58fcb0a5bb1
 msgid "FireFox 17"
 msgstr ""
 
 #: ../../source/firefox17.rst:7
-# f6af658f01c64c72ae945fc68452dc2b
+# 500733efc32e45d1aac1e6828c014a20
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/firefox17.rst:9
-# d81ffc008fb540e4ae4b38d366ac9117
+# 6d4f95d54c734e1590ee8d368b73a39c
 msgid "This module is open source web browser. It used to install firefox17. Ubuntu releases updated versions periodically. It implements current and anticipated web standards. Long-term support includes updates for new hardware, security patches and updates to the 'Ubuntu stack' (cloud computing infrastructure). It is comfortable with Ubuntu and Cent OS."
 msgstr ""
 
 #: ../../source/firefox17.rst:12
-# 127e71be145b4425aafb8b272a4cea07
+# c75df82ca103495f8a7be8ee1c2e2bf1
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/firefox17.rst:14
-# 8646e5b029ba40668815fe04ee4ae7df
+# 4af7831d6bff4d2a9e3dad357dee292b
 msgid "This command can function about the objectives and commands available under Firefox17 module. It also explains the command to install firefox17. Before installation, the user can read this help command explains its function."
 msgstr ""
 
 #: ../../source/firefox17.rst:20
-# 3dff126f8c604e6588902b1922497f94
+# 3419a175dbed49aea315068c01e8cd95
 msgid "The following image also helps you to understand this module clearly."
 msgstr ""
 
 #: ../../source/firefox17.rst:43
-# d5dcf14f8f2d4dabaf49824ce168f494
+# 2d535b9c4a0f4b20969b9bddbe754635
 msgid "Installation"
 msgstr ""
 
 #: ../../source/firefox17.rst:45
-# 33373d1cc517413d9d924edac5cf8264
+# b5144ac0d9f54bcc82b30f4b50c71d25
 msgid "It is a glaring process to install firefox17 module under Cleopatra by just using the command given below,"
 msgstr ""
 
 #: ../../source/firefox17.rst:51
-# 1010f55c66f5427d88aa90978dfe6bda
+# 49dffa0832bb481fb74087f01b3445dc
 msgid "After key in the command, it can asks"
 msgstr ""
 
 #: ../../source/firefox17.rst:53
-# 2cb5e68797b2429796f0886bb133acda
+# 0343cf71567649ccbd8c0a750382a4e1
 msgid "Install firefox17?(Y/N)"
 msgstr ""
 
 #: ../../source/firefox17.rst:55
-# 6456473176684d1b80f5268f6e0bfcdd
+# 93400070e56d4aee90b04491dec54827
 msgid "In case the user input as Y, it can install firefox17 from the package. Else, it can exit the screen. The following screen shots can explain it."
 msgstr ""
 
 #: ../../source/firefox17.rst:94
-# b75ebdb2cc424bf4926ce64fd664937d
+# e0296253447942f493c60a71c87b33bc
 msgid "Options"
 msgstr ""
 
 #: ../../source/firefox17.rst:99
 #: ../../source/firefox17.rst:148
-# 5fd893aea24c4afabb9730d067d98a9d
-# 66cec145f7374907abdcdf7676a5edd7
+# 1ccd1bc780984e6a99261395cf71506d
+# 59ce4d6d4f6d4ed8a51d094ce08618e7
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/firefox17.rst:99
 #: ../../source/firefox17.rst:148
-# 806029fd06784fb68ded3f7d06e92947
-# 8eabcf48d6044025adba14c8058de015
+# c5451b5eb9d64aae82880a40f1eb19da
+# 83dd2d6d3be64cc2b84275e00a38aee0
 msgid "Alternative Parameter"
 msgstr ""
 
 #: ../../source/firefox17.rst:99
 #: ../../source/firefox17.rst:148
-# 16f9596a28f848cf90a2b4a805114642
-# 13fb0104d6b448efb1b3b94020d93c16
+# 5f9918f4210f45f1b101bda561f29d98
+# e831d5edf0f5406bb018246a0b3b95e2
 msgid "Required"
 msgstr ""
 
 #: ../../source/firefox17.rst:99
 #: ../../source/firefox17.rst:148
-# 89cf9c89527340048adf720370b6bcc0
-# 86b449e331e84015a5adb3007e5c8c35
+# 1d74f0575ae940498c314bd01a11a1a2
+# 99b8a925b32c404aa6d2da0c800cdf4f
 msgid "Comment"
 msgstr ""
 
 #: ../../source/firefox17.rst:101
 #: ../../source/firefox17.rst:104
-# 61a9ac8eb8b5413483ea36816437ebdb
-# e0b681407570468883a002ad0a628e74
+# a451f253f7f840a1967a971101a83ad9
+# 5db759c1d04f460a991c36b8ad15bfdf
 msgid "Cleopatra firefox17 Install"
 msgstr ""
 
 #: ../../source/firefox17.rst:101
 #: ../../source/firefox17.rst:104
-# 00a5264dcaba4e999024282658ad6d1a
-# d44085171f604ab98033f73a7093420c
+# 23486428e60145e6be5d7e07c74a2de4
+# 82f70a8254874b1ab5a447f8f60e9bdb
 msgid "Firefox,ff17,firefox"
 msgstr ""
 
 #: ../../source/firefox17.rst:101
 #: ../../source/firefox17.rst:150
-# 511996dddbea4147bebd2b38fb031996
-# f6eebadb4fc5494f8041f2785cb40b24
+# b6267e1474e14f8e9563f15bbc6e28e6
+# 007aebdd562647c5af1d963776a1667b
 msgid "Y(YES)"
 msgstr ""
 
 #: ../../source/firefox17.rst:101
 #: ../../source/firefox17.rst:150
-# 2710c13fc6374badb743d9e70ab1aace
-# 438ff6c32a0841f68a48aac30f2d8103
+# 11ecfaf175cb4486860aa15791641005
+# 72c5b9280c70405da3ddb38e8384bdcf
 msgid "System starts installation process Under cleopatra"
 msgstr ""
 
 #: ../../source/firefox17.rst:104
 #: ../../source/firefox17.rst:153
-# c3cbdcbe21a34b95830265a3c1c1a0d1
-# aea81df6b8554f1dab511eeaba3cf63f
+# e016108ee2874f179ed17277f2434a14
+# 8a73615606ce42759a8a9be4161ea766
 msgid "N(NO)"
 msgstr ""
 
 #: ../../source/firefox17.rst:104
-# 6517e981041046359ec723153fb2334e
+# 21a16439a31f45a9a5a728073c3797a3
 msgid "System stops installation process|"
 msgstr ""
 
 #: ../../source/firefox17.rst:110
-# 4aa75d1d519b4c8b82f1cab92acc31f3
+# c3d9965befc540998d54b54f3e0eef09
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/firefox17.rst:112
-# 2c5ecc71104a4fff83771ea93b29d061
+# 9106f7a772434df2a52a4f2607c27092
 msgid "Firefox17 uses support for new hardware and integration of all the updates published in that series to date."
 msgstr ""
 
 #: ../../source/firefox17.rst:113
-# 1c1057fbf9a04e82a40be8ccf31199c3
+# 2b8436b949ec4e1da6f5b47dd3d4502c
 msgid "Firefox17 is an open source Web browser for Linux."
 msgstr ""
 
 #: ../../source/firefox17.rst:114
-# e5c92c357cbe4c799e47cbc5b9eb72fe
+# 64e5ea20cc6a48d398491d41a934983b
 msgid "Firefox17 is non-case sensitive."
 msgstr ""
 
 #: ../../source/firefox17.rst:115
-# 5c04bb2632be405ea0020784bedf5c2b
+# b7a0c466aa674a84896aef51bf579cf0
 msgid "Privacy and security measures, smart searching is possible."
 msgstr ""
 
 #: ../../source/firefox17.rst:150
 #: ../../source/firefox17.rst:153
-# 8a55fe7feb7d4ec496890e789700da12
-# 2e736d48060b4867b77df16021ee3a57
+# 2cf2f6cff1354486bc3902e3d7e9a830
+# 1a040b979cb04a8bbcf061bb3292155d
 msgid "Cleopatra firefox14 Install"
 msgstr ""
 
 #: ../../source/firefox17.rst:150
 #: ../../source/firefox17.rst:153
-# 9ddab0f90ce74c7ba7824391910b02b4
-# 88002106957243b5a27ab6a93fbb3d68
+# 55096b4eaf954f808d00a21ad1d19ad2
+# 0cb6ef491ee840c9ae3b5172eece10ec
 msgid "Firefox,ff14,firefox"
 msgstr ""
 
 #: ../../source/firefox17.rst:153
-# cbb246b42b81492bbc3d26aec8aa4168
+# 2ff5f190355746809d845053faeeb183
 msgid "System stops installation process"
 msgstr ""
 

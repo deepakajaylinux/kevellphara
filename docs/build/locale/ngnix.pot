@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:25+0530\n"
+"POT-Creation-Date: 2015-02-01 12:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,213 +17,213 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/ngnix.rst:3
-# 60ee0254dc794c4b98d08dca2cceecf7
+# 81c087948f5b458ab5aca1dcaf01e890
 msgid "NginxServer"
 msgstr ""
 
 #: ../../source/ngnix.rst:8
-# 8b5e8ac42070408e89761e0df0209f6e
+# a601dab12381482a804b3b1671b00b2a
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/ngnix.rst:10
-# 338c5fcf48c24af89015d2b79b4ff1f0
+# 9bdfcf7481d4486aa42a88e30ec2180d
 msgid "Nginx, pronounced “Engine X”, is a high-performance Web server. The Nginx Web Server is a light weight and versatile server that can be configured for all the different tasks that many modern websites demand. Ngnix server acts as a facilitator to the users in configuring applications settings. Few examples for applications settings includes mysql admin user, host, pass. Nginx is making headlines as the new Web server of choice for many webmasters. The top reason for its popularity is its speed. Nginx is faster than Apache in non-testing environments because its architecture is event driven while Apache’s is process driven. The Cleopatra modules acts as a way through for installing this Nginx Server."
 msgstr ""
 
 #: ../../source/ngnix.rst:13
-# 93f66f7e965b44c7835e5cfb1d957a8c
+# 53e771bb54284633a44e2e47b6bf75a8
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/ngnix.rst:15
-# 9ab7307f833449b1b01a5209ef85a600
+# ebbb55156bff437980f95c6d24d7f606
 msgid "The help command leads the users regarding the purpose and as well as about the options that are included in the Ngnix server module. The help command lists out the alternative parameters of Ngnix server. It also describes the syntax for installing Ngnix server. The help command for Ngnix server is given below."
 msgstr ""
 
 #: ../../source/ngnix.rst:21
-# f2134cb3d5794ca4a0cfa0d335b4fdbf
+# 7b16a08fe6ef429bac9fb035f41c94c3
 msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under Nginx Server."
 msgstr ""
 
 #: ../../source/ngnix.rst:45
-# 05ade71be8ea48deb92b25514953cd66
+# abeb91ed712c4226915db4a840f19e6b
 msgid "Installation"
 msgstr ""
 
 #: ../../source/ngnix.rst:47
-# aecea6cdebc44f719b67b1626cf23a58
+# b19d11c055954ba1b250ede40fbee274
 msgid "Installing the Nginx server is simpler by using the following command as shown:"
 msgstr ""
 
 #: ../../source/ngnix.rst:53
-# fe1d85e1fd3c4aa3970e81c080852f48
+# 09646f318223414ab625c1ae7fbe2dcb
 msgid "After inputting the command above the following operations as shown in the tabular format occurs."
 msgstr ""
 
 #: ../../source/ngnix.rst:58
-# fb82478deb684023897888a43b9bb7d4
+# a72842a497364d62810872228b2e30d5
 msgid "Paramaters"
 msgstr ""
 
 #: ../../source/ngnix.rst:58
-# c55506a40f4a484c9740f0d39fcaa4d2
+# 1c312dff1f53459c89f0ef7355c358e7
 msgid "Alternative Parameter"
 msgstr ""
 
 #: ../../source/ngnix.rst:58
-# 05b97d30f2794db7a233fce64b474806
+# 6fece0cbee304e5598afc3ff05dd8fee
 msgid "Options"
 msgstr ""
 
 #: ../../source/ngnix.rst:58
-# c0df5569a1ed4bd19917e191d843bdae
+# 3ee14f0874974776b3e98ceb4780839d
 msgid "comments"
 msgstr ""
 
 #: ../../source/ngnix.rst:60
 #: ../../source/ngnix.rst:65
-# 9911fc67089e48819a90fdec56289760
-# fbf101d7edda4660874d25e44a90bb4c
+# c43f75c443cb4c7f80e9cb0b2b784ec7
+# 23a41737516c4de5999b8aafa0586fb4
 msgid "Install PHP Code Sniffer ? (Y/N)"
 msgstr ""
 
 #: ../../source/ngnix.rst:60
 #: ../../source/ngnix.rst:65
-# 523d26ba19974a68a532213647cfa611
-# 87c44c44ed8245f68e14bb5f6ea03117
+# d38b84fd7f1d49f7a9c44eb441717c6b
+# c280abc825d54db7b91ac8b26a55bf4a
 msgid "In Spite of Nginx Server, the following alternatives can also be used: NginxServer, nginx-server, nginxserver."
 msgstr ""
 
 #: ../../source/ngnix.rst:61
 #: ../../source/ngnix.rst:66
-# a3eb0512161f4c8cbff88f0b7464d250
-# 1be197a3e36c4f28ae24e914e2e264f0
+# 41bdb539d1e0478eba843f57ff7bdf3d
+# 1c41c807922547fbb7b9716971b4b50d
 msgid "Y(yes)"
 msgstr ""
 
 #: ../../source/ngnix.rst:60
-# 38fbb3686a204bfc9617ccf23fd349d9
+# ed2867bea4304846afe82912a1ee43bb
 msgid "If the user wish to proceed the installation process they can input as Y."
 msgstr ""
 
 #: ../../source/ngnix.rst:65
-# 26d0c3726008485485baf49046350339
+# a31e7557eafb430fa8c43eca97be628f
 msgid "If the user wish to Quit the installation process they can input as N.|"
 msgstr ""
 
 #: ../../source/ngnix.rst:71
-# 319fe10f3dfa4493892a391811757061
+# 1eb4e2c374c14088b884bd47834fd421
 msgid "If the user proceeds the installation process, the Nginx HTTP Server will be installed. If the package of Nginx is already exists in the users machine, then a message will appear to instruct the user as Nginx is already exists in that machine. Finally reports are generated with clear results and status. The following screen shot explains the above mentioned process pictorially."
 msgstr ""
 
 #: ../../source/ngnix.rst:134
-# b58b2a5026754c1e8bb7ee6620c07c87
+# 1a1bc93855374330b1555f2453bb7f96
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/ngnix.rst:136
-# 9a0ca3a8ecf345fe8f786d1065c817bc
+# 6f36bca2f485481bb3a865e94a30e928
 msgid "By using this Nginx Server the user can configure their application settings."
 msgstr ""
 
 #: ../../source/ngnix.rst:137
-# 9895e5d85533454f9aba4c49a1b001c2
+# e318210e740743fda9dbf5d33c42c7bb
 msgid "The parameters used in help and installation operations are not case sensitive which is an added advantage while compared to others."
 msgstr ""
 
 #: ../../source/ngnix.rst:138
-# 98fefa3cc0f94941bdf9ea8ca66b8824
+# 2293a2a2f5fc4b1ea41df850ce53ff72
 msgid "Nginx is fast because it does not need to create a new process for each new request."
 msgstr ""
 
 #: ../../source/ngnix.rst:139
-# 6bec50d739704aadb939c3b6e7649dd2
+# 04bbcd78447145f8866b339be2461889
 msgid "Nginx uses very little memory, especially for static Web pages."
 msgstr ""
 
 #: ../../source/ngnix.rst:140
-# 2c0611dc71604c1e9874f31081ef78b7
+# 1aaed13153a14e2d8bad5842896c76f3
 msgid "Nginx can be used with a range of systems."
 msgstr ""
 
 #: ../../source/ngnix.rst:141
-# 7a4f3de1ed9b4f4c8b2f3248d55eecce
+# c061c5e620cf41efb2a0b03173f72616
 msgid "Nginx is highly scalable, and performance is not dependent on hardware."
 msgstr ""
 
 #: ../../source/ngnix.rst:142
-# c26c0df3c04149bb9a496df383973d58
+# 4125907895284faf9be7f2d3c9bdf470
 msgid "Nginx is easy to install and configure."
 msgstr ""
 
 #: ../../source/ngnix.rst:143
-# 20c87f617976461c97fbb0a8b933fb0e
+# 3787a38c4eb842609543bb7594f6d6c4
 msgid "Like Apache, Nginx has all the features you would expect from a leading Web server:"
 msgstr ""
 
 #: ../../source/ngnix.rst:144
-# 75ffa32a66c04d318a2d3389154d7b75
+# 7f1a07b2597249c1a291ac30f15955e2
 msgid "Static file serving."
 msgstr ""
 
 #: ../../source/ngnix.rst:145
-# 5b56fa150ce94927bc3a5e18b99e3a4b
+# fe9ff88ded274220a9643dd3e482e5fd
 msgid "SSL/TLS support."
 msgstr ""
 
 #: ../../source/ngnix.rst:146
-# ea85486d358248eaaa854c508167086a
+# a840c4f3f0ab4a1f927a54912171b3c3
 msgid "Virtual hosts."
 msgstr ""
 
 #: ../../source/ngnix.rst:147
-# d2da84d98f47483786ba26e9e34495b5
+# 61d1b4f937cf4c53926572bc03917edc
 msgid "Reverse proxying."
 msgstr ""
 
 #: ../../source/ngnix.rst:148
-# 42f2be19287345dd8049e0d002c02bc3
+# bbcad798f7144f689d92bdb61bfcaafb
 msgid "Load balancing."
 msgstr ""
 
 #: ../../source/ngnix.rst:149
-# 4f1cd73f67db415b8173a3ea5b4a8665
+# 0ad9655f81ac4488a047d345ac624f5f
 msgid "Compression."
 msgstr ""
 
 #: ../../source/ngnix.rst:150
-# 8d715603d8cc4296a819994dee4e5784
+# 01c4d5896e154b2cb70d9c8ad55fc795
 msgid "Access controls."
 msgstr ""
 
 #: ../../source/ngnix.rst:151
-# 2cd0b0dfe39d469eb91c1c9b06bc062d
+# 83a801ce04ba42e5ae8daaee420da2c3
 msgid "URL rewriting."
 msgstr ""
 
 #: ../../source/ngnix.rst:152
-# f5923ecbb7c0481aa36bf73f5e06a8f0
+# 65c89e66765a412396139a9c9f9ea973
 msgid "Custom logging."
 msgstr ""
 
 #: ../../source/ngnix.rst:153
-# 2e620fdebac24a468eafe7c4d74f3314
+# bc5d2b7959074854b827d549b1d2e5a4
 msgid "Server-side includes."
 msgstr ""
 
 #: ../../source/ngnix.rst:154
-# 344ae74c2f2b4301abf2561750b69503
+# 7f05d1fe33df4cfbbf171fe35037b641
 msgid "WebDAV."
 msgstr ""
 
 #: ../../source/ngnix.rst:155
-# 604a086ab6a8487e8d3679fbeab7bcac
+# 5fdd92ce131c463191e123a4b52bfb0b
 msgid "FLV streaming."
 msgstr ""
 
 #: ../../source/ngnix.rst:156
-# 4ad4cfe13e6144ab9fec286ed1a725df
+# 6686937364814006ae3fc31c7e46d207
 msgid "FastCGI."
 msgstr ""
 

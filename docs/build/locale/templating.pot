@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:25+0530\n"
+"POT-Creation-Date: 2015-02-01 12:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,159 +17,159 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/templating.rst:3
-# 1815d26d976840fea25c31e7a0fca46f
+# 87dc1e1f870b46c18ace6c1b36c13ad4
 msgid "Templating"
 msgstr ""
 
 #: ../../source/templating.rst:6
-# f7c2161df1ba410da0fdf062d0338a9e
+# 43aaa3dba64d4763a2924a6e3393ac64
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/templating.rst:8
-# 16de5b9637394d138790fb7c9095684c
+# 1357577a54e94bef97b6767bf12eb8fd
 msgid "A standardized non-executable file type used by system software as a pre-formatted example on which to base other files, especially documents. Templating is a fancy way of having template file with in the file system. Dynamically replace a shortcut phrase with data filled in from the user on your forms. The easiest way to explain the concept is with an example. It is suitable to work with Ubuntu and cent os."
 msgstr ""
 
 #: ../../source/templating.rst:11
-# 20dc39dde9094f8a927502dcfee4b148
+# 0c616dc161844db788f3af7a3dd36d2b
 msgid "Help command"
 msgstr ""
 
 #: ../../source/templating.rst:13
-# f80a457206534bbd9f10b1b803a47648
+# 210f92a325474c71ac74b3cad0e98040
 msgid "The help command leads the users regarding the purpose and as well as about the options that are included in the template modules. The help command lists out the alternative parameters of templating testingkamen module. It also describes the syntax for detecting the user’s machine. The help command for templating shown below."
 msgstr ""
 
 #: ../../source/templating.rst:19
-# c5bac6b87dff4c8bb7bfdbb9e0ab03e1
+# 824202df3d314c95963ba149f0dba812
 msgid "The following screenshot explains about templating."
 msgstr ""
 
 #: ../../source/templating.rst:42
-# 63a7719fd96c4d5f84b0cc53b6933c60
+# 78cea104907744828661b5e5cdf8bdf2
 msgid "The help command also lists the alternative parameters that can be used in declaration."
 msgstr ""
 
 #: ../../source/templating.rst:47
-# e4489dc93abd413ca83fac9fcfe05f74
+# dc28da4cc6bf49779b3aa6f799c7a28c
 msgid "Installation"
 msgstr ""
 
 #: ../../source/templating.rst:49
-# b044bdeae15f4bedab9a396c2a0f1bad
+# 716f4898268b4fe49f1c690fdb926cb4
 msgid "Installation including device drivers and plugins, is the act of making the program ready for execution. Because the process varies for each program and each system, programs often come with an installer, a specialized program responsible for doing whatever is needed for their installation. Installation may be part of a larger software deployment process."
 msgstr ""
 
 #: ../../source/templating.rst:51
-# 8a8d32ee2d89404cb3e21622314aef59
+# b406c6fa13ea49ce8be5c35b42b59ddf
 msgid "Installation typically involves code being copied/generated from the installation files to new files on the local system for easier access by the operating system. Because code is generally copied/generated in multiple locations. In templating is used to install template files. The following command is used to install templating."
 msgstr ""
 
 #: ../../source/templating.rst:57
-# 8c8fa848dfe44cfc9835f553d7d2ee40
+# 2ac539055b2942d9992c7c432796756a
 msgid "after input as the above said command it starts installation. The following snap shots guides the user about installation."
 msgstr ""
 
 #: ../../source/templating.rst:87
-# 5ef66129ad434bd5a659b350ac5efe19
+# 58d997a0ac6e4b88a71c9ccce2e9f539
 msgid "Options"
 msgstr ""
 
 #: ../../source/templating.rst:92
-# 4e83000e68114f729f8d6c8b736a0cc4
+# b4a2cf4bc85341df8ccd1386d0ea7ac1
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/templating.rst:92
-# be76603a84c7425f8f50bf1d7a868ef7
+# 9aaadce730ad493ba4a5c69042db3482
 msgid "Alternative Parametrs"
 msgstr ""
 
 #: ../../source/templating.rst:92
-# bd65d3407c4047e78379042292433c26
+# 0d0e9b028ec64e9baea19712d3f14009
 msgid "Syntax"
 msgstr ""
 
 #: ../../source/templating.rst:92
-# 4ca3c824538041a99181fc77a4f2dd75
+# fbeb59e28b574d5795eccf72bf503cda
 msgid "Comments"
 msgstr ""
 
 #: ../../source/templating.rst:94
 #: ../../source/templating.rst:98
-# 218dbc68af314a27ac8dd027aa29741a
-# 474b9a4fcf2342c9b2c28fbd16eec2f5
+# c9fc18c3a3cc412981157f335c7e0af5
+# a044453ad3fb444ca9378353a55080bc
 msgid "Install templating functionality (Y/N)"
 msgstr ""
 
 #: ../../source/templating.rst:94
-# f50a7b1bf46c40109945229cd74e2639
+# eda856ceabac4cdfa977de48f7ba5fa0
 msgid "Instead of using templating the user can use Templating, templating, template"
 msgstr ""
 
 #: ../../source/templating.rst:94
-# 783fb1fcf1aa420a801d0299e9341263
+# e901f31233ff48ce82ce85bfdc89389c
 msgid "Y(Yes)"
 msgstr ""
 
 #: ../../source/templating.rst:94
-# db2de7d29603434e8cbdfc8b6775c9fc
+# 2392180c31554790b6a3647a619fc3d8
 msgid "Templating can be installed under Testingkamen."
 msgstr ""
 
 #: ../../source/templating.rst:98
-# 9148efc1cc4841449f0507b7eff1cf50
+# 5c31100ab4c64bef85091c017bee2f04
 msgid "Instead of using templating the user can use Templating, templating, template|"
 msgstr ""
 
 #: ../../source/templating.rst:98
-# 8b99d5ea94ba4262b3916de48249e0af
+# 1a67cd6ee4da40e587a1410c332c7a9d
 msgid "N(No)"
 msgstr ""
 
 #: ../../source/templating.rst:98
-# ab569ad258be4e9a8d92bcbfb2b4b458
+# 9b9aafe8502b4091b9a80dfd92653368
 msgid "It can exit the screen."
 msgstr ""
 
 #: ../../source/templating.rst:106
-# 69eb84fe7694474686cc1c75ae2c5904
+# d6674f460a374fb491d67eed73ca9f34
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/templating.rst:108
-# 6ed562d1214b41cbbd29072ebb2dc508
+# ad17f60c8f9f46d79f1972381ce2e446
 msgid "We also have simple templating for the Redirect URL."
 msgstr ""
 
 #: ../../source/templating.rst:109
-# 2e02befc2ac84a2eb770390f73b4e619
+# a3a222196eca4101853da2a4c945bcb4
 msgid "A simple command line script is used to install the base system."
 msgstr ""
 
 #: ../../source/templating.rst:110
-# a5571f2bbef34f3d93392c041a217537
+# bd2040b76a5d4c2a8111ddbd57f21fd4
 msgid "This method is useful when installing Linux onto system, or onto a temporarily mounted device which belongs to another system."
 msgstr ""
 
 #: ../../source/templating.rst:111
-# fe01d51ff4f7488eb39867d5d50eb830
+# 70fa3077942248d49357791a01a65cc6
 msgid "Template processing is used in various contexts for different purposes."
 msgstr ""
 
 #: ../../source/templating.rst:112
-# f8fb7285a2c54d19af6a06225e374944
+# 5ae4e9fbd55743389bb6e7b27c49a5be
 msgid "Non sensitive"
 msgstr ""
 
 #: ../../source/templating.rst:113
-# fbb0cfff09d54008b073f5282ad508c9
+# ceb16bb9a8fe4fb3ac469b7f9471dc45
 msgid "Suits to work with Ubuntu and centos."
 msgstr ""
 
 #: ../../source/templating.rst:114
-# 2bfd3066f45b44a9bcbd2027a20aea93
+# 5d70860d70a34e2a86e2f3b55c8d9bee
 msgid "Updated version with new values is possible."
 msgstr ""
 

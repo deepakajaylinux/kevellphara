@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 18:25+0530\n"
+"POT-Creation-Date: 2015-02-01 12:00+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,146 +17,146 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/phpedit.rst:3
-# 32a3bb8401d94fa8953f9afd00f0472d
+# 3aedbea13f0f4a56a2184dd818f7a021
 msgid "PHPEdit"
 msgstr ""
 
 #: ../../source/phpedit.rst:6
-# 1b197e9db18c4540b483cb120e2ec7a6
+# f6199c0547c440d6a2b47f44f0acd724
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/phpedit.rst:7
-# 3c5e355096b7453ba79340e609176346
+# 6cbc8d0670144032ad168cf998f80e5f
 msgid "PHPEdit module is a complete Integrated Development Environment for PHP. Much more than a simple PHP edit, it helps the user to carry out their projects in a friendly and efficient way, with a single tool integrating all the features the user will need from the design of their projects, their documentation, to their deployment. It appropriate with Ubuntu and centOS."
 msgstr ""
 
 #: ../../source/phpedit.rst:10
-# 9e7abb41290b4f2297d6980fdaab8c14
+# 3c39eb54b5244b7382cc1cf0ea35dda6
 msgid "Help command"
 msgstr ""
 
 #: ../../source/phpedit.rst:12
-# 16b7d06ea85a43a7b61638ad02b4228d
+# 82473a2b2d5d4d64a2f317c3630860a2
 msgid "The help command guides the users regarding the purpose and as well as about the options that are included in the Phpedit module. It lists out the alternative parameters of Phpedit module. It also describes the syntax for installing the Phpedit module. The help command for Phpedit module is shown as below."
 msgstr ""
 
 #: ../../source/phpedit.rst:18
-# 13a1936c01bc42cc8ac661b9ff98648d
+# c9fa43b326b44c32b55aecc54bb73c3f
 msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under Phpedit."
 msgstr ""
 
 #: ../../source/phpedit.rst:42
-# b95306a527934652841d694148eba31b
+# d2c26d04f50246879b3f7a0620cf6981
 msgid "Installation"
 msgstr ""
 
 #: ../../source/phpedit.rst:44
-# 40c377189fea4bcb9ba9db3165cda455
+# 39636c6bc84f4530abfea5ff00f8c0cc
 msgid "PHPEdit comes with a lot of extensions, frameworks, help files and tools, so it is shipped in an installer which can be customized to suits the user needs.However, because PHPEdit is constantly evolving, with new features and maintenance fixes, an auto update system is also available, to help keep up with PHPEdit's latest releases effortlessly. the command used for installation of this module as follows,"
 msgstr ""
 
 #: ../../source/phpedit.rst:50
-# c10e3a5b459c43b196b079ebf639e902
+# 4ed7b5ed8d974b98ac0225c50e1234ec
 msgid "The screen shot makes clear about this module."
 msgstr ""
 
 #: ../../source/phpedit.rst:58
-# 054480f04f5344d5bb5666b0f2fee878
+# db81eee901bb4c43a959ee6522fb5d5e
 msgid "Option"
 msgstr ""
 
 #: ../../source/phpedit.rst:63
-# d9c4a45261b74e3da1e9e0d90e17202e
+# 61bae5dec9534df88534100a166aca29
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/phpedit.rst:63
-# 6c9a3e72fdac485d92080cd51c71995a
+# fb7daafdb5354b20961f3dc4d3f4f358
 msgid "Alternative Parameters"
 msgstr ""
 
 #: ../../source/phpedit.rst:63
-# c10aaa509e064500bc651841bd957628
+# fda5959860294f90b4497ecff2bffbb0
 msgid "Options"
 msgstr ""
 
 #: ../../source/phpedit.rst:63
-# 08aacd7baf96457c8d9c1081126c4316
+# a8e2a49289b44abdaf8dc57c5cc4ee5f
 msgid "Comments"
 msgstr ""
 
 #: ../../source/phpedit.rst:65
 #: ../../source/phpedit.rst:69
-# b095992af43143538705ba3cc77dab0b
-# 6fcbe6a688e744b68fa24c6c2793ed9c
+# 2ca357158c7347868b9ecd67e9e70a69
+# 2d6cc9df48eb4a66a411d111fbd4d5ac
 msgid "Install phpedit? (Y/N)"
 msgstr ""
 
 #: ../../source/phpedit.rst:65
-# cc77b4151bf24327bb26daca69d327c8
+# f12ec486cd544939b141a225ff94eb6e
 msgid "In Spite of PHP-Edit, the following alternatives can also be used: phpedit,PHPEdit"
 msgstr ""
 
 #: ../../source/phpedit.rst:65
 #: ../../source/phpedit.rst:69
-# 01b1dcba2c4244f3a3d1b1ce807fa462
-# 7161e3bd771e484aa10ddaf3e9c8c18c
+# 924570d0609a4910b9f8f3532d87e847
+# c1540c0d63a04ca4a18603ba161c615a
 msgid "Y"
 msgstr ""
 
 #: ../../source/phpedit.rst:65
-# 3973205288494184b01a5d64ed5afb6e
+# 7fe8f6ed4f50441cb335df7a56908dc9
 msgid "The user wish to proceed the installation process."
 msgstr ""
 
 #: ../../source/phpedit.rst:69
-# b9304c6a400641489965a6d2695eee67
+# d5a5003500bf4217a1092a07dc81c836
 msgid "In Spite of PHP-Edit, the following alternatives can also be used: phpedit,PHPEdit        |"
 msgstr ""
 
 #: ../../source/phpedit.rst:69
-# a0797ea26ee046ba8022b2a4effa2270
+# 8b283166d58244fcb2f94a5164c859f0
 msgid "The user wish to quit the installation process."
 msgstr ""
 
 #: ../../source/phpedit.rst:75
-# 0711ce148667423a952dceecad11cb52
+# 28d1a9d181274b3f8639661398e58871
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/phpedit.rst:77
-# ec864770b45b4625b5880a128152dc89
+# 2e8431510ab94a898111e7e031e475e4
 msgid "Write the user code faster with all the available code assistants and code generators."
 msgstr ""
 
 #: ../../source/phpedit.rst:78
-# f2ac2745e8bf41ffaedbad381dca46a5
+# 529ed50e95754921a7f9f91f8e1b913d
 msgid "Improve the quality of your projects with the integrated debugger, and the unit tests module"
 msgstr ""
 
 #: ../../source/phpedit.rst:79
-# 46eddec4e6fc4bf189d630c4d6ece759
+# 17cc58b4abc443bca131a92c9debfc23
 msgid "Deploy easily with a single click the user projects, and work transparently on remote files"
 msgstr ""
 
 #: ../../source/phpedit.rst:80
-# e4d75a49e7f34cdb9858371f76868217
+# 815c20087460470fb9eb5492352328ba
 msgid "Increase the user productivity with their favorite frameworks"
 msgstr ""
 
 #: ../../source/phpedit.rst:81
-# 3f8d7022d6824a9cb868e8cfab5beaa8
+# f59925f038d94c4fbe0d1b7a54e9cb4b
 msgid "Code intelligence is possible."
 msgstr ""
 
 #: ../../source/phpedit.rst:82
-# 8853a07e08754daa83a508ea3e69f485
+# 916e67fea3c645d5aa6903f3539363d0
 msgid "Debugger and Profiler also available."
 msgstr ""
 
 #: ../../source/phpedit.rst:83
-# 11a62ce528ae498c8551abdf8ef33eb5
+# 56c5f8f0232c43428c737af808d5b9b9
 msgid "Non case sensitivity acts a vital role in this module"
 msgstr ""
 

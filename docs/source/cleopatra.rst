@@ -564,7 +564,6 @@ Playing with Cleopatra Modules
    citadel
    cleo
    composermodule
-   copy
    copy1
    devtools
    environmentconfig

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 14:00+0530\n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,171 +17,171 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/node.rst:3
-# b07e82bb44aa4763ac3a9be85463cf3a
+# 2e35cdfcea914e8b87b91c80926bec21
 msgid "Node-JS"
 msgstr ""
 
 #: ../../source/node.rst:6
-# d16b9333f6d348d9b0b7a8363c2a86be
+# 0adea86238e84d1e8de7db5561f20d82
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/node.rst:8
-# 93ed74bc2f04420291c21a88381961fb
+# 84571b6837c54825868c02b21446a935
 msgid "This module assists the users to install Node JS which is a Server Side JS Language. Node.js is an open source, cross-platform runtime environment for server-side and networking applications. Node.js applications are written in JavaScript, and can be run within the Node.js runtime on OS X, Microsoft Windows, Linux and FreeBSD. Here, let us see how does this module facilitates in installing and using the Node-JS."
 msgstr ""
 
 #: ../../source/node.rst:11
-# c8f924b019f84698a92fb77b4c1dfc6a
+# 9533b95c7e514b5cb99ff1dc407e01ce
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/node.rst:13
-# 3c2bb24dc7b74837bed580fe7d9f40b0
+# 752ff9c0f75f4d848de1ff975348a7bd
 msgid "The help command leads the users regarding the purpose and as well as about the options that are included in the Node-JS module. The help command lists out the alternative parameters of Node-JS module. It also describes the syntax for installing Node-JS module. The help command for Node-JS module is shown as below."
 msgstr ""
 
 #: ../../source/node.rst:19
-# 9f15584a7c9d4f3d9db4ccb2ab9d78f5
+# 85f7b9c8ed8c4b7b8415c0a2e73f2c73
 msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under Node JS."
 msgstr ""
 
 #: ../../source/node.rst:43
-# 41706c5b608c4accb252f040a2ea12cb
+# 2928c824c0ec40798509fe19b1e4a2b4
 msgid "Installation"
 msgstr ""
 
 #: ../../source/node.rst:45
-# 2f7ed0f1e04e431182c3280a31f6127c
+# bb635fdab3bc4f248c21305b83622374
 msgid "Installing the Node-JS to your machine, can be done simply by using the following command as shown:"
 msgstr ""
 
 #: ../../source/node.rst:51
-# 46d9f85b50f14708817244e6595225e2
+# 47534192fe334c1ca2bb4f104f32ad18
 msgid "After inputting the command above, the following operations occurs as shown in the tabular format."
 msgstr ""
 
 #: ../../source/node.rst:56
-# 7762faf9620b48a79e9639016cb94848
+# 0cdc1fee82b540cdb918b98d25c576d3
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/node.rst:56
-# c31e856caa334a898572ebee57a4c7dc
+# e9db238a56ff4c8fb94eb06750f3f732
 msgid "Alternative Parameter"
 msgstr ""
 
 #: ../../source/node.rst:56
-# 1ffe5ff24e474753b908399d06dd73f9
+# 6dd92a3b00ff4b79a571961667e27989
 msgid "Option"
 msgstr ""
 
 #: ../../source/node.rst:56
-# d46a3773e4754102a640a50629873def
+# f0f7643631b245239810e74cd5071d58
 msgid "Comments"
 msgstr ""
 
 #: ../../source/node.rst:58
 #: ../../source/node.rst:61
-# 4d07e29b6b2043998da34ca934a19668
-# fea4634c438d42a88d26cbe8b3ffcb6b
+# afcb621a3f104638b2a770538420209f
+# 4b136211876f4099ae8b4abec6649709
 msgid "Install Node JS? (Y/N)"
 msgstr ""
 
 #: ../../source/node.rst:58
 #: ../../source/node.rst:61
-# 08ea08127a4b4b99834399158a55e119
-# ad9ac210a93546e187a31662d4f4de28
+# 64ee166de1fa477b80b615bf441405c4
+# a12b4fd043ed47849eedec948e78bc48
 msgid "In Spite of Node JS, NodeJS, node-js, nodejs can also be used."
 msgstr ""
 
 #: ../../source/node.rst:58
-# 5c422269079d4900bf9fcc18153f97c6
+# 88befeeedcc6450c83f2897316b0804f
 msgid "Y(Yes)"
 msgstr ""
 
 #: ../../source/node.rst:58
-# ff03d28ea373445ba1b55ae26f184dea
+# 5df991626823413184cc09d4272360cd
 msgid "If the user wish to proceed the installation process they can input as Y."
 msgstr ""
 
 #: ../../source/node.rst:61
-# bce63ca0af9b4c2e983ae7c3cbff7a57
+# 2d32e50fc0bb48168d4885322a7c816e
 msgid "N(No)"
 msgstr ""
 
 #: ../../source/node.rst:61
-# 5a2e16674a214ae59e8dae635e1450e7
+# 5c637e30bdd84f698c83e5abfd364055
 msgid "If the user wish to proceed the installation process they can input as N.|"
 msgstr ""
 
 #: ../../source/node.rst:66
-# 714905f0a8c247a9add13eef329c5f93
+# 40d6e07a51ae4b8f9a89b1635f390b47
 msgid "If the user proceeds the installation process, during execution of installation the following process occurs:"
 msgstr ""
 
 #: ../../source/node.rst:68
-# 95d9cbf435c8484fa0b1dd89d8d71fe7
+# da9e00301ff049c3a8faa74fe6bd2104
 msgid "Reads package lists."
 msgstr ""
 
 #: ../../source/node.rst:69
-# 0f9a62ed67c941e1a9a057021f6c6554
+# 8c5e40ec7f5448fab62521f5bebb6464
 msgid "builds dependency tree."
 msgstr ""
 
 #: ../../source/node.rst:70
-# 8fee427bff564571830c977fb0dd9731
+# 820c944400e84b21b168ac96499b02d4
 msgid "reads state information."
 msgstr ""
 
 #: ../../source/node.rst:71
-# 5d5af96b1a1c4e24b1b71e4192bf989c
+# f1c0174b7fea4e749b6d58d28942532f
 msgid "list of packages that are automatically installed."
 msgstr ""
 
 #: ../../source/node.rst:72
-# 265d5f485f19494ba2a29064f5955264
+# b4c2ea7f06454d5e89bd9d057b22c84a
 msgid "list of new packages installed."
 msgstr ""
 
 #: ../../source/node.rst:73
-# 10212f3fc76049ef875e4ec05cdf002b
+# 1c15bb1d6854445cb328d9e20374ad41
 msgid "lists out the number of files that are upgraded, newly installed, removed, not upgraded."
 msgstr ""
 
 #: ../../source/node.rst:75
-# 22a6dd1baa7644369e1be21d5bb9137c
+# 461f785643d2419d85de44ed2840ca21
 msgid "Finally, the reports and status are clearly reported. And also, adding package nodejs from the Packager Apt executed correctly. The following screenshot depicts the entire process of installation as described."
 msgstr ""
 
 #: ../../source/node.rst:77
-# 3f9b29ebf4894977bd335ba5cf18dd69
+# 0d791b02b5194e1f91ed07270809eebb
 msgid "If the node-js module is already existing in the users machine, it will show an message as the Package node-js from the packager Apt is already installed. The screen shot as follows is an good example for those type of messages."
 msgstr ""
 
 #: ../../source/node.rst:172
-# 663565a8f8a84ed6a0989aaefddfc75f
+# 47a23a5f3e7b4ce6a4e51c0d70490289
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/node.rst:174
-# 4b745a09c52e471087b8e0881f85ea03
+# d067a5e795ac4372b70bc87ebbfd38f8
 msgid "The parameters used for declaring help command, installation are not case sensitive which is an added advantage while compared to others."
 msgstr ""
 
 #: ../../source/node.rst:175
-# 9a90b2e94d314cd2a6d1d1c0f2bd2e5d
+# 9d0e953e4f394a7ca7ce025cdd9458dd
 msgid "It is well-to-do in both Cent OS and as well as in Ubuntu."
 msgstr ""
 
 #: ../../source/node.rst:176
-# ad28eaceb45047e79792b6d9105c0e64
+# f4f026bbfff3443c882113d8441db226
 msgid "If the node-js package is already existing in the user machine, it won't overwrites, instead of that it will show a message as already exist."
 msgstr ""
 
 #: ../../source/node.rst:177
-# 992cf4a622b54cdfada8a9c56fa114a2
+# a38cf247481b40af817b17e2f2eea83a
 msgid "Node.js uses the Google V8 JavaScript engine to execute code, and a large percentage of the basic modules are written in JavaScript. Node.js contains a built-in library to allow applications to act as a Web server without software such as Apache HTTP Server or IIS."
 msgstr ""
 

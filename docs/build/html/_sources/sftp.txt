@@ -71,29 +71,24 @@ The following screen shot denotes the usage of this command.
 
 .. code-block:: bash
 
- kevells@corp:/# cleopatra sftp put
+ kevells@corp:cleopatra sftp put
+ 
  SFTP on Server group? (Y/N) 
  Y
  Please Enter SSH Timeout in seconds
- 
+ 90
  Please Enter remote SSH Port
-
+ 22
  Use Environments Configured in Project? (Y/N) 
-
+ N
  [Pharaoh Logging] Attempting to load SFTP connections...
  Enter local source file path
-
- [Pharaoh Logging] SFTP Put will cancel, no source file
+ /root/vv
+ Enter remote target file path
+ /root/gg/vv
+ [Pharaoh Logging] Opening SFTP Connections...
+ [Pharaoh Logging] All SFTP Puts Completed
  ******************************
-
-
-
- SFTP Put: Failure
-
- ------------------------------
- Installer Finished
- ******************************
-
 
 
 SFTP on server group? Y/N

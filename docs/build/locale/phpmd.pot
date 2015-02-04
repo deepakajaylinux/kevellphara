@@ -1,0 +1,244 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/phpmd.rst:3
+# bece411e71674b43ba8688dede80cd43
+msgid "PHPMD"
+msgstr ""
+
+#: ../../source/phpmd.rst:6
+# 55b9c2e5b7b8400792395e165d3932c6
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/phpmd.rst:8
+# 40f2687335134c9a949f288376e906ce
+msgid "PHP MessDeductor is a spin-off  of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD. PHPMD can be seen as an user friendly frontend application for the raw metrics stream measured by PHP Depend. General collateral or GC is the range of assets that are accepted, at any particular moment, as collateral in the repo market by the majority of market intermediaries and at a very similar repo rate. This  is suitable with Ubuntu and cent OS."
+msgstr ""
+
+#: ../../source/phpmd.rst:11
+# 6ff690cd9f2e4674a686453c6a55c775
+msgid "Help command"
+msgstr ""
+
+#: ../../source/phpmd.rst:13
+# b6ea9de27fa548c88c5d4cc0e86cdaa4
+msgid "It takes a given PHPMD source code base and look for several potential problems within that source. PHPMD is a young project and so it only provides a limited set of pre defined rules, compared with PMD, that detect code smells and possible errors within the analyzed source code. Checkout the rules section to learn more about allimplemented rules. The following help command guides the user to install phpmd module."
+msgstr ""
+
+#: ../../source/phpmd.rst:20
+# 86375d970c664557af2552096eb8e637
+msgid "The following screen shot vizualize its functions."
+msgstr ""
+
+#: ../../source/phpmd.rst:43
+# 080b246b56234413936cbf3d5602ccdd
+msgid "Installation"
+msgstr ""
+
+#: ../../source/phpmd.rst:45
+# a4fa52186a70452994fc8f94c060f6b1
+msgid "At the moment PHPMD comes with the following three renderers:"
+msgstr ""
+
+#: ../../source/phpmd.rst:47
+# 9af9cae9d11d4bd1bcf2a90230af08ea
+msgid "xml, which formats the report as XML."
+msgstr ""
+
+#: ../../source/phpmd.rst:48
+# 898ef0d64f084d95b176ff79c0a5c4f8
+msgid "text, simple textual format."
+msgstr ""
+
+#: ../../source/phpmd.rst:49
+# a47511fc806346de9d0546037e97c2fb
+msgid "html, single HTML file with possible problems."
+msgstr ""
+
+#: ../../source/phpmd.rst:51
+# 830b97b5b00a4a8487d464dd56bc1502
+msgid "The command used for installing the PHPMD to the users machine is shown below."
+msgstr ""
+
+#: ../../source/phpmd.rst:57
+# 0379697d18ce4f929c3976d5f6f1b7d6
+msgid "After inputting the command above, the following process occurs as shown in the screenshot  format."
+msgstr ""
+
+#: ../../source/phpmd.rst:97
+#: ../../source/phpmd.rst:103
+# a5754cdace324875b21782c7baedcb2c
+# 313bbbe3f58542509cd6c6effc531d0c
+msgid "Options"
+msgstr ""
+
+#: ../../source/phpmd.rst:103
+# 1c80dc64bfda42a9b6775aa6f6f29ff4
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/phpmd.rst:103
+# 8e2712edbedd4f0cb21d972f0e0354ed
+msgid "Directory(default)"
+msgstr ""
+
+#: ../../source/phpmd.rst:103
+# 7ce3fb251498470b854bc3af7a0daa1b
+msgid "Comments"
+msgstr ""
+
+#: ../../source/phpmd.rst:105
+# cd89b0283e9b4f20af9981edfe249b0d
+msgid "Data directory (Default)"
+msgstr ""
+
+#: ../../source/phpmd.rst:105
+#: ../../source/phpmd.rst:109
+# a88d0d79e2384e209f7219222878d4b6
+# 06dd27afa169404a86d33c0fd3d8c9a5
+msgid "Yes"
+msgstr ""
+
+#: ../../source/phpmd.rst:105
+# 69d018dc2b92454f945a034e9e5ced95
+msgid "“/opt/PHPMD”"
+msgstr ""
+
+#: ../../source/phpmd.rst:105
+# ebfc4f8b3a944313b6255aaefd5f58c9
+msgid "It will install PHPMD module under cleopatra"
+msgstr ""
+
+#: ../../source/phpmd.rst:107
+# febe47f71ab9499e9aabe132b7bfa36f
+msgid "Data directory"
+msgstr ""
+
+#: ../../source/phpmd.rst:107
+#: ../../source/phpmd.rst:111
+# c1ff2da383a942808b43f17c6e3660c2
+# e7ed655ff94d4e8488dec868e15d2635
+msgid "No"
+msgstr ""
+
+#: ../../source/phpmd.rst:107
+# fc51f867fc8c4b4ab3e05054ec7f3c13
+msgid "End slash"
+msgstr ""
+
+#: ../../source/phpmd.rst:107
+# 4eef63c8c41240bfae3f61e2fbbec54d
+msgid "The user has to a specify the path."
+msgstr ""
+
+#: ../../source/phpmd.rst:109
+# 01cf4a434e8844eba07666922ecd37ed
+msgid "Executor directory (Default)"
+msgstr ""
+
+#: ../../source/phpmd.rst:109
+# 639b1b6862404b3c97ea0502b7cc48f6
+msgid "“/usr/bin”"
+msgstr ""
+
+#: ../../source/phpmd.rst:109
+# 4555ae86630c48879eeae23b1434ed91
+msgid "It will install executor directory"
+msgstr ""
+
+#: ../../source/phpmd.rst:111
+# 4cd49b9ced1a4e5eb88a108a0ff258fa
+msgid "Executor directory"
+msgstr ""
+
+#: ../../source/phpmd.rst:111
+# 5d3c22de7ed541c8b0a94755ed314759
+msgid "No trailing slash"
+msgstr ""
+
+#: ../../source/phpmd.rst:111
+# b3976e4c3fb244299abe8a68e0773fb1
+msgid "The user gives input as directory name|"
+msgstr ""
+
+#: ../../source/phpmd.rst:117
+# dc21d662275d46d0b23249b67f9af4dc
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/phpmd.rst:120
+# 11896e10c55e478bb55d54eab50a89da
+msgid "ExcessivePublicCount"
+msgstr ""
+
+#: ../../source/phpmd.rst:122
+# 8b6d1d20f3b748a6b0c2fec598a5ea3f
+msgid "A large number of public methods and attributes declared in a class can indicate the class may need to be broken up as increased effort will be required to thoroughly test it."
+msgstr ""
+
+#: ../../source/phpmd.rst:126
+# 46c43900436b49788205491064715364
+msgid "ExcessiveParameterList"
+msgstr ""
+
+#: ../../source/phpmd.rst:128
+# 77e8370f4e8144299d20d5c24fb56b45
+msgid "Long parameter lists can indicate that a new object should be created to wrap the numerous parameters. Basically, try to group the parameters  together."
+msgstr ""
+
+#: ../../source/phpmd.rst:131
+# 56f841da14fb4ca1836baacd6cd540c4
+msgid "CyclomaticComplexity"
+msgstr ""
+
+#: ../../source/phpmd.rst:133
+# a09d942a38e64d309e74f250c64f1f6e
+msgid "Complexity is determined by the number of decision points in a method plus one for the method entry."
+msgstr ""
+
+#: ../../source/phpmd.rst:136
+# d333e70ebd424355b7cd2e78f4035071
+msgid "Superglobals"
+msgstr ""
+
+#: ../../source/phpmd.rst:138
+# a6f300f31d1e460ca43d83055895e407
+msgid "Accessing a super-global variable directly is considered a bad practice. These variables should be encapsulated in objects that are provided by a framework, for instance."
+msgstr ""
+
+#: ../../source/phpmd.rst:142
+# 30ed4d4071f048449c919e7c7bcc3afd
+msgid "ShortVariable"
+msgstr ""
+
+#: ../../source/phpmd.rst:144
+# d206b40b6e594384b7de6544c3a63424
+msgid "Detects when a field, local, or parameter has a very short name."
+msgstr ""
+
+#: ../../source/phpmd.rst:147
+# 50dbc560b57b4ff989143aa94c1a7220
+msgid "LongVariable"
+msgstr ""
+
+#: ../../source/phpmd.rst:149
+# 454de7eabd5849de8d246e9fc454c9d1
+msgid "Detects when a field, formal or local variable is declared with a long name."
+msgstr ""
+

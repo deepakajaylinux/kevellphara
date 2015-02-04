@@ -561,6 +561,8 @@ Playing with Cleopatra Modules
    chgrp1
    chmod
    chown
+   chrome
+   chromedriver
    citadel
    cleo
    composermodule
@@ -578,12 +580,14 @@ Playing with Cleopatra Modules
    gitkeysafe  
    gitlab
    gittools
+   haproxy
    hhvm
    hostname   
    intellij   
    java   
    jenkins   
    jenkinsplugins
+   jenkinssudonoPass
    jmeter
    jrush 
    jetty
@@ -598,13 +602,17 @@ Playing with Cleopatra Modules
    mysqlserver
    mysqladmin
    mysqltool
+   nagiosserver
    netbeans
+   networktools
    newrelic
    ngnix
    node
    openoffice
+   oracle
    parrallax
    phake
+   pharaohtools
    phpapc
    phpcodebeautifier
    phpconf
@@ -613,22 +621,33 @@ Playing with Cleopatra Modules
    phpdox
    phpeclipse
    phpedit
+   phpmd
    phpmodules
    phpmodules1
    phpssh   
    phpstorm
    phpunit
    phpvm 
+   phrankinsense
+   ping
    cleophlagrant
    port
    postgresserver
    process
    python
+   ra
    redis
+   rubybdd
+   rubyrvm
+   rubysystem
    runcommand   
    service
+   sftp_cleo
    skipfish
    sshharden
+   sshKeygen
+   sshkeyinstall
+   standardtools
    sudonopass
    svn
    systemdetectio

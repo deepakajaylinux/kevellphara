@@ -1,0 +1,218 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/sftp_cleo.rst:3
+# 72df288d73de42d790ef1bde7aa04d02
+msgid "SFTP"
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:6
+# bc364f717d10467a9bbb9e56f874303f
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:8
+# 1fd4f94e46114e54bad6dd57fb6bacf3
+msgid "This module assist in transferring files from one system to another. It can upload or download the files to the system. Automation is possible. Put and get options are available in this module. It specifies the configuration of your environment. It is user friendly with Ubuntu and cent OS."
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:11
+# 362107d7bf754a458a67f39a3917b0ae
+msgid "Help command"
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:13
+# 03284a1c9605445b834ed319cde5f7f2
+msgid "Help command used to find information about a specified command. For more information about changes to functionality of SFTP we can use this help command."
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:20
+# 9d26db9735cd4883856577b10b5b3c44
+msgid "The following screen shot will guide you."
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:52
+# 0842581cdff8453cbd84defe4bbc8333
+msgid "Installation"
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:54
+# f1abc2eea8e94ed29c4579c208823793
+msgid "As a company, and as individuals, SFTP has been dedicated to meeting each partner’s technology challenges, fulfilling their engineering requirements, and satisfying their business goals. It is an obvious process to install SFTP module under Cleopatra by just using the command given below,"
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:62
+# 793b962a303046ca9ac63747db2bf0e2
+msgid "After giving the command then the system will raise the question as,"
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:64
+# 66b79ff15c774a85a42b49cd7f6e3f96
+msgid "Install SFTP server group? Y/N"
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:66
+# a4adf7916d04486d830cc2ef9cd650c2
+msgid "If the user input as Y then"
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:68
+# 555f5ffba575472ab2ef3fa5a2dbdc68
+msgid "SSh timeout section?"
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:70
+# b3589a43f8c34d7da76113cd5ba8f8a0
+msgid "The user has to enter the value"
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:72
+# f837c1db6adc47d0a0c14cfb8d1d0d39
+msgid "Please enter remote ssh port"
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:74
+# d40f12e1c00d4594b3619b557b766f2b
+msgid "Default value is 22. The user can enter any value"
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:76
+# c2e1088d04bf4415a0b09cf188fc08c2
+msgid "Enter server host IP?"
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:78
+# 9dbd38b66d1e4e558ad29693816be49f
+msgid "The user has to enter username, password, and key path."
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:80
+# ff52b8fd80444f95824e3cba3393be15
+msgid "Add another server?"
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:82
+# 2bb6506b753a483695a543c1f08f7929
+msgid "If the user input as Y he has to enter new server name"
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:84
+# 9210efa54fe1471f8db4f35005488ca4
+msgid "Then everything will be connected."
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:86
+# a4a642c00b254704a3328c73145dc811
+msgid "If the user input as N previous server name can be accessed."
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:89
+# 3127f47bf9294d53b7095b29db1ee131
+msgid "The following screenshot will guide you."
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:115
+# 1fa6707628304d9b822dfc1a9883bfac
+msgid "Options"
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:121
+# a32950b5275c418b954ee451b8f4eaef
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:121
+# d8eef88a588440a19ad9e17e73b5741d
+msgid "Syntax"
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:121
+# 00b0b4ce74be44ea8015eb027a750e03
+msgid "Comments"
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:123
+# ac976de6a91c414c98141b653156b030
+msgid "put"
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:123
+# 0b2f32cee13243c7822182e16f6e1f70
+msgid "Source to target"
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:123
+# 8e62340a0ad64d4e8b16c91f550eabab
+msgid "The file can transferred"
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:125
+# 325d975d53fc4ca7a2baeee2a8871e36
+msgid "get"
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:125
+# 91edd655e64043448e9a62ac7461e852
+msgid "Path to source"
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:125
+# e8058fdf860740e9b28342e02be10049
+msgid "The file can downloaded from remote system|"
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:130
+# 4b7ffbeeab914dd198e8e90f07513f67
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:132
+# 3cde807ed29447998cb8e18ad3475d3d
+msgid "Multi server from remote area."
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:133
+# e1a8844daa8b41fb8ee164e09b1001a8
+msgid "Specified file is not available error message will come."
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:134
+# 4d6c7587fbed40499ab56b977a60d763
+msgid "Accessability is difficult without permission."
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:135
+# 2a8c411f29f54261a3d5984a73b20a53
+msgid "Automatically overwrite in case of already in case of file exist."
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:136
+# 6778ed1c99d149929ecbefd6ace54e02
+msgid "Non case sensitive."
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:137
+# 7ef07958b6184174b6dbc8cce4a9ae9b
+msgid "Secrecy and security is possible."
+msgstr ""
+
+#: ../../source/sftp_cleo.rst:139
+# 8a130fe534d24283a83d7e7fa5ebace9
+msgid "Solving customers most challenging technology problems and enabling their success is the SFTP mission and passion."
+msgstr ""
+

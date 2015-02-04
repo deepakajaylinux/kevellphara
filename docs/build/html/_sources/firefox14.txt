@@ -1,12 +1,13 @@
 ===================
-FireFox 14
+FireFox14
 ===================
 
 
 Synopsis 
 ----------
 
- This module is open source web browser. It used to install firefox14. Ubuntu releases updated versions periodically. It implements current and anticipated web standards. Long-term support includes updates for new hardware, security patches and updates to the 'Ubuntu stack' (cloud computing infrastructure). It is comfortable with Ubuntu and Cent OS.
+This module used to install firefox14. Ubuntu releases updated versions periodically. It implements current and anticipated web standards. Long-term support includes updates for new hardware, security patches and updates to the cloud computing infrastructure. It is comfortable with Ubuntu and Cent OS.
+
 
 Help Command 
 ----------------
@@ -95,19 +96,21 @@ Options
 .. cssclass:: table-bordered
 
 
-  	+------------------------------+--------------------------+------------+----------------------------+
-        | Parameters                   | Alternative Parameter    | Required   | Comment                    |
-        +==============================+==========================+============+============================+
-        |cleopatra firefox14 Install   |Firefox,ff14,             | Y(YES)     |System starts installation  |
-        |                              |                  	  |            |process Under cleopatra	    | 
-        +------------------------------+--------------------------+------------+----------------------------+ 
-        |cleopatra firefox14 Install   |Firefox,ff14           	  | N(NO)      |System stops installation   |
-        |                              |                   	  |            |process|		    | 
-        +------------------------------+--------------------------+------------+----------------------------+
+  	+------------------------------+---------------------------+------------+----------------------------+
+        | Parameters                   | Alternative Parameter     | Required   | Comment                    |
+        +==============================+===========================+============+============================+
+        |cleopatra firefox14 Install   |Instead of using firefox14 | Y(YES)     |System starts installation  |
+        |                              |we can use ff14, Firefox14 |            |process Under cleopatra     | 
+        +------------------------------+---------------------------+------------+----------------------------+ 
+        |cleopatra firefox14 Install   |Instead of using firefox14 | N(No)      |System stops installation   |
+        |                              |we can use ff14, Firefox14 |            |process Under cleopatra|    | 
+        +------------------------------+---------------------------+------------+----------------------------+  
+
 
 Benefits
 ------------------
+
 * Firefox14 uses support for new hardware and integration of all the updates published in that series to date.
-* Firefox14 is an open source Web browser for Linux.
 * Firefox14 is non-case sensitive.
 * Privacy and security measures, smart searching is possible.
+* It is comfortable with Ubuntu and centOS.

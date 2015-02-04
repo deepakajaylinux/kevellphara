@@ -223,14 +223,18 @@ here, the screenshot denotes the display of all modules available under Cleopatr
    :maxdepth: 6
    
  apachecontrol
+ apachevirtualhost
+ autopilot
+ dapperfy
  dbinstall
  environmentconfigdapper
  hosteditor
  lighttpdControl_dapper
  logging_dapper
  nginxcontrol
+ nginxsbeditor
  project
  run_command
  sftp_dapper
  systemdetection
-
+ templatingdapper

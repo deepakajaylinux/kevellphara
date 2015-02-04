@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>JUser &mdash; KEVELL 0.1 Dokumentation</title>
+    <title>JUser &mdash; KEVELL 0.1 documentation</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -25,14 +25,13 @@
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
-    <script type="text/javascript" src="_static/translations.js"></script>
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
-    <link rel="top" title="KEVELL 0.1 Dokumentation" href="index.html" />
+    <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
     <link rel="up" title="Jrush" href="jrush_main.html" />
     <link rel="next" title="System Detection" href="systemdetection_jrush.html" />
-    <link rel="prev" title="JConfiguration" href="jconfiguration.html" />
+    <link rel="prev" title="JFeature" href="jfeatures.html" />
 
 
 <script src="_static/labibi.js"></script>
@@ -103,10 +102,10 @@
           
           
             
-  <li><a href="jconfiguration.html"
-         title="vorheriges Kapitel">&laquo; JConfiguration</a></li>
+  <li><a href="jfeatures.html"
+         title="previous chapter">&laquo; JFeature</a></li>
   <li><a href="systemdetection_jrush.html"
-         title="nächstes Kapitel">System Detection &raquo;</a></li>
+         title="next chapter">System Detection &raquo;</a></li>
           
           
           <!--  <li>
@@ -130,15 +129,15 @@
   
   
   <div class="section" id="juser">
-<h1>JUser<a class="headerlink" href="#juser" title="Permalink zu dieser Überschrift">¶</a></h1>
+<h1>JUser<a class="headerlink" href="#juser" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="synopsis">
-<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
 <p>A user is a person who uses a computer or network service. Users generally use a system or a software product without the technical expertise required to fully understand it.</p>
 <p>A user often has a user account and is identified to the system by a username (or user name). Other terms for username include login name, screen name.</p>
 <p>A user&#8217;s account allows a user to authenticate to a system and to be granted authorization to access resources provided by or connected to that system; however, authentication does not imply authorization. To log into an account, a user is typically required to authenticate oneself with a password or other credentials for the purposes of accounting, security, logging, and resource management.</p>
 </div>
 <div class="section" id="help-command">
-<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>This command helps to determine the usage of Juser module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screen shot of the same.</p>
 <div class="highlight-bash"><div class="highlight"><pre>jrush juser <span class="nb">help</span>
 </pre></div>
@@ -171,7 +170,7 @@ End Help
 </div>
 </div>
 <div class="section" id="delete">
-<h2>Delete<a class="headerlink" href="#delete" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Delete<a class="headerlink" href="#delete" title="Permalink to this headline">¶</a></h2>
 <p>When the user needs to delete an user in machine, the below given command will execute the process of installation.</p>
 <div class="highlight-bash"><div class="highlight"><pre>jrush juser delete ..config <span class="nv">file</span><span class="o">=</span>”bootstrap file path”
 </pre></div>
@@ -200,7 +199,7 @@ JUser Delete Finished
 </div>
 </div>
 <div class="section" id="info">
-<h2>Info<a class="headerlink" href="#info" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Info<a class="headerlink" href="#info" title="Permalink to this headline">¶</a></h2>
 <p>When the user needs to display the details of a user in machine, the below given command will execute the process of installation.</p>
 <div class="highlight-bash"><div class="highlight"><pre>jrush juser info ..config <span class="nv">file</span><span class="o">=</span>”bootstrap file path”
 </pre></div>
@@ -228,14 +227,14 @@ JUser Info Finished
 </div>
 </div>
 <div class="section" id="password">
-<h2>Password<a class="headerlink" href="#password" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Password<a class="headerlink" href="#password" title="Permalink to this headline">¶</a></h2>
 <p>When the user needs to change the password of a user in machine, the below given command will execute the process of installation.</p>
 <div class="highlight-bash"><div class="highlight"><pre>jrush juser password ..config <span class="nv">file</span><span class="o">=</span>”bootstrap file path”
 </pre></div>
 </div>
 </div>
 <div class="section" id="alternative-parameter">
-<h2>Alternative Parameter<a class="headerlink" href="#alternative-parameter" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Alternative Parameter<a class="headerlink" href="#alternative-parameter" title="Permalink to this headline">¶</a></h2>
 <p>Either of the two alternative parameter can be used in command- juser and JUser</p>
 <p>eg: jrush juser info ..config file=”bootstrap file path” / jrush JUser info ..config file=”bootstrap file path”</p>
 <div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# jrush juser password --config-file<span class="o">=</span><span class="s2">&quot;/var/www/html/joomla/configuration.php&quot;</span>
@@ -263,7 +262,7 @@ JUser Password Finished
 </div>
 </div>
 <div class="section" id="benefits">
-<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
 <li>Easy to get the information about a user using a single command</li>
 <li>Easy to change the password of a user from back end using single command</li>
@@ -304,7 +303,7 @@ JUser Password Finished
     </p>
     <p>
         &copy; Copyright 2015, kevell.<br/>
-      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2.3.<br/>
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2.2.<br/>
     </p>
   </div>
 </footer>

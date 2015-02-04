@@ -5,7 +5,8 @@ FireFox
 Synopsis 
 -----------
 
- This module is open source web browser. It used to install firefox. Ubuntu releases updated versions periodically. It implements current and anticipated web standards. Long-term support includes updates for new hardware, security patches and updates to the 'Ubuntu stack' (cloud computing infrastructure). It is comfortable with Ubuntu and Cent OS.
+This module used to install firefox. Ubuntu releases updated versions periodically. It implements current and anticipated web standards. Long-term support includes updates for new hardware, security patches and updates to the cloud computing infrastructure. It is comfortable with Ubuntu and Cent OS.
+
 
 Help Command 
 ----------------
@@ -49,13 +50,15 @@ It is a glaring process to install firefox module under Cleopatra by just using 
               cleopatra firefox install
 
 After key in the command, it can asks
+
 Install firefox?(Y/N)
+
 In case the user input as Y, it can install firefox from the package. Else, it can exit the screen. The following screen shots can explain it.
 
 
 .. code-block:: bash
 	
-	kevells@corp:/# cleopatra Firefox17 install
+	kevells@corp:/# cleopatra firefox install
 
 	Install Firefox? (Y/N) 
 	y
@@ -67,7 +70,7 @@ In case the user input as Y, it can install firefox from the package. Else, it c
 	chmod 755 /tmp/cleopatra-temp-script-51942043520.sh 2>/dev/null
 	Changing /tmp/cleopatra-temp-script-51942043520.sh Permissions
 	Executing /tmp/cleopatra-temp-script-51942043520.sh
-	Cloning into 'firefox17'...
+	Cloning into 'firefox'...
 	remote: Counting objects: 78, done.
 	remote: Total 78 (delta 0), reused 0 (delta 0)
 	Unpacking objects: 100% (78/78), done.
@@ -82,7 +85,7 @@ In case the user input as Y, it can install firefox from the package. Else, it c
 
 	Single App Installer:
 	--------------------------------------------
-	Firefox17: Success
+	Firefox: Success
 	------------------------------
 	Installer Finished
 	******************************
@@ -95,21 +98,20 @@ Options
 .. cssclass:: table-bordered
 
         +-------------------------------+------------------------------+--------------------------+------------------------------+
-        | Parameters                    | Alternative Parameter        | Options                  | Comment                      |
+        | Parameters                    | Alternative Parameter        | Options                  | Comments                     |
         +===============================+==============================+==========================+==============================+
-        |cleopatra firefox Install      |Firefox                       |Y(YES)                    |System starts installation    |
-        |                               |                              |                          |process they can input as Y   |
+        |cleopatra firefox Install      |Instead of using firefox we   |Y(YES)                    |System starts installation    |
+        |                               |can use Firefox, firefox      |                          |process they can input as Y   |
         +-------------------------------+------------------------------+--------------------------+------------------------------+ 
-        |cleopatra firefox Install      |Firefox                       |N(No)                     |If the user wish to           |
-        |                               | 			       |                          |quit the installation         | 
-        |                               | 			       |                          |process they can              |
-        |                               | 			       |                          |input as N.|                  |
+        |cleopatra Firefox Install      |Instead of using firefox we   |N(No)                     |System stops installation     |
+        |                               |can use Firefox, firefox      |                          |process|		         | 
         +-------------------------------+------------------------------+--------------------------+------------------------------+
+
 
 Benefits
 -------------
 
 * Firefox uses support for new hardware and integration of all the updates published in that series to date.
-* Firefox is an open source Web browser for Linux.
+* It is comfortable with Ubuntu and centOS.
 * Firefox is non-case sensitive.
 * Privacy and security measures, smart searching

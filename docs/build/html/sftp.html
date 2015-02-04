@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>SFTP &mdash; KEVELL 0.1 Dokumentation</title>
+    <title>SFTP &mdash; KEVELL 0.1 documentation</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -25,11 +25,10 @@
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
-    <script type="text/javascript" src="_static/translations.js"></script>
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
-    <link rel="top" title="KEVELL 0.1 Dokumentation" href="index.html" />
+    <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
     <link rel="up" title="Phlagrant" href="phlagrant.html" />
     <link rel="next" title="SystemDetection" href="systemdetection_phlagrant.html" />
     <link rel="prev" title="Box" href="box.html" />
@@ -104,9 +103,9 @@
           
             
   <li><a href="box.html"
-         title="vorheriges Kapitel">&laquo; Box</a></li>
+         title="previous chapter">&laquo; Box</a></li>
   <li><a href="systemdetection_phlagrant.html"
-         title="nächstes Kapitel">SystemDetection &raquo;</a></li>
+         title="next chapter">SystemDetection &raquo;</a></li>
           
           
           <!--  <li>
@@ -130,13 +129,13 @@
   
   
   <div class="section" id="sftp">
-<h1>SFTP<a class="headerlink" href="#sftp" title="Permalink zu dieser Überschrift">¶</a></h1>
+<h1>SFTP<a class="headerlink" href="#sftp" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="synopsis">
-<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
 <p>This module assist in transferring files from one system to another. It can upload or download the files to the system. Automation is possible. Put and get options are available in this module. It also manages virtual box. It is user friendly with Ubuntu and cent OS.</p>
 </div>
 <div class="section" id="help-command">
-<h2>Help command<a class="headerlink" href="#help-command" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>Help command used to find information about a specified command. For more information about changes to functionality of Secure File Transfer Protocol(SFTP) under phlagrant the user can use this help command.</p>
 <div class="highlight-bash"><div class="highlight"><pre>phlagrant  sftp <span class="nb">help</span>
 </pre></div>
@@ -154,13 +153,13 @@ Pharaoh Tools - Phlagrant
  SFTP, sftp
 
        - put
-       Will ask you <span class="k">for</span> details <span class="k">for</span> servers, <span class="k">then</span> copy a file or directory from <span class="nb">local </span>to remote
+       Will ask you <span class="k">for </span>details <span class="k">for </span>servers, <span class="k">then </span>copy a file or directory from <span class="nb">local </span>to remote
        example: cleopatra sftp put
        example: cleopatra sftp put --yes --environment-name<span class="o">=</span>staging --source<span class="o">=</span><span class="s2">&quot;/tmp/file&quot;</span> --target<span class="o">=</span><span class="s2">&quot;/home/user/file&quot;</span>
        example: cleopatra sftp put --yes --source<span class="o">=</span><span class="s2">&quot;/tmp/file&quot;</span> --target<span class="o">=</span><span class="s2">&quot;/home/user/file&quot;</span> <span class="c"># will ask for server details</span>
 
        - get
-       Will ask you <span class="k">for</span> details <span class="k">for</span> servers, <span class="k">then</span> copy a file or directory from remote to <span class="nb">local</span>
+       Will ask you <span class="k">for </span>details <span class="k">for </span>servers, <span class="k">then </span>copy a file or directory from remote to <span class="nb">local</span>
 <span class="nb">       </span>example: cleopatra sftp get
        example: cleopatra sftp get --yes --environment-name<span class="o">=</span>staging --source<span class="o">=</span><span class="s2">&quot;/tmp/file&quot;</span> --target<span class="o">=</span><span class="s2">&quot;/home/user/file&quot;</span>
        example: cleopatra sftp get --yes --source<span class="o">=</span><span class="s2">&quot;/tmp/file&quot;</span> --target<span class="o">=</span><span class="s2">&quot;/home/user/file&quot;</span> <span class="c"># will ask for server details</span>
@@ -172,37 +171,33 @@ End Help
 </div>
 </div>
 <div class="section" id="alternative-parameters">
-<h2>Alternative parameters<a class="headerlink" href="#alternative-parameters" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Alternative parameters<a class="headerlink" href="#alternative-parameters" title="Permalink to this headline">¶</a></h2>
 <p>There are two alternative parameters are available. They are SFTP and sftp. Instead of using sftp, the user can use SFTP.</p>
 </div>
 <div class="section" id="put">
-<h2>Put<a class="headerlink" href="#put" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Put<a class="headerlink" href="#put" title="Permalink to this headline">¶</a></h2>
 <p>The file transfer can be done from local to remote server. This put option asks the user datails for servers. The following command used for put option.</p>
 <div class="highlight-bash"><div class="highlight"><pre>phlagrant  sftp put – yes –source<span class="o">=</span>”/tmp/file” – <span class="nv">target</span><span class="o">=</span>”/home/user/file”
 </pre></div>
 </div>
 <p>The following screen shot denotes the usage of this command.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra sftp put
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:cleopatra sftp put
+
 SFTP on Server group? <span class="o">(</span>Y/N<span class="o">)</span>
 Y
 Please Enter SSH Timeout in seconds
-
+90
 Please Enter remote SSH Port
-
+22
 Use Environments Configured in Project? <span class="o">(</span>Y/N<span class="o">)</span>
-
+N
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> Attempting to load SFTP connections...
 Enter <span class="nb">local source </span>file path
-
-<span class="o">[</span>Pharaoh Logging<span class="o">]</span> SFTP Put will cancel, no <span class="nb">source </span>file
-******************************
-
-
-
-SFTP Put: Failure
-
-------------------------------
-Installer Finished
+/root/vv
+Enter remote target file path
+/root/gg/vv
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Opening SFTP Connections...
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> All SFTP Puts Completed
 ******************************
 </pre></div>
 </div>
@@ -220,7 +215,7 @@ Installer Finished
 <p>If the user input as N, it can be terminated.</p>
 </div>
 <div class="section" id="get">
-<h2>Get<a class="headerlink" href="#get" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Get<a class="headerlink" href="#get" title="Permalink to this headline">¶</a></h2>
 <p>File transfer can be done from remote to local server. It asks the user to enter server group. The following command used for get option.</p>
 <div class="highlight-bash"><div class="highlight"><pre>phlagrant  sftp get – yes –source<span class="o">=</span>”/tmp/file” – <span class="nv">target</span><span class="o">=</span>”/home/user/file”
 </pre></div>
@@ -281,7 +276,7 @@ Installer Finished
 </div>
 </div>
 <div class="section" id="options">
-<h2>Options<a class="headerlink" href="#options" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Options<a class="headerlink" href="#options" title="Permalink to this headline">¶</a></h2>
 <table border="1" class="table-bordered docutils">
 <colgroup>
 <col width="20%" />
@@ -307,7 +302,7 @@ Installer Finished
 </table>
 </div>
 <div class="section" id="benefits">
-<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
 <li>Multi server from remote area.</li>
 <li>Specified file is not available error message will come.</li>
@@ -351,7 +346,7 @@ Installer Finished
     </p>
     <p>
         &copy; Copyright 2015, kevell.<br/>
-      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2.3.<br/>
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2.2.<br/>
     </p>
   </div>
 </footer>

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 14:00+0530\n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,136 +17,136 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/apacheconf.rst:2
-# 84f3c543dbbb41328f3b5df1fffc4ea3
+# 19a358e7eec5482f8ec2086f343712ea
 msgid "ApacheConf"
 msgstr ""
 
 #: ../../source/apacheconf.rst:5
-# da550cf8191f48c586982b1e7dd37d1f
+# 2dc11d76f9be4fde84020f209965b0ad
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/apacheconf.rst:7
-# be0b4b6373e44ddb9638ff1c2786611f
+# ca56822e462947069304aa8093bc46ef
 msgid "This module assists in managing and installing the Apache configuration. It specifies the configuration of your environment. It is well-to-do in ubuntu and as well as in Cent OS."
 msgstr ""
 
 #: ../../source/apacheconf.rst:11
-# 8d125868bd50484c88f686231eba80ad
+# 940fbeb880284cf8b02e13f96a61fde6
 msgid "Help command"
 msgstr ""
 
 #: ../../source/apacheconf.rst:13
-# 266afd6138ff479e92ec62ffebc40362
+# 8a38ba4b5e2740c2ace09089097e79ba
 msgid "The help command describes about the purpose and the commands available under this modules. It also explains the command to install the particular module. It lists out the alternative parameters that can be used for declaration. The command used for declaring help is shown as below:"
 msgstr ""
 
 #: ../../source/apacheconf.rst:20
-# 700ea00b662d4ccbbfe5ab53a55d1782
+# e00d2dd8042b42d4bd701d5d60eab875
 msgid "The screen shot as shown below, visually represent the usage of the help command under this module."
 msgstr ""
 
 #: ../../source/apacheconf.rst:44
-# 2041954ca19b4cf2a0bb725adbd78857
+# 46f613158a494cb2b521e5ed3e241f19
 msgid "Installation"
 msgstr ""
 
 #: ../../source/apacheconf.rst:46
-# b67d2209e0b846039a2179f5488068cd
+# 3c16629b1b464ee1833ed2a60036f389
 msgid "It is easier to install this particular tool under Cleopatra by simply using the command given below,"
 msgstr ""
 
 #: ../../source/apacheconf.rst:52
-# 2836333d8d794385a616e917b10f7b13
+# fa1fe76003ed450bb793a048a21391b9
 msgid "After giving the command above, the tool will ask as"
 msgstr ""
 
 #: ../../source/apacheconf.rst:58
-# 1d8c1ff47cf54505be2baf1701941f71
+# f4ca29f21eaa4c5f92277cb097884f33
 msgid "if you give an input as Y, the module will get installed successfully."
 msgstr ""
 
 #: ../../source/apacheconf.rst:60
-# cb5f1cd229bf48848f01b1063172a9cb
+# 44456806ea76490f8929003151b9da99
 msgid "It will also throw some commands to specify the non-default values for LockFile, PidFile, Timeout, KeepAlive, MaxKeepAliveRequest, KeepAliveTimeout. If the user gives input as Y(Yes) it will automatically fix the default value. If the user gives input as N(No) then it will enquire about the values from the user."
 msgstr ""
 
 #: ../../source/apacheconf.rst:62
-# e73161c990ff4bde875b4707e3d2940c
+# 6ccf9d14f4bd4f24a007433297929792
 msgid "The screen shot given below explains visually about the steps and commands involves in installation."
 msgstr ""
 
 #: ../../source/apacheconf.rst:105
-# 0ee9e206d8e94cda915cf626e4e0becd
+# c6b36d2280904a43a7d87529d6c96724
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/apacheconf.rst:105
-# 4a6d41ade5214f389326f80c5ce2063b
+# bef2937639464ada97aa99dc96471e0f
 msgid "Required"
 msgstr ""
 
 #: ../../source/apacheconf.rst:105
-# d80e6c7b372c41a7ae2bc9a3f6105dcd
+# 19b5302cf97b4f4489ff452edecd089a
 msgid "Comment"
 msgstr ""
 
 #: ../../source/apacheconf.rst:107
-# 7b59da342a38417bbcaaa30786d1299f
+# d037caeeca0242ebbe3503f511a89a10
 msgid "Install"
 msgstr ""
 
 #: ../../source/apacheconf.rst:107
 #: ../../source/apacheconf.rst:111
-# d9cf251a5b2648e6b8b9d4ce0a01f6d0
-# 6eac4064c9884207afbf29dcf20d811c
+# d9c1d4b92f654304aef8529cc4eb458e
+# ee2311eb6d1640af862eaef4d517a05e
 msgid "Y(YES)"
 msgstr ""
 
 #: ../../source/apacheconf.rst:107
-# b31ff7c69bfc4007ae4049479209eba4
+# 7241bd72582244dd9146277b67d83944
 msgid "It will install the apacheconf under Cleopatra"
 msgstr ""
 
 #: ../../source/apacheconf.rst:111
 #: ../../source/apacheconf.rst:116
-# 2657585cc0de41aaa21df4712d21dd56
-# b18b87dd9e9f4cafaa64c3489554cf48
+# 0b29820a2b974ede9e01eb156000dd8c
+# 6e78680210bc4caaae442ae3d4a1c099
 msgid "Install Apache conf? (Y/N)"
 msgstr ""
 
 #: ../../source/apacheconf.rst:111
-# c360c53889184807b5e0741c7411d02e
+# 5beb4840babc4371bbf2a78c2f398365
 msgid "If the user gives input as yes, it will install the module."
 msgstr ""
 
 #: ../../source/apacheconf.rst:116
-# 12c23576bbcd402d83c5ce9303c94b39
+# 7c8265ed7d8d454d89378a04f52dc11e
 msgid "N(NO)"
 msgstr ""
 
 #: ../../source/apacheconf.rst:116
-# fb8375c714da4fa38c2ec00bb32ed77f
+# 425e419c6d6041e78e6827524243673c
 msgid "If the user gives input as no, it will get exit.|"
 msgstr ""
 
 #: ../../source/apacheconf.rst:123
-# 2f71523847b94d3588746ca63eaa371e
+# 86065eb98efe47c0abefa78e32b9bf95
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/apacheconf.rst:125
-# 4405b2283c1845cdbb18943f4d59a3cb
+# 240b7456e72b43029bba38e588c73e70
 msgid "The module assists the end user in installing and managing the configuration of Apache."
 msgstr ""
 
 #: ../../source/apacheconf.rst:126
-# fe1b1058e2ec49c0a60050ff718877d4
+# 5849e22496704f5b90761287186ff7d5
 msgid "While installing the Apache tool, the end user can design and manage the configuration as per their requirement using this module."
 msgstr ""
 
 #: ../../source/apacheconf.rst:127
-# 6f72696879c2474d95672c36085099a7
+# 95eb55a44c29415db4ed2611d717cbf0
 msgid "If it founds the configuration already exists it will overwrite the existing one."
 msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 14:00+0530\n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,151 +17,151 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/gittools.rst:3
-# a3e7c276bc624c7a9ebcb5b70926f58b
+# d4779cc6d64141d9bb587d30ae661cf5
 msgid "Git tools"
 msgstr ""
 
 #: ../../source/gittools.rst:7
-# 8202e9fa495e4de78c120e810938e9cb
+# b2e380b8f7134b3599397ccf912b14e4
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/gittools.rst:9
-# ed8e51572554441d809824deabc5f6a6
+# 30316951c7f24b848ae4bfcaea53f11f
 msgid "Gittools is a distributed revision control system with an emphasis on speed, data integrity, and support for distributed, non-linear workflows. This module lift installation in updated version. While installing it can also install gitfrom,git core,gitcole,gitfrom under  Cleopatra. Automation is possible. It is user friendly with Ubuntu and cent OS."
 msgstr ""
 
 #: ../../source/gittools.rst:13
-# fc144b99aee141c0afd970a3c22bda58
+# 3723e4deca5b42a2aea8e07a88156330
 msgid "Help command"
 msgstr ""
 
 #: ../../source/gittools.rst:15
-# 355a6fdb97244a438b9f68c5aad8c47c
+# 4b9351f7849e46e3a602a141eeca66b7
 msgid "This help command guide the user about Cleopatra. It is less time consuming because it can installed automatically. Suitable for all type of user. The following help command will assist the user for gittools installation. This command-line argument specifies the name of the command about which information is to be displayed."
 msgstr ""
 
 #: ../../source/gittools.rst:21
-# 5df30b733a864805b35d6f459402186d
+# a62cc0a88e074f4a8ab382c10c0d052a
 msgid "After typing the command it shows the usage. The screen shot can express the function of this command."
 msgstr ""
 
 #: ../../source/gittools.rst:24
-# ad1d0063a6794ff39a573c7bd7a755b5
+# 12ef309244bd48dea0672956c6023a64
 msgid "Installation"
 msgstr ""
 
 #: ../../source/gittools.rst:26
-# c2cf2679867a42ffaec937ad9a39388d
+# faf3598d362e498c98a8a1f71b7de26d
 msgid "Installation includes provision of or connection to services required to make the installed equipment ready for operation. It is a manifest process to install gittools module under Cleopatra by just using the command given below,"
 msgstr ""
 
 #: ../../source/gittools.rst:32
-# 7fec38d5036540e78d6c5b9e3d2d3cfa
+# 2e1f80a556864f7f98b22f764e7356a4
 msgid "After vitalize the command it will catechize input."
 msgstr ""
 
 #: ../../source/gittools.rst:34
-# b11cb4e6220d46639c271cc6055c12d7
+# 0aa696b282f440d9928c59701b466f33
 msgid "The user input as yes automatically it will install gittools with checking from the system.  The following screen shot demonstrates it."
 msgstr ""
 
 #: ../../source/gittools.rst:37
-# fc99b37e12cb4ec48fb6ccfd95e5145a
+# 75ab5ee07cc54ce892dc86bd5a50c4ff
 msgid "The installation processing quickly by the following steps,"
 msgstr ""
 
 #: ../../source/gittools.rst:39
-# 57dc9be9234f448fa134083e224f37a2
+# 515e70de12ff4da49588955346e64bdd
 msgid "Step 1  Install gittools ?(Y/N) Step 2  If the user gives Y,the system can check the version and install it Step 3  If the user gives N, exit the installation."
 msgstr ""
 
 #: ../../source/gittools.rst:44
 #: ../../source/gittools.rst:49
-# 9eed580875464d49a5a6b228bc83f480
-# ab9492b821c04aaa90a90e82a0836dea
+# e52052765ef2453395ff8b284a87e93b
+# 5f68534b14334397968f74555bee9067
 msgid "Options"
 msgstr ""
 
 #: ../../source/gittools.rst:49
-# 50b43260a4c640a78e642706b7f762ba
+# e99d22f7571e436582496c2816c10c7a
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/gittools.rst:49
-# d401162b0ab444b4a8846c08be874f0a
+# 3ebc385494dc45d1b280cc1ecf807014
 msgid "Alternative Parameter"
 msgstr ""
 
 #: ../../source/gittools.rst:49
-# f865673e451542819eaa319f10f7d623
+# 5c5d7b3dcd984031a69dbaf31c67d83a
 msgid "Comments"
 msgstr ""
 
 #: ../../source/gittools.rst:51
 #: ../../source/gittools.rst:54
-# 03cd7e4a43774c29a52aa6178b624aef
-# cdc1814f625a4ff28699a3df9635a310
+# 32be6b15a7c54612b7d1dc5e2057f1b0
+# 7dbe333dfeb1486ebb0d24832973f83b
 msgid "Install gittools?(Y/N)"
 msgstr ""
 
 #: ../../source/gittools.rst:51
-# 669ebc94443d4dcbafbfe90595df21ad
+# 67f0de54ac9c4e019bb8953156e10764
 msgid "Instead of using gittools we can use GitTools,gittools,git-tools"
 msgstr ""
 
 #: ../../source/gittools.rst:51
-# e18e3aff143849e8ba1d790a41546798
+# eb4024d56be341d98b363213fac723c5
 msgid "Y(Yes)"
 msgstr ""
 
 #: ../../source/gittools.rst:51
-# a433bb316b9a4191a7cf7c6d7ad2d871
+# a0ff091f1d354d6fa5b297b594db2992
 msgid "It will install git and set of common gittools under Cleopatra."
 msgstr ""
 
 #: ../../source/gittools.rst:54
-# 7a73fa8fd82f4f1a9b2d0d7af87525d0
+# 21ef53555f5940cda90c459c432c907b
 msgid "Instead of using gittools we can use GitTools,gittools,git-tools|"
 msgstr ""
 
 #: ../../source/gittools.rst:54
-# 1ae695db8f28451693a99b13caf833b3
+# 747e4d3374a445ee82ed85eae9aabbf8
 msgid "N(No)"
 msgstr ""
 
 #: ../../source/gittools.rst:54
-# f50a70e362264424a2e6830161bc5fec
+# 7b013507f375456ebfb9a828cfc8bdcd
 msgid "The system exit the installation"
 msgstr ""
 
 #: ../../source/gittools.rst:60
-# 4f6d9369237e4539ab7c5ab04345ccd6
+# 4de2d439bcd4447ab38d8092af414df4
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/gittools.rst:62
-# 4661ad6d6e7f4195af9f16aef1b703ee
+# 1347a5302b09441bbbc7f03132f5e6c3
 msgid "Gittools are associated with complex workflows."
 msgstr ""
 
 #: ../../source/gittools.rst:63
-# c99993733a744d998de453f70807cb25
+# 0a15264730034f6492662726b1d10bac
 msgid "Gittools makes granular commits easier than any other version control system (VCS) because the user can determine which changes exactly shall be in the next commit."
 msgstr ""
 
 #: ../../source/gittools.rst:64
-# bafdf72c91b64935a32d03bffbdabba3
+# 31a59411bdb8476ebe897cd625df7829
 msgid "Gittools to improve the user coding workflow."
 msgstr ""
 
 #: ../../source/gittools.rst:65
-# 102158c3bd01438284679c76c56ffd16
+# e73b2b34a8a04b44961a93940ac52dda
 msgid "git-cola  is an advanced Git commit tool, similar to git-gui."
 msgstr ""
 
 #: ../../source/gittools.rst:66
-# bed0343ba3004cd5b7332382fd86e038
+# 9fc3e3819bd949f980283dfede1defaa
 msgid "git-cola features a graphical  viewer, easy, interactive staging, inotify support."
 msgstr ""
 

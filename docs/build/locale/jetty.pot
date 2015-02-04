@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 14:00+0530\n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,151 +17,151 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/jetty.rst:3
-# 747efbd91e6c47aeade98371752b514a
+# 15198a8eee414a04b130894be0fa03ef
 msgid "Jetty"
 msgstr ""
 
 #: ../../source/jetty.rst:6
-# 8d687fd0cb644635a9fc8921b0885f8e
+# 8e646dc930fd4f3e9aed28967e9ca4dd
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/jetty.rst:8
-# 269a4fbdc89d4b57b6b6118f37273fb9
+# f8e0aa90229f4f289fb3d9bbd7e8eb5c
 msgid "Jetty provides a Web server and javax.servlet container, plus support for SPDY, WebSocket, OSGi, JMX, JNDI, JAAS and much other integration. These components are open source and available for commercial use and distribution.Jetty is used in a wide variety of projects and products, both in development and production. Jetty can be easily embedded in devices, tools, frameworks, application servers, and clusters."
 msgstr ""
 
 #: ../../source/jetty.rst:10
-# 983e99928d464cc897165a668f906a2a
+# c030683f667646328de3eaa9b17fc73d
 msgid "Jetty is a pure Java-based HTTP (Web) server and Java Servlet container. While Web Servers are usually associated with serving documents to people, Jetty is now often used for machine to machine communications, usually within larger software frameworks. Jetty is developed as a free and open source project as part of the Eclipse Foundation. The web server is used in products such as Apache ActiveMQ, Alfresco, Apache Geronimo, Apache Maven, Apache Spark, Google App Engine, Eclipse, FUSE, Twitter's Streaming API and Zimbra. Jetty is also the server in open source projects such as Lift, Eucalyptus, Red5, Hadoop and I2P. Jetty supports the latest Java Servlet API (with JSP support) as well as protocols SPDY and WebSocket."
 msgstr ""
 
 #: ../../source/jetty.rst:14
-# 436faeff33aa4867a30efd6be90ffebe
+# b1e6fe7654904d2bb778f1e8160af28c
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/jetty.rst:16
-# acdb9d8dbe754f81b618dd0b0ee804e7
+# 65295a1918dc4d079ce74c7472b866c3
 msgid "This command helps to determine the usage of jetty module. The user will come to know about the different way/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same."
 msgstr ""
 
 #: ../../source/jetty.rst:22
-# 1041a9bda7864147acdc0c0f63212475
+# 21bebb7cf4254085817509de4dda7458
 msgid "The pictorial representation of the above command is shown below,"
 msgstr ""
 
 #: ../../source/jetty.rst:45
-# 8fcd09ada2fa4e3a81d0da2999cf30c1
+# dbfd299ede3948e48fcc067e05662b60
 msgid "Installation"
 msgstr ""
 
 #: ../../source/jetty.rst:48
-# b9302d87e4564ceeb41ec97d9fd98639
+# 4c5496fb14704159be99d92afb3f49e0
 msgid "This command helps in installing jetty in system. The below given command will execute the process of installation."
 msgstr ""
 
 #: ../../source/jetty.rst:56
 #: ../../source/jetty.rst:61
-# 27d60076f67e498a912d62cf5b831b1c
-# 99ca0a7588ef4177a36581c3b400d7f4
+# 54402b86c9034cefb643218fdadf4c34
+# e3257bd41a3a402fb8c698834d280e7c
 msgid "Options"
 msgstr ""
 
 #: ../../source/jetty.rst:61
-# 3d614f1ac4d24bc888e27dcb3c295020
+# d5f4f09fa9014e8d838fc6bd34c4163f
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/jetty.rst:61
-# a11a1459f448419685453e9bf00aa99f
+# a0d6d02165b04e5a93334c9f2340bce7
 msgid "Alternative Parameters"
 msgstr ""
 
 #: ../../source/jetty.rst:61
-# 50c07e9993e74b0e8cc8bed11b44e4e6
+# db4be54542944ad3a7d9f0032d765c4d
 msgid "Comments"
 msgstr ""
 
 #: ../../source/jetty.rst:63
 #: ../../source/jetty.rst:68
-# a44c2e832b2c493790d8e0de707e90ba
-# d71572f7c901480ea2e11b21ad2bd2f4
+# ce51762ec6bf4cf582bea08931584ef3
+# db6628f91c4e4ddca5168d5e87fc38d5
 msgid "Cleopatra jetty  Install"
 msgstr ""
 
 #: ../../source/jetty.rst:63
-# 7e8ffd0d861740f1bbd4a8aeeb9e7c90
+# 85100b9b7ad24752ab59ed8e71f1dab4
 msgid "There are two alternative parameters which can be used in command line. Jetty , jetty Eg: cleopatra jetty install cleopatra Jetty install"
 msgstr ""
 
 #: ../../source/jetty.rst:63
-# 4df18eeae4da4219bc13196a7b039321
+# 54cb5d971cd64f38b506116d54375ab7
 msgid "Y"
 msgstr ""
 
 #: ../../source/jetty.rst:63
-# e39123b1d8fd4fee946778366e57ccf3
+# b8300cd27eb74cbc9a9061c44fbf26f8
 msgid "System starts installation process"
 msgstr ""
 
 #: ../../source/jetty.rst:68
-# 2c7017ccc88e49e08c019d11043d1dfc
+# 5051e4d129e140d39e9cab7a3dc6d956
 msgid "There are two alternative parameters which can be used in command line. Jetty , jetty Eg: cleopatra jetty install cleopatra Jetty install|"
 msgstr ""
 
 #: ../../source/jetty.rst:68
-# 0c9a225ea23c4321bb47f2b73a2394c8
+# 6343436904ba4804b2cef03a8aa771f2
 msgid "N"
 msgstr ""
 
 #: ../../source/jetty.rst:68
-# e9e1029cf1ff4d5fa249390a376cbdf7
+# 49b6f2e6ef0747c8ae7312f197c5fc9a
 msgid "System stops installation process"
 msgstr ""
 
 #: ../../source/jetty.rst:78
-# d98120cc8ec445a6be2ea948e5e2c56c
+# 53446471270a4c30adf5651167abf682
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/jetty.rst:80
-# daf138ced0764eaa8efd250eacc2d726
+# d8cd736aa7e440b89550f838b3c1043c
 msgid "Full-featured and standards-based"
 msgstr ""
 
 #: ../../source/jetty.rst:81
-# b9bc3e7855164922a221636c933dd963
+# a4e1cfa2621448d4aa43d0fd1f0a869d
 msgid "Open source and commercially usable"
 msgstr ""
 
 #: ../../source/jetty.rst:82
-# c5a34142b2fe4e5ba53062e6344e4bd1
+# 943c2f738fa84b63b4ffa0f4fdc14fa7
 msgid "Flexible and extensible"
 msgstr ""
 
 #: ../../source/jetty.rst:83
-# af588c53e3db4ab5a90bf4bc6328f940
+# 1314680db4c84810953f2e3118e68573
 msgid "Small footprint"
 msgstr ""
 
 #: ../../source/jetty.rst:84
-# a308a8ed77bf4167a6e08ebb1b0b9b24
+# b9952b24cd324fbabb2c5494a608ebc8
 msgid "Embeddable"
 msgstr ""
 
 #: ../../source/jetty.rst:85
-# 5939bb505c394b8cafad42d6c4bcefa6
+# bd7b11bf0b0844b28a7ce77c89ef51d7
 msgid "Asynchronous"
 msgstr ""
 
 #: ../../source/jetty.rst:86
-# 7187979400214c3084775442709a542f
+# 1b3f375cfc4d4c93aac6655b1a564bd4
 msgid "Enterprise scalable"
 msgstr ""
 
 #: ../../source/jetty.rst:87
-# bcfe4ccc05a64fe482d1aa37d9489d9c
+# 47bb2465d57d48f68876d2c93c1ca062
 msgid "Dual licensed under Apache and Eclipse"
 msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 14:00+0530\n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,124 +17,124 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/lighthttpd.rst:3
-# 66923f6493544751ad005e5b5569f053
+# e0f40a176eaf4490a496a617708b8594
 msgid "LigHTTPDServer  module"
 msgstr ""
 
 #: ../../source/lighthttpd.rst:7
-# 0c44e52065004e2bad6b98b87cc2dc06
+# 231636cec552466e853e2eb02bc94321
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/lighthttpd.rst:9
-# b59f0935fb694b8f9da8993c814cc549
+# ebac7ace0e51495da5897a5982028135
 msgid "xLighttpd  is an open-source web server optimized for speed-critical environments while remaining standards-compliant, secure and flexible. It is an alternative web server for apache. Lighttpd  supports the FastCGI, SCGI and CGI interfaces to external programs, Auth, Output-Compression, URL-Rewriting, permitting web applications written in any programming language to be used with the server. Lighttpd are the best known asynchronous servers. The main advantage of the asynchronous approach is scalability. This module aims to install the latest version of Lighttpd server and its dependencies."
 msgstr ""
 
 #: ../../source/lighthttpd.rst:15
-# c7d2b98d46274e8286fd5626701ce30f
+# bc5997a1de6c4697ab7cc5097ff7e98c
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/lighthttpd.rst:17
-# 9ed457e4ecd74d7988f01e19d4c0b052
+# ddac9e5d0473468786b922bbfe8581cf
 msgid "The help command guides the user to provide what is necessary to accomplish the task. The command to make use of help under the terminal is given as follows,"
 msgstr ""
 
 #: ../../source/lighthttpd.rst:23
-# 578a9d6f9f334f00864514f062cc956c
+# b4a507909c2f48aca052bab0c0d07f34
 msgid "The snapshot below gives you a pictorial representation of help command and it listed three parameters as LigHTTPDServer, lighttpd-server, lighttpdserver. (Parameters are case insensitive)"
 msgstr ""
 
 #: ../../source/lighthttpd.rst:47
-# d08c60276ca54c32bfc30d8bfda8968a
+# 8d280eb0f8684f81ac9fa6cee8bbf1c0
 msgid "Installation"
 msgstr ""
 
 #: ../../source/lighthttpd.rst:49
-# d438617004374078b9ac55bdb846b342
+# 77e5a717ff1f4aaba204198c8bac63cb
 msgid "The command used for installing Lighttpd module is given below,"
 msgstr ""
 
 #: ../../source/lighthttpd.rst:139
-# eb86f84b543f4e01b670b6775ab48a94
+# 68cb03beda7b4c12a2a6face30f44505
 msgid "options"
 msgstr ""
 
 #: ../../source/lighthttpd.rst:144
-# ff9c20a1d04b4dfeb8c31c2d71de3834
+# 39ffeddda594449d9585fce768617b70
 msgid "Paramaeters"
 msgstr ""
 
 #: ../../source/lighthttpd.rst:144
-# eb6d1596589749b0808d46a2babc2e50
+# 5cd11df4ba7e4ee0bfafda1868e579fb
 msgid "Required"
 msgstr ""
 
 #: ../../source/lighthttpd.rst:144
-# 7f5438b2ac6a40259b9673ac56b123ee
+# 8363e20569374e71b352c485ad722d52
 msgid "Comments"
 msgstr ""
 
 #: ../../source/lighthttpd.rst:146
-# 6d74871928f34ad585b64a0b65aa4f60
+# 040d9dd3b5cf427b98328b6026af545a
 msgid "cleopatra lighttpd-server install"
 msgstr ""
 
 #: ../../source/lighthttpd.rst:146
-# 812cd7eaf6d04616a429ce6e934491a6
+# 32cb5b4746ed4ea2a9ee1cd3c5c01a07
 msgid "Yes"
 msgstr ""
 
 #: ../../source/lighthttpd.rst:146
-# 68abc8d656614d30834aa1974e44b8a7
+# 627baa78c72f4d17a4109bf21286efa3
 msgid "This command will install the LigHTTPD module"
 msgstr ""
 
 #: ../../source/lighthttpd.rst:149
 #: ../../source/lighthttpd.rst:155
-# 6f15a3bef21345bdb49f08158a01197e
-# 5e58e2e7b6474170930464258a8c46c7
+# 37418fa84eec49219f367f7ccd1a65ab
+# 1f44af667f674ec2b21804b797f5fa68
 msgid "install lighttpd-server(Y/N)"
 msgstr ""
 
 #: ../../source/lighthttpd.rst:150
-# 9aea77099fc94bcaba33f9386e0a3976
+# 135cce8be7d843748e7f572dcff9d06c
 msgid "Y"
 msgstr ""
 
 #: ../../source/lighthttpd.rst:149
-# 431035d73962421cb47e5ac7ad184b6b
+# 724a1cb8d4c74b7eb8a3862ce3adeaa0
 msgid "If the user inputs Y, this module checks for previously installed version, if exits it was updated to latest version or else it installs the fresh package."
 msgstr ""
 
 #: ../../source/lighthttpd.rst:155
-# 3ea10c3d03324fbd8c0cecec1739c08f
+# 979b11f730364f93820d8015c8f53793
 msgid "N"
 msgstr ""
 
 #: ../../source/lighthttpd.rst:155
-# 02df98644ff149d58fd1abad41acf23f
+# 8ff7a42143fe4c9482638ee6a8c65885
 msgid "If the user inputs N, the installation was aborted.|"
 msgstr ""
 
 #: ../../source/lighthttpd.rst:160
-# 19ea95ee9a5c4940b3898b8d7257f9cc
+# 0895575bf77342ef8735f39eb201a54d
 msgid "Benefits to the users"
 msgstr ""
 
 #: ../../source/lighthttpd.rst:162
-# af68aa6dc6464a8f9fbde72aaa4de385
+# 4930ae5fe72549c29c7eda2e45698300
 msgid "Install LigHTTPDServer in a single environment without any browser."
 msgstr ""
 
 #: ../../source/lighthttpd.rst:163
-# 46f0dc71a8744c6897fda7408e848921
+# c4c821857df74cafaf044379b1317cba
 msgid "Ease use of access and installation"
 msgstr ""
 
 #: ../../source/lighthttpd.rst:164
-# 38a05074d1c6413a834641490865192e
+# 51ee571d93194f56a801183556d8be43
 msgid "Coding is case insensitive."
 msgstr ""
 

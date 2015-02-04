@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Box &mdash; KEVELL 0.1 Dokumentation</title>
+    <title>Box &mdash; KEVELL 0.1 documentation</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -25,11 +25,10 @@
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
-    <script type="text/javascript" src="_static/translations.js"></script>
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
-    <link rel="top" title="KEVELL 0.1 Dokumentation" href="index.html" />
+    <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
     <link rel="up" title="Phlagrant" href="phlagrant.html" />
     <link rel="next" title="SFTP" href="sftp.html" />
     <link rel="prev" title="AutoSSH" href="autossh.html" />
@@ -106,9 +105,9 @@
           
             
   <li><a href="autossh.html"
-         title="vorheriges Kapitel">&laquo; AutoSSH</a></li>
+         title="previous chapter">&laquo; AutoSSH</a></li>
   <li><a href="sftp.html"
-         title="nächstes Kapitel">SFTP &raquo;</a></li>
+         title="next chapter">SFTP &raquo;</a></li>
           
           
           <!--  <li>
@@ -132,13 +131,13 @@
   
   
   <div class="section" id="box">
-<h1>Box<a class="headerlink" href="#box" title="Permalink zu dieser Überschrift">¶</a></h1>
+<h1>Box<a class="headerlink" href="#box" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="synopsis">
-<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
 <p>This module assists the users in handling and managing the boxes that are available in the phlagrant. Let us see how this module works in handling the functions of box.</p>
 </div>
 <div class="section" id="help-command">
-<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>The help command guides the users regarding the purpose and as well as about the options that are included in the Box module. It lists out the alternative parameters of Box module. It also describes the syntax for using the add, remove, package ,list commands. The help command for Box module is shown as below.</p>
 <div class="highlight-bash"><div class="highlight"><pre>phlagrant Box <span class="nb">help</span>
 </pre></div>
@@ -191,7 +190,7 @@ End Help
 </div>
 </div>
 <div class="section" id="functions-of-phlagrant-box">
-<h2>Functions of phlagrant Box<a class="headerlink" href="#functions-of-phlagrant-box" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Functions of phlagrant Box<a class="headerlink" href="#functions-of-phlagrant-box" title="Permalink to this headline">¶</a></h2>
 <p>As depicted in the above help command the functions of the phlagrant box includes the following:</p>
 <ul class="simple">
 <li>Add</li>
@@ -201,22 +200,22 @@ End Help
 </ul>
 </div>
 <div class="section" id="add">
-<h2>Add<a class="headerlink" href="#add" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Add<a class="headerlink" href="#add" title="Permalink to this headline">¶</a></h2>
 <p>The add is used for initializing the box as usable by phlagrant. The following syntax can be used for adding a phlagrant box.</p>
 <div class="highlight-bash"><div class="highlight"><pre>phlagrant box add
 </pre></div>
 </div>
 <p>or</p>
 <div class="highlight-bash"><div class="highlight"><pre>phlagrant box add --yes --guess
---source<span class="o">=</span><span class="s2">&quot;/home/dave/file.box   (This line describes where the box is)</span>
-<span class="s2">--target=&quot;</span>opt/phlagrant/boxes<span class="s2">&quot;  (This line guess the dir next to phlagrant install dir)</span>
-<span class="s2">--name=&quot;</span>vanillaubuntu<span class="s2">&quot;</span>
+--source=&quot;/home/dave/file.box   (This line describes where the box is)
+--target=&quot;opt/phlagrant/boxes&quot;  (This line guess the dir next to phlagrant install dir)
+--name=&quot;vanillaubuntu&quot;
 </pre></div>
 </div>
 <p>In the above mentioned ways the box can be added to a phlagrant.</p>
 </div>
 <div class="section" id="remove">
-<h2>Remove<a class="headerlink" href="#remove" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Remove<a class="headerlink" href="#remove" title="Permalink to this headline">¶</a></h2>
 <p>This function is used for removing the box as usable by phlagrant. This can be done using the command shown below:</p>
 <div class="highlight-bash"><div class="highlight"><pre>phlagrant box remove
 </pre></div>
@@ -224,7 +223,7 @@ End Help
 <p>In the above mentioned ways the box can be removed from a phlagrant.</p>
 </div>
 <div class="section" id="package">
-<h2>Package<a class="headerlink" href="#package" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Package<a class="headerlink" href="#package" title="Permalink to this headline">¶</a></h2>
 <p>This functions is used to package the box as usable by phlagrant. This can be implemented by using the following command:</p>
 <div class="highlight-bash"><div class="highlight"><pre>phlagrant box package
 </pre></div>
@@ -238,13 +237,13 @@ End Help
 --slug<span class="o">=</span><span class="s2">&quot;&quot;</span> <span class="o">(</span>The guess can generate this based on the name field<span class="o">)</span>
 --description<span class="o">=</span><span class="s2">&quot;A vanilla install of Ubuntu...&quot;</span>
 --home_location<span class="o">=</span><span class="s2">&quot;http://www.someplace.net/&quot;</span> <span class="o">(</span>guess will <span class="nb">set </span>this to http://www.phlagrantboxes.co.uk/
---target<span class="o">=</span><span class="s2">&quot;/opt/phlagrant/boxes&quot;</span> <span class="o">(</span>The location <span class="k">for</span> saving<span class="o">)</span>
+--target<span class="o">=</span><span class="s2">&quot;/opt/phlagrant/boxes&quot;</span> <span class="o">(</span>The location <span class="k">for </span>saving<span class="o">)</span>
 </pre></div>
 </div>
 <p>Finally, a box is packaged as usable by the phlagrant.</p>
 </div>
 <div class="section" id="list">
-<h2>List<a class="headerlink" href="#list" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>List<a class="headerlink" href="#list" title="Permalink to this headline">¶</a></h2>
 <p>This function is used for listing the boxes that are installed in phlagrant. This can be done by using the following command,</p>
 <div class="highlight-bash"><div class="highlight"><pre>phlagrant box list
 </pre></div>
@@ -252,7 +251,7 @@ End Help
 <p>By using the command above, the list of phlagrant boxes that are newly installed will be displayed.</p>
 </div>
 <div class="section" id="alternative-parameters">
-<h2>Alternative Parameters<a class="headerlink" href="#alternative-parameters" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Alternative Parameters<a class="headerlink" href="#alternative-parameters" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
 <li>Box</li>
 <li>box</li>
@@ -260,7 +259,7 @@ End Help
 <p>In the above mentioned list, any of the alternative parameters can be used in declaration.</p>
 </div>
 <div class="section" id="benefits">
-<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
 <li>The parameters used in help is not case sensitive which is an added advantage while compared to others.</li>
 <li>It is well-to-do in both Ubuntu and as well as Cent OS.</li>
@@ -301,7 +300,7 @@ End Help
     </p>
     <p>
         &copy; Copyright 2015, kevell.<br/>
-      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2.3.<br/>
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2.2.<br/>
     </p>
   </div>
 </footer>

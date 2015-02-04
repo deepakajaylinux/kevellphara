@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 14:00+0530\n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,323 +18,323 @@ msgstr ""
 
 #: ../../source/environmentconfig.rst:3
 #: ../../source/environmentconfig.rst:289
-# 3eb0edb1e59940ad9b2b8668c1d934b9
-# 1ad8f93121c24e9d9e349c64ed8dde93
+# aaf18db3b7284916ab9092354888b973
+# 61fa6b1a620b4cc2b65de104d0558a60
 msgid "EnvironmentConfig"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:7
-# 51f4d535afc74623973abf3113a2e708
+# 3c3cf23cf541485583ef36fd45ea9a81
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:9
-# 3f72d9ad3c3d442ba6f8ee450857938e
+# 37aef3fbe552411a8367e17bee5d6dd5
 msgid "This module facilitates the users in configuring their environment required for their project. Let us see how to configure the environment, how to delete the unwanted environment, how to use the list option for listing the available environments in upcoming topics."
 msgstr ""
 
 #: ../../source/environmentconfig.rst:12
-# 7dbf3a90b6dc423a89d6c303f40f7729
+# 203543de02ea45ad8638b49a05b5aadc
 msgid "Help command"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:14
-# eaa840177174470aa607c8a4437bee77
+# 5294dfd8e36e4a8d8f5c0fde17a51ed1
 msgid "The help command guides the users regarding the purpose of the module, its alternative parameters that are used in declaration. It highlights the three functions of environment configuration which are list, configure, delete. It also specifies the syntax for using three major functions. The syntax used for declaring the help is shown below:"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:21
-# 7d20ac7e61a24072b1e20c3eb56a93d7
+# 28d100ee36f14df197f4b7541118e3bc
 msgid "The following screen shot depicts pictorially about the working of help command."
 msgstr ""
 
 #: ../../source/environmentconfig.rst:76
-# 501a8c0a08d34296a169e78f6674c85f
+# ff6713929f8d401583657d25f88510c4
 msgid "How to Configure the environment"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:78
-# 30d3c742ac3a41629aa3cb94c121a849
+# dca3fafefba641848ddf5421d35e722c
 msgid "For the purpose of configuring the environments the user can use the following command:"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:85
-# a43da71438624105b8790d16eef5251e
+# 27830ddd5d6748fa9286b5b345012d16
 msgid "After inputting the command above the following operations takes place as shown:"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:87
-# feadb70f05b64b93a9087aceb35d7e2f
+# 89de0d336573487f9102eeeb28dad88d
 msgid "Step 1: Configure Environments Here? (Y/N)"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:89
 #: ../../source/environmentconfig.rst:93
 #: ../../source/environmentconfig.rst:113
-# 01fb926540124601b43ae64db493b018
-# 50421638e4d0466ca1b1d9a4e5625111
-# 734554ec7b844435902496546ee159a9
+# b6caaefb6c274bfc8433cdc31d1c2c82
+# d6a181f68ac34826aac16083c7dabb56
+# 3a4fda4126de46998490d42ef7e8d35d
 msgid "The user have to input Y or N."
 msgstr ""
 
 #: ../../source/environmentconfig.rst:91
-# 44127085027d4ceca7e7bd73567d6151
+# e4017b0b62ff4246add1ca50e73bbb89
 msgid "Step 2: Use existing environment Settings? (Y/N)"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:95
-# 454d0a2c55444078b991321cb7a4fec4
+# 201deb13ae504c46afd8242c12956b04
 msgid "If the user input as Y it will proceed with already existing."
 msgstr ""
 
 #: ../../source/environmentconfig.rst:97
-# cefa62a8397a498289b5ce96ad8a2966
+# bfeab21002524ed39cb0ef478d9796ff
 msgid "If they input as N, it will asks information regarding the environment as"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:99
-# 80dfd153c82242859214d5409d2ba335
+# 21c750e152034168a246912fa4f1b7af
 msgid "Value for: Name of the environment"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:101
-# c92f448859794fc1be9c7bbcbab15e28
+# 69c9c4c23ec44287bd1d1d1126fe1650
 msgid "Value for: Default temp dir(Location)"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:103
-# df04dfe37c554dac83e14df3f1eeea65
+# a4463b5477af4b1580a65f5d1e17791f
 msgid "After the above steps, the user have to input the following details:"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:105
-# 7521192d4ed745e0bf0e63f68ea8ba7a
+# f2ed1671ded04180933a1284ed18b5c2
 msgid "Enter target?"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:107
-# 75df2b10540a4c858a6f1ee337cd0157
+# 39f33cdd3eed4ed6bf464f7520735d78
 msgid "Enter user?"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:109
-# 13a1282d326c4e76bfa3f2c8960fa33d
+# 02e20f66c0bd46b89db10d70fb38c1b2
 msgid "Enter password?"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:111
-# 68aa4469db444fd7af1055ec75da5618
+# 4e793e9be2ab4288b0707bddd7b6bd2d
 msgid "Add Another Server? (Y/N)"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:115
-# 29541ba2f63744b98a5a752aa467525f
+# 40987bd7a5bb4dacb6ce1ccf41dbb2a4
 msgid "Finally, the environment configuration gets success as depicted in the below screenshot."
 msgstr ""
 
 #: ../../source/environmentconfig.rst:148
-# ea6fef0c11c14375a00df9a2b23d1020
+# 7d23fefa18db4a1bbdc85f59bec82ef5
 msgid "While configuring an environment, if the user wish to configure with current environment , they can use the following command:"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:157
-# 69a3066835d04117bdfd943da137128b
+# fca6c7c5bcd546de88b8748dcfb485db
 msgid "After inputting the command above, it will asks the following details as shown in the tabular format:"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:163
-# a044f026de244b74a2e00be3961a0f7d
+# fe1bf52857014274a4728ee3e1dbaa56
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:163
-# 3d5db8b36e2346cbb84aa2cb42f5e014
+# 621bb3fc8d6c4bf28a907c8092bc3611
 msgid "Options"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:163
-# a6d81ea3c94d4cbcb6a145eed753ec7e
+# 1aebcea649214b2db05cd91a98706f4e
 msgid "Comments"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:165
 #: ../../source/environmentconfig.rst:168
-# c9e4a5da8d574c67adab3e0bf11cab83
-# ec7ce7b0ead54535b3e593f0841fcbf8
+# 978ba3d7e4be4018a62cc16931149222
+# 47f752d78266415aa12b2a9746b7dc7d
 msgid "Configure Environments Here? (Y/N)"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:165
 #: ../../source/environmentconfig.rst:171
 #: ../../source/environmentconfig.rst:177
-# 5473d8ba42984c278e2b736ce728401a
-# 00a68ceb976a4c42b1e591b0d2cd1231
-# def121e961a249928fe43d2320fa5623
+# ede62dd933fd4c75a36d4873916c953d
+# 9b048a846c154dadb4b8bcc8c445743d
+# a2620ec84a3643138ba363248fa44a82
 msgid "Y"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:165
-# 4a9e54ceaf8344c19e47e627eea0a763
+# 168bda257b294ec4aac627056e8726a8
 msgid "If the user wish to configure the environments at the current environment they can input as Y"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:168
 #: ../../source/environmentconfig.rst:174
 #: ../../source/environmentconfig.rst:180
-# 3b3fd0c11def4787837201ae7d03ebe5
-# 482fb72a3c744073a4ef7313f2e56d2e
-# e63a196ed4304cdb8ab949e0b1247f15
+# 8a6bd9db16704dc982f1c6b6a31784d6
+# 158ec34ed5314299bde6e40d47a01008
+# 9f8082a8ed14409e806b9d85ee9fb9ce
 msgid "N"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:168
-# a39816a1d5f5458983a3967477893aaa
+# e6f495d67274443183bee624060f02b5
 msgid "If the user doesn't wish to configure the environments at the current environment they can input as N"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:171
 #: ../../source/environmentconfig.rst:174
-# 87ff2095d1864afd9774a86bcac5622f
-# 13338a1869a943919198622e20e75043
+# 9adae030009c4d16aaae1f9d041e6824
+# e64b7f11b96046fe865c0fc02cb40e0f
 msgid "Use existing environment settings? (Y/N)"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:171
-# 6aeca835050441ea9b862e597041ea69
+# c4c40a93c36e47f9b0c47e96f575ea13
 msgid "If the user wish to use the existing environment settings they can input as Y."
 msgstr ""
 
 #: ../../source/environmentconfig.rst:174
-# 160f7378eda848028dfae486a1333c92
+# 2a8871c15a264d2f96f03b32054f064a
 msgid "If the user doesn't wish to use the existing environment settings they can input as N."
 msgstr ""
 
 #: ../../source/environmentconfig.rst:177
 #: ../../source/environmentconfig.rst:180
-# f893a038568247b292a278c00f674657
-# ca0ad6ffb2ba4eaeb53fc1d795d7bc9c
+# 384ad53c64954cd69dc190d358b0e121
+# dcaf351c7cfe4dab8e4d665879744f28
 msgid "Do you want to add another environment? (Y/N)"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:177
-# 75688036680340a99999ec9cff637d7f
+# a39b5487c5054b24a8af580959efd5d7
 msgid "If the user wish to add another environment,they can input as Y."
 msgstr ""
 
 #: ../../source/environmentconfig.rst:180
-# 0c44d31468774545a0b5b23c73a6a4e3
+# 47cdd66b959b443cb9b4282d4167016a
 msgid "If the user doesn't wish to add another environment, they can input as N.|"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:185
-# aac7a74c615f4b1c909270c63671c83a
+# 6599ac315e594acb9643b1103c0085af
 msgid "The following screenshot pictorially represents the above mentioned process:"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:207
-# d95fa154d9e54406a3bb0eb43daa619f
+# 67a8686e13b84b0fbf915d78c4ba4f6d
 msgid "How to Delete environment configuration"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:209
-# 8d522ceb6b6d4a0280a5074afc1df165
+# 0ce966abdfd54f58aad9be8cc8c3aa66
 msgid "If the user needs to delete the environment configuration, they can input the following command:"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:215
-# 0f568acbedd046bb818acc858faaa485
+# 9cdef206a8324d71a92a0da136a0d5e3
 msgid "The user can specify the name of the environment they wish to delete as shown above."
 msgstr ""
 
 #: ../../source/environmentconfig.rst:217
-# 886878c7ae5d4cf182aea51be5f495f5
+# 72b6e2da815340e396cdd941614c1f9d
 msgid "After inputting the command above, it will ask"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:219
-# e4aa63d06c9840c5aa07af1492998a50
+# 8ffac35a56494c18934bb3f89a22a7db
 msgid "Step 1: Delete Environments Here?"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:221
-# 174c026a81874c81acb3170b24ae6ddc
+# 95686bbaa51a46cf8a5d9fa04e9aaf57
 msgid "and shows a warning message as"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:230
 #: ../../source/environmentconfig.rst:234
-# 696acd2844e14e53ad3e5309dff1b061
-# 9d0a65890a18475b977aac66ef9a0fe0
+# 3185dc9e4e0243c083e99e40d335cbf2
+# 42c490024f7c40c3bb243f43c7a0868d
 msgid "The user has to specify Y or N"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:232
-# baf462e2cb8c4f9ea859025b2fe324d3
+# 6ffd755bf6d04d53aa95d853680440fa
 msgid "Step 2: Environment Kevells(Name of the specified environment that is supposed to delete) found. Are you sure want to delete it? (Y/N)"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:236
-# 402489f4392449a3868429f9886342b0
+# 5c54accdc54847c0b05be79817940ef4
 msgid "Finally, the specified environment gets deleted as shown in the screenshot."
 msgstr ""
 
 #: ../../source/environmentconfig.rst:259
-# b120abc50dd94073a72590cf21d07ca7
+# 3d25032b3a7a485da42feca01bf1e9f8
 msgid "How to list environment configuration"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:261
-# ea43735dbd4a429c869477d78bf0d01e
+# 1cd9e73d6c60460ba91d1a016be76680
 msgid "If the user wish to view the list of details regarding the environment configuration, they can input as shown:"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:268
-# 2349e63f15814c4ead737851b08a61f6
+# d5a2e82846d54728b075b899d8aedf23
 msgid "After inputting the command above, it will display the output as shown in the screenshot:"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:285
-# 48aa37967bf140ba883f96ddc5fcc3b6
+# c8a8e37d3b534c1483b9143bd235df1c
 msgid "Alternative Parameters"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:287
-# 581f4f28f70840c1ad2cae3e259bc278
+# a5508716b0554e96910c180b1a0734e0
 msgid "Instead of envconfig the following parameters can be used in declaration:"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:290
-# df1165aee14c4210adbe340c539c2dd7
+# 3139e441499b4f4cb754bf46349e18bc
 msgid "environmentconfig"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:291
-# 15e6428984ba4f14af081ed7e1998517
+# 8ad29efa02ee46b6bd8c4fe7dc0ad645
 msgid "environment-config"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:292
-# a66d00c77c394aeaad7979d516ff2f7f
+# 72c53faa2a16426a8fcb78b0d5d9c0fd
 msgid "env-config"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:295
-# 39012ec93fb74a22babf470423685488
+# 7ef95cb15f8847b0931195b982876abc
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:297
-# e429576d356a4f9db035e09424edf9f5
+# a5e48e419c3f4cab81cf23ed28653910
 msgid "It is well-to-do in both cent OS and as well as in ubuntu."
 msgstr ""
 
 #: ../../source/environmentconfig.rst:298
-# e94e45f7eb394b4e9ed984e09f3d15c4
+# f4b7b5142e7d444f90a9f3442d267f18
 msgid "The parameters used in declaration are not case sensitive which is an added advantage while compared to others."
 msgstr ""
 
 #: ../../source/environmentconfig.rst:299
-# 93b124b72ed74f5883863262c38404bc
+# 98bc5b7ed72147f2a418e0004fc1d6dc
 msgid "This module leads the users how to configure the environment, how to delete the unwanted environment, how to use the list option for listing   the available environments."
 msgstr ""
 

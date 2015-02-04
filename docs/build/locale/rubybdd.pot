@@ -1,0 +1,160 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/rubybdd.rst:3
+# 1882f4b55bdb414e8cf19d33e66b1ca8
+msgid "RubyBDD"
+msgstr ""
+
+#: ../../source/rubybdd.rst:6
+# e274c50667064934830cd89d77dc20c7
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/rubybdd.rst:8
+# 02791b8f6f5e4d8c81a017de226dacc5
+msgid "Ruby Behaviour Driven Development (BDD) gives you the best of Test Driven Development, Domain Driven Design, and Acceptance Test Driven Planning techniques, so the user can install Ruby BDD for better software with self-documenting, executable tests that bring users and developers together with a Php language. It comforts with Ubuntu and Cent OS."
+msgstr ""
+
+#: ../../source/rubybdd.rst:11
+# a55c950548dd4e56981221a242f1bdc7
+msgid "Help command"
+msgstr ""
+
+#: ../../source/rubybdd.rst:13
+# 2a248044207f40e5a9a9f0c96ffdc7b9
+msgid "The help command leads the users regarding the purpose and as well as about the options that are included in the Ruby Bdd modules. The help command lists out the alternative parameters of Ruby Bdd under Cleopatra module. It also describes the syntax for installing the user’s updation. The help command for Ruby Bdd is shown below."
+msgstr ""
+
+#: ../../source/rubybdd.rst:19
+# 8eb9db351cde4c2bb988595145c7c2f8
+msgid "The following screen shot shows the full effort of Ruby Bdd."
+msgstr ""
+
+#: ../../source/rubybdd.rst:42
+# 39086e9f4c91484998f044ca41fa9d69
+msgid "Installation"
+msgstr ""
+
+#: ../../source/rubybdd.rst:44
+# d3715fa2a73e42e7a166a638fe3a781f
+msgid "Installation includes installation of Ruby Bdd  required to make the installation in a updated version . It is a manifest process to install Ruby Bdd module under Cleopatra by just using the command given below,"
+msgstr ""
+
+#: ../../source/rubybdd.rst:50
+# 5af3a4f4bd5b4486acace43046e01f96
+msgid "After vitalize the command it will catechize input."
+msgstr ""
+
+#: ../../source/rubybdd.rst:52
+# d2465faf43bc404b97d2c72775d4503a
+msgid "When the user input as yes automatically it will install Ruby Bdd with checking from the system. If not exit the installation. The following screen shot demonstrates it."
+msgstr ""
+
+#: ../../source/rubybdd.rst:59
+# 0a4468457d9e4180b6310d09ea0068f8
+msgid "Option"
+msgstr ""
+
+#: ../../source/rubybdd.rst:65
+# 10309dbd67fc4109a7ef39498d68b8d0
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/rubybdd.rst:65
+# 0fa66c2c46654e1db2ea1b8886c9b435
+msgid "Alternate Parameters"
+msgstr ""
+
+#: ../../source/rubybdd.rst:65
+# 065125d903ae487c854587330433d808
+msgid "Options"
+msgstr ""
+
+#: ../../source/rubybdd.rst:65
+# 2ea44567558b4e5dbabc0a9f3cd8f1e8
+msgid "Comments"
+msgstr ""
+
+#: ../../source/rubybdd.rst:67
+#: ../../source/rubybdd.rst:70
+# f99a0f998bb94dcb9e45408c169a8ce3
+# 4bdded2f0f6944a4867ae19a137939a2
+msgid "Install RubyBdd?(Y/N)"
+msgstr ""
+
+#: ../../source/rubybdd.rst:67
+# a20b99a44a0b467d9c4c8a8f658758a4
+msgid "Instead of using RubyBdd we can use  ruby-bdd,rubybdd"
+msgstr ""
+
+#: ../../source/rubybdd.rst:67
+# 495e1def1fc740f49be16bd665dccbd5
+msgid "Y"
+msgstr ""
+
+#: ../../source/rubybdd.rst:67
+# 2914ac1caa0a42ce940340332dcc5139
+msgid "It will install  RubyBdd under Cleopatra in Pharaoh tools"
+msgstr ""
+
+#: ../../source/rubybdd.rst:70
+# 2492e5e5a6864174ac7ef01f4fd6e139
+msgid "Instead of using RubyBdd we can use  ruby-bdd,rubybdd.|"
+msgstr ""
+
+#: ../../source/rubybdd.rst:70
+# 664c9004685e4af78d24da5c4eeeabf7
+msgid "N"
+msgstr ""
+
+#: ../../source/rubybdd.rst:70
+# 82a1ea2728e44c13b99cc6eea06965d7
+msgid "The system exit the installation"
+msgstr ""
+
+#: ../../source/rubybdd.rst:76
+# 63c791603f63434bb47d557eebbb938a
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/rubybdd.rst:79
+# e51bfc1f2df140b2bb0bbaa9669dc453
+msgid "Rubybdd is well-to-do in Ubuntu and CentOS"
+msgstr ""
+
+#: ../../source/rubybdd.rst:80
+# 470c5ed920074c83b61e68667c3f3c4c
+msgid "Rubybdd supports non case sensitivity"
+msgstr ""
+
+#: ../../source/rubybdd.rst:81
+# 45ed8a4514264a019d6ab47d66c0f34f
+msgid "Rubybdd is flexible"
+msgstr ""
+
+#: ../../source/rubybdd.rst:82
+# 01303e06ae824538bb8a335ab3facaa4
+msgid "Another great advantage to having BDD are the driven development – the user can update as latest version of rubybdd, and patch level, of ruby."
+msgstr ""
+
+#: ../../source/rubybdd.rst:84
+# accb10e2ad5b4e2ebb4a983f2dc97f32
+msgid "Rubybdd used for installation"
+msgstr ""
+

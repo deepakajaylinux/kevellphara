@@ -1,0 +1,184 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/chrome.rst:3
+# b53ef36e6e6947cb8268d2e44b17653e
+msgid "Chrome"
+msgstr ""
+
+#: ../../source/chrome.rst:6
+# 87b90d82186f48debdca91eadd5912ff
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/chrome.rst:8
+# cc993c19316a4e01bec9239952cc5384
+msgid "Google Chrome is another web browser which runs web pages and applications with lightning speed due to its superior JavaScript rendering engine."
+msgstr ""
+
+#: ../../source/chrome.rst:11
+# e307cb79844c40a8a108aba4bb32732b
+msgid "Chrome is a free web browser created by Google that uses the WebKit layout engine. Chrome is known for its very simplistic and minimalistic design and touted as the fastest browser out there. Chrome is currently the most widely used web browser with a worldwide"
+msgstr ""
+
+#: ../../source/chrome.rst:14
+# bdf455fc136943f2a28806958d735427
+msgid "Help Command"
+msgstr ""
+
+#: ../../source/chrome.rst:16
+# 8fcf3ab906fa44479912787d107537ca
+msgid "This command helps to determine the usage of Chrome. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same."
+msgstr ""
+
+#: ../../source/chrome.rst:22
+#: ../../source/chrome.rst:54
+# 9b763c48b0614037aca012323d7984c2
+# 2f754092f3e44a4184587739c65cc7aa
+msgid "The pictorial representation of the above command is listed below,"
+msgstr ""
+
+#: ../../source/chrome.rst:46
+# a0f9291e48e54768b4867eecc6a33701
+msgid "Installation"
+msgstr ""
+
+#: ../../source/chrome.rst:48
+# f9e4f00a4a004a2a8502be6f25de1c5f
+msgid "Open the terminal and type the following command to install the same under Linux, when you need to install Chrome in machine."
+msgstr ""
+
+#: ../../source/chrome.rst:195
+#: ../../source/chrome.rst:201
+# 5c8ad1e8d5e542b6a7a7f1ecb2385633
+# e8a5f3c3f120451e982f4f23e2136956
+msgid "Options"
+msgstr ""
+
+#: ../../source/chrome.rst:201
+# fb987062fb1d4005a7fda7d99f7fc510
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/chrome.rst:201
+# 320ecb8049f4440e91e6e7451fe0129b
+msgid "Alternative Parameters"
+msgstr ""
+
+#: ../../source/chrome.rst:201
+# f72778d1dec04601950eada0e71f153d
+msgid "Comments"
+msgstr ""
+
+#: ../../source/chrome.rst:203
+#: ../../source/chrome.rst:208
+# 313121b296d1486185a8acb3727db482
+# 7c98c5fc390945099ea04e862f3ee8ac
+msgid "cleopatra Chrome  Install"
+msgstr ""
+
+#: ../../source/chrome.rst:203
+# 41fed63f0dde46b79ec74673b2f42839
+msgid "Either of the two alternative parameter can be used in command- Chrome ,  chrome eg: cleopatra  chrome Install"
+msgstr ""
+
+#: ../../source/chrome.rst:203
+# 843a8da146aa48538f26c357dfbfafa8
+msgid "Y"
+msgstr ""
+
+#: ../../source/chrome.rst:203
+# 2a49bf3326154b1a9dfdc5079ab371f7
+msgid "Once the user provides the option, System starts installation process"
+msgstr ""
+
+#: ../../source/chrome.rst:208
+# 3708412037054409b0d19af1edb5f914
+msgid "Either of the two alternative parameter can be used in command- Chrome ,  chrome eg: cleopatra  chrome Install|"
+msgstr ""
+
+#: ../../source/chrome.rst:208
+# fb87b55657004f728eeaf1561a7ce7e1
+msgid "N"
+msgstr ""
+
+#: ../../source/chrome.rst:208
+# eeef4b76b7544abb953101138bafbe4f
+msgid "Once the user provides the option, System stops installation process"
+msgstr ""
+
+#: ../../source/chrome.rst:216
+# 79c8d875a2fe4f818c087577b39ce5a8
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/chrome.rst:218
+# 58d3f94f907949b7b4f35f1cf549a7f1
+msgid "Chrome is an extremely fast web browser; it loads and displays pages very quickly."
+msgstr ""
+
+#: ../../source/chrome.rst:219
+# 8ce7257d325a4247a07ad5a716cf458c
+msgid "You can drag tabs out into separate windows, without difficulty, and back in again with your mouse."
+msgstr ""
+
+#: ../../source/chrome.rst:220
+# d0d46837a588440cac5d2d1626e82ce6
+msgid "Google Chrome has a very basic, simple design, making it easy to use."
+msgstr ""
+
+#: ../../source/chrome.rst:221
+# ab630eb224cc420fb6733d35c33d785a
+msgid "The start-up page lists the most frequent pages you’ve visited and allows you to click and access them with ease."
+msgstr ""
+
+#: ../../source/chrome.rst:222
+# 1a5a96a29b12490885b9618033c94975
+msgid "Chrome automatically translates pages into a language you understand for your convenience."
+msgstr ""
+
+#: ../../source/chrome.rst:223
+# 464262fbb2d54880a068db9aa2050ea5
+msgid "You can search the internet through your address bar at any time."
+msgstr ""
+
+#: ../../source/chrome.rst:224
+# 6d4f7c9703d84cc59181b5062f1a26c4
+msgid "If a site crashes on one of your tabs, other open tabs will not be affected."
+msgstr ""
+
+#: ../../source/chrome.rst:225
+# a17e5beaa30a445b9b85d6593b6b5cbe
+msgid "You may browse the internet without being logged using Chrome’s new private feature: Incognito."
+msgstr ""
+
+#: ../../source/chrome.rst:226
+# 8de6606e829b495b87ed514c43bfc559
+msgid "Unlike Firefox and Safari, you can alter the colour and theme of the browser."
+msgstr ""
+
+#: ../../source/chrome.rst:227
+# 1cef2841c6d34de0b3588bc465c970e0
+msgid "Chrome is faster than Explorer and FireFox."
+msgstr ""
+
+#: ../../source/chrome.rst:228
+# 634e8be424bb45029552e8305dc678dc
+msgid "Chrome takes only seconds to install."
+msgstr ""
+

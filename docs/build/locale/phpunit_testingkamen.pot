@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 14:00+0530\n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,174 +17,174 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/phpunit_testingkamen.rst:3
-# 4c9400247202475e98194918f94e23c0
+# b3d0b7e4894f4f6aad94b8031c65717e
 msgid "PhpUnit"
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:6
-# 9089c11a250d4fe99fddf10cf1e759d5
+# 9a00e9a9b2de430a92c1e47c8133a63c
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:8
-# c65ee198ec3842a1882d943f24577bf2
+# 73c16a8b062447f3858cc8fa0067be7a
 msgid "Phpunit is a unit testing framework for the PHP programming language in tesingkamen. It is an instance of the architecture for unit testing frameworks that originated with initializes php test suite and became popular with testingkamen."
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:10
-# 05ba36ea214f4713b5967038ce2fb069
+# eb68f7b837e64eceaa953e4c7ab2bab5
 msgid "It functions in two ways. They are init and execute. It is valuable to work with Ubuntu and centos."
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:13
-# bf9396ffcfc34eea839dc54005448485
+# f69d8c2d7c81408db138295b0545cd33
 msgid "Help command"
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:15
-# 94fb9ef5cc994bf8a715b729ca5dd10a
+# cc7b43b31dd44e1ea45ad0e17119ba26
 msgid "The help command leads the users regarding the purpose and as well as about the options that are included in the Phpunit modules. The help command lists out the alternative parameters of Phpunit under Testingkamen module. It also describes the syntax for initializing the user’s machine. The help command for phpunit is shown below."
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:21
-# 23d24496d6b24216ad792fdd4ef56b92
+# 465210dab1e74423b01adef12bc029a9
 msgid "The syntax for the help command non case sensitive which adds an advantage for this module. The following screenshot visualize the user about the help command under system detection."
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:49
-# 61254cfcca324fa1bdeb49d595774251
+# c825cfce9cc54ab389a7dbf405b0cdc7
 msgid "Alternative parameter"
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:51
-# e07cd804044045eeaa1b0b12998d9146
+# 8e220c6b3a114bce8340993bbf35cf80
 msgid "Instead of using phpunit the user can utilize the following altenative parameters."
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:53
-# 6fea53e6b2bb4b1590692ee94f85b23d
+# 39a67a18a0ae4bbfa54409a1b7b12cf3
 msgid "PHPUnit,  phpunit"
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:57
-# 8af8b5ec81d74567a8bcffd07742ea50
+# 9685fe27a5e24f538ad364dddca7d98d
 msgid "Initialize"
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:59
-# ed955cf302b246009c2436d0c03a23b1
+# 7cd3dd4d4138426e9d4927ee4866c204
 msgid "It initializes the phptest suite of this project. This can instruct the user to script the common use to set up autoloading for the classes that are to be tested. The command for init is as follows,"
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:65
-# c4e79364ffc24b09bcacad930d0272df
+# 225b4e09724544218a2957a1110c438b
 msgid "After inputting the system can question as Initialize PHPUnit? Y/N . This   can be explained by thefollowing screenshot."
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:105
-# e84d0adf9fb64002adaff7924672792e
+# 7faa3201da2d436687d0a893d3ad1ac5
 msgid "Execute"
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:107
-# da73923749f2462aac1ae433c5f79552
+# 53fe5825c73a46d5addfa8a5db4c63ad
 msgid "This execute helps the user to executes PHPUnit test suite of testingkamen. Programs for a system can execute in a batch process without human interaction, or a user may type commands in an interactive session of an interpreter. The following command is used to execute phpunit."
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:113
-# c98be1b438024320b3106983932121a1
+# e397be1617464db48dd9dca1ea469184
 msgid "After typing the command it ask a question. It can be visualized by the following image."
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:154
-# 6f497407124245bea32a47b1b2110b90
+# e446e55e2fe141799ca65193ed8595f0
 msgid "Option"
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:160
-# 304388444a6045d19f9cbabc9cf7b200
+# ef3bbba4fb3c4ff891eb42f1adf7e69f
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:160
-# 68dfc87aa6094fd6891c4fd08e3f7e14
+# 40a58c5e8283442d953d6d518c65a59c
 msgid "Syntax"
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:160
-# 7b71a41ba4534974a445e9f14add932a
+# 11f4faad6a004613873f9f2b997efda6
 msgid "Comments"
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:162
-# fd580f266a484042abba88bd5dffbfda
+# 14bac4247b56416ab4a1a5bfa3ce8db9
 msgid "Initialize Phpunit? (Y/N)"
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:162
 #: ../../source/phpunit_testingkamen.rst:164
-# 32b2c6a9631e474ca02f4dfa6c9b845b
-# f0455439e5aa4fb7bfcb7a410c2fef56
+# 38273f9822184e0aa3a2f24e20c37c37
+# b2e9d4bf3c4942d784bbd9dd92e0d440
 msgid "Yes"
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:162
-# c61af951ad774e299f23766ca2540cde
+# cf5b3b25038641cd9fdae07e874be9d5
 msgid "phpunit can be initialized under testingkamen."
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:164
-# e9ab0b727b474db6842aa379343d7a0b
+# aa7544c278f04868aa0186ffb548e215
 msgid "Execute Phpunit? (Y/N)"
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:164
-# 71cc33fb71ca47b09d8f71346eec5c1f
+# 0d083bd56bae495b90512dc50c9e1561
 msgid "Phpunit can be executed under testingkamen."
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:166
-# 25925d5f866e4380afa0055307f1e598
+# b20be84de49749269bad387d70c05731
 msgid "Initialize Phpunit/Execute Phpunit? (Y/N)|"
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:166
-# 1e66624d187b4cdd801fc21c2b7d0454
+# 2a93cebc70d3450a98b8a6c15cd53377
 msgid "No"
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:166
-# 28a68d08c92f4a0ea3c256fec833f4d0
+# 29763bf5a5044f98884cc6cafb75b4a7
 msgid "It can exit the screen"
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:173
-# a2e78d07154d4810b2ba9c44b3359034
+# 062eccceac2245ee9f820100418e82f4
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:175
-# e9f79c84d4bc4155a80c45ccc0489920
+# cf72052c78be4c248045b145abb8733e
 msgid "PHPUnit was created with the view that the sooner you detect your code mistakes, the quicker you can fix them."
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:176
-# bfafe8a07be2420cbd540a8cc86e6192
+# 2121351a7df949b4b9811e1af1b4645b
 msgid "Like all Unit testing frameworks PHPUnit uses assertions to verify that behaviour of the unit of code under test behaves as expected."
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:177
-# acf3deaad54a495d80193f3f2acb6b17
+# 0a59eed044a642aead2d63236536e8c4
 msgid "PHPUnit can output test results in a number of different formats like xml ."
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:178
-# bb953f74f83649268f4d96f6cd59d64f
+# 327a012d9617491a94b84a920ca66145
 msgid "Phpunit can be a non-case sensitivity."
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:179
-# 542c1b40601c476dbb5bf1a97312fc85
+# 7a9d571037744d32a2c77a8f60eff344
 msgid "Phpunit comforts with Ubuntu and centOS."
 msgstr ""
 

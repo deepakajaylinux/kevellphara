@@ -1,0 +1,155 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/ping.rst:3
+# 09c1f6cd4a1c4096b9021b6b22dad345
+msgid "Ping"
+msgstr ""
+
+#: ../../source/ping.rst:6
+# 1f1fa65373e54d6a8b701d9f75f33455
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/ping.rst:8
+# 57630d47abb147668c05465af601af67
+msgid "As a verb, PING means \"to get the attention of\" or \"to check for the presence of\" another party online. PING (Packet INternet Groper) module used to test the system connectivity. PING used to send network data to, and receive network data from, another computer on a network. PING frequently used to test, whether another system is reachable over a network, and if so, how much time it takes for that data to be exchanged."
+msgstr ""
+
+#: ../../source/ping.rst:11
+# 9ace15bcf7c54ce1b46f3596e11b2af0
+msgid "Help command"
+msgstr ""
+
+#: ../../source/ping.rst:13
+# 04882f81fe314ba6912086fd3d9922bb
+msgid "This command helps to determine the usage of PING module. This help command figure out the options to use along with PING command. This command will guide the end user to know the usage of different options and the syntax for those options. Below given are the command and the screenshot of the same."
+msgstr ""
+
+#: ../../source/ping.rst:54
+#: ../../source/ping.rst:61
+# 71be545a17f04e1d8b26c58fe3974fbc
+# 1f2e7261d3dd401380d72281147ff612
+msgid "Options"
+msgstr ""
+
+#: ../../source/ping.rst:56
+# 5b33e5be78034ee78d43388f1bb4cba8
+msgid "PING module have three different options, which retrieve data as per the option used in commands. Below table explains the same"
+msgstr ""
+
+#: ../../source/ping.rst:61
+# 1336a28951934a5fbcaff3415e15d37e
+msgid "Commands"
+msgstr ""
+
+#: ../../source/ping.rst:61
+# c2a17c27f8f04308b3bd8466b19fc206
+msgid "Functions"
+msgstr ""
+
+#: ../../source/ping.rst:63
+# 8506a4d60b40418faeb170768793c35f
+msgid "Once"
+msgstr ""
+
+#: ../../source/ping.rst:63
+# 16feed8c5ce94d20959909c9a936a621
+msgid "cleopatra ping once -- yes --guess --target=google.com -- interval=5"
+msgstr ""
+
+#: ../../source/ping.rst:63
+# aff022bdbf744a61bfaad4d2cdb64a1f
+msgid "Ping us a target once. Once option will retrieve data only once"
+msgstr ""
+
+#: ../../source/ping.rst:66
+# e13ce5796e40465396da1803824f5fcb
+msgid "Ten"
+msgstr ""
+
+#: ../../source/ping.rst:66
+# 23ce1683b1c840c4be7852d2e6c07297
+msgid "cleopatra ping ten -- yes --guess --target=google.com -- interval=5"
+msgstr ""
+
+#: ../../source/ping.rst:66
+# 0f4105716bcc46e99594cc77fffe14fe
+msgid "Ten option pull data for ten times, having interval time as 5 seconds [waits for  seconds before sending the next packet]"
+msgstr ""
+
+#: ../../source/ping.rst:70
+# a278dab3932242a4972425537a7900b1
+msgid "Until-responding"
+msgstr ""
+
+#: ../../source/ping.rst:70
+# 42f8cffc9e804d328409a83f97e90f29
+msgid "cleopatra ping once -- yes --guess --target=google.com -- interval=5 -- max-wait=100"
+msgstr ""
+
+#: ../../source/ping.rst:70
+# 0d111dea17f447ffb36eac80bb61edd8
+msgid "Ping us the target for a set amount of time until it responds, having interval time as 5 seconds and max 100 seconds to try for the target|"
+msgstr ""
+
+#: ../../source/ping.rst:75
+# 141dfe9c4b884a2ab3bb90ceff071ed9
+msgid "Note:"
+msgstr ""
+
+#: ../../source/ping.rst:77
+# 2ac933a12bbb4003b45116370a321f0d
+msgid "Interval - Number of seconds to wait between each request"
+msgstr ""
+
+#: ../../source/ping.rst:79
+# 891111ab0b3d44a3b5b0650434d645d0
+msgid "Max-wait - Number of seconds in total to keep trying"
+msgstr ""
+
+#: ../../source/ping.rst:81
+# e9f8013312d74ce1b866bb78cad1ab8a
+msgid "Interval time and Max-wait time frequency can be decided by the user as per the requirement"
+msgstr ""
+
+#: ../../source/ping.rst:86
+# d26955f31c574df69e40a870f2a81ce8
+msgid "Once Option"
+msgstr ""
+
+#: ../../source/ping.rst:107
+# e9f3488848624a9383285736ac90af48
+msgid "Ten Option"
+msgstr ""
+
+#: ../../source/ping.rst:132
+# b8c07225a6af49b7b360fee1dccdaf87
+msgid "Until responding"
+msgstr ""
+
+#: ../../source/ping.rst:153
+# d03b2a87405448f3a4dd83fd7815b5d3
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/ping.rst:156
+# fad926223a4a44dca38595e342215c30
+msgid "PING helps the user to verify a particular IP address existence and can accept request. PING command is the best way to test connectivity between two nodes. Whether it is Local Area Network (LAN) or Wide Area Network (WAN)."
+msgstr ""
+

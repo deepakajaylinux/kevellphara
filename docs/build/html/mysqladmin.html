@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>MysqlAdmins &mdash; KEVELL 0.1 Dokumentation</title>
+    <title>MysqlAdmins &mdash; KEVELL 0.1 documentation</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -25,11 +25,10 @@
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
-    <script type="text/javascript" src="_static/translations.js"></script>
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
-    <link rel="top" title="KEVELL 0.1 Dokumentation" href="index.html" />
+    <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
     <link rel="up" title="Cleopatra" href="cleopatra.html" />
     <link rel="next" title="MysqlTools" href="mysqltool.html" />
     <link rel="prev" title="Mysqlserver" href="mysqlserver.html" />
@@ -101,9 +100,9 @@
           
             
   <li><a href="mysqlserver.html"
-         title="vorheriges Kapitel">&laquo; Mysqlserver</a></li>
+         title="previous chapter">&laquo; Mysqlserver</a></li>
   <li><a href="mysqltool.html"
-         title="nächstes Kapitel">MysqlTools &raquo;</a></li>
+         title="next chapter">MysqlTools &raquo;</a></li>
           
           
           <!--  <li>
@@ -127,13 +126,13 @@
   
   
   <div class="section" id="mysqladmins">
-<h1>MysqlAdmins<a class="headerlink" href="#mysqladmins" title="Permalink zu dieser Überschrift">¶</a></h1>
+<h1>MysqlAdmins<a class="headerlink" href="#mysqladmins" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="synopsis">
-<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
 <p>This module assists in installing and as well as managing the admin users for mysql without using root user. By using this, the users can manage their administrative functions.</p>
 </div>
 <div class="section" id="help-command">
-<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>The Help command guides the users regarding the command used for installing the mysql admins, and also its advantages. The command used for help option under this mysql admins is shown below.</p>
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra MysqlAdmins <span class="nb">help</span>
 </pre></div>
@@ -143,7 +142,7 @@
 ******************************
 
 
- This <span class="nb">command </span>allows you to install admin users <span class="k">for</span> MySQL so that MySQL can
+ This <span class="nb">command </span>allows you to install admin users <span class="k">for </span>MySQL so that MySQL can
  be managed without using the Root User.
 
  MysqlAdmins, mysql-admins, mysqladmins
@@ -159,7 +158,7 @@ End Help
 </div>
 </div>
 <div class="section" id="installation">
-<h2>Installation<a class="headerlink" href="#installation" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
 <p>Installing mysql admins to your machine facilitates the users to specify and manage their administrative actions. The command used for installing mysql admins is marked below.</p>
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra MysqlAdmins install
 </pre></div>
@@ -209,7 +208,7 @@ can input as N|</td>
 </ul>
 <p>The following screenshot gives you an pictorial representation about the process of installation as described above.</p>
 <div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra mysql-admins install
-Install Admin User <span class="k">for</span> MySQL? <span class="o">(</span>Y/N<span class="o">)</span>
+Install Admin User <span class="k">for </span>MySQL? <span class="o">(</span>Y/N<span class="o">)</span>
 y
 *******************************
 *        Pharaoh Tools        *
@@ -223,17 +222,17 @@ Enter MySQL New Admin User:
 kevells
 Enter MySQL New Admin Pass:
 kevells123
-Enter MySQL Host: Enter nothing <span class="k">for</span> 127.0.0.1
+Enter MySQL Host: Enter nothing <span class="k">for </span>127.0.0.1
 
 Creating /tmp/cleopatra-temp-script-74285705785.sh
-chmod <span class="m">755</span> /tmp/cleopatra-temp-script-74285705785.sh 2&gt;/dev/null
+chmod 755 /tmp/cleopatra-temp-script-74285705785.sh 2&gt;/dev/null
 Changing /tmp/cleopatra-temp-script-74285705785.sh Permissions
 Executing /tmp/cleopatra-temp-script-74285705785.sh
-ERROR <span class="m">1045</span> <span class="o">(</span>28000<span class="o">)</span>: Access denied <span class="k">for</span> user <span class="s1">&#39;root&#39;</span>@<span class="s1">&#39;localhost&#39;</span> <span class="o">(</span>using password: YES<span class="o">)</span>
+ERROR 1045 <span class="o">(</span>28000<span class="o">)</span>: Access denied <span class="k">for </span>user <span class="s1">&#39;root&#39;</span>@<span class="s1">&#39;localhost&#39;</span> <span class="o">(</span>using password: YES<span class="o">)</span>
 Temp File /tmp/cleopatra-temp-script-74285705785.sh Removed
 ... All <span class="k">done</span>!
 *******************************
-Thanks <span class="k">for</span> installing , visit www.pharaohtools.com <span class="k">for</span> more
+Thanks <span class="k">for </span>installing , visit www.pharaohtools.com <span class="k">for </span>more
 ******************************
 
 
@@ -247,7 +246,7 @@ Installer Finished
 </div>
 </div>
 <div class="section" id="benefits">
-<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
 <li>In case of mysql admins is already installed in the users machine, then an message will be appearing to inform the users as it is already installed.</li>
 <li>By using this module the administrators can manage their administrative actions as per the requirements.</li>
@@ -289,7 +288,7 @@ Installer Finished
     </p>
     <p>
         &copy; Copyright 2015, kevell.<br/>
-      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2.3.<br/>
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2.2.<br/>
     </p>
   </div>
 </footer>

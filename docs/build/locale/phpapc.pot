@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 14:00+0530\n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,296 +17,296 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/phpapc.rst:3
-# f339cf473def46cd9b3eb38ec88bb49e
+# 70d1e77dc4524742b4b283ef423eb039
 msgid "PHPAPC"
 msgstr ""
 
 #: ../../source/phpapc.rst:6
-# 1467592323604e34af7949a5e51da90b
+# f56201be5f3149b49a55d5b273e53cb9
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/phpapc.rst:8
-# 193308946c63408fac3b5c3b311721fe
+# f05c071d3dc74c699e5a56247d2624fb
 msgid "This module aims at installing the PHP APC to the users machine in all possible ways."
 msgstr ""
 
 #: ../../source/phpapc.rst:10
-# dc0bace9587443349c4684c88408ea94
+# 42c8b70a01a848c3b674693bf4286249
 msgid "APC is one of the most popular caching mechanism for PHP’s op-code caching. Once activated, it starts caching PHP codes automatically. It also works nicely with W3 Total Cache plugin for storing Object & MySQL caches."
 msgstr ""
 
 #: ../../source/phpapc.rst:12
-# 70e3f4bff70340db97f45501d9820d2a
+# 2b51f571a5c449679bba970944c50fa4
 msgid "The upcoming topics will guides your entirely in all aspects involved in installing the PHP APC."
 msgstr ""
 
 #: ../../source/phpapc.rst:17
-# c62d9efba3cd4fd4b08aefa67e68e069
+# c60dd9645f3c4b14a43ca22e8bb0e85b
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/phpapc.rst:19
-# bcfbee995b94437db13851e80be387a5
+# 7c6ee0e98c2b414eacb1154d27b16d3d
 msgid "The help command guides the users regarding the purpose and as well as about the options that are included in the Php APC module. It lists out the alternative parameters of Php APC module. It also describes the syntax for installing the Php APC module. The help command for Php APC module is shown as below."
 msgstr ""
 
 #: ../../source/phpapc.rst:26
-# e0836d358ec542d98c0490ee2d6eb0e3
+# 4645a4459bac4a1498a9a7e72c2e5dd6
 msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under Php APC."
 msgstr ""
 
 #: ../../source/phpapc.rst:51
-# 9033b7afc4344c5cb1a521f567854a22
+# a344eb95d1fe4d73bc20559b8c266260
 msgid "Installation"
 msgstr ""
 
 #: ../../source/phpapc.rst:53
-# 00bca277c23c44d89451285fa3c1934a
+# 10983ff501f84c1e97f872fa3b48c6a4
 msgid "The command used for installing the Php APC in the users machine is shown below:"
 msgstr ""
 
 #: ../../source/phpapc.rst:60
-# 2d6e7e3a49204bbaa053a4f3bb7e6579
+# 563e478b006e413c831c3b9f25c859c1
 msgid "After inputting the command above, the following process occurs as shown in the tabular format."
 msgstr ""
 
 #: ../../source/phpapc.rst:65
-# b04781924f5b471c9fac410605e7f14d
+# db91706cdf5244778e144f8f92893a5d
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/phpapc.rst:65
-# e7328bd9f49f409fa9129d82f65381cd
+# 9476428d826d4a2485e143f7b4b5bd01
 msgid "Alternative Parameter"
 msgstr ""
 
 #: ../../source/phpapc.rst:65
-# 490bc9445e684919b9e9593ea03b916b
+# e15a52d359594ca8835df82f6d3a0b68
 msgid "Options"
 msgstr ""
 
 #: ../../source/phpapc.rst:65
-# df92464a943541a19c7988687ac86112
+# e1370d6624f542f6a60a91ea6d70004e
 msgid "Comments"
 msgstr ""
 
 #: ../../source/phpapc.rst:67
 #: ../../source/phpapc.rst:70
-# c4f428f9d1ff42c7a8288d757abbc7c9
-# c993e85a4a0a4a36a91189413ce1557d
+# 8f6e5dc8f3fc4634962381efb08b6c94
+# 763eebf2c1d84618b38454602a76c089
 msgid "Install PHP APC? (Y/N)"
 msgstr ""
 
 #: ../../source/phpapc.rst:67
 #: ../../source/phpapc.rst:70
-# 0710e9dbf4b74018919fc834711266e9
-# 499a7070bc6748b8afde5798ae3b8e32
+# cabc9baf585d4e04a7d8c8115146ded1
+# 45b513d040294371bd83813d0287887f
 msgid "Instead of phpapc, we can use PHPAPC, php-apc."
 msgstr ""
 
 #: ../../source/phpapc.rst:67
-# a4aa2f32d2e941ce88a48f5d1a0d10d6
+# b38588f0784d44b9bd835ff1964acd33
 msgid "Y(Yes)"
 msgstr ""
 
 #: ../../source/phpapc.rst:67
-# 1235a482373441179a74cd30d929745c
+# fb8f81952ccb422688d48da006807e7e
 msgid "If the user wish to proceed the installation process they can input as Y."
 msgstr ""
 
 #: ../../source/phpapc.rst:70
-# 513b58b5a5e14f95b273cedec1d2f37a
+# e1847984f3904325a8f7a8cefcc5bebf
 msgid "N(No)"
 msgstr ""
 
 #: ../../source/phpapc.rst:70
-# a8fe5f65e4a441cbb1ac7974d0d084b5
+# 89c998996da744a3a8861405096e1812
 msgid "If the user wish to quit the installation process they can input as N.|"
 msgstr ""
 
 #: ../../source/phpapc.rst:76
-# 4eb0805034a048e38da0761f8594bd96
+# 245f2bd4e235474aafe0a069890eb82e
 msgid "If the user proceeds the installation, during the process of installation is described in the below lists:"
 msgstr ""
 
 #: ../../source/phpapc.rst:79
-# 6edcc0a1ef1d4575bef92a9d2d341447
+# 0566c8db162843cd8f879261b54506dd
 msgid "Reads package lists."
 msgstr ""
 
 #: ../../source/phpapc.rst:80
-# 278eff3b6e5548f0b76fdaaa20e2c1fd
+# be8d79b904e247b7b224e99919b6fa2f
 msgid "Builds the dependency tree."
 msgstr ""
 
 #: ../../source/phpapc.rst:81
-# 9e1786f81c9b497d9b31dbabcfd6eabb
+# aea257a5cd4c470080b0fe3202f03870
 msgid "Reads state information."
 msgstr ""
 
 #: ../../source/phpapc.rst:82
-# 95646c7cf7ad404ca125f983b78c61ee
+# fe9cd0e303754d1ab3a15e788ce9c7b7
 msgid "List outs the packages that are automatically installed."
 msgstr ""
 
 #: ../../source/phpapc.rst:83
-# 7d2e4c09684c4a4299d47ed6d1b49ec3
+# af6687ce0fbf41a09dadcd8ac8c09b41
 msgid "List outs the extra package that are installing."
 msgstr ""
 
 #: ../../source/phpapc.rst:84
-# 88ec1d2dbb7848d192aed46ed8fab4f9
+# e72a61bd0b4d469bae940e5918511013
 msgid "List outs the suggested packages."
 msgstr ""
 
 #: ../../source/phpapc.rst:85
-# 98fe21a7d5b84f35af381c39ffc29ab2
+# a2460aa6ad90446fb3efe911c283bb3c
 msgid "List outs the new packages that are installing."
 msgstr ""
 
 #: ../../source/phpapc.rst:86
-# d29bc155bd4f46388a0a95042a38f155
+# 8deacaf87d9b4ba4aae9ec0f9c6f5688
 msgid "Details regarding the number of files upgraded, newly installed, removed and not upgraded."
 msgstr ""
 
 #: ../../source/phpapc.rst:89
-# d21c4f73e25d443eb2c7e0080ba08ea7
+# 3522c65aabf84abea33031dd02b3c633
 msgid "Finally, the process of installation gets completed. The following screenshot visually represent the process of installing the PHP APC."
 msgstr ""
 
 #: ../../source/phpapc.rst:146
-# 642cd6d989974bfc8206c6bc540ffd31
+# 0997bbc02b264c698c3df61029858a69
 msgid "APC Functions"
 msgstr ""
 
 #: ../../source/phpapc.rst:149
-# 7ab5dbe3a4ff4b31b3c59608dedb6687
+# b44393d76ab945febaf2662bf81b66ca
 msgid "This sub topics deals with the most frequently used functions under APC. While working with Php APC the user can refer with these functions of APC."
 msgstr ""
 
 #: ../../source/phpapc.rst:151
-# f314e5abe38f41ce811a6ef1dd33060f
+# 4c65dc583f704573ad85c52690d64f08
 msgid "apc_add — Cache a new variable in the data store"
 msgstr ""
 
 #: ../../source/phpapc.rst:152
-# d9d58d1e67794914853aef4bde88a6c9
+# c4783f3f8dfe4f76971d626b10611ac0
 msgid "apc_bin_dump — Get a binary dump of the given files and user variables"
 msgstr ""
 
 #: ../../source/phpapc.rst:153
-# e36b5642161b4897826b590515039988
+# fb612b79bf844a06b81991ae6498e1b5
 msgid "apc_bin_dumpfile — Output a binary dump of cached files and user variables to a file"
 msgstr ""
 
 #: ../../source/phpapc.rst:154
-# 41cc6afde64842fda924a19d0e17dcd3
+# 4f83c33b3936467091eaa7c91ef4d10b
 msgid "apc_bin_load — Load a binary dump into the APC file/user cache"
 msgstr ""
 
 #: ../../source/phpapc.rst:155
-# d6e5596453bf4fd48a40eefa97e288e8
+# 5ff3545d3ea84a79b291ea3011108591
 msgid "apc_bin_loadfile — Load a binary dump from a file into the APC file/user cache"
 msgstr ""
 
 #: ../../source/phpapc.rst:156
-# 93060bf7838c4ecf91ab73618a1c0916
+# 49eb966a1f5142229af996cb7a318024
 msgid "apc_cache_info — Retrieves cached information from APC's data store"
 msgstr ""
 
 #: ../../source/phpapc.rst:157
-# 3b3b8334d67b419ab142113b02ea96b9
+# 7ced52162c0949b28766fba1508fa805
 msgid "apc_cas — Updates an old value with a new value"
 msgstr ""
 
 #: ../../source/phpapc.rst:158
-# 5ba385089eca4595b733ecf854e86c29
+# ee5622a4f6454f328b37b9daa8ea0c8e
 msgid "apc_clear_cache — Clears the APC cache"
 msgstr ""
 
 #: ../../source/phpapc.rst:159
-# 905ebccc85294681a9dac714becacac8
+# 9e9231f1f4d742d7a4909da2c43abb28
 msgid "apc_compile_file — Stores a file in the bytecode cache, bypassing all filters."
 msgstr ""
 
 #: ../../source/phpapc.rst:160
-# 84ceb47804204346aa3bdae5d3511875
+# c76eddf6446c4c908268f0327e9d3c7a
 msgid "apc_dec — Decrease a stored number"
 msgstr ""
 
 #: ../../source/phpapc.rst:161
-# 4a3f93b6885e4e11856988ef58dcfcf3
+# e01f703abde14d389419621cd943e994
 msgid "apc_define_constants — Defines a set of constants for retrieval and mass-definition"
 msgstr ""
 
 #: ../../source/phpapc.rst:162
-# 9d5a559a1486437489279abdb4d37184
+# 64d39e0b0c32427cb25fecf6a6fd0dab
 msgid "apc_delete_file — Deletes files from the opcode cache"
 msgstr ""
 
 #: ../../source/phpapc.rst:163
-# 1b445fa724484519a0595739e547b4c6
+# e823c98554b744828d932a4a5f08e51e
 msgid "apc_delete — Removes a stored variable from the cache"
 msgstr ""
 
 #: ../../source/phpapc.rst:164
-# 8936036d63c8485db36abf6ebef67dd4
+# 1d5639c8ff47429690b1c04fc470410c
 msgid "apc_exists — Checks if APC key exists"
 msgstr ""
 
 #: ../../source/phpapc.rst:165
-# e2910b2d7af34e38a70cb149a5c25d4d
+# 53ada9e5844d44fa9f16bec5d0073dda
 msgid "apc_fetch — Fetch a stored variable from the cache"
 msgstr ""
 
 #: ../../source/phpapc.rst:166
-# ba4054af64004f2993e1ff72ae53a245
+# 324cdcacf41440179727994bde4e986e
 msgid "apc_inc — Increase a stored number"
 msgstr ""
 
 #: ../../source/phpapc.rst:167
-# e300364e84e543d0b5234c45707948d8
+# f9b478542f474df28a7e55a3347f6791
 msgid "apc_load_constants — Loads a set of constants from the cache"
 msgstr ""
 
 #: ../../source/phpapc.rst:168
-# 60dd14c728ba4757ada5c9cf55f01b8b
+# f791964e3e034277b06218575ffc2dde
 msgid "apc_sma_info — Retrieves APC's Shared Memory Allocation information"
 msgstr ""
 
 #: ../../source/phpapc.rst:169
-# 04e2e773e736499b8775279f5ea45885
+# cde49b2284e14484b8919a5ea246451e
 msgid "apc_store — Cache a variable in the data store"
 msgstr ""
 
 #: ../../source/phpapc.rst:174
-# ebf3f4586f334bffbfc5e9f7724aca73
+# 1b511de77ded4a83aaa2d22b3e1edb4e
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/phpapc.rst:176
-# 45b74191f61c41b4be82dab36441b967
+# 59e932f77cb640a0a6016e54acc659a6
 msgid "The parameters used in help and installation are not case sensitive which is an added advantage while compared to others."
 msgstr ""
 
 #: ../../source/phpapc.rst:177
-# eb04dc6aaf8d4f97966d186e8eaf530b
+# 15ade29dc8704bda84cd6594169506ff
 msgid "It is well-to-do in both Ubuntu and as well as Cent OS."
 msgstr ""
 
 #: ../../source/phpapc.rst:178
-# 659b146e1fb74287b6bd820a7a518b1b
+# 6d4a5253187f490aa2cb60a80cf8adbb
 msgid "This will module installs the php apc in updated version."
 msgstr ""
 
 #: ../../source/phpapc.rst:179
-# 938bcd13059446c3a76b2b70eb1570c6
+# e82fd16576184dfd938ebcd3c2bba2ce
 msgid "If the module is already existing in the user machine it will display a message as it is already existing."
 msgstr ""
 
 #: ../../source/phpapc.rst:180
-# dce8033940f7454fb28e056d6468d27c
+# adedeb5da25f42819ea5cb46298c0bd8
 msgid "APC comes with file named apc.php, which provides a simple web-based interface."
 msgstr ""
 

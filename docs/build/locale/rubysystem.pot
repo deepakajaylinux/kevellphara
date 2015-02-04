@@ -1,0 +1,157 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/rubysystem.rst:3
+# 233c6c8ebcaf47589c16d05f38b43edc
+msgid "RubySystem"
+msgstr ""
+
+#: ../../source/rubysystem.rst:6
+# be1b921de26b41eb9693d91a40ea50e7
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/rubysystem.rst:8
+# b2ce1e51064c4f9d8cc2bde8cf610d84
+msgid "Ruby  system is a dynamic, reflective, high-level scripting language. Ruby system is not just for Web application development working with the Ruby RVM. It can also be used as a powerful as a scripting language and a very good alternative to the usual shell scripting, commonly used to achieve the scripting needs in systems adminstration.Set of built-in modules and a few external libraries, Ruby system can make systems adminstration more efficient.Ruby system is a very useful and powerful tool that is a must have in every system administrator's toolbox.It is comfortable with Ubuntu and Cent OS."
+msgstr ""
+
+#: ../../source/rubysystem.rst:11
+# de6525f4c3664b57ab73dfd2c145d83c
+msgid "Help command"
+msgstr ""
+
+#: ../../source/rubysystem.rst:13
+# 502dd0a5500c4fb2816c321267278240
+msgid "This command can function about the objectives and commands available under Ruby system module. It also explains the command to install Ruby system. Before installation, the user can read this help command explains its function."
+msgstr ""
+
+#: ../../source/rubysystem.rst:20
+# 304e6a68456e41009917f3388724dba7
+msgid "The following image also helps you to understand this module clearly."
+msgstr ""
+
+#: ../../source/rubysystem.rst:48
+# 116d0304c24f4f98a8b1fb82d694b437
+msgid "Installation"
+msgstr ""
+
+#: ../../source/rubysystem.rst:50
+# e4c7478880fc459eb4bff48a83acc7de
+msgid "It is a glaring process to install Ruby system module under Cleopatra by just using the command given below,"
+msgstr ""
+
+#: ../../source/rubysystem.rst:56
+# d7b7e7cbcef243129b645ed4331c90eb
+msgid "After key in the command, it can asks"
+msgstr ""
+
+#: ../../source/rubysystem.rst:58
+# 45fc3d711ede45329ce1adefabba2861
+msgid "Install Ruby, system wide?(Y/N)"
+msgstr ""
+
+#: ../../source/rubysystem.rst:60
+# 60d1d3e0d26144bc94bc4913660d5c22
+msgid "In case the user input as Y, it can install Rubysystem from the package. Else, it can exit the screen. The following screen shots can explain it."
+msgstr ""
+
+#: ../../source/rubysystem.rst:125
+#: ../../source/rubysystem.rst:132
+# 6eb878f17ba240edbaf0fc1aad5187d9
+# 61ca582f6adc481bad97437e2efd402d
+msgid "Options"
+msgstr ""
+
+#: ../../source/rubysystem.rst:132
+# 05a4b568e66842728e3f9d08db5d1e9d
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/rubysystem.rst:132
+# 85623d26b6494c64804d15821608d15a
+msgid "Alternative Parameters"
+msgstr ""
+
+#: ../../source/rubysystem.rst:132
+# 9d09e577ad624219ad2f68fa7289cc6d
+msgid "Comments"
+msgstr ""
+
+#: ../../source/rubysystem.rst:134
+#: ../../source/rubysystem.rst:137
+# beef0784ff7f45489ad2a789f8671019
+# beb22c2f71264787ad40adb78082bd9b
+msgid "cleopatra Rubysystem Install"
+msgstr ""
+
+#: ../../source/rubysystem.rst:134
+# b353379841cb4ebab4039ad140b37366
+msgid "We can use RubySystem,rubysystem, ruby-system,rubysys."
+msgstr ""
+
+#: ../../source/rubysystem.rst:134
+# d4da9f3c27ac4ac38c7b49ee5eb961f0
+msgid "Y"
+msgstr ""
+
+#: ../../source/rubysystem.rst:134
+# 5735b7cd1c4b48ff9e74fafa37a0a0a6
+msgid "System starts installation process"
+msgstr ""
+
+#: ../../source/rubysystem.rst:137
+# 50709525627045edb90d6967f39d8934
+msgid "We can use RubySystem,rubysystem, ruby-system,rubysys.|"
+msgstr ""
+
+#: ../../source/rubysystem.rst:137
+# 6b9635d663524b28a906ee20684d6038
+msgid "N"
+msgstr ""
+
+#: ../../source/rubysystem.rst:137
+# 006069988cf8479eabab0718f7b79178
+msgid "System stops installation process"
+msgstr ""
+
+#: ../../source/rubysystem.rst:144
+# e95b30a913ee4ae4a53e2c5faa26562c
+msgid "Benifits"
+msgstr ""
+
+#: ../../source/rubysystem.rst:146
+# 8d8079e452054608ae96a95b577304c4
+msgid "Ruby  system is a dynamic, reflective, high-level scripting language for quick and easy object-oriented programming ."
+msgstr ""
+
+#: ../../source/rubysystem.rst:147
+# c8e512e6907549fd8451780158995329
+msgid "In Ruby system, is a convenient and enjoyable tool. Including the tools that are used in the deployment process."
+msgstr ""
+
+#: ../../source/rubysystem.rst:148
+# d5be2b78efa14c64a25d6e1bcfd5fbed
+msgid "The Ruby system is already an experienced professional having extreme knowledge in both web development and general software engineering skills."
+msgstr ""
+
+#: ../../source/rubysystem.rst:150
+# 9b9e59a131354727b25e5c66ccce90d9
+msgid "The main advantage of the Ruby programming language and the Ruby System is considered to be the speed of development."
+msgstr ""
+

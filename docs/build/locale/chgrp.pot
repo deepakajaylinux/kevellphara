@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 14:00+0530\n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,151 +18,151 @@ msgstr ""
 
 #: ../../source/chgrp.rst:2
 #: ../../source/chgrp.rst:41
-# 357a4cf9c59044ecb87ca87a0cc371b5
-# a17b27cd4bd541f18b20998c9c5f52dd
+# e84cdf903a094384803e84b7f84586a9
+# d5f17bbd3d1f472abd4f130a2143f093
 msgid "Chgrp"
 msgstr ""
 
 #: ../../source/chgrp.rst:5
-# 69610d1698ea4b07bbc5b4eff969498f
+# 9c6695297ee94fee8076ddb3471899ac
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/chgrp.rst:7
-# b51bc61099dd447dad483699de476031
+# 47bc45b2cbe0469ba45ab2eb2718a822
 msgid "This module confess many owners. Linux can accept many groups."
 msgstr ""
 
 #: ../../source/chgrp.rst:10
-# b1bc925ac21145f4bdf4769e45de28da
+# 497430d7c3054870847bfdff42447873
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/chgrp.rst:11
-# 6f5f1ad008f44094ae9e470f6b2a4215
+# 3240cae626e041d694f2246b29cf47eb
 msgid "The help command interprets about the scope and the commands available under this modules. It also explains the command to change the group. It lists out the alaterntive parameters that can be used for declaration. The command used for defining the help option is shown below:"
 msgstr ""
 
 #: ../../source/chgrp.rst:18
-# 753dd4a79bbd4829a64ba27c4fe30659
+# a7d17b1be67147acbd79656a2dc1a078
 msgid "The following screen shot visualize it translucently."
 msgstr ""
 
 #: ../../source/chgrp.rst:21
-# 7a0c1f66ad4543bfb5ba9868a14e7673
+# 7e0594986c06446d99a0a6e4de34c4ba
 msgid "How to use"
 msgstr ""
 
 #: ../../source/chgrp.rst:23
-# 292cc905906c48d1a08a434b53140566
+# 8bd907e683b14d729675954c66109cd1
 msgid "It is an obvious process to use this change group module under Cleopatra by just using the command given below,"
 msgstr ""
 
 #: ../../source/chgrp.rst:29
-# a80fb217be694dddae0265592271f5a6
+# 3b35849205e24fe3b805541345250a84
 msgid "After inputting the command it will change the group."
 msgstr ""
 
 #: ../../source/chgrp.rst:35
-# 033a7aee93be4d599f54a89e5f8e4968
+# 9ab8ca0afbc449cb88b7ec344467d915
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/chgrp.rst:35
-# 4440c3c69664480a985b9993dd5cb7b0
+# ef7b1b96b513489da1ce5dd8070a1be4
 msgid "Requirement"
 msgstr ""
 
 #: ../../source/chgrp.rst:35
-# e5d6afc8a74b419d8b69f28f4635a246
+# 39d68644f97346bb9109adbf0df415ea
 msgid "Option"
 msgstr ""
 
 #: ../../source/chgrp.rst:35
-# ce602ebed9b44b91964b485ea0530b58
+# 6b10d1b714584752a11d467309f381ac
 msgid "Comments"
 msgstr ""
 
 #: ../../source/chgrp.rst:37
 #: ../../source/chgrp.rst:43
-# 2483e7d3bea849a88d845b1a9ca9a1cd
-# 9c370f2e699f46e9a92abf7b4ffeb690
+# daff5aed61664799b387f8351cfe78c0
+# 265ac487e7dc4d48a7849a1027a3aa5c
 msgid "chgrp"
 msgstr ""
 
 #: ../../source/chgrp.rst:37
 #: ../../source/chgrp.rst:39
 #: ../../source/chgrp.rst:43
-# 6c425fcc322242158fe5de389ae70e2b
-# 63c67a37c5604a4eafc8dbcd29ab4712
-# acca02aa42944bbea3b719d23862af09
+# ae151e65449247e9af3b5e6474261611
+# 5f7716807a74445aaf97af4c66f29219
+# 5d2ff6edb6e3494a855f208f5542df66
 msgid "Yes"
 msgstr ""
 
 #: ../../source/chgrp.rst:37
-# 401937e3154645979af3683e5224d5e3
+# 7b0272398df5483a84eb8f6fbe1168b0
 msgid "It will  the change group module under Cleopatra"
 msgstr ""
 
 #: ../../source/chgrp.rst:39
-# 1d0428d51e3f44d4ab7a7c1b4cf6ab6b
+# 8cf27213adc14d688fc19197686d6d86
 msgid "Path"
 msgstr ""
 
 #: ../../source/chgrp.rst:39
-# a4403f6fdf294ce8b6b71b493e741141
+# 743c8ce5a12b43eab16d09ff9bad9c52
 msgid "Specify the path"
 msgstr ""
 
 #: ../../source/chgrp.rst:41
 #: ../../source/chgrp.rst:43
-# 1b97ab30e1294f54a6f34c1f7e6578d5
-# 6accb484b2eb4523b8e7f9ad45d777d7
+# 8d56bb8f61b34814b12a76ce37dec996
+# 1cff515bfb31442ea4aa94b4f66a8961
 msgid "group"
 msgstr ""
 
 #: ../../source/chgrp.rst:41
-# ae8fef9daa0e4878aa51f1199f99390a
+# f2a080c78b5d4453976f0fd8183fe428
 msgid "No"
 msgstr ""
 
 #: ../../source/chgrp.rst:41
-# 9686bfc60c6d4808a699ddbe0fc6580c
+# 352a8b8ded784891ba276032d9d1ace0
 msgid "While changing user can specify the path."
 msgstr ""
 
 #: ../../source/chgrp.rst:43
-# 140cac5cb1644402bcd3ab6079435fba
+# 2c6535e78cb84ea8ac275d1884fdcb1c
 msgid "Facilitate to change the new group name|"
 msgstr ""
 
 #: ../../source/chgrp.rst:47
-# 8ae220c0189240d0ab112e4393b1c54c
+# b9766357f95140878818201c662b44e8
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/chgrp.rst:49
-# 9206df295acd4119aa50d1e96cc1ae89
+# fcdfaf055e6043afa8d72c938e333471
 msgid "Change group can be used to change the group permission."
 msgstr ""
 
 #: ../../source/chgrp.rst:50
-# 39100e23d76d4107946754a16407d1f4
+# 578cc97741c3464db804f24fcf99db89
 msgid "It simplifies the process."
 msgstr ""
 
 #: ../../source/chgrp.rst:51
-# cb6a3d331f284c8e843cc351db2fa408
+# 4a7bbe3b45ec47a192ad2e0910dadf78
 msgid "It is suitable for all types of user."
 msgstr ""
 
 #: ../../source/chgrp.rst:52
-# 14595499d19641c0a106248face4556a
+# a51f24b8ead04ce1ae095c9378a0e2c4
 msgid "We can give the command anywhere any time."
 msgstr ""
 
 #: ../../source/chgrp.rst:53
-# 01c1709c60c64d499dae1ab3453dafc9
+# 11808506ce9e454084b88e80662aa728
 msgid "Easy to operate."
 msgstr ""
 

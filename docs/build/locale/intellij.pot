@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 14:00+0530\n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,112 +17,112 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/intellij.rst:3
-# 2ec7d0a2ea3e42aeb3de0b67c55df527
+# 46192910e34d405388f914fa097de8f5
 msgid "IntelliJ"
 msgstr ""
 
 #: ../../source/intellij.rst:7
-# eb409ad031bb4938a666e27effeed20d
+# 894768f2873345b9ac3fa642ae9f101d
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/intellij.rst:9
-# e736d769a4dd4d1e8b5a71b27b55e14d
+# e79666b7199c4365b1490cc25c32ad4d
 msgid "This module expedite the installation of IntelliJ which is an Jet Brains IDE with a latest version. The IntelliJ Platform is a platform for building smart, language-aware IDEs with a comprehensive set of components, that includes virtual file system, UI framework, text editor, lexing, parsing, abstract syntax trees and other language-specific infrastructure, frameworks for implementing navigation, code completion, inspections, intentions, refactorings, version control integration, debugger framework, graphical unit test runner. The IntelliJ Platform is open source, and the code is covered by the Apache 2.0 license. This means that you can build both open source and commercial products on top of the platform without paying any royalties to JetBrains. Let us see about the functionalities of IntelliJ under this module."
 msgstr ""
 
 #: ../../source/intellij.rst:12
-# 6cb8117c8f2b4a1483892372e9de8be7
+# 990348dfedb6443092f08368c862dc3c
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/intellij.rst:14
-# f2a6c55306e249488d35a1453189cd8f
+# cf5fb790e2fe4cc892ee02e446521c8b
 msgid "The help command guides the users regarding the purpose and as well as about the options that are included in the IntelliJ module. It lists out the alternative parameters of IntelliJ module. It also describes the syntax for installing the IntelliJ module. The help command for IntelliJ module is shown as below."
 msgstr ""
 
 #: ../../source/intellij.rst:20
-# c4a2ab53db72410abff0e079e9de810a
+# d17022486b314721acf7db3764fd1174
 msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under IntelliJ."
 msgstr ""
 
 #: ../../source/intellij.rst:42
-# de929d079132459e942a06f31d56f5fd
+# 7a51b828c9d14fda90168bfae21f50bb
 msgid "Installation"
 msgstr ""
 
 #: ../../source/intellij.rst:44
-# 3e953799db184663b83576c951e8d7e6
+# ff973a4c044b44c0ae476640006c222d
 msgid "The command used for installing the JRush to the users machine is shown below."
 msgstr ""
 
 #: ../../source/intellij.rst:50
-# cee03b6f68004d1fb8e0641b7b0a8f0e
+# 0b3578ddc1124ba9947fbe2b171e8227
 msgid "After inputting the command above, the following operations occurs:"
 msgstr ""
 
 #: ../../source/intellij.rst:52
-# 5473b646b46b46ba88b15fbdcfb52756
+# 427d580fff3c4e07b5a02bc3f4fa0fad
 msgid "It asks the user to enter the IntelliJ Version."
 msgstr ""
 
 #: ../../source/intellij.rst:53
-# d9c80803a0db4c3c9a722ca14e4a70de
+# d21bfd1964824a5c8695b8e0f25ebe20
 msgid "Ensures the availability of modules and not checks the version."
 msgstr ""
 
 #: ../../source/intellij.rst:54
-# 804300e661e142a292ccdb1ea8de17ae
+# 53b4f3785e8548e98dc43ec6f21abcb7
 msgid "If the module does not exists in the users machine, it starts installing."
 msgstr ""
 
 #: ../../source/intellij.rst:55
-# bfc72f10848f42e0b123285d9b548e39
+# 686f8b8cdb184ac594daba759982e8c1
 msgid "While installing it will asks the user to enter the Java install Directory."
 msgstr ""
 
 #: ../../source/intellij.rst:57
-# 5e266dc6211c4bb6a960f21e589323e3
+# 827a478d22e94c13945113f1b0bdf08d
 msgid "Finally, the installation of IntelliJ gets completed. The screenshot as shown below depicts the process of installing IntelliJ."
 msgstr ""
 
 #: ../../source/intellij.rst:106
-# 16abcc057931411989dfe666f85336e7
+# 43fb220f9450436c944653bc48d0d1d9
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/intellij.rst:108
-# 15340b46ee3d460a9e36b318f729728d
+# 770e2eb13520457d9e49b5e2c40f1c70
 msgid "Instead of IntelliJ we can use, intellij"
 msgstr ""
 
 #: ../../source/intellij.rst:111
-# 2ad64953f5964d239287512305d9ef44
+# 03fed89a914c4c95a17838ca91579d4f
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/intellij.rst:112
-# d5befafd48c0439f92f1992e6c51aeb9
+# 4e8ea984a8514814b0b7c73f2057f748
 msgid "This module facilitates the user in installing IntelliJ with the latest version."
 msgstr ""
 
 #: ../../source/intellij.rst:113
-# 4a51dfb95ea8419cbae4458c0c279f6e
+# f9e25bcc1fd246e08fc802ea8addd936
 msgid "The parameters used in declaring the help and installations are not case sensitive, which is added advantage while compared to others."
 msgstr ""
 
 #: ../../source/intellij.rst:114
-# 5038b7f0aae24ccb9da2460d245d8768
+# ebc481d70e2849d18b00b9eb1d90370f
 msgid "It is well-to-do in both cent OS and as well as in ubuntu."
 msgstr ""
 
 #: ../../source/intellij.rst:115
-# e9036d8dc3a043ab88cd2f7ef9ac6609
+# ab0701a42e934eaf9708837d161dfc71
 msgid "The required status are clearly monitored during installation."
 msgstr ""
 
 #: ../../source/intellij.rst:116
-# b8e0ee6a245b43ecac5901a3253694bb
+# b57346af235b464aa710d82954f5ce51
 msgid "During installation the user can input the required version and as well as Java Install Directory."
 msgstr ""
 

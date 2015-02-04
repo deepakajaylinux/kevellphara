@@ -1,11 +1,11 @@
 ===================
-FireFox 33
+FireFox33
 ===================
 
 Synopsis 
 --------------------
 
- This module is open source web browser. It used to install firefox33. Ubuntu releases updated versions periodically. It implements current and anticipated web standards. Long-term support includes updates for new hardware, security patches and updates to the 'Ubuntu stack' (cloud computing infrastructure). It is comfortable with Ubuntu and Cent OS.
+ This module used to install firefox33. Ubuntu releases updated versions periodically. It implements current and anticipated web standards. Long-term support includes updates for new hardware, security patches and updates to the cloud computing infrastructure. It is comfortable with Ubuntu and Cent OS.
 
 Help Command 
 -----------------------
@@ -95,25 +95,21 @@ Options
 
 .. cssclass:: table-bordered
 
-	+-----------------------------+------------------------+-----------------------+-----------------------------------------------+
-	|	Parameters  	      | Alternative Parameter  |	Options	       | 		Comments		       |
-	+=============================+========================+=======================+===============================================+
-	|Cleopatra firefox33 Install  |Firefox33	       |Y		       |System starts installation process under       |
-	| 			      |		    	       |		       |cleopatra				       |
-	+-----------------------------+------------------------+-----------------------+-----------------------------------------------+
-	|Cleopatra firefox33 Install  |Ff33		       |Y		       |System starts installation process under       |
-	|                             |		 	       |		       |cleopatra                                      |       
-	+-----------------------------+------------------------+-----------------------+-----------------------------------------------+
-	|Cleopatra firefox33 Install  |Firefox33	       |N		       |System stops installation process under        |
-	|                             |		 	       |		       |cleopatra|                                     |
-	+-----------------------------+------------------------+-----------------------+-----------------------------------------------+
-
+	+-----------------------------+----------------------------+-----------------------+-------------------------------------------+
+	|	Parameters  	      | Alternative Parameter      |	Options	           | 	Comments		               |
+	+=============================+============================+=======================+===========================================+
+	|Cleopatra firefox33 Install  |Instead of using firefox33  |Y			   |System starts installation process under   |
+	| 			      |we can use Firefox33, ff33  |    	           |cleopatra				       |
+	+-----------------------------+----------------------------+-----------------------+-------------------------------------------+
+        |Cleopatra firefox33 Install  |Instead of using firefox33  |N                      |System stops installation process under    |
+        |                             |we can use Firefox33, ff33  |                       |cleopatra|                                 |
+        +-----------------------------+----------------------------+-----------------------+-------------------------------------------+
 
 
 Benefits
 ------------------
 
 * Firefox33 uses support for new hardware and integration of all the updates published in that series to date.
-* Firefox33 is an open source Web browser for Linux.
+* Firefox33 is suitable to work with Ubuntu and centOS.
 * Firefox33 is non-case sensitive.
 * Privacy and security measures, smart searching is possible.

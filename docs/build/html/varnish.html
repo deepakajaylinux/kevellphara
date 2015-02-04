@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Varnish &mdash; KEVELL 0.1 Dokumentation</title>
+    <title>Varnish &mdash; KEVELL 0.1 documentation</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -25,11 +25,10 @@
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
-    <script type="text/javascript" src="_static/translations.js"></script>
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
-    <link rel="top" title="KEVELL 0.1 Dokumentation" href="index.html" />
+    <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
     <link rel="up" title="Cleopatra" href="cleopatra.html" />
     <link rel="next" title="Virtual box" href="virtualbox.html" />
     <link rel="prev" title="Ubuntu Compiler" href="ubuntucompiler.html" />
@@ -101,9 +100,9 @@
           
             
   <li><a href="ubuntucompiler.html"
-         title="vorheriges Kapitel">&laquo; Ubuntu Compiler</a></li>
+         title="previous chapter">&laquo; Ubuntu Compiler</a></li>
   <li><a href="virtualbox.html"
-         title="nächstes Kapitel">Virtual box &raquo;</a></li>
+         title="next chapter">Virtual box &raquo;</a></li>
           
           
           <!--  <li>
@@ -127,13 +126,13 @@
   
   
   <div class="section" id="varnish">
-<h1>Varnish<a class="headerlink" href="#varnish" title="Permalink zu dieser Überschrift">¶</a></h1>
+<h1>Varnish<a class="headerlink" href="#varnish" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="synopsis">
-<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
 <p>This module assists in installing the Varnish to the users machine. Varnish is a program that can greatly speed up a Web site while reducing the load on the Web server. According to Varnish&#8217;s official site, Varnish is a &#8220;Web application accelerator also known as a caching HTTP reverse proxy&#8221;. Let us see here, about how does this module performs installation of varnish of apt-get.</p>
 </div>
 <div class="section" id="help-command">
-<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>The help command guides the users regarding the purpose and as well as about the options that are included in the varnish module. The help command lists out the alternative parameters of varnish. It also describes the syntax for installing varnish. The help command under the varnish module is given below:</p>
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra varnish <span class="nb">help</span>
 </pre></div>
@@ -158,7 +157,7 @@ End Help
 </div>
 </div>
 <div class="section" id="installation">
-<h2>Installation<a class="headerlink" href="#installation" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
 <p>The command used for installing the varnish to the users machine is shown below.</p>
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra varnish install
 </pre></div>
@@ -215,7 +214,7 @@ y
 *          ! Varnish !        *
 *******************************
 Creating /tmp/cleopatra-temp-script-95745650915.sh
-chmod <span class="m">755</span> /tmp/cleopatra-temp-script-95745650915.sh 2&gt;/dev/null
+chmod 755 /tmp/cleopatra-temp-script-95745650915.sh 2&gt;/dev/null
 Changing /tmp/cleopatra-temp-script-95745650915.sh Permissions
 Executing /tmp/cleopatra-temp-script-95745650915.sh
 Reading package lists...
@@ -227,15 +226,15 @@ Suggested packages:
 varnish-doc
 The following NEW packages will be installed:
 libjemalloc1 libvarnishapi1 varnish
-<span class="m">0</span> upgraded, <span class="m">3</span> newly installed, <span class="m">0</span> to remove and <span class="m">6</span> not upgraded.
-Need to get <span class="m">518</span> kB of archives.
+0 upgraded, 3 newly installed, 0 to remove and 6 not upgraded.
+Need to get 518 kB of archives.
 After this operation, 1,653 kB of additional disk space will be used.
 Get:1 http://in.archive.ubuntu.com/ubuntu/ trusty/universe libvarnishapi1 amd64 3.0.5-2 <span class="o">[</span>29.9 kB<span class="o">]</span>
 Get:2 http://in.archive.ubuntu.com/ubuntu/ trusty/universe libjemalloc1 amd64 3.5.1-2 <span class="o">[</span>76.8 kB<span class="o">]</span>
-Get:3 http://in.archive.ubuntu.com/ubuntu/ trusty/universe varnish amd64 3.0.5-2 <span class="o">[</span><span class="m">411</span> kB<span class="o">]</span>
-Fetched <span class="m">518</span> kB in 3s <span class="o">(</span><span class="m">152</span> kB/s<span class="o">)</span>
+Get:3 http://in.archive.ubuntu.com/ubuntu/ trusty/universe varnish amd64 3.0.5-2 <span class="o">[</span>411 kB<span class="o">]</span>
+Fetched 518 kB in 3s <span class="o">(</span>152 kB/s<span class="o">)</span>
 Selecting previously unselected package libvarnishapi1.
-<span class="o">(</span>Reading database ... <span class="m">201582</span> files and directories currently installed.<span class="o">)</span>
+<span class="o">(</span>Reading database ... 201582 files and directories currently installed.<span class="o">)</span>
 Preparing to unpack .../libvarnishapi1_3.0.5-2_amd64.deb ...
 Unpacking libvarnishapi1 <span class="o">(</span>3.0.5-2<span class="o">)</span> ...
 Selecting previously unselected package libjemalloc1.
@@ -244,19 +243,19 @@ Unpacking libjemalloc1 <span class="o">(</span>3.5.1-2<span class="o">)</span> .
 Selecting previously unselected package varnish.
 Preparing to unpack .../varnish_3.0.5-2_amd64.deb ...
 Unpacking varnish <span class="o">(</span>3.0.5-2<span class="o">)</span> ...
-Processing triggers <span class="k">for</span> man-db <span class="o">(</span>2.6.7.1-1ubuntu1<span class="o">)</span> ...
-Processing triggers <span class="k">for</span> ureadahead <span class="o">(</span>0.100.0-16<span class="o">)</span> ...
+Processing triggers <span class="k">for </span>man-db <span class="o">(</span>2.6.7.1-1ubuntu1<span class="o">)</span> ...
+Processing triggers <span class="k">for </span>ureadahead <span class="o">(</span>0.100.0-16<span class="o">)</span> ...
 Setting up libvarnishapi1 <span class="o">(</span>3.0.5-2<span class="o">)</span> ...
 Setting up libjemalloc1 <span class="o">(</span>3.5.1-2<span class="o">)</span> ...
 Setting up varnish <span class="o">(</span>3.0.5-2<span class="o">)</span> ...
  * Starting HTTP accelerator varnishd
    ...done.
-Processing triggers <span class="k">for</span> libc-bin <span class="o">(</span>2.19-0ubuntu6.4<span class="o">)</span> ...
-Processing triggers <span class="k">for</span> ureadahead <span class="o">(</span>0.100.0-16<span class="o">)</span> ...
+Processing triggers <span class="k">for </span>libc-bin <span class="o">(</span>2.19-0ubuntu6.4<span class="o">)</span> ...
+Processing triggers <span class="k">for </span>ureadahead <span class="o">(</span>0.100.0-16<span class="o">)</span> ...
 Temp File /tmp/cleopatra-temp-script-95745650915.sh Removed
 ... All <span class="k">done</span>!
 *******************************
-Thanks <span class="k">for</span> installing , visit www.pharaohtools.com <span class="k">for</span> more
+Thanks <span class="k">for </span>installing , visit www.pharaohtools.com <span class="k">for </span>more
 ******************************
 
 
@@ -270,7 +269,7 @@ Installer Finished
 </div>
 </div>
 <div class="section" id="benefits">
-<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
 <li>Varnish&nbsp;is a modern, high-performance, open source&nbsp;caching reverse HTTP proxy&nbsp;implementation.</li>
 <li>The parameters used for declaring help command, installation are not case sensitive which is an added advantage while compared to others.</li>
@@ -311,7 +310,7 @@ Installer Finished
     </p>
     <p>
         &copy; Copyright 2015, kevell.<br/>
-      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2.3.<br/>
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2.2.<br/>
     </p>
   </div>
 </footer>

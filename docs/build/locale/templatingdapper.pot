@@ -1,0 +1,150 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/templatingdapper.rst:3
+# b5bab82818ea40388a91e042fe66a90f
+msgid "Templating"
+msgstr ""
+
+#: ../../source/templatingdapper.rst:7
+# 690569bf1fbb4a7398536151f444dac5
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/templatingdapper.rst:9
+# 777f1c66f29f4346bcddb1219716092a
+msgid "The term templating when used in the context of dapperstrano file format refers to a common feature of many software applications that define a unique non-executable file format intended specifically for that particular application."
+msgstr ""
+
+#: ../../source/templatingdapper.rst:11
+# 37b802827f314d928f0be99a23ae6c3b
+msgid "Templating formats are those whose file indicates that the file type is intended as a very high starting point from which to create other files."
+msgstr ""
+
+#: ../../source/templatingdapper.rst:14
+# c3ccc1b562b84c76a38629287b7293da
+msgid "These types of files are usually installed templating  file  with new values. It suits to work with Ubuntu and centos."
+msgstr ""
+
+#: ../../source/templatingdapper.rst:17
+# 9530417b9d96491097177748afc2ab33
+msgid "Help command"
+msgstr ""
+
+#: ../../source/templatingdapper.rst:19
+# 7488f95143f44b6a87d6f057cf016f3f
+msgid "The help command leads the users regarding the purpose and as well as about the options that are included in the template modules. The help command lists out the alternative parameters of templating under Dapperstrano module. It also describes the syntax for detecting the user’s machine. The help command for templating is shown below."
+msgstr ""
+
+#: ../../source/templatingdapper.rst:26
+# ba3bbe87cd8c4b9ba83fb1bb12bce5d5
+msgid "The following screenshot explains about templating."
+msgstr ""
+
+#: ../../source/templatingdapper.rst:49
+# 4404093a15a248b9956aab2ba56c80fd
+msgid "Installation"
+msgstr ""
+
+#: ../../source/templatingdapper.rst:51
+# 7e10db65bcd541acae33381e451be75f
+msgid "In dapperstrano context, templating refers to creating a single virtual machine image as a guest operating system, then saving it as a tool for multiple running virtual machines. The technique is used to install both in virtualization and cloud computing management, and is common in large server warehouses. The following command helps the user to install templating."
+msgstr ""
+
+#: ../../source/templatingdapper.rst:57
+# 4a0b51c2b376491da5144a4f3e10baa3
+msgid "The following screen shot guides the user to install."
+msgstr ""
+
+#: ../../source/templatingdapper.rst:89
+# 571c9b48f2624ef5928e1959bfdec13c
+msgid "Option"
+msgstr ""
+
+#: ../../source/templatingdapper.rst:94
+# 3c1eb1a759ab4d6583861e2e35497684
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/templatingdapper.rst:94
+# bc9808be54c0478c884f1aa3e0a3cdfa
+msgid "Syntax"
+msgstr ""
+
+#: ../../source/templatingdapper.rst:94
+# 10eb7f1079b14c0680327a558c980d6f
+msgid "Comments"
+msgstr ""
+
+#: ../../source/templatingdapper.rst:96
+#: ../../source/templatingdapper.rst:98
+# d11a14115444486eb8700f86c2be498c
+# f8d9f79ed48e47c38a29333a8f373f17
+msgid "Install templating functionality?"
+msgstr ""
+
+#: ../../source/templatingdapper.rst:96
+# e81c088bfc88410eb88c85c54be120ed
+msgid "Yes"
+msgstr ""
+
+#: ../../source/templatingdapper.rst:96
+# 5c0ee3bdc6ce44709ee0574c89c6157e
+msgid "Templating can be installed under dapperstrano."
+msgstr ""
+
+#: ../../source/templatingdapper.rst:98
+# 646c517490594f489da9cfcaa341a5a0
+msgid "No"
+msgstr ""
+
+#: ../../source/templatingdapper.rst:98
+# bead52bd2c3c45989d4951349e390c64
+msgid "It can exit the screen|"
+msgstr ""
+
+#: ../../source/templatingdapper.rst:104
+# 41e5e009fc3d4c4da55309a463481567
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/templatingdapper.rst:106
+# 735a824074044184aecf5298ece6f396
+msgid "Template processing is used in various contexts for different purposes."
+msgstr ""
+
+#: ../../source/templatingdapper.rst:107
+# 86f95c3ea7a04caa84c44eabf6a9bcee
+msgid "The specific purpose is ordinarily contingent upon the software application or template in use."
+msgstr ""
+
+#: ../../source/templatingdapper.rst:108
+# 24220c4d71ac4b839868bec04499f77a
+msgid "Non sensitive"
+msgstr ""
+
+#: ../../source/templatingdapper.rst:109
+# 29afc4d11bb34205a311328cab12111e
+msgid "Suits to work with Ubuntu and centos."
+msgstr ""
+
+#: ../../source/templatingdapper.rst:110
+# 97d3ec59108d48bd8dfe1234271cc90e
+msgid "Updated version with new values is possible."
+msgstr ""
+

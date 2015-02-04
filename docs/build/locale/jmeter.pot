@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 14:00+0530\n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,176 +17,176 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/jmeter.rst:3
-# 4a2adf136dd0452885e819f485f9f99e
+# 27f54f5e18c54d339f3d578770afbb13
 msgid "Jmeter"
 msgstr ""
 
 #: ../../source/jmeter.rst:6
-# acb2572f56a44d64bb70699280b42836
+# 29b71322c60e4b84add39ad2018cefc0
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/jmeter.rst:8
-# 4ce7ee7c81d44ab288029ff30447cf7e
+# 2e61fe6f474f45e7bb1c1486947863f4
 msgid "This module deals with installing the jmeter with the updated version. JMeter can be used as a unit test tool for JDBC database connections, FTP, LDAP, Web services, JMS, HTTP, generic TCP connections and OS Native processes. Let us see how this module helps the user in installing and using the Jmeter."
 msgstr ""
 
 #: ../../source/jmeter.rst:11
-# 85af0becb341468e9ced240f910475c4
+# 6ec92bafcbd24c32a12e5c252b81cd05
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/jmeter.rst:13
-# b6351b89fd944dcdbaef01bf70b95669
+# fc4d734b6baa46d480000f387d02e20a
 msgid "The help command guides the users regarding the purpose and as well as about the options that are included in the Jmeter module. It lists out the alternative parameters of jmeter module. It also describes the syntax for installing the jmeter module. The help command for jmeter module is shown as below."
 msgstr ""
 
 #: ../../source/jmeter.rst:20
-# 1e2a0633707c40fd8c5899715c5c9684
+# 540c16332846499fac4060fd7e837c1e
 msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under Jmeter."
 msgstr ""
 
 #: ../../source/jmeter.rst:46
-# 40e2b1edb2ce4586af29d770c9d9ec07
+# 03e9ef188ca643cabea0bbf8cb334cf8
 msgid "Installation"
 msgstr ""
 
 #: ../../source/jmeter.rst:48
-# 396f5cfe110a464e88b8774db07efb94
+# b7d06c5457f0463fa9e8286c3997309f
 msgid "The command used for installing the jmeter in the users machine is shown below:"
 msgstr ""
 
 #: ../../source/jmeter.rst:54
-# daa668d943e644a2821c0a7943cb8e76
+# e163327dc3524676ad6e957657e2c1f1
 msgid "After inputting the command above, the following process occurs as shown in the tabular format."
 msgstr ""
 
 #: ../../source/jmeter.rst:60
-# f39f74077c604a08979b098825a69b9d
+# a5a0c2da39344d6e974a4e6783a463b7
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/jmeter.rst:60
-# daab07b2175b45b5b01bcfa096d572c4
+# 7eb8142399f3466aaae8f02150284b97
 msgid "Alternative Parameter"
 msgstr ""
 
 #: ../../source/jmeter.rst:60
-# 1b30cb03d6d74188a7a6bde242d580bb
+# 5816dd2fe9a84e9fa4ca83c4ad0ed265
 msgid "Options"
 msgstr ""
 
 #: ../../source/jmeter.rst:60
-# 4f0778965dbc47f8b0676de33a8343fd
+# 9bdb36a1278042b5952cf23ad09a9cdd
 msgid "Comments"
 msgstr ""
 
 #: ../../source/jmeter.rst:62
 #: ../../source/jmeter.rst:65
-# b4b02d7e495047338a5fe565ecd0499b
-# 53c5783210da4fc8b5f814e2eb767cb9
+# 315b519118164446890a6892c0a213c8
+# 6b582cef82a44bfbbd78550e9024b2f1
 msgid "Install Jmeter? (Y/N)"
 msgstr ""
 
 #: ../../source/jmeter.rst:62
 #: ../../source/jmeter.rst:65
-# 637b64495cad4ddc970e7227254602c5
-# 8d8590b2689141d899d53e96edf879b8
+# 66c383efc7b24657a54e004ddf60fbc3
+# b064f94a894543c28e1e9915fb05f1c1
 msgid "Instead of jmeter, we can use Jmeter also."
 msgstr ""
 
 #: ../../source/jmeter.rst:62
-# 698410aaaea24c4faa741ec0c2979efb
+# 1f48bea1e0134093914d4dbbf09598c8
 msgid "Y(Yes)"
 msgstr ""
 
 #: ../../source/jmeter.rst:62
-# f5fd790f345142c899f59052b8697b4b
+# a32483d4d83e4834b6b1b776898da431
 msgid "If the user wish to proceed the installation process they can input as Y."
 msgstr ""
 
 #: ../../source/jmeter.rst:65
-# f6332768e8a0472a8e028f3ddd372132
+# 9a994c6d87184e789e88c124d17c8a8b
 msgid "N(No)"
 msgstr ""
 
 #: ../../source/jmeter.rst:65
-# 98f69eb2dbf24287a9029b87ca672c42
+# 82f214aecc4c4b13955afcc41610f402
 msgid "If the user wish to quit the installation process they can input as N.|"
 msgstr ""
 
 #: ../../source/jmeter.rst:71
-# 3962e857c3544e3db30a9a83d9e34f20
+# 28befd3874a9494c8fddd37fa8574597
 msgid "If the user proceeds the installation, during the process of installation is described in the below lists:"
 msgstr ""
 
 #: ../../source/jmeter.rst:74
-# ed7e43ac07cd4f688eff73e810a7c6ee
+# 61748666ab2a42b0984383e898d8f16c
 msgid "builds the dependency tree."
 msgstr ""
 
 #: ../../source/jmeter.rst:75
-# fd6918f829684f768bbef219c07c137d
+# 1ea88e3e765748b2b1b9da8d3cdd7c1e
 msgid "Reads the state information."
 msgstr ""
 
 #: ../../source/jmeter.rst:76
-# d70ef6a05d3b4ff2ba7897cc430fdc22
+# ac17ee16d2d742438b0a4b3239a80c88
 msgid "list outs the packages that are automatically installed."
 msgstr ""
 
 #: ../../source/jmeter.rst:77
-# 877f927e00364978ab6dca3c2a13ad4c
+# 896a16b0bcbc4b40a1a9b70828c2997d
 msgid "list outs the new packages that are installing."
 msgstr ""
 
 #: ../../source/jmeter.rst:78
-# 7db713b25d8b46a7b9f3b05cd0c69157
+# dbd5e54090924e73a14750cf8d808394
 msgid "details regarding the number of files upgraded, newly installed, removed and not upgraded."
 msgstr ""
 
 #: ../../source/jmeter.rst:79
-# d34c747a5648466889db1df8c4daac7f
+# d2d3e298ee2742f3adaeec415c953a6d
 msgid "Reads the package lists and displays the list of package that are already installed."
 msgstr ""
 
 #: ../../source/jmeter.rst:82
-# 8fadf0f070dc48b88a59c521c4e49184
+# 1a5fd86435b94d9895c36faf23507570
 msgid "The following screenshot pictorially depicts the above described process of installation."
 msgstr ""
 
 #: ../../source/jmeter.rst:90
-# dd57d82622c1436bb57eaa01523bdeb1
+# e40d9d4ba11e4dc0a5398337eecc0e93
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/jmeter.rst:92
-# 882ea8746dae4b228d61d3dcaaa187cd
+# a908375a65e44c1a96cbea4945a2576a
 msgid "The parameters used in help and installation are not case sensitive which is an added advantage while compared to others."
 msgstr ""
 
 #: ../../source/jmeter.rst:93
-# 9b1ff43b9d374590a92891eedf2ff3f8
+# bac9858b6a424e9bad86e0693e8c8b8f
 msgid "It is well-to-do in both Ubuntu and as well as Cent OS."
 msgstr ""
 
 #: ../../source/jmeter.rst:94
-# 3368ae9c523d4c289133028f4d43d131
+# 6916bf2574084b3e97d0dbcaf85f066f
 msgid "This will module installs the Jmeter in updated version."
 msgstr ""
 
 #: ../../source/jmeter.rst:95
-# 491881136c1a43899d867d786f595b7d
+# b43aa7fac36d448588876a791f04dc2c
 msgid "If the module is already existing in the user machine it will display a message as it is already existing."
 msgstr ""
 
 #: ../../source/jmeter.rst:96
-# 838580b9489e4b388a3700dad2303f6e
+# 98a091e238a443a3875fa557ffe82966
 msgid "JMeter supports variable parameterization, assertions (response validation), per thread cookies, configuration variables and a variety of reports."
 msgstr ""
 
 #: ../../source/jmeter.rst:98
-# a6c530bb20b84bc8978069e4d2cb2651
+# a6521799b2494bb0b23b684f61159f5b
 msgid "Off-site developers can easily extend JMeter with custom plugins."
 msgstr ""
 

@@ -1,12 +1,12 @@
 ===================
-FireFox 17
+FireFox17
 ===================
 
 
 Synopsis 
 --------------------
 
- This module is open source web browser. It used to install firefox17. Ubuntu releases updated versions periodically. It implements current and anticipated web standards. Long-term support includes updates for new hardware, security patches and updates to the 'Ubuntu stack' (cloud computing infrastructure). It is comfortable with Ubuntu and Cent OS.
+This module used to install firefox17. Ubuntu releases updated versions periodically. It implements current and anticipated web standards. Long-term support includes updates for new hardware, security patches and updates to the cloud computing infrastructure. It is comfortable with Ubuntu and Cent OS.
 
 Help Command 
 -----------------------
@@ -95,62 +95,21 @@ Options
 
 .. cssclass:: table-bordered
 
-        +------------------------------+--------------------------+------------+----------------------------+
-        | Parameters                   | Alternative Parameter    | Required   | Comment                    |
-        +==============================+==========================+============+============================+
-        |Cleopatra firefox17 Install   |Firefox,ff17,firefox      | Y(YES)     |System starts installation  |
-        |                              |                          |            |process Under cleopatra     | 
-        +------------------------------+--------------------------+------------+----------------------------+ 
-        |Cleopatra firefox17 Install   |Firefox,ff17,firefox      | N(NO)      |System stops installation   |
-        |                              |                          |            |process|                    | 
-        +------------------------------+--------------------------+------------+----------------------------+
+        +------------------------------+----------------------------+------------+----------------------------+
+        | Parameters                   | Alternative Parameter      | Required   | Comment                    |
+        +==============================+============================+============+============================+
+        |cleopatra firefox17 Install   |Instead of using firefox17  | Y          |System starts installation  |
+        |                              |we can use ff17, Firefox17  |            |process Under cleopatra     | 
+        +------------------------------+----------------------------+------------+----------------------------+ 
+        |cleopatra firefox17 Install   |Instead of using firefox17  | N		 |System stops installation   |
+        |                              |                            |            |process under cleopatra|    | 
+        +------------------------------+----------------------------+------------+----------------------------+
 
 
 Benefits
 ------------------
 
 * Firefox17 uses support for new hardware and integration of all the updates published in that series to date.
-* Firefox17 is an open source Web browser for Linux.
+* Firefox used to install firefox17
 * Firefox17 is non-case sensitive.
 * Privacy and security measures, smart searching is possible.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	+------------------------------+--------------------------+------------+----------------------------+
-        | Parameters                   | Alternative Parameter    | Required   |Comment                     |
-        +==============================+==========================+============+============================+
-        |Cleopatra firefox14 Install   |Firefox,ff14,firefox      | Y(YES)     |System starts installation  |
-        |                              |                  	  |            |process Under cleopatra	    | 
-        +------------------------------+--------------------------+------------+----------------------------+ 
-        |Cleopatra firefox14 Install   |Firefox,ff14,firefox   	  | N(NO)      |System stops installation   |
-        |                              |                   	  |            |process			    | 
-        +------------------------------+--------------------------+------------+----------------------------+
-

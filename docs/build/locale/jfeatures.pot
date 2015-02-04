@@ -1,0 +1,205 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/jfeatures.rst:3
+# ed9117c3a2374ea79e234096ff052db1
+msgid "JFeature"
+msgstr ""
+
+#: ../../source/jfeatures.rst:6
+# 684a83b9162b47cbbef553c5e4e018c0
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/jfeatures.rst:8
+# 5e9e55f6df9b4861a84b22f3f344a634
+msgid "JFeatures is one of the world's most popular software packages used to build, organize, manage and publish content for websites, blogs, Intranets. When the user push the zip file in to another file all the features will be added. Owing to its scalable architecture it’s also a great base to build web applications. It used for manage the component of stage migration. It convenience with Ubuntu and CentOS."
+msgstr ""
+
+#: ../../source/jfeatures.rst:11
+# 048a9bc2141e4d96ac17893ec059b2bd
+msgid "Help command"
+msgstr ""
+
+#: ../../source/jfeatures.rst:13
+# c1391144001c484f8b3cd66d54d514be
+msgid "The help command guides the users regarding the purpose and as well as about the options that are included in the JFeatures module. It lists out the alternative parameters of JFeatures module. It also describes the syntax for installing the JFeatures module. The help command for JFeatures module is shown as below."
+msgstr ""
+
+#: ../../source/jfeatures.rst:19
+# 981da73bd0094727960236b8328c4c8d
+msgid "The syntax for declaring the help command is non-case sensitive which an added advantage is. The following screenshot visualize the user about the help command under JFeatures."
+msgstr ""
+
+#: ../../source/jfeatures.rst:77
+# 2c08df44f24b4410bd591c6f420fe79f
+msgid "Alternative parameters"
+msgstr ""
+
+#: ../../source/jfeatures.rst:79
+# beb6884aed864190b417754b2ce990d6
+msgid "The following are the alternative parameters that can be defined in declarations:"
+msgstr ""
+
+#: ../../source/jfeatures.rst:81
+# 81f116eb1c804a85a0056a4ddbecc2f3
+msgid "JFeature, jfeature"
+msgstr ""
+
+#: ../../source/jfeatures.rst:85
+# e2afa94e6baf464cb6c793f2f29cb96a
+msgid "Folder-default"
+msgstr ""
+
+#: ../../source/jfeatures.rst:87
+# 993dae1c992a40a7a038304b7aead3dc
+msgid "This process used to set the default for file storage folder. A preset setting or value that will be used if no choice is done in folder. User interaction should be required. Setting defaults to the most commonly selected options serves this purpose. The help command for folder-default process is shown as below."
+msgstr ""
+
+#: ../../source/jfeatures.rst:94
+# 5745d7c344f1490eb5ffd7bc90bb884a
+msgid "The following screenshot shows its function."
+msgstr ""
+
+#: ../../source/jfeatures.rst:105
+# 8c1d5bae3e4845818c8b19506098a88a
+msgid "Feature-install"
+msgstr ""
+
+#: ../../source/jfeatures.rst:107
+# 3f1503057e8c45959db0cb78b5def919
+msgid "This process used to install the metadata for a database migration. Here it asks feature file name and configured file name. The user has to enter all the above details one by one. Otherwise the user can input as everything in a same single line. The following command is used to install jfeature."
+msgstr ""
+
+#: ../../source/jfeatures.rst:114
+#: ../../source/jfeatures.rst:171
+# 1bd27d91bc9343ae8afa5120e5fd717d
+# 7c0cb3e305bc435da4ee18d1ade5f415
+msgid "The screen shot shows its functions."
+msgstr ""
+
+#: ../../source/jfeatures.rst:125
+# ee264ee5976a4cc3b241766465342821
+msgid "Feature-Pull"
+msgstr ""
+
+#: ../../source/jfeatures.rst:127
+# 6b17993d721c429c8211ff77cb5f86b3
+msgid "Feature pull used to perform a pull on an installed feature. Due to Integration file changes can be  executed.The following command can be used to pull configuration file."
+msgstr ""
+
+#: ../../source/jfeatures.rst:134
+# 8efe8809a532476a880fe6ff62462e1f
+msgid "After inputting the above said command, it asks for Ip address and time. Based on this pull can be executed. The following screenshot explain its function."
+msgstr ""
+
+#: ../../source/jfeatures.rst:144
+# a9bcc7ec059b4b83858dcf34e2507075
+msgid "Feature-Push"
+msgstr ""
+
+#: ../../source/jfeatures.rst:146
+# abd9b803f2034b7e9c2a2bb2c127926f
+msgid "Feature push used to achieves a push on an installed feature. When pushing completes it can be saved locally. The command used to push the feature."
+msgstr ""
+
+#: ../../source/jfeatures.rst:153
+# 0ab1ecad60674c988e18f734ad1e5788
+msgid "After input the above said command, it asks profile unique and configuration file and push type. The user has to input one by one or everything in same line. This can be explained as follows through snapshots,"
+msgstr ""
+
+#: ../../source/jfeatures.rst:163
+# 2815cc67368f4c71827fa5dce9cb4599
+msgid "Group-install"
+msgstr ""
+
+#: ../../source/jfeatures.rst:165
+# e4504a19645348358aacbc5f48c06a9d
+msgid "This process used to install the metadata for a database migration. Here it asks feature group file name and configured file name. The user has to enter all the above details one by one. Otherwise the user can input as everything in a same line."
+msgstr ""
+
+#: ../../source/jfeatures.rst:182
+# b1a9dec7c0414cc5a4df787a0b150e07
+msgid "Group-install-all"
+msgstr ""
+
+#: ../../source/jfeatures.rst:184
+# 70cf2db6ebf3454298c8a739b7dd2cca
+msgid "This process used to install metadata for database migration file set. Group configuration features component. Install and updation is possible. The following command used to install group all."
+msgstr ""
+
+#: ../../source/jfeatures.rst:191
+# 62790b8e215041c0b0822ac9337c7fab
+msgid "Entering the above said command it asks configuration file. The user can enter configuration file name. The following screen shot guides the user to install group all."
+msgstr ""
+
+#: ../../source/jfeatures.rst:204
+# 06e873a31d814349a1bfb86ee9c9adc9
+msgid "Group-push"
+msgstr ""
+
+#: ../../source/jfeatures.rst:206
+# 783c6682460d48dfaadfe0dc3abcce77
+msgid "This process can perform a push of a group profile in to local file. Here group unique and configuration file name can be mentioned. The following command used to push the group profile into locally saved file."
+msgstr ""
+
+#: ../../source/jfeatures.rst:213
+# 362f8c479754403a893d875052f18b06
+msgid "The following screen shot guides the user to install group push."
+msgstr ""
+
+#: ../../source/jfeatures.rst:224
+# 46bdca2a17ca48239c1760885d4ba599
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/jfeatures.rst:226
+# 1b7efaf855a84fae99cc55bb77eb4187
+msgid "Well Supported for all type of users"
+msgstr ""
+
+#: ../../source/jfeatures.rst:227
+# 88024b37f565424ab11395e80ee1842f
+msgid "Easy to Upgrades"
+msgstr ""
+
+#: ../../source/jfeatures.rst:228
+# 56ef8e9ff23540ec9864f1f046696e79
+msgid "Search better, Search Smarter"
+msgstr ""
+
+#: ../../source/jfeatures.rst:229
+# 78bc1ff1e3af4129935c962b02be83ce
+msgid "Powerful Extensibility"
+msgstr ""
+
+#: ../../source/jfeatures.rst:230
+# 8d62084811e64e4c82193e9def4e5ed5
+msgid "Do More with Less time spend for coding and do more with less jfeature commands"
+msgstr ""
+
+#: ../../source/jfeatures.rst:231
+# 3a1b9cb5ede041dc89bcbcf8b4495818
+msgid "Well to do with Ubuntu and Cent OS"
+msgstr ""
+
+#: ../../source/jfeatures.rst:232
+# 6f1481e419c74812949d83b52cf6cf85
+msgid "Non case sensitivity"
+msgstr ""
+

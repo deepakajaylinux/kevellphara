@@ -1,11 +1,12 @@
 ===================
-FireFox 24
+FireFox24
 ===================
 
 Synopsis 
 ----------
 
- This module is open source web browser. It used to install firefox24. Ubuntu releases updated versions periodically. It implements current and anticipated web standards. Long-term support includes updates for new hardware, security patches and updates to the 'Ubuntu stack' (cloud computing infrastructure). It is comfortable with Ubuntu and Cent OS.
+ This module used to install firefox24. Ubuntu releases updated versions periodically. It implements current and anticipated web standards. Long-term support includes updates for new hardware, security patches and updates to the cloud computing infrastructure. It is comfortable with Ubuntu and Cent OS.
+
 
 Help Command 
 ------------------
@@ -92,23 +93,20 @@ Options
 
 .. cssclass:: table-bordered
 
-	+-----------------------------+------------------------+-----------------------+-----------------------------------------------+
-	| Parameters  	              | Alternative Parameter  | Options	       | Comments		                       |
-	+=============================+========================+=======================+===============================================+
-	|cleopatra firefox24 Install  |Firefox24	       |Y		       |System starts installation process under       |
-	|			      |		    	       |		       |cleopatra				       |
-	+-----------------------------+------------------------+-----------------------+-----------------------------------------------+
-	|cleopatra firefox24 Install  |Ff24		       |Y		       |System starts installation process under       |
-        |                     	      |			       |		       |cleopatra				       |
-	+-----------------------------+------------------------+-----------------------+-----------------------------------------------+
-	|cleopatra firefox24 Install  |Firefox24	       |N		       |System stops installation process under        |
-	|                             |                        |                       |cleopatra|                                     |  
-      	+-----------------------------+------------------------+-----------------------+-----------------------------------------------+
+	+-----------------------------+----------------------------+-------------------+-----------------------------------------------+
+	| Parameters  	              | Alternative Parameter      | Options	       | Comments		                       |
+	+=============================+============================+===================+===============================================+
+	|cleopatra firefox24 Install  |Instead of using firefox24  |Y		       |System starts installation process under       |
+	|			      |we can use Firefox24, ff24  |		       |cleopatra				       |
+	+-----------------------------+----------------------------+-------------------+-----------------------------------------------+
+	|cleopatra firefox24 Install  |Instead of using firefox24  |N                  |System stops installation process under        |
+        |                             |we can use Firefox24, ff24  |                   |cleopatra|                                     |
+        +-----------------------------+----------------------------+-------------------+-----------------------------------------------+
 
 Benefits
 ------------------
 
 * Firefox24 uses support for new hardware and integration of all the updates published in that series to date.
-* Firefox24 is an open source Web browser for Linux.
+* Firefox24 is suitable with Ubuntu and cent OS.
 * Firefox24 is non-case sensitive.
 * Privacy and security measures, smart searching is possible.

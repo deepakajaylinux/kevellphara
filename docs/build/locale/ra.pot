@@ -1,0 +1,194 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/ra.rst:3
+# a74331fc73834b1b81818de92ff7c954
+msgid "Ra"
+msgstr ""
+
+#: ../../source/ra.rst:7
+# 5f70d5187bc34a3ca815787194065a47
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/ra.rst:9
+# e5bd27bea158434e95638426574f3e98
+msgid "This tool used structured and manage the other tools. It helps to generate Devops beneficial in php . This makes it possible. It is well-to-do in Ubuntu and CentOS. This tool manages the functionality of Pharaoh tools."
+msgstr ""
+
+#: ../../source/ra.rst:12
+# 3e114f10f2524741a265eb91c0e0b5fa
+msgid "Help command"
+msgstr ""
+
+#: ../../source/ra.rst:14
+# 79ab1db6552f4bbf9a296c821ab34eae
+msgid "The help command guides the users regarding the purpose and as well as about the options that are included in the Ra module. It lists out the alternative parameters of Ra module. It also describes the syntax for installing the Ra module. The help command for Ra module is shown as below."
+msgstr ""
+
+#: ../../source/ra.rst:22
+# 907778074f734616a7c427ce39d96e4f
+msgid "The syntax for declaring the help command is non case sensitive which an added advantage is. The following screenshot visualize the user about the help command under Ra."
+msgstr ""
+
+#: ../../source/ra.rst:53
+# 9fd69ba8518e419f8b726d1f773f8985
+msgid "Installation"
+msgstr ""
+
+#: ../../source/ra.rst:55
+# e7d9d62f0216484e8921a201d59b213e
+msgid "Installation includes installation of Ra  required to make the installation in a updated version . It is a manifest process to install Ra module under Cleopatra by just using the command given below,"
+msgstr ""
+
+#: ../../source/ra.rst:61
+#: ../../source/ra.rst:94
+# 7441bfaad6b447f6aca2845d03b159d3
+# 1bdd5b83174e432bb19f3b76ac85bbf9
+msgid "After vitalize the command it will catechize input."
+msgstr ""
+
+#: ../../source/ra.rst:63
+# 3e2c72e41ee0478f8c77c96863fcd3b9
+msgid "When the user input as yes automatically it will install Ra with checking from the system. If not exit the installation. The following screen shot demonstrates it."
+msgstr ""
+
+#: ../../source/ra.rst:72
+# 9b49e05e8da943c1b25a696aec8ae521
+msgid "Ensure"
+msgstr ""
+
+#: ../../source/ra.rst:74
+# baf377573313407fa7bf9aaf2e58c7bc
+msgid "Ensure process used to check the Ra ensure the latest version of ra in the user system. The following command helps the user to ensure."
+msgstr ""
+
+#: ../../source/ra.rst:80
+# 5487ac28742f4faea57dd9effc5b0e0d
+msgid "The following screen shot shows its functions."
+msgstr ""
+
+#: ../../source/ra.rst:86
+# 2876d44665ac4513adad9e3e747f3f36
+msgid "UnInstall"
+msgstr ""
+
+#: ../../source/ra.rst:88
+# ed24b15ad2f0425fbd72f7a533e20e10
+msgid "Uninstallation includes  Ra  required to make the Uninstallation for latest version . It is a manifest process to uninstall Ra module under Cleopatra by just using the command given below,"
+msgstr ""
+
+#: ../../source/ra.rst:96
+# 6f859e1b4c7e49f198c9b920db0d7fe9
+msgid "When the user input as yes automatically it will uninstall Ra with checking from the system. The following screen shot demonstrates it."
+msgstr ""
+
+#: ../../source/ra.rst:99
+# 51b9cdcd2c094dceaaba300e90c5ca0a
+msgid "Option"
+msgstr ""
+
+#: ../../source/ra.rst:105
+# 5f61a6b338ea484cb90a7ce5212fa557
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/ra.rst:105
+# b140d6a488eb4414ab8be69449dc1e61
+msgid "Alternate Parameters"
+msgstr ""
+
+#: ../../source/ra.rst:105
+# 399d6e06203b4b60b88a0dc7130e3386
+msgid "Options"
+msgstr ""
+
+#: ../../source/ra.rst:105
+# 835757edc2bd4ce98e5406a29fe71280
+msgid "Comments"
+msgstr ""
+
+#: ../../source/ra.rst:107
+#: ../../source/ra.rst:109
+# fb91d93af1594e8594ceb9d85ce8afa5
+# 2b293dee13174990947ffda762f80572
+msgid "Install Ra?(Y/N)"
+msgstr ""
+
+#: ../../source/ra.rst:107
+#: ../../source/ra.rst:109
+# 297d4a9c548341289beb2a70cf916163
+# 30b3730c88664bbaa272444875ff62b2
+msgid "Instead of using Ra we can use ra"
+msgstr ""
+
+#: ../../source/ra.rst:107
+# f5408bdbdcdb4f53805c7b426f803023
+msgid "Y"
+msgstr ""
+
+#: ../../source/ra.rst:107
+# 800509542ac34093b3b62d959ef2683a
+msgid "It will install  Ra under Cleopatra in Pharaoh tools"
+msgstr ""
+
+#: ../../source/ra.rst:109
+# 410fd55aa7be41bc98d51a71f88b53b1
+msgid "N"
+msgstr ""
+
+#: ../../source/ra.rst:109
+# a5e58f2caf7e46938a014d0cdb5449ff
+msgid "The system exit the installation.|"
+msgstr ""
+
+#: ../../source/ra.rst:115
+# ecbd07860b304ec68512c9832ad5c012
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/ra.rst:117
+# 97237063379e45f687669b03b16f5297
+msgid "Non case sensitive."
+msgstr ""
+
+#: ../../source/ra.rst:118
+# 592bd8d3549a43529b4f3841c48f5743
+msgid "Automate deployments across infrastructure of any size."
+msgstr ""
+
+#: ../../source/ra.rst:119
+# eea2fb4a54e04f12b9c8c48c18e75603
+msgid "User friendly operation."
+msgstr ""
+
+#: ../../source/ra.rst:120
+# 15489c111dd749db8446c7772ef4f7c5
+msgid "Suitable to work with Ubuntu and CentOS."
+msgstr ""
+
+#: ../../source/ra.rst:121
+# 566bbe2a95c845038d17cbbf7fb7888b
+msgid "Used for managing all the tools."
+msgstr ""
+
+#: ../../source/ra.rst:122
+# 95dd0022f6474d77895891480e3242fa
+msgid "Guides the user operation."
+msgstr ""
+

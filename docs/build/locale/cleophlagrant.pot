@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 14:00+0530\n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,184 +17,184 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/cleophlagrant.rst:3
-# d6b7e144c5c547d2ba23dd85e3ce5878
+# c7a56ef713124407815c425e1ce24814
 msgid "Phlagrant"
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:6
-# 58417b225a994c998776762b48dac4d6
+# 24926481f8264ee6b3d90e56bee83bd6
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:8
-# 5922970ec0564718848ce497d4d8d83d
+# 4f79d858e5464f6baf0e29315541e296
 msgid "Phlagrant achieve to manage the Virtualbox. This module helps to install under Cleopatra. Data directory and executor directory can specify while installing in this module. This module is most comfortable with Ubuntu and cent OS."
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:11
-# 5a7edcf6d0364866ba23831e21ce9f6b
+# e944dece7a984597bbc5c0d3b3544cb1
 msgid "Help command"
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:13
-# 33359a3faaf54b94bc4b10c799889a6c
+# 0addb03688e5476a97651b1fa44d0e45
 msgid "This help command guide the user about phlagrant module. This is suitable for all type of business people. The help command shows a short list of the commands built into the phlagrant module."
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:34
-# 7b48e604cb6f4f909dc54086c6bc252b
+# 2791df5315fd4beba406544dcf14072a
 msgid "Installation"
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:36
-# bcff246793ec4d4a8bb60409767cb8bf
+# 92e4e9359acc4d72b456c43574835676
 msgid "Installation of a phlagrant module is including device drivers and plugins, act of making the program ready for execution. While installing this module the following command will be passed."
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:42
-# 7ba1d47d0a3d423baa61fb83e89aa5b1
+# 27504d2b49bc4d7989cb1f00c8415da0
 msgid "After inputs the command the system can ask"
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:44
-# 6cbb95ae314c4646bbfbfd1d8703cc12
+# 9039cf9edc9e4a15aaedecba9b5d77e1
 msgid "Install Phlagrant?(Y/N)"
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:46
-# d952be4df8fb460e8f29622d414607ed
+# 1f90e0dc364141cead61fae78deb5d83
 msgid "If the user gives Y then Phlagrant will be installed. The following Screen shot demonstrate it ."
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:82
-# de1151b522c04d6181db42ea72ccf281
+# 37ac77468fa6491babe779f0d9f2ca9b
 msgid "If the user gives N then it will Exit the screen. The following Screen shot demonstrate it ."
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:106
-# c07abbed9cdc4f7bb3387e3db201479f
+# c4980c915f5f4640ac0f5e239382663d
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:106
-# 5402c3d92b82421095736a051a9b5855
+# 2df113b27fd34f368f9b58a265f3b53c
 msgid "Directory"
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:106
-# a6f03e1703ee4d34a656b6138cfe8cf2
+# 3377b1da99134066a05a850ccc5b7871
 msgid "Option"
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:106
-# 256f7832e028481e9a99b8c4434212f3
+# f8b2433097f940fda35fcddf7f2ebe6f
 msgid "Comment"
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:108
-# 08263652ca4b4eae99f81acf59c55560
+# d1096d0ca923487c9e0d41c34afd974a
 msgid "Data directory(DEFAULT)"
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:108
-# 3c0fc77fb9704e5ebdc1ffe7b19228d3
+# 61d393d6213b49b69c7322d8fd16f827
 msgid "YES"
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:108
-# 2f76c7d28ed24a508f21a0707298fcd5
+# 1b1411046cbe44edbe7e097dc483e106
 msgid "“/opt/Phlagrant”"
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:108
-# ad4a3ac1c2534ce4be201149aa94d22a
+# cd1ff21d500e4f13af9b65704545420d
 msgid "It will install Phlagrant under Cleopatra"
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:110
-# 180a7ccd5e55414da66cacb40441b850
+# 1c86b75209fa4307af12dee72d1a2eb0
 msgid "Data directory"
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:110
 #: ../../source/cleophlagrant.rst:115
-# cf753542de7049439c96272300dd5df0
-# e6c48b91011a4595a2f83ae05fcdfd6a
+# 9cd3f9a6cda5419a8e550c66cc131991
+# 8c793816e2c641858e84f0a039ac8d81
 msgid "No"
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:110
-# a4c57db0d38b4e2fae91c3c5dcd301e2
+# c071c77a8c614fa4be6e80dd4f69059d
 msgid "End slash"
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:110
-# 41be959f059f4278a1cab397e5ef60e3
+# e8396e25c46d481597ef6d9f2151f22c
 msgid "The user has to a specify the path."
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:112
-# 5c130aa0ef434c1284699d007db17761
+# ba7397450c464cb58dc9cec80e70977c
 msgid "Executor directory (Default)"
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:112
-# 195780cd70de4f3c99fa27d6aa18b155
+# 7428de99923447f7a47fa8dcaa07a63f
 msgid "Yes"
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:112
-# f934dea5340c45319c274c1292f2e9a3
+# 820f14ae6bad417ca297cbe9b52fa2f4
 msgid "“/usr/bin”"
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:112
-# ba8108b043304bf385e15177e0e0e394
+# 83c27eb23cf0466496a50cff579a3b79
 msgid "It will install executor directory"
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:115
-# d7aa21f8a4434ee6b5590f4238186143
+# ec19d12095934a208e37ff83f76def22
 msgid "Executor directory"
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:115
-# b8b0b6fdb07e43618a22b402fcf749e3
+# e14f189f517e45aba04f770ae1b7e2c6
 msgid "No trailing slash"
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:115
-# 17bc49bdaa7c4b519a1bc6e2ec9fb8cd
+# f60d7f9861254980ab7ee01d20e7fbee
 msgid "The user gives input as directory name|"
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:120
-# 3d56cf11e1a8461c8430438be9a8234f
+# ce0cb111841642e8a67b0e81df9f5c68
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:122
-# a9810b0429274fc59c642b058d6e5172
+# 7086a756cf92471ea7341bb4598454b3
 msgid "Ubuntu users can simply install phlagrant from the repository."
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:123
-# 00d51d407fe047d88434fcf8d5a13e7b
+# 29c8dd19764c4c0ab89ac2f056ae1e91
 msgid "The real advantage of phlagrant lies in its performance."
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:124
-# 62f42bcf7ccf4bd6b02e266e4e8f9f17
+# 63a696d2884d40178eac56aee6cb1552
 msgid "Integration with Host OS."
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:125
-# 535e668886e8432c968a267d0e269d7b
+# ce61273e706845e88a622e0e55028ca6
 msgid "Speed accessability."
 msgstr ""
 
 #: ../../source/cleophlagrant.rst:126
-# 4e4831e7a33e4171b70a9a4d7b8c3cc1
+# 268a6402390048c697f3fc8cd5a60e26
 msgid "Manage virtual box."
 msgstr ""
 

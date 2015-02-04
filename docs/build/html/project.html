@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Project &mdash; KEVELL 0.1 Dokumentation</title>
+    <title>Project &mdash; KEVELL 0.1 documentation</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -25,14 +25,13 @@
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
-    <script type="text/javascript" src="_static/translations.js"></script>
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
-    <link rel="top" title="KEVELL 0.1 Dokumentation" href="index.html" />
+    <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
     <link rel="up" title="Dapperstrano" href="Dapperstrano_main.html" />
     <link rel="next" title="Run Command" href="run_command.html" />
-    <link rel="prev" title="Nginx Control" href="nginxcontrol.html" />
+    <link rel="prev" title="NginxSBEditor" href="nginxsbeditor.html" />
 
 
 <script src="_static/labibi.js"></script>
@@ -103,10 +102,10 @@
           
           
             
-  <li><a href="nginxcontrol.html"
-         title="vorheriges Kapitel">&laquo; Nginx Control</a></li>
+  <li><a href="nginxsbeditor.html"
+         title="previous chapter">&laquo; NginxSBEditor</a></li>
   <li><a href="run_command.html"
-         title="nächstes Kapitel">Run Command &raquo;</a></li>
+         title="next chapter">Run Command &raquo;</a></li>
           
           
           <!--  <li>
@@ -130,14 +129,14 @@
   
   
   <div class="section" id="project">
-<h1>Project<a class="headerlink" href="#project" title="Permalink zu dieser Überschrift">¶</a></h1>
+<h1>Project<a class="headerlink" href="#project" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="synopsis">
-<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
 <p>In contemporary business and science a project is defined as a collaborative enterprise, involving research or design, which is carefully planned to achieve a particular aim. Projects can be further defined as temporary rather than permanent social systems or work systems that are constituted by teams within or across organizations to accomplish particular tasks under time constraints. An ongoing project is usually called (or evolves into) a program.</p>
 <p>This command is part of default modules and handles project initialization functions, like configuring a project, or a project container and also installing Jenkins build files into a running Jenkins instance.</p>
 </div>
 <div class="section" id="help-command">
-<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>This command helps to determine the usage of project module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screen shot of the same.</p>
 <div class="highlight-bash"><div class="highlight"><pre>               dapperstrano project <span class="nb">help</span>
 
@@ -153,7 +152,7 @@ kevells@corp:/# dapperstrano Project <span class="nb">help</span>
 
 
          - container
-         make a container folder <span class="k">for</span> revisions <span class="o">(</span>like /var/www/applications/*APP NAME*<span class="o">)</span>
+         make a container folder <span class="k">for </span>revisions <span class="o">(</span>like /var/www/applications/*APP NAME*<span class="o">)</span>
          example: dapperstrano proj container
          example: dapperstrano proj container --yes --proj-container<span class="o">=</span><span class="s2">&quot;/var/www/applications/the-app&quot;</span>
 
@@ -178,7 +177,7 @@ End Help
 </div>
 </div>
 <div class="section" id="container">
-<h2>Container<a class="headerlink" href="#container" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Container<a class="headerlink" href="#container" title="Permalink to this headline">¶</a></h2>
 <p>This command helps make a container folder for revisions (like /var/www/applications/<em>APP NAME</em>).
 When the user needs to install, the user can issue the following commands for DBIstall. The system will execute the process of installation.</p>
 <div class="highlight-bash"><div class="highlight"><pre>                dapperstrano proj container
@@ -204,7 +203,7 @@ Seems Fine...Project Editor Finished
 </div>
 </div>
 <div class="section" id="init">
-<h2>init<a class="headerlink" href="#init" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>init<a class="headerlink" href="#init" title="Permalink to this headline">¶</a></h2>
 <p>When the user needs to initialize dapper project, the user can issue the following commands. The system will execute the process.</p>
 <div class="highlight-bash"><div class="highlight"><pre>dapperstrano proj init
 </pre></div>
@@ -223,20 +222,20 @@ Seems Fine...Project Editor Finished
 </div>
 </div>
 <div class="section" id="build-install">
-<h2>Build-Install<a class="headerlink" href="#build-install" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Build-Install<a class="headerlink" href="#build-install" title="Permalink to this headline">¶</a></h2>
 <p>When the user needs copy Jenkins project stored in repo to running Jenkins, the user can issue the following commands. The system will execute the process.</p>
 <div class="highlight-bash"><div class="highlight"><pre>dapperstrano proj build-install
 </pre></div>
 </div>
 </div>
 <div class="section" id="alternative-parameter">
-<h2>Alternative Parameter<a class="headerlink" href="#alternative-parameter" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Alternative Parameter<a class="headerlink" href="#alternative-parameter" title="Permalink to this headline">¶</a></h2>
 <p>There are two alternative parameters which can be used in command.</p>
 <p>Project, project and proj</p>
 <p>eg: dapperstrano Project help/  dapperstrano proj help</p>
 </div>
 <div class="section" id="benefits">
-<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
 <li>Helps make a container folder for revisions</li>
 <li>Helps to initialize dapper project</li>
@@ -276,7 +275,7 @@ Seems Fine...Project Editor Finished
     </p>
     <p>
         &copy; Copyright 2015, kevell.<br/>
-      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2.3.<br/>
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2.2.<br/>
     </p>
   </div>
 </footer>

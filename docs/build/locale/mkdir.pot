@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 14:00+0530\n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,92 +17,92 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/mkdir.rst:3
-# c388396b1440404a96368df799276272
+# 5cb1b5766a824d57af1b27af69989a79
 msgid "Mkdir"
 msgstr ""
 
 #: ../../source/mkdir.rst:7
-# ce4ee7baad104077a0701a92a729d589
+# b63a9f21dbb84a9095e20f84087485b5
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/mkdir.rst:9
-# a1b0e3e32caf4d09b67b48c81c79f2b0
+# 63904301c00e4c9086130daf8246cfe5
 msgid "This module assists in creating a directory. The user can specify the path while declaring creation of directory or at run-time of creating a directory. It can be performed either in remote or local machine. Let us see about how this module helps in creating a directory."
 msgstr ""
 
 #: ../../source/mkdir.rst:12
-# 0344eb86b0e84b73b76625bd59019692
+# 036daeb42422434d8977afbf7626ec73
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/mkdir.rst:14
-# c464132520164150825298decc372eb1
+# c684a7bc980a4ae380438203986ea5ed
 msgid "The help command leads the users regarding the purpose and as well as about the options that are included in the Mk Dir. The help command lists out the alternative parameters of MK Dir. . It also describes the syntax for creating a directory in two different ways either at time of declaration or at run-time. . The help command for MK dir is shown below."
 msgstr ""
 
 #: ../../source/mkdir.rst:20
-# 8545073a572f477197c108b7408dde3d
+# ebf07cd4586c41adb8f69e9075f5e8b2
 msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under MK dir."
 msgstr ""
 
 #: ../../source/mkdir.rst:43
-# eaa528d081cc4d0f86e9bf75b5e9f76f
+# 89e49053c3434a559eb3d009283af5f9
 msgid "Alternative Parameters"
 msgstr ""
 
 #: ../../source/mkdir.rst:45
-# 6c8f1094abb44664a6a1eaa9189eefab
+# edafbf9f911e4ff3819cd78ee6a64f52
 msgid "While using commands for help and creating a directory, instead of mkdir Mkdir can also be used."
 msgstr ""
 
 #: ../../source/mkdir.rst:48
-# f0ae3f0f65704efea122ec7c5ea46521
+# 17f815af563741bf86940cabf2c6f8ef
 msgid "Creating a Mk Dir"
 msgstr ""
 
 #: ../../source/mkdir.rst:50
-# 5c3681cb7e4743fcaa98ee89216d04d5
+# 882da6b0d02f4cda908831b710bb7f4f
 msgid "Creating an Mk Dir can be done in two different ways:"
 msgstr ""
 
 #: ../../source/mkdir.rst:53
-# 79ba2c246d754c6789d85bd05dabb182
+# f90a4631d9d6405181d1c9a60c5012cc
 msgid "Either at run-time"
 msgstr ""
 
 #: ../../source/mkdir.rst:59
-# cde3c64087c64227beed9453314e3798
+# d612abe86bc44c92a257227ee6ffd7b8
 msgid "Or, at the time of declaration"
 msgstr ""
 
 #: ../../source/mkdir.rst:64
-# cc70b91641594a7f93c8c2def3cb389e
+# e27b91a06c9f407b8416b2ae1df2609a
 msgid "The following screen shot depicts the second way of creating a directory."
 msgstr ""
 
 #: ../../source/mkdir.rst:80
-# 59e6427105124450aa3b52149fa4079c
+# 674ef5dc47994aad9e4c936e90b57759
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/mkdir.rst:81
-# 2681f92c00f143cd978e2af04c3630dc
+# dae4b2eef1794dfcb79fb5cb5782d4e0
 msgid "The parameters used in help and creating a directory operations are not case sensitive which is an added advantage while compared to others."
 msgstr ""
 
 #: ../../source/mkdir.rst:82
-# 254b1ed768514aa0b8da7d397ed18c26
+# 8931d1da8ece4aed95fa6cafd64c0054
 msgid "Creating a directory can be defined in two different ways as declaration time or at run-time."
 msgstr ""
 
 #: ../../source/mkdir.rst:83
-# 64000a5d2fac46108d27c28857d9fe5e
+# 5a9097325bf142f69fe9bc1008c48d9d
 msgid "It can be performed both in local or remote machine."
 msgstr ""
 
 #: ../../source/mkdir.rst:84
-# 0a1c6ae291284c919a801982be95cb2a
+# d785799da270489391a69683a496abf6
 msgid "It is well-to-do in both Ubuntu and as well as Cent OS."
 msgstr ""
 

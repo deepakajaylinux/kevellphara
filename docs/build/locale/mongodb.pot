@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 14:00+0530\n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,149 +17,149 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/mongodb.rst:3
-# 48ac2aa85df14aeca86da8663c0b9e10
+# 184fc9102a5b47d4a54acc5b80fd6922
 msgid "MongoDB"
 msgstr ""
 
 #: ../../source/mongodb.rst:6
-# b9ff3d77f22241e9bf49bc788b488775
+# ba2dadc045f642a3994da54224e000d3
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/mongodb.rst:8
-# 2ac04c8ee4484c2ba89da090b43558f8
+# a266f720874641e1afd543c1985e265e
 msgid "Mongo DB is a document oriented database. Mongo DB eschews the traditional table-based relational database structure in favor of php like documents with dynamic schemas, making the integration of data in certain types of applications easier and faster. Mongo DB is suitable to work with Ubuntu and Cent OS."
 msgstr ""
 
 #: ../../source/mongodb.rst:11
-# 42b7eb1ed4cc40cd9f4a196ccd97b76c
+# 9171d665be034f0189eca7f91579cc22
 msgid "Help command"
 msgstr ""
 
 #: ../../source/mongodb.rst:12
-# 7ac6449c49754df9a98a32a4f06782ee
+# 2d54b33ac4164a90819a545b33d3ed14
 msgid "This command can function about the objectives and commands available under Mongo DB module. It also explains the command to install server. Before installation you read this help command explains its function"
 msgstr ""
 
 #: ../../source/mongodb.rst:43
-# d333ab03267a4e28b48c35510f00444e
+# 3d5ebe04aeff4cf09649c6e8136e1e45
 msgid "Installation"
 msgstr ""
 
 #: ../../source/mongodb.rst:45
-# 6df62ee7f9be41ab9a4f110c8ab52822
+# 9979a9af601e42d4a864ae22dfbcde65
 msgid "Use this module to install Mongo DB on Ubuntu Linux systems from .deb packages. While Ubuntu includes its own Mongo DB packages, the official Mongo DB packages are generally more up-to-date."
 msgstr ""
 
 #: ../../source/mongodb.rst:51
-# bff09ad138dd4c1687812bd2cfabc206
+# 3348043d0adc44caaf8484209e45307b
 msgid "Install mongo DB server?(Y/N)"
 msgstr ""
 
 #: ../../source/mongodb.rst:53
-# 4290aa73a0a14ae189088f6b9dd1a88f
+# cba104b400434e7eaada343d112fcbd1
 msgid "When the user gives input as Yes automatically it will install all depencies in root pass ass default and also install updated version. The following screen shot will explain it."
 msgstr ""
 
 #: ../../source/mongodb.rst:167
-# cec6a2df0b7548368037af5eff15c105
+# 08743b4a403742aa81277f78d507782a
 msgid "If the user gives No it will exit."
 msgstr ""
 
 #: ../../source/mongodb.rst:170
-# 3086165dd8ff449d8c184a9c3fbfb0aa
+# 1e3b2d96f8b540a0860322d1ec6c568c
 msgid "Options"
 msgstr ""
 
 #: ../../source/mongodb.rst:175
-# 725b6a7f27f14f46840698d32e58f8b6
+# a2b56bd915b042f1bb41c81ffc39a749
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/mongodb.rst:175
-# 31ee99f7fc1f4fcb87913130415279f0
+# 31d2f0dc42754fe684c465d7d13dc838
 msgid "Directory"
 msgstr ""
 
 #: ../../source/mongodb.rst:175
-# 31e5e5557952495b830ffeac41ff5977
+# f9aef583175d499ca658fbc676fc84e4
 msgid "Option"
 msgstr ""
 
 #: ../../source/mongodb.rst:175
-# 728c5a95114c45ee907bbda30e1c9f72
+# a00ed8a5cb004317a57fb4a31b2a64b3
 msgid "Comment"
 msgstr ""
 
 #: ../../source/mongodb.rst:177
 #: ../../source/mongodb.rst:183
-# 600ce10ce70141e5940a3450f5f6be58
-# eab9798693ff45038bbb5fffcd717884
+# be30a2cc5c0d413bbf52f0dafb803a09
+# 4ac75bb4702f456a96ba5442512227e5
 msgid "Install mongoDB server"
 msgstr ""
 
 #: ../../source/mongodb.rst:177
-# 4331f49ec4cf4ffda3e96e4c69affcc5
+# 923ba350ccd04a5183e28f672595c7de
 msgid "YES"
 msgstr ""
 
 #: ../../source/mongodb.rst:177
-# 1b2d59dda55f4b41926c3105daf684e7
+# 5b01ea78ec424ee08918cea60bcf4015
 msgid "In Spite of mongoDB, the following alternatives can also be used: MongoDB, mongo-db-server,mongo-db, mongodb-server, mongodb,"
 msgstr ""
 
 #: ../../source/mongodb.rst:177
-# 56093b63a9054775ab729ed535df6aa0
+# 1349ebe4ce894442b0896b8ef1aa85ba
 msgid "It will install mongoDB under Cleopatra"
 msgstr ""
 
 #: ../../source/mongodb.rst:183
-# eea6a56a944a4a57a4102ef8594edf78
+# f2f40d005b274ee7b988d4e9e3d6a97b
 msgid "NO"
 msgstr ""
 
 #: ../../source/mongodb.rst:183
-# 2ab3810bf2844527b6bbd818b0edb242
+# b12b19287b684486a5c3d7dd3a3451bd
 msgid "In Spite of mongoDB, the following alternatives can also be used: MongoDB, mongo-db-server,mongo-db, mongodb-server, mongodb|"
 msgstr ""
 
 #: ../../source/mongodb.rst:183
-# a6658b2949c4421c93ce6bd903b55b00
+# e0cdeae770d047b68ab5a06c7cade059
 msgid "It will exit"
 msgstr ""
 
 #: ../../source/mongodb.rst:191
-# 03dfec34935d47278bf3cbaeecd9a139
+# 1b2d5161cbbf43b284ec1c6a698b1224
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/mongodb.rst:193
-# 02712b89cb3f44f6b33b1be9f0a71f63
+# df9beb93b05a4f76894472e21731db53
 msgid "Mongo DB is document oriented database."
 msgstr ""
 
 #: ../../source/mongodb.rst:194
-# be9992c1c9f845c08fe6764be192cce0
+# 4ea4a51f629843eb891110164d78cb60
 msgid "Mongo DB can updated the latest version."
 msgstr ""
 
 #: ../../source/mongodb.rst:195
-# 2bc7bf4bbed64135a6f32d26b0bbb821
+# c7611a6b14f849dba607fcafb4e92f91
 msgid "While installing mongo DB all depencies, libraries can also installed automatically without searching from the web."
 msgstr ""
 
 #: ../../source/mongodb.rst:196
-# 7e9f34023d8c4fcd9b1451c0d00e9870
+# 8322d226ca6d44fca97b0dcbea0c971d
 msgid "MongoDB can store the business subject in the minimal number of                    documents."
 msgstr ""
 
 #: ../../source/mongodb.rst:197
-# 43b04bae066549d8acd1d466891f93cf
+# 96bb436c25934462b3d0a8a8556ce128
 msgid "Speed enhancements."
 msgstr ""
 
 #: ../../source/mongodb.rst:198
-# 813e89fe22354893b78144c3576bea7a
+# e9aae673cc11450b93c15f6bf83e4193
 msgid "Great advantage of load balancing and data replication features over multiple machines for storing files."
 msgstr ""
 

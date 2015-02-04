@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 14:00+0530\n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,97 +17,97 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/port.rst:3
-# 657e98fc47894732b192a16188581707
+# 5ffe5b5b70f944c589c29d7fca136506
 msgid "Port"
 msgstr ""
 
 #: ../../source/port.rst:6
-# 2ce6fc363ec54c678e36db21d2807c2f
+# d7ebe3bcefa243309f8d97d690ba79cf
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/port.rst:8
-# 1d67fa2ea58b4fa5816bbfb39ed2284d
+# 4f846428644242568133c7d71ccc9125
 msgid "Port certify to check the status of ports and services. This module helps to check the port service under Cleopatra. This module is most comfortable with Ubuntu and cent OS."
 msgstr ""
 
 #: ../../source/port.rst:11
-# 1645913ab1734ea1bc90c1758eeeade5
+# 65d98c9abadd46f882cb747bcf2d1cdc
 msgid "Help"
 msgstr ""
 
 #: ../../source/port.rst:13
-# 1563959a130b4eb182d2e7a19767d3c8
+# e24b2d17a81b4d2fb01d42258938a10b
 msgid "This help command guide the user about Port module. This is suitable for all type of IT people."
 msgstr ""
 
 #: ../../source/port.rst:19
-# 03558830c5ac4a66a4d197b1e07c4abf
+# 129b3e89471249eab3675860ea7ff276
 msgid "The help command shows a short list of the commands built into the port module."
 msgstr ""
 
 #: ../../source/port.rst:46
-# ca47bc42c58e45f6a7012940bb07d337
+# 1ba8a9f8b86042e5abdabea81ca39093
 msgid "Local Host"
 msgstr ""
 
 #: ../../source/port.rst:48
-# 210fc4c335cc4f83ba941197ac6d69c4
+# a1a434e4c83f4030afbd99d76daddd00
 msgid "When the user want to check the status of the port in local host then it can ask the user IP address. The following screenshot will explain it."
 msgstr ""
 
 #: ../../source/port.rst:72
-# 5dbed9e485594c0291f1f0954ab02de8
+# 7ef13610eff942a3aa77394140b75096
 msgid "Options"
 msgstr ""
 
 #: ../../source/port.rst:77
-# b829504f3845418dbca8355f75d50f88
+# 51f33ba21c57417988d1a98829462104
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/port.rst:77
-# 7d83905ef0ec48a48a9269a94f8e81c1
+# cc4762a6d2784da18a9208a48e359289
 msgid "Fuctions"
 msgstr ""
 
 #: ../../source/port.rst:77
-# 6a093e7998554a5aa63b49d0d8352f7d
+# 7368c4b657c44ae2b6749497d6c31e9e
 msgid "Output"
 msgstr ""
 
 #: ../../source/port.rst:79
-# 3c4305c8cfbe4b74bffc86c722d8dfb2
+# 935f842412364909a4b269a69077e7d6
 msgid "is-responding"
 msgstr ""
 
 #: ../../source/port.rst:79
-# 5fe13114440c4c08bd4d99a086d9f6d7
+# 0a71be77e75242b8a25af46338d34378
 msgid "Test of port is responding  Or not"
 msgstr ""
 
 #: ../../source/port.rst:81
-# 4402199dd2164d76b5aefa5cae959baf
+# 191119409e85457c927dfba3470c0c5a
 msgid "Process"
 msgstr ""
 
 #: ../../source/port.rst:81
-# c587b795e1584222b9dbc9efd4090999
+# a1d3779dd7134a4794a40282d9be41bf
 msgid "Test the process  status  Of port"
 msgstr ""
 
 #: ../../source/port.rst:81
-# d3b7c3fc79974842b3036bc71729d23d
+# dc324b1355784116b1f9276c7f41aa3f
 msgid "It will display the process of port|"
 msgstr ""
 
 #: ../../source/port.rst:86
-# ba3edfd8dddb471cb72eea5c504aea14
+# 70d5da55dcbd47679248168e4ce2b881
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/port.rst:87
-# 51023b93155b40c698744250b948735f
+# f468dc998c904c7d910313b496aa4e67
 msgid "The user can check the current working status of the port. It is a user friendly module. Less time consuming."
 msgstr ""
 

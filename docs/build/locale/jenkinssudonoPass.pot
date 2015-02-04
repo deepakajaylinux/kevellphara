@@ -1,0 +1,149 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/jenkinssudonoPass.rst:3
+# dc4bc9d431a041849a1e9e046691d09d
+msgid "JenkinsSudoNoPass"
+msgstr ""
+
+#: ../../source/jenkinssudonoPass.rst:6
+# f8914d7877164804984ff091e3f78207
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/jenkinssudonoPass.rst:7
+# 1fc86c223f0e4b3491ad517e041f241a
+msgid "Jenkins is a popular build server. Jenkins provides continuous integration services for software development. Jenkinssudonopass tolerate the user to adjoin an entry to the system sudo file. This put up the user jenkins to function with out  passward. This is suitable for Ubuntu and centOS."
+msgstr ""
+
+#: ../../source/jenkinssudonoPass.rst:11
+# 74264a335ba94df6b85ac2f7b908d193
+msgid "Help command"
+msgstr ""
+
+#: ../../source/jenkinssudonoPass.rst:13
+# 4205622a748f4c3799971725cdf4cc61
+msgid "The help command manage the users regarding the purpose and as well as about the options that are included in the jenkinssudonopass module. The help command lists out the alternative parameters of jenkinssudonopass. It also describes the syntax for using jenkinssudonopass to securify. The help command for jenkinssudonopass is given below."
+msgstr ""
+
+#: ../../source/jenkinssudonoPass.rst:20
+# e10699b62c604b5da4c7e5224d25b80a
+msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under jenkinssudonopass."
+msgstr ""
+
+#: ../../source/jenkinssudonoPass.rst:47
+# fdb5e53a58254a868a4e7567caf04558
+msgid "Installation"
+msgstr ""
+
+#: ../../source/jenkinssudonoPass.rst:49
+# 84b0f979995d456ab56582d7d0625a66
+msgid "This command authorize to install jenkins sudo without pass word entry. When the user want to install jenkinssudonopass the following command guides  the user to install."
+msgstr ""
+
+#: ../../source/jenkinssudonoPass.rst:55
+# 21d201f0048e48ca9201c9aa68fa303f
+msgid "After typing this command the system asks users wish. The other process explains the installation through the screenshot."
+msgstr ""
+
+#: ../../source/jenkinssudonoPass.rst:90
+#: ../../source/jenkinssudonoPass.rst:95
+# 3e5bad6092404eeb8376b86b97b62b8b
+# 6a6d519000234650a13e9f5af33bfb84
+msgid "Options"
+msgstr ""
+
+#: ../../source/jenkinssudonoPass.rst:95
+# e8830bc404ab4cd498658ae18d162c90
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/jenkinssudonoPass.rst:95
+# 40ca6687e6bc46d4a98a1575f387f33b
+msgid "Alternative Parameters"
+msgstr ""
+
+#: ../../source/jenkinssudonoPass.rst:95
+# 3e596f35427648a899d49db0a3601127
+msgid "Comments"
+msgstr ""
+
+#: ../../source/jenkinssudonoPass.rst:97
+#: ../../source/jenkinssudonoPass.rst:102
+# 886a173593a24c6088b62cb0f00091de
+# dbcd5486b06d4f75899616518dcfa0f2
+msgid "Install sudo w/o for Jenkins user? (Y/N)"
+msgstr ""
+
+#: ../../source/jenkinssudonoPass.rst:97
+# 38162a2b91b74a95b7a85f72835e7dd0
+msgid "In Spite of jenkinssudonopass, the following alternatives can also be used: JenkinsSudoNoPass , jenkinssudonopass, jenkins-sudo-nopass,jenkins-sudo-passwordless"
+msgstr ""
+
+#: ../../source/jenkinssudonoPass.rst:97
+#: ../../source/jenkinssudonoPass.rst:102
+# 11647ec6454f484583cfe11b52e7ac1e
+# 91144a266a5b4cb8bdcd9dd6e6216c03
+msgid "Y"
+msgstr ""
+
+#: ../../source/jenkinssudonoPass.rst:97
+# 486549ea7eca458e87b705f0a1343b50
+msgid "If the user wish to proceed the installation process they can input as Y."
+msgstr ""
+
+#: ../../source/jenkinssudonoPass.rst:102
+# 22405121eba14fe3b82467c617def514
+msgid "In Spite of jenkinssudonopass, the following alternatives can also be used: JenkinsSudoNoPass , jenkinssudonopass, jenkins-sudo-nopass,jenkins-sudo-passwordless|"
+msgstr ""
+
+#: ../../source/jenkinssudonoPass.rst:102
+# 8ceabe14e4aa41daaae4070f614cc0f4
+msgid "If the user wish to quit the installation process they can input as N."
+msgstr ""
+
+#: ../../source/jenkinssudonoPass.rst:110
+# aafff506fd9342219ae8dc51ad5796c8
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/jenkinssudonoPass.rst:111
+# cd89bea36503452ba5bcce24aac7202f
+msgid "Open source continous integration process."
+msgstr ""
+
+#: ../../source/jenkinssudonoPass.rst:112
+# bc1b835fd02640c28a1b7fc26bbd2c97
+msgid "Jenkinssudonopass is a automating builds."
+msgstr ""
+
+#: ../../source/jenkinssudonoPass.rst:113
+# e7c6201715954ffb93d06290c7f5bade
+msgid "By scripting   builds and remove human error problems, computers are just better at running repetitive tasks."
+msgstr ""
+
+#: ../../source/jenkinssudonoPass.rst:114
+# aa87511b8cbc466a8765eef821fb152b
+msgid "Jenkinssudonopass need to spend time on their deployments"
+msgstr ""
+
+#: ../../source/jenkinssudonoPass.rst:115
+# 0e45426b6b824705878a11fde00b3172
+msgid "versatility and flexibility."
+msgstr ""
+

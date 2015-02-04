@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 14:00+0530\n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,172 +17,172 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/systemdetection_phlagrant.rst:3
-# f97b2815dfc749348c27a24baed96ca5
+# b482e326428f45e98edabf394f3330b6
 msgid "SystemDetection"
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:7
-# d8856a867c2947ae9d0f7ec0a762487c
+# a837c09e42fe4c5cb902e5c1b7863fae
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:9
-# 35ae714ea775453bb6afdb7fe6a835cd
+# 1da3e6cf5ad546c08df50cc50e70013b
 msgid "This module aims at detecting the user’s machine and in hand provides them the necessary information to them regarding the users system. It also provides a facility to the users to configure their applications settings. The few examples for applications settings includes my sql admin user, Architecture, admin user, host, version, linux type, Distro. It is comfortable with Ubuntu and cent OS."
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:12
-# e19f62fd17024a91b4e0eb525a92d5fd
+# f6955f28fb374fc78bfcbf86e54719cc
 msgid "Help command"
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:14
-# 5cf86776749a475c8e07ed445e7718af
+# 7187259d35bd48df9fbd6a15cb475f5c
 msgid "The help command leads the users regarding the purpose and as well as about the options that are included in the System detection modules. The help command lists out the alternative parameters of System detection under phlagrant module. It also describes the syntax for detecting the user’s machine. The help command for System detection is shown below."
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:20
-# 0a6b0863c37e4fe2ade58435979edef4
+# 6bbff3935a85400a90201ebd66eb0dac
 msgid "The syntax for the help command non case sensitive which adds an advantage for this module. The following screenshot visualize the user about the help command under system detection."
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:47
-# 2473e5c86b8f4ab1af388490688bd5af
+# 177e28680ce44e628d4b69f39c262919
 msgid "Detect"
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:49
-# 90e1b97e14724cf48896ad99c24f2a71
+# 769141a104f34e0a9e4803d2760ebae7
 msgid "Detect used to detect the system settings. By using a single command the user can get all the information about the system application. The command used for system detection is given below."
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:55
-# 2de9c9707b594a30b2c0aa0fac83710c
+# c74ef701e369402d9233ba283cf8e240
 msgid "After keying the above command, the process of system detection starts. During system detection the following information's regarding the corresponding machine are reported:"
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:57
-# 00382d324115434f98091bc04bb5f36b
+# 52c0b0301fae4786b756b55020334243
 msgid "Operating System"
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:59
-# 3c82c6893ce440839ecfc8e452a2e48d
+# 042b87b0ca1842609edfb0b75bed961a
 msgid "Linux Type"
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:61
-# 5e221b8d43844bd18e9229fa1e636e7a
+# 770d2a19a1af465c8007c435f10f6077
 msgid "Distro"
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:63
-# f2f8d1752faa4a95a32065d6745ba95e
+# afbfc4fe7ae5486790f3c94c4a913fcf
 msgid "Version"
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:65
-# 9d580c64a6b34a39928505aaaba9c9e6
+# e6d99296d6f748a5ae2448d65195f51a
 msgid "Architecture"
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:67
-# faae89240d344fde93fd7d385c9b7126
+# eb4f790ad2984dafb8e533bb1e00bcec
 msgid "Host Name"
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:69
-# 5be390ae399d4705bf9c7e290d1b37b8
+# fa6fba6d4199443d9f7fc3258fb92060
 msgid "IP Address 0."
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:71
-# 28980d6e3d1b48b8a5120bf01ef22ab3
+# 22136de9225b47bb9958f20434148f74
 msgid "IP Address 1."
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:73
-# 169d235779fa40ac933b587c2e9b993f
+# b6176cc2a7cf4ffc99af77399829c8d6
 msgid "Finally, after detection the information regarding the above mentioned features are clearly reported. The following screen shot depicts the user about the process of system detection."
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:104
-# 10555c59a3f343ecbfc24a2a88ba9097
+# 7622f0e2cff845899efd9b1ff7b9ce52
 msgid "Alternative Parameters"
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:106
-# 501296708d1046f09474457b866d7911
+# 6f9db8f4ff5343d6a6e7ebd266db718b
 msgid "Instead of system detection, the following parameters can be used:"
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:108
-# e1496e5a2d674d47976525dab8743d44
+# 2572bc65a73148cd9e2794250deb9a5a
 msgid "System Detection"
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:110
-# b84817511559432e8768ebc95de9a208
+# c598406726574c569eb93258a0df2581
 msgid "system-detection"
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:112
-# 6f6bf16fb4d54e1e909c419d7cf80847
+# 15ef3f5c79574879b213a6bb27872b43
 msgid "system detection"
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:115
-# 769db76812774284ba7b13fd725ebeee
+# de962b7bea3846acbc5d7060856cfefb
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:117
-# 1c36e1e30d174020a148862662d8d1b5
+# f7e408653d614b0aa401e80087c6c9dc
 msgid "The users can configure the application settings using this system detections."
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:118
-# 6a657465c450483ba884f3a8af2026d6
+# 187fd3315b67459fbf6ef808469eb2a6
 msgid "The parameters used for declaring help command, system detection are non-case sensitive which an added advantage while compared to others."
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:119
-# 6d07749b61174eeda2f11ebc8584418e
+# 981949f3cae6419a8025b98aa1b9a67f
 msgid "It is well-to-do in both Cent OS and as well as in Ubuntu."
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:120
-# 59ad2fe2c42e4fdab61d7a6520ef87b5
+# 254f215a736e4fa58432221c2321bbcc
 msgid "Protection and security is possible. Preventing harm to the system and to resources, through internal processes or malicious outsiders. Authentication, ownership, and restricted access are obvious parts of this system."
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:122
-# cfad077f9e3843fa827884cf1eae8e16
+# 05c8416b775b413d8f6835fd2e76a6aa
 msgid "System administrators generally determine which interface a user starts with when they first log in."
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:123
-# 0a63daebd1544dd3b20b74fb2a3a7970
+# 275b53ce40f944e3908b98c87fa1cf2d
 msgid "Generally written in PHP, although some are written in assembly for optimal performance."
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:124
-# 6b5707fb110f4c3fabb9d87d1d57e389
+# 8d679c4c5e4f4a9ca75257912ac58e69
 msgid "The system detection module provides the support:"
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:125
-# 3000d53b0a0e463dba6590b7290cd99a
+# db9ea76733eb43639dfa8c233846c55a
 msgid "Identify a remote process and/or host with which to communicate."
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:126
-# 69dc5650be1c4b759a5417733965feaa
+# defbf83fa2594db1933c1dcda180602a
 msgid "Establish a connection between the two processes."
 msgstr ""
 
 #: ../../source/systemdetection_phlagrant.rst:127
-# d98091f9ad0947cf9b165215363af8a9
+# 71d415418cbb4b4b8ec00efaa3e88961
 msgid "Open and close the connection as needed."
 msgstr ""
 

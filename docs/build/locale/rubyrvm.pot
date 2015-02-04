@@ -1,0 +1,189 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/rubyrvm.rst:3
+# b16ff5a28f974922a0c242a5a33915d4
+msgid "RubyRVM"
+msgstr ""
+
+#: ../../source/rubyrvm.rst:6
+# ff9d4e22cdb74cfb8377ac733515092d
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/rubyrvm.rst:8
+# cda077863473407fb1f127f2bf1da50c
+msgid "Ruby Ruby Version Manager(RVM), often abbreviated as RVM, is a unix-like software platform designed to manage multiple installations of Ruby on the same device. The entire ruby environment including the Ruby interpreter, installed RubyGems, and documentation is partitioned.  These includes JRuby, mruby, MacRuby, IronRuby, Maglev, Rubinius, Topaz. It is user friendly with Ubuntu and cent OS. ."
+msgstr ""
+
+#: ../../source/rubyrvm.rst:11
+# a4e892fa41e448fc9ee29e0e1ef77fbc
+msgid "Help command"
+msgstr ""
+
+#: ../../source/rubyrvm.rst:13
+# 349d504461aa4ac5a27173edc259c75c
+msgid "This command can function about the objectives and commands available under Ruby RVM module. It also explains the command to Ruby RVM module. Before installation you read this help command explains its function."
+msgstr ""
+
+#: ../../source/rubyrvm.rst:19
+# 412d9891b47f4447a049c0f7df7c5836
+msgid "The following image also helps you to understand this module clearly."
+msgstr ""
+
+#: ../../source/rubyrvm.rst:48
+# eb95b96501da4a3498803c16788a3106
+msgid "Installation"
+msgstr ""
+
+#: ../../source/rubyrvm.rst:50
+# 0f24b2bef9bc4d13a7e9663ab07f839e
+msgid "It is a glaring process to install RubyRVM module under Cleopatra by just using the command given below,"
+msgstr ""
+
+#: ../../source/rubyrvm.rst:56
+# b6705e912416416c811c8e6069f74c0c
+msgid "After key in the command, it can asks"
+msgstr ""
+
+#: ../../source/rubyrvm.rst:58
+# e87ea1a1e16d40d7b0f176fb78e142d6
+msgid "Install RubyRVM?(Y/N)"
+msgstr ""
+
+#: ../../source/rubyrvm.rst:407
+# a7f0746047bb411e869c44a955f1a0e3
+msgid "In case the user input as Y, it can install Rubysystem from the package. Else, it can exit the screen. The following screen shots can explain it."
+msgstr ""
+
+#: ../../source/rubyrvm.rst:417
+# bfcdd3a3ea214e92b80b691865696860
+msgid "Libreadline6-dev,libyaml-dev,libsqlites3-dev these packages  installs automatically."
+msgstr ""
+
+#: ../../source/rubyrvm.rst:422
+#: ../../source/rubyrvm.rst:427
+# 95259c2ccafc4388b813bbe7a6b5bb88
+# 2191cd74b69e4c158a76bc1812110a30
+msgid "Options"
+msgstr ""
+
+#: ../../source/rubyrvm.rst:427
+# 6f2ed8f7602c4ae1a6a8961f4614abe6
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/rubyrvm.rst:427
+# 36b65db16b924bd690e2b3229559f52b
+msgid "Alternate Parameters"
+msgstr ""
+
+#: ../../source/rubyrvm.rst:427
+# 25aaf1b1382e41c19ff70cba53ee23fb
+msgid "Comments"
+msgstr ""
+
+#: ../../source/rubyrvm.rst:429
+#: ../../source/rubyrvm.rst:432
+# 55b0d62ed5f54cff9d9808e0f4b8d4a8
+# 8f7447ff7b7044a2be06bf3c3ef34e50
+msgid "cleopatra RubyRVM Install"
+msgstr ""
+
+#: ../../source/rubyrvm.rst:429
+# 9196a0444d014eba8fdf9b80037fa74a
+msgid "We can use RubyRVM,rubyrvm, ruby-rvm,rubyRvm."
+msgstr ""
+
+#: ../../source/rubyrvm.rst:429
+#: ../../source/rubyrvm.rst:432
+# 1d02fc9f93ef42ed8fa60af03eff7709
+# ca06a6509b584dd882b71adf6d34ada6
+msgid "Y"
+msgstr ""
+
+#: ../../source/rubyrvm.rst:429
+# 9e2b5c13dfb742e1be31ebc9bbaea5a1
+msgid "System starts installation process"
+msgstr ""
+
+#: ../../source/rubyrvm.rst:432
+# 47dd0ab32a8047e3bfa20f6e921a6e1a
+msgid "We can use RubyRVM,rubyrvm, ruby-rvm,rubyRvm.|"
+msgstr ""
+
+#: ../../source/rubyrvm.rst:432
+# 8d717ebc1d9c4c32b8813b020b1d7b7f
+msgid "System stops installation process"
+msgstr ""
+
+#: ../../source/rubyrvm.rst:438
+# b66b8581c50d47128bb58cc71d56a65d
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/rubyrvm.rst:440
+# b9bfb58c1edd4fff8bcf9555a462a105
+msgid "RVM is useful even if you don't want to install multiple versions at the same time."
+msgstr ""
+
+#: ../../source/rubyrvm.rst:441
+# b4d1bd4f3d5341c2a049b0576307df9c
+msgid "Getting it from the package manager (at least in ubuntu) gives you an updated version that changes installation directories from the default."
+msgstr ""
+
+#: ../../source/rubyrvm.rst:442
+# 3d053eaf8dac423282a8dd4619bd4f16
+msgid "Building from source requires getting a load of dependencies and configuring options."
+msgstr ""
+
+#: ../../source/rubyrvm.rst:443
+# be3182f7e95b414a9490bbf881463918
+msgid "RVM is great as this allows your to install different versions without touching your system's default Ruby install."
+msgstr ""
+
+#: ../../source/rubyrvm.rst:444
+# 146dd2ac498e4481b10afc58e9be7bab
+msgid "Another great advantage to having RVM are the gemsets - you can create as many gemsets that are unique to the version, and patch level, of ruby."
+msgstr ""
+
+#: ../../source/rubyrvm.rst:446
+# 78cf0c63a68e4418a02ccb55f3f1ab5f
+msgid "Ruby  system is a dynamic, reflective, high-level scripting language for quick and easy object-oriented programming (OOP)."
+msgstr ""
+
+#: ../../source/rubyrvm.rst:447
+# 2c6e12a4f9d640f9a1406faaa0a89c93
+msgid "In Ruby system, there are many convenient and enjoyable tool. Including the tools that are used in the deployment process."
+msgstr ""
+
+#: ../../source/rubyrvm.rst:448
+# dab5d0a91c164a93bd0ac98b5e6f4ad2
+msgid "The average Ruby system is usually already an experienced professional having extreme knowledge in both web development and general software   engineering skills."
+msgstr ""
+
+#: ../../source/rubyrvm.rst:449
+# 7937c226bf514133810d1bb83af53151
+msgid "The main advantage of the Ruby programming language and the Ruby System is considered to be the speed of development."
+msgstr ""
+
+#: ../../source/rubyrvm.rst:450
+# 88e78ed83bf84d63b2c1abbb889cc644
+msgid "Caching projects – one of the most important steps in developing a major Internet project. In PHP, there are various options for data caching."
+msgstr ""
+

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 14:00+0530\n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,256 +17,256 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/jrush.rst:3
-# 6cbab7200c984122b999f1e78a238d44
+# f4626f7dd9cd4bf9b4e48d97ae315303
 msgid "Jrush"
 msgstr ""
 
 #: ../../source/jrush.rst:6
-# 5b2bb655b75f4a3c8e29b7e446fbd363
+# 3d44c2783b4c48efb5420d0c11a5a7ca
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/jrush.rst:8
-# f237c1297ac04be8a6ea1bc08e772c58
+# d7deb7c353f54dcdafc885ad662da652
 msgid "This module assists in installing the jrush to your machine. It also facilitates updating with a latest version. Let us see how this modules assists in installing a jrush."
 msgstr ""
 
 #: ../../source/jrush.rst:11
-# 644cb63ef0bb476e8a0a77b18cc669d1
+# 8c393a30f23841e1bb3de961fec8c240
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/jrush.rst:13
-# bb6c798e8ce844d8a9eeb3f7a04372a8
+# b1cecc36e7cf4f99a87ecc622fa06951
 msgid "The help command guides the users regarding the purpose and as well as about the options that are included in the Jrush module. It lists out the alternative parameters of Jrush module. It also describes the syntax for installing the Jrush module. The help command for Jrush module is shown as below."
 msgstr ""
 
 #: ../../source/jrush.rst:19
-# db76369a2a4046f1a8599bbed8b9deff
+# c174df28f1dc4149a2923d774c61026a
 msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under JRush."
 msgstr ""
 
 #: ../../source/jrush.rst:44
-# 2ef64164fec840f3a26c9cf60eb9b97f
+# ca4f17f4f5f6432694ae31f66a7e461c
 msgid "Installation"
 msgstr ""
 
 #: ../../source/jrush.rst:46
-# d1b53c592a62477bac0230416012e7cc
+# 351a453c8f88443ab1ecbb66eeea8d4e
 msgid "The command used for installing the JRush to the users machine is shown below."
 msgstr ""
 
 #: ../../source/jrush.rst:52
-# 9f7b27a3c64942c8a71808d214a1d4f5
+# d1db05af83114e839f9d85f2e8300b02
 msgid "After inputting the command above, the following operations occurs as shown in the tabular format."
 msgstr ""
 
 #: ../../source/jrush.rst:57
 #: ../../source/jrush.rst:74
-# d1afc6b2adff403583ab947e4c9c087e
-# bd0e89b8035d4cb7b3dd79e3155b2e83
+# 7ace710718ad47bfbe6e1d8f29887041
+# bd6814907c424e7899829701a00a9e68
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/jrush.rst:57
-# 2fa6244c8b28454eada54502aece7f83
+# 9162b1c698d54f06b9a3a95403fd477e
 msgid "Alternative Parameter"
 msgstr ""
 
 #: ../../source/jrush.rst:57
-# 065cc1d914b941cfa8a282ffee7ea777
+# 0107d3f45e78453994de19d4c7962e6e
 msgid "Options"
 msgstr ""
 
 #: ../../source/jrush.rst:57
 #: ../../source/jrush.rst:74
-# 7f024f58810e48caba4917da376dd790
-# b7cd21e4611a4bc1a75ff7726b190c76
+# 349cbb4e00aa4d009542f90447696eef
+# 7260d017ddcf4c8898f98837ca002970
 msgid "Comments"
 msgstr ""
 
 #: ../../source/jrush.rst:59
 #: ../../source/jrush.rst:62
-# 29bdc9041fb64ca5ad813940a8733a00
-# b0bff4d165874f1390cbce79d2a42fc6
+# 9a8fe47f5fd44f49a4ee156912b61812
+# 01d8eff553fb4b4cb90d6bec985ff49f
 msgid "Install JRush - Joomla Command Line ? (Y/N)"
 msgstr ""
 
 #: ../../source/jrush.rst:59
 #: ../../source/jrush.rst:62
-# a36b7d79389c46fab03838475c3c7c3e
-# 7cf9076e9849468895080291f6aeaf8f
+# 8b5be92fb29d43f08e81b35316d54d51
+# f7277808714448b4b28c662a96cd21e4
 msgid "Instead of JRush we can use: jrush, Jrush, jRush."
 msgstr ""
 
 #: ../../source/jrush.rst:59
-# 525403a00a0b47a8a56f803a823e7c55
+# 4ce34440cd334f379114d24367b32222
 msgid "Y(Yes)"
 msgstr ""
 
 #: ../../source/jrush.rst:59
-# 430ad328d42248b1a70e42a978073a30
+# 42d662f5e6ed4cc09ff751f60c95a3d3
 msgid "If the user wish to proceed the installation process they can input as Y."
 msgstr ""
 
 #: ../../source/jrush.rst:62
-# 8fe71058839e44c29d269ae27ad931ba
+# 71f9b6e229bf47999cffd5e55f09cc63
 msgid "N(No)"
 msgstr ""
 
 #: ../../source/jrush.rst:62
-# ec3c24cf537342a6bbdba45d9ed416e3
+# 9da59f892d864a1d99d7e850d731b823
 msgid "If the user wish to quit the installation process they can input as N.|"
 msgstr ""
 
 #: ../../source/jrush.rst:68
-# 84b4283b4c864a5f8b8a85e1dea48766
+# d83b144752824ede98c6d1512c729f55
 msgid "If the user proceeds the installation process the following operations occurs as shown in the tabular format."
 msgstr ""
 
 #: ../../source/jrush.rst:74
-# b382910d9f8d4210b9a978f04b87e0bc
+# 7c1452b16dd54dc98233f756554a83f8
 msgid "Path"
 msgstr ""
 
 #: ../../source/jrush.rst:74
-# 6fdf36b14e464fddac1339d5025accfd
+# 2a6bca60078a4ca48e01a3c0941c31be
 msgid "Option"
 msgstr ""
 
 #: ../../source/jrush.rst:76
-# 60add832b8784afcb03f76fec6ba47b3
+# 7057185d00e84536bbf88c4a371b7df3
 msgid "Program data directory (Default)"
 msgstr ""
 
 #: ../../source/jrush.rst:76
-# 964a2bfe87624e38880a7628fae84556
+# ef5f59c0f71b46d3bb4764752b45809b
 msgid "\"/opt/jrush (corresponding module)"
 msgstr ""
 
 #: ../../source/jrush.rst:76
 #: ../../source/jrush.rst:83
-# 0e4bdaedf6374c3cada5da9571efd360
-# 58a1ba90aecd4481bb6034f577319bb2
+# 1980b188703b43eb8bbce83a688a0de7
+# de4b3f5ba0c749a9a06be4b412941343
 msgid "Yes"
 msgstr ""
 
 #: ../../source/jrush.rst:76
-# a01af196c7ae4896bb33b518e409584a
+# 16a577aa5b4e4016bdfad7c2a387754f
 msgid "If the user to proceed installation with the default program data directory they can input as Yes"
 msgstr ""
 
 #: ../../source/jrush.rst:79
-# 91df0d8d22634875970a82c1cf62ea3a
+# a99a9ce7cff9406cb03586d5427d785b
 msgid "Program data directory"
 msgstr ""
 
 #: ../../source/jrush.rst:79
 #: ../../source/jrush.rst:86
-# 01006542db0a41e8acaa6524a4eb5e10
-# 5b69183d5c9243d7b614d09d0f072d34
+# 6b2c65aea5a94b26b085da4ad62f95d9
+# ff46afe29c9d4bd6ba2c5e79a46bab97
 msgid "User specific"
 msgstr ""
 
 #: ../../source/jrush.rst:79
 #: ../../source/jrush.rst:86
-# ed14036bbf574b67a77e17a2587f8178
-# 8924f357564f4fe6937775bade62b626
+# df64c04a8cdb48968d3ae4c5176db8a1
+# b90b90661e764663bc8ae8ef8131bdf5
 msgid "No(End slash)"
 msgstr ""
 
 #: ../../source/jrush.rst:79
-# cf1d12f01d734ae7834e3419ecf66002
+# 56bc701466454d3d9f4328e1e2fcf2b0
 msgid "If the user wish to proceed with their own program data directory, they can input as N, and in hand specify their own location"
 msgstr ""
 
 #: ../../source/jrush.rst:83
-# 47fb3a0a68fb43ae968c8700428f0505
+# e42161b49d444e82a2cb7155a6497b06
 msgid "Program executor directory (default)"
 msgstr ""
 
 #: ../../source/jrush.rst:83
-# 57e63c19fe344a2dac9a3cf44f38a991
+# a931626e8ffe4095a077a9912d663917
 msgid "\"/usr/bin\""
 msgstr ""
 
 #: ../../source/jrush.rst:83
-# 8e0c4f1756e8431ba81517e62ba2e99a
+# e8729375b63d4e02a028fccc4cca82f7
 msgid "If the user to proceed installation with the default program executor directory they can input as Yes"
 msgstr ""
 
 #: ../../source/jrush.rst:86
-# ed7c67f54dac43ba9d2b871ac922ddf3
+# 5eeaa400c5a44179bbfd59be8fd0bb9f
 msgid "Program executor directory"
 msgstr ""
 
 #: ../../source/jrush.rst:86
-# b381677a6ba740ad9a5a50d6ab707093
+# 2023b7d5bfae48e08bf4baf89f6b7f05
 msgid "If the user wish to proceed with their own program executor directory, they can input as N, and in hand specify they own location.|"
 msgstr ""
 
 #: ../../source/jrush.rst:94
-# 366b17533daf4d31ab74674187734289
+# fc022f5bd7b64747b7a94dd543dbe1f5
 msgid "During the installation, the following process occurs:"
 msgstr ""
 
 #: ../../source/jrush.rst:96
-# 915022e42ec643f6a2c8b712a1db609d
+# 968866296c3e4210b883a4e99309a2ac
 msgid "Shows the status of receiving objects."
 msgstr ""
 
 #: ../../source/jrush.rst:97
-# 1c0df448c64d4aaf9645deea70caf312
+# 2da5d350a377403bb5a5ebb35d5d38f8
 msgid "Shows the status of resolving deltas."
 msgstr ""
 
 #: ../../source/jrush.rst:98
-# 8fcf113837774ba1850d4b4c59f1e30e
+# bdd8d24a85434ce6a430e24cae1299ae
 msgid "checks the connectivity."
 msgstr ""
 
 #: ../../source/jrush.rst:99
-# 63b2b11b8d39489ebd259da07dc760dd
+# c3384c1e8aaf4de68336850998f7ebdb
 msgid "Displays as program data folder populated."
 msgstr ""
 
 #: ../../source/jrush.rst:100
-# d65bcbdf302f40f0bb7e41b74b24ad37
+# 8fb8f08e4ad04c1e8e73996f8b767224
 msgid "deletes the program executor if already existed."
 msgstr ""
 
 #: ../../source/jrush.rst:102
-# 5b2a4acdb7254796acd94d33e0f68c9b
+# 6bbaf88a0f2346aabb352bd2757c8c93
 msgid "Finally, The installation of Jrush is completed. The following screen shot depicts the process of installing the JRush to your machine:"
 msgstr ""
 
 #: ../../source/jrush.rst:141
-# 9209eb7197f143e9a7969a20cf28b12e
+# cd038e877eaf47e9b0dabaa6c4da86dc
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/jrush.rst:143
-# 0ca6427bf8454a86948454d098d934c4
+# 8591396b29fa4503b7bd633c4ac28b80
 msgid "This module facilitates the user in installing JRush with the latest version."
 msgstr ""
 
 #: ../../source/jrush.rst:144
-# e46b28f92afc40cd9e21d9c3e6f41164
+# 726dd81d00f94d78bad57083a454af51
 msgid "The user can select their own path for program data directory and executor directory."
 msgstr ""
 
 #: ../../source/jrush.rst:145
-# c599c8b5a9d34598bc9c588dcce4a035
+# e931a2cfffdd457b95b34feaac1babef
 msgid "The parameters used in declaring the help and installations are not case sensitive, which is added advantage while compared to others."
 msgstr ""
 
 #: ../../source/jrush.rst:146
-# 1b879a386a6a437e993c5932e8676caa
+# cac4d7f64deb4317b948393456548c89
 msgid "It is well-to-do in both cent OS and as well as in ubuntu."
 msgstr ""
 
 #: ../../source/jrush.rst:147
-# fb0f8c784cff48a1bd7f1c60ef3a3f6d
+# db7a9f486591403cb974d9ecd7b1fc81
 msgid "The required status are clearly monitored during installation."
 msgstr ""
 

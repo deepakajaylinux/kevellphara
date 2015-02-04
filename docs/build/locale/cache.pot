@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 14:00+0530\n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,121 +17,121 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/cache.rst:3
-# 1e4b52da4ec54d20b18dac751479822f
+# 54aecb30eaa246d8bae3f0a5fde08f94
 msgid "Cache"
 msgstr ""
 
 #: ../../source/cache.rst:7
-# f3740b69596240a9803f5825449de682
+# d1aa2767618642648df33b7008ca6d75
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/cache.rst:9
-# cc652a72eb7243a9b0d662074cf58348
+# f77d3b0959d24ec4a7270448eb6eff80
 msgid "Jrush auxiliary to clear cache in temporary memory. It has two types of cache. But both are having different functions as specified in their name. They are site clear and admin clear. It is gratified with Ubuntu and cent OS. Deleting files, folders and applications -- and clearing the data from the temporary memory -- won't do the trick if you're going to recycle the content wont be available in your computer."
 msgstr ""
 
 #: ../../source/cache.rst:12
-# 28bff7b921ad4021b77f6ce8e6e97f33
+# ac30562cd3d44d67b4ba14a67f68e5fe
 msgid "Help command"
 msgstr ""
 
 #: ../../source/cache.rst:14
-# d2c64a4a87754d26be171eaf4e8f5c43
+# 4e1358d2bf9c4696bbf810002b3a8b74
 msgid "The help command handles the users regarding the determination and as well as about the options that are included in the cache. It lists out the alternative parameters of cache. It also describes the syntax for functioning of Jrush module. The help command for cache is shown as below."
 msgstr ""
 
 #: ../../source/cache.rst:20
-# ce00d5abe6d74df3a28ed294f4e0ae4a
+# af8d077a2e74435f91e40125bdb0b9b5
 msgid "After typing the command it lists the options as action. The following image envisage it observably."
 msgstr ""
 
 #: ../../source/cache.rst:47
-# 7eef91bdd46b4f8ba7222462f0e6aaf7
+# 3a4084483fda4f459c6691cd37c6f7ba
 msgid "Alternative parameter"
 msgstr ""
 
 #: ../../source/cache.rst:49
-# 3eb817200d59486ca77ed4e4ff997629
+# 069d711935434f3c836fa9cfc05971a5
 msgid "On the other hand using cache the user can bestow the following options."
 msgstr ""
 
 #: ../../source/cache.rst:51
-# 3a2d85a4f13b4c1a80e4d8bbde962b5b
+# 28de5ebf82ee43a3ad45d43a6c6e7670
 msgid "Cache, cache."
 msgstr ""
 
 #: ../../source/cache.rst:54
-# a5973bd2222d45458674ae0ad8d8ccfe
+# 93f0c3cd95874af6a340bedeccc8316a
 msgid "Options"
 msgstr ""
 
 #: ../../source/cache.rst:56
-# d07b357ce43a40b2b61c5c26f7ce4ee5
+# cf4e13b4e1264c4d83313df21a40a58b
 msgid "There are two options are available. They are as follows."
 msgstr ""
 
 #: ../../source/cache.rst:58
 #: ../../source/cache.rst:64
-# 047b1eb992ff4aabb875ae95af336a31
-# 369e44feb9bb4619b1502388d8ea59e8
+# fe5ee5bc8f994e9ca62fa12bd5f93925
+# fdec60bc85574e42ae3d9ce988a88ca1
 msgid "Site-clear"
 msgstr ""
 
 #: ../../source/cache.rst:59
 #: ../../source/cache.rst:98
-# 89b7eca857ba493ca71ee0f0f9e16633
-# e50e0bffd2d0410b9de16076525bb7c6
+# 35a8872cd9e4487a97cfbbc63bcc39e5
+# 7cf21095a9b94115a110d5964ddbe999
 msgid "Admin-clear"
 msgstr ""
 
 #: ../../source/cache.rst:61
-# fc7cd7afcb714c4d9df1bcd875117cc6
+# 059b42d8a0df480497c117231abd3387
 msgid "Now let us know about both the options."
 msgstr ""
 
 #: ../../source/cache.rst:66
-# c64d50f9be18417caf4bc154c931d5c8
+# 990a81be834f4584ba5fbc78cb85535b
 msgid "Site-clear is costoff to delete the user. The following command is used to clear the site."
 msgstr ""
 
 #: ../../source/cache.rst:72
-# 73ac6d6ede5e4c27a3508e895ca7aa2a
+# 32d62a1f32684d6097e6b0201bea266a
 msgid "After inputs as above command,the output comes like a coding. At the end  cache clearing finished can be shown. The screen shots presents the same."
 msgstr ""
 
 #: ../../source/cache.rst:100
-# f2be88f83ead4615b7929afa280c1986
+# a0ec0d78ae044cdfbb293b5d41d1eed0
 msgid "This worn clear the administrator’s cache. The command services the user to clear the admin as follows."
 msgstr ""
 
 #: ../../source/cache.rst:106
-# f81845bc3ee840568c5cd3d6e3bf2d8d
+# d4c5460f12db4d27aa49b111b1b6b726
 msgid "The following display shots instruct the user about admin-clear function."
 msgstr ""
 
 #: ../../source/cache.rst:133
-# 651d66d0336a45e0805d00f632b26169
+# 89a9bd9deba44a298367be730fbe16bf
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/cache.rst:135
-# d2d27634e4a64b8d98c10947167d6b30
+# 74cb0b10c51f4fac858d61f4a160db08
 msgid "It complacent to exertion with Ubuntu and cent OS."
 msgstr ""
 
 #: ../../source/cache.rst:136
-# c72857215b784ade95657d96b1dd21a5
+# 004321640cea4a75aed673ca3300e769
 msgid "Non case sensitivity."
 msgstr ""
 
 #: ../../source/cache.rst:137
-# 06f465bd51524c9fa3e564a9b575bfec
+# 14a0fa2ca19a43ebb0c40656598c21c8
 msgid "It pre-owned to delete the user."
 msgstr ""
 
 #: ../../source/cache.rst:138
-# 8c4a79c36d0c4001b403126e2ffb32ec
+# a89610a9c9ba4977b8b86a090bc083c1
 msgid "It helps clear admin."
 msgstr ""
 

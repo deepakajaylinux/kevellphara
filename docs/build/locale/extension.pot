@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 14:00+0530\n"
+"POT-Creation-Date: 2015-02-04 18:03+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,138 +17,138 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/extension.rst:3
-# 273fd0a9883f43fa9c6676c4fa63a2d6
+# 48da77bd18654e2ab5e5792709bb811c
 msgid "Extension"
 msgstr ""
 
 #: ../../source/extension.rst:6
-# 155c66444376485fb596e6feb4504859
+# c5a410162b7e4df3ab9a1196cdaf658b
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/extension.rst:8
-# 4507a87973c94f3ebf7ca0c0e9fcc742
+# 8421ed4392234b6d89980dd340986504
 msgid "Extension have to be identified so the operating system can address them. These filenames have specific rules. The first part of the name to the left of the period is called the root name. The root name cannot be the same as a device name. The second part to the right of the period is the extension. It is optional and is often, but not necessarily, three characters long. Extension can be added through coding. It strengthened to swindle with Ubuntu and cent OS."
 msgstr ""
 
 #: ../../source/extension.rst:11
-# 9228727703c24afd9eb90e0f152360b0
+# 901fa1d15d7844108c20f6bdf39bf039
 msgid "Help command"
 msgstr ""
 
 #: ../../source/extension.rst:13
-# 3ba3ae4f33db4fde812ff5023e44480f
+# 08174963de91470dae789d29ce38b270
 msgid "The help command guides the users regarding the purpose and as well as about the options that are included in the extension. It lists out the alternative parameters of extension. It also describes the syntax for functioning of Jrush module. The help command for extension is shown as below."
 msgstr ""
 
 #: ../../source/extension.rst:19
-# 2d8143a8b5cb4706b3ed53df2c469917
+# 65fbe1c23a374f5c84c9f1ac8c0e0081
 msgid "After typing the command it lists the options as action. The following image visualize it obviously."
 msgstr ""
 
 #: ../../source/extension.rst:52
-# 19870c75dfd14eb093a3b1a100e8f54b
+# d98ea6b5dc3d449382cdfe9d84bb377c
 msgid "Alternative parameter"
 msgstr ""
 
 #: ../../source/extension.rst:54
-# e67dfb82d8a14706bfabe5b37c14d74c
+# 17729fa3806347c5b35bc520ca49e08f
 msgid "As a matter of choice using extension the user can make use of the following options. Extension, extension"
 msgstr ""
 
 #: ../../source/extension.rst:58
-# f43b0a13c5f5411f851f8dfdea486880
+# a2e6ded351944e6aa43a3334e37b0e3d
 msgid "Options"
 msgstr ""
 
 #: ../../source/extension.rst:60
-# 10cbd61397fc421880780104ec189e6c
+# 207a9bc063544caeaefff9964a124737
 msgid "There are three options are available. Let us see about the extension option."
 msgstr ""
 
 #: ../../source/extension.rst:62
 #: ../../source/extension.rst:102
-# a2ef4bd79544488a97c1035482270a9b
-# bddaada2e2354d7ebb2375317e5d89cf
+# 94e1154b25704327a3be830f932653ac
+# 146eef19e07e476c91d7902f57fbd670
 msgid "Enable"
 msgstr ""
 
 #: ../../source/extension.rst:63
 #: ../../source/extension.rst:67
-# b2a11dbe16074c249fec78d1dea33755
-# 64c9344b6f9a46619737030cf28116e5
+# 4ff471daaae248e88289b57e9cd00fba
+# a63daa26b02f4e9c9dcf359604a3a8ba
 msgid "Disable"
 msgstr ""
 
 #: ../../source/extension.rst:64
 #: ../../source/extension.rst:138
-# 9999d14bbee442bca127d50b91b2e57e
-# c147daf88ea44144a3baca59c5429180
+# fef10fb91fb346c6995daa73b3f9a707
+# d9878e1607c242daa8f20c623af14846
 msgid "Info"
 msgstr ""
 
 #: ../../source/extension.rst:69
-# 2891307d6b53436bb5581f9197747aa2
+# edd51edd67ef43ee9c7a2e20c7e72746
 msgid "When the user input as enable automatically It deletes the extension. The following command used to enable."
 msgstr ""
 
 #: ../../source/extension.rst:75
-# 992fce2dba654f2ab7d082f80c64627c
+# 0b74469475024e95b813d1f7c731b340
 msgid "The following mantle shot can visualize its function."
 msgstr ""
 
 #: ../../source/extension.rst:104
-# 80a8ace97f744e5c9b3d1f832e48a618
+# a21c7e49cfb0401da05532bef6888936
 msgid "Enable uses to enable the extension. The following command help the user to enable."
 msgstr ""
 
 #: ../../source/extension.rst:110
-# 823875f3b50e4af5a8746395321ab5f5
+# 0a4ee75235ab4b6c8c870f39843e2a0a
 msgid "The following screen shots guides the user to enable its function."
 msgstr ""
 
 #: ../../source/extension.rst:140
-# cd286a389bfb440887cb0675121597f2
+# 50f809778a854bc1889cef1b57bce9f1
 msgid "Info is an aid to help the user to display the details of expansion. It asks for extension id. After enters the value it display the extension details. The following command used to display information."
 msgstr ""
 
 #: ../../source/extension.rst:146
-# c52dbbd646374dc287be16fc907a4aad
+# 4fcafee1da0c4d229555efb07e810da5
 msgid "It can be visualizes by the screenshot."
 msgstr ""
 
 #: ../../source/extension.rst:172
-# 9ff8c7b78d6a41d7bc935e41757aa3ae
+# 9dce3596ed2e41f6a554469bfa08f2b8
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/extension.rst:174
-# 0f5a412d635a4033a2bf2740e8ad599f
+# 1c2bb1e4102243119dc4895017d4e779
 msgid "Extensions can be considered a type of metadata."
 msgstr ""
 
 #: ../../source/extension.rst:175
-# 5f6c52132ab04b1788e42a915a069488
+# 3f9c9421e2654e90a84a5511aaad81e6
 msgid "Multiple applications to be associated with a given extension."
 msgstr ""
 
 #: ../../source/extension.rst:176
-# aef93784c78f4a929edae4573dac73a0
+# 4df6c36ca8ba45928038e863b5bd3157
 msgid "Non case sensitive"
 msgstr ""
 
 #: ../../source/extension.rst:177
-# 9f47f2af15494c0ba3436ec1b963dbb0
+# 56ddf5fcada440c5972a90f0ff19b568
 msgid "Comfortable with Ubuntu and cent OS."
 msgstr ""
 
 #: ../../source/extension.rst:178
-# 9ab59888466a488aa9a023af130cf2a2
+# e1c18c29988c45f7b2ec1261ee4a767b
 msgid "Uses to delete the extension"
 msgstr ""
 
 #: ../../source/extension.rst:179
-# 33d0ff37b4b2419f83ee56baec6eb8e4
+# 033122553185415c8bb641ef7cb2175a
 msgid "Info uses to display information about extension."
 msgstr ""
 

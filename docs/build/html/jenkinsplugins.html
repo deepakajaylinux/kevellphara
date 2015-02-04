@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>JenkinsPlugins &mdash; KEVELL 0.1 Dokumentation</title>
+    <title>JenkinsPlugins &mdash; KEVELL 0.1 documentation</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -25,13 +25,12 @@
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
-    <script type="text/javascript" src="_static/translations.js"></script>
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
-    <link rel="top" title="KEVELL 0.1 Dokumentation" href="index.html" />
+    <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
     <link rel="up" title="Cleopatra" href="cleopatra.html" />
-    <link rel="next" title="Jmeter" href="jmeter.html" />
+    <link rel="next" title="JenkinsSudoNoPass" href="jenkinssudonoPass.html" />
     <link rel="prev" title="Jenkins" href="jenkins.html" />
 
 
@@ -102,9 +101,9 @@
           
             
   <li><a href="jenkins.html"
-         title="vorheriges Kapitel">&laquo; Jenkins</a></li>
-  <li><a href="jmeter.html"
-         title="nächstes Kapitel">Jmeter &raquo;</a></li>
+         title="previous chapter">&laquo; Jenkins</a></li>
+  <li><a href="jenkinssudonoPass.html"
+         title="next chapter">JenkinsSudoNoPass &raquo;</a></li>
           
           
           <!--  <li>
@@ -128,14 +127,14 @@
   
   
   <div class="section" id="jenkinsplugins">
-<h1>JenkinsPlugins<a class="headerlink" href="#jenkinsplugins" title="Permalink zu dieser Überschrift">¶</a></h1>
+<h1>JenkinsPlugins<a class="headerlink" href="#jenkinsplugins" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="synopsis">
-<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
 <p>Jenkins is popular to build server. Jenkins is an open source continuous integration tool written in Java. Jenkins provides continuous integration services for software development.</p>
 <p>Plugins have been released for Jenkins that extend its use to projects written in languages other than Java. Plugins are available for integrating Jenkins with most version control systems and big databases. Many build tools are supported via their respective plugins. Plugins can also change the way Jenkins looks or add new functionality. Builds can generate test reports in various formats supported by plugins (JUnit support is currently bundled) and Jenkins can display the reports and generate trends and render them in the GUI.</p>
 </div>
 <div class="section" id="help-command">
-<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>This command helps to determine the usage of JenkinsPlugins module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same.</p>
 <div class="highlight-bash"><div class="highlight"><pre>               cleopatra JenkinsPlugins <span class="nb">help</span>
 
@@ -145,12 +144,12 @@ kevells@corp:/# cleopatra JenkinsPlugins <span class="nb">help</span>
 
 
  This <span class="nb">command </span>allows you to install a bunch of plugins that we recommend <span class="k">for</span>
- PHP builds in Jenkins.
+<span class="k"> </span>PHP builds in Jenkins.
 
  JenkinsPlugins, jenkinsplugins, jenkins-plugins, jenkins-plugs
 
        - install
-       Installs the latest version of Jenkins Plugins <span class="k">for</span> PHP recommended by Golden Contact
+       Installs the latest version of Jenkins Plugins <span class="k">for </span>PHP recommended by Golden Contact
        example: cleopatra jenkins-plugins install
 
 ------------------------------
@@ -160,7 +159,7 @@ End Help
 </div>
 </div>
 <div class="section" id="installation">
-<h2>Installation<a class="headerlink" href="#installation" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
 <blockquote>
 <div>This command allows you to install a bunch of plugins that we recommend for
 PHP builds in Jenkins. If the user needs to install Jenkins module in machine, the below given command will execute the process of installation.</div></blockquote>
@@ -175,12 +174,12 @@ Y
 *         Jenkns Plgs!        *
 *******************************
 Creating /tmp/cleopatra-temp-script-80223312434.sh
-chmod <span class="m">755</span> /tmp/cleopatra-temp-script-80223312434.sh 2&gt;/dev/null
+chmod 755 /tmp/cleopatra-temp-script-80223312434.sh 2&gt;/dev/null
 Changing /tmp/cleopatra-temp-script-80223312434.sh Permissions
 Executing /tmp/cleopatra-temp-script-80223312434.sh
 Cloning into <span class="s1">&#39;jplugins&#39;</span>...
 remote: Counting objects: 39, <span class="k">done</span>.
-remote: Total <span class="m">39</span> <span class="o">(</span>delta 0<span class="o">)</span>, reused <span class="m">0</span> <span class="o">(</span>delta 0<span class="o">)</span>
+remote: Total 39 <span class="o">(</span>delta 0<span class="o">)</span>, reused 0 <span class="o">(</span>delta 0<span class="o">)</span>
 Unpacking objects: 100% <span class="o">(</span>39/39<span class="o">)</span>, <span class="k">done</span>.
 Checking connectivity... <span class="k">done</span>.
 chown: invalid user: ‘jenkins’
@@ -188,7 +187,7 @@ jenkins: unrecognized service
 Temp File /tmp/cleopatra-temp-script-80223312434.sh Removed
 ... All <span class="k">done</span>!
 *******************************
-Thanks <span class="k">for</span> installing , visit www.pharaohtools.com <span class="k">for</span> more
+Thanks <span class="k">for </span>installing , visit www.pharaohtools.com <span class="k">for </span>more
 ******************************
 
 
@@ -202,7 +201,7 @@ Installer Finished
 </div>
 </div>
 <div class="section" id="options">
-<h2>Options<a class="headerlink" href="#options" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Options<a class="headerlink" href="#options" title="Permalink to this headline">¶</a></h2>
 <table border="1" class="table-bordered docutils">
 <colgroup>
 <col width="23%" />
@@ -250,7 +249,7 @@ installation process</td>
 </table>
 </div>
 <div class="section" id="benefits">
-<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
 <li>The plugin will give you a report on how much every plugin will be used in all of your jobs . Therefore it will analyze the used extension points of each job.</li>
 <li>This plugin gives you the possibility to analyze the usage of your installed plugins.</li>
@@ -290,7 +289,7 @@ installation process</td>
     </p>
     <p>
         &copy; Copyright 2015, kevell.<br/>
-      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2.3.<br/>
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2.2.<br/>
     </p>
   </div>
 </footer>

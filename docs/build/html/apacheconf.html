@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>ApacheConf &mdash; KEVELL 0.1 Dokumentation</title>
+    <title>ApacheConf &mdash; KEVELL 0.1 documentation</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -25,11 +25,10 @@
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
-    <script type="text/javascript" src="_static/translations.js"></script>
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
-    <link rel="top" title="KEVELL 0.1 Dokumentation" href="index.html" />
+    <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
     <link rel="up" title="Cleopatra" href="cleopatra.html" />
     <link rel="next" title="Apache Module" href="ApacheModules.html" />
     <link rel="prev" title="Cleopatra" href="cleopatra.html" />
@@ -101,9 +100,9 @@
           
             
   <li><a href="cleopatra.html"
-         title="vorheriges Kapitel">&laquo; Cleopatra</a></li>
+         title="previous chapter">&laquo; Cleopatra</a></li>
   <li><a href="ApacheModules.html"
-         title="nächstes Kapitel">Apache Module &raquo;</a></li>
+         title="next chapter">Apache Module &raquo;</a></li>
           
           
           <!--  <li>
@@ -127,13 +126,13 @@
   
   
   <div class="section" id="apacheconf">
-<h1>ApacheConf<a class="headerlink" href="#apacheconf" title="Permalink zu dieser Überschrift">¶</a></h1>
+<h1>ApacheConf<a class="headerlink" href="#apacheconf" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="synopsis">
-<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
 <p>This module assists in managing and installing the Apache configuration. It specifies the configuration of your environment. It is well-to-do in ubuntu and as well as in Cent OS.</p>
 </div>
 <div class="section" id="help-command">
-<h2>Help command<a class="headerlink" href="#help-command" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>The help command describes about the purpose and the commands available under this modules. It also explains the command to install the particular module.
 It lists out the alternative parameters that can be used for declaration. The command used for declaring help is shown as below:</p>
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra apacheconf <span class="nb">help</span>
@@ -144,13 +143,13 @@ It lists out the alternative parameters that can be used for declaration. The co
 ******************************
 
 
- This module lets you install a configuration <span class="k">for</span> Apache HTTP Server. The only commands available are this <span class="nb">help</span>
+ This module lets you install a configuration <span class="k">for </span>Apache HTTP Server. The only commands available are this <span class="nb">help</span>
 <span class="nb"> </span>and install.
 
  ApacheConf, apache-configure, apache-configuration, apache-conf, apacheconf
 
        - install
-       Installs a configuration <span class="k">for</span> Apache
+       Installs a configuration <span class="k">for </span>Apache
        example: cleopatra apacheconf install
 
 ------------------------------
@@ -160,7 +159,7 @@ End Help
 </div>
 </div>
 <div class="section" id="installation">
-<h2>Installation<a class="headerlink" href="#installation" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
 <p>It is easier to install this particular tool under Cleopatra by simply using the command given below,</p>
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra apacheconf install
 </pre></div>
@@ -179,21 +178,21 @@ y
 *        Pharaoh Tools        *
 *         Apache Conf!        *
 *******************************
-Set non-default value <span class="k">for</span> LockFile? Default is <span class="si">${</span><span class="nv">APACHE_LOCK_DIR</span><span class="si">}</span>/accept.lock <span class="o">(</span>Y/N<span class="o">)</span>
+Set non-default value <span class="k">for </span>LockFile? Default is <span class="k">${</span><span class="nv">APACHE_LOCK_DIR</span><span class="k">}</span>/accept.lock <span class="o">(</span>Y/N<span class="o">)</span>
 
-Set non-default value <span class="k">for</span> PidFile? Default is <span class="si">${</span><span class="nv">APACHE_PID_FILE</span><span class="si">}</span> <span class="o">(</span>Y/N<span class="o">)</span>
+Set non-default value <span class="k">for </span>PidFile? Default is <span class="k">${</span><span class="nv">APACHE_PID_FILE</span><span class="k">}</span> <span class="o">(</span>Y/N<span class="o">)</span>
 
-Set non-default value <span class="k">for</span> Timeout? Default is <span class="m">300</span> <span class="o">(</span>Y/N<span class="o">)</span>
+Set non-default value <span class="k">for </span>Timeout? Default is 300 <span class="o">(</span>Y/N<span class="o">)</span>
 
-Set non-default value <span class="k">for</span> KeepAlive? Default is On <span class="o">(</span>Y/N<span class="o">)</span>
+Set non-default value <span class="k">for </span>KeepAlive? Default is On <span class="o">(</span>Y/N<span class="o">)</span>
 
-Set non-default value <span class="k">for</span> MaxKeepAliveRequests? Default is <span class="m">100</span> <span class="o">(</span>Y/N<span class="o">)</span>
+Set non-default value <span class="k">for </span>MaxKeepAliveRequests? Default is 100 <span class="o">(</span>Y/N<span class="o">)</span>
 
-Set non-default value <span class="k">for</span> KeepAliveTimeout? Default is <span class="m">5</span> <span class="o">(</span>Y/N<span class="o">)</span>
+Set non-default value <span class="k">for </span>KeepAliveTimeout? Default is 5 <span class="o">(</span>Y/N<span class="o">)</span>
 
 ... All <span class="k">done</span>!
 *******************************
-Thanks <span class="k">for</span> installing , visit www.pharaohtools.com <span class="k">for</span> more
+Thanks <span class="k">for </span>installing , visit www.pharaohtools.com <span class="k">for </span>more
 ******************************
 
 
@@ -240,7 +239,7 @@ exit.|</td>
 </table>
 </div>
 <div class="section" id="benefits">
-<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink zu dieser Überschrift">¶</a></h2>
+<h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
 <blockquote>
 <div><ul class="simple">
 <li>The module assists the end user in installing and managing the configuration of Apache.</li>
@@ -283,7 +282,7 @@ exit.|</td>
     </p>
     <p>
         &copy; Copyright 2015, kevell.<br/>
-      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2.3.<br/>
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2.2.<br/>
     </p>
   </div>
 </footer>

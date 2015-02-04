@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,119 +17,119 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/cleo.rst:3
-# de00c7dfe1614e6984379de4584f31bd
+# 172fce61cdf04479afa782a03305207c
 msgid "Cleopatra"
 msgstr ""
 
 #: ../../source/cleo.rst:6
-# 2a4a3af6b0854cf1b312d593cc1b67f3
+# 216b29a95bc84eecad8cc3acbba48445
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/cleo.rst:8
-# f45539b8da4b4f349feebf8319a71b22
+# 6ced720c8c604a3db8e4ed3f639cfa43
 msgid "This module lift installation in updated version. Automation is possible. Location for data directory and executor directory can be specified while installing in this module. It specifies the configuration of your environment. It is user friendly with Ubuntu and cent OS."
 msgstr ""
 
 #: ../../source/cleo.rst:11
-# 02fc9e4fd6c440b39f7b57c578402bd0
+# dd4724dfaf4c42f496a7498cf8ce6aa6
 msgid "Help command"
 msgstr ""
 
 #: ../../source/cleo.rst:12
-# 3d95befa55424ebe95a9bf2d27b524e7
+# fbddc4fefec840f488e40ebe21bca13b
 msgid "This help command guide the user about Cleopatra. Suitable for all type of user. It depicts the alternative parameters and commands for installation. The following help command and the screenshot will assist the user regarding the usage."
 msgstr ""
 
 #: ../../source/cleo.rst:39
-# fe9c61bc7b8646bf819dca70c5ac7595
+# 415ee268a31f4551aede85c1e9c4e160
 msgid "Installation"
 msgstr ""
 
 #: ../../source/cleo.rst:40
-# e4a30bd68f7249c2830954cd4261c361
+# de5a2249279647e1970afaa7f5a3ee4b
 msgid "It is a simplier process to install Cleopatra module by just using the command given below,"
 msgstr ""
 
 #: ../../source/cleo.rst:46
-# e9cf0705e9244eeba235e03972db75bf
+# f21fd0ac6c58460f8cb776e612cc1b6c
 msgid "After giving the command the Cleopatra will be installed with new updates."
 msgstr ""
 
 #: ../../source/cleo.rst:48
-# c1288c14836547cdb8f3f5c8b55cabc5
+# e5c23a6d67d64af6bfd483d78dc3329f
 msgid "After the user input has passed it will check if any file is missing and in hand it will install automatically."
 msgstr ""
 
 #: ../../source/cleo.rst:50
-# e3b548fd5f9c4b53a55851844a41d443
+# ee279b86ac5348bcaad1c0354313637b
 msgid "The following screen shot enumerate it."
 msgstr ""
 
 #: ../../source/cleo.rst:93
-# 58ca264e82f145fd813ff1f4179ae437
+# e773d55c0dee465ab6921a03aa1af193
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/cleo.rst:93
-# c4f51a993e384f8e896409012e5dfe5e
+# 61ab27427e0d4a9a9a8ea679c7bddf50
 msgid "option"
 msgstr ""
 
 #: ../../source/cleo.rst:93
-# 40bcfe5d265e42be8af6d231e09585a6
+# c38c06e5fed4489996f26fc0a13846bb
 msgid "Comments"
 msgstr ""
 
 #: ../../source/cleo.rst:95
 #: ../../source/cleo.rst:99
-# defcc0b3ca9b4821baed9f151cceecd0
-# 7893a0cd000c43969993e674a6377bed
+# 88037a6f38b04241b72952c5019dcb4e
+# fcb916245ee34b1082921e93057b0b5c
 msgid "Install cleopatra cleopatra Update to latest version? (Y/N)"
 msgstr ""
 
 #: ../../source/cleo.rst:95
-# 4a0b1962fd8f4933a380116826946608
+# 030e05f01f3f489fbad64af320d93275
 msgid "Y(YES)"
 msgstr ""
 
 #: ../../source/cleo.rst:95
-# b91f7310d3fd484eb109cdf8bde2caed
+# 3a6089dd17c041509866a28fb3c10fa3
 msgid "It will install Cleopatra"
 msgstr ""
 
 #: ../../source/cleo.rst:97
-# dc21e985674d4bb5a6a10a57a59cce1f
+# b26a8622b795499abd0be7606993b2ed
 msgid "under Cleopatra"
 msgstr ""
 
 #: ../../source/cleo.rst:101
-# 7b5f2d1c8fd246c2a6f569a54f4d6c37
+# bed496022d2a42eb96d173a2db907029
 msgid "N(NO)"
 msgstr ""
 
 #: ../../source/cleo.rst:101
-# 2101ecae1aac4fb5b2364ea05a316b77
+# 3ee2d1183c2b4313b1b3cf7461412489
 msgid "It will exit from installation|"
 msgstr ""
 
 #: ../../source/cleo.rst:105
-# a7829bdd5d3241d68b7603b28809ae21
+# 089378bd650e4f67b953aa84635fcc1e
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/cleo.rst:107
-# bc2c40f059424d709fb00a64313f255c
+# 82e08d15415d4ffc890ff8b977d41e24
 msgid "Cleopatra is used to install configuration file. While installing if there is any file is existing overwrite the content."
 msgstr ""
 
 #: ../../source/cleo.rst:108
-# 59a6583539254b41940b41a2e9861f6b
+# 706f3db2af184a2e86353ca4d92aebd0
 msgid "New version can update automatically."
 msgstr ""
 
 #: ../../source/cleo.rst:109
-# 449c08e35d2a49f19afb3a9da8fc20ad
+# f0e0f43b4aee4dbeaebee1243532d3f8
 msgid "Updation can be done in this module without web search."
 msgstr ""
 

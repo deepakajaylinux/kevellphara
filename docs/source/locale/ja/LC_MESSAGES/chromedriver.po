@@ -1,0 +1,149 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/chromedriver.rst:3
+msgid "ChromeDriver"
+msgstr ""
+
+#: ../../source/chromedriver.rst:6
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/chromedriver.rst:8
+msgid ""
+"This module allows the users to install few GC recommended Standard tools "
+"which includes curl, vim, drush, and zip. To get the chrome installed the "
+"user needs java to get installed. Let us see about how to use this  and how "
+"to install the  in upcoming topics."
+msgstr ""
+
+#: ../../source/chromedriver.rst:11
+msgid "Help Command"
+msgstr ""
+
+#: ../../source/chromedriver.rst:13
+msgid ""
+"The help command leads the users regarding the purpose and as well as about "
+"the options that are included in the Chrome driver module. The help command "
+"lists out the alternative parameters of Chrome driver module. It also "
+"describes the syntax for installing Chrome driver module. The help command "
+"for Chrome driver module is shown as below."
+msgstr ""
+
+#: ../../source/chromedriver.rst:20
+msgid ""
+"The syntax for declaring the help command is not case sensitive which is an "
+"added advantage. The following screenshot visualize you about the help "
+"command under Chrome driver."
+msgstr ""
+
+#: ../../source/chromedriver.rst:47
+msgid "Installation"
+msgstr ""
+
+#: ../../source/chromedriver.rst:49
+msgid ""
+"Installing the chrome driver to your machine, can be done simply by using "
+"the following command as shown:"
+msgstr ""
+
+#: ../../source/chromedriver.rst:56
+msgid ""
+"After inputting the command above, the following operations occurs as shown "
+"in the tabular format."
+msgstr ""
+
+#: ../../source/chromedriver.rst:62
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/chromedriver.rst:62
+msgid "Alternative Parameters"
+msgstr ""
+
+#: ../../source/chromedriver.rst:62
+msgid "Options"
+msgstr ""
+
+#: ../../source/chromedriver.rst:62
+msgid "Comments"
+msgstr ""
+
+#: ../../source/chromedriver.rst:64 ../../source/chromedriver.rst:68
+msgid "Install ChromeDriver Server? (Y/N)"
+msgstr ""
+
+#: ../../source/chromedriver.rst:64 ../../source/chromedriver.rst:68
+msgid ""
+"Instead of chromedriver, we can use ChromeDriver, chromedriver-server, "
+"chromedriver-srv, chromedriverserver also"
+msgstr ""
+
+#: ../../source/chromedriver.rst:64
+msgid "Y(Yes)"
+msgstr ""
+
+#: ../../source/chromedriver.rst:64
+msgid ""
+"If the user wish to proceed the installation process they can input as Y."
+msgstr ""
+
+#: ../../source/chromedriver.rst:68
+msgid "N(No)"
+msgstr ""
+
+#: ../../source/chromedriver.rst:68
+msgid ""
+"If the user wish to quit the installation process they can input as N.|"
+msgstr ""
+
+#: ../../source/chromedriver.rst:76
+msgid ""
+"If the user proceeds the installation process, during execution of "
+"installation, the process asks the user to"
+msgstr ""
+
+#: ../../source/chromedriver.rst:83
+msgid "The list of chrome driver versions that are available is given below:"
+msgstr ""
+
+#: ../../source/chromedriver.rst:100
+msgid ""
+"The user has to specify the numbers from 0 through 11 depending on their "
+"requirements of version."
+msgstr ""
+
+#: ../../source/chromedriver.rst:102
+msgid ""
+"After the user specifying the version, the process of installation begins "
+"and gets completed as pictorially depicted from the following screen shot."
+msgstr ""
+
+#: ../../source/chromedriver.rst:160
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/chromedriver.rst:162
+msgid ""
+"The parameters used for declaring help command, installation are not case "
+"sensitive which is an added advantage while compared to others."
+msgstr ""
+
+#: ../../source/chromedriver.rst:163
+msgid "It is well-to-do in both Cent OS and as well as in Ubuntu."
+msgstr ""
+
+#: ../../source/chromedriver.rst:164
+msgid ""
+"The user can specify the version they wish to install while installing."
+msgstr ""

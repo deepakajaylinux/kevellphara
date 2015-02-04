@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,141 +17,141 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/chromedriver.rst:3
-# 74b2e4c4fbec4d4983aff7da7cd56011
+# 635bd38350054486b37ce7c688acd966
 msgid "ChromeDriver"
 msgstr ""
 
 #: ../../source/chromedriver.rst:6
-# 4a11236934f34dcdb0de566f8fa1ec6c
+# 34a1a00fd78c4541be1f41906739a633
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/chromedriver.rst:8
-# a8ed544d787b4d78ad63e3ab1542a053
+# cac1724d477747b5974acc368f3a23a1
 msgid "This module allows the users to install few GC recommended Standard tools which includes curl, vim, drush, and zip. To get the chrome installed the user needs java to get installed. Let us see about how to use this  and how to install the  in upcoming topics."
 msgstr ""
 
 #: ../../source/chromedriver.rst:11
-# a3155c7cedf94fdbbb6bcc5dc696a1dd
+# 20cb559d337d4c9d99d4ee46a563580e
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/chromedriver.rst:13
-# 2fbf6d20a24b4bd68f69c1842e2f61ef
+# e09fd0df48004ac6920c56a83e4db6a2
 msgid "The help command leads the users regarding the purpose and as well as about the options that are included in the Chrome driver module. The help command lists out the alternative parameters of Chrome driver module. It also describes the syntax for installing Chrome driver module. The help command for Chrome driver module is shown as below."
 msgstr ""
 
 #: ../../source/chromedriver.rst:20
-# eda0182f6c134bff9beeca499d5140ba
+# 4290dbc8d99e4bf48fe9669656c843ab
 msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under Chrome driver."
 msgstr ""
 
 #: ../../source/chromedriver.rst:47
-# af1113a71a6d4ccd86716e80b3b7bcda
+# 674aaf26bbb249809c91bc94e5edd71c
 msgid "Installation"
 msgstr ""
 
 #: ../../source/chromedriver.rst:49
-# e53e00bde12f4bb8b8952504b93db158
+# 2acbf9a7e9854d0e80affc0e227815c9
 msgid "Installing the chrome driver to your machine, can be done simply by using the following command as shown:"
 msgstr ""
 
 #: ../../source/chromedriver.rst:56
-# a0b191383d7643488c3e4331fa101f87
+# 63b7f64ac9d948fd854de43ad16eb071
 msgid "After inputting the command above, the following operations occurs as shown in the tabular format."
 msgstr ""
 
 #: ../../source/chromedriver.rst:62
-# d2b9d984fe2943d0ad3cef4541270ddb
+# 7736df7fb3cf44d19db00ab65db0a140
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/chromedriver.rst:62
-# 6f3768321a70440985fc76982d56bc34
+# d9d5fc0924cb43fd9d8372fadddc5f5a
 msgid "Alternative Parameters"
 msgstr ""
 
 #: ../../source/chromedriver.rst:62
-# 30779e1c93814a33b71d208312efed8a
+# b2bdf1b9df9c4777b3c0c390e7388d02
 msgid "Options"
 msgstr ""
 
 #: ../../source/chromedriver.rst:62
-# 22bc007b6dd74278bf0b0319ed0789a9
+# 967f2253aa334bf2949acda06560b1ed
 msgid "Comments"
 msgstr ""
 
 #: ../../source/chromedriver.rst:64
 #: ../../source/chromedriver.rst:68
-# 67ecbe56f2444c20a624da6a994c5fd3
-# 706ced63d3d14d9dbe0619ab053e3e54
+# 6f0e0256eea545109f9d05c49d35d10f
+# 11bc69dc37084037ac7c1d2d9d969c65
 msgid "Install ChromeDriver Server? (Y/N)"
 msgstr ""
 
 #: ../../source/chromedriver.rst:64
 #: ../../source/chromedriver.rst:68
-# 6edcda35d8a54c97ae5c18662855666a
-# 511ef484d7bb430092c8744e42de2188
+# 6996a43b2c04454381af66d67162cdb2
+# 5694f7d4c2984d80a15bdf207c1dd568
 msgid "Instead of chromedriver, we can use ChromeDriver, chromedriver-server, chromedriver-srv, chromedriverserver also"
 msgstr ""
 
 #: ../../source/chromedriver.rst:64
-# 97b53c811ea645b29e2126f77bf1b9cf
+# 809b52e555464a20b593e2198bf216d0
 msgid "Y(Yes)"
 msgstr ""
 
 #: ../../source/chromedriver.rst:64
-# aa872d7cf5664971ae151db80ea36e30
+# a7b2424794dc41e4bea1b4bd2e3793fc
 msgid "If the user wish to proceed the installation process they can input as Y."
 msgstr ""
 
 #: ../../source/chromedriver.rst:68
-# 8bfb5054ce1e419294c06cda319aac93
+# b2681b24ee2c44559775044c3a42a286
 msgid "N(No)"
 msgstr ""
 
 #: ../../source/chromedriver.rst:68
-# 238fed091266499ea741af7c0d605356
+# 56b4ea52b47c4c818b37a423389a0fd6
 msgid "If the user wish to quit the installation process they can input as N.|"
 msgstr ""
 
 #: ../../source/chromedriver.rst:76
-# 04c2ea1d1b904625aa1754c3cd8542ca
+# 7dd65c9b6aeb4c66b40913667a8260ed
 msgid "If the user proceeds the installation process, during execution of installation, the process asks the user to"
 msgstr ""
 
 #: ../../source/chromedriver.rst:83
-# fe0813b9281f40f2896ff8f020aa83e6
+# 39401d6dd2324b238739c96887664844
 msgid "The list of chrome driver versions that are available is given below:"
 msgstr ""
 
 #: ../../source/chromedriver.rst:100
-# 06e0a22634fa4a19a225d579e6898ac9
+# fc59627c011d4fad925407294c2a735c
 msgid "The user has to specify the numbers from 0 through 11 depending on their requirements of version."
 msgstr ""
 
 #: ../../source/chromedriver.rst:102
-# 34713a9e33e64fb494bb1520be852bbc
+# f88cf339f47c4ba5b82bed4cde8c9d0a
 msgid "After the user specifying the version, the process of installation begins and gets completed as pictorially depicted from the following screen shot."
 msgstr ""
 
 #: ../../source/chromedriver.rst:160
-# ffb30dc5781e4dfba40a5f63357ec801
+# bd1415ed2eae4555be4a5ac6194643e4
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/chromedriver.rst:162
-# 15a4f0bc69954970829021e47a8021d0
+# 7a9b9c97677f4a438b5730f8f8aa7441
 msgid "The parameters used for declaring help command, installation are not case sensitive which is an added advantage while compared to others."
 msgstr ""
 
 #: ../../source/chromedriver.rst:163
-# 257bc5f31b2940948a9efafc07678742
+# e24d04b170a8427daccd0d9e58dbe9eb
 msgid "It is well-to-do in both Cent OS and as well as in Ubuntu."
 msgstr ""
 
 #: ../../source/chromedriver.rst:164
-# c3561bec255345cab459264f4bef3493
+# 534f8483c487476b8483bb791413d859
 msgid "The user can specify the version they wish to install while installing."
 msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,87 +17,87 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/chgrp1.rst:3
-# c2c9041560464b53ac2ea756f609cc9c
+# 8331769fb07b45089d2ab303848447e0
 msgid "Change Group"
 msgstr ""
 
 #: ../../source/chgrp1.rst:7
-# e54573f3b45243ecbef0ea3502109f4d
+# a6895402410b49e18e938a779f23ef8c
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/chgrp1.rst:9
-# 5589db3854c546c1b44dc59653d76bca
+# 6df8fca1f0df4f77bd9952e162f9dd89
 msgid "Files and directories belong to both an owner and a group. A group usually consists of a collection of users, all belonging to the same group. The first set of three is the read, write, and execute permissions for the owner of the file."
 msgstr ""
 
 #: ../../source/chgrp1.rst:11
-# 8f65c2c7a811491581a80b62afb5559d
+# ee8a5a1f39524ee6a38a4bf72d16abd5
 msgid "A group can also consist of one user, normally the user who creates the file. Each user on the system, including the root user, is assigned his or her own group of which he or she is the only member, ensuring access only by that user. The second set of three is the read, write, and execute permissions for anyone who belongs to the user group for the file."
 msgstr ""
 
 #: ../../source/chgrp1.rst:13
-# 6641cb76d9534a6d870eb708be1e7534
+# e9146755ed67434685b33db3aec38e96
 msgid "The root user, the system administrator, owns most of the system files that also belong to the root group, of which only the root user is a member. Most administration files, like configuration files in the /etc directory, are owned by the root user and belong to the root group. Only the root user has permission to modify them, whereas normal users can read and, in the case of programs, also execute them"
 msgstr ""
 
 #: ../../source/chgrp1.rst:16
-# c96e6df1abca4f3a80868e7a5e1a1a9d
+# 08ca4d4ad01548b5ac320bdbe7c3543b
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/chgrp1.rst:18
-# 14d3104635f94367839dcfbd1ae5406a
+# 8219ae289abf4e03a8a448cd53513f47
 msgid "This command helps to determine the usage of Change group module. The user will come to know about the different way/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same."
 msgstr ""
 
 #: ../../source/chgrp1.rst:24
-# d8f4be86ac5e4140a8a04928535b1978
+# 8a98167dfef14cb5983a01acee3f7684
 msgid "The pictorial representation of the screenshot is given below,"
 msgstr ""
 
 #: ../../source/chgrp1.rst:47
-# eeca5d0cbd7844ef84fcc2740688d7b4
+# 73b28c873ae34128a9cefd9ce6f526ef
 msgid "Path"
 msgstr ""
 
 #: ../../source/chgrp1.rst:49
-# 2482e7049bf3485dac92d9a8c8982e9b
+# bf76c0234fec4ea78855910e59833c4e
 msgid "When the user needs to change the file group ownership of a path, the below given command will execute the process."
 msgstr ""
 
 #: ../../source/chgrp1.rst:57
-# 099ef189ede144cc932bb66749ead64c
+# 2e6f87993f364a9a86ee9bad0b80f4ff
 msgid "Alternative Parameter"
 msgstr ""
 
 #: ../../source/chgrp1.rst:59
-# 2c7e60075c5f48febf65ccfa33f3636d
+# 25cd7589b07a427da424e67d342d2c5a
 msgid "There are two alternative parameters which can be used in command line."
 msgstr ""
 
 #: ../../source/chgrp1.rst:61
-# d18e9087ccbf4e59b5a2c3c0ccaa6198
+# d4d09258ed8947bbb98903cbc18cac74
 msgid "chgrp, Chgrp"
 msgstr ""
 
 #: ../../source/chgrp1.rst:63
-# e862e5d4984b405a96965888a26c59cc
+# 6cfc6b51ae8447a79815a7213e537c70
 msgid "Eg: cleopatra Chgrp path/ cleopatra chgrp path"
 msgstr ""
 
 #: ../../source/chgrp1.rst:66
-# 71b05827870c4050bf85db7df20912dd
+# 25723f7a0e9645fa9e1c65fe92e9adbd
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/chgrp1.rst:68
-# 338dbcb9fc574344bd9731b9758ed8e0
+# 291ba73e63984526bdeae0411a1759bf
 msgid "Although other users may be able to access a file, only the owner can change its permissions. If you want to give other user to control over   one of your file's permissions, you can change the owner of the file from yourself to the other user."
 msgstr ""
 
 #: ../../source/chgrp1.rst:69
-# 998033162fea4c70985faa191f827495
+# 2a7797c164ed4118a9e1391c6224a736
 msgid "You can also change the group for a file and directories, using the chgrp command. chgrp takes as its first argument the name of the new group for a files or directories."
 msgstr ""
 

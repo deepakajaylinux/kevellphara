@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,320 +17,320 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/pharaohtools.rst:3
-# ac5d0845abe240f99e0aaebf28676a24
+# 564fbcf0e09b4084af3b5c788a84a779
 msgid "PharaohTools"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:6
-# e8ec7365cd964b66bdc176b7aee9959c
+# 2ad72e631ab04e71959496e33b95967c
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:9
-# 5ac9c7ddd7264e408a77df0e7c7def13
+# 0475dbcc427c4ac996f83c35dd211c96
 msgid "The Pharaoh tool module assists in installing Dapperstrano, Testingamen, Jrush, generating Cleopatra reports. It facilitates the users to ensure the availability before installations. Only missing modules can be installed specifically."
 msgstr ""
 
 #: ../../source/pharaohtools.rst:12
-# fd0940adb21848dbb94f5d24c79218d2
+# b66bec259c7842f7b26c93e135b14397
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:14
-# 7a0c76f494f242e6940037255c0bf59d
+# 364bc9f39aaf49a8b447c3856087e69d
 msgid "The help command guides the users about how to make use of this particular module under Cleopatra."
 msgstr ""
 
 #: ../../source/pharaohtools.rst:16
-# 21d27f355e7e4baeb3c528f058d1bcd6
+# 7bf5e62c9eb14c139ef031146479b081
 msgid "It also make them aware of the options that can be performed on this specific module."
 msgstr ""
 
 #: ../../source/pharaohtools.rst:18
-# ab6342d47590448398f6e783c5160f85
+# f4bb29d6aca1490dbd66e0b2d23ed96e
 msgid "The screen shot as shown below gives you a pictorial representation regarding the usage of help command."
 msgstr ""
 
 #: ../../source/pharaohtools.rst:42
-# cbe305ffa57b47ce9b96413196401900
+# 43cc23fc680843ad9794ec9623e092eb
 msgid "Installation"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:44
-# a047642d1efa476eb7b2933c65eef09c
+# b9665d5578ad4c1cb45f10c9df49210c
 msgid "The pharaoh tool module acts as a shorter route that envelops installation of Dapperstrano, Testingamen, Jrush. If any one particular module is missing among the three, the specific module alone will be installed which is an added advantage. The ensure process plays an important role in grabbing data's regarding the availability of modules."
 msgstr ""
 
 #: ../../source/pharaohtools.rst:46
-# 27dfa16fe70e4e46a81a86e5a288763a
+# 529e2250c9bd4c24a72d67498c638f43
 msgid "The command used for installation process under Pharaoh tool is given below,"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:56
-# 45c237f35df9442392fcb38b44fdfebe
+# 9d35b8e2ecec4e75a0dbb82797abe634
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:56
-# f725ae00cc1b4749a9acddc0a688de06
+# 6366004356ab47ba9f07078e6e697eae
 msgid "Available Input options"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:56
-# e334a247dbae4fb7a6544ee57cebecdd
+# 92944eb71a714ea58e2aa5244af81037
 msgid "Comments"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:58
 #: ../../source/pharaohtools.rst:61
-# a8b4e72fd83c4a64ae6631a287d2a970
-# 4b874f84601e435a8da036e6014dd9d7
+# 7315b8db4acc45e6b9382891969737fd
+# 3ca64788c1014a4b9a42255f32fa783c
 msgid "Install Pharaoh Tools? (Y/N)"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:58
-# 32afcd201c594b25b267b117f85aaeb0
+# a304608d666e4942a85ad225a1121a14
 msgid "Y(Yes)"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:58
-# f08395b4872944f988b57318046dcaec
+# ddfcec00af19490db7bf3203aca897cd
 msgid "If the user wish to proceed with installation process, they can input as Y"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:61
-# 415e7b6205ad4f93aaec6bda2bd1e6de
+# 83bb6fe0d17144ef8f1e82cdaa2c191d
 msgid "N(No)"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:61
-# df5bf16bc80b416e9d3cccb171ddf9f9
+# 16ac883e2f784b30950fd4a92ccd2512
 msgid "If the user wish to quit the installation process, they can quit simply by using N|"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:66
-# c37468b48dea4648b3ad4e7f67de5135
+# 3787a2975f4e482a83557f9591f996ef
 msgid "While installing the Pharaoh tool the following steps takes place:"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:70
-# 7a15a89b406748b6a1678ce52b41d90d
+# ddcc669dcf4b45abb1ce69f4dd1fec42
 msgid "Ensure"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:72
-# 91e9aca0b3ec455ab6932011e8575a97
+# f51b33343e284036a2b0373f5e7d5820
 msgid "The pharaoh tool ensures the available modules."
 msgstr ""
 
 #: ../../source/pharaohtools.rst:73
-# 7bb4a0e318b84afe9d734bdfdd3de9ea
+# ed0eb822f44e41b48b6428e0b931feee
 msgid "While ensuring, It won't check about the versions."
 msgstr ""
 
 #: ../../source/pharaohtools.rst:76
-# f00a7a71f48f4851a9a70ffc283ce6c1
+# 87757b79d6444ebebcc6d9c49e478fd2
 msgid "Dapperstrano"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:78
-# a0de4c497c764738b9bd9cfec571e4f5
+# 437f3206884a4514a3364cae6c4e4543
 msgid "The module dapperstrano reports itself as installed, in case of existence."
 msgstr ""
 
 #: ../../source/pharaohtools.rst:79
-# 8529c43c2661416282db860466c5b4ab
+# f8d5f09d0a084166ac4dbfbb49463fd1
 msgid "It also checks the version for dapperstrano module."
 msgstr ""
 
 #: ../../source/pharaohtools.rst:80
-# cf18aecbe21d4d8bb1e0bf22109dad4d
+# 64149cff4db749e1879479c21f6c2bd4
 msgid "If the dapperstrano module is not available in the machine, then automatically dapperstrano will progress to install."
 msgstr ""
 
 #: ../../source/pharaohtools.rst:84
-# f20cb434cca7469882b23f4ff4f0cba4
+# c7cbc5ce4a794dc7861c9ed26b1eef71
 msgid "Testingamen"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:86
-# 604802ea44c8422da3ed310356e367b2
+# d8b75546c30f4e4f88d3ab941d01e454
 msgid "After completion of installing dapperstrano, it will ensure the Testingamen module."
 msgstr ""
 
 #: ../../source/pharaohtools.rst:87
-# a08a43fee2484fbabfb13d42514432ca
+# c938679df863474ea1eec38f3c8e0133
 msgid "The module Testingamen reports itself as installed, in case of existence."
 msgstr ""
 
 #: ../../source/pharaohtools.rst:88
-# db324eb3a1c74e1685893c1c97f03105
+# 7aba7b2c60d1454685a870f37644129d
 msgid "If the Testingamen module is not available in the machine, then automatically Testingamen will progress to install."
 msgstr ""
 
 #: ../../source/pharaohtools.rst:92
-# 83ec392cf8c747f4b3e7d9a0c1702580
+# dd49a4560ab94be6abea9fb2852a0ac4
 msgid "Jrush"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:94
-# 6c3ce917cf224a20bf345302c30cafb2
+# 069e11433e7d4049afeaf51346023f50
 msgid "After completion of installing Testingamen, it will ensure the Jrush module."
 msgstr ""
 
 #: ../../source/pharaohtools.rst:95
-# 68f6bf8bacb844ef82f27fe8778be994
+# 772d1f09447147c19b0105fb0e4adecd
 msgid "The module Jrush reports itself as installed, in case of existence."
 msgstr ""
 
 #: ../../source/pharaohtools.rst:96
-# 7ebef370e168430daa9ef098e573c30d
+# ce848d38a33e46278caecdc50dc89545
 msgid "If the Jrush module is not available in the machine, then automatically Jrush will progress to install."
 msgstr ""
 
 #: ../../source/pharaohtools.rst:99
-# 232d216926f449c8b265646dadc92f22
+# b540be47793a4704b9a4138114d35b7d
 msgid "If all the three modules are already existing, then it will show exceptional message as given in the screenshot below,"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:139
-# 8d52432b7eb44910a4ff17034a05749f
+# e8d5750408834e508e3191f7e74af8bc
 msgid "Additional Options"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:141
-# 388092533a264d568085fb5bc515914d
+# 57dfd6732b6748afa048660b1ec59bf8
 msgid "While installing Dapperstrano, Testingamen, Jrush the following options are required as input from the user. Let us see about, the additional options that can be specified by the users if they wish, is represented in a tabular format as shown below."
 msgstr ""
 
 #: ../../source/pharaohtools.rst:149
-# 4d5df295baed4ee78124b003db8a175f
+# 264d78e78f3b4bcb8272214535b1a75c
 msgid "Parameter"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:149
-# 00e22e7c0c7046e79eaf1d49302aaf16
+# f61ea1ffedef44ccb56cff3d30a17206
 msgid "Path"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:149
-# afa23429d7d040f9baa39ec701dc91e5
+# 3bc660c645ea43b1b55a4a77ce777a4c
 msgid "Option"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:149
-# e5fd05f603c741e384a16af7107a4162
+# 8b7a5ca0065f4851b6b9f8f503929463
 msgid "Comment"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:151
-# 417e805461aa4764aa93d632fb157142
+# d269213f90ee43ec8ecfa5fd5b7fd71c
 msgid "Program data directory (Default)"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:151
-# 7da799e35dfc496f970ca03525339e5b
+# 6c6712767b5c4de3b717ae3b6c36196b
 msgid "\"/opt/testingkamen (corresponding module)\""
 msgstr ""
 
 #: ../../source/pharaohtools.rst:151
 #: ../../source/pharaohtools.rst:158
-# efa1532fd32f4ad79768704debf948f1
-# 4912b4faec634e94be36a7030d90894f
+# 1f04aa34521d4e52a8d503fec80a7e0c
+# 16c565320bc540358bee02c298267db6
 msgid "Yes"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:151
-# 7929988e20a34cbea5e00045cc2f064e
+# 2e5234d7a2b34a2680425623b4bccb9e
 msgid "If the user to proceed installation with the default program data directory they can input as Yes"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:154
-# 84203679e5934b2cba6af88b0f38f51d
+# eff70f32bd014bf8a0f696d089e35008
 msgid "Program data directory"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:154
 #: ../../source/pharaohtools.rst:161
-# 0f8fb7dccb924f5587f56ddd3cc989c3
-# 5a2771a143a34f43afefab54c5ec70f2
+# 9c054fc8d6b44dcebaf0ca4fe9759c0b
+# 2533c97b130a4133ba8e65475e175b2f
 msgid "User specific"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:154
 #: ../../source/pharaohtools.rst:161
-# 8c65fc5fad7c477a99e38176a382606d
-# 51bc404568424861ad2cc031381e0bab
+# 36ff42219ed0446e8b54ec690c1f782b
+# 7eeb57c862214e2d811a30ebb4eae49e
 msgid "No(End slash)"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:154
-# d8780cfcf87b4007bf21e5bcff0e6361
+# 5a783c8b53a941e18f48c2eca8330cf3
 msgid "If the user wish to proceed with their own program data directory, they can input as N, and in hand specify they own location."
 msgstr ""
 
 #: ../../source/pharaohtools.rst:158
-# d9c24d41d8d04be8b103d2cf86af8ad3
+# 797d041070db4d51b88ae4557bd8b155
 msgid "Program executor directory (Default)"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:158
-# 4d314257ff9548bba85be975d3f57840
+# 3f882f92b4fa4c58bd0d10d3dc143eac
 msgid "\"/usr/bin\""
 msgstr ""
 
 #: ../../source/pharaohtools.rst:158
-# ead7caed94a146a9ab96d64f7779e5b1
+# dc33edd901dc416295f64a462e576ae0
 msgid "If the user to proceed installation with the default program executor directory they can input as Yes"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:161
-# ced570d7777546f6ba851f24e4d3185c
+# 3928c80d234340d3b5a47a9298ebf832
 msgid "Program executor directory"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:161
-# 5da9db03c7d847fe9d99befbbbd73ca6
+# 27bebeb8aa3942ebb610769937b45794
 msgid "If the user wish to proceed with their own program executor directory, they can input as N, and in hand specify they own location.|"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:168
-# 684ce85326cb4d12bcf17fd0b2e13957
+# 70201d1f8b10443d91bcc3d8f95ff79d
 msgid "While installing it will specify the location of git clone, displays the number of objects , receiving objects, resolving deltas, connectivity."
 msgstr ""
 
 #: ../../source/pharaohtools.rst:170
-# 0065f93fad524ae1af3ac465edca5f7d
+# 8d60043d0efb47ee8626b68f1c3828f5
 msgid "The following screen shot explains you graphically about the process involved in installation of Pharaoh tool."
 msgstr ""
 
 #: ../../source/pharaohtools.rst:208
-# 8c02a45969524be0b257582d1606c851
+# fbb2cf7093304417b7a7fe17b8ca4665
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:210
-# 01fef0dc604b4df381e2e530ba511946
+# 80d8060584d7442ca4e82c6133084003
 msgid "It facilitates the users to ensure before installation."
 msgstr ""
 
 #: ../../source/pharaohtools.rst:211
-# a1c35ccf09df4b96a5c580f889212511
+# 893d2c911e0340cb9ca98d2a84662a7c
 msgid "In case of any particular module is missing, the user can proceed to install that particular module alone."
 msgstr ""
 
 #: ../../source/pharaohtools.rst:212
-# f54b7fa442f94fb3bd2b78f96ca044d2
+# 2f915a3d38b44e1ca10c496c03f33d6b
 msgid "The user can specify their own path or location for program data directory and executor directory."
 msgstr ""
 
 #: ../../source/pharaohtools.rst:213
-# 7cdc132901134f9bab222783ef06d3af
+# 5cd8b25eba0d45e5bb5ed94e46ed427c
 msgid "If any particular module already exists in the machine, then the installation tool will throw an exception message as it is already installed."
 msgstr ""
 
 #: ../../source/pharaohtools.rst:215
-# 985445caa07140d38739470752bc5221
+# 1c13bd3915204ba49198a8570a6de8e2
 msgid "It avoids unwanted overwriting of modules, hence it is time saving."
 msgstr ""
 

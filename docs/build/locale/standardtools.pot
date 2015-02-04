@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,107 +17,107 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/standardtools.rst:3
-# 6d6656c08ca1406f952b0107556d435a
+# 50e94f73d7a04fb498d997ed0d4da182
 msgid "StandardTools"
 msgstr ""
 
 #: ../../source/standardtools.rst:6
-# 4f1f93649648486ab8d0424811f840e6
+# 6c0378f0cc4e4519ab88c9446dce539b
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/standardtools.rst:8
-# 14d97ff9292e4a35ad476750f3e746ef
+# a02c28763be04c12b5513e5d42bcf0da
 msgid "This module assist in installing standard tools in the system. It can install all the tools like vim, zip etc,. Automation is possible. It specifies the standardization of your environment. It is user friendly with Ubuntu and cent OS."
 msgstr ""
 
 #: ../../source/standardtools.rst:11
-# d8f157548a664b6d881966ca6dddc682
+# 5adf8738f4a54f8bb3a1901c8bdf0d4d
 msgid "Help command"
 msgstr ""
 
 #: ../../source/standardtools.rst:13
-# 2fc6f3cdf1ff4874806427494f601a0b
+# 1978899edff14a9c902c9b6f8bc3aeff
 msgid "Help command used to find information about a specified command. For more information about  standard tools. we can use this help command."
 msgstr ""
 
 #: ../../source/standardtools.rst:19
-# 2c8b5b8fd9924623aa53bd28e2c874ce
+# eb8ef8f0ec064d8282dee8f5cccd90cb
 msgid "The following screen shot will guide you."
 msgstr ""
 
 #: ../../source/standardtools.rst:45
-# 3f80bef124cb4656bee5026d3aa5f10f
+# bd27e77fa16a470097e311953439ff71
 msgid "Installation"
 msgstr ""
 
 #: ../../source/standardtools.rst:47
-# 5ea33b275e0746139addb0891849cb9b
+# f704a75218f049ef9b8e4d68afbcb36f
 msgid "As a company, and as individuals, Standard Tools has been dedicated to meet the User challenges, fulfilling their requirements, and satisfying their business goals. It is an obvious process to install standard tools module under Cleopatra by just using the command given below,"
 msgstr ""
 
 #: ../../source/standardtools.rst:53
-# 6b57bd5442b44429bb1b79ccf0522931
+# a2cc47dcf6e2441ca53c244753213bec
 msgid "After entering the command,"
 msgstr ""
 
 #: ../../source/standardtools.rst:55
-# 4038362de6f34adba0544a83206479f0
+# ac3738c9d7984ec1ad0e093c30b4522e
 msgid "Install standard tools? (Y/N)"
 msgstr ""
 
 #: ../../source/standardtools.rst:57
-# 2c699af117dd40b5bb5fa18c639b2ce1
+# b671e37b1e1a4b9fa9c978179be319af
 msgid "If the user value as y"
 msgstr ""
 
 #: ../../source/standardtools.rst:59
-# 74d76695da9947ebb0a30e3e70b1fbba
+# f64200bf8b124843ae5a56050d074e65
 msgid "Then all the updated standard tools installed."
 msgstr ""
 
 #: ../../source/standardtools.rst:61
-# 49f5102af56b471fa5384dd47f5434d1
+# 05f5bc91b78349279bd46a902f16cc52
 msgid "If the user value as N"
 msgstr ""
 
 #: ../../source/standardtools.rst:63
-# d045ab894d6e437eac02beaf5aeb700c
+# 9ee318222d3046df90d736b1a25551e3
 msgid "It will exit the screen"
 msgstr ""
 
 #: ../../source/standardtools.rst:65
-# 320be8f6054b41b8bef49dc130698011
+# 9b42f34d092c41a7841797e1972b533e
 msgid "The Screenshots shows this."
 msgstr ""
 
 #: ../../source/standardtools.rst:168
-# e7454c0fc09a4ae29aadb1673ebe01fd
+# 0c30016774f241408e5b97b77b478fce
 msgid "Alternative Parameters"
 msgstr ""
 
 #: ../../source/standardtools.rst:170
-# 3350cb1663c641109739e3eb0340a759
+# e6f1eb9a654b4c769faf7f818af3c07e
 msgid "The following are the alternate parameters. StandardTools, standard-tools, standardtools, std-tools, stdtools."
 msgstr ""
 
 #: ../../source/standardtools.rst:173
-# 8b42e181ef5a4e9eabf4a006ae6b587f
+# 9f42fbdc005a42e3a95d5334b8ba26f5
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/standardtools.rst:175
-# 13337c20e1724a8ca578339829aac6c7
+# 489e0694cdcb4239bc9ad0a1e84ca6bf
 msgid "Updated version of installation available."
 msgstr ""
 
 #: ../../source/standardtools.rst:176
-# f01f48a5fe6e4ed4ab68fa74a269956d
+# 854b9e868d6044cca9d69bb90888f0e5
 msgid "In case of existing, it can overwrite."
 msgstr ""
 
 #: ../../source/standardtools.rst:177
-# ce72438b0c4743c3b1b82f1e95db2311
+# ee198a6be9f94834bf77210c0c3ee9b9
 msgid "Non case sensitive"
 msgstr ""
 

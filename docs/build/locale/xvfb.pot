@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,186 +17,186 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/xvfb.rst:3
-# 158f4285d0ab498b8b8f45683d25dc37
+# a951e901e7094633a7f0ecfb709b9d8b
 msgid "Xvfb"
 msgstr ""
 
 #: ../../source/xvfb.rst:6
-# 96cc29f526934e8cbed748c57069f546
+# 5b12dc59b785478594b0fa80c4bf62f2
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/xvfb.rst:8
-# 69f5d679f62d434ba7b02e5acf2cc715
+# 5eb312ce55de44d696e63aeb27bb46c5
 msgid "This module facilitates in installing the xvfb, which is known as popular virtual machine solution. The module provides a solution for working in an virtual machine.  xvfb known as X virtual frame buffer is a display server implementing the X11 display server protocol. In contrast to other display servers Xvfb performs all graphical operations in memory without showing any screen output.  Let us see, how this module assists in installing the xvfb via apt-get."
 msgstr ""
 
 #: ../../source/xvfb.rst:11
-# 86a9051565c742fbb202c95b1f4cf22a
+# d79c9598787a492a91904a3904d439ae
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/xvfb.rst:13
-# 27b938e66e7c4f3fbd3092bc20b43e5c
+# 11d025e6e91a469ca1376da0998b91df
 msgid "The help command guides the users regarding the purpose and as well as about the options that are included in the xvfb module. The help command lists out the alternative parameters of xvfb module. It also describes the syntax for installing xvfb module The help command for xvfb module is shown as below."
 msgstr ""
 
 #: ../../source/xvfb.rst:19
-# c42a5e24f954418caf2bcc755dfb53af
+# 768563fd66a24ae2a0569b49ef603cbf
 msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under xvfb module."
 msgstr ""
 
 #: ../../source/xvfb.rst:42
-# 9e549f8f138b4191b72998d7e336d4d7
+# dd8759721949400ab2a40ef303c517e7
 msgid "Installation"
 msgstr ""
 
 #: ../../source/xvfb.rst:44
-# 609f5f0bfb794343a66c0b127a02078d
+# c9c5684397a842e5a3ea2167f8856ea2
 msgid "The command used for installing the xvfb to the users machine is shown below."
 msgstr ""
 
 #: ../../source/xvfb.rst:50
-# 31437257e3d04e8dabf0926e474637d4
+# 13b0585ccfaf44a7ba3074e291d2394c
 msgid "After inputting the command above, the following operations occurs as shown in the tabular format."
 msgstr ""
 
 #: ../../source/xvfb.rst:55
-# 06e8f0580bfd4f02b90b02b1ef2b014e
+# 958f8ada2e254247ac1037314b33c9bf
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/xvfb.rst:55
-# a8a902964a8f442f9a1ba3e020e18a84
+# 1223a7bcebff49419c957920c1d97b9f
 msgid "Alternative Parameter"
 msgstr ""
 
 #: ../../source/xvfb.rst:55
-# 27a92e71276c45ae8a774ebec705b06f
+# d67a548564a0483496f8354fd05d706f
 msgid "Option"
 msgstr ""
 
 #: ../../source/xvfb.rst:55
-# f5664520a1c94d0d94635546f6047980
+# 57a01315eb5844a7984a43d79c5181fd
 msgid "Comments"
 msgstr ""
 
 #: ../../source/xvfb.rst:57
 #: ../../source/xvfb.rst:60
-# 2d952728dc584b0093d5c3b62baf2f6c
-# 43f2a885dedf4904818f74958cd3ff7d
+# 438d5648db934c72a4bd01c219a8538a
+# ef6153d7cf1d4bc895cdadf3351e5b2f
 msgid "Install Xvfb? (Y/N)"
 msgstr ""
 
 #: ../../source/xvfb.rst:57
 #: ../../source/xvfb.rst:60
-# 880962919d894a019f0ce22c2b529266
-# cb0a22aa51a6401a895e890c40734ffc
+# 896c18b67e9348eda4d4cc6ac5145af8
+# 9852d64e4b9b4356918bb9a81c12064c
 msgid "In Spite of Xvfb, xvfb can also be used."
 msgstr ""
 
 #: ../../source/xvfb.rst:57
-# 183d08e2c46241ca91b26768b0853ff9
+# aa907d13ba094098bd95e89623b59866
 msgid "Y(Yes)"
 msgstr ""
 
 #: ../../source/xvfb.rst:57
-# 951456ae9fd943c9b226a35370264a80
+# 95b946d7d9fc43bfa36359078a02ad38
 msgid "If the user wish to proceed the installation process they can input as Y."
 msgstr ""
 
 #: ../../source/xvfb.rst:60
-# d3ee8876892f4e988e2dbd7e9ed9f45f
+# 20b0ac15d0584176ad33eb2247452702
 msgid "N(No)"
 msgstr ""
 
 #: ../../source/xvfb.rst:60
-# 7d440c2ec2e24448b356d7fe954b9fea
+# 29934a22ff8146da86b05626fc89e72b
 msgid "If the user wish to quit the installation process they can input as N.|"
 msgstr ""
 
 #: ../../source/xvfb.rst:64
-# af9dc30d204d456197236fc23d687a37
+# dd17cc1999034b48b25576c9abbb90bf
 msgid "If the user proceeds the installation process, during execution of installation the following process occurs:"
 msgstr ""
 
 #: ../../source/xvfb.rst:66
-# bcc0cda78745424aa628bca293e7558e
+# d3109b35beb04ef3844e0f3642256fe9
 msgid "Reads package lists."
 msgstr ""
 
 #: ../../source/xvfb.rst:67
-# 558d1d963b72493081abc7f01adbc1c8
+# 11664cdfb0424016813c4f8cb272a3d0
 msgid "builds dependency tree."
 msgstr ""
 
 #: ../../source/xvfb.rst:68
-# fcb8e48b4a3d4e139f2540e8be334ed4
+# 62abc93ad53f4fafa94fb83b797c487a
 msgid "reads state information."
 msgstr ""
 
 #: ../../source/xvfb.rst:69
-# 5a475f05ae2247cc842a4453bad6dc0e
+# 9c4e9a74082842508bc125fcc413f5dd
 msgid "list of new packages installed."
 msgstr ""
 
 #: ../../source/xvfb.rst:70
-# c7f95d92b8da48818a63e7c7dc833694
+# 15c2081611cb41e486182f7f89cad52c
 msgid "number of files upgraded, newly installed, removed, not upgraded."
 msgstr ""
 
 #: ../../source/xvfb.rst:72
-# 27af4107f646459881da1c4130da363a
+# d1e47ce71b834bcf8d2346707c0c6143
 msgid "Finally, the status are clearly reported and adding package xvfb from the packager Apt are executed correctly. The following screenshot depicts you about the process of installing xvfb."
 msgstr ""
 
 #: ../../source/xvfb.rst:74
-# 1c7f09629a1e4a0bab16d4549447ec4d
+# 90faeb5f6cbb4f6fbe0b85d719556784
 msgid "If the xvfb module is already existing in the users machine, it will show an message as the Package xvfb from the packager Apt is already installed. The screen shot as follows is an good example for those type of messages."
 msgstr ""
 
 #: ../../source/xvfb.rst:121
-# f2a9f2b9ec784b97ad4d8c26b19cb614
+# 2bcc0e26ae5647ca884160cd9af02c67
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/xvfb.rst:123
-# 01d51623db7c44ad9e05d64c82a43c18
+# 37d27f1fdc104c649c445adc7c476510
 msgid "The parameters used for declaring help command, installation are not case sensitive which is an added advantage while compared to others."
 msgstr ""
 
 #: ../../source/xvfb.rst:124
-# 1725d62b33364d7f9c74bf9396217015
+# 3d4fff22d2f145448c7a87aa1a0c0374
 msgid "It is well-to-do in both Cent OS and as well as in Ubuntu."
 msgstr ""
 
 #: ../../source/xvfb.rst:125
-# 266b7a5ed7bf492ca3d5da98f990424f
+# bdefce41afbd42ffb9fed96540f09303
 msgid "If the xvfb package is already existing in the user machine, it won't overwrites, instead of that it will show a message as already exist."
 msgstr ""
 
 #: ../../source/xvfb.rst:127
-# 72fb412b8c6e4b1a9705a444088a2a9c
+# 6a0b730000494aa59792fc3f30996929
 msgid "Xvfb is primarily used for testing:"
 msgstr ""
 
 #: ../../source/xvfb.rst:129
-# 24cb1c7bd08b4ff2859f5a279746e0a1
+# f6f4857fe6eb4fb7a636082aadcbde9d
 msgid "Since it shares code with the real X server, it can be used to test the parts of the code that are not related to the specific hardware."
 msgstr ""
 
 #: ../../source/xvfb.rst:130
-# d2304f4ff4354eb29339ef1dfa146083
+# 4afd6ba6555c46e183dd7bedbf555fd7
 msgid "It can be used to test clients in various conditions that would otherwise require a range of different hardware; for example, it can be used to test whether clients work correctly at depths or screen sizes that are rarely supported by hardware."
 msgstr ""
 
 #: ../../source/xvfb.rst:131
-# c9e29411c2b745caa4e54cfa2c8d45f7
+# 79e64cb1ea834a08b04a08544668ff03
 msgid "Background running of clients. (the xwd program or a similar program for capturing a screenshot can be used to actually see the result)"
 msgstr ""
 
 #: ../../source/xvfb.rst:132
-# 711611f80aa0450388f7573adf43c456
+# 5146be6370e64f6e940b3c47a81433f4
 msgid "Running programs that require an X server to be active even when they do not use it. (e.g. Clover html reports)"
 msgstr ""
 

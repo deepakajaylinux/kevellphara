@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,713 +17,713 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/awstats.rst:3
-# 928a69c20488483780116b80c82355c8
+# 6f87ccde2125439cab0d2b5398b8c37e
 msgid "Awstats"
 msgstr ""
 
 #: ../../source/awstats.rst:6
-# 757c517a044e410c85e421001480f067
+# 059a7df6f69a420ab44f3516b14c7388
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/awstats.rst:8
-# 3d30468e50634036a8214ce8fd05e2a6
+# a1cda6a6c30a4141940fc5a26e3bf01f
 msgid "This module promotes the installation of awstats, with the latest Version. AWStats is an open source Web analytics reporting tool, suitable for analyzing data from Internet services such as web, streaming media, mail, and FTP servers. AWStats parses and analyzes server log files, producing HTML reports."
 msgstr ""
 
 #: ../../source/awstats.rst:10
-# 0d9bc6b3df4b4550989b1cfd1d25e312
+# 9dba1522b7eb41f2b33f4f473957baf9
 msgid "AWStats (Advanced Web Statistics) is a powerful, full-featured web server logfile analyzer which shows you all your Web statistics including: visitors, pages, hits, hours, search engines, keywords used to find your site, broken links, robots and many more."
 msgstr ""
 
 #: ../../source/awstats.rst:12
-# af590635e0a14868b88396a63bc80c50
+# d8a539558b25429e89641c843923764e
 msgid "Let us see, the details of how to install this awstats, the features and requirements of awstats in upcoming topics."
 msgstr ""
 
 #: ../../source/awstats.rst:15
-# 167af3d529424e358c9bead584f0c33b
+# 38fc996a9d4941b2bea3ccb20979978d
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/awstats.rst:17
-# 24f042c917224cc391077cc796626325
+# 29dfe72b2b8f452390c43cee8006cdf4
 msgid "The help command guides the users regarding the purpose and as well as about the options that are included in the AWStats module. It lists out the alternative parameters of AWStats module. It also describes the syntax for installing the AWStats module. The help command for AWStats module is shown as below."
 msgstr ""
 
 #: ../../source/awstats.rst:24
-# d6e1fce3aa3e4837a722a7f562168d49
+# 6ab1b09c17e742fa9ea1133b8e4f9845
 msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under AWStats."
 msgstr ""
 
 #: ../../source/awstats.rst:28
-# dddce0f888ab444baf2c30405ea8d3ac
+# b78d09f6ac104a08a730f1b5d8ef4c10
 msgid "Installation"
 msgstr ""
 
 #: ../../source/awstats.rst:30
-# 3fea606988f1434b8077a3c91e7fdcea
+# 479151ff55e143ad956a1bd1d778ec16
 msgid "The command used for installing the AWStats to the users machine is shown below."
 msgstr ""
 
 #: ../../source/awstats.rst:36
-# 558eb7d5c79d418883d6554e034547b4
+# d9958f6332e6450fa98c42a6e1e86dba
 msgid "After inputting the command above, the following process occurs as shown in the tabular format."
 msgstr ""
 
 #: ../../source/awstats.rst:43
-# 189206b6acc0419885e0bb20c9431177
+# f88e2aed74224c218b1fd8f87cd7c268
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/awstats.rst:43
-# fccc16e394d64156a5cd339c114977a5
+# 34f054f76ce946458285d760174ce25d
 msgid "Alternative parameters"
 msgstr ""
 
 #: ../../source/awstats.rst:43
-# 7c696a91b364436db8e9f26f0b0a28d0
+# 8317bf27d08b4fc6b6c5c8fe2e590da7
 msgid "Options"
 msgstr ""
 
 #: ../../source/awstats.rst:43
-# 3f83e9d565c44bc98c42211e05c4f708
+# 7f693387e4164ff980f148a8d31ab057
 msgid "Comments"
 msgstr ""
 
 #: ../../source/awstats.rst:45
 #: ../../source/awstats.rst:48
-# 92e79500a5e3483bac3b71935048354f
-# 69213bdfdb204299a57280cfe23e0ff7
+# 0e15ea483f5c4d4a9f3fb294ca5ecc78
+# ee66ad30853842a8bc27446b12bb8204
 msgid "Install AWStats? (Y/N)"
 msgstr ""
 
 #: ../../source/awstats.rst:45
 #: ../../source/awstats.rst:48
-# a2e5063448be4ffaa1a96b64780ad90a
-# c4ae0c1068a34c1fbb5e330fd007ffc0
+# c7a7febd6efe4a7183e7b7a4f018fb16
+# 66c7617f9b3042a4ace46a47b89a12cb
 msgid "Instead of AWStats, we can use Awstats, awstats also."
 msgstr ""
 
 #: ../../source/awstats.rst:45
-# 3ac768d80505428b97722ec245ae90c2
+# 2ed1a1c0084543cd958eca49eb9c58a5
 msgid "Y(Yes)"
 msgstr ""
 
 #: ../../source/awstats.rst:45
-# 6b395e6a99434ca6acfc2d19b8c845e0
+# d5b4927798dc4bce9b60754af320db5e
 msgid "If the user wish to proceed the installation process they can input as Y."
 msgstr ""
 
 #: ../../source/awstats.rst:48
-# 2793758c4572498f89836429a84de4e9
+# 5474e2b2146f4bef82a12433ce2ea5fb
 msgid "N(No)"
 msgstr ""
 
 #: ../../source/awstats.rst:48
-# 70f07954ed35434da0d625ea481afabc
+# 22f88a92110146fd9afb40be447fc934
 msgid "If the user wish to quit the installation process they can input as N.|"
 msgstr ""
 
 #: ../../source/awstats.rst:54
-# 65541fe1ba724a16add934b1da70047a
+# 1aaffafc2a144649835eb36529061348
 msgid "If the user proceeds the installation, the following process are involved while installing:"
 msgstr ""
 
 #: ../../source/awstats.rst:56
-# 1b272f9e81574665ad2b56ff4e3bfa46
+# af7c13223b114a8693ec78f10d58f02b
 msgid "Reads the package lists."
 msgstr ""
 
 #: ../../source/awstats.rst:57
-# 2709f66d487c4be0bed0bd453ed3fe16
+# 47960c43a7164c9482cf6b8cd209d54f
 msgid "Builds the dependency tree."
 msgstr ""
 
 #: ../../source/awstats.rst:58
-# 9ac9ce2f03154b32844ee10bfafa95b9
+# c37e28680d8c4a5ca38c31da119e5ed5
 msgid "Installs the required extra packages"
 msgstr ""
 
 #: ../../source/awstats.rst:59
-# 885cb16becae4b7ebf93c8647e707ed3
+# c7ed00277ac244d0bca53b3bb5b57e7e
 msgid "Installs the suggested packages."
 msgstr ""
 
 #: ../../source/awstats.rst:60
-# 69656917706d47b19d631763a843c4b7
+# 7e7bf29e56f342c0bef38671045d4824
 msgid "Installs the new packages."
 msgstr ""
 
 #: ../../source/awstats.rst:62
-# bd557c330d774245883aabd49010aaf8
+# ecc58e190b834537985d0c0ddb7c46c4
 msgid "Finally, the installation of Awstats gets completed successfully as depicted in the following screenshots:"
 msgstr ""
 
 #: ../../source/awstats.rst:65
-# 01f5d18b00c142cfbf0b9e3dc983bbd6
+# 3beab6c443a942bba4529d35c2fd6db9
 msgid "Features of Awstats"
 msgstr ""
 
 #: ../../source/awstats.rst:67
-# 8b891446728e4e2dbae5af4ec4acfc0c
+# 9d22c69d0e6e499ea32f196366032d9a
 msgid "A full log analysis enables AWStats to show you the following information:"
 msgstr ""
 
 #: ../../source/awstats.rst:70
-# f08887cf18da469caaecd4a09b2564f5
+# 9579840a83ee4353b5516ad4fdb84d96
 msgid "Number of VISITS and UNIQUE VISITORS"
 msgstr ""
 
 #: ../../source/awstats.rst:71
-# 0a5f4257d6664a75a804e555c19dd28f
+# 8ae6011e62144ae1812c8c17f715bb0b
 msgid "Visits duration and last visits"
 msgstr ""
 
 #: ../../source/awstats.rst:72
-# f7a716ea039a4e3c97d8ed2bc1a408ab
+# a7e4788975334654a839a96ccc3e2cc4
 msgid "Authenticated users, and last authenticated visits"
 msgstr ""
 
 #: ../../source/awstats.rst:73
-# def6600b38974d8995a0dfcd801a5e8d
+# bbc6298043944a6699e6112c973c7ada
 msgid "Days of week and rush hours (pages, hits, KB for each day and hour)"
 msgstr ""
 
 #: ../../source/awstats.rst:74
-# 15798ecd19ee49b9904610789fc96092
+# db342a7019124039aaf0f353db667988
 msgid "Domains/countries of hosts visitors (pages, hits, KB)"
 msgstr ""
 
 #: ../../source/awstats.rst:75
-# 01231b5ab7fe4fbea025b363b7021c4c
+# cd3fe1a418f14efdb9faeeee431ecd22
 msgid "Hosts list, last visits and unresolved IP addresses list"
 msgstr ""
 
 #: ../../source/awstats.rst:76
-# 64ee82758ef7479f8a94ff82ff442d29
+# d727414b772d4add8b5f6a89f72140ae
 msgid "Most viewed, entry and exit pages"
 msgstr ""
 
 #: ../../source/awstats.rst:77
-# 6d80bc3044274835b80fbdb6d6ecca51
+# 314824dee7d045168c83fc7b0055a7ad
 msgid "File types"
 msgstr ""
 
 #: ../../source/awstats.rst:78
-# 4fdc89e3ee5a486aae76d8f75733b37e
+# 43135edc35324029b49c0b1c03bee8c1
 msgid "Web compression statistics (for mod_gzip or mod_deflate)"
 msgstr ""
 
 #: ../../source/awstats.rst:79
-# 5e4d9f65257c42069ab42d100d8f892b
+# c44929a649ad4f9dab823d4e4de555a8
 msgid "Browsers used (pages, hits, kb for each browser)"
 msgstr ""
 
 #: ../../source/awstats.rst:80
-# f1d2033cec96483083d3d1d528a814df
+# c8e862a3a631485c81a93953c3941376
 msgid "OS used (pages, hits, KB for each OS)"
 msgstr ""
 
 #: ../../source/awstats.rst:81
-# df43a53aa6164757ab37dadfdfd840f2
+# ebf7d7e715864ce7828443923800f010
 msgid "Robot visits"
 msgstr ""
 
 #: ../../source/awstats.rst:82
-# 539570dd27a3448ebde5c14f42d35ee5
+# c62ed3145da54c85a14971b1419ab039
 msgid "Worm attacks"
 msgstr ""
 
 #: ../../source/awstats.rst:83
-# 6b2818799ca5421582d6be22f18bd483
+# 5ea77ee13c004d55bc3697bb0845eccf
 msgid "Download and continuation detection"
 msgstr ""
 
 #: ../../source/awstats.rst:84
-# dced78ab536848b88260dd68aaa7b772
+# 6bd48d83852c4405bc7e4ae8f4006ecd
 msgid "Search engines, keyphrases and keywords used to find your site"
 msgstr ""
 
 #: ../../source/awstats.rst:85
-# bf0fc3e6b48c4869849081f2cd7414bd
+# 07650ddfbac545e09a1cf63891d4a907
 msgid "HTTP errors (Page not found with last referer, etc,)"
 msgstr ""
 
 #: ../../source/awstats.rst:86
-# e597baf82735436d9b336a6b0ef66a2e
+# 7c5ea5c594be4eeca1c221495242641b
 msgid "Screen size report"
 msgstr ""
 
 #: ../../source/awstats.rst:87
-# 73f939b062cd4b52ac0f90a6a82dd3b7
+# 09504cf072344527a58eb732fcf30099
 msgid "Number of times your site is \"added to favourites bookmarks\""
 msgstr ""
 
 #: ../../source/awstats.rst:88
-# 95838b0ca76d4b1f8a1280ef33bdc0d7
+# 099a251ce4374f5b91f7045fece07881
 msgid "Ratio of Browsers that support: Java, Flash, RealG2 reader, Quicktime reader, WMA reader, PDF reader"
 msgstr ""
 
 #: ../../source/awstats.rst:90
-# 8a18faa443f1436e892797dcade3398a
+# 2ac83e1364ec43a29e6cc60a55315b61
 msgid "Cluster report for load balanced servers ratio"
 msgstr ""
 
 #: ../../source/awstats.rst:91
-# 738694ee4c574f6493d23f6910d2beba
+# c764c20fe99c43a8b999d09dc59a543b
 msgid "Other personalized reports..."
 msgstr ""
 
 #: ../../source/awstats.rst:93
-# e12ff0e93f50430fa5a67e6aed114ddd
+# 1d280d01e09e417b9cd9fd21819e1ec9
 msgid "It supports the following features as well:"
 msgstr ""
 
 #: ../../source/awstats.rst:95
-# 10cda19f886048e7950d749dcf4df429
+# 3c5cfe2b9767421c96068129e4b7e507
 msgid "Can analyze all log formats"
 msgstr ""
 
 #: ../../source/awstats.rst:96
-# c4625bab26894fa19794605bc907feac
+# bba5cdce87144fc9b93cf532ccdcbd23
 msgid "Works from command line and from a browser as a CGI (with dynamic filters capabilities for some charts)"
 msgstr ""
 
 #: ../../source/awstats.rst:98
-# e3029783e01448c3b46e53050b5d8fdf
+# 9e64bff2d0ea4036826397a210073cca
 msgid "Update of statistics can be made on demand from the web interface and not only from your scheduler"
 msgstr ""
 
 #: ../../source/awstats.rst:100
-# a452bdc36b8647f1b95642352142adaf
+# 90d90d389428495a982f82906a72d50d
 msgid "Unlimited log file size, support split log files (load balancing system)"
 msgstr ""
 
 #: ../../source/awstats.rst:101
-# ea496e5c2ebd48b0abe47a879ea792af
+# 0d51b09bbf86467f8896ef4e1d725168
 msgid "Support 'nearly sorted' log files even for entry and exit pages"
 msgstr ""
 
 #: ../../source/awstats.rst:102
-# 75822b621e3f4a7eaaad50399ef98d8a
+# 4db7cf017a364be9ab6f53c8b3d6cbd5
 msgid "Reverse DNS lookup before or during analysis, supports DNS cache files"
 msgstr ""
 
 #: ../../source/awstats.rst:103
-# 5b56aae1ba6d48b4a5e1727899ec5ff7
+# 4ab4c446d6134b908f7557372241a60d
 msgid "Country detection from IP location or domain name"
 msgstr ""
 
 #: ../../source/awstats.rst:104
-# bdebf1960c25428aaca6c3bd24ced6c2
+# 1b05a82d76564b7094b8d18807c69608
 msgid "WhoIS links"
 msgstr ""
 
 #: ../../source/awstats.rst:105
-# 63b2dadce6db42a6b4e7a98b36487698
+# ca8a9d18e29441a994553ba428c1430a
 msgid "A lot of options/filters and plugins can be used"
 msgstr ""
 
 #: ../../source/awstats.rst:106
-# 99dab9b6e7d94c7c8adb1aa1934651d7
+# 9fb4b4b460b046ed897968b7dab06d3e
 msgid "Multi-named web sites supported (virtual servers)"
 msgstr ""
 
 #: ../../source/awstats.rst:107
-# 3bb1ff92531a43f8a2d789677426997b
+# e634e9666c23414d91700e2371208d91
 msgid "Cross Site Scripting Attacks protection"
 msgstr ""
 
 #: ../../source/awstats.rst:108
-# 5c4027b280754946a8c12475f479bad5
+# a60df74da1784d07b92e2a7bdea76f11
 msgid "Several languages"
 msgstr ""
 
 #: ../../source/awstats.rst:109
-# 3f6e0c8fbf924baf9d2f05ada6a77103
+# 9b741c0e54a44fdb81ea1d163636d341
 msgid "No need of rare perl libraries"
 msgstr ""
 
 #: ../../source/awstats.rst:110
-# 3c8742f0731843e4a754b1485956150f
+# 7155917cd3c245248cdf067859abc9d5
 msgid "Dynamic reports as CGI output"
 msgstr ""
 
 #: ../../source/awstats.rst:111
-# 019e06822c0944b6b31ec6d3c3aa09a4
+# 1c201ce4c34a4ef9879166474fdb8779
 msgid "Static reports in one or framed HTML or XHTML pages"
 msgstr ""
 
 #: ../../source/awstats.rst:112
-# 71874165b8854e18919f8c766c2a8acc
+# be7e85e5302d4ba38be068c2f061df71
 msgid "Experimental PDF export"
 msgstr ""
 
 #: ../../source/awstats.rst:113
-# f86da8e49b714e5b97f9b5a978cf3f72
+# 9dffb6d52dbb4a0b91ea7b4dddb83088
 msgid "Look and colors can match your site design (CSS)"
 msgstr ""
 
 #: ../../source/awstats.rst:114
-# 485faa09fccd40b184c13647cb1e79b5
+# 6b818f05d3d64291ba2c7bdb9daa5f48
 msgid "Help and tooltips on HTML reported pages"
 msgstr ""
 
 #: ../../source/awstats.rst:115
-# 28a3aa1e31424b2a8d72996c1445a3d7
+# c14b520d9c364070affe16e79cd28540
 msgid "Easy to use (Just one configuration file to edit)"
 msgstr ""
 
 #: ../../source/awstats.rst:116
-# f1e54bddaa3b4c049b1694ef20e531d6
+# 6b1579ca13c74a6ab8a582cbe8d2ae26
 msgid "Analysis database can be stored in XML format (for XSLT processing, ...)"
 msgstr ""
 
 #: ../../source/awstats.rst:117
-# 84a10a9b1a474c2da4a8e4799dd4b118
+# b7d38870687447cdb3e598f591d033f8
 msgid "A Webmin module"
 msgstr ""
 
 #: ../../source/awstats.rst:118
-# a7412764285d433080aa3ca5ab684b11
+# 00495e76cd804d96b8d1a702b87cdf02
 msgid "Free (GNU GPL) with sources (perl scripts)"
 msgstr ""
 
 #: ../../source/awstats.rst:119
-# 9572ba6b69784bcf900339ef51b84ef4
+# 8b0bff52b95945c7ad4ab67d551608f4
 msgid "Available on all platforms"
 msgstr ""
 
 #: ../../source/awstats.rst:122
-# 0d81800716884f6aa70fc9c5d3317cf6
+# 095e163565d84dcb942e157f090259a7
 msgid "Requirements of Awstats"
 msgstr ""
 
 #: ../../source/awstats.rst:124
-# 3468487c1b2849b5af4b09da728fe7c6
+# 7b5edd339ead4d4cb2f046d3999a534c
 msgid "To use AWStats CGI script, you need the following requirements:"
 msgstr ""
 
 #: ../../source/awstats.rst:126
-# 0373512162c548f8a464ad63fd8267fe
+# ce331d55012d49ff8470c8a72bce6fee
 msgid "Your server must log web access in a log file you can read."
 msgstr ""
 
 #: ../../source/awstats.rst:127
-# cdf11d3ab3af45458fc18d059507417c
+# 2c7b4cb2b06e4ebcabc9c118077cbf71
 msgid "To run awstats, from command line, your operating system must be able to run perl scripts (.pl files)."
 msgstr ""
 
 #: ../../source/awstats.rst:129
-# 43d8ed1a83ad4bbdac6b1e3a3bfc7ff5
+# 5b53ce9d17164b9fa3c712d48fb32432
 msgid "Perl module \"Encode\" must be available."
 msgstr ""
 
 #: ../../source/awstats.rst:131
-# c2847ed949ab4bb7ac3dc80cc6ca1c3c
+# 53737dde3e9940939271e2e90d3076ae
 msgid "To run awstats as a CGI (for real-time statistics), your web server must also be able to run such scripts."
 msgstr ""
 
 #: ../../source/awstats.rst:133
-# d1ec348039a34cae9554f4007d00fdc0
+# 6225b9af08ad4589b382f1e032f1a115
 msgid "If not, you can solve this by downloading last Perl version at:"
 msgstr ""
 
 #: ../../source/awstats.rst:135
-# e8958d7972e74b2bbaa5867d58a09655
+# b6f77174bb784b5f98132cddc4a8d2c1
 msgid "http://www.activestate.com/ActivePerl/ (Windows)"
 msgstr ""
 
 #: ../../source/awstats.rst:137
-# 08f8909877d74357ba48bfa7d83bb1f5
+# 460987a964e54db69954c8372153446c
 msgid "http://www.perl.com/pub/language/info/software.html (All OS)"
 msgstr ""
 
 #: ../../source/awstats.rst:140
 #: ../../source/awstats.rst:150
-# 0c9a0b922f724548beb5421fd1c5e3b7
-# c62df150232d4bd28b861082317642cc
+# c971912ddde84bec87be957aa7be7d8a
+# 87e3d102253e4cd8bea0ec0717e05f45
 msgid "Files"
 msgstr ""
 
 #: ../../source/awstats.rst:142
-# 6ff499919efe4566b4218016ae1e5eb8
+# 379ae82ed1ad441494569f94115c98b7
 msgid "The distribution of AWStats package includes the following files:"
 msgstr ""
 
 #: ../../source/awstats.rst:150
-# f7d93c4a790049208e24f61f9a490fc2
+# 51ab40c0b8ea47d5932fe8f91472ede0
 msgid "Packages"
 msgstr ""
 
 #: ../../source/awstats.rst:152
-# 5970d40c2fc04bbf9d6cac76e9aec1b1
+# 50e0a67bfaaf47a8b6caad85b3b8248f
 msgid "README.TXT"
 msgstr ""
 
 #: ../../source/awstats.rst:152
-# df5b9099431140a1892430529acbc62b
+# 642f08138cce4361afdc31741782a208
 msgid "This file"
 msgstr ""
 
 #: ../../source/awstats.rst:154
-# 2ef1ee95a9d7482ba529408c46475a6c
+# 9e0994b664034657aea2e231965f43de
 msgid "docs/LICENSE"
 msgstr ""
 
 #: ../../source/awstats.rst:154
-# 19dfcb7309bf4b1db948b3964b97a526
+# a2a215395ba641bea64b257a0079bf27
 msgid "GNU General Public Licence"
 msgstr ""
 
 #: ../../source/awstats.rst:156
-# d94a83cd0ee04c0fb73a3a7784f43a83
+# 2b5eed06dfc04f39bcc2e3dcb4990746
 msgid "docs/*"
 msgstr ""
 
 #: ../../source/awstats.rst:156
-# 5309f5fb806e497986eb38ad5740c7e3
+# 3b46a30b88494d89b00f182cfbfbada3
 msgid "AWStats documentation (setup/usage...)"
 msgstr ""
 
 #: ../../source/awstats.rst:158
-# 4a82514594064ae9a5c7d5b72d22a612
+# 1102e778723146e2b9eb1e2fab0ee811
 msgid "wwwroot/cgi-bin/awstats.pl"
 msgstr ""
 
 #: ../../source/awstats.rst:158
-# 65babd1a1b8f4aacaf0cf52ae1a5d7f6
+# a04e21228fa8457a8e21e585cd64003b
 msgid "THE MAIN AWSTATS PROGRAM (CLI/CGI)"
 msgstr ""
 
 #: ../../source/awstats.rst:160
-# 5b47745d12a740ca93f034cdcc25d723
+# ac9cc3cc21d647908052a9d8afc09343
 msgid "wwwroot/cgi-bin/awredir.pl"
 msgstr ""
 
 #: ../../source/awstats.rst:160
-# 74997d2b60d843929946c80f32f18343
+# 113d5804eff04603985c1586acfd9172
 msgid "A tool to track exit clicks"
 msgstr ""
 
 #: ../../source/awstats.rst:162
-# a271eb5341b84daa98ac73c34fe00c8f
+# 7488afcf129244879bef594270cf5ace
 msgid "wwwroot/cgi-bin/awstats.model.conf"
 msgstr ""
 
 #: ../../source/awstats.rst:162
-# f8065a7dc6924cbca30827d38606ac2a
+# 40ff0705e13b4af4a6ee9ac6153c4d94
 msgid "An model configuration file"
 msgstr ""
 
 #: ../../source/awstats.rst:164
-# c572f8c516504af4b32da5a90511612c
+# ad2428ae0622446a92d8dc8b276d844f
 msgid "wwwroot/cgi-bin/lang"
 msgstr ""
 
 #: ../../source/awstats.rst:164
-# b5c2d0c836b24f349bb42c2cb69ad1e5
+# 4ddf4824ebab4bc18d4046bb41ebc574
 msgid "Directory with languages files"
 msgstr ""
 
 #: ../../source/awstats.rst:166
-# e19d33a665dd46cf90390612146e9a5a
+# dbbb7a6f832f4d1aa47dcbd9e144b5a9
 msgid "wwwroot/cgi-bin/lib"
 msgstr ""
 
 #: ../../source/awstats.rst:166
-# 8c2c0aaa421f4f27a2876eb6d4d4984d
+# b8d08a9dc0df43e090bb1eab14f72acf
 msgid "Directory with awstats reference info"
 msgstr ""
 
 #: ../../source/awstats.rst:168
-# a4de1afdad5841d48b97bcc1086bffb3
+# 49907d8c4e994f34be04221d8331501a
 msgid "wwwroot/cgi-bin/plugins"
 msgstr ""
 
 #: ../../source/awstats.rst:168
-# 894be126a2a2456eac3200eb8856475d
+# 431ac66a341d42109cd7e8a315d275b2
 msgid "Directory with optional plugins"
 msgstr ""
 
 #: ../../source/awstats.rst:170
-# 2c78b17197fe41c082d8513c17e44842
+# fb619ef89365403d9c65ea5d45c10f4b
 msgid "wwwroot/icon/browser"
 msgstr ""
 
 #: ../../source/awstats.rst:170
-# cdd6114630aa40bdb529790348533fce
+# b8833a6049834f20ae59b53f2f44dd52
 msgid "Directory with browsers icons"
 msgstr ""
 
 #: ../../source/awstats.rst:172
-# f22e651965254fc388f5d2c2c0999dc3
+# 18235cc8ae0a4a549a6620339922360b
 msgid "wwwroot/icon/clock"
 msgstr ""
 
 #: ../../source/awstats.rst:172
-# d5e900bc2c6e4dc898e66c0c9b300c0c
+# 24b54deea2284ab1ba3a8995a850da13
 msgid "Directory with clock icons"
 msgstr ""
 
 #: ../../source/awstats.rst:174
-# 3c4cafe4be8b4eb7a17e57ca1684dc81
+# e5aca4d9a3c64b0482cd6eb2fc5ffd20
 msgid "wwwroot/icon/cpu"
 msgstr ""
 
 #: ../../source/awstats.rst:174
-# 0ca279054b7f4bfdb12125e96d908600
+# d84283ba2f4d441893f6c94b68b35e4b
 msgid "Directory with cpu icons"
 msgstr ""
 
 #: ../../source/awstats.rst:176
-# 3f23559967ed4500ba2f54073c236f61
+# 6c6e8346a1da4151bb378c6376be3922
 msgid "wwwroot/icon/flags"
 msgstr ""
 
 #: ../../source/awstats.rst:176
-# f030898014294b05ada90a288da172d8
+# 02366351d216441fba126ad18b2e4306
 msgid "Directory with country flag icons"
 msgstr ""
 
 #: ../../source/awstats.rst:178
-# 7f122204cd5643baaec259e2a37c4f7c
+# f936fd3bd90145e389e334bece108b55
 msgid "wwwroot/icon/os"
 msgstr ""
 
 #: ../../source/awstats.rst:178
-# 7a31d83b0e254f7997bef30e60b4a909
+# 2d5dc74577b34366b6d621d3f408ee33
 msgid "Directory with OS icons"
 msgstr ""
 
 #: ../../source/awstats.rst:180
-# 77a4f35941be4ff7bdc2db2a00bc4091
+# 995df08aadd244458bf8bb65e742a688
 msgid "wwwroot/icon/other"
 msgstr ""
 
 #: ../../source/awstats.rst:180
-# 009bc9980da84245b6ec80945ce92280
+# 743c0ead06264faab080d9cd426dd668
 msgid "Directory with all others icons"
 msgstr ""
 
 #: ../../source/awstats.rst:182
-# f0227401924c46a88c3dfcae3f61fa81
+# 1551f3f63d614f3aac57e31fc3e1e1da
 msgid "wwwroot/classes"
 msgstr ""
 
 #: ../../source/awstats.rst:182
-# 0b57fa53640b47ae9a98c5b54df15569
+# faf5411a1c3546fea00786e15e81f654
 msgid "Java applet for graphapplet plugin"
 msgstr ""
 
 #: ../../source/awstats.rst:184
-# b200f0cc8bf4459499ad2f88334fc96c
+# c4537967547346b7b3125fcf5c19cab5
 msgid "wwwroot/css"
 msgstr ""
 
 #: ../../source/awstats.rst:184
-# 38b42a5b4bcc489c870a4ff3045fb106
+# 024d931cb5f74d9194f571c8cd25c551
 msgid "Samples of CSS files"
 msgstr ""
 
 #: ../../source/awstats.rst:186
-# 9eae442e07a4424a97a7628025dbbe9e
+# 616a19f63aab4a42956ae322f974e8cd
 msgid "wwwroot/js"
 msgstr ""
 
 #: ../../source/awstats.rst:186
-# 031bf71c3907445c988147a456b14f56
+# fa50ad9245744eb9a8fcb739da9fa2c1
 msgid "Javascript sources for \"Misc\" feature"
 msgstr ""
 
 #: ../../source/awstats.rst:188
-# ff85fe12a5d54bec8c52d2379361eeda
+# 99af376e038c4b8c8e48500dc6f7ca77
 msgid "tools/*"
 msgstr ""
 
 #: ../../source/awstats.rst:188
-# da28ffd7bbbb4546b7f189481662007c
+# 0e4acd623792465b8912a6562a0a2d46
 msgid "Other provided tools"
 msgstr ""
 
 #: ../../source/awstats.rst:190
-# 91d9481f785b47a99edd0340a31e5dac
+# afa94965b4864985a1003f0881b54d27
 msgid "tools/webmin/awstats-x.x.wbm"
 msgstr ""
 
 #: ../../source/awstats.rst:190
-# 4acbe9f52e32409789b2a5e388ee8dc4
+# 3043a0090a5241aa86074e4f81a9b077
 msgid "A Webmin module for AWStats"
 msgstr ""
 
 #: ../../source/awstats.rst:192
-# 3a21f79d21ad4ef48ea168f9e219d1aa
+# d7740328d04743bdab1023c1f8212485
 msgid "tools/xslt/awstats61.xsd"
 msgstr ""
 
 #: ../../source/awstats.rst:192
-# 6710907527fc43b58087f1598c2bdf40
+# 7d8eb93fa36341d18b6ce36ab772fd92
 msgid "AWStats XML database schema descriptor"
 msgstr ""
 
 #: ../../source/awstats.rst:194
-# eed82d9e51c8402fb2fae98bb40867a7
+# 1c84f04c4874459d80bbf2de17a67508
 msgid "tools/xslt/*"
 msgstr ""
 
 #: ../../source/awstats.rst:194
-# cd32218c46094cd8863861c1c95964a7
+# e605b5c72c8340eda24dfb234931dbf2
 msgid "Demo to manipulate AWStats XML database|"
 msgstr ""
 
 #: ../../source/awstats.rst:201
-# 38255455665648df946021a6590a6a42
+# 86d58e1f858c4911ab7b04bb1e5ca2e1
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/awstats.rst:204
-# 55612373d87d4b9a845c72a3dd8a5615
+# 8672ad38cf3548ef81f0654c663b41d0
 msgid "The parameters used in help and installation and un installation operations are not case sensitive which is an added advantage while compared  to others."
 msgstr ""
 
 #: ../../source/awstats.rst:205
-# 7e1a6dfa7fc940af8c4b795563c94c9b
+# 639e5aec88f1425899a64b64fc33011a
 msgid "It is well-to-do in both Ubuntu and as well as Cent OS."
 msgstr ""
 
 #: ../../source/awstats.rst:206
-# a289994552a4456b88f485cd314d1940
+# b710cf1edc9547bc828b6699f31a2db4
 msgid "This will module installs the Awstats in updated version."
 msgstr ""
 
 #: ../../source/awstats.rst:207
-# 368c63213e8f4b9fa2fdb4373ce06b64
+# b01dd14817524616932c1757504615fe
 msgid "If the module is already existing in the user machine it will display a message as it is already existing."
 msgstr ""
 
 #: ../../source/awstats.rst:208
-# a9fa14a0e36f4e4181deae938140e45f
+# b7385a9c3d2f4ee2b9e9b0a4d551a9ec
 msgid "AWStats supports most major web server log file formats including Apache (NCSA combined/XLF/ELF log format or Common Log Format (CLF)), WebStar, IIS (W3C log format), and many other common web server log formats."
 msgstr ""
 
 #: ../../source/awstats.rst:210
-# d640bd6dc87c4cec8cd3e2bae0d93414
+# f19ae3917fe7466382fdf4bcd8c6632b
 msgid "Developers can contribute to the AWStats project through SourceForge.net."
 msgstr ""
 
 #: ../../source/awstats.rst:211
-# 5757a5a5adbd4b6b9f9854a1c0ab7c50
+# 3daf6564adb2428fb5aa6733645dd8b6
 msgid "Written in Perl, AWStats can be deployed on almost any operating system"
 msgstr ""
 
 #: ../../source/awstats.rst:212
-# 856898bc1878461682456d6461b8e4de
+# 1e359b34fc7f4a25b3ae86b983ba68f5
 msgid "It is a server administration tool, with packages available for most Linux distributions."
 msgstr ""
 
 #: ../../source/awstats.rst:213
-# 99c645e529644e758648f6bf20650d38
+# 638fa7728f7f4a89a40d9b9fecf1aad4
 msgid "AWStats can be installed on a workstation, such as MS Windows, for local use in situations where log files can be downloaded from a remote server."
 msgstr ""
 

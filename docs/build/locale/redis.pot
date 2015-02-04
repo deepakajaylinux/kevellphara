@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,154 +17,154 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/redis.rst:3
-# 857b1fe5665946bbb5a1dba13edafa4d
+# 58b34a016f1f42a6909d8c9ba1d9fa8b
 msgid "Redis"
 msgstr ""
 
 #: ../../source/redis.rst:6
-# 7f1a46c77c0a4d67857f92ff3c8c3a13
+# 2971c2c50d0d4e4481bcbbde107e8894
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/redis.rst:8
-# c38693c9142d48498bc4007ec161a812
+# 33181693537d47b9a3d518fc62c68e4c
 msgid "Redis is a data structure server. In redis, networked, in-memory, and stores keys with optional durability. Redis is the most popular key-value store. The name Redis means REmote DIctionary Server. Redis supports master-slave replication. Data from any Redis server can replicate to any number of slaves. This allows Redis to implement a single-rooted replication tree. These services handle installation, configuration and maintenance of Redis on behalf of the application owner. This service comforts with Ubuntu and centOS."
 msgstr ""
 
 #: ../../source/redis.rst:11
-# fb24f9da2e1c425f83416a16e728df49
+# f19d4511026440b7a59df951d8da1d76
 msgid "Help command"
 msgstr ""
 
 #: ../../source/redis.rst:13
-# 2aae44f7ce424f179b21f936013c41ac
+# b9828fa6d21a4f409209c70a76172e03
 msgid "The help command leads the users regarding the purpose and as well as about the options that are included in the redis module. The help command lists out the alternative parameters of redis under cleopatra module. It also describes the syntax for initializing the user’s machine. The help command for redis shown below."
 msgstr ""
 
 #: ../../source/redis.rst:19
-# a2f16309a74b4816ad37b8ff7aa3ab3c
+# 73321f151b22490eafab134b0afa4b6e
 msgid "The pictorial representation of the above command is listed below,"
 msgstr ""
 
 #: ../../source/redis.rst:41
-# 081e049a797b467f8a6023402bbb942c
+# 67b83f36192b46b6a422b9dc15b7b4c0
 msgid "Installation"
 msgstr ""
 
 #: ../../source/redis.rst:43
-# b5963a18060747af8e8333c82b11483b
+# 840f89489f424450a553b08646dead59
 msgid "Installation of a phlagrant module is including device drivers and plugins, act of making the program ready for execution. While installing this module the following command will be passed."
 msgstr ""
 
 #: ../../source/redis.rst:49
-# 8c8b10f5aca549a781d356fcc2815a47
+# e8fdf519a3b14d459f012c0566a38f51
 msgid "After inputs the command the system can ask"
 msgstr ""
 
 #: ../../source/redis.rst:51
-# 8cdd4c83ba194f14b82b7327b7378165
+# 5ee6f38a4b944a91ad9da94d8b7f272a
 msgid "Install Phlagrant? (Y/N)"
 msgstr ""
 
 #: ../../source/redis.rst:53
-# 1fc60e5c251448d9b1ea43ba618aa39b
+# e900521406cf4480be22a56149acfa3a
 msgid "If the user gives Y then Phlagrant will be installed. The following Screen shot demonstrate it."
 msgstr ""
 
 #: ../../source/redis.rst:287
-# ef766f0636a642b2b7a16dbcc2cdaad5
+# 49b97ea9e11a4feb94f3083b159e565c
 msgid "Option"
 msgstr ""
 
 #: ../../source/redis.rst:292
-# 4298b766cafa46a690f264a9543c5c72
+# 97660ab1d3bb402aad657121af888a3d
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/redis.rst:292
-# 5e036a335a5843cc94ec8ec19d27df64
+# 87d3b60a9b3c4db09ae08f09fc54dc26
 msgid "Directory(default)"
 msgstr ""
 
 #: ../../source/redis.rst:292
-# f36484a4bbc64ff9a3890a9088a79f77
+# 61b0e95aecf74c63afe5d978931bb43f
 msgid "Alternative Options"
 msgstr ""
 
 #: ../../source/redis.rst:292
-# e68e52b927a44867804df84757e888ed
+# fbc08faa08c24097969234d09fd05867
 msgid "Comments"
 msgstr ""
 
 #: ../../source/redis.rst:294
 #: ../../source/redis.rst:297
-# 5c36cb9d6a974c358566921ed2632359
-# cfe49b2576b54eccb72c8095e3ca501d
+# e3e62b480e4045d283a247882dce328f
+# 9b2dcbfb84794d97af0fd5354fe6da2a
 msgid "Install Redis ?"
 msgstr ""
 
 #: ../../source/redis.rst:294
-# 8d71da0282f546099035c4a1747b10ba
+# e6ac132b7f2c44e5b94165cb789b0581
 msgid "Yes"
 msgstr ""
 
 #: ../../source/redis.rst:294
-# b4084f9bca234eb29a7ed93e335112b8
+# bd7ef2313da64ba7a23af5f24903c3c7
 msgid "Instead of using redis, the user can use Redis"
 msgstr ""
 
 #: ../../source/redis.rst:294
-# c6d95c74d6b64887a82b2f4c370d6947
+# 6f5af38f1e2a463b9988eb53ed5f2123
 msgid "It installs redis under cleopatra"
 msgstr ""
 
 #: ../../source/redis.rst:297
-# e32f309b1eb6495fa0a932b0dc6dccad
+# 5e4e69ac186c46828fad495379a729e8
 msgid "No"
 msgstr ""
 
 #: ../../source/redis.rst:297
-# bf0f59f1ae80456ab71436b50cc70b10
+# fe6b3b209a714eeaa8ef9c1718533d22
 msgid "Instead of using redis, the user can use Redis.|"
 msgstr ""
 
 #: ../../source/redis.rst:297
-# 8fe879128158470dba7d156dde5ccbf0
+# 18c41e5960f443f5a4a285b363d907f2
 msgid "It stops the installation process."
 msgstr ""
 
 #: ../../source/redis.rst:303
-# e66b7d801f0b46378bead47726cb7101
+# 8a94cc228f46430fb167cd6621141381
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/redis.rst:305
-# fee00664cd0c4f828ae17c9a415a1883
+# 1c030ca1f9d04c36a2eb3c6b26c6d78d
 msgid "Automatic scaling, unlimited Redis nodes."
 msgstr ""
 
 #: ../../source/redis.rst:306
-# 1064e695b4584da4b69812bb9e3736c9
+# a967bf7291274cca94cfd91292e25119
 msgid "High availability in Ubuntu and cent OS."
 msgstr ""
 
 #: ../../source/redis.rst:307
-# e30e8b1e5c4545f1911d381517bdbed7
+# 3b2a036764aa493abdba38b0207e5069
 msgid "Data persistence and durability."
 msgstr ""
 
 #: ../../source/redis.rst:308
-# 682034f97f00447b8b1e9552440e2ba0
+# 4df5a0cdfa124473969617f95aec3bd8
 msgid "Daily and on-demand backups."
 msgstr ""
 
 #: ../../source/redis.rst:309
-# 3ba50834bff74867b416150de9af18bd
+# 7c53b6b696644b989466c7737e44eb8f
 msgid "Built-in clustering."
 msgstr ""
 
 #: ../../source/redis.rst:310
-# 06d022810c15463d9bc34b5997f21b48
+# d873280234f84a27997c3c7f2f835b71
 msgid "Non case sensitivity."
 msgstr ""
 

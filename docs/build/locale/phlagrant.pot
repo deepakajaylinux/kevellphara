@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,187 +17,187 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/phlagrant.rst:2
-# d86f6b9236bc442ba78e83d80ef26b37
+# cb2b5a74f2604ffb8ced2e2334307239
 msgid "Phlagrant"
 msgstr ""
 
 #: ../../source/phlagrant.rst:6
-# 78ab0da5d7b2498a8dee61e08642d4d0
+# 9311a2d3130d4efebfc3785d1126b63e
 msgid "While comparing with Cleopatra, the Phlagrant is a virtual machine management tool that provides the features for Virtual machine and development environment management."
 msgstr ""
 
 #: ../../source/phlagrant.rst:8
-# 40c5d3e6422a43de93dfd1cf659b51ee
+# 16811eedc8d04436ad47332e57ab5171
 msgid "By using Devops it manages the virtual machine configuration, facilitates the different types of contributors even in a highly complex development environment."
 msgstr ""
 
 #: ../../source/phlagrant.rst:10
-# 39293e1687254004933401f00283c614
+# 7629aa09c3094a60bddf9fe64fd3f289
 msgid "It facilitates the automating, standardizing and managing the setup to virtualized environment. Its functionalities includes Configuration Management, Test Automation Management, Automated Deployment, Build and Release Management, Development Environment Management and those functionalities are performed."
 msgstr ""
 
 #: ../../source/phlagrant.rst:12
-# 0f8c8e5e6602473f9243883f43482760
+# 5ae900946ca241989a6d87ad99932a97
 msgid "In Phlagrant the Configuration Management, Systems Automation and Infrastructure is framed in php. Editing a php script is really easy, as there is no compilation step to perform."
 msgstr ""
 
 #: ../../source/phlagrant.rst:14
-# 91fee23fcfd744ed9cbeabe3ff4577b5
+# 3f3a706e4ce54df2ac0841d6adc15c33
 msgid "The Phlagrant is object-oriented that enrich not only the data type but also the types of operations that can be applied to the data. Hence, while comparing object-oriented programming techniques over procedural programming techniques , the object-oriented programming enables the end users to create modules that do not need to be changed when a new type of object is added."
 msgstr ""
 
 #: ../../source/phlagrant.rst:16
-# f6bed9b6b7534cb5a0191cb48b8c54a5
+# cab05b392e664754bfa5c25cd71209dd
 msgid "The Phlagrant is extensible, as if any extra module is required the user can frame and design the module as per their requirements and they can include."
 msgstr ""
 
 #: ../../source/phlagrant.rst:18
-# 7516f0b00b1243c58d5cfa6b6cc03851
+# 36a6c8092745423299c12f1fff01aa24
 msgid "By using the functionality of templating option extra-templates can be added, if required. The SSH option enables to set a SSH key value. The SFTP facilitates readability and write ability between the two different OS using virtual box."
 msgstr ""
 
 #: ../../source/phlagrant.rst:22
-# 6e42ebb054cf46639cfd648e2e3d6e18
+# 3517994ba39940caba74b76d43ee82ba
 msgid "Requirements"
 msgstr ""
 
 #: ../../source/phlagrant.rst:24
-# 2937da8ed0d7450e82c49b671b504da8
+# 15e4ecedef294c0987cb6604de72986d
 msgid "If you wish to use the Phlagrant, ensure whether the Virual box is installed in your machine, along with the Virtual box guest additions functionality"
 msgstr ""
 
 #: ../../source/phlagrant.rst:27
-# 055bdbc4333b4acab35e235b91016aeb
+# 74271f4c92da4404b66d47253632fc94
 msgid "Code for installing virtual box"
 msgstr ""
 
 #: ../../source/phlagrant.rst:34
-# 47aad7d31a4d4a3bad5afdb8b641ba76
+# 6a2e20b981d44d1087b124d318554ae5
 msgid "Installation"
 msgstr ""
 
 #: ../../source/phlagrant.rst:36
-# 45205c70e4504f4cb21e8a56f7af3c5b
+# a9141e25e433488b8af3f172108cc2e3
 msgid "There is two possible ways to install the Phlagrant tool to your machine:"
 msgstr ""
 
 #: ../../source/phlagrant.rst:38
-# 8ca2d1ed79684f31bb34b9150ccecd5f
+# 40fa1e293a63441e9bb504022bbe20f8
 msgid "1)Installation via Cleopatra 2)Installing Phlagrant alone"
 msgstr ""
 
 #: ../../source/phlagrant.rst:42
-# f6fe9722af4f41399646585436a394ee
+# 00d4cd4a5484489491643f7fef8b0acd
 msgid "Installation via Cleopatra"
 msgstr ""
 
 #: ../../source/phlagrant.rst:44
-# 025a016dce024a78bdcf50e6042ff438
+# 30cfda191b824b1d81300ead7e0c2fab
 msgid "if you have Cleopatra tool in your machine, then it's simple to install the phlagrant by using the code as given below,"
 msgstr ""
 
 #: ../../source/phlagrant.rst:52
-# 793eadfa74e04192a23cc9b09e287355
+# 5f71c0e3bf934968a25dac00c56b9546
 msgid "here the word guess can be ignored while selecting your own directory during installation."
 msgstr ""
 
 #: ../../source/phlagrant.rst:55
-# 3b54997cd8f74af38067da90948b6f1c
+# 46d45183eb6e450d984e47c66b7b0b9b
 msgid "Installing Phlagrant alone"
 msgstr ""
 
 #: ../../source/phlagrant.rst:57
-# 878f41351d6643628f57c8aebde5cad0
+# 6c81deb153874056983fcee09e81bfea
 msgid "If you want to install the phlagrant tool to your machine without depending on the Cleopatra tool, it is easier by using the command,"
 msgstr ""
 
 #: ../../source/phlagrant.rst:63
-# fdeafb79b31741f19f25ec016ea2362c
+# 139a8b82257e472b90d6d19d6be2bc58
 msgid "this command will install php5 and git on your machine. After that use the following command,::"
 msgstr ""
 
 #: ../../source/phlagrant.rst:67
-# 57866bcc7fd54194b90bed9b6fcb2014
+# a6605b9581c84a018c7d90c7a756caf2
 msgid "the command on the above mentioned can be used if you don't want to select the location during the installation. If you wish to do so, use the following command::"
 msgstr ""
 
 #: ../../source/phlagrant.rst:72
-# bceb4ebba07941beafeef19b8513ce85
+# 671ec7a159e14b518bc58a48d3ce9417
 msgid "Methodologies in usage"
 msgstr ""
 
 #: ../../source/phlagrant.rst:74
-# 71899958b517495baaf84fd6045b266b
+# ed2604bc3f514043bf3f3b360019e069
 msgid "Here, let us see how to use the commands under the tool and its usage."
 msgstr ""
 
 #: ../../source/phlagrant.rst:76
-# 202a781bff08405db019d13eada6e48b
+# dd7b1a2eb04e460f802c2e686cac3fd6
 msgid "if you simply type the following command,::"
 msgstr ""
 
 #: ../../source/phlagrant.rst:80
-# 73d10b4bc42d49e5a65afda403f010f0
+# babd15ebc1d84fb8b15ed8a21f879662
 msgid "As shown in the below screenshot, you will get the display of all the modules available under this tool.::"
 msgstr ""
 
 #: ../../source/phlagrant.rst:120
-# dc2cc8ebaa7d46f483d040f62c233b5e
+# e9f6bf7f06b549f9979f314b235fe3a6
 msgid "Help command:"
 msgstr ""
 
 #: ../../source/phlagrant.rst:122
-# 7a61180a2b2a4435a30afd0cccbe6461
+# 63e74b853d514388918b86ba0bd186bb
 msgid "It's simple to use the help command,"
 msgstr ""
 
 #: ../../source/phlagrant.rst:124
-# c037ccbe7caa411298ef01b9c73459e9
+# 9540dc64d2b94d299d9e81a86ff9ab6f
 msgid "phlagrant ModuleName help"
 msgstr ""
 
 #: ../../source/phlagrant.rst:126
-# 4f45d68188f946a8bb3cd12877cb4f58
+# ffe34ebec75e4351ae01a6bf220870f9
 msgid "This command helps you how the particular modules works, and also about what are the actions it can perform. The below screenshot explains you how the help command is used to explain the module AutoSSH.::"
 msgstr ""
 
 #: ../../source/phlagrant.rst:157
-# e51eddd9de1647a79c76c85ccdb9c375
+# 6805cf936dfd40a6ae1028829000d702
 msgid "Brief Example"
 msgstr ""
 
 #: ../../source/phlagrant.rst:159
-# 092b469507e34e2fa338d867eae49d61
+# e043062a4a204daeaaf80cf976fa0f0c
 msgid "let's see about a short example regarding the phlagrant here."
 msgstr ""
 
 #: ../../source/phlagrant.rst:161
-# 27aa03f403fb4b7eaee07ddff2edcb8c
+# cc9be2e15ecb4b7da6254152a755bd11
 msgid "create a directory, or simply use a current web project as your new Pharaoh project mkdir /var/www/my-test-project && cd /var/www/my-test-project"
 msgstr ""
 
 #: ../../source/phlagrant.rst:163
-# 3245aa0ab10e4cdea10aa6a64c3f3ac5
+# 55049a722e1547cdb1508050c4ca57c4
 msgid "install virtualbox to your machine if you don't have it already, it's simple by using the command as follows,::"
 msgstr ""
 
 #: ../../source/phlagrant.rst:167
-# 212d08a96e1d4311a1a84b66e8a97a6b
+# 3af76f41609e4f059cbd34aa81510ddd
 msgid "add a default Cleopatra Configuration Management Autopilot file using the following command::"
 msgstr ""
 
 #: ../../source/phlagrant.rst:171
-# a1dac01d3db64ed7a414cdcba075d327
+# d0577e6da71f4bbf81769c17ca6fff4e
 msgid "flirtify phlagrant flirt now --template-group=default-php"
 msgstr ""
 
 #: ../../source/phlagrant.rst:173
-# ad4e04206c3b47e6b1e5b851d3abfe3f
+# 3977d4827d28419db822d02048f7f0c1
 msgid "install, configure and start the virtual machine Phlagrant up now"
 msgstr ""
 
 #: ../../source/phlagrant.rst:179
-# 9878ee91d5e54f3d976c6dff63c2c30a
+# d2a1c38e26f34d4384d652eb053f600b
 msgid "Playing with Phlagrant Modules"
 msgstr ""
 

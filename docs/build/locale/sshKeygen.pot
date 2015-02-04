@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,179 +17,179 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/sshKeygen.rst:3
-# 09507d343b0741dfb7c1c5cc529f557d
+# 9456bed34b794ce5a2f089f9f3b3237e
 msgid "SshKeygen"
 msgstr ""
 
 #: ../../source/sshKeygen.rst:7
-# 345df700efd74292ad547c988816e242
+# d76d8bbd50e24a20b8183b511a5e8bc9
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/sshKeygen.rst:9
-# 6b98c79053d04639864ca1c54d0aee38
+# d202c93a29ce43b0a4d2779c1522dc2b
 msgid "It is an aid to generate the key value. This module is having two key types. They are dsa,rsa. dsa key bit value is 1024 and the rsa key bit value is more than 768. Then only it can function. It is handy in task with Ubuntu and cent OS."
 msgstr ""
 
 #: ../../source/sshKeygen.rst:12
-# abd888085dc94bfcb9f29ebb77c611ce
+# b7bbd40288234cbcb6f5235076e85629
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/sshKeygen.rst:14
-# 75bebdd00aa8426ba68760e825d9f131
+# 54c7b5946b4a4f9c8a454ccea5486f3a
 msgid "This help command explains about the installation of a particular module. The help command is easy to operate by the end user. The following command guided the user about the installation."
 msgstr ""
 
 #: ../../source/sshKeygen.rst:20
-# a1630e1432ab4fdf949101ad7b028db8
+# 836e7fb0a0054d1eb74f27ced3784451
 msgid "After giving the command, the command will list the help options. The following screen shots will give visual effect for the usage of this module."
 msgstr ""
 
 #: ../../source/sshKeygen.rst:49
-# 56297eff0d3141a3976432a62d4a67f9
+# 6d785c601a784e26a13de05f9274b413
 msgid "Installation"
 msgstr ""
 
 #: ../../source/sshKeygen.rst:51
-# 63faabbe36a64759a587ce292ff42e77
+# 7510855a410241c0acf733bf4fd30818
 msgid "Installation is not a difficult process to install this module under Cleopatra by merely using the command given below,"
 msgstr ""
 
 #: ../../source/sshKeygen.rst:58
-# 4065be33e34e470d9921321089792e8f
+# 7e396b4c509f48808427fcda65ac082f
 msgid "After entering inputs ssh key gen will be installed successfully. The following screen shots will give visual effect for the usage of this module."
 msgstr ""
 
 #: ../../source/sshKeygen.rst:96
 #: ../../source/sshKeygen.rst:102
-# efdf48114ab34d4d989c16b542b33341
-# 2cc16ba2ef0c4bc78ca6c2b4ff930e52
+# 9b07d0a2e10c43d7b28ff85cf82cba3d
+# 700c213a05054d45865b001d4c8df0eb
 msgid "Options"
 msgstr ""
 
 #: ../../source/sshKeygen.rst:102
-# b87bcffc9fc94fd48175785d4389a27d
+# 16d769edec15408fbaeb9152c1fc74a5
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/sshKeygen.rst:102
-# 1c604d7d7b3445efa572c8c6f5e08d14
+# 9f775304e8974f00a3c8e0aff6f8954e
 msgid "Directory (default)"
 msgstr ""
 
 #: ../../source/sshKeygen.rst:102
-# 96527979b12845f988384b00752b4a15
+# 4cfd90feac97469ea969c43287f2f82d
 msgid "Comments"
 msgstr ""
 
 #: ../../source/sshKeygen.rst:104
 #: ../../source/sshKeygen.rst:106
-# 14587c556ca746b3a9f88377633ebaa3
-# 864ccec480c84e159199dcb84b5fddf4
+# 7b75ac4b0e414375b7669b020ca16453
+# 80826dd405dd49fca2f84845dfa7312e
 msgid "Install Key Generation"
 msgstr ""
 
 #: ../../source/sshKeygen.rst:104
-# 8feb4167be654449bef8597aeb983a23
+# d1bfbb7c340a4677bcd0fa342cabe163
 msgid "Yes"
 msgstr ""
 
 #: ../../source/sshKeygen.rst:104
-# 36386c85c22642bbb482d73dce80d3a1
+# 6e41b94336774db69ff2d9b3511ace55
 msgid "It will install key generation under Cleopatra"
 msgstr ""
 
 #: ../../source/sshKeygen.rst:106
 #: ../../source/sshKeygen.rst:119
-# f028d0d438fa48658d1ea4b845f2f553
-# c4c1a395d9084c3790cc4a889c58f41e
+# 43ec03a5490545e88779f7f1d0b81ac7
+# cc97bd4bb46246158ea65bddf47f1e41
 msgid "No"
 msgstr ""
 
 #: ../../source/sshKeygen.rst:106
-# 3b13ef906a77460aa2751886850adf22
+# 783abf15d8fb4dc886174fb94a8bea4b
 msgid "The user has to an exit."
 msgstr ""
 
 #: ../../source/sshKeygen.rst:108
 #: ../../source/sshKeygen.rst:111
-# d837e067c89e4db0a3e323cba4dd5512
-# 14e587e889a44e1fb3ad345632989e56
+# c1c4288416184212a89f04e83dc76370
+# 3cda8998cd8546d58c5b48de600004da
 msgid "Choose key type"
 msgstr ""
 
 #: ../../source/sshKeygen.rst:108
-# 43e1fd18a226432294e5169eb4c4a86e
+# ee16c993667140ab8beec363ee05889a
 msgid "rsa"
 msgstr ""
 
 #: ../../source/sshKeygen.rst:108
-# 386efb9610354d42863ba6b4f93d2d49
+# b8a1e3b2754a415e90ebeeb171a4aaf3
 msgid "0"
 msgstr ""
 
 #: ../../source/sshKeygen.rst:108
 #: ../../source/sshKeygen.rst:111
-# be2226390a1f4633b5ea8adc0964dca5
-# 1629dafd001541adb724b85cf5f4d2ab
+# 440b8e63842040fea49cca59c5044d59
+# b8517c76c66c43a1a8e5548d63151bb5
 msgid "It will install key generation under selected key type"
 msgstr ""
 
 #: ../../source/sshKeygen.rst:111
-# 3d4cbd9a68dd4ce09e607690a1f813fc
+# ec230763abb54248a1c7d7b8d450cc43
 msgid "dsa"
 msgstr ""
 
 #: ../../source/sshKeygen.rst:111
-# a055e40c6ad94f28bf8018146d741c29
+# 80f3374258244595b10f781c8b127828
 msgid "1"
 msgstr ""
 
 #: ../../source/sshKeygen.rst:114
-# cd925517bc004f20846a4040672295fe
+# 5cdeb736173447e3b119c08ea70cef9a
 msgid "path"
 msgstr ""
 
 #: ../../source/sshKeygen.rst:114
-# 3271292db690461ebcc745d6a4a79ad8
+# 561d2e9438664529ad7fce3174799c33
 msgid "/root/ssh/filename"
 msgstr ""
 
 #: ../../source/sshKeygen.rst:114
-# 3adad855b383415c9deabd982c083f88
+# e8068c13de204a05a195104c2704c89f
 msgid "It will create the file with public and private key"
 msgstr ""
 
 #: ../../source/sshKeygen.rst:117
 #: ../../source/sshKeygen.rst:119
-# 9359f23173f34a698d159c5e6d20bebd
-# db370755ed164a318392214a1bde5ebe
+# 8a1edb71c295479aab83c8574bb9180f
+# 1e28d566597143aca8840bf49cdf2a42
 msgid "Command appended in file"
 msgstr ""
 
 #: ../../source/sshKeygen.rst:117
-# 53f7bc0e3d43417fbe10c7f8cda98e0e
+# 1bf4824c8c6d46968908d5649f7f1ac3
 msgid "yes"
 msgstr ""
 
 #: ../../source/sshKeygen.rst:117
-# b5f0c2580c114dd2bd788b36cbb24dfc
+# 25099fd9bd8248f4872bc43f3886ef32
 msgid "The user has to append"
 msgstr ""
 
 #: ../../source/sshKeygen.rst:119
-# eb057dd7f8114f61888ed72c83a41818
+# 161b21536a7f40acac276b1a6915dd2c
 msgid "Exited from the doc|"
 msgstr ""
 
 #: ../../source/sshKeygen.rst:125
-# e1b1a1e930ce4f949ef5d94f55355e1f
+# c0bc47410e01417e9fc33a4b780f6162
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/sshKeygen.rst:127
-# 7a38ad9841c8405cbfad449415816a8b
+# acf98a2e38df4315807dc2f9296b9ac2
 msgid "We can work from remote place. The user has to instruct the system for path. Auto generation is possible.  We can append the file whenever you need. We can share the keys without password. Non case sensitive."
 msgstr ""
 

@@ -1,0 +1,160 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/sshKeygen.rst:3
+msgid "SshKeygen"
+msgstr ""
+
+#: ../../source/sshKeygen.rst:7
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/sshKeygen.rst:9
+msgid ""
+"It is an aid to generate the key value. This module is having two key types."
+" They are dsa,rsa. dsa key bit value is 1024 and the rsa key bit value is "
+"more than 768. Then only it can function. It is handy in task with Ubuntu "
+"and cent OS."
+msgstr ""
+
+#: ../../source/sshKeygen.rst:12
+msgid "Help Command"
+msgstr ""
+
+#: ../../source/sshKeygen.rst:14
+msgid ""
+"This help command explains about the installation of a particular module. "
+"The help command is easy to operate by the end user. The following command "
+"guided the user about the installation."
+msgstr ""
+
+#: ../../source/sshKeygen.rst:20
+msgid ""
+"After giving the command, the command will list the help options. The "
+"following screen shots will give visual effect for the usage of this module."
+msgstr ""
+
+#: ../../source/sshKeygen.rst:49
+msgid "Installation"
+msgstr ""
+
+#: ../../source/sshKeygen.rst:51
+msgid ""
+"Installation is not a difficult process to install this module under "
+"Cleopatra by merely using the command given below,"
+msgstr ""
+
+#: ../../source/sshKeygen.rst:58
+msgid ""
+"After entering inputs ssh key gen will be installed successfully. The "
+"following screen shots will give visual effect for the usage of this module."
+msgstr ""
+
+#: ../../source/sshKeygen.rst:96 ../../source/sshKeygen.rst:102
+msgid "Options"
+msgstr ""
+
+#: ../../source/sshKeygen.rst:102
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/sshKeygen.rst:102
+msgid "Directory (default)"
+msgstr ""
+
+#: ../../source/sshKeygen.rst:102
+msgid "Comments"
+msgstr ""
+
+#: ../../source/sshKeygen.rst:104 ../../source/sshKeygen.rst:106
+msgid "Install Key Generation"
+msgstr ""
+
+#: ../../source/sshKeygen.rst:104
+msgid "Yes"
+msgstr ""
+
+#: ../../source/sshKeygen.rst:104
+msgid "It will install key generation under Cleopatra"
+msgstr ""
+
+#: ../../source/sshKeygen.rst:106 ../../source/sshKeygen.rst:119
+msgid "No"
+msgstr ""
+
+#: ../../source/sshKeygen.rst:106
+msgid "The user has to an exit."
+msgstr ""
+
+#: ../../source/sshKeygen.rst:108 ../../source/sshKeygen.rst:111
+msgid "Choose key type"
+msgstr ""
+
+#: ../../source/sshKeygen.rst:108
+msgid "rsa"
+msgstr ""
+
+#: ../../source/sshKeygen.rst:108
+msgid "0"
+msgstr ""
+
+#: ../../source/sshKeygen.rst:108 ../../source/sshKeygen.rst:111
+msgid "It will install key generation under selected key type"
+msgstr ""
+
+#: ../../source/sshKeygen.rst:111
+msgid "dsa"
+msgstr ""
+
+#: ../../source/sshKeygen.rst:111
+msgid "1"
+msgstr ""
+
+#: ../../source/sshKeygen.rst:114
+msgid "path"
+msgstr ""
+
+#: ../../source/sshKeygen.rst:114
+msgid "/root/ssh/filename"
+msgstr ""
+
+#: ../../source/sshKeygen.rst:114
+msgid "It will create the file with public and private key"
+msgstr ""
+
+#: ../../source/sshKeygen.rst:117 ../../source/sshKeygen.rst:119
+msgid "Command appended in file"
+msgstr ""
+
+#: ../../source/sshKeygen.rst:117
+msgid "yes"
+msgstr ""
+
+#: ../../source/sshKeygen.rst:117
+msgid "The user has to append"
+msgstr ""
+
+#: ../../source/sshKeygen.rst:119
+msgid "Exited from the doc|"
+msgstr ""
+
+#: ../../source/sshKeygen.rst:125
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/sshKeygen.rst:127
+msgid ""
+"We can work from remote place. The user has to instruct the system for path."
+" Auto generation is possible.  We can append the file whenever you need. We "
+"can share the keys without password. Non case sensitive."
+msgstr ""

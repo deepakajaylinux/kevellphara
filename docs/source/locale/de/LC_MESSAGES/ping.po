@@ -1,0 +1,144 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/ping.rst:3
+msgid "Ping"
+msgstr ""
+
+#: ../../source/ping.rst:6
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/ping.rst:8
+msgid ""
+"As a verb, PING means \"to get the attention of\" or \"to check for the "
+"presence of\" another party online. PING (Packet INternet Groper) module "
+"used to test the system connectivity. PING used to send network data to, and"
+" receive network data from, another computer on a network. PING frequently "
+"used to test, whether another system is reachable over a network, and if so,"
+" how much time it takes for that data to be exchanged."
+msgstr ""
+
+#: ../../source/ping.rst:11
+msgid "Help command"
+msgstr ""
+
+#: ../../source/ping.rst:13
+msgid ""
+"This command helps to determine the usage of PING module. This help command "
+"figure out the options to use along with PING command. This command will "
+"guide the end user to know the usage of different options and the syntax for"
+" those options. Below given are the command and the screenshot of the same."
+msgstr ""
+
+#: ../../source/ping.rst:54 ../../source/ping.rst:61
+msgid "Options"
+msgstr ""
+
+#: ../../source/ping.rst:56
+msgid ""
+"PING module have three different options, which retrieve data as per the "
+"option used in commands. Below table explains the same"
+msgstr ""
+
+#: ../../source/ping.rst:61
+msgid "Commands"
+msgstr ""
+
+#: ../../source/ping.rst:61
+msgid "Functions"
+msgstr ""
+
+#: ../../source/ping.rst:63
+msgid "Once"
+msgstr ""
+
+#: ../../source/ping.rst:63
+msgid "cleopatra ping once -- yes --guess --target=google.com -- interval=5"
+msgstr ""
+
+#: ../../source/ping.rst:63
+msgid "Ping us a target once. Once option will retrieve data only once"
+msgstr ""
+
+#: ../../source/ping.rst:66
+msgid "Ten"
+msgstr ""
+
+#: ../../source/ping.rst:66
+msgid "cleopatra ping ten -- yes --guess --target=google.com -- interval=5"
+msgstr ""
+
+#: ../../source/ping.rst:66
+msgid ""
+"Ten option pull data for ten times, having interval time as 5 seconds [waits"
+" for  seconds before sending the next packet]"
+msgstr ""
+
+#: ../../source/ping.rst:70
+msgid "Until-responding"
+msgstr ""
+
+#: ../../source/ping.rst:70
+msgid ""
+"cleopatra ping once -- yes --guess --target=google.com -- interval=5 -- max-"
+"wait=100"
+msgstr ""
+
+#: ../../source/ping.rst:70
+msgid ""
+"Ping us the target for a set amount of time until it responds, having "
+"interval time as 5 seconds and max 100 seconds to try for the target|"
+msgstr ""
+
+#: ../../source/ping.rst:75
+msgid "Note:"
+msgstr ""
+
+#: ../../source/ping.rst:77
+msgid "Interval - Number of seconds to wait between each request"
+msgstr ""
+
+#: ../../source/ping.rst:79
+msgid "Max-wait - Number of seconds in total to keep trying"
+msgstr ""
+
+#: ../../source/ping.rst:81
+msgid ""
+"Interval time and Max-wait time frequency can be decided by the user as per "
+"the requirement"
+msgstr ""
+
+#: ../../source/ping.rst:86
+msgid "Once Option"
+msgstr ""
+
+#: ../../source/ping.rst:107
+msgid "Ten Option"
+msgstr ""
+
+#: ../../source/ping.rst:132
+msgid "Until responding"
+msgstr ""
+
+#: ../../source/ping.rst:153
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/ping.rst:156
+msgid ""
+"PING helps the user to verify a particular IP address existence and can "
+"accept request. PING command is the best way to test connectivity between "
+"two nodes. Whether it is Local Area Network (LAN) or Wide Area Network "
+"(WAN)."
+msgstr ""

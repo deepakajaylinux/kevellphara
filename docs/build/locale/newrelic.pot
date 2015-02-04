@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,201 +17,201 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/newrelic.rst:3
-# df0b288a0ed04f70b27359ed4e6f17d1
+# 889cfbdbd1334a869f29e2a8c98da2cd
 msgid "Newrelic"
 msgstr ""
 
 #: ../../source/newrelic.rst:6
-# 4e741d8d7a424d74a1d71d52d7592c3d
+# 9e04e4dd1cbe42e886ccd9464aab7932
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/newrelic.rst:8
-# b1bff76c4468467fad38faed2cf4a7c1
+# f07acdff67d14a33be4f560bf409bcbb
 msgid "Newrelic used to monitoring the server. Collaboration across the different roles delivers many benefits. The combination of a shared code base, continuous integration, test-driven techniques and automated deploys, among other things, expose problems, in application code, infrastructure or configuration, earlier because the software isn’t “thrown over the wall” to Operations at the end of coding. Automated deployments and standardized production environments, key aspects of DevOps, make deployments predictable and free people from routine repetitive tasks to go do more creative things. The newrelic is comfortable with Ubuntu and cent OS."
 msgstr ""
 
 #: ../../source/newrelic.rst:11
-# 0fa6887962f14fa5b965116da060aae9
+# a821d4120af0496a921ebc781d7812f8
 msgid "Help command"
 msgstr ""
 
 #: ../../source/newrelic.rst:13
-# beaa3d8b09ed435c987de01a519cc968
+# f339c0bc40514050b3d3f654c0cb7bb2
 msgid "The help command leads the users regarding the purpose and as well as about the options that are included in the newrelic modules. The help command lists out the alternative parameters of newrelic under cleopatra module. It also describes the syntax for detecting the user’s machine. The help command for newrelic is shown below."
 msgstr ""
 
 #: ../../source/newrelic.rst:19
-# f176531dc3a0422aa42778c305f02ec8
+# e222a8b116364883af2c0cf0699cf63d
 msgid "The syntax for the help command non case sensitive which adds an advantage for this module. The following screenshot visualize the user about the help command under newrelic."
 msgstr ""
 
 #: ../../source/newrelic.rst:40
-# 50d4d05944f54762b22ee4cb928b4236
+# 76598beb1411452088bf7ae94d4068a4
 msgid "Installation"
 msgstr ""
 
 #: ../../source/newrelic.rst:42
-# fcd82f8044754e5a81dfdfe0bccaed64
+# aadf71c27f7c48b1b296eac8ef07c6f0
 msgid "These installation procedures are for system administrators. This section provides information about compatibility and requirements, basic instructions on how to install and configure cleopatra to more detailed information."
 msgstr ""
 
 #: ../../source/newrelic.rst:44
-# 4803365847354c1da8d6d7147db18f66
+# ae9fc997996b48b6b3a04f9b2aa78d2e
 msgid "Before installation the user has to follow:"
 msgstr ""
 
 #: ../../source/newrelic.rst:46
-# 5c6af6278b9c4d639dcb383195bfabe5
+# 271789d7c44349a6a58bd53829da7320
 msgid "Make sure your system meets New Relic's PHP compatibility and requirements."
 msgstr ""
 
 #: ../../source/newrelic.rst:48
-# 80390d69fa6447e6a753220d95a7be87
+# 17bad590588b492ba455e940e464a54d
 msgid "If you do not already have a New Relic account, create one."
 msgstr ""
 
 #: ../../source/newrelic.rst:50
-# 399d0074cb2048c4b917ff29169acbed
+# dd3c55064f1544b68c5738cfe0cd1097
 msgid "From your New Relic Account settings, copy your license key information."
 msgstr ""
 
 #: ../../source/newrelic.rst:52
-# a1f13fa8a81a4ed593062a6a51c455b4
+# e3e3cef77d1542f0b142488249a100d2
 msgid "Follow the agent installation procedures for both the PHP extension and the local proxy daemon."
 msgstr ""
 
 #: ../../source/newrelic.rst:54
-# 81cb499884f8456bb0eec0ab6262b3e6
+# ff2a69068c90416c9b171ce5571fab07
 msgid "Complete the configuration settings for the agent and optionally the proxy daemon."
 msgstr ""
 
 #: ../../source/newrelic.rst:56
-# 9347a239cc8d4ca485c64e6ece8c1a8d
+# 1f8ae3601f2448c1b657a8a215d826ff
 msgid "Change the default application name to a meaningful name."
 msgstr ""
 
 #: ../../source/newrelic.rst:58
-# 4609deb1a2984649b446066187175aa6
+# 76819fc5a0564b2ebecd9fe5ad23544d
 msgid "Restart Apache or your PHP host program (such as php-fpm) as applicable."
 msgstr ""
 
 #: ../../source/newrelic.rst:60
-# 55777602564244b494aa03860b3d94c6
+# 53c9c0e05a4e4ffabbe09320288d4c86
 msgid "If no data appears after a few minutes, see Troubleshooting your installation."
 msgstr ""
 
 #: ../../source/newrelic.rst:409
 #: ../../source/newrelic.rst:414
-# e99b8dd148e849a7b2d2b434600342c0
-# 250a610d61e242dda19f135a1785b026
+# 32d0054d0fed4682bfb50563c21f433c
+# d923b7062e3a4c639c7d113a11a8f0e7
 msgid "Options"
 msgstr ""
 
 #: ../../source/newrelic.rst:414
-# 6d8c9d703ca64e6a9e9bae62ab4d0633
+# ce6d6b229baa4f7f9c0d581c00bd4ce2
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/newrelic.rst:414
-# 3add8b79b175434987d49801142bba97
+# f8b8ec234cba426c9d735edfb2389bdb
 msgid "Alternative Parameters"
 msgstr ""
 
 #: ../../source/newrelic.rst:414
-# 5c103f86250a4a219cb55a41a14af973
+# 3bfe806f72f84869bb0812c69e30b92a
 msgid "Comments"
 msgstr ""
 
 #: ../../source/newrelic.rst:416
 #: ../../source/newrelic.rst:419
-# a02d066f70a64c4fa0e6a8df9a8ca9d8
-# 06c4022b63a5452492b0abfa35b4a6c2
+# 78cee8ce056a4dbe99d824c2a830e28e
+# b7f8c75aa70647b48109a921a71627af
 msgid "Install newrelic?(Y/N)"
 msgstr ""
 
 #: ../../source/newrelic.rst:416
-# 00fd18d63f8449859802f0f186f3bb79
+# 4d72c38964f84fb4936f2f0c978e25e9
 msgid "Y"
 msgstr ""
 
 #: ../../source/newrelic.rst:416
-# 1e3d0d0222d24ffa93b134086b93f2e3
+# 6062f2e2a01c48eabbac7f5596133d84
 msgid "Instead of using newrelic the user can use NewRellic, Newrelic"
 msgstr ""
 
 #: ../../source/newrelic.rst:416
-# 26d05fad6ce446bc97db63abb27367f6
+# c5dbea22dc144b2686af60c62f9dad0e
 msgid "It starts installing newrelic under cleopatra"
 msgstr ""
 
 #: ../../source/newrelic.rst:419
-# da439332b59a4428a1b3b5035f15e84d
+# 8b505cf0a5c24d168c6a4d74d183646c
 msgid "N"
 msgstr ""
 
 #: ../../source/newrelic.rst:419
-# 6ee4a23e9607485eabd478c9b65562be
+# ff89203a5f3a4454a64cf77503f17f64
 msgid "Instead of using newrelic the user can use NewRellic, Newrelic.|"
 msgstr ""
 
 #: ../../source/newrelic.rst:419
-# e82ee6add1fd49e0b173a7051715b1e1
+# 8cc4441ed8144a0180c71789feca2e0f
 msgid "It terminates the installation"
 msgstr ""
 
 #: ../../source/newrelic.rst:425
-# a8f5c7446d4e4faea9cdd187de549a17
+# ea1ab18e574d435ea07b136137f8a1da
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/newrelic.rst:428
-# a6770f4193fe468ba2e528253d12dce4
+# a8029a94d850417caca7a4c45cb712aa
 msgid "Technical benefits"
 msgstr ""
 
 #: ../../source/newrelic.rst:430
-# 998e55710469497db44f379f7d09a385
+# 579fcaed0cd74d179f290b7c4383ff81
 msgid "Continuous software delivery"
 msgstr ""
 
 #: ../../source/newrelic.rst:431
-# 8e7ebe2cdc354c22aca20c538508a063
+# 1949612c00324b43b2b6a88c88d16a4b
 msgid "Less complex problems to fix"
 msgstr ""
 
 #: ../../source/newrelic.rst:432
-# 51226976d7f44a558feef137c833786e
+# abe23e0c51144678aa4829d96872d84d
 msgid "Faster resolution of problems"
 msgstr ""
 
 #: ../../source/newrelic.rst:433
-# 312e6ca7a0164ea9929adf5daf365a03
+# bc1fe3cd379343e7b1d74c0ca88894a3
 msgid "Comforts with Ubuntu and centOS"
 msgstr ""
 
 #: ../../source/newrelic.rst:434
-# 40a87ea8e23342d8b6bae9990cbd7a2a
+# 642e28d892a440c09156d0e791cb05e5
 msgid "Non case sensitivity"
 msgstr ""
 
 #: ../../source/newrelic.rst:438
-# b30ec580091d4192a1f34d85fcb69ab9
+# 9b308cea0f6e4e7bb4db993219439dc2
 msgid "Business benefits"
 msgstr ""
 
 #: ../../source/newrelic.rst:440
-# 956c28d07bcc4b078042a407bea9ba4c
+# 2f3e61d5217b4fff85e39c9b5c5d87b7
 msgid "Faster delivery of features"
 msgstr ""
 
 #: ../../source/newrelic.rst:441
-# 59676097151c4e728e547cc9867df927
+# d16079be77764527b2854129fe42c368
 msgid "More stable operating environments"
 msgstr ""
 
 #: ../../source/newrelic.rst:442
-# 124bc652cac84c13bf54d85200311683
+# 4052be8d414d4a80be144e028bf58128
 msgid "More time available to add value (rather than fix/maintain)"
 msgstr ""
 

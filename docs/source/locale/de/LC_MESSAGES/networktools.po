@@ -3,10 +3,125 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 11:09+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/networktools.rst:3
+msgid "NetworkTools"
+msgstr ""
+
+#: ../../source/networktools.rst:6
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/networktools.rst:8
+msgid ""
+"The network tools are software utilities designed to analyze and configure "
+"various aspects of computer network. The most common network tools found on "
+"most operating system includes Traceroute , Netstat and Ping. Each network "
+"tools have its own functions."
+msgstr ""
+
+#: ../../source/networktools.rst:10
+msgid "For example:"
+msgstr ""
+
+#: ../../source/networktools.rst:12
+msgid "Ping is used to check connectivity"
+msgstr ""
+
+#: ../../source/networktools.rst:14
+msgid ""
+"Netstat is used to display network connection both incoming and outgoing"
+msgstr ""
+
+#: ../../source/networktools.rst:17
+msgid "Help Command"
+msgstr ""
+
+#: ../../source/networktools.rst:19
+msgid ""
+"This command helps to determine the usage of network tools module. The user "
+"will come to know about the different ways/format to execute this module. "
+"This command will guide the end user to know when and how the command to be "
+"used. Below given are the command and the screenshot of the same."
+msgstr ""
+
+#: ../../source/networktools.rst:27
+msgid "The pictorial representation of the above command is listed below,"
+msgstr ""
+
+#: ../../source/networktools.rst:51
+msgid "Installation"
+msgstr ""
+
+#: ../../source/networktools.rst:53
+msgid ""
+"When the user needs to install any network tool in machine. The below given "
+"command will execute the process of installation."
+msgstr ""
+
+#: ../../source/networktools.rst:65
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/networktools.rst:65
+msgid "Alternative Parameters"
+msgstr ""
+
+#: ../../source/networktools.rst:65
+msgid "Options"
+msgstr ""
+
+#: ../../source/networktools.rst:65
+msgid "Comments"
+msgstr ""
+
+#: ../../source/networktools.rst:67 ../../source/networktools.rst:70
+msgid "Cleopatra Networktools Install"
+msgstr ""
+
+#: ../../source/networktools.rst:67
+msgid "NetworkTools, networktools, network-tools"
+msgstr ""
+
+#: ../../source/networktools.rst:67 ../../source/networktools.rst:70
+msgid "Y"
+msgstr ""
+
+#: ../../source/networktools.rst:67
+msgid "System starts installing the network-tools"
+msgstr ""
+
+#: ../../source/networktools.rst:70
+msgid "NetworkTools, networktools, network-tools|"
+msgstr ""
+
+#: ../../source/networktools.rst:70
+msgid "System stops installing function"
+msgstr ""
+
+#: ../../source/networktools.rst:76
+msgid ""
+"Once the installation command executed, the system ask for the confirmation "
+"by yes/no \"Y/N\" question. Once the confirmation given from our end, the "
+"system starts executing the function and the system ends up with the final "
+"result. Below given is the screenshot for the same."
+msgstr ""
+
+#: ../../source/networktools.rst:80
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/networktools.rst:82
+msgid ""
+"This module helps in installing the set of common network tools. This "
+"benefits the users to install various tools which can be useful when "
+"networking with other computers both within the network and across the "
+"internet. This helps the users who are working with remote machines."
+msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,149 +17,149 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/oracle.rst:3
-# 3667c2a4253b449f87009d6d833ba600
+# c27a7b3220034dab80bfb16c031ffe56
 msgid "Oracle"
 msgstr ""
 
 #: ../../source/oracle.rst:6
-# e82639ad575549d8b5347894a4d2b3a2
+# 745595b41f17497b8365785070c96e3c
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/oracle.rst:8
-# 293c094d2d7f45ecac754c55a2b6acb5
+# 46d2058428c441009c7735d4d2cb34cf
 msgid "Oracle module used to update oracle. It is the first database designed for enterprise grid computation, the most flexible and cost effective way to manage information and applications. Enterprise grid computing creates large pools of industry-standard, modular storage and servers. With this architecture, each new system can be rapidly provisioned from the pool of components. There is no need for peak workloads, because capacity can be easily added or reallocated from the resource pools as needed. It is comfortable with Ubuntu and Cent OS."
 msgstr ""
 
 #: ../../source/oracle.rst:11
-# 0f864b86e18943e6a024c4598fd220c2
+# 7df5ca7f7c104f25a3d2d25f9d61c7bc
 msgid "Help command"
 msgstr ""
 
 #: ../../source/oracle.rst:13
-# a3b5e732a7274d37a2ce084efa35562e
+# 6f8fee987ccf4f9ea4aa9bd48554ccef
 msgid "This help command guides the user to update Oracle. This also checks execution, resolving, and request. The help command for Oracle is shown below."
 msgstr ""
 
 #: ../../source/oracle.rst:20
-# 768be3fbbeee40b68201a53bda773b88
+# fa5869e72f824d6c958a79196299e52b
 msgid "After inputs the above command, it starts functioning to update oracle. It catechesis the functions in the screenshots."
 msgstr ""
 
 #: ../../source/oracle.rst:27
-# 4c9d3930f0d041e1a10f1ff262598333
+# 78235c3c9f5f45a1bc96279f5d3001ba
 msgid "Installation"
 msgstr ""
 
 #: ../../source/oracle.rst:29
-# ce44a7883f4746bfb60bacc798703e39
+# 82e78252fc504312a38693fa61624a2b
 msgid "Installation includes installation of Oracle required to make the installation in an updated version. It is a manifest process to install Oracle module under Cleopatra Oracle by just using the command given below,"
 msgstr ""
 
 #: ../../source/oracle.rst:35
-# 3902eff5e33a43268b8467971457cc68
+# 23e6052e97bb407584845204da6f381e
 msgid "After vitalize the command it will catechize input."
 msgstr ""
 
 #: ../../source/oracle.rst:37
-# 04179ee69a574c1c976d8aafa82e0471
+# e91fdec6bc344f3caf36a8653b5b4dc7
 msgid "When the user input as yes automatically it will install Oracle with checking from the system. If not exit the installation. The following screen shot demonstrate Oracle and its functions."
 msgstr ""
 
 #: ../../source/oracle.rst:237
-# 08142ae181324b6fb4ea3fd8f875bb76
+# a066706b21094e5d9d980b61d3760336
 msgid "Option"
 msgstr ""
 
 #: ../../source/oracle.rst:243
-# 4418b29b37e14847bd9795a482af6a86
+# eae87db5a1d94add89dedd9f61c7360e
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/oracle.rst:243
-# 6e0eb35decdf41bcbe64afda04e1a4b0
+# eb3f63960ee24424bbee6c58477f76da
 msgid "Alternate Parameters"
 msgstr ""
 
 #: ../../source/oracle.rst:243
-# 70fb31dff2c240538db47e0c9b3cb181
+# 5d6d124a1aad4759bcdf3f6134a2f93a
 msgid "Options"
 msgstr ""
 
 #: ../../source/oracle.rst:243
-# c25724b9be2c4c9d970b6aaa79c86995
+# 5e9bee59f5144501ad32b9150049bc6c
 msgid "Comments"
 msgstr ""
 
 #: ../../source/oracle.rst:245
 #: ../../source/oracle.rst:248
-# b99c554db59b4ba8a1fa9189f5a68648
-# b92b61d1afc94c5fa632bde81cb39542
+# 45ee042660524bb1bced2fb933c2f93d
+# 652f183565674361b4f95a24ed229c17
 msgid "Install Oracle?(Y/N)"
 msgstr ""
 
 #: ../../source/oracle.rst:245
-# 127b49379d624b46b0c4fb1baca4685c
+# ea2120db714545d6af4f20cc50572c29
 msgid "Instead of using Oracle we can use oracle, Ora-cle"
 msgstr ""
 
 #: ../../source/oracle.rst:245
-# f7c7584cb82f462f985c8b6e14a1ddce
+# c7f06862ffdb4298aa2abca29025e31c
 msgid "Y"
 msgstr ""
 
 #: ../../source/oracle.rst:245
-# 7ec3cd5f17094899bcf9caedcf6447fb
+# 5555c5fbb968444d96d627e0f314611d
 msgid "It will install  Oracle under cleopatra in pharaoh tools"
 msgstr ""
 
 #: ../../source/oracle.rst:248
-# bf8acb30588d4029884156012ed7d70d
+# 49ff65e038b14a53bb33ff3631b04e21
 msgid "Instead of using Oracle we can use oracle, Ora-cle|"
 msgstr ""
 
 #: ../../source/oracle.rst:248
-# fdc1fa4e8ffd479aa16fd582eb14c20f
+# abcd5d11ba01406d91232bde78c28353
 msgid "N"
 msgstr ""
 
 #: ../../source/oracle.rst:248
-# 4009a36df9ab40aba7ad6afe9cca5011
+# ca46df5406144e3c8367678a82efe9cf
 msgid "The system exit the installation"
 msgstr ""
 
 #: ../../source/oracle.rst:254
-# 2cdba333185c4faf91e176aa8853473d
+# f67a9e881c39436eaf5ab5fd59fa3874
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/oracle.rst:255
-# 1f74ba74f4ca41e38b878e3ecbb29ce9
+# 15791b608da642eaa362338adda3ce56
 msgid "Portability is possible."
 msgstr ""
 
 #: ../../source/oracle.rst:256
-# 0b3492afaad84f72ba69b79a3cfb53b9
+# 3b8dfd21eb15480f9ff5303f2fed6533
 msgid "Backup and Recovery also available."
 msgstr ""
 
 #: ../../source/oracle.rst:257
-# 34a1f665e4f94b72abb67e416d26093e
+# 55d78ff00dfa402ca23626213bb466d0
 msgid "High speed in Performance."
 msgstr ""
 
 #: ../../source/oracle.rst:258
-# c435284ab07e4f52967eeeffa50e24fe
+# f53c8615f28141ff8ffcaba3cfabef8d
 msgid "Multiple Database Support."
 msgstr ""
 
 #: ../../source/oracle.rst:259
-# c679f2c487a04d7cbbb08e7a42cc5793
+# c5a0827966554e4b859a687346b1ba3a
 msgid "Non case sensitivity."
 msgstr ""
 
 #: ../../source/oracle.rst:260
-# cc3a273e01c4484d88fbc1a7dda74e35
+# 985fbc216c7146e0b7e945d0ae19c375
 msgid "Relevantly work with Ubuntu and CentOS."
 msgstr ""
 

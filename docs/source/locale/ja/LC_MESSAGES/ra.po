@@ -1,0 +1,171 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/ra.rst:3
+msgid "Ra"
+msgstr ""
+
+#: ../../source/ra.rst:7
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/ra.rst:9
+msgid ""
+"This tool used structured and manage the other tools. It helps to generate "
+"Devops beneficial in php . This makes it possible. It is well-to-do in "
+"Ubuntu and CentOS. This tool manages the functionality of Pharaoh tools."
+msgstr ""
+
+#: ../../source/ra.rst:12
+msgid "Help command"
+msgstr ""
+
+#: ../../source/ra.rst:14
+msgid ""
+"The help command guides the users regarding the purpose and as well as about"
+" the options that are included in the Ra module. It lists out the "
+"alternative parameters of Ra module. It also describes the syntax for "
+"installing the Ra module. The help command for Ra module is shown as below."
+msgstr ""
+
+#: ../../source/ra.rst:22
+msgid ""
+"The syntax for declaring the help command is non case sensitive which an "
+"added advantage is. The following screenshot visualize the user about the "
+"help command under Ra."
+msgstr ""
+
+#: ../../source/ra.rst:53
+msgid "Installation"
+msgstr ""
+
+#: ../../source/ra.rst:55
+msgid ""
+"Installation includes installation of Ra  required to make the installation "
+"in a updated version . It is a manifest process to install Ra module under "
+"Cleopatra by just using the command given below,"
+msgstr ""
+
+#: ../../source/ra.rst:61 ../../source/ra.rst:94
+msgid "After vitalize the command it will catechize input."
+msgstr ""
+
+#: ../../source/ra.rst:63
+msgid ""
+"When the user input as yes automatically it will install Ra with checking "
+"from the system. If not exit the installation. The following screen shot "
+"demonstrates it."
+msgstr ""
+
+#: ../../source/ra.rst:72
+msgid "Ensure"
+msgstr ""
+
+#: ../../source/ra.rst:74
+msgid ""
+"Ensure process used to check the Ra ensure the latest version of ra in the "
+"user system. The following command helps the user to ensure."
+msgstr ""
+
+#: ../../source/ra.rst:80
+msgid "The following screen shot shows its functions."
+msgstr ""
+
+#: ../../source/ra.rst:86
+msgid "UnInstall"
+msgstr ""
+
+#: ../../source/ra.rst:88
+msgid ""
+"Uninstallation includes  Ra  required to make the Uninstallation for latest "
+"version . It is a manifest process to uninstall Ra module under Cleopatra by"
+" just using the command given below,"
+msgstr ""
+
+#: ../../source/ra.rst:96
+msgid ""
+"When the user input as yes automatically it will uninstall Ra with checking "
+"from the system. The following screen shot demonstrates it."
+msgstr ""
+
+#: ../../source/ra.rst:99
+msgid "Option"
+msgstr ""
+
+#: ../../source/ra.rst:105
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/ra.rst:105
+msgid "Alternate Parameters"
+msgstr ""
+
+#: ../../source/ra.rst:105
+msgid "Options"
+msgstr ""
+
+#: ../../source/ra.rst:105
+msgid "Comments"
+msgstr ""
+
+#: ../../source/ra.rst:107 ../../source/ra.rst:109
+msgid "Install Ra?(Y/N)"
+msgstr ""
+
+#: ../../source/ra.rst:107 ../../source/ra.rst:109
+msgid "Instead of using Ra we can use ra"
+msgstr ""
+
+#: ../../source/ra.rst:107
+msgid "Y"
+msgstr ""
+
+#: ../../source/ra.rst:107
+msgid "It will install  Ra under Cleopatra in Pharaoh tools"
+msgstr ""
+
+#: ../../source/ra.rst:109
+msgid "N"
+msgstr ""
+
+#: ../../source/ra.rst:109
+msgid "The system exit the installation.|"
+msgstr ""
+
+#: ../../source/ra.rst:115
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/ra.rst:117
+msgid "Non case sensitive."
+msgstr ""
+
+#: ../../source/ra.rst:118
+msgid "Automate deployments across infrastructure of any size."
+msgstr ""
+
+#: ../../source/ra.rst:119
+msgid "User friendly operation."
+msgstr ""
+
+#: ../../source/ra.rst:120
+msgid "Suitable to work with Ubuntu and CentOS."
+msgstr ""
+
+#: ../../source/ra.rst:121
+msgid "Used for managing all the tools."
+msgstr ""
+
+#: ../../source/ra.rst:122
+msgid "Guides the user operation."
+msgstr ""

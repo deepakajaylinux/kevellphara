@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,143 +18,143 @@ msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:3
 #: ../../source/systemdetection_testingkamen.rst:93
-# 2f34ee2db4e84d699eb2d6acdc405c9f
-# 27c02f362eca4fb2992d976adfe02674
+# f7ce96ab07b848cd86bae158120ffcf2
+# 190f7ba6a90a4a998a964e654ffdd585
 msgid "SystemDetection"
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:7
-# 3d066236a7df4f20a526330297bf6ea2
+# 8aacdb6671174cdd85cecd6a922381db
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:9
-# 91cdc416e15742e8a8155bb1cd5d5e5b
+# 6dd254168c6c41d39fa8b446aab33cb0
 msgid "This module aims at detecting the user’s machine and in hand provides them the necessary information to them regarding the users system. It also provides a facility to the users to configure their applications settings. The few examples for applications settings include mysql admin user, Architecture, admin user, host, version, linux type, Distro. It is comfortable with Ubuntu and cent OS."
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:12
-# 616f2ff6a66d4be582d24729088999f2
+# 1b3960d94bc94d3382d76f182d6e1fe0
 msgid "Help command"
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:14
-# 697c83b862b14a078919edff0a0bcc93
+# d4c3a403941646e786dc103045c3ab39
 msgid "The help command leads the users regarding the purpose and as well as about the options that are included in the System detection modules. The help command lists out the alternative parameters of System detection under Testingkamen module. It also describes the syntax for detecting theuser’s machine. The help command for System detection is shown below."
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:21
-# a08b663382ca409e9ac6694baf8440ea
+# 8173801888fc476f880b0208f5af617c
 msgid "The syntax for help command is non-case sensitive which adds an advantage for this module. The following screenshot visualize about the help command under system detection."
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:44
-# 2af64b1603ed4dd194f9b07b26368760
+# ece14a8a769148f99d8fc9126be93404
 msgid "Detect"
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:46
-# 076506256bd6434ab46f66cce4d9d56b
+# 3b0797774d114c56aebd8c0e42391f95
 msgid "When the user needs to detect the system settings, the below given command will get all the information about the system application."
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:52
-# bceb957cf56447ef9f980c07bad5d33a
+# 0e1f9a59729b4cf7a5be85fc290715f7
 msgid "System ends up with providing the below given details:"
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:54
-# 0d7b307b969d42beb68bb4b23afbc524
+# 975591e48e2d4235979e320505e42152
 msgid "Operating System"
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:55
-# c76747154a9249af8b2127e025d54ab3
+# 1e4b1f8d201644eebfdecdb27e94c7ce
 msgid "Linux Type"
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:56
-# e6c622342b6141569dd34c03f492af34
+# 53f37ab7891a4af1a52b54de09fd7cb8
 msgid "Distro"
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:57
-# 0c0c8dacaaf7453eaff5997403d718ca
+# 433a45dda3c74c41aa530103a6f18d97
 msgid "Version"
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:58
-# d159efb70dd040428e2ee92ba7b03a61
+# 7c51d6c0ca474908b28966957db96161
 msgid "Architecture"
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:59
-# 762df269d79943c0a40663959c3699a5
+# a2d4fd899d1c4a06895ab07880943d97
 msgid "Host Name"
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:60
-# 7cf02bd18b2a46a0a963502cabbd02a8
+# a5278d4678a4432ea2081ea05a12a368
 msgid "IP Address 0."
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:62
-# 0e24def747344a3a89c0b8cc169c5b59
+# 77d6e4a73afe4a4997ce7c06afcd3ef9
 msgid "The following screen shot depicts you about the process of system detection."
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:89
-# d21477a5d1094079b38f495048890be6
+# 1e1c325159e54d43b997cd58e1a5f8a9
 msgid "Alternative Parameters"
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:91
-# 3e973a7ee384457c8909d1342656dd29
+# e6a8dcc8a55d440c89179e4b7b3fb9e7
 msgid "Instead of system detection, the following parameters can be used:"
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:94
-# 21db61d9d1b24d07ada88c55315f265f
+# 168c1d4fe4b246e3bc62acfc7725a3de
 msgid "system-detection"
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:95
-# 4aa60bb0369e43b0886d556c76bf80ed
+# 1c90b06761014fdfb23195be8ecc2fa5
 msgid "systemdetection"
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:99
-# eec0a052639848098e3b78e41fa4b277
+# 30c6c2fdcf924d748c026c8c677e2b5c
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:101
-# 7f794e67be0948c2a0ffd7a4e1d677ae
+# 6108bff1eb6047669511174d1438c7c3
 msgid "The users can configure the application settings using this system detection."
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:102
-# f0561151fbe549d99db4f8c17a62e005
+# 3fb2012f9cf54302ab18d8600599844f
 msgid "The parameters used for declaring help command, system detection are not case sensitive which an added advantage while compared to others is."
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:103
-# e9a556cc116f4b2fa6c1f90e46aadeff
+# cb58d7d6609746bbafec6b950615fdbc
 msgid "It is well-to-do in both Cent OS and as well as in Ubuntu."
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:104
-# 7baa4fe29a1b4528a15138d8d8e12464
+# c6503e2bb2704aecbe89144ed36ae9bc
 msgid "Protection and security is possible. Preventing harm to the system and to resources, through internal processes or malicious outsiders. Authntication, ownership, and restricted access are obvious parts of this system."
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:106
-# 022400b9041a43d08f5def34ac3dd057
+# 546658909b9340419781bf6a6a16f734
 msgid "System administrators generally determine which interface a user starts with when they first log in."
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:107
-# 57578fce53974cd99389e71a590b6c42
+# 4f9cef68870c4937a742a35fdd3a2864
 msgid "Generally written in PHP, although some are written in assembly for optimal performance."
 msgstr ""
 

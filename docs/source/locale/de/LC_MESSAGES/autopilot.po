@@ -1,0 +1,144 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/autopilot.rst:3
+msgid "Autopilot"
+msgstr ""
+
+#: ../../source/autopilot.rst:6
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/autopilot.rst:8
+msgid ""
+"AutoPilot  provides user defined execution. It supports to small and medium "
+"sized corporate companies ready to experience growth and find new "
+"opportunity. Our extensive Managed IT Services provide a wide variety of "
+"detailed and thorough solutions for the user business, including network, "
+"cloud, software, data backup, and IT services."
+msgstr ""
+
+#: ../../source/autopilot.rst:10
+msgid ""
+"We take the hassle out of user technology. In today's competitive business "
+"environment the user don't have time for computer problems? We make IT "
+"problems go away, for good! The user business functions best when the user "
+"don't have to worry about the Devops technology solutions that drive it. We "
+"want to help the user put  IT on AutoPilot so user can focus on the business"
+" user want to build. It is comfortable with Ubntu and cent os."
+msgstr ""
+
+#: ../../source/autopilot.rst:13
+msgid "Help command"
+msgstr ""
+
+#: ../../source/autopilot.rst:15
+msgid ""
+"The help command leads the users regarding the purpose and as well as about "
+"the options that are included in the autopilot modules. The help command "
+"lists out the alternative parameters of dapperstrano autopilot module. It "
+"also describes the syntax for detecting the user’s machine. The help command"
+" for autopilot  shown below."
+msgstr ""
+
+#: ../../source/autopilot.rst:21
+msgid "The following screenshot shows the functionality of autopilot."
+msgstr ""
+
+#: ../../source/autopilot.rst:46
+msgid "Installation"
+msgstr ""
+
+#: ../../source/autopilot.rst:48
+msgid ""
+"Autopilot act as a default module and also provides user defined executions."
+" There are three options are available. They are,"
+msgstr ""
+
+#: ../../source/autopilot.rst:50
+msgid "Install"
+msgstr ""
+
+#: ../../source/autopilot.rst:51
+msgid "Execute"
+msgstr ""
+
+#: ../../source/autopilot.rst:52
+msgid "X"
+msgstr ""
+
+#: ../../source/autopilot.rst:59
+msgid ""
+"After input as the above said command it starts installation. The following "
+"snap shots guides the user about autopilot installation."
+msgstr ""
+
+#: ../../source/autopilot.rst:64
+msgid "Options"
+msgstr ""
+
+#: ../../source/autopilot.rst:69
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/autopilot.rst:69
+msgid "Alternate parameter"
+msgstr ""
+
+#: ../../source/autopilot.rst:69
+msgid "Comments"
+msgstr ""
+
+#: ../../source/autopilot.rst:71
+msgid "Install autopilot"
+msgstr ""
+
+#: ../../source/autopilot.rst:71
+msgid "Instead of using autopilot the user can use Autopilot, autopilot,auto"
+msgstr ""
+
+#: ../../source/autopilot.rst:71
+msgid "Autopilot can be installed under Dapperstrano.|"
+msgstr ""
+
+#: ../../source/autopilot.rst:78
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/autopilot.rst:80
+msgid "Increased operational efficiency"
+msgstr ""
+
+#: ../../source/autopilot.rst:81
+msgid "Reduce and control operating costs"
+msgstr ""
+
+#: ../../source/autopilot.rst:82
+msgid "Cost-effective access to Enterprise-level Support"
+msgstr ""
+
+#: ../../source/autopilot.rst:83
+msgid "Experience Minimized Downtime"
+msgstr ""
+
+#: ../../source/autopilot.rst:84
+msgid "Ability to focus on running the user defined execution"
+msgstr ""
+
+#: ../../source/autopilot.rst:85
+msgid "Non case sensitivity."
+msgstr ""
+
+#: ../../source/autopilot.rst:86
+msgid "Complacent work with Ubuntu and cent OS."
+msgstr ""

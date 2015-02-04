@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 11:09+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -85,11 +85,25 @@ msgid "cleopatra cassandra Install"
 msgstr ""
 
 #: ../../source/cassandra.rst:332
+msgid ""
+"There are two alternative parameters which can be used in command line. "
+"Cassandra , cassandra Eg: Cleapatra cassandra install Cleapatra Cassandra "
+"install"
+msgstr ""
+
+#: ../../source/cassandra.rst:332
 msgid "Y"
 msgstr ""
 
 #: ../../source/cassandra.rst:332
 msgid "System starts installation process"
+msgstr ""
+
+#: ../../source/cassandra.rst:338
+msgid ""
+"There are two alternative parameters which can be used in command line. "
+"Cassandra , cassandra Eg: Cleapatra cassandra install Cleapatra Cassandra "
+"install|"
 msgstr ""
 
 #: ../../source/cassandra.rst:338
@@ -141,28 +155,3 @@ msgid ""
 " all the way from \"writes never fail\" to \"block for all replicas   to be "
 "readable\", with the quorum level in the middle."
 msgstr ""
-
-#: ../../source/cassandra.rst:332
-msgid ""
-"There are two alternative parameters which can be used in command line. "
-"Cassandra , cassandra Eg: Cleapatra cassandra install Cleapatra Cassandra "
-"install"
-msgstr ""
-
-#: ../../source/cassandra.rst:338
-msgid ""
-"There are two alternative parameters which can be used in command line. "
-"Cassandra , cassandra Eg: Cleapatra cassandra install Cleapatra Cassandra "
-"install|"
-msgstr ""
-
-#~ msgid ""
-#~ "There are two alternative parameters which can be used in command line. "
-#~ "Cassandra , cassandra Eg: Cleapatra cassandra install/"
-#~ msgstr ""
-
-#~ msgid "Cleapatra Cassandra install"
-#~ msgstr ""
-
-#~ msgid "Cleapatra Cassandra install|"
-#~ msgstr ""

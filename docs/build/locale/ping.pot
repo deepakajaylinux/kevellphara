@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,139 +17,139 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/ping.rst:3
-# 09c1f6cd4a1c4096b9021b6b22dad345
+# dda006b612fd433d81b0928396d1e2b0
 msgid "Ping"
 msgstr ""
 
 #: ../../source/ping.rst:6
-# 1f1fa65373e54d6a8b701d9f75f33455
+# 52a0dbe6fcd942bf8b88a793698d3fee
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/ping.rst:8
-# 57630d47abb147668c05465af601af67
+# 8968592963ef4f6da07e291913c43f7b
 msgid "As a verb, PING means \"to get the attention of\" or \"to check for the presence of\" another party online. PING (Packet INternet Groper) module used to test the system connectivity. PING used to send network data to, and receive network data from, another computer on a network. PING frequently used to test, whether another system is reachable over a network, and if so, how much time it takes for that data to be exchanged."
 msgstr ""
 
 #: ../../source/ping.rst:11
-# 9ace15bcf7c54ce1b46f3596e11b2af0
+# 64051c91501045119bde7bdc179818eb
 msgid "Help command"
 msgstr ""
 
 #: ../../source/ping.rst:13
-# 04882f81fe314ba6912086fd3d9922bb
+# a49b762e7a4e44619c8a28b7bcbb011e
 msgid "This command helps to determine the usage of PING module. This help command figure out the options to use along with PING command. This command will guide the end user to know the usage of different options and the syntax for those options. Below given are the command and the screenshot of the same."
 msgstr ""
 
 #: ../../source/ping.rst:54
 #: ../../source/ping.rst:61
-# 71be545a17f04e1d8b26c58fe3974fbc
-# 1f2e7261d3dd401380d72281147ff612
+# cc23ba7d555a4ee9b4ce3f35c72fdcfa
+# ac42d7387d4847fcb62368bd4db2479a
 msgid "Options"
 msgstr ""
 
 #: ../../source/ping.rst:56
-# 5b33e5be78034ee78d43388f1bb4cba8
+# 66c0fabfa1384370bb71a08cc77fe327
 msgid "PING module have three different options, which retrieve data as per the option used in commands. Below table explains the same"
 msgstr ""
 
 #: ../../source/ping.rst:61
-# 1336a28951934a5fbcaff3415e15d37e
+# e0aa5d9fd79e4c30ade24281179feb11
 msgid "Commands"
 msgstr ""
 
 #: ../../source/ping.rst:61
-# c2a17c27f8f04308b3bd8466b19fc206
+# 853418e5491d40ed8fdca103f3d6d8e3
 msgid "Functions"
 msgstr ""
 
 #: ../../source/ping.rst:63
-# 8506a4d60b40418faeb170768793c35f
+# f2f811ee0f13412ca6e62b57d270a87f
 msgid "Once"
 msgstr ""
 
 #: ../../source/ping.rst:63
-# 16feed8c5ce94d20959909c9a936a621
+# de09eccf53d34bd88219ea78ddf2ecfb
 msgid "cleopatra ping once -- yes --guess --target=google.com -- interval=5"
 msgstr ""
 
 #: ../../source/ping.rst:63
-# aff022bdbf744a61bfaad4d2cdb64a1f
+# fba29b1089af47d1acc4af7ec8fb8b38
 msgid "Ping us a target once. Once option will retrieve data only once"
 msgstr ""
 
 #: ../../source/ping.rst:66
-# e13ce5796e40465396da1803824f5fcb
+# 5a07b7813e2d4a6195eb01e635c5faed
 msgid "Ten"
 msgstr ""
 
 #: ../../source/ping.rst:66
-# 23ce1683b1c840c4be7852d2e6c07297
+# 417bcc2532ce4937a86ce4dbbb5214c5
 msgid "cleopatra ping ten -- yes --guess --target=google.com -- interval=5"
 msgstr ""
 
 #: ../../source/ping.rst:66
-# 0f4105716bcc46e99594cc77fffe14fe
+# 9c4957084fb04132a71d4e387545538c
 msgid "Ten option pull data for ten times, having interval time as 5 seconds [waits for  seconds before sending the next packet]"
 msgstr ""
 
 #: ../../source/ping.rst:70
-# a278dab3932242a4972425537a7900b1
+# 8242bfb29cd44309b2f1b13388a5bbeb
 msgid "Until-responding"
 msgstr ""
 
 #: ../../source/ping.rst:70
-# 42f8cffc9e804d328409a83f97e90f29
+# 1b7e7acc2b33405da83cff545f73d7c4
 msgid "cleopatra ping once -- yes --guess --target=google.com -- interval=5 -- max-wait=100"
 msgstr ""
 
 #: ../../source/ping.rst:70
-# 0d111dea17f447ffb36eac80bb61edd8
+# 37e790e12b244f029e54306957d38b69
 msgid "Ping us the target for a set amount of time until it responds, having interval time as 5 seconds and max 100 seconds to try for the target|"
 msgstr ""
 
 #: ../../source/ping.rst:75
-# 141dfe9c4b884a2ab3bb90ceff071ed9
+# 710ba13462644220a56e785feb5c21c9
 msgid "Note:"
 msgstr ""
 
 #: ../../source/ping.rst:77
-# 2ac933a12bbb4003b45116370a321f0d
+# 856d52ccb5514a838d2c9233e8557238
 msgid "Interval - Number of seconds to wait between each request"
 msgstr ""
 
 #: ../../source/ping.rst:79
-# 891111ab0b3d44a3b5b0650434d645d0
+# dc1f9947f10e4e1599f4bbcab8844099
 msgid "Max-wait - Number of seconds in total to keep trying"
 msgstr ""
 
 #: ../../source/ping.rst:81
-# e9f8013312d74ce1b866bb78cad1ab8a
+# 901cd0800a734e21a48d132035528f95
 msgid "Interval time and Max-wait time frequency can be decided by the user as per the requirement"
 msgstr ""
 
 #: ../../source/ping.rst:86
-# d26955f31c574df69e40a870f2a81ce8
+# 98d5d53ded304b358bcf6c912066974b
 msgid "Once Option"
 msgstr ""
 
 #: ../../source/ping.rst:107
-# e9f3488848624a9383285736ac90af48
+# 78707ca17dbc4ad19ba324e04bcbd47c
 msgid "Ten Option"
 msgstr ""
 
 #: ../../source/ping.rst:132
-# b8c07225a6af49b7b360fee1dccdaf87
+# 255475e5b6064575a679f8739962b116
 msgid "Until responding"
 msgstr ""
 
 #: ../../source/ping.rst:153
-# d03b2a87405448f3a4dd83fd7815b5d3
+# 65748fa91849430896f93e2abc6cb5e1
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/ping.rst:156
-# fad926223a4a44dca38595e342215c30
+# 6a375c0b019f4ec795c6e3bc95c14671
 msgid "PING helps the user to verify a particular IP address existence and can accept request. PING command is the best way to test connectivity between two nodes. Whether it is Local Area Network (LAN) or Wide Area Network (WAN)."
 msgstr ""
 

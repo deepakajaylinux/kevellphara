@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,136 +17,136 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/hhvm.rst:3
-# 6cb0e1c1679e4947a7135782c5be5147
+# 2db465575b3544d7a3b0a79785c646fb
 msgid "HHVM"
 msgstr ""
 
 #: ../../source/hhvm.rst:6
-# 0d7876bd9acd4541960b91dfcad86592
+# 440c69af7fea4e42bb4d94b61d6ee7bd
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/hhvm.rst:8
-# a7da24770be243079531b98918a41ef9
+# 4314cc7c7365430c945e976f65dea72b
 msgid "This module facilitates installing and un installing the HHVM which is a popular build server to your machine. HipHop Virtual Machine (HHVM) is a process virtual machine based on just-in-time (JIT) compilation, serving as an execution engine for PHP and Hack programming languages. By using the principle of JIT compilation, executed PHP or Hack code is first transformed into intermediate HipHop byte code (HHBC), which is then dynamically translated into the x86-64 machine code, optimized and natively executed. Let us see about the HHVM module in upcoming topics."
 msgstr ""
 
 #: ../../source/hhvm.rst:11
-# 93d1a2966eea477f9251b8212edcd496
+# 34aa36ba5dfa4ceea0eb2ca86df2ea2b
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/hhvm.rst:13
-# 0e8e435b222844aab3f8b2a85145dffe
+# 221b8eb72e7f4834867f61cca6947443
 msgid "The help command guides the users regarding the purpose and as well as about the options that are included in the HHVM module. It lists out the alternative parameters of HHVM module. It also describes the syntax for installing the HHVM module. The help command for HHVM module is shown as below."
 msgstr ""
 
 #: ../../source/hhvm.rst:19
-# 225a6e1659ba46509ccf6d333d024d24
+# e58917b212ca4bc0aafca8818a203a95
 msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under HHVM."
 msgstr ""
 
 #: ../../source/hhvm.rst:47
-# 918b20d3b6ff4c118b7757d2d7499613
+# d7d8e1815ef1478a980a696b104ac573
 msgid "Installation"
 msgstr ""
 
 #: ../../source/hhvm.rst:49
-# b977db541e884cf799b91b4865506966
+# 61d64b6c8bff481fb608f52f08dda453
 msgid "The command used for installing the HHVM to the users machine is shown below."
 msgstr ""
 
 #: ../../source/hhvm.rst:55
-# 69752602a9ab4cfa8a37866a81de801e
+# 7cac4a21e6d84c90bc08f7e8bcd08f7d
 msgid "After inputting the command above, the following process occurs as shown in the tabular format."
 msgstr ""
 
 #: ../../source/hhvm.rst:60
-# 2cb59559abd74a8bba2322922d57049f
+# 0f609d7756a74743a7a5fe41e3a97764
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/hhvm.rst:60
-# 2a477e4ae62846f6bd03cd413260ffff
+# 507ce8b362a749a58f499b33d00d73f8
 msgid "Alternative Parameter"
 msgstr ""
 
 #: ../../source/hhvm.rst:60
-# ab1d2a09232f40e79f9441ba19140c64
+# 9366c30875bf4775bb58fe07ef8be62f
 msgid "Options"
 msgstr ""
 
 #: ../../source/hhvm.rst:60
-# 7df38f6526b14ddbb03a6357a88279d2
+# 6144de25658c4d0184fc5d2b1a4e1263
 msgid "Comments"
 msgstr ""
 
 #: ../../source/hhvm.rst:62
 #: ../../source/hhvm.rst:65
-# 811264b614bf44acb11ec513dae97983
-# 6c2a623e84d44680bf3518b4deb04eaa
+# 215db79a7a07490b9842cb773861ec38
+# f477326a71c54aa9b8df93e402bf97a9
 msgid "Install The Oracle Java JDK 1.7? (Y/N)"
 msgstr ""
 
 #: ../../source/hhvm.rst:62
 #: ../../source/hhvm.rst:65
-# f920fe4afb7148eebaee498770ac6c99
-# 4042bfec7b2c4d36a70607f79b3d85fa
+# 63c2c51e4a2248999cd5126744f1a4aa
+# eb0ae58d25764094bf88b17800d26420
 msgid "Inspite of HHVM we can use hhvm also."
 msgstr ""
 
 #: ../../source/hhvm.rst:62
-# bfb7ec5286d6476a87ac2d9011102c32
+# 951725e6b25842239521a6fdb76936b9
 msgid "Y(Yes)"
 msgstr ""
 
 #: ../../source/hhvm.rst:62
-# ef0853defc7e44c09f0cedf55b3c5fbd
+# b759e9ce0f5343478f3f83f9e00d57f1
 msgid "If the user wish to proceed the installation process they can input as Y."
 msgstr ""
 
 #: ../../source/hhvm.rst:65
-# 00db581c2bc947f3a5d51cac362cd391
+# e4180044e025447c83a84683a92cc82e
 msgid "N(No)"
 msgstr ""
 
 #: ../../source/hhvm.rst:65
-# a6bbad6da76a4d3fbcedb443b092a3de
+# 57b2bda30baa486e9be5746c54e081ba
 msgid "If the user wish to quit the installation process they can input as N.|"
 msgstr ""
 
 #: ../../source/hhvm.rst:71
-# 50c788341d574c67b1c5d0fe13362d9e
+# 28c9f83db2bd43e3bd8b25d225386526
 msgid "Finally, installation process gets completed. The following screenshot pictorially represents the process of installing HHVM."
 msgstr ""
 
 #: ../../source/hhvm.rst:317
-# c0c353c059f74de4aef726850ebfbdc7
+# 0db0a0e49da948fbb8cc862fb3284de1
 msgid "Un installation"
 msgstr ""
 
 #: ../../source/hhvm.rst:319
-# 04bbc0acd4e5425e9e9827a417131437
+# ee66345457ee4ec9b26e49212b2ce756
 msgid "The command used for un installing the hhvm is shown below."
 msgstr ""
 
 #: ../../source/hhvm.rst:326
-# 6877d2b5a4b340cb8f51931fb9a0c0d9
+# d019acb3c09d40568bcdf45c65c7ea49
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/hhvm.rst:328
-# 34d356c1c45c451e91788397f5764433
+# 02a6f2854a024adca452f307b72710ba
 msgid "The parameters used in help and installation and un installation operations are not case sensitive which is an added advantage while compared to others."
 msgstr ""
 
 #: ../../source/hhvm.rst:329
-# 6f39b46fd5e24028b0c8f46b6d4ed6b4
+# cb3e926317604447a80f80ff40b3baa9
 msgid "It is well-to-do in both Ubuntu and as well as Cent OS."
 msgstr ""
 
 #: ../../source/hhvm.rst:330
-# 6dda1f1da724455bae7af9838038cac6
+# 6b218ca406294f10a3b406b85b1b6599
 msgid "HHVM has the ability to use live type information to produce more efficient native code, leading to higher web server throughput and lower latency."
 msgstr ""
 

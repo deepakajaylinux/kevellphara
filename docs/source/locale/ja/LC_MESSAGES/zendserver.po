@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 11:09+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -91,11 +91,25 @@ msgid "cleopatra zendserver Install"
 msgstr ""
 
 #: ../../source/zendserver.rst:413
+msgid ""
+"There are three alternative parameters which can be used in command line. "
+"zendserver , Zendserver, ZendServer Eg: cleopatra zendserver install "
+"cleopatra Zendserver install"
+msgstr ""
+
+#: ../../source/zendserver.rst:413
 msgid "Y"
 msgstr ""
 
 #: ../../source/zendserver.rst:413
 msgid "System starts installation process"
+msgstr ""
+
+#: ../../source/zendserver.rst:419
+msgid ""
+"There are three alternative parameters which can be used in command line. "
+"zendserver , Zendserver, ZendServer Eg: cleopatra zendserver install "
+"cleopatra Zendserver install.|"
 msgstr ""
 
 #: ../../source/zendserver.rst:419
@@ -137,28 +151,3 @@ msgstr ""
 #: ../../source/zendserver.rst:436
 msgid "The only certified and fully supported PHP stack"
 msgstr ""
-
-#: ../../source/zendserver.rst:413
-msgid ""
-"There are three alternative parameters which can be used in command line. "
-"zendserver , Zendserver, ZendServer Eg: cleopatra zendserver install "
-"cleopatra Zendserver install"
-msgstr ""
-
-#: ../../source/zendserver.rst:419
-msgid ""
-"There are three alternative parameters which can be used in command line. "
-"zendserver , Zendserver, ZendServer Eg: cleopatra zendserver install "
-"cleopatra Zendserver install.|"
-msgstr ""
-
-#~ msgid ""
-#~ "There are three alternative parameters which can be used in command line. "
-#~ "zendserver , Zendserver, ZendServer Eg: cleopatra zendserver install/"
-#~ msgstr ""
-
-#~ msgid "cleopatra Zendserver install"
-#~ msgstr ""
-
-#~ msgid "cleopatra Zendserver install.|"
-#~ msgstr ""

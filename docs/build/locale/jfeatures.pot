@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,189 +17,189 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/jfeatures.rst:3
-# ed9117c3a2374ea79e234096ff052db1
+# eb0d78488b9b401593162dbc71da85a5
 msgid "JFeature"
 msgstr ""
 
 #: ../../source/jfeatures.rst:6
-# 684a83b9162b47cbbef553c5e4e018c0
+# 78f0fa8362ca44f9b09c228853b0a66b
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/jfeatures.rst:8
-# 5e9e55f6df9b4861a84b22f3f344a634
+# 949ed94a9e724c19af1a9a6934609409
 msgid "JFeatures is one of the world's most popular software packages used to build, organize, manage and publish content for websites, blogs, Intranets. When the user push the zip file in to another file all the features will be added. Owing to its scalable architecture it’s also a great base to build web applications. It used for manage the component of stage migration. It convenience with Ubuntu and CentOS."
 msgstr ""
 
 #: ../../source/jfeatures.rst:11
-# 048a9bc2141e4d96ac17893ec059b2bd
+# 9930cb2eb2d446dbbcd5b188993d067b
 msgid "Help command"
 msgstr ""
 
 #: ../../source/jfeatures.rst:13
-# c1391144001c484f8b3cd66d54d514be
+# 8e392c0fbbab490cb7356e7b47bc88b5
 msgid "The help command guides the users regarding the purpose and as well as about the options that are included in the JFeatures module. It lists out the alternative parameters of JFeatures module. It also describes the syntax for installing the JFeatures module. The help command for JFeatures module is shown as below."
 msgstr ""
 
 #: ../../source/jfeatures.rst:19
-# 981da73bd0094727960236b8328c4c8d
+# 282dd811b66c41728c4b25a90bd3ccb1
 msgid "The syntax for declaring the help command is non-case sensitive which an added advantage is. The following screenshot visualize the user about the help command under JFeatures."
 msgstr ""
 
 #: ../../source/jfeatures.rst:77
-# 2c08df44f24b4410bd591c6f420fe79f
+# 356271b258314478aa90f932ffb479d4
 msgid "Alternative parameters"
 msgstr ""
 
 #: ../../source/jfeatures.rst:79
-# beb6884aed864190b417754b2ce990d6
+# 1d62c939bba0440b81f7070be1940da5
 msgid "The following are the alternative parameters that can be defined in declarations:"
 msgstr ""
 
 #: ../../source/jfeatures.rst:81
-# 81f116eb1c804a85a0056a4ddbecc2f3
+# c718525a4099425d930e3a4d7f94f3df
 msgid "JFeature, jfeature"
 msgstr ""
 
 #: ../../source/jfeatures.rst:85
-# e2afa94e6baf464cb6c793f2f29cb96a
+# 58da522180914375bbc4ccab12a8d757
 msgid "Folder-default"
 msgstr ""
 
 #: ../../source/jfeatures.rst:87
-# 993dae1c992a40a7a038304b7aead3dc
+# cc47e283e50e4cacb41d4b373732a720
 msgid "This process used to set the default for file storage folder. A preset setting or value that will be used if no choice is done in folder. User interaction should be required. Setting defaults to the most commonly selected options serves this purpose. The help command for folder-default process is shown as below."
 msgstr ""
 
 #: ../../source/jfeatures.rst:94
-# 5745d7c344f1490eb5ffd7bc90bb884a
+# 98af542b43a242dda2e106a0dbc7e123
 msgid "The following screenshot shows its function."
 msgstr ""
 
 #: ../../source/jfeatures.rst:105
-# 8c1d5bae3e4845818c8b19506098a88a
+# 6ee4dc5bec34464993d187d33ceed444
 msgid "Feature-install"
 msgstr ""
 
 #: ../../source/jfeatures.rst:107
-# 3f1503057e8c45959db0cb78b5def919
+# c05c2e61f33e4eebaa36617e1b875c8d
 msgid "This process used to install the metadata for a database migration. Here it asks feature file name and configured file name. The user has to enter all the above details one by one. Otherwise the user can input as everything in a same single line. The following command is used to install jfeature."
 msgstr ""
 
 #: ../../source/jfeatures.rst:114
 #: ../../source/jfeatures.rst:171
-# 1bd27d91bc9343ae8afa5120e5fd717d
-# 7c0cb3e305bc435da4ee18d1ade5f415
+# 97ee9d6a53ba4c10952fe00f3667a599
+# ced9e558baea4f4f95f75c24eb7ee4d4
 msgid "The screen shot shows its functions."
 msgstr ""
 
 #: ../../source/jfeatures.rst:125
-# ee264ee5976a4cc3b241766465342821
+# 068c576b352f4aac83b9db1e2d531d90
 msgid "Feature-Pull"
 msgstr ""
 
 #: ../../source/jfeatures.rst:127
-# 6b17993d721c429c8211ff77cb5f86b3
+# dd0b772ab84544c997f4b5fee4b5b0f8
 msgid "Feature pull used to perform a pull on an installed feature. Due to Integration file changes can be  executed.The following command can be used to pull configuration file."
 msgstr ""
 
 #: ../../source/jfeatures.rst:134
-# 8efe8809a532476a880fe6ff62462e1f
+# c9f77f04d55e4728b1c38f33dee260a6
 msgid "After inputting the above said command, it asks for Ip address and time. Based on this pull can be executed. The following screenshot explain its function."
 msgstr ""
 
 #: ../../source/jfeatures.rst:144
-# a9bcc7ec059b4b83858dcf34e2507075
+# 9964999558d34a67b17c0177d12ed80c
 msgid "Feature-Push"
 msgstr ""
 
 #: ../../source/jfeatures.rst:146
-# abd9b803f2034b7e9c2a2bb2c127926f
+# 97b5d695c34442b1804a312522563669
 msgid "Feature push used to achieves a push on an installed feature. When pushing completes it can be saved locally. The command used to push the feature."
 msgstr ""
 
 #: ../../source/jfeatures.rst:153
-# 0ab1ecad60674c988e18f734ad1e5788
+# ab22b49d887945bfb01a3c4c1533bf43
 msgid "After input the above said command, it asks profile unique and configuration file and push type. The user has to input one by one or everything in same line. This can be explained as follows through snapshots,"
 msgstr ""
 
 #: ../../source/jfeatures.rst:163
-# 2815cc67368f4c71827fa5dce9cb4599
+# 12f0b6d57a464a06b005564dd0272d5e
 msgid "Group-install"
 msgstr ""
 
 #: ../../source/jfeatures.rst:165
-# e4504a19645348358aacbc5f48c06a9d
+# 24caae2dce034db4ae1e154e402c2834
 msgid "This process used to install the metadata for a database migration. Here it asks feature group file name and configured file name. The user has to enter all the above details one by one. Otherwise the user can input as everything in a same line."
 msgstr ""
 
 #: ../../source/jfeatures.rst:182
-# b1a9dec7c0414cc5a4df787a0b150e07
+# a9d7003e0c3d48d6a885b80c8bd21d75
 msgid "Group-install-all"
 msgstr ""
 
 #: ../../source/jfeatures.rst:184
-# 70cf2db6ebf3454298c8a739b7dd2cca
+# 48a0dc0667c64bd7bb828f7498b05e00
 msgid "This process used to install metadata for database migration file set. Group configuration features component. Install and updation is possible. The following command used to install group all."
 msgstr ""
 
 #: ../../source/jfeatures.rst:191
-# 62790b8e215041c0b0822ac9337c7fab
+# b26e977d3ff0426db0141c6f7e5ef3ed
 msgid "Entering the above said command it asks configuration file. The user can enter configuration file name. The following screen shot guides the user to install group all."
 msgstr ""
 
 #: ../../source/jfeatures.rst:204
-# 06e873a31d814349a1bfb86ee9c9adc9
+# b64b0da3965843118607d579b08f2176
 msgid "Group-push"
 msgstr ""
 
 #: ../../source/jfeatures.rst:206
-# 783c6682460d48dfaadfe0dc3abcce77
+# 4d0d2d6d7884428ea312d0137e4c6629
 msgid "This process can perform a push of a group profile in to local file. Here group unique and configuration file name can be mentioned. The following command used to push the group profile into locally saved file."
 msgstr ""
 
 #: ../../source/jfeatures.rst:213
-# 362f8c479754403a893d875052f18b06
+# 759be5207ae5451e8aabc6707e1b7d5b
 msgid "The following screen shot guides the user to install group push."
 msgstr ""
 
 #: ../../source/jfeatures.rst:224
-# 46bdca2a17ca48239c1760885d4ba599
+# 13ebd2d93baa4243bf53dceb4b11099c
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/jfeatures.rst:226
-# 1b7efaf855a84fae99cc55bb77eb4187
+# c3ac9b7dbfe64ce3839aa3419d81f8da
 msgid "Well Supported for all type of users"
 msgstr ""
 
 #: ../../source/jfeatures.rst:227
-# 88024b37f565424ab11395e80ee1842f
+# eca768594086458d89eafd67f9cf25ca
 msgid "Easy to Upgrades"
 msgstr ""
 
 #: ../../source/jfeatures.rst:228
-# 56ef8e9ff23540ec9864f1f046696e79
+# a98b59c43be646fda55de2888dc5bbf0
 msgid "Search better, Search Smarter"
 msgstr ""
 
 #: ../../source/jfeatures.rst:229
-# 78bc1ff1e3af4129935c962b02be83ce
+# 83ab297b36f24986a2fd63f0e12c92c9
 msgid "Powerful Extensibility"
 msgstr ""
 
 #: ../../source/jfeatures.rst:230
-# 8d62084811e64e4c82193e9def4e5ed5
+# e3d96e183fc740499ec89a2db5ba90a0
 msgid "Do More with Less time spend for coding and do more with less jfeature commands"
 msgstr ""
 
 #: ../../source/jfeatures.rst:231
-# 3a1b9cb5ede041dc89bcbcf8b4495818
+# 2aee0c6567134f28a7af054683a3f885
 msgid "Well to do with Ubuntu and Cent OS"
 msgstr ""
 
 #: ../../source/jfeatures.rst:232
-# 6f1481e419c74812949d83b52cf6cf85
+# d56a2504dc2e40afa1bcb3f730328c86
 msgid "Non case sensitivity"
 msgstr ""
 

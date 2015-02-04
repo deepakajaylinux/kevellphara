@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,131 +17,131 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/phpeclipse.rst:3
-# 25896f5cc54e4eb9b6ff31b661a96037
+# 9f7088bd61734fb8a5ce25ba9b90ff66
 msgid "PHPEclipse"
 msgstr ""
 
 #: ../../source/phpeclipse.rst:6
-# 13affd382fcc4900ab3df416951c5f2b
+# 77b91c6ae0fa4b34ada5d0c3a39079c8
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/phpeclipse.rst:8
-# 958b09dbf63d4ea6bb600d480bc725f9
+# ffb3b3cf4e244e0984f2db7186548d17
 msgid "PHPEclipse is a set of plug-ins for the Eclipse Framework which provides integrated IDE for PHP developers. Eclipse and PHPEclipse are written in Java, and will run on all graphical desktop environments. PHPEclipse is Open Source software, freely available under the Common Public Licence."
 msgstr ""
 
 #: ../../source/phpeclipse.rst:10
-# bd027fc841f4452c868827e2a46b3844
+# 5ec3215048a948e6b658877a7510ffe6
 msgid "The Eclipse Platform provides users with a consistent user interface paradigm. A software development IDE is one of the more complex desktop applications most of us are likely to use, and so the time required for a developer to become efficient with a particular IDE can be significant. Eclipse doesn't reduce this time, but it does provide a consistent interface approach which need only be learnt once in order to develop efficiently with a wide range of programming languages and tools. As part of this approach, Eclipse provides detailed documentation and tutorials on all its generic functionality, allowing plugin projects, such as PHPEclipse, to focus only on their areas specific to their domain. By learning to use Eclipse as a development platform, or learning to develop your own plug-in tools for eclipse, you are acquiring a useful and flexible skill."
 msgstr ""
 
 #: ../../source/phpeclipse.rst:13
-# e45f19b036b343c0a93f9d7b22fe40ba
+# 9ab5535e526a4ec6913bd192cf47f90e
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/phpeclipse.rst:15
-# 37fda50261934ecf974a421fab3cc281
+# fecbacb144724e8886031778b69297bb
 msgid "This command helps to determine the usage of PhpEclipse module. The user will come to know about the different way/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same."
 msgstr ""
 
 #: ../../source/phpeclipse.rst:21
-# f8b1dce5656d4bb0bcbdffd47284f1f3
+# 84492ae992164585ada0f8bff4a4576c
 msgid "The pictorial representation of the above command is shown below,"
 msgstr ""
 
 #: ../../source/phpeclipse.rst:45
-# d6fda4959c83419687e047765e3c62d6
+# 8fbf77b28fb24cd0b8ecec7c0bbac8bf
 msgid "Installation"
 msgstr ""
 
 #: ../../source/phpeclipse.rst:47
-# ff166c6001094a89b52f3b09b3fdf2c0
+# cdf04dbf433a4ccea56473774506eb3f
 msgid "This command helps in installing the latest version of PHPeclipse in system. The below given command will execute the process of installation."
 msgstr ""
 
 #: ../../source/phpeclipse.rst:55
 #: ../../source/phpeclipse.rst:62
-# 1a2ae0d5bfa64aa09f86466bbe947f4b
-# 805480e3b95341b59622001ba7203fb6
+# 4eaa90c97e044d08acb02dc34fe3ebd8
+# 127433945cbf42829d8b2dac81597a9e
 msgid "Options"
 msgstr ""
 
 #: ../../source/phpeclipse.rst:62
-# 8f11e13a79634d4385d1b2862b649b33
+# db1a4b3de6524f0a80fd541c53b00b17
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/phpeclipse.rst:62
-# 9573b04c3eb34816b08722d1588ae5f6
+# ffb1e22428a34aedbaa3fb12c1cafadd
 msgid "Alternative Parameters"
 msgstr ""
 
 #: ../../source/phpeclipse.rst:62
-# 1359e8578c3c4753b800910cda50137c
+# fd69bc67c1664d54be038fe2778bd145
 msgid "Comments"
 msgstr ""
 
 #: ../../source/phpeclipse.rst:64
 #: ../../source/phpeclipse.rst:70
-# 73c35f78061f4e0c98076b29b879e1a7
-# eb4ac3e86ece44b084d53a80655891a8
+# 4c757684843145ed9bd97b3c5fe272b3
+# 6967ab1063a349d3935b09623accae74
 msgid "cleopatra PHPEclipse Install"
 msgstr ""
 
 #: ../../source/phpeclipse.rst:64
-# f8609f5bfaff4fc48bd743a53a69caf2
+# 30c3161f0ce74cd0af737b512b762da8
 msgid "There are three alternative parameters which can be used in command line. PHP-Eclipse, PHPEclipse, phpeclipse Eg: cleopatra PHPEclipse install cleopatra PHP-Eclipse install"
 msgstr ""
 
 #: ../../source/phpeclipse.rst:64
-# 0f44b4fb959048b0a4bc3f9c4a94e0ab
+# 1719edfd798246779136b6e9bb35e57b
 msgid "Y"
 msgstr ""
 
 #: ../../source/phpeclipse.rst:64
-# b8b58118f9ef43829c85b512cd01733e
+# 95b904245160406390604c0d0c8582b8
 msgid "System starts installation process"
 msgstr ""
 
 #: ../../source/phpeclipse.rst:70
-# eb3e2f8dd36148d7b295d357f690b509
+# f57ba73b32dd4f7c835d07656e8ee4ce
 msgid "There are three alternative parameters which can be used in command line. PHP-Eclipse, PHPEclipse, phpeclipse Eg: cleopatra PHPEclipse install cleopatra PHP-Eclipse install|"
 msgstr ""
 
 #: ../../source/phpeclipse.rst:70
-# 4e94aa52f09b4d379bd7d89c10f5c549
+# ca025406ee28471b8738e22a8288c4b6
 msgid "N"
 msgstr ""
 
 #: ../../source/phpeclipse.rst:70
-# b2d9aead7c504bfba82bcbd343ed0fab
+# f8a11db0eed740f5b8ecb776459dfa00
 msgid "System stops installation process"
 msgstr ""
 
 #: ../../source/phpeclipse.rst:81
-# 01380cbac0e341bf8b574468fa70cfef
+# 98ba1ab4bab0425abef7240b8c4dee21
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/phpeclipse.rst:83
-# 537ff904c9394970a9104b47466caa7e
+# b6714f3fa2054a9cbe6e9683ef8716fb
 msgid "PHP, HTML, XML and CSS Syntax Highlighting"
 msgstr ""
 
 #: ../../source/phpeclipse.rst:84
-# 0ee79265cf384bf1978c38027a91a4ed
+# 9606605e845b48a0b08469464a8beb7b
 msgid "Code completion"
 msgstr ""
 
 #: ../../source/phpeclipse.rst:85
-# a7d9ca83777f47578839fa41f3cffd0e
+# d805a8b24f7c4d689789905611777689
 msgid "Integrated web browser preview"
 msgstr ""
 
 #: ../../source/phpeclipse.rst:86
-# 3ea7a4800abb42c78a6404701797c8a4
+# 6a2d0ebdde724cf3ae580efa30eae07c
 msgid "Integrated control of Apache & MySQL servers"
 msgstr ""
 

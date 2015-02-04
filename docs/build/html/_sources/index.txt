@@ -1,4 +1,4 @@
-Praohtools Documentation
+Pharaohtools Documentation
 ==========================
 
 About pharaohtools

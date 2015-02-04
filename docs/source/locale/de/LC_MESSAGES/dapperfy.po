@@ -1,0 +1,194 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/dapperfy.rst:3
+msgid "Dapperfy"
+msgstr ""
+
+#: ../../source/dapperfy.rst:6
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/dapperfy.rst:8
+msgid ""
+"Dapperfy is a fine part of default core module that helps and supports the "
+"users in creating a standard set of autopilots files for their projects. The"
+" users can configure default applications settings. For example: mysql admin"
+" user, host, pass."
+msgstr ""
+
+#: ../../source/dapperfy.rst:10
+msgid ""
+"Let us see how to use dapper standard and dapper list functions under this "
+"module from the upcoming topics."
+msgstr ""
+
+#: ../../source/dapperfy.rst:13
+msgid "Help Command"
+msgstr ""
+
+#: ../../source/dapperfy.rst:15
+msgid ""
+"The help command envelops all the necessary information regarding dapperfy "
+"such as its primary uses, the list of alternative parameters that can be "
+"used in the declaration, what are primary function of dapperfy(Ex: standard,"
+" list), and also the syntax used for declaring those interesting functions. "
+"The following command is used for declaring help option under dapperfy,"
+msgstr ""
+
+#: ../../source/dapperfy.rst:22
+msgid ""
+"The following screen shot depicts pictorially about the working of help "
+"command."
+msgstr ""
+
+#: ../../source/dapperfy.rst:87
+msgid "How to Use Dapper Standard"
+msgstr ""
+
+#: ../../source/dapperfy.rst:89
+msgid "The command used for dapperfy standard is shown below,"
+msgstr ""
+
+#: ../../source/dapperfy.rst:95
+msgid ""
+"After entering the command given above, the following process as described "
+"in the below table will occurs in a step-by-step basis."
+msgstr ""
+
+#: ../../source/dapperfy.rst:102
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/dapperfy.rst:102
+msgid "Alternative Parameters"
+msgstr ""
+
+#: ../../source/dapperfy.rst:102
+msgid "Options"
+msgstr ""
+
+#: ../../source/dapperfy.rst:102
+msgid "Comments"
+msgstr ""
+
+#: ../../source/dapperfy.rst:104 ../../source/dapperfy.rst:107
+msgid "Dapperfy This? (Y/N)"
+msgstr ""
+
+#: ../../source/dapperfy.rst:104 ../../source/dapperfy.rst:107
+msgid "Instead of dapperfy, we can use Dapperfy also."
+msgstr ""
+
+#: ../../source/dapperfy.rst:104 ../../source/dapperfy.rst:110
+#: ../../source/dapperfy.rst:117
+msgid "Y(Yes)"
+msgstr ""
+
+#: ../../source/dapperfy.rst:104
+msgid "If the user wish to proceed dapperfying process they can input as Y."
+msgstr ""
+
+#: ../../source/dapperfy.rst:107 ../../source/dapperfy.rst:114
+#: ../../source/dapperfy.rst:120
+msgid "N(No)"
+msgstr ""
+
+#: ../../source/dapperfy.rst:107
+msgid "If the user wish to quit the dapperfying process they can input as N."
+msgstr ""
+
+#: ../../source/dapperfy.rst:110 ../../source/dapperfy.rst:114
+msgid "Use existing environment settings? (Y/N)"
+msgstr ""
+
+#: ../../source/dapperfy.rst:110
+msgid ""
+"If the user wish to proceed with the existing environment settings they can "
+"input as Y."
+msgstr ""
+
+#: ../../source/dapperfy.rst:114
+msgid ""
+"If the user wish to proceed with the new environment settings they can input"
+" as N."
+msgstr ""
+
+#: ../../source/dapperfy.rst:117 ../../source/dapperfy.rst:120
+msgid "Do you want to add another environment?"
+msgstr ""
+
+#: ../../source/dapperfy.rst:117
+msgid ""
+"If the user wish to add another environment for dapperfying they can input "
+"as Y."
+msgstr ""
+
+#: ../../source/dapperfy.rst:120
+msgid ""
+"If the user is not in need of adding another environment for dapperfying "
+"they can input as N.|"
+msgstr ""
+
+#: ../../source/dapperfy.rst:127
+msgid ""
+"The two different types of screenshots can be useful for the users in "
+"defining a pictorial representation of dapperfying process. The second "
+"screen shot depicts method of specifying willingness in using existing "
+"environment settings."
+msgstr ""
+
+#: ../../source/dapperfy.rst:130
+msgid "How to use Dapperfy List"
+msgstr ""
+
+#: ../../source/dapperfy.rst:132
+msgid ""
+"The primary goal of list function is to list all of the autopilot files of "
+"the users projects that are available in a particular location. The syntax "
+"for using the list under dapperfy is shown below,"
+msgstr ""
+
+#: ../../source/dapperfy.rst:138
+msgid ""
+"The screen shot shown below depicts the working of list option under "
+"dapperfy."
+msgstr ""
+
+#: ../../source/dapperfy.rst:198
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/dapperfy.rst:200
+msgid "It is well-to-do in both ubuntu and as well as in cent OS."
+msgstr ""
+
+#: ../../source/dapperfy.rst:201
+msgid "The parameters used in declaration is not case sensitive."
+msgstr ""
+
+#: ../../source/dapperfy.rst:202
+msgid ""
+"The user can view the list of autopilots files that are available for their "
+"projects."
+msgstr ""
+
+#: ../../source/dapperfy.rst:203
+msgid ""
+"While dapperfying, the user can specify the environment settings they "
+"requires."
+msgstr ""
+
+#: ../../source/dapperfy.rst:204
+msgid "Many environments can be added to dapperfy."
+msgstr ""

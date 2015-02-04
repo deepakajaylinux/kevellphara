@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,154 +17,154 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/behatcleo.rst:3
-# e8ca8c7529574cd6bc8c00f29ea1b85c
+# dcf2017f5e104a7a85c3a6f3c123dd9b
 msgid "Behat"
 msgstr ""
 
 #: ../../source/behatcleo.rst:6
-# 943a8486908947418bb23a15bbc610ac
+# 0aa7ba14d8c545c0bc0c3fd37d80dc62
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/behatcleo.rst:8
-# f9b8144e5c8d4053b56f4b6236861c5c
+# 15df50509b334e048f3482e54b27632c
 msgid "This module aims at installing behat with the most-recent version. This helps in testing an php script. It facilitates the users to identify the errors in php script. It highlights the enabled and disabled templates. The git acts as a supporting software for behat."
 msgstr ""
 
 #: ../../source/behatcleo.rst:11
-# 6fb312f377e14832bb836d2d90e46a45
+# 510d402388514a48b5646b48710d8443
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/behatcleo.rst:14
-# 0bc45c665e8b4420bd56cf08b9c0aa12
+# c823bdd81757448e8eff043747b12e69
 msgid "The help command guides the user get aware of the uses, and also the options and actions that can be performed."
 msgstr ""
 
 #: ../../source/behatcleo.rst:16
-# cc40771731634b4db3efafaa46883fd1
+# 6740b6fd803144dfb9d03b520d710747
 msgid "The coding to make use of help command under behat, is given as follows:"
 msgstr ""
 
 #: ../../source/behatcleo.rst:22
-# e580c6e962004db58c9ff8e756fc6b90
+# 3e3874cdf7514c71962fe7fba10f6ee0
 msgid "The screen shot as given below explains you graphically about the usage of the help command."
 msgstr ""
 
 #: ../../source/behatcleo.rst:45
-# 81aac32193a34bc8b9c326bce367be89
+# c5e33b3c59f54f44b7a052daa243a93f
 msgid "Installation"
 msgstr ""
 
 #: ../../source/behatcleo.rst:51
-# a5215fbfbb2e46f481bd92450a0dcb40
+# 63b512c5fd3845d590aa8d6b2bc902d6
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/behatcleo.rst:51
-# 41d0b6c314ec43d2bc12e230170fde24
+# 2536cbce6f3e4ce881c1fb146e31bdb9
 msgid "Required"
 msgstr ""
 
 #: ../../source/behatcleo.rst:51
-# 710d273fc8964c398149ae8fac247391
+# 93edaec7909c45cdacc94d5a961318e9
 msgid "Comments"
 msgstr ""
 
 #: ../../source/behatcleo.rst:53
-# 6dd34b73628d4bc9b8b52e8099964523
+# a9794c93ed284abeb52b7286e54d3be2
 msgid "cleopatra behat Install"
 msgstr ""
 
 #: ../../source/behatcleo.rst:53
-# 5ea50688e7ab4319b4385853a774a9da
+# de37fcf1065648cd87caaf68fc907610
 msgid "Yes"
 msgstr ""
 
 #: ../../source/behatcleo.rst:53
-# dfe7fced4e5f48e39149bc814a76ff2e
+# 04571f2600ba4be794cc1e4c5d180733
 msgid "This command is used for installing the behat to your machine."
 msgstr ""
 
 #: ../../source/behatcleo.rst:56
 #: ../../source/behatcleo.rst:59
-# 14ea589f46a64d70a6d8a8a1f6eb7bb0
-# f00744cb8d77412bbcf60942f2a34dbb
+# 2d3bc7ba2a4746a5b3b0cdf78ab6cd4d
+# e90a61571bfc45d29e89d7051ce631a5
 msgid "Install behat (Y/N)"
 msgstr ""
 
 #: ../../source/behatcleo.rst:56
-# bb123295a27d407ba270eed64509ff06
+# 97c3b924ad8a47b68b2e514f2b395866
 msgid "Y(Yes)"
 msgstr ""
 
 #: ../../source/behatcleo.rst:56
-# 13f76c9c417944b9871a08f16db986cc
+# 321d4e49f6e645b397c6fb33e6c32cd9
 msgid "If the user gives input as Y, then behat will gets installed."
 msgstr ""
 
 #: ../../source/behatcleo.rst:59
-# d301bdde627647dc8a4f6c18695864df
+# 14c93e27918f438f9aaa298c742fc7c8
 msgid "N(No)"
 msgstr ""
 
 #: ../../source/behatcleo.rst:59
-# a00207fb65354f76a80613a0a9e9d6df
+# c5a1307ec1c24f9bbc6567c79eee0494
 msgid "If the user gives input as N, then the process gets quits from installation.|"
 msgstr ""
 
 #: ../../source/behatcleo.rst:65
-# 1af363dfb54540559225a6e0882a1cb2
+# d6be667de962499281473393e96aca40
 msgid "The screenshot shown below will gives you an pictorial representation about the steps involved in the installation."
 msgstr ""
 
 #: ../../source/behatcleo.rst:102
-# 85bcf43edae6439ca9b1d96850295bbf
+# 25d9f8216f7641b597771d2ba6910093
 msgid "While installing the behat, the user can specify the program data directory and program executor directory."
 msgstr ""
 
 #: ../../source/behatcleo.rst:104
-# af46b4d77c17497894179951c4ba33ba
+# 3d76a3abd42b49718e2fd138ecaaf005
 msgid "The screenshot above explains the syntax regarding the specification of program data directory and executor directory."
 msgstr ""
 
 #: ../../source/behatcleo.rst:108
-# 1a34311282c24c70b63a5ba10d13e1e0
+# 597c274bb83049949c691ccd909eef90
 msgid "Version"
 msgstr ""
 
 #: ../../source/behatcleo.rst:110
-# a9e8e187e4d64d0bb34dfa7b12888d5b
+# e5d207306be24e5da5e152a9dd7d37ed
 msgid "While installing the behat, the most-recent version will be installed in your machine."
 msgstr ""
 
 #: ../../source/behatcleo.rst:112
-# 6adfea0488984cd780054139947a472a
+# 96b487e757db41f1a9a77fdd3a4c2fab
 msgid "This is an added advantage of behat module under Cleopatra when compared to other."
 msgstr ""
 
 #: ../../source/behatcleo.rst:115
-# 927aa51426954184a4d78ea837d0928a
+# 5b7a4b60b5ba4a8fac5c012088036547
 msgid "Benefits to the users"
 msgstr ""
 
 #: ../../source/behatcleo.rst:117
-# 2d4a4c069ebf49fe96fe1e75b3212a95
+# dcfbff2d8cc74af1ac1bb2a63159ed2b
 msgid "It guides the users to identify the errors in php script."
 msgstr ""
 
 #: ../../source/behatcleo.rst:118
-# 1dcdf8e4dadf438c807869b3d91486f7
+# 4c21c8eab6654add822236696aa60004
 msgid "No need to search the most-recent version, as the updated version is automatically available to the users while executing the installation pr  ocess."
 msgstr ""
 
 #: ../../source/behatcleo.rst:119
-# 0e5ab2e08c104115ae56fc0851b749eb
+# 9178555d41014f28a35e677f1f99161b
 msgid "Using the features of behat the users can frame and specify the behavior of driven development."
 msgstr ""
 
 #: ../../source/behatcleo.rst:120
-# 41369b2101224ceea0fc03a9b37f6849
+# d70ae9ec6ee34c418c6e02bc095d98fb
 msgid "By the aid of behavior driven development, the users can ensure the qualities of their own script."
 msgstr ""
 

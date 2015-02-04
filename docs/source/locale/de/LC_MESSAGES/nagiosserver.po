@@ -1,0 +1,204 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/nagiosserver.rst:3
+msgid "NagiosServer"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:6
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:8
+msgid ""
+"Nagios is an open source computer system monitoring, network monitoring and "
+"infrastructure monitoring software application. Nagios offers monitoring and"
+" alerting services for servers, switches, applications, and services. It "
+"alerts the users when things go wrong and alerts them a second time when the"
+" problem has been resolved."
+msgstr ""
+
+#: ../../source/nagiosserver.rst:10
+msgid ""
+"Nagios, originally created under the name NetSaint, was written and is "
+"currently maintained by Ethan Galstad along with a group of developers who "
+"are actively maintaining both the official and unofficial plugins. Nagios "
+"was originally designed to run under Linux but also runs well on other Unix "
+"variants. It is free software licensed under the terms of the GNU General "
+"Public License version 2 as published by the Free Software Foundation."
+msgstr ""
+
+#: ../../source/nagiosserver.rst:13
+msgid "Help Command"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:15
+msgid ""
+"This command helps to determine the usage of Nagios module. The user will "
+"come to know about the different way/format to execute this module. This "
+"command guides the end user to know the purpose of this command. Below given"
+" are the command and the screenshot of the same."
+msgstr ""
+
+#: ../../source/nagiosserver.rst:22
+msgid "The pictorial screenshot of the above command is listed below,"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:44
+msgid "Installation"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:46
+msgid ""
+"This command helps in installing the Nagios in system. The below given "
+"command will execute the process of installation."
+msgstr ""
+
+#: ../../source/nagiosserver.rst:52
+msgid "The pictorial representation of the above command is listed below,"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:59 ../../source/nagiosserver.rst:64
+msgid "Options"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:64
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:64
+msgid "Alternative Parameters"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:64
+msgid "Comments"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:66 ../../source/nagiosserver.rst:72
+msgid "cleopatra nagiosserver Install"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:66 ../../source/nagiosserver.rst:72
+msgid ""
+"There are four alternative parameters which can be used in command line. "
+"NagiosServer, nagios-server, nagiosserver, nagios Eg: cleopatra nagios "
+"install/"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:70
+msgid "cleopatra nagiosserver install"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:66
+msgid "Y"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:66
+msgid "System starts installation process"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:76
+msgid "cleopatra nagiosserver install|"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:72
+msgid "N"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:72
+msgid "System stops installation process"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:82
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:84
+msgid ""
+"Monitoring of network services (SMTP, POP3, HTTP, NNTP, ICMP, SNMP, FTP, "
+"SSH)"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:85
+msgid ""
+"Monitoring of host resources (processor load, disk usage, system logs) on a "
+"majority of network operating systems, including Microsoft Windows with the "
+"NSClient++ plugin or Check MK."
+msgstr ""
+
+#: ../../source/nagiosserver.rst:87
+msgid ""
+"Monitoring of anything else like probes (temperature, alarms,etc.) which "
+"have the ability to send collected data via a network to specifically "
+"written plugins"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:89
+msgid "Monitoring via remotely run scripts via Nagios Remote Plugin Executor"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:90
+msgid "Remote monitoring supported through SSH or SSL encrypted tunnels."
+msgstr ""
+
+#: ../../source/nagiosserver.rst:91
+msgid ""
+"A simple plugin design that allows users to easily develop their own service"
+" checks depending on needs, by using their tools of choice (shell  scripts, "
+"C++, Perl, Ruby, Python, PHP, C#, etc.)"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:92
+msgid "Available data graphing plugins"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:93
+msgid "Parallelized service checks"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:94
+msgid ""
+"The ability to define network host hierarchies using 'parent' hosts, "
+"allowing the detection of and distinction between hosts that are down or  "
+"unreachable"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:95
+msgid ""
+"Contact notifications when service or host problems occur and get resolved "
+"(via e-mail, pager, SMS, or any user-defined method through plugin  system)"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:96
+msgid ""
+"The ability to define event handlers to be run during service or host events"
+" for proactive problem resolution"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:97
+msgid "Automatic log file rotation"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:98
+msgid "Support for implementing redundant monitoring hosts"
+msgstr ""
+
+#: ../../source/nagiosserver.rst:99
+msgid ""
+"An optional web-interface for viewing current network status, notifications,"
+" problem history, log files, etc."
+msgstr ""
+
+#: ../../source/nagiosserver.rst:100
+msgid "Data storage via text files rather than database"
+msgstr ""

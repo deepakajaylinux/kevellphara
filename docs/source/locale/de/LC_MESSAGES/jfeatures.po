@@ -1,0 +1,211 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/jfeatures.rst:3
+msgid "JFeature"
+msgstr ""
+
+#: ../../source/jfeatures.rst:6
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/jfeatures.rst:8
+msgid ""
+"JFeatures is one of the world's most popular software packages used to "
+"build, organize, manage and publish content for websites, blogs, Intranets. "
+"When the user push the zip file in to another file all the features will be "
+"added. Owing to its scalable architecture it’s also a great base to build "
+"web applications. It used for manage the component of stage migration. It "
+"convenience with Ubuntu and CentOS."
+msgstr ""
+
+#: ../../source/jfeatures.rst:11
+msgid "Help command"
+msgstr ""
+
+#: ../../source/jfeatures.rst:13
+msgid ""
+"The help command guides the users regarding the purpose and as well as about"
+" the options that are included in the JFeatures module. It lists out the "
+"alternative parameters of JFeatures module. It also describes the syntax for"
+" installing the JFeatures module. The help command for JFeatures module is "
+"shown as below."
+msgstr ""
+
+#: ../../source/jfeatures.rst:19
+msgid ""
+"The syntax for declaring the help command is non-case sensitive which an "
+"added advantage is. The following screenshot visualize the user about the "
+"help command under JFeatures."
+msgstr ""
+
+#: ../../source/jfeatures.rst:77
+msgid "Alternative parameters"
+msgstr ""
+
+#: ../../source/jfeatures.rst:79
+msgid ""
+"The following are the alternative parameters that can be defined in "
+"declarations:"
+msgstr ""
+
+#: ../../source/jfeatures.rst:81
+msgid "JFeature, jfeature"
+msgstr ""
+
+#: ../../source/jfeatures.rst:85
+msgid "Folder-default"
+msgstr ""
+
+#: ../../source/jfeatures.rst:87
+msgid ""
+"This process used to set the default for file storage folder. A preset "
+"setting or value that will be used if no choice is done in folder. User "
+"interaction should be required. Setting defaults to the most commonly "
+"selected options serves this purpose. The help command for folder-default "
+"process is shown as below."
+msgstr ""
+
+#: ../../source/jfeatures.rst:94
+msgid "The following screenshot shows its function."
+msgstr ""
+
+#: ../../source/jfeatures.rst:105
+msgid "Feature-install"
+msgstr ""
+
+#: ../../source/jfeatures.rst:107
+msgid ""
+"This process used to install the metadata for a database migration. Here it "
+"asks feature file name and configured file name. The user has to enter all "
+"the above details one by one. Otherwise the user can input as everything in "
+"a same single line. The following command is used to install jfeature."
+msgstr ""
+
+#: ../../source/jfeatures.rst:114 ../../source/jfeatures.rst:171
+msgid "The screen shot shows its functions."
+msgstr ""
+
+#: ../../source/jfeatures.rst:125
+msgid "Feature-Pull"
+msgstr ""
+
+#: ../../source/jfeatures.rst:127
+msgid ""
+"Feature pull used to perform a pull on an installed feature. Due to "
+"Integration file changes can be  executed.The following command can be used "
+"to pull configuration file."
+msgstr ""
+
+#: ../../source/jfeatures.rst:134
+msgid ""
+"After inputting the above said command, it asks for Ip address and time. "
+"Based on this pull can be executed. The following screenshot explain its "
+"function."
+msgstr ""
+
+#: ../../source/jfeatures.rst:144
+msgid "Feature-Push"
+msgstr ""
+
+#: ../../source/jfeatures.rst:146
+msgid ""
+"Feature push used to achieves a push on an installed feature. When pushing "
+"completes it can be saved locally. The command used to push the feature."
+msgstr ""
+
+#: ../../source/jfeatures.rst:153
+msgid ""
+"After input the above said command, it asks profile unique and configuration"
+" file and push type. The user has to input one by one or everything in same "
+"line. This can be explained as follows through snapshots,"
+msgstr ""
+
+#: ../../source/jfeatures.rst:163
+msgid "Group-install"
+msgstr ""
+
+#: ../../source/jfeatures.rst:165
+msgid ""
+"This process used to install the metadata for a database migration. Here it "
+"asks feature group file name and configured file name. The user has to enter"
+" all the above details one by one. Otherwise the user can input as "
+"everything in a same line."
+msgstr ""
+
+#: ../../source/jfeatures.rst:182
+msgid "Group-install-all"
+msgstr ""
+
+#: ../../source/jfeatures.rst:184
+msgid ""
+"This process used to install metadata for database migration file set. Group"
+" configuration features component. Install and updation is possible. The "
+"following command used to install group all."
+msgstr ""
+
+#: ../../source/jfeatures.rst:191
+msgid ""
+"Entering the above said command it asks configuration file. The user can "
+"enter configuration file name. The following screen shot guides the user to "
+"install group all."
+msgstr ""
+
+#: ../../source/jfeatures.rst:204
+msgid "Group-push"
+msgstr ""
+
+#: ../../source/jfeatures.rst:206
+msgid ""
+"This process can perform a push of a group profile in to local file. Here "
+"group unique and configuration file name can be mentioned. The following "
+"command used to push the group profile into locally saved file."
+msgstr ""
+
+#: ../../source/jfeatures.rst:213
+msgid "The following screen shot guides the user to install group push."
+msgstr ""
+
+#: ../../source/jfeatures.rst:224
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/jfeatures.rst:226
+msgid "Well Supported for all type of users"
+msgstr ""
+
+#: ../../source/jfeatures.rst:227
+msgid "Easy to Upgrades"
+msgstr ""
+
+#: ../../source/jfeatures.rst:228
+msgid "Search better, Search Smarter"
+msgstr ""
+
+#: ../../source/jfeatures.rst:229
+msgid "Powerful Extensibility"
+msgstr ""
+
+#: ../../source/jfeatures.rst:230
+msgid ""
+"Do More with Less time spend for coding and do more with less jfeature "
+"commands"
+msgstr ""
+
+#: ../../source/jfeatures.rst:231
+msgid "Well to do with Ubuntu and Cent OS"
+msgstr ""
+
+#: ../../source/jfeatures.rst:232
+msgid "Non case sensitivity"
+msgstr ""

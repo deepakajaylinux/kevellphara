@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 11:09+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/firefox33.rst:3
-msgid "FireFox 33"
+msgid "FireFox33"
 msgstr ""
 
 #: ../../source/firefox33.rst:6
@@ -21,11 +21,11 @@ msgstr ""
 
 #: ../../source/firefox33.rst:8
 msgid ""
-"This module is open source web browser. It used to install firefox33. Ubuntu"
-" releases updated versions periodically. It implements current and "
-"anticipated web standards. Long-term support includes updates for new "
-"hardware, security patches and updates to the 'Ubuntu stack' (cloud "
-"computing infrastructure). It is comfortable with Ubuntu and Cent OS."
+"This module used to install firefox33. Ubuntu releases updated versions "
+"periodically. It implements current and anticipated web standards. Long-term"
+" support includes updates for new hardware, security patches and updates to "
+"the cloud computing infrastructure. It is comfortable with Ubuntu and Cent "
+"OS."
 msgstr ""
 
 #: ../../source/firefox33.rst:11
@@ -84,52 +84,47 @@ msgid "Comments"
 msgstr ""
 
 #: ../../source/firefox33.rst:101 ../../source/firefox33.rst:104
-#: ../../source/firefox33.rst:107
 msgid "Cleopatra firefox33 Install"
 msgstr ""
 
-#: ../../source/firefox33.rst:101 ../../source/firefox33.rst:107
-msgid "Firefox33"
+#: ../../source/firefox33.rst:101 ../../source/firefox33.rst:104
+msgid "Instead of using firefox33 we can use Firefox33, ff33"
 msgstr ""
 
-#: ../../source/firefox33.rst:101 ../../source/firefox33.rst:104
+#: ../../source/firefox33.rst:101
 msgid "Y"
 msgstr ""
 
-#: ../../source/firefox33.rst:101 ../../source/firefox33.rst:104
+#: ../../source/firefox33.rst:101
 msgid "System starts installation process under cleopatra"
 msgstr ""
 
 #: ../../source/firefox33.rst:104
-msgid "Ff33"
-msgstr ""
-
-#: ../../source/firefox33.rst:107
 msgid "N"
 msgstr ""
 
-#: ../../source/firefox33.rst:107
+#: ../../source/firefox33.rst:104
 msgid "System stops installation process under cleopatra|"
 msgstr ""
 
-#: ../../source/firefox33.rst:114
+#: ../../source/firefox33.rst:110
 msgid "Benefits"
 msgstr ""
 
-#: ../../source/firefox33.rst:116
+#: ../../source/firefox33.rst:112
 msgid ""
 "Firefox33 uses support for new hardware and integration of all the updates "
 "published in that series to date."
 msgstr ""
 
-#: ../../source/firefox33.rst:117
-msgid "Firefox33 is an open source Web browser for Linux."
+#: ../../source/firefox33.rst:113
+msgid "Firefox33 is suitable to work with Ubuntu and centOS."
 msgstr ""
 
-#: ../../source/firefox33.rst:118
+#: ../../source/firefox33.rst:114
 msgid "Firefox33 is non-case sensitive."
 msgstr ""
 
-#: ../../source/firefox33.rst:119
+#: ../../source/firefox33.rst:115
 msgid "Privacy and security measures, smart searching is possible."
 msgstr ""

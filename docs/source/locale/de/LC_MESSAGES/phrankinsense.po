@@ -1,0 +1,213 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/phrankinsense.rst:3
+msgid "Phrankinsense"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:6
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:8
+msgid ""
+"This tool helps the user to install and update phrankinsense under Cleopatra"
+" in pharaoh tools. Automation of the build should include automating the "
+"integration, which often includes deployment into a production-like "
+"environment. In many cases, the build script not only compiles binaries, but"
+" also generates documentation, website pages, statistics and distribution "
+"media such as Red Hat. It comforts with Ubuntu and Cent OS."
+msgstr ""
+
+#: ../../source/phrankinsense.rst:11
+msgid "Help command"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:13
+msgid ""
+"The help command leads the users regarding the purpose and as well as about "
+"the options that are included in the Phrankinsense modules. The help command"
+" lists out the alternative parameters of Phrankinsense under Cleopatra "
+"module. It also describes the syntax for installing the user’s updation. The"
+" help command for Phrankinsense is shown below."
+msgstr ""
+
+#: ../../source/phrankinsense.rst:19
+msgid "The following screen shot shows the full effort of Phrankinsense."
+msgstr ""
+
+#: ../../source/phrankinsense.rst:49
+msgid "Installation"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:51
+msgid ""
+"This is a tool that sits under cleopatra  and pulls down clean copies of the"
+" user codebase and does full builds, from scratch, all the time. This "
+"command is used to  install latest version of Phrankinsense. The command "
+"used for installation is as follows."
+msgstr ""
+
+#: ../../source/phrankinsense.rst:58 ../../source/phrankinsense.rst:95
+msgid "After inputs the command the system can ask"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:60
+msgid "install Phrankinsense?(Y/N)"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:62
+msgid ""
+"If the user gives Y then Phrankinsense will be installed. The following "
+"Screen shot demonstrate it ."
+msgstr ""
+
+#: ../../source/phrankinsense.rst:72 ../../source/phrankinsense.rst:106
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:72 ../../source/phrankinsense.rst:106
+msgid "Directory(default)"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:72 ../../source/phrankinsense.rst:106
+msgid "Options"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:72 ../../source/phrankinsense.rst:106
+msgid "Comments"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:74 ../../source/phrankinsense.rst:108
+msgid "Data directory (Default)"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:74 ../../source/phrankinsense.rst:79
+#: ../../source/phrankinsense.rst:108 ../../source/phrankinsense.rst:113
+msgid "Yes"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:74 ../../source/phrankinsense.rst:108
+msgid "“/opt/Phrankinsense”"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:74
+msgid "It will install Phrankinsense under Cleopatra"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:77 ../../source/phrankinsense.rst:111
+msgid "Data directory"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:77 ../../source/phrankinsense.rst:81
+#: ../../source/phrankinsense.rst:111 ../../source/phrankinsense.rst:115
+msgid "No"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:77 ../../source/phrankinsense.rst:111
+msgid "End slash"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:77 ../../source/phrankinsense.rst:111
+msgid "The user has to a specify the path"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:79 ../../source/phrankinsense.rst:113
+msgid "Executor directory(Default)"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:79 ../../source/phrankinsense.rst:113
+msgid "“/usr/bin”"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:79
+msgid "It will  install executor directory"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:81 ../../source/phrankinsense.rst:115
+msgid "Executor directory"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:81 ../../source/phrankinsense.rst:115
+msgid "No trailing slash"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:81 ../../source/phrankinsense.rst:115
+msgid "The user gives input as directory name.|"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:87
+msgid "Uninstall"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:89
+msgid ""
+"This command is used to Uninstall the latest version of Phrankinsense. The "
+"command used for Uninstallation is as follows."
+msgstr ""
+
+#: ../../source/phrankinsense.rst:97
+msgid "Uninstall Phrankinsense?(Y/N)"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:99
+msgid ""
+"If the user gives Y then Phrankinsense will be Uninstalled. The following "
+"Screen shot demonstrate it ."
+msgstr ""
+
+#: ../../source/phrankinsense.rst:108
+msgid "It will uninstall Phrankinsense under Cleopatra"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:113
+msgid "It will uninstall executor directory"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:123
+msgid "Ensure"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:125
+msgid ""
+"Ensure process used to check the  Phrankinsense  installed in the user  "
+"system or not. The following command helps the user to ensure."
+msgstr ""
+
+#: ../../source/phrankinsense.rst:131
+msgid "The following screen shot shows its functions."
+msgstr ""
+
+#: ../../source/phrankinsense.rst:136
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/phrankinsense.rst:138
+msgid "Used to Install Phrankinsenses possible."
+msgstr ""
+
+#: ../../source/phrankinsense.rst:139
+msgid "Suitable to work with Ubuntu and centos."
+msgstr ""
+
+#: ../../source/phrankinsense.rst:140
+msgid "Non case sensitivity."
+msgstr ""
+
+#: ../../source/phrankinsense.rst:141
+msgid "Automation in updated version."
+msgstr ""
+
+#: ../../source/phrankinsense.rst:142
+msgid "Reliability, Availability, serviceability with other connections."
+msgstr ""

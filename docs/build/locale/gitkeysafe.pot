@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,139 +17,139 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/gitkeysafe.rst:3
-# 1646ef4cd6544c1590244aa4e55d7909
+# 1112d695a93441b9b27f334d09a53742
 msgid "GitKeySafe"
 msgstr ""
 
 #: ../../source/gitkeysafe.rst:7
-# 781eeb4f726742a683935788bd0c1cfb
+# e6ceb9a9be704623babfec4215c5012c
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/gitkeysafe.rst:9
-# 31abeb019fde48d786e854e1538e4597
+# 98e46cbdfee64acab3783a7f9b4731cd
 msgid "Git key safe which helps you to installs Git key safe. This allows permission in a secure way. These systems have the ability of the users to view permission of the filesystem. The read permission grants the ability to read a file. The write permission grants the ability to modify a file. The execute permission grants the ability to execute a file. It comforts with Ubuntu and cent OS."
 msgstr ""
 
 #: ../../source/gitkeysafe.rst:12
-# b3e4264bf70f47979d84e0b6a450d797
+# 3c9e7de7c94d4f68973f64e25206d0ca
 msgid "Help command"
 msgstr ""
 
 #: ../../source/gitkeysafe.rst:14
-# a6fbef88fd5b46038baf8a59892caa9e
+# 481d71cdbff141289cc3414f03422b3b
 msgid "The help command leads the users regarding the purpose and as well as about the options that are included in the Gitkeysafe modules. The help command lists out the alternative parameters of Gitkeysafe under Cleopatra module. It also describes the syntax for installing the user’s keysafe. The help command for Gitkeysafe is shown below."
 msgstr ""
 
 #: ../../source/gitkeysafe.rst:21
-# 32e545fb44f24f32b92c2718f727703a
+# c91011c8a0194c8f88692c45477c8d7a
 msgid "The syntax for the help command non case sensitive which adds an advantage for this module. The following screenshot visualize the user about the help command under the syntax for the help command non case sensitive which adds an advantage for this module. The following screenshot visualize the user about the help command under gitkeysafe."
 msgstr ""
 
 #: ../../source/gitkeysafe.rst:48
-# 9d98890195154f43992605ea526418ef
+# 1064a90b465c4f238eb9f53afb49062d
 msgid "Installation"
 msgstr ""
 
 #: ../../source/gitkeysafe.rst:50
-# dff581f59e914d168731161a07c15b00
+# e9a6e4e141c44538acfd92121c496279
 msgid "Installation typically involves code being copied/generated from the installation files to new files on the local computer for easier access by the operating system.. Using them, the user has to make sure and have a backup, so the user data can always be restored. The following command used to install git key safe."
 msgstr ""
 
 #: ../../source/gitkeysafe.rst:56
-# 5ed9d872aee34bdcbcf488881d158175
+# f1eafc5f02284f59af175b0ce85f8b50
 msgid "While installing this module the following screen shot will be appeared."
 msgstr ""
 
 #: ../../source/gitkeysafe.rst:85
-# f2f70738fc5d433790e28901a6c8db8c
+# 6a484db408d1487fb4a031a22382d295
 msgid "Option"
 msgstr ""
 
 #: ../../source/gitkeysafe.rst:91
-# c7ee809f211741adbba075da9051eed5
+# 4b60e22a5e8e4fdcb2dce4f02cca16e9
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/gitkeysafe.rst:91
-# 5de909ce568b4bf4a3275c4edd36ed11
+# 02dabb3fec794db9ba94dfeadce2745c
 msgid "Alternate Parameters"
 msgstr ""
 
 #: ../../source/gitkeysafe.rst:91
-# c07fbdc22cf249b6b94c5e0f04f00e56
+# 3c65435568194fb3b1eb4afe01a7831e
 msgid "Options"
 msgstr ""
 
 #: ../../source/gitkeysafe.rst:91
-# 3234f72fa0f6457db70575d25b013220
+# a5a3de4d5864434bbd8d5217b439f9bf
 msgid "Comments"
 msgstr ""
 
 #: ../../source/gitkeysafe.rst:93
 #: ../../source/gitkeysafe.rst:96
-# ed159a733ec84cd19afecd1a11addf8c
-# 1938ae16f6344b968939e9d9ba1055af
+# 4fcdfce87cc44066aa2fb9882255412b
+# 5d41bca99d02478ca57cdc6cfa4a4e93
 msgid "Install gitkeysafe"
 msgstr ""
 
 #: ../../source/gitkeysafe.rst:93
-# fcb1c1362d5f494c84cdc486f4fa5199
+# 6a066fd0c43d4e14bc07e272e23b4f00
 msgid "Instead of using gitkeysafe we can use GitKeySafe,git-key-safe"
 msgstr ""
 
 #: ../../source/gitkeysafe.rst:93
-# 0b7fcb979ee84b09be52da0516013898
+# 4c325ee355154f1e963a1809848044cb
 msgid "Y"
 msgstr ""
 
 #: ../../source/gitkeysafe.rst:93
-# b071cfdb9a434745a42ec64962de43ab
+# 4c546427f9b84756a9bce83b266ccb58
 msgid "It installs  gitkeysafe under cleopatra"
 msgstr ""
 
 #: ../../source/gitkeysafe.rst:96
-# 03b3009134984bbc8e48b6c760dabddf
+# 649dbbae46a94b04b3873b57ac3eb348
 msgid "Instead of using gitkeysafe we can use GitKeySafe,git-key-safe|"
 msgstr ""
 
 #: ../../source/gitkeysafe.rst:96
-# 4ba30d2e570d419081b334db58bd44bf
+# 9ca93f0e4f6f4ee98e6f85941f189f95
 msgid "N"
 msgstr ""
 
 #: ../../source/gitkeysafe.rst:96
-# 9953817286b041ceb8ff6b0803d7e2eb
+# a8c80971ac6f451894b30608e5b930b6
 msgid "The system exit the installation"
 msgstr ""
 
 #: ../../source/gitkeysafe.rst:102
-# f6c5c0dcd3fc4560b481b72b93513adf
+# 81c2e24cc18f45ecabe14bc518046662
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/gitkeysafe.rst:104
-# 937af6ecad5f4a9c91892a74bb672bbe
+# 3099423f4a134449899285601d1ecd12
 msgid "Non case sensitivity"
 msgstr ""
 
 #: ../../source/gitkeysafe.rst:105
-# 7a049608ff074b6483d0bd5528a1a61d
+# 32b0cfb10f2d4b1a9722addf8232302f
 msgid "Uses to install Git key safe"
 msgstr ""
 
 #: ../../source/gitkeysafe.rst:106
-# fb0a8a6b63364ae48bcf47818c94f71f
+# 48500f52fc574335b28f8155aa810aab
 msgid "View the user permission"
 msgstr ""
 
 #: ../../source/gitkeysafe.rst:107
-# fd3a8bdc32204c99b9f167a09b9fb628
+# b2c3bed811fe41f98b12057fe07a501e
 msgid "Work with Ubuntu and cent OS"
 msgstr ""
 
 #: ../../source/gitkeysafe.rst:108
-# 6f01a69a10d04fa3b97b72ed445dbf0c
+# 5d1fa2c8b4e84177b9fdb4dcd2bef16c
 msgid "Security  is possible"
 msgstr ""
 

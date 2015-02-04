@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,141 +17,141 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/sshkeyinstall.rst:3
-# dacd3625701e43c08077287136486ae0
+# 5bee95a9a2124c7f8e90ad28f3826366
 msgid "SshKeyInstall"
 msgstr ""
 
 #: ../../source/sshkeyinstall.rst:6
-# 7892678ea2994ed1a6b20db88f6c80b8
+# 73c6f7cecf384ccdbc6186fef46d9676
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/sshkeyinstall.rst:7
-# bcdac13436c840c29dab365d2cc8f84a
+# bb304029fe444677b269f4f3b83b1f8d
 msgid "Ssh key Install   used to install ssh key for a new user. An authentication is more secure than password authentication. This is particularly important if the system is visible on the internet. With public key authentication, the authenticating entity has a public key and a private key. Each key is a large number with special mathematical properties. It is suitable with Ubuntu and CentOS."
 msgstr ""
 
 #: ../../source/sshkeyinstall.rst:10
-# c5d4c5b9bc974517aa12a69adb0d11e2
+# 219fe2a883704a3bb0060fc550b3af17
 msgid "Help command"
 msgstr ""
 
 #: ../../source/sshkeyinstall.rst:12
-# 31134ee7b40f4cd09592ca267da639c9
+# 9cf89691e84747dfa0f89998dfd1f523
 msgid "The help command guides the users regarding the purpose and as well as about the options that are included in the Sshkey install module. It lists out the alternative parameters of Sshkeyinstall module. It also describes the syntax for installing the Sshkeyinstall module. The help command for Sshkeyinstall module is shown as below."
 msgstr ""
 
 #: ../../source/sshkeyinstall.rst:19
-# c4e2f0403b2542c2b7460f29daa356d9
+# ea187a07fc624502b66feb90a22a1b6b
 msgid "The syntax for declaring the help command is non case sensitive which an added advantage is. The following screenshot visualize the user about the help command under Sshkeyinstall."
 msgstr ""
 
 #: ../../source/sshkeyinstall.rst:45
-# 9ff1037b925540e39331d3bd0a5cee3d
+# df062b3f7943408195760afdeed57150
 msgid "Installation"
 msgstr ""
 
 #: ../../source/sshkeyinstall.rst:47
-# c27db853ef804b5ebff498850b2fcb81
+# e96e7f71382a4dd4b47bb323ed608a02
 msgid "Installation includes installation of Sshkeyinstall  required to make the installation in a updated version . It is a manifest process to install Sshkeyinstall module under Cleopatra Sshkeyinstall by just using the command given below,"
 msgstr ""
 
 #: ../../source/sshkeyinstall.rst:53
-# b855dadbd20540fe8568d004e7816e9d
+# 47a8ce79a59f4154b801044792b49762
 msgid "After vitalize the command it will catechize input."
 msgstr ""
 
 #: ../../source/sshkeyinstall.rst:55
-# 6360dee80ea24d2684c4b92140cc31cc
+# a6969efa2ed2448d8341678c3aaf2234
 msgid "When the user input as yes automatically it will install Sshkeyinstall with checking from the system. If not exit the installation. The following screen shot demonstSshkeyinstallte Sshkeyinstall it."
 msgstr ""
 
 #: ../../source/sshkeyinstall.rst:59
 #: ../../source/sshkeyinstall.rst:64
-# 23552750bba846488726e9487a4b99fb
-# 5299e3b8f653489e87ed722ae254968b
+# a1661f3267fd41fbb71e16e905f8e171
+# 6c421716569e456e8a90e9df563a49c6
 msgid "Options"
 msgstr ""
 
 #: ../../source/sshkeyinstall.rst:64
-# b79a409702e24f36b0324538b07b84e2
+# 7531a9e054a2414ca76a985c7bded6c9
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/sshkeyinstall.rst:64
-# f5903215645e4c26b25136df842997a4
+# 06d85b7e0e6c4d5e86b6bae1b91573ac
 msgid "Alternate Parameters"
 msgstr ""
 
 #: ../../source/sshkeyinstall.rst:64
-# fd901a30f96248b193aba87ed71259c6
+# c79d2f6f3e9d4eaab5659a8047213eb5
 msgid "Comments"
 msgstr ""
 
 #: ../../source/sshkeyinstall.rst:66
 #: ../../source/sshkeyinstall.rst:69
-# 85ab8fd5d33746c2a3259bbc18d920ba
-# 5f830a423a034216b619b56924211ede
+# b21b68751c0f41a290e4b73e3920a947
+# 60bfcbb20dce4072911d6ee77a2700f3
 msgid "Install Sshkeyinstall?(Y/N)"
 msgstr ""
 
 #: ../../source/sshkeyinstall.rst:66
-# 54b6ae30721340c5bac524dc53aad5cd
+# 9c7905959ce74dd4b9abb763f6397fca
 msgid "Instead of using SshKeyInstall we can use  Sshkeyinstall, ssh-key-install"
 msgstr ""
 
 #: ../../source/sshkeyinstall.rst:66
-# 9701713c242e430997efabf3c1aa628f
+# 9c323b106d53400bbbbf3754eb83eb5a
 msgid "Y"
 msgstr ""
 
 #: ../../source/sshkeyinstall.rst:66
-# 0b4d0833ecd745eeb3fbd03064f1cdce
+# 7315138bd7fb44a7b35dd8a253cc3f4a
 msgid "It will install  Sshkeyinstall under cleopatra in Pharaoh tools"
 msgstr ""
 
 #: ../../source/sshkeyinstall.rst:69
-# 42f479d43a3a41caa90f8af0e272ac22
+# 077c3f403d2b4bfc999eb122c8f6005c
 msgid "Instead of using SshKeyInstall we can use  Sshkeyinstall, ssh-key-install|"
 msgstr ""
 
 #: ../../source/sshkeyinstall.rst:69
-# 9444f7866d9d4178809b88e3099d78eb
+# dfbb61118c974752ae2a93187480d057
 msgid "N"
 msgstr ""
 
 #: ../../source/sshkeyinstall.rst:69
-# 2959ae67d3a54d83914f30d5b365a19a
+# 542b7f9cc839443daba666ac2658e3db
 msgid "The system exit the installation"
 msgstr ""
 
 #: ../../source/sshkeyinstall.rst:75
-# 8b502b3f09804adb933e603e60ccd87b
+# 64e0083a81304abab7c3ebdcff544502
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/sshkeyinstall.rst:77
-# 914156c1e7f64c5f8f14039d457fc507
+# d0764010f51d4c7fa2c86e56666a2d95
 msgid "Sshkeyinstall is well-to-do in Ubuntu and CentOS"
 msgstr ""
 
 #: ../../source/sshkeyinstall.rst:78
-# 44c350e101ee427899dda08ee8e0fe59
+# 2beda75f53e74d2896cfdf6b0f8fec45
 msgid "Sshkeyinstall  can holdup  non case sensitivity"
 msgstr ""
 
 #: ../../source/sshkeyinstall.rst:79
-# 65bb3e8348344b03bd12cfa2265583f3
+# 7a795e6d57254259893a4310a8b698ba
 msgid "Sshkeyinstall is flexible"
 msgstr ""
 
 #: ../../source/sshkeyinstall.rst:80
-# 818426eb65524401a1ac9689a7588609
+# bf4f975fad0d4c1e98388bb5c0b4773b
 msgid "Sshkeyinstall used install sshkey"
 msgstr ""
 
 #: ../../source/sshkeyinstall.rst:81
-# 1f4f746a01cf43268902fbbb7fff7518
+# 9620bd4231984f1db8f5c2eac23d3ee2
 msgid "Sshkeyinstall supports security"
 msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,123 +17,123 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/nginxsbeditor.rst:3
-# 2b95e097bae94e7083da9ef3b63dcd0b
+# 795cefdab6834599b513e0fc87b9efa1
 msgid "NginxSBEditor"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:6
-# 8d9bf2affebe45b095d14fad1759fad0
+# fb3188f610a6452784f41b5b83d701e7
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:8
-# 3068420f3e924c42beb0a61f41e1782e
+# b863e781b2594439a03e346e00e7bf3f
 msgid "This module is a fine part of default modules and handles Nginx ServerBlocks functions. Let us see about the methodologies for using this and also about the functions under this nginx editor in upcoming topics."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:11
-# fbeab3c0206e4a47affcf7ded285f2c7
+# 7ee3e050f5584116a24298d29f0f6b8b
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:13
-# 026ecdec90304645b65205f6118dc9dc
+# b56c2af2859d4dcdb5de6123c90969c7
 msgid "The help command envelops all the necessary information regarding NginxSBEditor such as its primary uses, the list of alternative parameters that can be used in the declaration, what are primary function of NginxSBEditor(Ex: add, remove, list, enable, disable), and also the syntax used for declaring those interesting functions. The following command is used for declaring help option under NginxSBEditor,"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:20
-# 6d83fa0eb3bf44fa9ebe1f210c278f6e
+# b546386aba03421d9dd9c6fe249d3ff6
 msgid "The following screen shot depicts pictorially about the working of help command."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:60
-# 95035cb7452c4ec5a2214057dc632ace
+# d83b2f4c87014bcfa57a9017adae77a7
 msgid "How to Use"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:62
-# edd40da469ff4f19b914d2eaa5a624a8
+# 941d41d8bf104914bf47cefe6d58e5d0
 msgid "As depicted and explained in the above help command, the NginxSBEditor, has the following functions,"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:64
 #: ../../source/nginxsbeditor.rst:74
-# 07b0d76fcd2544f29348eddb50fed5a0
-# c645c9fad2cc44f38c60589496eb0793
+# 9f8ec94845b649aa99e1d520a2140b44
+# 3e76d5d25b434660989fd6804a04f774
 msgid "Add"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:65
 #: ../../source/nginxsbeditor.rst:219
-# 0dcff544e9d4487aabf4e90fdcc4293b
-# 4de678ec11db408198cd90022484a902
+# 9c917de1d321470bb1ad1c5555c0856e
+# 51ad258c17384a1a938723e0732a619d
 msgid "Remove"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:66
 #: ../../source/nginxsbeditor.rst:320
-# 06cfd8a2dbe742af89cf25ec94b96ae8
-# 0f909e7bd5f941f8a9a3383ba32bbf2f
+# a1b308558a4c439c9a35a36b7691b248
+# 6622caba93d443fd8a3e79e9763cff14
 msgid "List"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:67
-# ac9f4824c41c4fd0acc382f3a70fefbe
+# 211afbc4db4241bb9f7cbb5fda6c8c60
 msgid "Enable"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:68
-# 86b7698a828c4af3a3f830084765ca53
+# 4a6f83d6708a4bf7923ac6def4c93832
 msgid "Disable"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:71
-# a4d51e99bd774a6f8ad44533c6c378e6
+# fa2663f25add450a8f780bb99b8697e1
 msgid "Let us see how to use these interesting functions under NginxSBEditor."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:76
-# b4a99d5f55244ecc9cc017bdd4e8b156
+# b213bee96986428b83c5d7c6bcb9c599
 msgid "The role of this function is to create/add a new server block. The command and working of add functions is depicted below,"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:82
-# 64b0a12636e341d989f571b06512007d
+# 9e4498a98ac346a29b71cf8751c31bee
 msgid "After entering the command given above, the working of this add function is shown below,"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:88
 #: ../../source/nginxsbeditor.rst:233
-# b2331c8d57724c42ac1f464afef26690
-# c3a83a0823de492dab5f9f08e9d68745
+# 7684c09aeb25488b9ab9fc7c6d53ab1d
+# 760ed0527a7f4984b1f6169900fc931e
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:88
 #: ../../source/nginxsbeditor.rst:233
-# 5764efbfb04845faa81657ecec5c25f3
-# 1a874f4b6d8c451ba408006efb1c707c
+# 6317f7cce7414ae59613ca3355e85765
+# 28ede186bf8e4c299a4ec3c158291788
 msgid "Alternative Parameters"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:88
 #: ../../source/nginxsbeditor.rst:233
-# 185b0b1e85e849ee806647b1a0ef48c1
-# 31ed80ecf4e34863a77212514de31f36
+# cd22cd31e13c484980de35e6692009bd
+# ce10661b8c6243f399749a7b1c6947f3
 msgid "Options"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:88
 #: ../../source/nginxsbeditor.rst:233
-# 33bf6877008b48888659727d7d8deee5
-# 8738113ef255481e967d42acba4bf8ab
+# 29a3eb2c2df24eb3b708a1d9aace49c7
+# e39f2e9095244e4083a1822d71b42943
 msgid "Comments"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:90
 #: ../../source/nginxsbeditor.rst:93
-# d198d15e02684989af34e7b01451fafc
-# 436657a270354017b3f597033c8ce192
+# bf3feb06196147c0a30057d57b003121
+# abff91beaf4c4f7d84cb72cc39dcd18f
 msgid "Do you want to add a ServerBlock? (Y/N)"
 msgstr ""
 
@@ -141,237 +141,237 @@ msgstr ""
 #: ../../source/nginxsbeditor.rst:93
 #: ../../source/nginxsbeditor.rst:235
 #: ../../source/nginxsbeditor.rst:238
-# 2da4c60883124410a03380b4e349f24a
-# cf4aedb067924b0798fd6f82062ec30d
-# 63532d72ad4b4a32a653a2dc144885c9
-# cb4999caef6843438c28b60866d964c4
+# 3e2c48505a4142be9c5628c03f2728e4
+# 2d8b3911de3b40958a1bc64b8a3ebced
+# fb209fb23d3840e9b376154a6b8b060e
+# 1edb89a2b38a492b9ac7538855d88c0e
 msgid "Instead of NginxSBEditor, we can use nginx-sb-editor, nginxsbe also."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:90
 #: ../../source/nginxsbeditor.rst:235
-# c56e614f46d5440aba4f19c541aa188e
-# a0a611e7c75041329a9a288594613c36
+# 28cf4628244f411990274143510d499b
+# 9c1aad2e16fb4b46a6de94cf835d4af1
 msgid "Y(Yes)"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:90
-# 128312a9625b4ef0ac42fc5380732163
+# bba456a1a7d74afaa49b53166bfd6aa8
 msgid "If the user needs to add a new server block they can input as Y."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:93
 #: ../../source/nginxsbeditor.rst:238
-# 556724ab38124ea9875e5fae91d6dd04
-# 852ab7a2faf34885bc5083cdc3266b38
+# 4016acc6e25e4a3ca0de4773d8856648
+# fb03b0deffea4830800d2b75386dd311
 msgid "N(No)"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:93
-# 70f42f7480da4d40bdb2cf4a798a3fa2
+# c3e1d99d34344660aff6809aa871745c
 msgid "If the user is not in need to add a new server block they can input as N|"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:97
-# 0eb853a2c7bd4f0bb2510175b5b1ea56
+# 10ce59d483a34fbf8d7b75a55d0dbc1e
 msgid "If the user proceeds adding the server blocks during the adding process the following steps are involved."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:99
 #: ../../source/nginxsbeditor.rst:246
 #: ../../source/nginxsbeditor.rst:330
-# 862fdf6a30cb4405ab6b696ae9028903
-# 6a0ec29bf2ca4e5e8d23118bd062c4d3
-# 0b3b7c4b166242ce8449ce632018fa7c
+# bb0065c9c46f4cc9b0ea519ebf81decf
+# 1228a9cbe14b42b58663adaf67de5411
+# 3b0fe424b3024622ad0ea8f9431e998f
 msgid "Step 1:"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:101
-# 4190f9d045ba4fc081465fdf940e9155
+# 6100aa5c2f0442dd96b016a984cec77f
 msgid "What is document root?"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:103
-# 81431b5f5683423f899c581a0da27001
+# c3227014ef6c401c9bbe68707db5191f
 msgid "The user have specify the root, if they not wish to proceed with the default."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:105
 #: ../../source/nginxsbeditor.rst:254
 #: ../../source/nginxsbeditor.rst:336
-# 271635e1622442609aa273c72f4eff6d
-# 808a164f8eee4fce8735f6ad821dbdd9
-# 7f473df9e31241688d536426bf07b052
+# efff78bbf61c4f7e94f3c0bc5d8d0594
+# 8a44ff50dfc04bc1964b88730aa047df
+# b14541e24e8949b7a49b7f63eba504aa
 msgid "Step 2:"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:107
-# c4e2ff2b146d4a18ae864fb1ec452772
+# 9784ee3670d24e27bef550ffa5df44ae
 msgid "What URL do you want to add as server name?"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:109
-# fe924fa9dd2a4454a8f50df33c679390
+# 3bf63bc70803445eab26268ffd0e4c8a
 msgid "The user have to specify the url that is supposed to add."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:111
 #: ../../source/nginxsbeditor.rst:268
-# 73728fd01e7547e59feb7ab13c7d3c3c
-# d10920a0f7b8446db61fa1ab121d3a26
+# 19c5b1bfe13d4dd6876c3dada88f1f25
+# 1db73ad8689347e5b854e947ddfa1387
 msgid "Step 3:"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:113
-# 600e11de97224c7fb6a78a5b244a5a04
+# 368f5f9223f147889ca908f5bf37ba7d
 msgid "What IP? Port should be set?"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:115
-# d952da196cf645f69d8f045b6e06662e
+# ea7aa76b63384920857d7d93f13500e7
 msgid "The user have specify the IP, if they not wish to proceed with the default."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:117
 #: ../../source/nginxsbeditor.rst:274
-# f8d01c8d46ab4b0f9d61f97bc0dc6ee5
-# 85e2fde4f1b9421e85427e52ece242c0
+# 83ce551e3ae3463c9741564ec0708385
+# 3c43f73b0c8e47eea99acdd159220bfd
 msgid "Step 4:"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:119
-# 9156c5c775ba43d9adbf1ae8438ea950
+# ea430844274b407889337b7375626dee
 msgid "What is your ServerBlock Template directory?"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:121
-# 93f9d6ad07224e198c399ce849f9d641
+# 4266a9149fb44a3f9f98a275fbfee10f
 msgid "The user have specify the directory, if they not wish to proceed with the default."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:123
 #: ../../source/nginxsbeditor.rst:280
-# 9a9d5ec24ceb4d13a89c697bfb800433
-# 0ed352e7bb604292a7d2cd86085b1fed
+# 55b6811bcae3490a8ad3938e8efe95bd
+# c0205a85046d41a9ae68b043392dc00f
 msgid "Step 5:"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:125
-# 02d331be35a943e08b687a165f5579ba
+# d59aa5486d324eb0b09f3d6adfde4f96
 msgid "Please check the ServerBlock"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:127
-# 395719b7ec464c16863194f5ce4cae5f
+# 31418a9173994ce2961cd1d35979ebe7
 msgid "The user have check the output display of server block that is added and ensure."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:129
-# a54f0e60e36946cd94c08fa4305c2a84
+# 63e95867a1d84e889c81295ee7b89903
 msgid "Step 6:"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:131
-# 00bcb18cf7474dfc91375ca207669e0f
+# 486c8e2436d34f8abbdd8af128e3242d
 msgid "Is this Okay? (Y/N)"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:133
-# 8c341eb3c0f348538210100c6aa9f31d
+# be48c2781b03422d9ce987335ec6afc7
 msgid "If the user are happy with the result generated, they can input as Y else N."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:135
-# c6b3b891d96242e09875153be72b2029
+# 9d971cc6607f43d5b9c7d7bedf975528
 msgid "Step 7:"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:137
 #: ../../source/nginxsbeditor.rst:250
 #: ../../source/nginxsbeditor.rst:332
-# fc8cb2cba7764f1d8824b67d9d18baa2
-# 8150851a7f524c22bba2b7008838ec3f
-# 449744707ee44c3db2eee1598594154b
+# 87a908a9da864619a61b8d2778d3da40
+# 07af426c7aec4b92bb48eee15f5e8177
+# a66a7322344d4bcd9be4f505e8d37bb1
 msgid "What is your ServerBlock directory?"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:139
-# 3e47535572ef496fb5320754e79817b9
+# 7c5a0c435e57445eb11a4bd3ae45be1f
 msgid "The user have specify the directory."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:141
-# 084bf227270b4c8abfb8f2ca97baea42
+# 8ff74fdbb459454392bec27672ec1292
 msgid "Step 8:"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:143
-# e89d2136c05c46ce8916c38ca5ae8336
+# 36928756e20449e09e442848ce321e57
 msgid "Do you want to enable a server block? (Y/N)"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:145
-# f11b6c6624cd4a2bbb979b8048f131f1
+# ae19c36e85114177a9aa07c052bd376c
 msgid "The user have to input as Y or N depending upon their needs."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:147
-# 91890b28674f43018af0ee7c6036874e
+# 5676e166611148c49de69d8ae6d2c0c5
 msgid "Step 9:"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:149
-# 92934f77f0854f0e9ab2cdf76c71d1f1
+# ae2e93fbad804845931c1744c6526d06
 msgid "What is your Enabled Symlink ServerBlock directory."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:151
-# cb4f1af4bdcd42f9ab5dddf6bc6c67d7
+# 4043d11fa13f4ef9ac27d7ec5da92eb1
 msgid "If a server block is enabled, the user have to specify its directory."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:153
-# d6e836f3a7a74351b6d30d4e94b9554b
+# bb074526437f442a9cdec1c943872b22
 msgid "The following screenshot visually depicts the above explained process."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:221
-# f71dea0432524a558595c57063ea7a8b
+# 80c69adc30e641d68016a2b7e550ca7f
 msgid "The remove function is used for removing the unwanted server blocks. This can be done using the command given below,"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:227
-# 719bbcb9d2f4457eb716f9ff3323584c
+# 8903002d27a04915b898eda92cb9da0e
 msgid "After entering the command above, the following process involved in deletion as shown in the table"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:235
-# e73c902578c24216bb0198cf53b5c157
+# 736053da160840e893a8a1adbb47e4a2
 msgid "Do you want to delete ServerBlock/s? (Y/N)"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:235
-# b51e76122c6d46f3941d0fb5134fe74d
+# 9f293a42d1f94739b7c6a2940944d40a
 msgid "If the user needs to delete the server block they can input as Y."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:238
-# eedd8f10100a47c2905b3922850b750d
+# 292222d9723f449a87de928b7b68dbf0
 msgid "Do you want to add a ServerBlock/s? (Y/N)"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:238
-# 02e74544f40245c893ad2a111cd8beab
+# fc67a239e3d445859ec9ae1ec6f1fee1
 msgid "If the user is not in need to delete the server block they can input as N|"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:244
-# ec8b5525de9748899b66c5ba081c8df7
+# 1948331069974b78b272865b1f894a8f
 msgid "If the user proceeds deleting the server blocks during this process the following steps are involved."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:248
-# 3ba59b3ac0b64372a35cc955dc721d8e
+# aa94c74603c64b988df2d4710ca7e00f
 msgid "Deleting ServerBlock"
 msgstr ""
 
@@ -379,109 +379,109 @@ msgstr ""
 #: ../../source/nginxsbeditor.rst:284
 #: ../../source/nginxsbeditor.rst:334
 #: ../../source/nginxsbeditor.rst:340
-# 528221eaf8714ebda9bdc555895e1c46
-# cad601c16ea34a5082dcf244bcad605b
-# 2df5dc594ab443f1a7a1e9487b3f9ea7
-# 2d8f2f9e589246b4afbe47c1c89c4f6a
+# 1358735c60c541cbbc7898edcbb636ad
+# 5e0099d058af4f9f89765065ecfebcf1
+# 09a630f38d6840a796b34b4cce94f506
+# 8079f74104664f4884836c89f209b713
 msgid "The user have to specify the directory."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:256
-# 36be3ba730fc4209a764ebd37a09b45a
+# a44d3917d3f8490e936ec95c8b656fdb
 msgid "Please Choose ServerBlock"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:258
-# d912ef22ef1a4a1a8afde606d8da8361
+# 454f7f48bfc0416a880f0a4fe79850bc
 msgid "--All Server Blocks: ---"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:260
-# 0fff9c3848874325bad483f109480e0b
+# 592d9459c9b44625af5b1cfa30e75f90
 msgid "www.ngn.com"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:262
-# 58c6f58987404d3b979aa3983896a422
+# 120d94a5e23f42348bd20ed374dfbca1
 msgid "www.ngx.com"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:264
-# aa337816357847139a019d05e15732a6
+# 342f89336d3543288c0e7b094b439772
 msgid "www.nx.com"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:266
-# 7a18ff29150d48e9a8f3468ff9a97ad2
+# f48a4ad359f742dc9d8483b3409dd214
 msgid "The user have to specify the values from 0 to 2 depending upon their needs."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:270
-# c4bf40305b5146879859f816ac180d9e
+# 844495a8ba8149eaa8fd365a81e9b036
 msgid "!! Sure? Definitely delete ServerBlock? (Y/N) !!"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:272
 #: ../../source/nginxsbeditor.rst:278
-# 7ecb21ebeb404ae5b0440300884bd276
-# 28feba0f6a6a4707a785bd668d263bf3
+# 5206373985434b0ebf536bfc22ecc338
+# 702f07b9cf874e0d94aecb80396ca11d
 msgid "The user have to specify Y or N depending upon their needs."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:276
-# b8577bb497ab409bb91974b1c33e8c55
+# 7ec94b9c32204b7fb8be6a10d9e21a57
 msgid "Do you want to disable a ServerBlock? (Y/N)"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:282
 #: ../../source/nginxsbeditor.rst:338
-# a22c916788d2475baeba1e2a432640b1
-# 0f0981b4e0fb4c0b840a4588a282d7e1
+# 9efbf2dac0ee48f5b907fa760dae22ad
+# 5ef90f0976be45a5a18cf48527b21863
 msgid "What is your Enabled Symlink ServerBlock directory?"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:286
-# 3043ea064e364e34973750f4a265c936
+# ddb3e6cedaf24dc7a911b80d83a519bf
 msgid "The following screenshot depicts visually about the process of deletion."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:322
-# 301209bb3b3242e39a5bb42371cbd153
+# 1422b4bb8a3342cfae3aa56d6b2642b3
 msgid "The function of list option is to list the current installed server blocks. The command used for list is given below,"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:328
-# 66202f266bc2434a9656d18d261a24cf
+# ecb9040d584346d09c57d4897720420d
 msgid "After entering the command above, the following process involved in list option."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:342
-# 020b71544b624ec88566197868b9cb14
+# eeeefbdf01054e268f71e7055708a046
 msgid "After these steps, he list of currently installed ServerBlocks are displayed."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:344
-# 8bc55a0947c749e296ddb1d71d45503e
+# 6f7de13b414c4d3e8439e3f2c6f659ea
 msgid "The following screenshot depicts the working of list option visually."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:368
-# 3aeb91357a9a4906bca7867d8b7fd844
+# ec2b29742acc494cb6ce9d9f14b92f8a
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:370
-# 00f3628b741a425dad639766ba5bd863
+# 6505138a84ce4ab780005ad597749fed
 msgid "It is well-to-do in both ubuntu and as well as in cent OS."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:371
-# d711855702ef456f823659f8f709f80d
+# 8e7336a6d6c547299e939de88df68aee
 msgid "The parameters used in declaration is not case sensitive."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:372
-# a673aaeaa2de419fbbda0bd86a29db35
+# d0fea817b11f4cd68b3087aaeb41fe12
 msgid "The users can view list of server blocks available and currently installed, even before adding or deleting a server block."
 msgstr ""
 

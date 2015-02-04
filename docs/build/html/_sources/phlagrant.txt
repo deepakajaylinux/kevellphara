@@ -183,6 +183,7 @@ Playing with Phlagrant Modules
 
  autossh
  box
+ flirtify
  sftp
  systemdetection_phlagrant
 

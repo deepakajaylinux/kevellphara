@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,194 +17,194 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/apachevirtualhost.rst:3
-# e855273e3d4a4ce285d9458fb5cca9a7
+# b675710dadb245559c2b75ae709a82ae
 msgid "ApacheVHostEditor"
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:6
-# 8b6ce5d552aa4b2196879f0a0ccd0e08
+# 05660b266f8a484b81108296c906489f
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:7
-# dc5610645fb5455bb366de654795c505
+# 53842f71101043dcb979f6e14843779f
 msgid "Apache Virtual Hosts are used to run more than one domain off of a single IP address. This is especially useful to people who needs to handle apache vhost functions. The sites display different information to the visitors, depending on with which the users accessed the site. There is no limit to the number of virtual hosts that can be added to a Virtual Private Server(VPS).This can be suitable for Ubuntu and CentOS."
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:10
-# 3df6d0ca92934d6c879e7b31e4051fac
+# 4de1b039c5194412b651c7e93c450ce9
 msgid "Help command"
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:12
-# 83e2675506e24b139ff68aac239858d9
+# 2de268ce00cf4591b1e7379ef2bf5f0d
 msgid "The help command leads the users regarding the purpose  and as well as about the options that are included in the apache virtualhost editor modules. The help command lists out the alternative parameters of apache virtualhost editor under dapperstrano module. It also describes the syntax for installing the user’s updation. The help command for apache virtualhost editor is shown below."
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:19
-# bdf259ebfc544258a535a6893c1828ad
+# 6114a1b9774c4f6f9f180ad25f1dc38d
 msgid "The following screen shot shows the full effort of apache virtualhost editor."
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:84
-# c1c24eb4dbb14d3584a37cb454f0880a
+# 97b5cfed58e94c4c8d625a8a459932bd
 msgid "Alternative parameters"
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:86
-# 0505e05ed8054c59b86faf2e8de57a83
+# c80e1e454a2d4ba0b164df7a9cef0f16
 msgid "The following are the alternative parameters that can be defined in declarations:"
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:88
-# 9133ab0877a3445d8d411811f54934d5
+# 31884e5fedfa40eb81a4edc52b20a694
 msgid "ApacheVHostEditor, apachevhosteditor, vhosteditor, vhe, vhosted."
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:91
-# a939963e00fa48b79abd517fa58766bd
+# 51976d02805b484b93d92ec38d9f80e7
 msgid "Add"
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:93
-# 85fa069d6f7140e4b2f6bdf1a1a8a840
+# 17c91528fdb041a1a1541ec66f7ecabb
 msgid "This command used to create a virtual host. Overriding is possible.  The following command can be adopted for creating a virtual host editor."
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:99
 #: ../../source/apachevirtualhost.rst:133
-# 20b00e3dc37f4bd0843f2e73785cdcce
-# 7b5c6dfdae62484d980d724c9d38ec54
+# cf6cf652a6f0446a96b8db5c52e085e2
+# 10bf1716c7a34a5aa4289943fe8e0e98
 msgid "after inputting the above command it may ask the following,"
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:101
-# 2a336b983a0c4b468dd927b25a047f91
+# 10a1a7132eaa4cca88968ecedb7abd9c
 msgid "Vhe  document root,Vhe file extension,Vhe apache command, Vhe IP Port, Vhe Vhost Directory, Vhe Template,Vhe Default template name."
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:103
-# 738411dc022241a88aea9f572816d2ff
+# aad4eccd97124c76aad02cc69f510599
 msgid "The user has to input all the details one by one otherwise enter in the command line itself. The following screen shot explains about it"
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:125
-# e26c05ef209a41a786300294954df7c7
+# 117913743f7345429dbbc30e073bbd76
 msgid "Add- Balancer"
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:127
-# 08b3475bd96d469cae21d7d5dfa6a9ac
+# 22bfa6cc33e2448eb0906fe476c03903
 msgid "This command used to create a virtual host. Overriding is possible.  There are two ways to enter the input. In simple way the user can give vhe add. The second way along with the command host path name can be mentioned. The following command can be adopted for creating a virtual host editor."
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:135
-# 8d47f2b9caba40fdb4d679df5321ade2
+# 8cec67609cfb429aa033939e8f531796
 msgid "Vhe  document root, Vhe file extension, Vhe apache command, Vhe IP Port,  Vhe Vhost Directory, Vhe Template,Vhe Default template name."
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:137
-# df9bf3aa81de4df69cf0f131d436ccb2
+# 31de5d5dab2c413bb4150f46fa8bb511
 msgid "The user has to input all the details one by one otherwise enter everything in the command line itself. The following screen shot explains about it"
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:159
-# 9c877d88fb8b4ddc89333ab4ec72f00a
+# 614a30010b744eec8f672f21d8db70b9
 msgid "Remove"
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:161
-# 5c6eb8a62eda4ac9946244b53559a590
+# 903a12fd56274a11b1494dcf59c13bdf
 msgid "This command used to delete a particular vhost. There are two ways to enter the input. In simple way the user can give vhe remove(rm). The second way along with the command host path name can be mentioned. The following command is used to remove the host name."
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:167
-# e08beae5d5fd4ece9cc7b97c91aead0c
+# 166bd49f4dee406fbfec8712e938a6c7
 msgid "The following screen shot shows the function of rm."
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:179
-# a3258eed373b48859fc5c2a1727acbb6
+# 80c09c97d694442482e99dd951dae4e3
 msgid "List"
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:181
-# 194303d041cf45ed80aa29e43edf88b2
+# 0180652ea0c44274973c1558fbf29c76
 msgid "This command used to list the current virtual hosts. The following command used to list the virtual hosts."
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:187
-# 66418420f2cb4b94bf7caf521821e067
+# 59f83869b48c4a5ca3974c504945231d
 msgid "The screen shot shows the list function."
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:197
-# 66ad5ffe9ae04457a49409bcccd650e3
+# d8fe04c2755245758fe27aed3d1c88ed
 msgid "Enable"
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:199
-# e787ff129db94066abec3071dc4123ec
+# a042af7f18754ddbb20535563689364f
 msgid "Secure Boot is a feature designed to prevent malicious software and unauthorized media from loading during the boot process. This enable option enabled the server block. In virtual host when the used typed the following command,"
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:205
-# 06d1351a61f44685b95b4407f7d170ca
+# 75dd8fa5bc724a6684a7b6364ff038e7
 msgid "This option is enabled by default. This option allows the virtual host server enable."
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:207
-# a3d19a79febf415a9342fa7e81676d33
+# b1b0b9c3db0b4787a42496af63cca9b2
 msgid "Assists module develop many of the enabling capabilities required to service high performing environments through our understanding of the interdependencies between people, process and technology. The following screen shot explains the same."
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:219
-# 841e1b8fdcdd48588288ad2a39bf11dd
+# 31a523def2e44b1a85dceb6c508daf09
 msgid "Disable"
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:221
-# 1e635e04668f45bcbb5efa5b87a20dcb
+# e77fd5cd30ff4dc7bcaaf0e0bbb685c4
 msgid "This disable used to disable the server. Inactive or idle virtual host editor connections are normally disconnected by the server after a certain period of time. The following command is used to disable the virtual host editor."
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:227
-# 36588e126845488ca788ace9931cf19d
+# 5242d8b6e65c49c78d059faaa459e71b
 msgid "After typing this command it can ask the user to disable the server. If the user inputs as yes it disable the server i.e. it won’t allow any body to work in that server."
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:229
-# 45ac7df51c9e4d91816171f2b8adb7ed
+# eb0b5c173b504942a22e13ad3af80f45
 msgid "The following screen shot visualize it evidently."
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:241
-# 4c89db49dc7c432b9bad078d11ea3a8d
+# f94167d5031f4c78b84a377f08a71557
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:243
-# bc977470871e4a428c6899b9e4e0c37f
+# d48dd5c629754a7794d66c2e47d9e8d0
 msgid "Multi user can access at a time."
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:244
-# f8dab1d1a0b24ca69f5df1552ecb67ed
+# db70a185938d4d0ebb359e407e637049
 msgid "The user can add or remove virtual host."
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:245
-# d7596defc35a4fea8bcfb728629ca5d5
+# 44b54c85729346d182740e20ea3fa44c
 msgid "The virtual host editor can enable or disable the virtual host according to the user’s wish."
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:246
-# 2f1d38c75449426592f749168cc0a5e2
+# bae50966081042ab9c7088122434a683
 msgid "Non case sensitivity."
 msgstr ""
 
 #: ../../source/apachevirtualhost.rst:247
-# 4c50dcbc4adf4261997d0bfb71c9c00f
+# cff4a8fb2998496298367745d12eb219
 msgid "Well-to-do in Ubuntu and CentOS."
 msgstr ""
 

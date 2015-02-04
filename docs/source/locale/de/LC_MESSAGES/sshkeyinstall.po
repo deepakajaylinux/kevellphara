@@ -1,0 +1,143 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/sshkeyinstall.rst:3
+msgid "SshKeyInstall"
+msgstr ""
+
+#: ../../source/sshkeyinstall.rst:6
+msgid "Synopsis"
+msgstr ""
+
+#: ../../source/sshkeyinstall.rst:7
+msgid ""
+"Ssh key Install   used to install ssh key for a new user. An authentication "
+"is more secure than password authentication. This is particularly important "
+"if the system is visible on the internet. With public key authentication, "
+"the authenticating entity has a public key and a private key. Each key is a "
+"large number with special mathematical properties. It is suitable with "
+"Ubuntu and CentOS."
+msgstr ""
+
+#: ../../source/sshkeyinstall.rst:10
+msgid "Help command"
+msgstr ""
+
+#: ../../source/sshkeyinstall.rst:12
+msgid ""
+"The help command guides the users regarding the purpose and as well as about"
+" the options that are included in the Sshkey install module. It lists out "
+"the alternative parameters of Sshkeyinstall module. It also describes the "
+"syntax for installing the Sshkeyinstall module. The help command for "
+"Sshkeyinstall module is shown as below."
+msgstr ""
+
+#: ../../source/sshkeyinstall.rst:19
+msgid ""
+"The syntax for declaring the help command is non case sensitive which an "
+"added advantage is. The following screenshot visualize the user about the "
+"help command under Sshkeyinstall."
+msgstr ""
+
+#: ../../source/sshkeyinstall.rst:45
+msgid "Installation"
+msgstr ""
+
+#: ../../source/sshkeyinstall.rst:47
+msgid ""
+"Installation includes installation of Sshkeyinstall  required to make the "
+"installation in a updated version . It is a manifest process to install "
+"Sshkeyinstall module under Cleopatra Sshkeyinstall by just using the command"
+" given below,"
+msgstr ""
+
+#: ../../source/sshkeyinstall.rst:53
+msgid "After vitalize the command it will catechize input."
+msgstr ""
+
+#: ../../source/sshkeyinstall.rst:55
+msgid ""
+"When the user input as yes automatically it will install Sshkeyinstall with "
+"checking from the system. If not exit the installation. The following screen"
+" shot demonstSshkeyinstallte Sshkeyinstall it."
+msgstr ""
+
+#: ../../source/sshkeyinstall.rst:59 ../../source/sshkeyinstall.rst:64
+msgid "Options"
+msgstr ""
+
+#: ../../source/sshkeyinstall.rst:64
+msgid "Parameters"
+msgstr ""
+
+#: ../../source/sshkeyinstall.rst:64
+msgid "Alternate Parameters"
+msgstr ""
+
+#: ../../source/sshkeyinstall.rst:64
+msgid "Comments"
+msgstr ""
+
+#: ../../source/sshkeyinstall.rst:66 ../../source/sshkeyinstall.rst:69
+msgid "Install Sshkeyinstall?(Y/N)"
+msgstr ""
+
+#: ../../source/sshkeyinstall.rst:66
+msgid ""
+"Instead of using SshKeyInstall we can use  Sshkeyinstall, ssh-key-install"
+msgstr ""
+
+#: ../../source/sshkeyinstall.rst:66
+msgid "Y"
+msgstr ""
+
+#: ../../source/sshkeyinstall.rst:66
+msgid "It will install  Sshkeyinstall under cleopatra in Pharaoh tools"
+msgstr ""
+
+#: ../../source/sshkeyinstall.rst:69
+msgid ""
+"Instead of using SshKeyInstall we can use  Sshkeyinstall, ssh-key-install|"
+msgstr ""
+
+#: ../../source/sshkeyinstall.rst:69
+msgid "N"
+msgstr ""
+
+#: ../../source/sshkeyinstall.rst:69
+msgid "The system exit the installation"
+msgstr ""
+
+#: ../../source/sshkeyinstall.rst:75
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/sshkeyinstall.rst:77
+msgid "Sshkeyinstall is well-to-do in Ubuntu and CentOS"
+msgstr ""
+
+#: ../../source/sshkeyinstall.rst:78
+msgid "Sshkeyinstall  can holdup  non case sensitivity"
+msgstr ""
+
+#: ../../source/sshkeyinstall.rst:79
+msgid "Sshkeyinstall is flexible"
+msgstr ""
+
+#: ../../source/sshkeyinstall.rst:80
+msgid "Sshkeyinstall used install sshkey"
+msgstr ""
+
+#: ../../source/sshkeyinstall.rst:81
+msgid "Sshkeyinstall supports security"
+msgstr ""

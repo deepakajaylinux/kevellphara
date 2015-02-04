@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,126 +17,126 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/networktools.rst:3
-# 35cf7fef26bd439497a4e1eb2d07bb4b
+# fd3e247f5b1e4fb9a9626e23b8d32922
 msgid "NetworkTools"
 msgstr ""
 
 #: ../../source/networktools.rst:6
-# c2110b8a43c547ba845cdf296a718962
+# 479a6b91231a4aeebd7119edb694618e
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/networktools.rst:8
-# fa18f6f0d69848be876613cc226d7ecf
+# 6e59426d9d8144cdbb2cb414523a5fbc
 msgid "The network tools are software utilities designed to analyze and configure various aspects of computer network. The most common network tools found on most operating system includes Traceroute , Netstat and Ping. Each network tools have its own functions."
 msgstr ""
 
 #: ../../source/networktools.rst:10
-# 0ce46d5aac084d4f872947475d757706
+# 9fe21cf23c03412c8bff04f9f04f7124
 msgid "For example:"
 msgstr ""
 
 #: ../../source/networktools.rst:12
-# 29c092b6d29b4727b91e5ea4ccfbac83
+# 90d5a82b5d914ee29937eafd6d844942
 msgid "Ping is used to check connectivity"
 msgstr ""
 
 #: ../../source/networktools.rst:14
-# c5eccdeb079f4c739f33b5db1fd6be8b
+# 0ade9f93d68d4671b9cb60d961eb9c1b
 msgid "Netstat is used to display network connection both incoming and outgoing"
 msgstr ""
 
 #: ../../source/networktools.rst:17
-# 2665434376c54caf99b22f33e01fbc11
+# b67a80f29e0e448fb73b9b1bdfb695fa
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/networktools.rst:19
-# 939a731dd02f4f1993e17b0bdf0db5b8
+# d387cc19d8c24a188314a5e3212597ce
 msgid "This command helps to determine the usage of network tools module. The user will come to know about the different ways/format to execute this module. This command will guide the end user to know when and how the command to be used. Below given are the command and the screenshot of the same."
 msgstr ""
 
 #: ../../source/networktools.rst:27
-# 57cf0ffc9643492aa40a33a02d66c42b
+# a50e752858cb4fd4a49b80933dc860f8
 msgid "The pictorial representation of the above command is listed below,"
 msgstr ""
 
 #: ../../source/networktools.rst:51
-# 6f9c8663a7ec49e9ab2044a7d8856e98
+# 51f2a8266964467fa6717ca5cb5af066
 msgid "Installation"
 msgstr ""
 
 #: ../../source/networktools.rst:53
-# dc74e3bcaaae4790b7a803fa78a9b1be
+# 4531ea21d9c24e8486439a07b9b84d27
 msgid "When the user needs to install any network tool in machine. The below given command will execute the process of installation."
 msgstr ""
 
 #: ../../source/networktools.rst:65
-# a156a705455048a3be90124ea83ac099
+# 5a57bbbc4f6e45f1b7c372dd8029e4ad
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/networktools.rst:65
-# 1710878762f54a1994312a51ebafd103
+# 90d92fed7a7d4d9384fe32cdb6a8f3f9
 msgid "Alternative Parameters"
 msgstr ""
 
 #: ../../source/networktools.rst:65
-# de7b1c009d034a8db436f18d501f9cee
+# 84112a1315674a7e9ca4f14325de8851
 msgid "Options"
 msgstr ""
 
 #: ../../source/networktools.rst:65
-# c834ed6cdfe740eeafd7f9d736da60b0
+# 0721be7548b74dea880e0915a95c5aef
 msgid "Comments"
 msgstr ""
 
 #: ../../source/networktools.rst:67
 #: ../../source/networktools.rst:70
-# f81e27196ff04d3190d3d932fc87e850
-# 67b4905377684e02bd58fe535a4afb20
+# 940648eff6ea49b2b8e2efbe7fcfb3f3
+# 5ee7d18083ee4c92a6a1dbc345c1e392
 msgid "Cleopatra Networktools Install"
 msgstr ""
 
 #: ../../source/networktools.rst:67
-# c4112096367e4bbabc64921167c941d3
+# 5701bfa0c267430f9e56f4fe16c6f1cd
 msgid "NetworkTools, networktools, network-tools"
 msgstr ""
 
 #: ../../source/networktools.rst:67
 #: ../../source/networktools.rst:70
-# be4b3f3726094442ba835dafd5910ef6
-# 7497c21778c641f1a09b7d64d58aa827
+# b8f6e233932345d585730e8732e3d1e4
+# a3af8870329f4700bb72e31ed2e50e87
 msgid "Y"
 msgstr ""
 
 #: ../../source/networktools.rst:67
-# 8e15ba3e4c5a48969e006db317b6dde0
+# 824bfbb270424ca2b73b958aa77059bc
 msgid "System starts installing the network-tools"
 msgstr ""
 
 #: ../../source/networktools.rst:70
-# c26d2f5d26534f859a69cbd0e856b993
+# 4c11ec834d764fdb85a26c6dba4a8c06
 msgid "NetworkTools, networktools, network-tools|"
 msgstr ""
 
 #: ../../source/networktools.rst:70
-# ebeab06989554a28881d38fec2ef2d92
+# f127ae473b03445c80f1467e693239c5
 msgid "System stops installing function"
 msgstr ""
 
 #: ../../source/networktools.rst:76
-# 619922fd185e48478fbc2251870f265d
+# c7ce1627c5c34263a537384ac5b6f517
 msgid "Once the installation command executed, the system ask for the confirmation by yes/no \"Y/N\" question. Once the confirmation given from our end, the system starts executing the function and the system ends up with the final result. Below given is the screenshot for the same."
 msgstr ""
 
 #: ../../source/networktools.rst:80
-# 0f85a9a128b84a688908e045ed2d0764
+# ccbd30a1492144aca0d6c14806fb1d59
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/networktools.rst:82
-# 91b7dac3cdb74baebad6deb84f864943
+# 3a3605db2664410dbe420ce3b7b449e3
 msgid "This module helps in installing the set of common network tools. This benefits the users to install various tools which can be useful when networking with other computers both within the network and across the internet. This helps the users who are working with remote machines."
 msgstr ""
 

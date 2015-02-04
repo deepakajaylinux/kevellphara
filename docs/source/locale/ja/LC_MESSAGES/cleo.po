@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 11:09+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -64,24 +64,6 @@ msgstr ""
 msgid "The following screen shot enumerate it."
 msgstr ""
 
-#: ../../source/cleo.rst:105
-msgid "Benefits"
-msgstr ""
-
-#: ../../source/cleo.rst:107
-msgid ""
-"Cleopatra is used to install configuration file. While installing if there "
-"is any file is existing overwrite the content."
-msgstr ""
-
-#: ../../source/cleo.rst:108
-msgid "New version can update automatically."
-msgstr ""
-
-#: ../../source/cleo.rst:109
-msgid "Updation can be done in this module without web search."
-msgstr ""
-
 #: ../../source/cleo.rst:93
 msgid "Parameters"
 msgstr ""
@@ -118,19 +100,20 @@ msgstr ""
 msgid "It will exit from installation|"
 msgstr ""
 
-#~ msgid "kevells@corp:/# cleopatra Cleopatra help"
-#~ msgstr ""
+#: ../../source/cleo.rst:105
+msgid "Benefits"
+msgstr ""
 
-#~ msgid "This command allows you to update Cleopatra."
-#~ msgstr ""
+#: ../../source/cleo.rst:107
+msgid ""
+"Cleopatra is used to install configuration file. While installing if there "
+"is any file is existing overwrite the content."
+msgstr ""
 
-#~ msgid "Cleopatra, cleo, cleopatra"
-#~ msgstr ""
+#: ../../source/cleo.rst:108
+msgid "New version can update automatically."
+msgstr ""
 
-#~ msgid "install"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Installs the latest version of cleopatra example: cleopatra cleopatra "
-#~ "install"
-#~ msgstr ""
+#: ../../source/cleo.rst:109
+msgid "Updation can be done in this module without web search."
+msgstr ""

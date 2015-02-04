@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-04 18:03+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,168 +17,168 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/chrome.rst:3
-# b53ef36e6e6947cb8268d2e44b17653e
+# 3839ead93f954986b1a200d82b776d04
 msgid "Chrome"
 msgstr ""
 
 #: ../../source/chrome.rst:6
-# 87b90d82186f48debdca91eadd5912ff
+# 209d1d193e534c3d872e8385b21c1d4e
 msgid "Synopsis"
 msgstr ""
 
 #: ../../source/chrome.rst:8
-# cc993c19316a4e01bec9239952cc5384
+# c11c4a19bc234a87b380edb9734e8e00
 msgid "Google Chrome is another web browser which runs web pages and applications with lightning speed due to its superior JavaScript rendering engine."
 msgstr ""
 
 #: ../../source/chrome.rst:11
-# e307cb79844c40a8a108aba4bb32732b
+# 235124e19a2448cabdbdb9a7dafc5dad
 msgid "Chrome is a free web browser created by Google that uses the WebKit layout engine. Chrome is known for its very simplistic and minimalistic design and touted as the fastest browser out there. Chrome is currently the most widely used web browser with a worldwide"
 msgstr ""
 
 #: ../../source/chrome.rst:14
-# bdf455fc136943f2a28806958d735427
+# 8d13c006267e47eb9e8bb625be1ca8c2
 msgid "Help Command"
 msgstr ""
 
 #: ../../source/chrome.rst:16
-# 8fcf3ab906fa44479912787d107537ca
+# 8e1447edad5a4ad09793b86c7bf4702e
 msgid "This command helps to determine the usage of Chrome. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same."
 msgstr ""
 
 #: ../../source/chrome.rst:22
 #: ../../source/chrome.rst:54
-# 9b763c48b0614037aca012323d7984c2
-# 2f754092f3e44a4184587739c65cc7aa
+# 5400613e495443b3a0dd16ddc567e6e7
+# a940a061562a454487cbcdf509f6aa32
 msgid "The pictorial representation of the above command is listed below,"
 msgstr ""
 
 #: ../../source/chrome.rst:46
-# a0f9291e48e54768b4867eecc6a33701
+# 624b889d8b044e549900758b92876336
 msgid "Installation"
 msgstr ""
 
 #: ../../source/chrome.rst:48
-# f9e4f00a4a004a2a8502be6f25de1c5f
+# b58e9629de1f4ccb850231d670b243e6
 msgid "Open the terminal and type the following command to install the same under Linux, when you need to install Chrome in machine."
 msgstr ""
 
 #: ../../source/chrome.rst:195
 #: ../../source/chrome.rst:201
-# 5c8ad1e8d5e542b6a7a7f1ecb2385633
-# e8a5f3c3f120451e982f4f23e2136956
+# b82a1be2d81948f6823bea30db41e150
+# 01e05ac44ea9435ba4c7d932b2f79b7e
 msgid "Options"
 msgstr ""
 
 #: ../../source/chrome.rst:201
-# fb987062fb1d4005a7fda7d99f7fc510
+# 7dbdc729785a4d84b647ba15de313ce4
 msgid "Parameters"
 msgstr ""
 
 #: ../../source/chrome.rst:201
-# 320ecb8049f4440e91e6e7451fe0129b
+# 9c07365301f84336b228c981bfc2043b
 msgid "Alternative Parameters"
 msgstr ""
 
 #: ../../source/chrome.rst:201
-# f72778d1dec04601950eada0e71f153d
+# 7dd8511e4e10446180d1c56f8c4b7523
 msgid "Comments"
 msgstr ""
 
 #: ../../source/chrome.rst:203
 #: ../../source/chrome.rst:208
-# 313121b296d1486185a8acb3727db482
-# 7c98c5fc390945099ea04e862f3ee8ac
+# 11108110bc664f498d125f7d2e8c979c
+# d13c025867ad4404bb858d647750dc75
 msgid "cleopatra Chrome  Install"
 msgstr ""
 
 #: ../../source/chrome.rst:203
-# 41fed63f0dde46b79ec74673b2f42839
+# edc12c7bfc184166af312c83b796a7a4
 msgid "Either of the two alternative parameter can be used in command- Chrome ,  chrome eg: cleopatra  chrome Install"
 msgstr ""
 
 #: ../../source/chrome.rst:203
-# 843a8da146aa48538f26c357dfbfafa8
+# 4f2643ed3cd7410b9844ee3e716c76c5
 msgid "Y"
 msgstr ""
 
 #: ../../source/chrome.rst:203
-# 2a49bf3326154b1a9dfdc5079ab371f7
+# d4f76b41045446cab581e40fd82e790a
 msgid "Once the user provides the option, System starts installation process"
 msgstr ""
 
 #: ../../source/chrome.rst:208
-# 3708412037054409b0d19af1edb5f914
+# f2675ac1c1844ea8b2d2f858da7c830d
 msgid "Either of the two alternative parameter can be used in command- Chrome ,  chrome eg: cleopatra  chrome Install|"
 msgstr ""
 
 #: ../../source/chrome.rst:208
-# fb87b55657004f728eeaf1561a7ce7e1
+# 059245444c864e9a841c010be69fb64a
 msgid "N"
 msgstr ""
 
 #: ../../source/chrome.rst:208
-# eeef4b76b7544abb953101138bafbe4f
+# 7f019d6c5dba4cbd8213769473e4c93c
 msgid "Once the user provides the option, System stops installation process"
 msgstr ""
 
 #: ../../source/chrome.rst:216
-# 79c8d875a2fe4f818c087577b39ce5a8
+# 36f68b8eb365489aa36af405c7fbd4f1
 msgid "Benefits"
 msgstr ""
 
 #: ../../source/chrome.rst:218
-# 58d3f94f907949b7b4f35f1cf549a7f1
+# ddfa050030d84c3f8c9f4b2248b706f9
 msgid "Chrome is an extremely fast web browser; it loads and displays pages very quickly."
 msgstr ""
 
 #: ../../source/chrome.rst:219
-# 8ce7257d325a4247a07ad5a716cf458c
+# 7e6d30928796495ea826ef46481e86fb
 msgid "You can drag tabs out into separate windows, without difficulty, and back in again with your mouse."
 msgstr ""
 
 #: ../../source/chrome.rst:220
-# d0d46837a588440cac5d2d1626e82ce6
+# 667115d524114925a9994d1dd8753c72
 msgid "Google Chrome has a very basic, simple design, making it easy to use."
 msgstr ""
 
 #: ../../source/chrome.rst:221
-# ab630eb224cc420fb6733d35c33d785a
+# e41d2ad2501d40528d4b277b010bec32
 msgid "The start-up page lists the most frequent pages you’ve visited and allows you to click and access them with ease."
 msgstr ""
 
 #: ../../source/chrome.rst:222
-# 1a5a96a29b12490885b9618033c94975
+# ec9c80b49d304e6089686c431bed7327
 msgid "Chrome automatically translates pages into a language you understand for your convenience."
 msgstr ""
 
 #: ../../source/chrome.rst:223
-# 464262fbb2d54880a068db9aa2050ea5
+# 3ceadaf8f9744837838838ec0251732a
 msgid "You can search the internet through your address bar at any time."
 msgstr ""
 
 #: ../../source/chrome.rst:224
-# 6d4f7c9703d84cc59181b5062f1a26c4
+# fb5e5583d35e494bbdb6286a58435190
 msgid "If a site crashes on one of your tabs, other open tabs will not be affected."
 msgstr ""
 
 #: ../../source/chrome.rst:225
-# a17e5beaa30a445b9b85d6593b6b5cbe
+# 44df3c61ecf24105a2b72f4dab58c89c
 msgid "You may browse the internet without being logged using Chrome’s new private feature: Incognito."
 msgstr ""
 
 #: ../../source/chrome.rst:226
-# 8de6606e829b495b87ed514c43bfc559
+# 422ba743a33a430abbf564df67f9f718
 msgid "Unlike Firefox and Safari, you can alter the colour and theme of the browser."
 msgstr ""
 
 #: ../../source/chrome.rst:227
-# 1cef2841c6d34de0b3588bc465c970e0
+# 8532fc27f50c4c928d653bb088a807c2
 msgid "Chrome is faster than Explorer and FireFox."
 msgstr ""
 
 #: ../../source/chrome.rst:228
-# 634e8be424bb45029552e8305dc678dc
+# 6f35607237df49fda5126b4681b971ae
 msgid "Chrome takes only seconds to install."
 msgstr ""
 

@@ -229,6 +229,7 @@ here, the screenshot denotes the display of all modules available under Cleopatr
  dbinstall
  environmentconfigdapper
  hosteditor
+ joomla
  lighttpdControl_dapper
  logging_dapper
  nginxcontrol

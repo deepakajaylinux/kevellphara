@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 11:09+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../source/firefox14.rst:3
-msgid "FireFox 14"
+msgid "FireFox14"
 msgstr ""
 
 #: ../../source/firefox14.rst:7
@@ -21,18 +21,18 @@ msgstr ""
 
 #: ../../source/firefox14.rst:9
 msgid ""
-"This module is open source web browser. It used to install firefox14. Ubuntu"
-" releases updated versions periodically. It implements current and "
-"anticipated web standards. Long-term support includes updates for new "
-"hardware, security patches and updates to the 'Ubuntu stack' (cloud "
-"computing infrastructure). It is comfortable with Ubuntu and Cent OS."
+"This module used to install firefox14. Ubuntu releases updated versions "
+"periodically. It implements current and anticipated web standards. Long-term"
+" support includes updates for new hardware, security patches and updates to "
+"the cloud computing infrastructure. It is comfortable with Ubuntu and Cent "
+"OS."
 msgstr ""
 
-#: ../../source/firefox14.rst:12
+#: ../../source/firefox14.rst:13
 msgid "Help Command"
 msgstr ""
 
-#: ../../source/firefox14.rst:14
+#: ../../source/firefox14.rst:15
 msgid ""
 "This command can function about the objectives and commands available under "
 "Firefox14 module. It also explains the command to install firefox14. Before "
@@ -40,104 +40,100 @@ msgid ""
 "code-block:: bash"
 msgstr ""
 
-#: ../../source/firefox14.rst:17
+#: ../../source/firefox14.rst:18
 msgid "cleopatra firefox14 help"
 msgstr ""
 
-#: ../../source/firefox14.rst:19
+#: ../../source/firefox14.rst:20
 msgid "The following image also helps you to understand this module clearly."
 msgstr ""
 
-#: ../../source/firefox14.rst:41
+#: ../../source/firefox14.rst:42
 msgid "Installation"
 msgstr ""
 
-#: ../../source/firefox14.rst:43
+#: ../../source/firefox14.rst:44
 msgid ""
 "It is a glaring process to install firefox14 module under Cleopatra by just "
 "using the command given below,"
 msgstr ""
 
-#: ../../source/firefox14.rst:49
+#: ../../source/firefox14.rst:50
 msgid "After key in the command, it can asks"
 msgstr ""
 
-#: ../../source/firefox14.rst:51
+#: ../../source/firefox14.rst:52
 msgid "Install firefox14?(Y/N)"
 msgstr ""
 
-#: ../../source/firefox14.rst:53
+#: ../../source/firefox14.rst:54
 msgid ""
 "In case the user input as Y, it can install firefox14 from the package. "
 "Else, it can exit the screen. The following screen shots can explain it."
 msgstr ""
 
-#: ../../source/firefox14.rst:93
+#: ../../source/firefox14.rst:94
 msgid "Options"
 msgstr ""
 
-#: ../../source/firefox14.rst:99
+#: ../../source/firefox14.rst:100
 msgid "Parameters"
 msgstr ""
 
-#: ../../source/firefox14.rst:99
+#: ../../source/firefox14.rst:100
 msgid "Alternative Parameter"
 msgstr ""
 
-#: ../../source/firefox14.rst:99
+#: ../../source/firefox14.rst:100
 msgid "Required"
 msgstr ""
 
-#: ../../source/firefox14.rst:99
+#: ../../source/firefox14.rst:100
 msgid "Comment"
 msgstr ""
 
-#: ../../source/firefox14.rst:101 ../../source/firefox14.rst:104
+#: ../../source/firefox14.rst:102 ../../source/firefox14.rst:105
 msgid "cleopatra firefox14 Install"
 msgstr ""
 
-#: ../../source/firefox14.rst:101
-msgid "Firefox,ff14,"
+#: ../../source/firefox14.rst:102 ../../source/firefox14.rst:105
+msgid "Instead of using firefox14 we can use ff14, Firefox14"
 msgstr ""
 
-#: ../../source/firefox14.rst:101
+#: ../../source/firefox14.rst:102
 msgid "Y(YES)"
 msgstr ""
 
-#: ../../source/firefox14.rst:101
+#: ../../source/firefox14.rst:102
 msgid "System starts installation process Under cleopatra"
 msgstr ""
 
-#: ../../source/firefox14.rst:104
-msgid "Firefox,ff14"
+#: ../../source/firefox14.rst:105
+msgid "N(No)"
 msgstr ""
 
-#: ../../source/firefox14.rst:104
-msgid "N(NO)"
+#: ../../source/firefox14.rst:105
+msgid "System stops installation process Under cleopatra|"
 msgstr ""
 
-#: ../../source/firefox14.rst:104
-msgid "System stops installation process|"
-msgstr ""
-
-#: ../../source/firefox14.rst:109
+#: ../../source/firefox14.rst:111
 msgid "Benefits"
 msgstr ""
 
-#: ../../source/firefox14.rst:110
+#: ../../source/firefox14.rst:113
 msgid ""
 "Firefox14 uses support for new hardware and integration of all the updates "
 "published in that series to date."
 msgstr ""
 
-#: ../../source/firefox14.rst:111
-msgid "Firefox14 is an open source Web browser for Linux."
-msgstr ""
-
-#: ../../source/firefox14.rst:112
+#: ../../source/firefox14.rst:114
 msgid "Firefox14 is non-case sensitive."
 msgstr ""
 
-#: ../../source/firefox14.rst:113
+#: ../../source/firefox14.rst:115
 msgid "Privacy and security measures, smart searching is possible."
+msgstr ""
+
+#: ../../source/firefox14.rst:116
+msgid "It is comfortable with Ubuntu and centOS."
 msgstr ""

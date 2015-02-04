@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-31 11:09+0530\n"
+"POT-Creation-Date: 2015-02-04 18:15+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -67,146 +67,146 @@ msgstr ""
 msgid "The following screen shot denotes the usage of this command."
 msgstr ""
 
-#: ../../source/sftp.rst:99 ../../source/sftp.rst:166
+#: ../../source/sftp.rst:94 ../../source/sftp.rst:161
 msgid "SFTP on server group? Y/N"
 msgstr ""
 
-#: ../../source/sftp.rst:101 ../../source/sftp.rst:168
+#: ../../source/sftp.rst:96 ../../source/sftp.rst:163
 msgid "If the user input as Y then"
 msgstr ""
 
-#: ../../source/sftp.rst:103 ../../source/sftp.rst:170
+#: ../../source/sftp.rst:98 ../../source/sftp.rst:165
 msgid "SSh timeout section?"
 msgstr ""
 
-#: ../../source/sftp.rst:105 ../../source/sftp.rst:172
+#: ../../source/sftp.rst:100 ../../source/sftp.rst:167
 msgid "The user has to enter the value"
 msgstr ""
 
-#: ../../source/sftp.rst:107 ../../source/sftp.rst:174
+#: ../../source/sftp.rst:102 ../../source/sftp.rst:169
 msgid "Please enter remote ssh port"
 msgstr ""
 
-#: ../../source/sftp.rst:109 ../../source/sftp.rst:176
+#: ../../source/sftp.rst:104 ../../source/sftp.rst:171
 msgid "Default value is 22. The user can enter any value"
 msgstr ""
 
-#: ../../source/sftp.rst:111 ../../source/sftp.rst:178
+#: ../../source/sftp.rst:106 ../../source/sftp.rst:173
 msgid "Enter environments configured in project? (Y/N)"
 msgstr ""
 
-#: ../../source/sftp.rst:113 ../../source/sftp.rst:180
+#: ../../source/sftp.rst:108 ../../source/sftp.rst:175
 msgid "The user has to enter y then it starts loading."
 msgstr ""
 
-#: ../../source/sftp.rst:115
+#: ../../source/sftp.rst:110
 msgid "Enter local source file path?"
 msgstr ""
 
-#: ../../source/sftp.rst:117
+#: ../../source/sftp.rst:112
 msgid "The user  has to enter the file path"
 msgstr ""
 
-#: ../../source/sftp.rst:119 ../../source/sftp.rst:186
+#: ../../source/sftp.rst:114 ../../source/sftp.rst:181
 msgid "Then everything will be connected."
 msgstr ""
 
-#: ../../source/sftp.rst:121
+#: ../../source/sftp.rst:116
 msgid "If the user input as N, it can be terminated."
 msgstr ""
 
-#: ../../source/sftp.rst:126
+#: ../../source/sftp.rst:121
 msgid "Get"
 msgstr ""
 
-#: ../../source/sftp.rst:128
+#: ../../source/sftp.rst:123
 msgid ""
 "File transfer can be done from remote to local server. It asks the user to "
 "enter server group. The following command used for get option."
 msgstr ""
 
-#: ../../source/sftp.rst:134
+#: ../../source/sftp.rst:129
 msgid "The following screen shot explains it."
 msgstr ""
 
-#: ../../source/sftp.rst:182
+#: ../../source/sftp.rst:177
 msgid "Enter local target file path?"
 msgstr ""
 
-#: ../../source/sftp.rst:184
+#: ../../source/sftp.rst:179
 msgid "The user has to enter the local target file path"
 msgstr ""
 
-#: ../../source/sftp.rst:188
+#: ../../source/sftp.rst:183
 msgid ""
 "If the user input as N, it can be terminated. The following screenshots "
 "shows its function."
 msgstr ""
 
-#: ../../source/sftp.rst:209
+#: ../../source/sftp.rst:204
 msgid "Options"
 msgstr ""
 
-#: ../../source/sftp.rst:214
+#: ../../source/sftp.rst:209
 msgid "Parameters"
 msgstr ""
 
-#: ../../source/sftp.rst:214
+#: ../../source/sftp.rst:209
 msgid "Syntax"
 msgstr ""
 
-#: ../../source/sftp.rst:214
+#: ../../source/sftp.rst:209
 msgid "Comments"
 msgstr ""
 
-#: ../../source/sftp.rst:216
+#: ../../source/sftp.rst:211
 msgid "put"
 msgstr ""
 
-#: ../../source/sftp.rst:216
+#: ../../source/sftp.rst:211
 msgid "Source to target"
 msgstr ""
 
-#: ../../source/sftp.rst:216
+#: ../../source/sftp.rst:211
 msgid "The file can transferred from source to target."
 msgstr ""
 
-#: ../../source/sftp.rst:218
+#: ../../source/sftp.rst:213
 msgid "get"
 msgstr ""
 
-#: ../../source/sftp.rst:218
+#: ../../source/sftp.rst:213
 msgid "Path to source"
 msgstr ""
 
-#: ../../source/sftp.rst:218
+#: ../../source/sftp.rst:213
 msgid "The file can be downloaded from remote system.|"
 msgstr ""
 
-#: ../../source/sftp.rst:225
+#: ../../source/sftp.rst:220
 msgid "Benefits"
 msgstr ""
 
-#: ../../source/sftp.rst:227
+#: ../../source/sftp.rst:222
 msgid "Multi server from remote area."
 msgstr ""
 
-#: ../../source/sftp.rst:228
+#: ../../source/sftp.rst:223
 msgid "Specified file is not available error message will come."
 msgstr ""
 
-#: ../../source/sftp.rst:229
+#: ../../source/sftp.rst:224
 msgid "Accessability is difficult without permission."
 msgstr ""
 
-#: ../../source/sftp.rst:230
+#: ../../source/sftp.rst:225
 msgid "Automatically overwrite in case of already in case of file exist."
 msgstr ""
 
-#: ../../source/sftp.rst:231
+#: ../../source/sftp.rst:226
 msgid "Non case sensitive."
 msgstr ""
 
-#: ../../source/sftp.rst:232
+#: ../../source/sftp.rst:227
 msgid "Secrecy and security is possible."
 msgstr ""

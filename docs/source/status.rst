@@ -21,6 +21,27 @@ The following screen shot shows the full effort of status.
 .. code-block:: bash
 
 
+ kevell@corp:/# phlagrant Status help
+ ******************************
+ Pharaoh Tools - Phlagrant
+ ******************************
+
+
+  This command allows you to status a phlagrant box
+
+  Status, status
+
+        - show
+        Show execution status information of your Phlagrant VM
+        example: phlagrant status show
+
+        - full
+        Show full status information of your Phlagrant VM
+        example: phlagrant status full
+
+ ------------------------------
+ End Help
+ ******************************
 
 
 
@@ -28,28 +49,42 @@ The following screen shot shows the full effort of status.
 
 Alternative parameters
 ------------------------------------
+
 There are many alternatives available in status. They are
+
 Status
+
 status
+
 Show
 ----------
+
 It shows the working status of the user phlagrant virtual machine. The command used for show is as follows
- code-block:: bash
-                                   Phlagrant  status 
+
+.. code-block:: bash
+
+                Phlagrant  status show
+
 Input as the above said command it displays the current status of phlagrant.
 
 
 Full
 ------
+
 It shows the full working status of the user phlagrant virtual machine. The command used for show is as follows
- code-block:: bash
-                                   Phlagrant  status full
+
+.. code-block:: bash
+  
+        Phlagrant  status full
+
 Input as the above said command it displays the full execution status of phlagrant.
+
 Benefits
 -------------
-Displays the execution status of the user
-Non case sensitive
-Suitable for Ubuntu and Cent OS
-Also shows the virtual status of the user
-Used for all kind of professionals
+
+* Displays the execution status of the user
+* Non case sensitive
+* Suitable for Ubuntu and Cent OS
+* Also shows the virtual status of the user
+* Used for all kind of professionals
 

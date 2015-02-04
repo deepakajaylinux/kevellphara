@@ -185,6 +185,7 @@ Playing with Phlagrant Modules
  box
  flirtify
  sftp
+ status
  systemdetection_phlagrant
 
 

@@ -610,6 +610,7 @@ Playing with Cleopatra Modules
    node
    openoffice
    oracle
+   packagemanager
    parrallax
    phake
    pharaohtools
@@ -641,6 +642,7 @@ Playing with Cleopatra Modules
    rubyrvm
    rubysystem
    runcommand   
+   seleniumserver
    service
    sftp_cleo
    skipfish
@@ -657,6 +659,8 @@ Playing with Cleopatra Modules
    ubuntucompiler   
    varnish
    virtualbox
+   vmplayer
+   vmwareworkstation
    vnc
    vncpasswd
    wireframesketcher

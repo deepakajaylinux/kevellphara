@@ -227,7 +227,9 @@ here, the screenshot denotes the display of all modules available under Cleopatr
  autopilot
  dapperfy
  dbinstall
+ drupal
  environmentconfigdapper
+ grafana
  hosteditor
  joomla
  lighttpdControl_dapper
@@ -237,5 +239,7 @@ here, the screenshot denotes the display of all modules available under Cleopatr
  project
  run_command
  sftp_dapper
+ svn_dapper
  systemdetection
  templatingdapper
+ wordpress

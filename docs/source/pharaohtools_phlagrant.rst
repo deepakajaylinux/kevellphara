@@ -51,7 +51,7 @@ After entering the command above, the installation process starts executing and 
  |				   | 			      | process, they can input as Y			   |
  +---------------------------------+--------------------------+----------------------------------------------------+
  |Install Pharaoh Tools? (Y/N)	   | N(No)		      | If the user wish to quit the installation process, |
- |				   |			      |  they can quit simply by using N|		   |
+ |				   |			      | they can quit simply by using N|		   |
  +---------------------------------+--------------------------+----------------------------------------------------+
 
 

@@ -183,9 +183,16 @@ Playing with Phlagrant Modules
 
  autossh
  box
+ destroy
  flirtify
+ halt
+ invoke
+ pharaohtools_phlagrant
+ resume
  sftp
  status
  systemdetection_phlagrant
+ up
+ virtualbox_phlagrant
 
 

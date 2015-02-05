@@ -583,7 +583,9 @@ Playing with Cleopatra Modules
    haproxy
    hhvm
    hostname   
+   installpackage
    intellij   
+   invoke_cleo
    java   
    jenkins   
    jenkinsplugins
@@ -612,6 +614,8 @@ Playing with Cleopatra Modules
    oracle
    packagemanager
    parrallax
+   pear
+   pecl
    phake
    pharaohtools
    phpapc
@@ -645,6 +649,7 @@ Playing with Cleopatra Modules
    seleniumserver
    service
    sftp_cleo
+   shell
    skipfish
    sshharden
    sshKeygen

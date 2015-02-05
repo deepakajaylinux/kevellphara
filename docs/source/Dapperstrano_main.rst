@@ -242,4 +242,5 @@ here, the screenshot denotes the display of all modules available under Cleopatr
  svn_dapper
  systemdetection
  templatingdapper
+ version_dapper
  wordpress

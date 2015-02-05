@@ -19,7 +19,8 @@ The help command for virtual box is shown below.
 		phlagrant virtualbox help
 
 After inputs the above command, it starts functioning to add a virtual host editor. It catechesis the functions in the screenshots.
- The following screen shot shows about installation of virtual box.
+
+The following screen shot shows about installation of virtual box.
 
 
 .. code-block:: bash

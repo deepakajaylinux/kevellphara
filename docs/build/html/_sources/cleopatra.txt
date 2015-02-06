@@ -651,6 +651,7 @@ Playing with Cleopatra Modules
    sftp_cleo
    shell
    skipfish
+   sshencrypt
    sshharden
    sshKeygen
    sshkeyinstall

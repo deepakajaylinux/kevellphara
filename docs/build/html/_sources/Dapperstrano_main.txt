@@ -226,9 +226,11 @@ here, the screenshot denotes the display of all modules available under Cleopatr
  apachevirtualhost
  autopilot
  dapperfy
+ dbconfigure
  dbinstall
  drupal
  environmentconfigdapper
+ gitclone
  grafana
  hosteditor
  joomla

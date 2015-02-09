@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/autossh.rst:3 ../../source/autossh.rst:111
 msgid "AutoSSH"
@@ -43,8 +44,8 @@ msgstr ""
 
 #: ../../source/autossh.rst:19
 msgid ""
-"The help command guides the users regarding the purpose and as well as about"
-" the options that are included in the Auto SSH module. It lists out the "
+"The help command guides the users regarding the purpose and as well as about "
+"the options that are included in the Auto SSH module. It lists out the "
 "alternative parameters of Auto SSH module. It also describes the syntax for "
 "using the cli, sftp_put, sftp_get commands. The help command for Auto SSH "
 "module is shown as below."
@@ -103,8 +104,8 @@ msgstr ""
 #: ../../source/autossh.rst:87
 msgid ""
 "This function is used for placing or moving the required files or data from "
-"the source to destination of an particular environment where the auto ssh is"
-" generated. This can be done by using the command given below:"
+"the source to destination of an particular environment where the auto ssh is "
+"generated. This can be done by using the command given below:"
 msgstr ""
 
 #: ../../source/autossh.rst:93
@@ -152,8 +153,8 @@ msgstr ""
 
 #: ../../source/autossh.rst:117
 msgid ""
-"In the above mentioned list any of the alternative parameters can be used in"
-" declaration."
+"In the above mentioned list any of the alternative parameters can be used in "
+"declaration."
 msgstr ""
 
 #: ../../source/autossh.rst:121
@@ -163,8 +164,7 @@ msgstr ""
 #: ../../source/autossh.rst:123
 msgid ""
 "The parameters used in help and installation and un installation operations "
-"are not case sensitive which is an added advantage while compared  to "
-"others."
+"are not case sensitive which is an added advantage while compared  to others."
 msgstr ""
 
 #: ../../source/autossh.rst:124
@@ -179,8 +179,8 @@ msgstr ""
 
 #: ../../source/autossh.rst:126
 msgid ""
-"Sftp_put, Sftp_get can place and fetch the files respectively between source"
-" and destination of a particular environment by using auto SSH."
+"Sftp_put, Sftp_get can place and fetch the files respectively between source "
+"and destination of a particular environment by using auto SSH."
 msgstr ""
 
 #: ../../source/autossh.rst:127

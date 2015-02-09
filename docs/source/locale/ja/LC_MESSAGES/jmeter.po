@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/jmeter.rst:3
 msgid "Jmeter"
@@ -24,8 +25,8 @@ msgid ""
 "This module deals with installing the jmeter with the updated version. "
 "JMeter can be used as a unit test tool for JDBC database connections, FTP, "
 "LDAP, Web services, JMS, HTTP, generic TCP connections and OS Native "
-"processes. Let us see how this module helps the user in installing and using"
-" the Jmeter."
+"processes. Let us see how this module helps the user in installing and using "
+"the Jmeter."
 msgstr ""
 
 #: ../../source/jmeter.rst:11
@@ -34,11 +35,11 @@ msgstr ""
 
 #: ../../source/jmeter.rst:13
 msgid ""
-"The help command guides the users regarding the purpose and as well as about"
-" the options that are included in the Jmeter module. It lists out the "
+"The help command guides the users regarding the purpose and as well as about "
+"the options that are included in the Jmeter module. It lists out the "
 "alternative parameters of jmeter module. It also describes the syntax for "
-"installing the jmeter module. The help command for jmeter module is shown as"
-" below."
+"installing the jmeter module. The help command for jmeter module is shown as "
+"below."
 msgstr ""
 
 #: ../../source/jmeter.rst:20
@@ -102,14 +103,13 @@ msgid "N(No)"
 msgstr ""
 
 #: ../../source/jmeter.rst:65
-msgid ""
-"If the user wish to quit the installation process they can input as N.|"
+msgid "If the user wish to quit the installation process they can input as N.|"
 msgstr ""
 
 #: ../../source/jmeter.rst:71
 msgid ""
-"If the user proceeds the installation, during the process of installation is"
-" described in the below lists:"
+"If the user proceeds the installation, during the process of installation is "
+"described in the below lists:"
 msgstr ""
 
 #: ../../source/jmeter.rst:74
@@ -130,8 +130,8 @@ msgstr ""
 
 #: ../../source/jmeter.rst:78
 msgid ""
-"details regarding the number of files upgraded, newly installed, removed and"
-" not upgraded."
+"details regarding the number of files upgraded, newly installed, removed and "
+"not upgraded."
 msgstr ""
 
 #: ../../source/jmeter.rst:79
@@ -152,8 +152,8 @@ msgstr ""
 
 #: ../../source/jmeter.rst:92
 msgid ""
-"The parameters used in help and installation are not case sensitive which is"
-" an added advantage while compared to others."
+"The parameters used in help and installation are not case sensitive which is "
+"an added advantage while compared to others."
 msgstr ""
 
 #: ../../source/jmeter.rst:93
@@ -172,8 +172,8 @@ msgstr ""
 
 #: ../../source/jmeter.rst:96
 msgid ""
-"JMeter supports variable parameterization, assertions (response validation),"
-" per thread cookies, configuration variables and a variety of reports."
+"JMeter supports variable parameterization, assertions (response validation), "
+"per thread cookies, configuration variables and a variety of reports."
 msgstr ""
 
 #: ../../source/jmeter.rst:98

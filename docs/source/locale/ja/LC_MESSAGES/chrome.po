@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/chrome.rst:3
 msgid "Chrome"
@@ -29,8 +30,8 @@ msgstr ""
 msgid ""
 "Chrome is a free web browser created by Google that uses the WebKit layout "
 "engine. Chrome is known for its very simplistic and minimalistic design and "
-"touted as the fastest browser out there. Chrome is currently the most widely"
-" used web browser with a worldwide"
+"touted as the fastest browser out there. Chrome is currently the most widely "
+"used web browser with a worldwide"
 msgstr ""
 
 #: ../../source/chrome.rst:14
@@ -39,8 +40,8 @@ msgstr ""
 
 #: ../../source/chrome.rst:16
 msgid ""
-"This command helps to determine the usage of Chrome. This command guides the"
-" end user to know the purpose of this command. Below given are the command "
+"This command helps to determine the usage of Chrome. This command guides the "
+"end user to know the purpose of this command. Below given are the command "
 "and the screenshot of the same."
 msgstr ""
 
@@ -118,8 +119,8 @@ msgstr ""
 
 #: ../../source/chrome.rst:219
 msgid ""
-"You can drag tabs out into separate windows, without difficulty, and back in"
-" again with your mouse."
+"You can drag tabs out into separate windows, without difficulty, and back in "
+"again with your mouse."
 msgstr ""
 
 #: ../../source/chrome.rst:220
@@ -155,8 +156,7 @@ msgstr ""
 
 #: ../../source/chrome.rst:226
 msgid ""
-"Unlike Firefox and Safari, you can alter the colour and theme of the "
-"browser."
+"Unlike Firefox and Safari, you can alter the colour and theme of the browser."
 msgstr ""
 
 #: ../../source/chrome.rst:227

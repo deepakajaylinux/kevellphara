@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/mysqlserver.rst:3
 msgid "Mysqlserver"
@@ -34,8 +35,8 @@ msgstr ""
 msgid ""
 "The help command guides the users regarding the methodology in usage and "
 "also about the actions that can be performed under this modules. It also "
-"describes the alternative names for mysql-server. The command for using help"
-" option is given below"
+"describes the alternative names for mysql-server. The command for using help "
+"option is given below"
 msgstr ""
 
 #: ../../source/mysqlserver.rst:20
@@ -58,8 +59,7 @@ msgid "During the installation, the following process occurs"
 msgstr ""
 
 #: ../../source/mysqlserver.rst:62
-msgid ""
-"This module assists to install some tools for mysql server via apt-get."
+msgid "This module assists to install some tools for mysql server via apt-get."
 msgstr ""
 
 #: ../../source/mysqlserver.rst:63
@@ -114,8 +114,8 @@ msgstr ""
 
 #: ../../source/mysqlserver.rst:78 ../../source/mysqlserver.rst:83
 msgid ""
-"In the place of MySQL Server these alternative names can be used:MysqlServer"
-",mysql-server, mysqlserver."
+"In the place of MySQL Server these alternative names can be used:MysqlServer,"
+"mysql-server, mysqlserver."
 msgstr ""
 
 #: ../../source/mysqlserver.rst:78
@@ -144,8 +144,8 @@ msgstr ""
 
 #: ../../source/mysqlserver.rst:93
 msgid ""
-"If the mysql server is already exists in your machine, then it will throw an"
-" message to the user as it is already installed. The following screen shot "
+"If the mysql server is already exists in your machine, then it will throw an "
+"message to the user as it is already installed. The following screen shot "
 "represents the process of ensuring:"
 msgstr ""
 

@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/lighthttpd.rst:3
 msgid "LigHTTPDServer  module"
@@ -22,8 +23,8 @@ msgstr ""
 #: ../../source/lighthttpd.rst:9
 msgid ""
 "xLighttpd  is an open-source web server optimized for speed-critical "
-"environments while remaining standards-compliant, secure and flexible. It is"
-" an alternative web server for apache. Lighttpd  supports the FastCGI, SCGI "
+"environments while remaining standards-compliant, secure and flexible. It is "
+"an alternative web server for apache. Lighttpd  supports the FastCGI, SCGI "
 "and CGI interfaces to external programs, Auth, Output-Compression, URL-"
 "Rewriting, permitting web applications written in any programming language "
 "to be used with the server. Lighttpd are the best known asynchronous "

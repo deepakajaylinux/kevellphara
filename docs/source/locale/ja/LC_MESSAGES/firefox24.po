@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/firefox24.rst:3
 msgid "FireFox24"
@@ -22,8 +23,8 @@ msgstr ""
 #: ../../source/firefox24.rst:8
 msgid ""
 "This module used to install firefox24. Ubuntu releases updated versions "
-"periodically. It implements current and anticipated web standards. Long-term"
-" support includes updates for new hardware, security patches and updates to "
+"periodically. It implements current and anticipated web standards. Long-term "
+"support includes updates for new hardware, security patches and updates to "
 "the cloud computing infrastructure. It is comfortable with Ubuntu and Cent "
 "OS."
 msgstr ""

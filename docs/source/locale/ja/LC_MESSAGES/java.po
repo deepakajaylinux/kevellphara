@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/java.rst:3
 msgid "JAVA"
@@ -32,9 +33,9 @@ msgstr ""
 
 #: ../../source/java.rst:13
 msgid ""
-"The help command guides the users regarding the purpose and as well as about"
-" the options that are included in java module. The help command lists out "
-"the alternative parameters of java module. It also describes the syntax for "
+"The help command guides the users regarding the purpose and as well as about "
+"the options that are included in java module. The help command lists out the "
+"alternative parameters of java module. It also describes the syntax for "
 "installing Java JDK 1.7. The help command for Java module is shown as below."
 msgstr ""
 
@@ -83,8 +84,8 @@ msgstr ""
 
 #: ../../source/java.rst:58 ../../source/java.rst:62
 msgid ""
-"Inspite of Oracle Java JDK 1.7, the following alternatives can also be used:"
-" Java, java, java17"
+"Inspite of Oracle Java JDK 1.7, the following alternatives can also be used: "
+"Java, java, java17"
 msgstr ""
 
 #: ../../source/java.rst:58
@@ -101,8 +102,7 @@ msgid "N(No)"
 msgstr ""
 
 #: ../../source/java.rst:62
-msgid ""
-"If the user wish to quit the installation process they can input as N.|"
+msgid "If the user wish to quit the installation process they can input as N.|"
 msgstr ""
 
 #: ../../source/java.rst:70

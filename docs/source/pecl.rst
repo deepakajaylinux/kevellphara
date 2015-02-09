@@ -203,12 +203,12 @@ After input as the above command, it starts removing pecl from group. In case of
 
 Benefits
 ----------------
-Non case sensitivity.
-Well-to-do in Ubuntu and CentOS.
-Lower power consumption.
-Create a new system pecl
-Remove a pecl
-Add to  group  is possible
-Remove group is possible
-Show group is possible
+* Non case sensitivity.
+* Well-to-do in Ubuntu and CentOS.
+* Lower power consumption.
+* Create a new system pecl
+* Remove a pecl
+* Add to  group  is possible
+* Remove group is possible
+* Show group is possible
 

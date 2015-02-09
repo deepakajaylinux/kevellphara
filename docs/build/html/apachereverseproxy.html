@@ -90,6 +90,7 @@
 <li><a class="reference internal" href="#synopsis">Synopsis</a></li>
 <li><a class="reference internal" href="#help-command">Help command</a></li>
 <li><a class="reference internal" href="#installation">Installation</a></li>
+<li><a class="reference internal" href="#option">Option</a></li>
 <li><a class="reference internal" href="#benefits-to-the-users">Benefits to the users</a></li>
 </ul>
 </li>
@@ -133,7 +134,7 @@
 </div>
 <div class="section" id="help-command">
 <h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
-<p>The help command guides the user get aware of the uses, and also the options and actions that can be performed.
+<p>The help command guides the user get aware of the uses, and also the options and actions that can be performed. It lists outs the alternative
 The coding to make use of help command under Apache Reverse proxy module, is given as follows</p>
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra ApacheReverseProxyModules <span class="nb">help</span>
 </pre></div>
@@ -161,43 +162,57 @@ End Help
 </div>
 <div class="section" id="installation">
 <h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
+<p>If the user wish to install the apache reverse proxy module to their system they can input the command given below,</p>
+<div class="highlight-bash"><div class="highlight"><pre>cleopatra ApacheReverseProxyModules install
+</pre></div>
+</div>
+</div>
+<div class="section" id="option">
+<h2>Option<a class="headerlink" href="#option" title="Permalink to this headline">¶</a></h2>
 <table border="1" class="table-bordered docutils">
 <colgroup>
-<col width="55%" />
-<col width="14%" />
-<col width="31%" />
+<col width="22%" />
+<col width="39%" />
+<col width="10%" />
+<col width="29%" />
 </colgroup>
 <thead valign="bottom">
 <tr class="row-odd"><th class="head">Parameters</th>
+<th class="head">Alternative Parameters</th>
 <th class="head">Required</th>
 <th class="head">Comment</th>
 </tr>
 </thead>
 <tbody valign="top">
-<tr class="row-even"><td>Install Reverse Proxy
-Apache Modules (In the place of Reverse
-Proxy Apache Modules the user can also
-specify the following parameters:
-ApacheReverseProxyModules,apache-lb-mods
-a pacheproxymodules ,apache-proxy-mods
-apache-lb-mods,apache-load-balancer-modules
-apache-reverse-proxy-modules,apache-proxy-mods</td>
-<td>Yes</td>
-<td>This command will install
-the apache rev proxy
-module</td>
-</tr>
-<tr class="row-odd"><td>Install ApacheReverseProxyModules (Y/N)</td>
+<tr class="row-even"><td>Install ReverseProxy
+ApacheModules (Y/N)</td>
+<td>Instead of ReverseProxy Apache Modules
+the user can also specify the
+following parameters:
+ApacheReverseProxyModules,
+apache-reverse-proxy-modules, apache-
+proxy-mods, apacheproxymodules,
+apache-lb-mods, apache-load-balancer,
+modules</td>
 <td>Y(Yes)</td>
-<td>If the user input as Y,the
-apache reverse proxy
-module will be installed.</td>
+<td>If the user inputs as Y, the
+apache reverse proxy module
+will be installed</td>
 </tr>
-<tr class="row-even"><td>Install ApacheReverseProxyModules (Y/N)</td>
-<td>N(NO)</td>
-<td>If the user inputs as N,the
-process will gets quit from
-installation.|</td>
+<tr class="row-odd"><td>Install ReverseProxy
+ApacheModules (Y/N)</td>
+<td>Instead of ReverseProxy Apache Modules
+the user can also specify the
+following parameters:
+ApacheReverseProxyModules,
+apache-reverse-proxy-modules, apache-
+proxy-mods, apacheproxymodules,
+apache-lb-mods, apache-load-balancer,
+modules|</td>
+<td>N(No)</td>
+<td>If the user inputs as N, the
+process will gets quits
+from installation.</td>
 </tr>
 </tbody>
 </table>
@@ -362,6 +377,8 @@ Installer Finished
 <li>The reverse proxy forwards to a fixed destination on behalf of arbitrary clients.</li>
 <li>It will incorporates the content that is hosted from one server into a larger website.</li>
 <li>It helps in configuring the applications settings.</li>
+<li>It is well-to-do in Cent OS and as well as in ubuntu.</li>
+<li>The parameters used in declaration is not case sensitive, which is an added advantage.</li>
 </ul>
 </div>
 </div>

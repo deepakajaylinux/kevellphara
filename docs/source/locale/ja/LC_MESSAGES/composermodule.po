@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/composermodule.rst:3
 msgid "Composer"
@@ -29,8 +30,8 @@ msgstr ""
 #: ../../source/composermodule.rst:10
 msgid ""
 "It allows you to declare the dependent libraries your project needs and it "
-"will install them in your project for you. Composer is multi-platform and we"
-" strive to make it run equally well on Windows, Linux and OSX."
+"will install them in your project for you. Composer is multi-platform and we "
+"strive to make it run equally well on Windows, Linux and OSX."
 msgstr ""
 
 #: ../../source/composermodule.rst:13
@@ -41,9 +42,8 @@ msgstr ""
 msgid ""
 "This command helps to determine the usage of composer module. The user will "
 "come to know about the different ways/format to execute this module. This "
-"command guides the end user regarding the alternative parameters and command"
-" for installation. Below given are the command and the screenshot of the "
-"same."
+"command guides the end user regarding the alternative parameters and command "
+"for installation. Below given are the command and the screenshot of the same."
 msgstr ""
 
 #: ../../source/composermodule.rst:41
@@ -58,9 +58,9 @@ msgstr ""
 
 #: ../../source/composermodule.rst:49
 msgid ""
-"While installing, the system ask for the directory name, if you wants to set"
-" up your PATH, you can define your path. Define your path has to be followed"
-" by '/' symbol. Press Enter to use default path."
+"While installing, the system ask for the directory name, if you wants to set "
+"up your PATH, you can define your path. Define your path has to be followed "
+"by '/' symbol. Press Enter to use default path."
 msgstr ""
 
 #: ../../source/composermodule.rst:51
@@ -75,7 +75,8 @@ msgid ""
 msgstr ""
 
 #: ../../source/composermodule.rst:55
-msgid "\"What is the program executer directory? Found \"/usr/bin\" - Use this? \""
+msgid ""
+"\"What is the program executer directory? Found \"/usr/bin\" - Use this? \""
 msgstr ""
 
 #: ../../source/composermodule.rst:63
@@ -134,6 +135,6 @@ msgstr ""
 
 #: ../../source/composermodule.rst:76
 msgid ""
-"It also provides auto load capabilities for libraries that specify auto load"
-" information to ease usage of third-party code."
+"It also provides auto load capabilities for libraries that specify auto load "
+"information to ease usage of third-party code."
 msgstr ""

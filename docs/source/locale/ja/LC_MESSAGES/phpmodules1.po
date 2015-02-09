@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/phpmodules1.rst:3
 msgid "PHPModules"
@@ -23,9 +24,9 @@ msgstr ""
 msgid ""
 "This Modules aims at installing and enveloping some of the common and "
 "helpful, supporting Php modules. Few examples are: php5-gd the image libs, "
-"php5-imagick the image libs, php5-curl the remote file handling libs, "
-"php5-mysql the libs for handling mysql connections. Let us see how to use "
-"this module, the process of installation in upcoming topics."
+"php5-imagick the image libs, php5-curl the remote file handling libs, php5-"
+"mysql the libs for handling mysql connections. Let us see how to use this "
+"module, the process of installation in upcoming topics."
 msgstr ""
 
 #: ../../source/phpmodules1.rst:11
@@ -34,11 +35,10 @@ msgstr ""
 
 #: ../../source/phpmodules1.rst:13
 msgid ""
-"The help command guides the users regarding the purpose and as well as about"
-" the options that are included in the Php module. It lists out the "
+"The help command guides the users regarding the purpose and as well as about "
+"the options that are included in the Php module. It lists out the "
 "alternative parameters of Php module. It also describes the syntax for "
-"installing the Php module. The help command for Php module is shown as "
-"below."
+"installing the Php module. The help command for Php module is shown as below."
 msgstr ""
 
 #: ../../source/phpmodules1.rst:19
@@ -86,8 +86,8 @@ msgstr ""
 
 #: ../../source/phpmodules1.rst:61
 msgid ""
-"Instead of phpmods, we can use PHPModules, php-mods, php-modules, phpmodules"
-" also."
+"Instead of phpmods, we can use PHPModules, php-mods, php-modules, phpmodules "
+"also."
 msgstr ""
 
 #: ../../source/phpmodules1.rst:61
@@ -101,8 +101,8 @@ msgstr ""
 
 #: ../../source/phpmodules1.rst:65
 msgid ""
-"Instead of phpmods, we can use PHPModules, php-mods, php-modules, phpmodules"
-" also.|"
+"Instead of phpmods, we can use PHPModules, php-mods, php-modules, phpmodules "
+"also.|"
 msgstr ""
 
 #: ../../source/phpmodules1.rst:65
@@ -115,8 +115,8 @@ msgstr ""
 
 #: ../../source/phpmodules1.rst:70
 msgid ""
-"If the user proceeds the installation, during the process of installation is"
-" described in the below lists:"
+"If the user proceeds the installation, during the process of installation is "
+"described in the below lists:"
 msgstr ""
 
 #: ../../source/phpmodules1.rst:73
@@ -137,8 +137,8 @@ msgstr ""
 
 #: ../../source/phpmodules1.rst:77
 msgid ""
-"details regarding the number of files upgraded, newly installed, removed and"
-" not upgraded."
+"details regarding the number of files upgraded, newly installed, removed and "
+"not upgraded."
 msgstr ""
 
 #: ../../source/phpmodules1.rst:81
@@ -153,8 +153,8 @@ msgstr ""
 
 #: ../../source/phpmodules1.rst:127
 msgid ""
-"The parameters used in help and installation are not case sensitive which is"
-" an added advantage while compared to others."
+"The parameters used in help and installation are not case sensitive which is "
+"an added advantage while compared to others."
 msgstr ""
 
 #: ../../source/phpmodules1.rst:128

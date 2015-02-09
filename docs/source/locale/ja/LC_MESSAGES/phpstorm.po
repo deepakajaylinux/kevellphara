@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/phpstorm.rst:3
 msgid "PHPStorm"
@@ -23,9 +24,9 @@ msgstr ""
 msgid ""
 "PhpStorm keeps up with latest PHP & Cleopatra trends, integrates a variety "
 "of modern tools, and brings even more extensibility with support for major "
-"PHP frameworks. Development environment auto-configuration (coding standard,"
-" file associations, etc.)Is possible. It is comfortable with Ubuntu and cent"
-" OS."
+"PHP frameworks. Development environment auto-configuration (coding standard, "
+"file associations, etc.)Is possible. It is comfortable with Ubuntu and cent "
+"OS."
 msgstr ""
 
 #: ../../source/phpstorm.rst:11
@@ -50,8 +51,8 @@ msgstr ""
 
 #: ../../source/phpstorm.rst:24
 msgid ""
-"It is a noticable process to install Phpstorm module under Cleopatra by just"
-" using the command given below,"
+"It is a noticable process to install Phpstorm module under Cleopatra by just "
+"using the command given below,"
 msgstr ""
 
 #: ../../source/phpstorm.rst:30
@@ -64,8 +65,8 @@ msgstr ""
 
 #: ../../source/phpstorm.rst:34
 msgid ""
-"In case the user input as Y, it can install phpstorm from the package. Else,"
-" it can exit the screen. The following screen shots can explain it."
+"In case the user input as Y, it can install phpstorm from the package. Else, "
+"it can exit the screen. The following screen shots can explain it."
 msgstr ""
 
 #: ../../source/phpstorm.rst:38 ../../source/phpstorm.rst:43

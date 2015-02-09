@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/phlagrant.rst:2
 msgid "Phlagrant"
@@ -47,26 +48,25 @@ msgstr ""
 
 #: ../../source/phlagrant.rst:14
 msgid ""
-"The Phlagrant is object-oriented that enrich not only the data type but also"
-" the types of operations that can be applied to the data. Hence, while "
-"comparing object-oriented programming techniques over procedural programming"
-" techniques , the object-oriented programming enables the end users to "
-"create modules that do not need to be changed when a new type of object is "
-"added."
+"The Phlagrant is object-oriented that enrich not only the data type but also "
+"the types of operations that can be applied to the data. Hence, while "
+"comparing object-oriented programming techniques over procedural programming "
+"techniques , the object-oriented programming enables the end users to create "
+"modules that do not need to be changed when a new type of object is added."
 msgstr ""
 
 #: ../../source/phlagrant.rst:16
 msgid ""
-"The Phlagrant is extensible, as if any extra module is required the user can"
-" frame and design the module as per their requirements and they can include."
+"The Phlagrant is extensible, as if any extra module is required the user can "
+"frame and design the module as per their requirements and they can include."
 msgstr ""
 
 #: ../../source/phlagrant.rst:18
 msgid ""
 "By using the functionality of templating option extra-templates can be "
 "added, if required. The SSH option enables to set a SSH key value. The SFTP "
-"facilitates readability and write ability between the two different OS using"
-" virtual box."
+"facilitates readability and write ability between the two different OS using "
+"virtual box."
 msgstr ""
 
 #: ../../source/phlagrant.rst:22
@@ -75,8 +75,8 @@ msgstr ""
 
 #: ../../source/phlagrant.rst:24
 msgid ""
-"If you wish to use the Phlagrant, ensure whether the Virual box is installed"
-" in your machine, along with the Virtual box guest additions functionality"
+"If you wish to use the Phlagrant, ensure whether the Virual box is installed "
+"in your machine, along with the Virtual box guest additions functionality"
 msgstr ""
 
 #: ../../source/phlagrant.rst:27
@@ -108,8 +108,8 @@ msgstr ""
 
 #: ../../source/phlagrant.rst:52
 msgid ""
-"here the word guess can be ignored while selecting your own directory during"
-" installation."
+"here the word guess can be ignored while selecting your own directory during "
+"installation."
 msgstr ""
 
 #: ../../source/phlagrant.rst:55
@@ -167,8 +167,8 @@ msgstr ""
 
 #: ../../source/phlagrant.rst:126
 msgid ""
-"This command helps you how the particular modules works, and also about what"
-" are the actions it can perform. The below screenshot explains you how the "
+"This command helps you how the particular modules works, and also about what "
+"are the actions it can perform. The below screenshot explains you how the "
 "help command is used to explain the module AutoSSH.::"
 msgstr ""
 
@@ -188,8 +188,8 @@ msgstr ""
 
 #: ../../source/phlagrant.rst:163
 msgid ""
-"install virtualbox to your machine if you don't have it already, it's simple"
-" by using the command as follows,::"
+"install virtualbox to your machine if you don't have it already, it's simple "
+"by using the command as follows,::"
 msgstr ""
 
 #: ../../source/phlagrant.rst:167

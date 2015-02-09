@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/phpunit.rst:3
 msgid "PHP Unit"
@@ -23,10 +24,10 @@ msgstr ""
 msgid ""
 "This module facilitates the users to install PHPUnit from a GC Repo. PHP "
 "Unit Testing Framework is a unit testing framework that enables developers "
-"to discover bugs and in turn drive down the costs associated with developing"
-" PHP software. The PHP Unit Testing Framework generates reports in either "
-"XML, XHTML or ASCII. Let us see, how does this module helps in installing an"
-" PHP unit."
+"to discover bugs and in turn drive down the costs associated with "
+"developing PHP software. The PHP Unit Testing Framework generates reports in "
+"either XML, XHTML or ASCII. Let us see, how does this module helps in "
+"installing an PHP unit."
 msgstr ""
 
 #: ../../source/phpunit.rst:11
@@ -94,8 +95,7 @@ msgid "N(No)"
 msgstr ""
 
 #: ../../source/phpunit.rst:40
-msgid ""
-"If the user wish to quit the installation process they can input as N.|"
+msgid "If the user wish to quit the installation process they can input as N.|"
 msgstr ""
 
 #: ../../source/phpunit.rst:47
@@ -170,8 +170,8 @@ msgstr ""
 
 #: ../../source/phpunit.rst:70
 msgid ""
-"Finally, the installation of PHP unit is completed. The following screenshot"
-" depicts visually about the process of installation."
+"Finally, the installation of PHP unit is completed. The following screenshot "
+"depicts visually about the process of installation."
 msgstr ""
 
 #: ../../source/phpunit.rst:73

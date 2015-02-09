@@ -44,22 +44,25 @@ Installation
 ---------------
 
 
-.. cssclass:: table-bordered
+The following command used to install media tools.
+
+.. code-block:: bash
+
+	cleopatra mediatools install
 
 
-	+---------------------------+---------------------------------------+-----------+---------------------------------------------+
-        |    Parameters             |    Alternative Parameter              |  Options  |     Comment                                 |
-        +===========================+=======================================+===========+=============================================+
-	|Install Media Tools? (Y/N) |In Spite of Media Tools,the following  | Y(Yes)	|If the user wish to proceed the installation |
-    	|			    |alternatives can also be used          |           |process they can input as Y                  |
-        |    			    |MediaTools, media-tools,	            |	        |					      |
-        |			    |mediatools.		            |		|					      |
-	+---------------------------+---------------------------------------+-----------+---------------------------------------------+
-	|Install Media Tools? (Y/N) |In Spite of Media Tools,the following  | N(No)	|If the user wish to Quit the installation    |
-    	|			    |alternatives can also be used          |           |process they can input as N                  |
-        |    			    |MediaTools, media-tools,	            |	        |					      |
-        |			    |mediatools.|		            |		|					      |
-	+---------------------------+---------------------------------------+-----------+---------------------------------------------+
+The screenshot visualize its function.
+
+
+.. code-block:: bash
+
+
+        - install
+        Installs some media tools
+        example: cleopatra mediatools install
+
+        ------------------------------
+        End Help
 
 If the user proceeds the installation process, the following process occurs during installation.
 
@@ -73,7 +76,6 @@ If the user proceeds the installation process, the following process occurs duri
 * lists out the new packages that are installed.
 * Finally, reports are clearly displayed with the status and results.
 * The following screen shot explains the above mentioned process pictorially.
-
 
 
 .. code-block:: bash
@@ -342,9 +344,30 @@ If the user proceeds the installation process, the following process occurs duri
 	******************************
 
 
+Options
+----------
+
+
+.. cssclass:: table-bordered
+
+ +---------------------------+---------------------------------------------------+-------------+---------------------------------------+
+ | Parameters		     | Alternative Parameter				 | Options     | Comment			       |
+ +===========================+===================================================+=============+=======================================+
+ |Install Media Tools? (Y/N) | Insteadof Media Tools,the following alternatives  | Y(Yes)      | If the user wish to proceed the       |
+ |			     | can also be used MediaTools, media-tools,         |	       | installation process they can input   |
+ |			     | mediatools.					 | 	       | as Y				       |
+ +---------------------------+---------------------------------------------------+-------------+---------------------------------------+
+ |Install Media Tools? (Y/N) | Insteadof Media Tools,the following alternatives  | N(No)       | If the user wish to quit the          |
+ |                           | can also be used MediaTools, media-tools,         |             | installation process they can input   |
+ |                           | mediatools.                                       |             | as N.|                                |
+ +---------------------------+---------------------------------------------------+-------------+---------------------------------------+
+
+
    
 Benefits
 ------------
+
+
 * The parameters used in help and installation operations are not case sensitive which is an added advantage while compared to others.
 * Using this module the productivity of the system can be enhanced.
 * It is well-to-do in both Ubuntu and as well as Cent OS.

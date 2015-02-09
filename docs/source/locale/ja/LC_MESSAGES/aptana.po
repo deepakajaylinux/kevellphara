@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/aptana.rst:3
 msgid "Aptana"
@@ -27,8 +28,8 @@ msgid ""
 "JavaScript, HTML, DOM and CSS with code-completion, outlining, JavaScript "
 "debugging, error and warning notifications and integrated documentation. "
 "Additional plugins allow Aptana  to support PHP, Python, Perl. Aptana is "
-"available as a standalone on Windows, Mac OS X and Linux, or as a plugin for"
-" Eclipse."
+"available as a standalone on Windows, Mac OS X and Linux, or as a plugin for "
+"Eclipse."
 msgstr ""
 
 #: ../../source/aptana.rst:11
@@ -39,8 +40,8 @@ msgstr ""
 msgid ""
 "The help command leads the users regarding the purpose and as well as about "
 "the options that are included in the Aptana module. It also describes the "
-"syntax for installing Aptana. The help command for Aptana module is shown as"
-" below."
+"syntax for installing Aptana. The help command for Aptana module is shown as "
+"below."
 msgstr ""
 
 #: ../../source/aptana.rst:19

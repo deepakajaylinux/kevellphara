@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/jfeatures.rst:3
 msgid "JFeature"
@@ -35,10 +36,10 @@ msgstr ""
 
 #: ../../source/jfeatures.rst:13
 msgid ""
-"The help command guides the users regarding the purpose and as well as about"
-" the options that are included in the JFeatures module. It lists out the "
-"alternative parameters of JFeatures module. It also describes the syntax for"
-" installing the JFeatures module. The help command for JFeatures module is "
+"The help command guides the users regarding the purpose and as well as about "
+"the options that are included in the JFeatures module. It lists out the "
+"alternative parameters of JFeatures module. It also describes the syntax for "
+"installing the JFeatures module. The help command for JFeatures module is "
 "shown as below."
 msgstr ""
 
@@ -126,8 +127,8 @@ msgstr ""
 
 #: ../../source/jfeatures.rst:153
 msgid ""
-"After input the above said command, it asks profile unique and configuration"
-" file and push type. The user has to input one by one or everything in same "
+"After input the above said command, it asks profile unique and configuration "
+"file and push type. The user has to input one by one or everything in same "
 "line. This can be explained as follows through snapshots,"
 msgstr ""
 
@@ -138,9 +139,9 @@ msgstr ""
 #: ../../source/jfeatures.rst:165
 msgid ""
 "This process used to install the metadata for a database migration. Here it "
-"asks feature group file name and configured file name. The user has to enter"
-" all the above details one by one. Otherwise the user can input as "
-"everything in a same line."
+"asks feature group file name and configured file name. The user has to enter "
+"all the above details one by one. Otherwise the user can input as everything "
+"in a same line."
 msgstr ""
 
 #: ../../source/jfeatures.rst:182
@@ -149,8 +150,8 @@ msgstr ""
 
 #: ../../source/jfeatures.rst:184
 msgid ""
-"This process used to install metadata for database migration file set. Group"
-" configuration features component. Install and updation is possible. The "
+"This process used to install metadata for database migration file set. Group "
+"configuration features component. Install and updation is possible. The "
 "following command used to install group all."
 msgstr ""
 

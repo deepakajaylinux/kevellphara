@@ -6,8 +6,10 @@ LigHTTPDServer  module
 Synopsis
 ----------
 
-xLighttpd  is an open-source web server optimized for speed-critical environments while remaining standards-compliant, secure and flexible. It is an alternative web server for apache. 
+ Lighttpd  is a  web server optimized for speed-critical environments while remaining standards-compliant, secure and flexible. It is an alternative web server for apache. 
+
 Lighttpd  supports the FastCGI, SCGI and CGI interfaces to external programs, Auth, Output-Compression, URL-Rewriting, permitting web applications written in any programming language to be used with the server. Lighttpd are the best known asynchronous servers. The main advantage of the asynchronous approach is scalability. 
+
 This module aims to install the latest version of Lighttpd server and its dependencies. 
 
 
@@ -162,4 +164,5 @@ Benefits to the users
 * Install LigHTTPDServer in a single environment without any browser.
 * Ease use of access and installation
 * Coding is case insensitive. 
-
+* Non case sensitivity
+* Well-to-do in Ubuntu and CentOS.

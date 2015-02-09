@@ -9,12 +9,21 @@ Mongo DB is a document oriented database. Mongo DB eschews the traditional table
 
 Help command
 -------------
-             This command can function about the objectives and commands available under Mongo DB module. It also explains the command to install server. Before installation you read this help command explains its function
+             This command can function about the objectives and commands available under Mongo DB module. It also explains the command to install server. 
+
+
+.. code-block:: bash
+
+ 		cleopatra MongoDB help
+
+
+
+Before installation you read this help command explains its function
 
 .. code-block:: bash
 
 
-   kevells@corp:/# cleopatra MongoDB help
+   kevell@corp:/# cleopatra MongoDB help
    ******************************
 
 
@@ -46,15 +55,17 @@ Use this module to install Mongo DB on Ubuntu Linux systems from .deb packages. 
 
 .. code-block:: bash
 
-	cleopatra mongoDB  server install
+	cleopatra mongodb-server install
 
 Install mongo DB server?(Y/N)
+
+If the user gives No it will exit.
 
 When the user gives input as Yes automatically it will install all depencies in root pass ass default and also install updated version. The following screen shot will explain it.
 
 .. code-block:: bash
 
-	kevells@corp:/# cleopatra mongodb-server install
+	kevell@corp:/# cleopatra mongodb-server install
 
 	Install MongoDB Server? (Y/N) 
 	y
@@ -163,16 +174,13 @@ When the user gives input as Yes automatically it will install all depencies in 
 	******************************
 
 
-
-If the user gives No it will exit.
-
 Options
 ----------
 
 .. cssclass:: table-bordred
 
 	+-----------------------+-----------------------+----------------------------+------------------------------------------+
-        |Parameters             |Directory              |Option                      |Comment                                   |
+        | Parameters            | Directory             | Options                    | Comment                                  |
         +=======================+=======================+============================+==========================================+
 	|Install mongoDB server |YES                    |In Spite of mongoDB, the    |It will install mongoDB under Cleopatra   |
         |		       	|    	                |following alternatives can  |               				|

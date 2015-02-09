@@ -10,7 +10,7 @@ This module aims at installing the library functions. While installing the libra
 Help command
 ----------------
 
-The help command guides the user get aware of the uses, and also the options and actions that can be performed.
+The help command guides the user get aware of the uses, and also the options and actions that can be performed. It lists outs the alternative 
 The coding to make use of help command under Apache Reverse proxy module, is given as follows
 
 .. code-block:: bash
@@ -44,28 +44,39 @@ The screen shot shown below gives you an pictorial representation of help comman
 Installation
 ---------------
 
+If the user wish to install the apache reverse proxy module to their system they can input the command given below,
+
+.. code-block:: bash
+
+		cleopatra ApacheReverseProxyModules install
+
+Option
+---------
+
 .. cssclass:: table-bordered
 
-	+------------------------------------------------+------------+---------------------------+
-	|    Parameters	              			 | Required   | Comment  		  |
-	+================================================+============+===========================+
-	|Install Reverse Proxy	 	         	 |            |          		  |
-	|Apache Modules (In the place of Reverse         | Yes	      | This command will install |
-	|Proxy Apache Modules the user can also 	 |	      |	the apache rev proxy  	  |
-	|specify the following parameters:		 |	      |	module	 		  |
-	|ApacheReverseProxyModules,apache-lb-mods        |            |	         		  |
-	|a pacheproxymodules ,apache-proxy-mods		 |            |		 		  |
-	|apache-lb-mods,apache-load-balancer-modules     |	      |          		  |
-	|apache-reverse-proxy-modules,apache-proxy-mods  | 	      |          		  | 
-	+------------------------------------------------+------------+---------------------------+ 
-	|Install ApacheReverseProxyModules (Y/N)	 | Y(Yes)     |If the user input as Y,the |
-	|						 |            |apache reverse proxy	  | 
-	|  			       			 |	      |module will be installed.  |
-	+------------------------------------------------+------------+---------------------------+
-	| Install ApacheReverseProxyModules (Y/N)	 | N(NO)      |If the user inputs as N,the|
-	|						 |            |process will gets quit from|
-	|						 |            |installation.|		  |
-        +------------------------------------------------+------------+---------------------------+
+	+-----------------------+----------------------------------------+----------+------------------------------+
+	|    Parameters	        | Alternative Parameters  	         | Required | Comment  		           |
+	+=======================+========================================+==========+==============================+
+	|Install ReverseProxy	| Instead of ReverseProxy Apache Modules | Y(Yes)   | If the user inputs as Y, the |
+    	|ApacheModules (Y/N)    | the user can also specify the    	 |	    | apache reverse proxy module  |  
+	|			| following parameters:                  |	    | will be installed		   |
+	|                       | ApacheReverseProxyModules,             |	    |				   |
+   	|			| apache-reverse-proxy-modules, apache-  |	    |				   |
+	|			| proxy-mods, apacheproxymodules, 	 |	    |				   |
+	|			| apache-lb-mods, apache-load-balancer,  |	    |				   |
+        |			| modules				 | 	    |				   |
+        +-----------------------+----------------------------------------+----------+------------------------------+
+        |Install ReverseProxy   | Instead of ReverseProxy Apache Modules | N(No)    | If the user inputs as N, the |
+        |ApacheModules (Y/N)    | the user can also specify the          |          | process will gets quits      |  
+        |                       | following parameters:                  |          | from installation.           |
+        |                       | ApacheReverseProxyModules,             |          |                              |
+        |                       | apache-reverse-proxy-modules, apache-  |          |                              |
+        |                       | proxy-mods, apacheproxymodules,        |          |                              |
+        |                       | apache-lb-mods, apache-load-balancer,  |          |                              |
+        |                       | modules|                               |          |                              |
+        +-----------------------+----------------------------------------+----------+------------------------------+
+   
 
 While installing the Reverse Proxy Modules, it will reads the package lists, state information, builds the dependency tree. If any packages are missing, the new packages will be installed. The screenshot shown below will explains the process of installation graphically.
 
@@ -234,3 +245,6 @@ Benefits to the users
 * The reverse proxy forwards to a fixed destination on behalf of arbitrary clients.
 * It will incorporates the content that is hosted from one server into a larger website.
 * It helps in configuring the applications settings.
+* It is well-to-do in Cent OS and as well as in ubuntu.
+* The parameters used in declaration is not case sensitive, which is an added advantage.
+

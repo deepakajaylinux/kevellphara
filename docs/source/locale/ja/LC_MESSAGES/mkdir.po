@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/mkdir.rst:3
 msgid "Mkdir"
@@ -23,8 +24,8 @@ msgstr ""
 msgid ""
 "This module assists in creating a directory. The user can specify the path "
 "while declaring creation of directory or at run-time of creating a "
-"directory. It can be performed either in remote or local machine. Let us see"
-" about how this module helps in creating a directory."
+"directory. It can be performed either in remote or local machine. Let us see "
+"about how this module helps in creating a directory."
 msgstr ""
 
 #: ../../source/mkdir.rst:12
@@ -84,8 +85,8 @@ msgstr ""
 
 #: ../../source/mkdir.rst:81
 msgid ""
-"The parameters used in help and creating a directory operations are not case"
-" sensitive which is an added advantage while compared to others."
+"The parameters used in help and creating a directory operations are not case "
+"sensitive which is an added advantage while compared to others."
 msgstr ""
 
 #: ../../source/mkdir.rst:82

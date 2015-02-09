@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/phrankinsense.rst:3
 msgid "Phrankinsense"
@@ -21,11 +22,11 @@ msgstr ""
 
 #: ../../source/phrankinsense.rst:8
 msgid ""
-"This tool helps the user to install and update phrankinsense under Cleopatra"
-" in pharaoh tools. Automation of the build should include automating the "
+"This tool helps the user to install and update phrankinsense under Cleopatra "
+"in pharaoh tools. Automation of the build should include automating the "
 "integration, which often includes deployment into a production-like "
-"environment. In many cases, the build script not only compiles binaries, but"
-" also generates documentation, website pages, statistics and distribution "
+"environment. In many cases, the build script not only compiles binaries, but "
+"also generates documentation, website pages, statistics and distribution "
 "media such as Red Hat. It comforts with Ubuntu and Cent OS."
 msgstr ""
 
@@ -36,10 +37,10 @@ msgstr ""
 #: ../../source/phrankinsense.rst:13
 msgid ""
 "The help command leads the users regarding the purpose and as well as about "
-"the options that are included in the Phrankinsense modules. The help command"
-" lists out the alternative parameters of Phrankinsense under Cleopatra "
-"module. It also describes the syntax for installing the user’s updation. The"
-" help command for Phrankinsense is shown below."
+"the options that are included in the Phrankinsense modules. The help command "
+"lists out the alternative parameters of Phrankinsense under Cleopatra "
+"module. It also describes the syntax for installing the user’s updation. The "
+"help command for Phrankinsense is shown below."
 msgstr ""
 
 #: ../../source/phrankinsense.rst:19
@@ -52,10 +53,10 @@ msgstr ""
 
 #: ../../source/phrankinsense.rst:51
 msgid ""
-"This is a tool that sits under cleopatra  and pulls down clean copies of the"
-" user codebase and does full builds, from scratch, all the time. This "
-"command is used to  install latest version of Phrankinsense. The command "
-"used for installation is as follows."
+"This is a tool that sits under cleopatra  and pulls down clean copies of the "
+"user codebase and does full builds, from scratch, all the time. This command "
+"is used to  install latest version of Phrankinsense. The command used for "
+"installation is as follows."
 msgstr ""
 
 #: ../../source/phrankinsense.rst:58 ../../source/phrankinsense.rst:95

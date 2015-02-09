@@ -14,9 +14,39 @@ This help command guides the user to install,ensure,remove package management. T
 
 .. code-block:: bash
 
-		cleopatra packageManager help
+		cleopatra packagemanager help
 
 After inputs the above command, it starts functioning to wrap. It catechesis the functions in the screenshots.
+
+
+.. code-block:: bash
+
+ kevell@corp:/# cleopatra packagemanager help
+ ******************************
+
+
+  This command allows you to use a Package Management wrapper.
+
+  PackageManager, package-manager, packagemanager, package-mgr, pkgmgr
+
+        - pkg-install
+        Installs a Package through a Package Manager
+        example: cleopatra package-manager install --package-name="mysql" --package-version="5.0" --packager="apt-get"
+
+        - pkg-ensure
+        Installs a Package through a Package Manager
+        example: cleopatra package-manager install --package-name="mysql" --package-version="5.0" --packager="apt-get"
+
+        - pkg-remove
+        Removes a Package through a Package Manager
+        example: cleopatra package-manager install --package-name="mysql" --package-version="5.0" --packager="apt-get"
+
+  A package manager wrapper that will allow you to install packages on any system
+
+ ------------------------------
+ End Help
+ ******************************
+
 
 
 Alternative parameters

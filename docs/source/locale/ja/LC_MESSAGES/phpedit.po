@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/phpedit.rst:3
 msgid "PHPEdit"
@@ -23,8 +24,8 @@ msgstr ""
 msgid ""
 "PHPEdit module is a complete Integrated Development Environment for PHP. "
 "Much more than a simple PHP edit, it helps the user to carry out their "
-"projects in a friendly and efficient way, with a single tool integrating all"
-" the features the user will need from the design of their projects, their "
+"projects in a friendly and efficient way, with a single tool integrating all "
+"the features the user will need from the design of their projects, their "
 "documentation, to their deployment. It appropriate with Ubuntu and centOS."
 msgstr ""
 
@@ -34,8 +35,8 @@ msgstr ""
 
 #: ../../source/phpedit.rst:12
 msgid ""
-"The help command guides the users regarding the purpose and as well as about"
-" the options that are included in the Phpedit module. It lists out the "
+"The help command guides the users regarding the purpose and as well as about "
+"the options that are included in the Phpedit module. It lists out the "
 "alternative parameters of Phpedit module. It also describes the syntax for "
 "installing the Phpedit module. The help command for Phpedit module is shown "
 "as below."
@@ -54,11 +55,11 @@ msgstr ""
 
 #: ../../source/phpedit.rst:44
 msgid ""
-"PHPEdit comes with a lot of extensions, frameworks, help files and tools, so"
-" it is shipped in an installer which can be customized to suits the user "
-"needs.However, because PHPEdit is constantly evolving, with new features and"
-" maintenance fixes, an auto update system is also available, to help keep up"
-" with PHPEdit's latest releases effortlessly. the command used for "
+"PHPEdit comes with a lot of extensions, frameworks, help files and tools, so "
+"it is shipped in an installer which can be customized to suits the user "
+"needs.However, because PHPEdit is constantly evolving, with new features and "
+"maintenance fixes, an auto update system is also available, to help keep up "
+"with PHPEdit's latest releases effortlessly. the command used for "
 "installation of this module as follows,"
 msgstr ""
 
@@ -92,8 +93,8 @@ msgstr ""
 
 #: ../../source/phpedit.rst:65
 msgid ""
-"In Spite of PHP-Edit, the following alternatives can also be used: "
-"phpedit,PHPEdit"
+"In Spite of PHP-Edit, the following alternatives can also be used: phpedit,"
+"PHPEdit"
 msgstr ""
 
 #: ../../source/phpedit.rst:65 ../../source/phpedit.rst:69
@@ -106,8 +107,8 @@ msgstr ""
 
 #: ../../source/phpedit.rst:69
 msgid ""
-"In Spite of PHP-Edit, the following alternatives can also be used: "
-"phpedit,PHPEdit        |"
+"In Spite of PHP-Edit, the following alternatives can also be used: phpedit,"
+"PHPEdit        |"
 msgstr ""
 
 #: ../../source/phpedit.rst:69

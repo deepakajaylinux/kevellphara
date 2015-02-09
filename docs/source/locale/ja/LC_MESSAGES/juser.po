@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/juser.rst:3
 msgid "JUser"
@@ -29,14 +30,14 @@ msgstr ""
 #: ../../source/juser.rst:10
 msgid ""
 "A user often has a user account and is identified to the system by a "
-"username (or user name). Other terms for username include login name, screen"
-" name."
+"username (or user name). Other terms for username include login name, screen "
+"name."
 msgstr ""
 
 #: ../../source/juser.rst:12
 msgid ""
-"A user's account allows a user to authenticate to a system and to be granted"
-" authorization to access resources provided by or connected to that system; "
+"A user's account allows a user to authenticate to a system and to be granted "
+"authorization to access resources provided by or connected to that system; "
 "however, authentication does not imply authorization. To log into an "
 "account, a user is typically required to authenticate oneself with a "
 "password or other credentials for the purposes of accounting, security, "
@@ -51,8 +52,8 @@ msgstr ""
 msgid ""
 "This command helps to determine the usage of Juser module. The user will "
 "come to know about the different ways/format to execute this module. This "
-"command guides the end user to know the purpose of this command. Below given"
-" are the command and the screen shot of the same."
+"command guides the end user to know the purpose of this command. Below given "
+"are the command and the screen shot of the same."
 msgstr ""
 
 #: ../../source/juser.rst:54
@@ -101,8 +102,8 @@ msgstr ""
 
 #: ../../source/juser.rst:135
 msgid ""
-"eg: jrush juser info ..config file=”bootstrap file path” / jrush JUser info "
-"..config file=”bootstrap file path”"
+"eg: jrush juser info ..config file=”bootstrap file path” / jrush JUser "
+"info ..config file=”bootstrap file path”"
 msgstr ""
 
 #: ../../source/juser.rst:163

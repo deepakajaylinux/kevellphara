@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/autopilot.rst:3
 msgid "Autopilot"
@@ -34,8 +35,8 @@ msgid ""
 "environment the user don't have time for computer problems? We make IT "
 "problems go away, for good! The user business functions best when the user "
 "don't have to worry about the Devops technology solutions that drive it. We "
-"want to help the user put  IT on AutoPilot so user can focus on the business"
-" user want to build. It is comfortable with Ubntu and cent os."
+"want to help the user put  IT on AutoPilot so user can focus on the business "
+"user want to build. It is comfortable with Ubntu and cent os."
 msgstr ""
 
 #: ../../source/autopilot.rst:13
@@ -47,8 +48,8 @@ msgid ""
 "The help command leads the users regarding the purpose and as well as about "
 "the options that are included in the autopilot modules. The help command "
 "lists out the alternative parameters of dapperstrano autopilot module. It "
-"also describes the syntax for detecting the user’s machine. The help command"
-" for autopilot  shown below."
+"also describes the syntax for detecting the user’s machine. The help command "
+"for autopilot  shown below."
 msgstr ""
 
 #: ../../source/autopilot.rst:21
@@ -61,8 +62,8 @@ msgstr ""
 
 #: ../../source/autopilot.rst:48
 msgid ""
-"Autopilot act as a default module and also provides user defined executions."
-" There are three options are available. They are,"
+"Autopilot act as a default module and also provides user defined executions. "
+"There are three options are available. They are,"
 msgstr ""
 
 #: ../../source/autopilot.rst:50

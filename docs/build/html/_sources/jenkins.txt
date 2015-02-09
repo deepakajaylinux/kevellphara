@@ -11,11 +11,19 @@ Jenkins’ core functionality and flexibility allow it to fit in a variety of en
 Help Command
 ----------------------
 
-This command helps to determine the usage of Jenkins module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same. 
+This command helps to determine the usage of Jenkins module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. 
+
 
 .. code-block:: bash
              
 		cleopatra jenkins help
+
+The screenshot for the above command is listed below,
+
+.. code-block:: bash
+
+
+
  
  kevell@corp:/# cleopatra jenkins help
  ******************************
@@ -43,6 +51,12 @@ If the user needs to install Jenkins module in machine, the below given command 
 .. code-block:: bash
               
 	        cleopatra jenkins install
+
+
+The screenshot of the above command is listed below,
+
+.. code-block:: bash
+
 
  kevell@corp:/# cleopatra jenkins install
  Install Jenkins? (Y/N) 
@@ -100,15 +114,15 @@ Options
 .. cssclass:: table-bordered
 
 
-	+-----------------------------+------------------------+-----------------------+-----------------------------------------------+
-	|	Parameters  	      | Alternative Parameter  |	Option	       | 		Comments		       |
-	+=============================+========================+=======================+===============================================+
-	|cleopatra  Jenkins Install   |Jenkins , jenkins       |Y		       |Once the user provides the option, System      |
-	|			      |			       |		       |starts installation process		       |
-	+-----------------------------+------------------------+-----------------------+-----------------------------------------------+
-	|cleopatra  Jenkins Install   |Jenkins , jenkins       |N		       |Once the user provides the option, System      |
-	|			      |			       |		       |stops installation process|  		       |
-	+-----------------------------+------------------------+-----------------------+-----------------------------------------------+
+	+-----------------------------+--------------------------+-----------------------+-----------------------------------------------+
+	|	Parameters  	      | Alternative Parameter    |	Option	         | 		Comments		         |
+	+=============================+==========================+=======================+===============================================+
+	|cleopatra  Jenkins Install   |Instead of using Jenkins, |Y		         |Once the user provides the option, System      |
+	|			      |the user can add jenkins  |		         |starts installation process		         |
+	+-----------------------------+------------------------+-------------------------+-----------------------------------------------+
+	|cleopatra  Jenkins Install   |Instead of using Jenkins, |N		         |Once the user provides the option, System      |
+	|			      |the user can add jenkins	 |		         |stops installation process|  		         |
+	+-----------------------------+--------------------------+-----------------------+-----------------------------------------------+
 
 
 Benefits

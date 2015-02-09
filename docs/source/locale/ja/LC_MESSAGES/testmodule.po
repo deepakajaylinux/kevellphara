@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/testmodule.rst:3
 msgid "Test module"
@@ -35,8 +36,8 @@ msgstr ""
 
 #: ../../source/testmodule.rst:13
 msgid ""
-"The help command guides the users regarding the purpose and as well as about"
-" the options that are included in the testmodule. It lists out the "
+"The help command guides the users regarding the purpose and as well as about "
+"the options that are included in the testmodule. It lists out the "
 "alternative parameters of testmodule. It also describes the syntax for "
 "functioning of Jrush module. The help command for testmodule is shown as "
 "below."
@@ -44,8 +45,8 @@ msgstr ""
 
 #: ../../source/testmodule.rst:19
 msgid ""
-"After typing the command it lists the options as action. The following image"
-" visualize it obviously."
+"After typing the command it lists the options as action. The following image "
+"visualize it obviously."
 msgstr ""
 
 #: ../../source/testmodule.rst:48
@@ -83,8 +84,8 @@ msgstr ""
 
 #: ../../source/testmodule.rst:70
 msgid ""
-"After gives the command it shows the current details and titles of articles."
-" The screenshot represents the same."
+"After gives the command it shows the current details and titles of articles. "
+"The screenshot represents the same."
 msgstr ""
 
 #: ../../source/testmodule.rst:104

@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/hosteditor.rst:3
 msgid "Host Editor"
@@ -72,8 +73,8 @@ msgstr ""
 #: ../../source/hosteditor.rst:99
 msgid ""
 "This facilitates the user to create a virtual host. While adding Virtual "
-"host it can asks vhe-docroot, vhe-file-ext, vhe-apache-command, vhe-ip port"
-",vhe-host-dir, vhe-templates,vhe-default-template-name. The user can enter "
+"host it can asks vhe-docroot, vhe-file-ext, vhe-apache-command, vhe-ip port,"
+"vhe-host-dir, vhe-templates,vhe-default-template-name. The user can enter "
 "the according to their wish."
 msgstr ""
 
@@ -204,8 +205,8 @@ msgstr ""
 msgid ""
 "The user wishes to select the values according to their needs. Then the "
 "system can ask the vhost name ,IP address and root user etc is correct or "
-"wrong. If the user says yes, then it displays the vhost directory and enable"
-" this vhost?"
+"wrong. If the user says yes, then it displays the vhost directory and enable "
+"this vhost?"
 msgstr ""
 
 #: ../../source/hosteditor.rst:144
@@ -229,8 +230,8 @@ msgstr ""
 #: ../../source/hosteditor.rst:198
 msgid ""
 "If the removed name was the last link to a virtual host and no processes "
-"have the virtual host open, the virtual host is deleted and the space it was"
-" using is made available for reuse."
+"have the virtual host open, the virtual host is deleted and the space it was "
+"using is made available for reuse."
 msgstr ""
 
 #: ../../source/hosteditor.rst:201
@@ -257,8 +258,8 @@ msgstr ""
 #: ../../source/hosteditor.rst:225
 msgid ""
 "List information about the Virtual host (the current directory by default). "
-"Sort entries alphabetically. Mandatory arguments has long options as well as"
-" short options too. A list invoked with a URL specifying both the list name "
+"Sort entries alphabetically. Mandatory arguments has long options as well as "
+"short options too. A list invoked with a URL specifying both the list name "
 "and also the underlying view which will provide and organize the data. The "
 "following command used to list the virtual host."
 msgstr ""
@@ -291,8 +292,8 @@ msgstr ""
 
 #: ../../source/hosteditor.rst:250
 msgid ""
-"Assists module develop many of the enabling capabilities required to service"
-" high performing environments through our understanding of the "
+"Assists module develop many of the enabling capabilities required to service "
+"high performing environments through our understanding of the "
 "interdependencies between people, process and technology. The following "
 "screen shot explains the same."
 msgstr ""

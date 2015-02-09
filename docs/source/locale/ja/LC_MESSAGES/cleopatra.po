@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/cleopatra.rst:2
 msgid "Cleopatra"
@@ -29,8 +30,8 @@ msgstr ""
 
 #: ../../source/cleopatra.rst:10
 msgid ""
-"This can also be used for providing packages and configuration files to your"
-" projects. It ensures the environment stability of your project."
+"This can also be used for providing packages and configuration files to your "
+"projects. It ensures the environment stability of your project."
 msgstr ""
 
 #: ../../source/cleopatra.rst:12
@@ -58,15 +59,15 @@ msgstr ""
 #: ../../source/cleopatra.rst:18
 msgid ""
 "Cleopatra assists in enveloping the entire management of all sizes. It "
-"enriches and fulfills the need of users of a management like the developers,"
-" system administrator, release engineers etc."
+"enriches and fulfills the need of users of a management like the developers, "
+"system administrator, release engineers etc."
 msgstr ""
 
 #: ../../source/cleopatra.rst:20
 msgid ""
 "The coding system of Cleopatra is based in php. The Cleopatra is object-"
-"oriented that enrich not only the data type but also the types of operations"
-" that can be applied to the data."
+"oriented that enrich not only the data type but also the types of operations "
+"that can be applied to the data."
 msgstr ""
 
 #: ../../source/cleopatra.rst:22
@@ -85,8 +86,8 @@ msgstr ""
 
 #: ../../source/cleopatra.rst:26
 msgid ""
-"And also it is easier to rewrite the code as per the needs of the users. Its"
-" documentation includes the Cleopatra's current released version as 1.1.1."
+"And also it is easier to rewrite the code as per the needs of the users. Its "
+"documentation includes the Cleopatra's current released version as 1.1.1."
 msgstr ""
 
 #: ../../source/cleopatra.rst:29
@@ -95,8 +96,8 @@ msgstr ""
 
 #: ../../source/cleopatra.rst:31
 msgid ""
-"Before installing the Cleopatra to your machine, ensure whether git and php5"
-" exists in your machine or not. if not follow as given below"
+"Before installing the Cleopatra to your machine, ensure whether git and php5 "
+"exists in your machine or not. if not follow as given below"
 msgstr ""
 
 #: ../../source/cleopatra.rst:35
@@ -135,8 +136,8 @@ msgstr ""
 
 #: ../../source/cleopatra.rst:76
 msgid ""
-"It is simple, get the terminal open via the option \"Run as Administrator\","
-" and then apply the following coding,"
+"It is simple, get the terminal open via the option \"Run as Administrator\", "
+"and then apply the following coding,"
 msgstr ""
 
 #: ../../source/cleopatra.rst:85
@@ -169,8 +170,8 @@ msgstr ""
 
 #: ../../source/cleopatra.rst:99
 msgid ""
-"ApacheReverseProxyModules - Apache Reverse Proxy Modules - Reverse "
-"Proxy/Load Balancer Modules for Apache"
+"ApacheReverseProxyModules - Apache Reverse Proxy Modules - Reverse Proxy/"
+"Load Balancer Modules for Apache"
 msgstr ""
 
 #: ../../source/cleopatra.rst:101
@@ -240,13 +241,11 @@ msgid ""
 msgstr ""
 
 #: ../../source/cleopatra.rst:133
-msgid ""
-"Dapperstrano - Dapperstrano - The PHP Automated Website Deployment tool"
+msgid "Dapperstrano - Dapperstrano - The PHP Automated Website Deployment tool"
 msgstr ""
 
 #: ../../source/cleopatra.rst:135
-msgid ""
-"DeveloperTools - Developer Tools - IDE's and other tools for Developers"
+msgid "DeveloperTools - Developer Tools - IDE's and other tools for Developers"
 msgstr ""
 
 #: ../../source/cleopatra.rst:137
@@ -264,8 +263,8 @@ msgstr ""
 
 #: ../../source/cleopatra.rst:143
 msgid ""
-"EnvironmentConfig - Environment Configuration - Configure Environments for a"
-" project"
+"EnvironmentConfig - Environment Configuration - Configure Environments for a "
+"project"
 msgstr ""
 
 #: ../../source/cleopatra.rst:145
@@ -324,8 +323,8 @@ msgstr ""
 
 #: ../../source/cleopatra.rst:167
 msgid ""
-"GitKeySafe - Git Key-Safe - Install a script for git to allow specifying ssh"
-" keys during commands"
+"GitKeySafe - Git Key-Safe - Install a script for git to allow specifying ssh "
+"keys during commands"
 msgstr ""
 
 #: ../../source/cleopatra.rst:169
@@ -484,8 +483,7 @@ msgstr ""
 
 #: ../../source/cleopatra.rst:243
 msgid ""
-"PackageManager - Native Package Manager Wrapper - Install OS neutral "
-"packages"
+"PackageManager - Native Package Manager Wrapper - Install OS neutral packages"
 msgstr ""
 
 #: ../../source/cleopatra.rst:245
@@ -509,14 +507,12 @@ msgid "PharaohTools - Pharaoh Tools - Gotta Install them all"
 msgstr ""
 
 #: ../../source/cleopatra.rst:255
-msgid ""
-"Phlagrant - Phlagrant - The Virtual Machine management solution for PHP"
+msgid "Phlagrant - Phlagrant - The Virtual Machine management solution for PHP"
 msgstr ""
 
 #: ../../source/cleopatra.rst:257
 msgid ""
-"Phrankinsense - Phrankinsense - The Pharaoh Tools Project Management "
-"Solution"
+"Phrankinsense - Phrankinsense - The Pharaoh Tools Project Management Solution"
 msgstr ""
 
 #: ../../source/cleopatra.rst:259
@@ -593,8 +589,7 @@ msgstr ""
 
 #: ../../source/cleopatra.rst:293
 msgid ""
-"SshHarden - Apply security functions to the SSH accounts/setup of the "
-"machine"
+"SshHarden - Apply security functions to the SSH accounts/setup of the machine"
 msgstr ""
 
 #: ../../source/cleopatra.rst:295
@@ -693,9 +688,9 @@ msgstr ""
 
 #: ../../source/cleopatra.rst:348
 msgid ""
-"this command will list all the names of the modules that are available under"
-" Cleopatra. here, the screenshot denotes the display of all modules "
-"available under Cleopatra."
+"this command will list all the names of the modules that are available under "
+"Cleopatra. here, the screenshot denotes the display of all modules available "
+"under Cleopatra."
 msgstr ""
 
 #: ../../source/cleopatra.rst:501

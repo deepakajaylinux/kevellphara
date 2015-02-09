@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/citadel.rst:3
 msgid "Citadel"
@@ -59,8 +60,8 @@ msgstr ""
 #: ../../source/citadel.rst:51
 msgid ""
 "When the user needs to install Citadel server in machine, you can input the "
-"following commands to install the citadel-suite. The system will execute the"
-" process of installation. Below given are the command and the screenshot of "
+"following commands to install the citadel-suite. The system will execute the "
+"process of installation. Below given are the command and the screenshot of "
 "the same."
 msgstr ""
 
@@ -120,8 +121,8 @@ msgstr ""
 msgid ""
 "This command helps in configuring the Citadel server. Once the below given "
 "command is executed the system provides you with the default value for each "
-"section, if there are any changes to be done, the user can provide the data."
-" The command used for configuration is shown below."
+"section, if there are any changes to be done, the user can provide the data. "
+"The command used for configuration is shown below."
 msgstr ""
 
 #: ../../source/citadel.rst:251

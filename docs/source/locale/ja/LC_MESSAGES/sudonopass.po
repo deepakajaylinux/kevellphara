@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/sudonopass.rst:3
 msgid "Sudonopass"
@@ -23,8 +24,8 @@ msgstr ""
 msgid ""
 "Sudonopass used to run a particular command with root permissions. The "
 "interesting thing is that when the user use sudo for a particular command, "
-"system prompts the user for current user’s password. Once the user enter the"
-" password, the command runs with root privileges. This is suitable to work "
+"system prompts the user for current user’s password. Once the user enter the "
+"password, the command runs with root privileges. This is suitable to work "
 "with Ubuntu and Cent OS."
 msgstr ""
 
@@ -102,14 +103,14 @@ msgstr ""
 #: ../../source/sudonopass.rst:95
 msgid ""
 "Sudonopass makes sure that root privileges are there for a specific command "
-"(or for a specific time) and not for the complete session as that may result"
-" in accidental misuse of root privileges."
+"(or for a specific time) and not for the complete session as that may result "
+"in accidental misuse of root privileges."
 msgstr ""
 
 #: ../../source/sudonopass.rst:96
 msgid ""
-"The user can use sudonopass even grant limited privileges to a user. This is"
-" helpful when the user do not want a user to have control of all the root "
+"The user can use sudonopass even grant limited privileges to a user. This is "
+"helpful when the user do not want a user to have control of all the root "
 "powers while doing a sudonopass."
 msgstr ""
 

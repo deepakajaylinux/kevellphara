@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/awstats.rst:3
 msgid "Awstats"
@@ -24,8 +25,8 @@ msgid ""
 "This module promotes the installation of awstats, with the latest Version. "
 "AWStats is an open source Web analytics reporting tool, suitable for "
 "analyzing data from Internet services such as web, streaming media, mail, "
-"and FTP servers. AWStats parses and analyzes server log files, producing "
-"HTML reports."
+"and FTP servers. AWStats parses and analyzes server log files, "
+"producing HTML reports."
 msgstr ""
 
 #: ../../source/awstats.rst:10
@@ -48,8 +49,8 @@ msgstr ""
 
 #: ../../source/awstats.rst:17
 msgid ""
-"The help command guides the users regarding the purpose and as well as about"
-" the options that are included in the AWStats module. It lists out the "
+"The help command guides the users regarding the purpose and as well as about "
+"the options that are included in the AWStats module. It lists out the "
 "alternative parameters of AWStats module. It also describes the syntax for "
 "installing the AWStats module. The help command for AWStats module is shown "
 "as below."
@@ -116,8 +117,7 @@ msgid "N(No)"
 msgstr ""
 
 #: ../../source/awstats.rst:48
-msgid ""
-"If the user wish to quit the installation process they can input as N.|"
+msgid "If the user wish to quit the installation process they can input as N.|"
 msgstr ""
 
 #: ../../source/awstats.rst:54
@@ -148,8 +148,8 @@ msgstr ""
 
 #: ../../source/awstats.rst:62
 msgid ""
-"Finally, the installation of Awstats gets completed successfully as depicted"
-" in the following screenshots:"
+"Finally, the installation of Awstats gets completed successfully as depicted "
+"in the following screenshots:"
 msgstr ""
 
 #: ../../source/awstats.rst:65
@@ -363,8 +363,8 @@ msgstr ""
 
 #: ../../source/awstats.rst:127
 msgid ""
-"To run awstats, from command line, your operating system must be able to run"
-" perl scripts (.pl files)."
+"To run awstats, from command line, your operating system must be able to run "
+"perl scripts (.pl files)."
 msgstr ""
 
 #: ../../source/awstats.rst:129
@@ -584,8 +584,7 @@ msgstr ""
 #: ../../source/awstats.rst:204
 msgid ""
 "The parameters used in help and installation and un installation operations "
-"are not case sensitive which is an added advantage while compared  to "
-"others."
+"are not case sensitive which is an added advantage while compared  to others."
 msgstr ""
 
 #: ../../source/awstats.rst:205
@@ -604,9 +603,10 @@ msgstr ""
 
 #: ../../source/awstats.rst:208
 msgid ""
-"AWStats supports most major web server log file formats including Apache "
-"(NCSA combined/XLF/ELF log format or Common Log Format (CLF)), WebStar, IIS "
-"(W3C log format), and many other common web server log formats."
+"AWStats supports most major web server log file formats "
+"including Apache (NCSA combined/XLF/ELF log format or Common Log "
+"Format (CLF)), WebStar, IIS (W3C log format), and many other common web "
+"server log formats."
 msgstr ""
 
 #: ../../source/awstats.rst:210
@@ -615,8 +615,7 @@ msgid ""
 msgstr ""
 
 #: ../../source/awstats.rst:211
-msgid ""
-"Written in Perl, AWStats can be deployed on almost any operating system"
+msgid "Written in Perl, AWStats can be deployed on almost any operating system"
 msgstr ""
 
 #: ../../source/awstats.rst:212
@@ -627,6 +626,6 @@ msgstr ""
 
 #: ../../source/awstats.rst:213
 msgid ""
-"AWStats can be installed on a workstation, such as MS Windows, for local use"
-" in situations where log files can be downloaded from a remote server."
+"AWStats can be installed on a workstation, such as MS Windows, for local use "
+"in situations where log files can be downloaded from a remote server."
 msgstr ""

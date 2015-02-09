@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/mediatool.rst:3
 msgid "Media Tools"
@@ -21,13 +22,14 @@ msgstr ""
 
 #: ../../source/mediatool.rst:9
 msgid ""
-"This module aims at installing GC recommended Media Tool as VLC Media player"
-" that enhances the productivity of the users system. VLC media player "
+"This module aims at installing GC recommended Media Tool as VLC Media player "
+"that enhances the productivity of the users system. VLC media player "
 "supports many audio and video compression methods and file formats, "
-"including DVD-Video, video CD and streaming protocols. VLC media player "
-"(commonly known as VLC) is a portable, free and open-source, cross-platform "
-"media player and streaming media server written by the VideoLAN project. Let"
-" us see about how this module assists installing VLC."
+"including DVD-Video, video CD and streaming protocols. VLC media "
+"player (commonly known as VLC) is a portable, free and open-source, cross-"
+"platform media player and streaming media server written by "
+"the VideoLAN project. Let us see about how this module assists installing "
+"VLC."
 msgstr ""
 
 #: ../../source/mediatool.rst:12

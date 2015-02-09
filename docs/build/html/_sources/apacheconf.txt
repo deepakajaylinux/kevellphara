@@ -1,5 +1,6 @@
+============
 ApacheConf
-==========
+============
 
 Synopsis
 --------
@@ -21,7 +22,7 @@ The screen shot as shown below, visually represent the usage of the help command
 
 .. code-block:: bash
 	
- kevells@corp:/# cleopatra apacheconf help
+ kevell@corp:/# cleopatra apacheconf help
  ******************************
 
 
@@ -65,7 +66,7 @@ The screen shot given below explains visually about the steps and commands invol
 .. code-block:: bash
 
 
- kevells@corp:/# cleopatra apacheconf install
+ kevell@corp:/# cleopatra apacheconf install
  Install Apache Conf? (Y/N) 
  y
  *******************************
@@ -98,26 +99,23 @@ The screen shot given below explains visually about the steps and commands invol
  ******************************
 
 
+Options
+------------
 
 .. cssclass:: table-bordered
 
-	+------------------------------------------------+------------+----------------------------+
-	| Parameters	                                 | Required   |Comment  		   |
-	+================================================+============+============================+
-	|Install                               		 | Y(YES)     |It will install the         |
-	|              					 | 	      |apacheconf under            | 
-	|	                                         |            |Cleopatra		   |
-	+------------------------------------------------+------------+----------------------------+ 
-	| Install Apache conf? (Y/N)		         | Y(YES)     |If the user gives input as  |
-	|	                               		 |            |yes, it will install        | 
-	|                                  	         |	      |the module.                 |
-	|	                              		 |            |		              	   | 
-	+------------------------------------------------+------------+----------------------------+
-	| Install Apache conf? (Y/N) 	                 | N(NO)      |If the user gives input 	   |
-	|	                                 	 |            |as no, it will get	   |
-	|                                         	 |            |exit.|                      |
-	+------------------------------------------------+------------+----------------------------+
-
+	+-----------------------------+-----------------------------------+----------+----------------------------------+
+	| Parameters	              | Alternative Parameters  	  | Required | Comment  		        |
+	+=============================+===================================+==========+==================================+
+	|Install Apache conf? (Y/N)   | Instead of apachemodules, we can  | Yes      | If the user gives input as yes,  |
+	|	                      | use ApacheModules, apachemods,    |          | it will install the module.      | 
+ 	|                             | apache-modules also    	          |	     | the module.                      |
+        +-----------------------------+-----------------------------------+----------+----------------------------------+
+        |Install Apache conf? (Y/N)   | Instead of apachemodules, we can  | No       | If the user gives input as No,   |
+        |                             | use ApacheModules, apachemods,    |          | it will get exit.                |
+        |                             | apache-modules also|              |          |                                  |
+        +-----------------------------+-----------------------------------+----------+----------------------------------+
+ 
 
 Benefits
 --------
@@ -125,4 +123,5 @@ Benefits
  * The module assists the end user in installing and managing the configuration of Apache.
  * While installing the Apache tool, the end user can design and manage the configuration as per their requirement using this module.
  * If it founds the configuration already exists it will overwrite the existing one.
-
+ * It is well-to-do in Cent OS and as well as in Ubuntu.
+ * The parameters used in declaration is not case sensitive, which is an added advantage.

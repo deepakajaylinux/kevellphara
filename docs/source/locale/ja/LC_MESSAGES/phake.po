@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/phake.rst:3
 msgid "Phake"
@@ -22,8 +23,8 @@ msgstr ""
 #: ../../source/phake.rst:8
 msgid ""
 "Phake is a mocking framework for PHP. It allows for the creation of objects "
-"that mimic a real object in a predictable and controlled manner. This allows"
-" you to treat external method calls made by your system under test (SUT) as "
+"that mimic a real object in a predictable and controlled manner. This allows "
+"you to treat external method calls made by your system under test (SUT) as "
 "just another form of input to your SUT and output from your SUT. This is "
 "done by stubbing methods that supply indirect input into your test and by "
 "verifying parameters to methods that receive indirect output from your test."
@@ -37,8 +38,8 @@ msgstr ""
 msgid ""
 "This command helps to determine the usage of Phake module. The user will "
 "come to know about the different ways/format to execute this module. This "
-"command guides the end user to know the purpose of this command. Below given"
-" are the command and the screenshot of the same."
+"command guides the end user to know the purpose of this command. Below given "
+"are the command and the screenshot of the same."
 msgstr ""
 
 #: ../../source/phake.rst:42
@@ -65,12 +66,13 @@ msgstr ""
 #: ../../source/phake.rst:56
 msgid ""
 "Then the system ask for executing directory name, if you wants to set up "
-"your PATH you can define your path. Define your path followed by '/' symbol."
-" Press Enter if there is no changes to be done"
+"your PATH you can define your path. Define your path followed by '/' symbol. "
+"Press Enter if there is no changes to be done"
 msgstr ""
 
 #: ../../source/phake.rst:58 ../../source/phake.rst:138
-msgid "\"What is the program executer directory? Found \"/usr/bin\" - Use this? \""
+msgid ""
+"\"What is the program executer directory? Found \"/usr/bin\" - Use this? \""
 msgstr ""
 
 #: ../../source/phake.rst:60
@@ -99,8 +101,8 @@ msgstr ""
 
 #: ../../source/phake.rst:105
 msgid ""
-"Either of the two alternative parameter can be used in command- Phake, phake"
-" eg: Cleopatra  phake Install"
+"Either of the two alternative parameter can be used in command- Phake, phake "
+"eg: Cleopatra  phake Install"
 msgstr ""
 
 #: ../../source/phake.rst:105
@@ -113,8 +115,8 @@ msgstr ""
 
 #: ../../source/phake.rst:110
 msgid ""
-"Either of the two alternative parameter can be used in command- Phake, phake"
-" eg: Cleopatra phake Install|"
+"Either of the two alternative parameter can be used in command- Phake, phake "
+"eg: Cleopatra phake Install|"
 msgstr ""
 
 #: ../../source/phake.rst:110

@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/rubysystem.rst:3
 msgid "RubySystem"
@@ -27,8 +28,8 @@ msgid ""
 "good alternative to the usual shell scripting, commonly used to achieve the "
 "scripting needs in systems adminstration.Set of built-in modules and a few "
 "external libraries, Ruby system can make systems adminstration more "
-"efficient.Ruby system is a very useful and powerful tool that is a must have"
-" in every system administrator's toolbox.It is comfortable with Ubuntu and "
+"efficient.Ruby system is a very useful and powerful tool that is a must have "
+"in every system administrator's toolbox.It is comfortable with Ubuntu and "
 "Cent OS."
 msgstr ""
 
@@ -128,8 +129,8 @@ msgstr ""
 
 #: ../../source/rubysystem.rst:147
 msgid ""
-"In Ruby system, is a convenient and enjoyable tool. Including the tools that"
-" are used in the deployment process."
+"In Ruby system, is a convenient and enjoyable tool. Including the tools that "
+"are used in the deployment process."
 msgstr ""
 
 #: ../../source/rubysystem.rst:148

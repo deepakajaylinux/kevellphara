@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/sshkeyinstall.rst:3
 msgid "SshKeyInstall"
@@ -35,11 +36,11 @@ msgstr ""
 
 #: ../../source/sshkeyinstall.rst:12
 msgid ""
-"The help command guides the users regarding the purpose and as well as about"
-" the options that are included in the Sshkey install module. It lists out "
-"the alternative parameters of Sshkeyinstall module. It also describes the "
-"syntax for installing the Sshkeyinstall module. The help command for "
-"Sshkeyinstall module is shown as below."
+"The help command guides the users regarding the purpose and as well as about "
+"the options that are included in the Sshkey install module. It lists out the "
+"alternative parameters of Sshkeyinstall module. It also describes the syntax "
+"for installing the Sshkeyinstall module. The help command for Sshkeyinstall "
+"module is shown as below."
 msgstr ""
 
 #: ../../source/sshkeyinstall.rst:19
@@ -57,8 +58,8 @@ msgstr ""
 msgid ""
 "Installation includes installation of Sshkeyinstall  required to make the "
 "installation in a updated version . It is a manifest process to install "
-"Sshkeyinstall module under Cleopatra Sshkeyinstall by just using the command"
-" given below,"
+"Sshkeyinstall module under Cleopatra Sshkeyinstall by just using the command "
+"given below,"
 msgstr ""
 
 #: ../../source/sshkeyinstall.rst:53
@@ -68,8 +69,8 @@ msgstr ""
 #: ../../source/sshkeyinstall.rst:55
 msgid ""
 "When the user input as yes automatically it will install Sshkeyinstall with "
-"checking from the system. If not exit the installation. The following screen"
-" shot demonstSshkeyinstallte Sshkeyinstall it."
+"checking from the system. If not exit the installation. The following screen "
+"shot demonstSshkeyinstallte Sshkeyinstall it."
 msgstr ""
 
 #: ../../source/sshkeyinstall.rst:59 ../../source/sshkeyinstall.rst:64

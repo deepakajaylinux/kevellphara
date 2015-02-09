@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/tomcat.rst:3
 msgid "Tomcat"
@@ -21,12 +22,11 @@ msgstr ""
 
 #: ../../source/tomcat.rst:9
 msgid ""
-"Tomcat is an application server from cleopatra that executes php and renders"
-" Web pages that include php coding. Tomcat is the result of developers and "
-"is available from the php Web site in both binary and source versions. "
-"Tomcat can be used as either a standalone product with its own internal Web "
-"server or together with other Web servers. Tomcat supports Ubuntu and cent "
-"OS."
+"Tomcat is an application server from cleopatra that executes php and renders "
+"Web pages that include php coding. Tomcat is the result of developers and is "
+"available from the php Web site in both binary and source versions. Tomcat "
+"can be used as either a standalone product with its own internal Web server "
+"or together with other Web servers. Tomcat supports Ubuntu and cent OS."
 msgstr ""
 
 #: ../../source/tomcat.rst:12
@@ -119,8 +119,7 @@ msgid "Benefits"
 msgstr ""
 
 #: ../../source/tomcat.rst:187
-msgid ""
-"Its fairly extensible with modules to run things like php, python, etc."
+msgid "Its fairly extensible with modules to run things like php, python, etc."
 msgstr ""
 
 #: ../../source/tomcat.rst:188

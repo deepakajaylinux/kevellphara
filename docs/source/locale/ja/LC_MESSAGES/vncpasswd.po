@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/vncpasswd.rst:3
 msgid "VNCPasswd"
@@ -25,8 +26,8 @@ msgid ""
 "VNC server authentication. It uses such passwords when started with the "
 "local desktop manager when started from the vncserver script. vncpasswd "
 "allows to enter either one or two passwords. The vncpasswd utility asks "
-"interactively if it should set the second password. This is most comfortable"
-" with ubunt and centos."
+"interactively if it should set the second password. This is most comfortable "
+"with ubunt and centos."
 msgstr ""
 
 #: ../../source/vncpasswd.rst:11
@@ -52,16 +53,16 @@ msgstr ""
 #: ../../source/vncpasswd.rst:44
 msgid ""
 "Installation allows the user to install vncpassward . It is very popular in "
-"Remote or local Desktop. It install the vnc passwd through package "
-"manager.The first password is the primary one, the second password can be "
-"used for view-only authentication.It is comfortable with Ubuntu and centos."
+"Remote or local Desktop. It install the vnc passwd through package manager."
+"The first password is the primary one, the second password can be used for "
+"view-only authentication.It is comfortable with Ubuntu and centos."
 msgstr ""
 
 #: ../../source/vncpasswd.rst:50
 msgid ""
 "After key in the command the system can ask the user for input. If the user "
-"input as Y it may install the VNCpassward else it can exit. following screen"
-" shot can visualize it."
+"input as Y it may install the VNCpassward else it can exit. following screen "
+"shot can visualize it."
 msgstr ""
 
 #: ../../source/vncpasswd.rst:138
@@ -101,8 +102,7 @@ msgid "It will install VNCPassward  under cleopatra"
 msgstr ""
 
 #: ../../source/vncpasswd.rst:148
-msgid ""
-"Instead of using VNCpasswd we can use VNCPasswd,vncpasswd,vnc-passward|"
+msgid "Instead of using VNCpasswd we can use VNCPasswd,vncpasswd,vnc-passward|"
 msgstr ""
 
 #: ../../source/vncpasswd.rst:148

@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/apacheconf.rst:2
 msgid "ApacheConf"
@@ -50,8 +51,8 @@ msgstr ""
 
 #: ../../source/apacheconf.rst:46
 msgid ""
-"It is easier to install this particular tool under Cleopatra by simply using"
-" the command given below,"
+"It is easier to install this particular tool under Cleopatra by simply using "
+"the command given below,"
 msgstr ""
 
 #: ../../source/apacheconf.rst:52
@@ -67,8 +68,8 @@ msgid ""
 "It will also throw some commands to specify the non-default values for "
 "LockFile, PidFile, Timeout, KeepAlive, MaxKeepAliveRequest, "
 "KeepAliveTimeout. If the user gives input as Y(Yes) it will automatically "
-"fix the default value. If the user gives input as N(No) then it will enquire"
-" about the values from the user."
+"fix the default value. If the user gives input as N(No) then it will enquire "
+"about the values from the user."
 msgstr ""
 
 #: ../../source/apacheconf.rst:62
@@ -123,8 +124,8 @@ msgstr ""
 
 #: ../../source/apacheconf.rst:125
 msgid ""
-"The module assists the end user in installing and managing the configuration"
-" of Apache."
+"The module assists the end user in installing and managing the configuration "
+"of Apache."
 msgstr ""
 
 #: ../../source/apacheconf.rst:126
@@ -135,6 +136,6 @@ msgstr ""
 
 #: ../../source/apacheconf.rst:127
 msgid ""
-"If it founds the configuration already exists it will overwrite the existing"
-" one."
+"If it founds the configuration already exists it will overwrite the existing "
+"one."
 msgstr ""

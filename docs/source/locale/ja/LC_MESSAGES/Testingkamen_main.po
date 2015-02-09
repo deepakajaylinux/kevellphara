@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/Testingkamen_main.rst:2
 msgid "Testingkamen"
@@ -108,8 +109,8 @@ msgstr ""
 
 #: ../../source/Testingkamen_main.rst:75
 msgid ""
-"If the user wish to install the testingkamen without depending and using the"
-" cleopatra they can use the following command:"
+"If the user wish to install the testingkamen without depending and using the "
+"cleopatra they can use the following command:"
 msgstr ""
 
 #: ../../source/Testingkamen_main.rst:85
@@ -132,8 +133,8 @@ msgstr ""
 
 #: ../../source/Testingkamen_main.rst:102
 msgid ""
-"this command will list all the names of the modules that are available under"
-" Testingkamen. The following screen shot depicts that visually."
+"this command will list all the names of the modules that are available under "
+"Testingkamen. The following screen shot depicts that visually."
 msgstr ""
 
 #: ../../source/Testingkamen_main.rst:139

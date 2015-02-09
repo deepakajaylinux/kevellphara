@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/pharaohtools.rst:3
 msgid "PharaohTools"
@@ -56,8 +57,8 @@ msgstr ""
 #: ../../source/pharaohtools.rst:44
 msgid ""
 "The pharaoh tool module acts as a shorter route that envelops installation "
-"of Dapperstrano, Testingamen, Jrush. If any one particular module is missing"
-" among the three, the specific module alone will be installed which is an "
+"of Dapperstrano, Testingamen, Jrush. If any one particular module is missing "
+"among the three, the specific module alone will be installed which is an "
 "added advantage. The ensure process plays an important role in grabbing "
 "data's regarding the availability of modules."
 msgstr ""
@@ -179,8 +180,8 @@ msgstr ""
 
 #: ../../source/pharaohtools.rst:99
 msgid ""
-"If all the three modules are already existing, then it will show exceptional"
-" message as given in the screenshot below,"
+"If all the three modules are already existing, then it will show exceptional "
+"message as given in the screenshot below,"
 msgstr ""
 
 #: ../../source/pharaohtools.rst:139
@@ -191,8 +192,8 @@ msgstr ""
 msgid ""
 "While installing Dapperstrano, Testingamen, Jrush the following options are "
 "required as input from the user. Let us see about, the additional options "
-"that can be specified by the users if they wish, is represented in a tabular"
-" format as shown below."
+"that can be specified by the users if they wish, is represented in a tabular "
+"format as shown below."
 msgstr ""
 
 #: ../../source/pharaohtools.rst:149
@@ -293,8 +294,8 @@ msgstr ""
 
 #: ../../source/pharaohtools.rst:211
 msgid ""
-"In case of any particular module is missing, the user can proceed to install"
-" that particular module alone."
+"In case of any particular module is missing, the user can proceed to install "
+"that particular module alone."
 msgstr ""
 
 #: ../../source/pharaohtools.rst:212
@@ -306,8 +307,7 @@ msgstr ""
 #: ../../source/pharaohtools.rst:213
 msgid ""
 "If any particular module already exists in the machine, then the "
-"installation tool will throw an exception message as it is already "
-"installed."
+"installation tool will throw an exception message as it is already installed."
 msgstr ""
 
 #: ../../source/pharaohtools.rst:215

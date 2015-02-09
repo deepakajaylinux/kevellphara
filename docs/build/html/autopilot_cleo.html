@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Logging &mdash; KEVELL 0.1 documentation</title>
+    <title>Autopilot &mdash; KEVELL 0.1 documentation</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -30,8 +30,8 @@
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
     <link rel="up" title="Cleopatra" href="cleopatra.html" />
-    <link rel="next" title="Media Tools" href="mediatool.html" />
-    <link rel="prev" title="LigHTTPDServer module" href="lighthttpd.html" />
+    <link rel="next" title="Awstats" href="awstats.html" />
+    <link rel="prev" title="Aptana" href="aptana.html" />
 
 
 <script src="_static/labibi.js"></script>
@@ -86,11 +86,12 @@
             <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Page <b class="caret"></b></a>
   <ul class="dropdown-menu localtoc"><ul>
-<li><a class="reference internal" href="#">Logging</a><ul>
+<li><a class="reference internal" href="#">Autopilot</a><ul>
 <li><a class="reference internal" href="#synopsis">Synopsis</a></li>
 <li><a class="reference internal" href="#help-command">Help command</a></li>
 <li><a class="reference internal" href="#installation">Installation</a></li>
-<li><a class="reference internal" href="#option">Option</a></li>
+<li><a class="reference internal" href="#execute">Execute</a></li>
+<li><a class="reference internal" href="#options">Options</a></li>
 <li><a class="reference internal" href="#benefits">Benefits</a></li>
 </ul>
 </li>
@@ -100,14 +101,14 @@
           
           
             
-  <li><a href="lighthttpd.html"
-         title="previous chapter">&laquo; LigHTTPDServer  module</a></li>
-  <li><a href="mediatool.html"
-         title="next chapter">Media Tools &raquo;</a></li>
+  <li><a href="aptana.html"
+         title="previous chapter">&laquo; Aptana</a></li>
+  <li><a href="awstats.html"
+         title="next chapter">Awstats &raquo;</a></li>
           
           
           <!--  <li>
-  <a href="_sources/logging_cleo.txt"
+  <a href="_sources/autopilot_cleo.txt"
      rel="nofollow">Source</a></li> -->
           
         </ul>
@@ -126,33 +127,37 @@
 
   
   
-  <div class="section" id="logging">
-<h1>Logging<a class="headerlink" href="#logging" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="autopilot">
+<h1>Autopilot<a class="headerlink" href="#autopilot" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="synopsis">
 <h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
-<p>This module logs an information to the control panel and optionally php log.</p>
-<p>The process of using this module to collect data through sensors, analyze the data and save and output the results of the collection and analysis. Logging also implies the controlpanel of the system installs and analyzes the data. Non case sensitivity is a crown for this module. This suits to work with Ubuntu and cent OS.</p>
+<p>AutoPilot  provides user defined execution. It supports to small and medium sized corporate companies ready to experience growth and find new opportunity. Our extensive Managed IT Services provide a wide variety of detailed and thorough solutions for the user business, including network, cloud, software, data backup, and IT services.</p>
+<p>We take the hassle out of user technology. In today&#8217;s competitive business environment the user don&#8217;t have time for computer problems? We make IT problems go away, for good! The user business functions best when the user don&#8217;t have to worry about the Devops technology solutions that drive it. We want to help the user put  IT on AutoPilot so user can focus on the business user want to build. It is comfortable with Ubntu and cent os.</p>
 </div>
 <div class="section" id="help-command">
 <h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
-<p>This command can function about the objectives and commands available in Logging  under Cleopatra module. It also explains the command to install logging module. Before installation, the user can read this help command explains its function.</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra logging <span class="nb">help</span>
+<p>The help command leads the users regarding the purpose and as well as about the options that are included in the autopilot modules. The help command lists out the alternative parameters of cleopatra autopilot module. It also describes the syntax for detecting the user’s machine. The help command for autopilot  shown below.</p>
+<div class="highlight-bash"><div class="highlight"><pre>cleopatra autopilot <span class="nb">help</span>
 </pre></div>
 </div>
-<p>The following screenshots can visualize the help command</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra Logging <span class="nb">help</span>
-
+<p>The following screenshot shows the functionality of autopilot.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:~# cleopatra autopilot <span class="nb">help</span>
 ******************************
 
 
- Use this to log a message to the Console, and optionally also the php error log.
+ This <span class="nb">command </span>is part of a default Module and provides you with a method by
+ which you can perform user defined executions of any Cleopatra Modules, in
+ any order, and with your own predefined settings.
 
- Logging, logging
+ Autopilot, autopilot, auto
 
-       - log
-       Logs a message to the console and optionally the php log
-       example: cleopatra logging log --log-message<span class="o">=</span><span class="s2">&quot;Here is something logging to the console and error log&quot;</span>
-       example: cleopatra logging log --php-log --log-message<span class="o">=</span><span class="s2">&quot;Here is something logging to the console and error log&quot;</span>
+   - install, execute, x
+   execute all of the defined modules in your Autopilot file
+   example: cleopatra autopilot x --autopilot-file<span class="o">=</span>*path-to-file*
+
+   - <span class="nb">test</span>
+<span class="nb">   </span>execute all of the steps defined as tests in your Autopilot file
+   example: cleopatra autopilot <span class="nb">test</span> --autopilot-file<span class="o">=</span>*path-to-file*
 
 ------------------------------
 End Help
@@ -162,65 +167,48 @@ End Help
 </div>
 <div class="section" id="installation">
 <h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
-<p>These installation procedures are for control php log. This section provides information about compatibility and requirements, basic instructions on how to install and configure cleopatra to more detailed information. This command can function about the objectives and commands available under Cleopatra logging module. It also explains the command to install logging module. Before installation, the user can read this help command explains its function.</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra logging  log
+<p>Autopilot act as a default module and also provides user defined executions. There are two options are available. They are,</p>
+<ul class="simple">
+<li>Install</li>
+<li>Execute</li>
+</ul>
+<div class="highlight-bash"><div class="highlight"><pre>cleopatra autopilot install
 </pre></div>
 </div>
-<p>The following screenshots can visualize the help command</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra logging log
-
-Install Logging? <span class="o">(</span>Y/N<span class="o">)</span>
-Y
-*******************************
-*        Pharaoh Tools        *
-*           Logging!          *
-*******************************
-Enter Log Message
-Good Morning
-<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Good Morning
-... All <span class="k">done</span>!
-*******************************
-Thanks <span class="k">for </span>installing , visit www.pharaohtools.com <span class="k">for </span>more
-******************************
-
-
-Single App Installer:
---------------------------------------------
-Logging: Success
-------------------------------
-Installer Finished
-******************************
-</pre></div>
+<p>after input as the above said command it starts installation. The following snap shots guides the user about autopilot installation.</p>
 </div>
+<div class="section" id="execute">
+<h2>Execute<a class="headerlink" href="#execute" title="Permalink to this headline">¶</a></h2>
+<p>This execute option is used to execute all of the defined modules in autopilot. The following screen shot shows its function.</p>
 </div>
-<div class="section" id="option">
-<h2>Option<a class="headerlink" href="#option" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="options">
+<h2>Options<a class="headerlink" href="#options" title="Permalink to this headline">¶</a></h2>
 <table border="1" class="table-bordered docutils">
 <colgroup>
 <col width="23%" />
-<col width="25%" />
-<col width="15%" />
-<col width="37%" />
+<col width="31%" />
+<col width="12%" />
+<col width="34%" />
 </colgroup>
 <thead valign="bottom">
 <tr class="row-odd"><th class="head">Parameters</th>
-<th class="head">Alternative Parameters</th>
-<th class="head">Options</th>
+<th class="head">Alternate parameter</th>
+<th class="head">Option</th>
 <th class="head">Comments</th>
 </tr>
 </thead>
 <tbody valign="top">
-<tr class="row-even"><td>cleopatra logging Install</td>
-<td>We can use Logging, logging</td>
+<tr class="row-even"><td>Install autopilot?(Y/N)</td>
+<td>Instead of using autopilot the user
+can use Autopilot, autopilot,auto</td>
 <td>Y</td>
-<td>System starts log process under
-cleopatra</td>
+<td>Autopilot can be installed under Cleopatra.</td>
 </tr>
-<tr class="row-odd"><td>cleopatra logging Install</td>
-<td>We can use Logging, logging</td>
+<tr class="row-odd"><td>Install autopilot?(Y/N)</td>
+<td>Instead of using autopilot the user
+can use Autopilot, autopilot,auto|</td>
 <td>N</td>
-<td>System stops log process under
-cleopatra|</td>
+<td>It stops the installation process</td>
 </tr>
 </tbody>
 </table>
@@ -228,12 +216,13 @@ cleopatra|</td>
 <div class="section" id="benefits">
 <h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li>Real-time Data Visualization</li>
-<li>Non case sensitivity</li>
-<li>User-defined Functionality</li>
-<li>Terabytes of Data Storage</li>
-<li>Network Connectivity</li>
-<li>Well to do in Ubuntu and cent OS</li>
+<li>Increased operational efficiency</li>
+<li>Reduce and control operating costs</li>
+<li>Cost-effective access to Enterprise-level Support</li>
+<li>Experience Minimized Downtime</li>
+<li>Ability to focus on running the user defined execution</li>
+<li>Non case sensitivity.</li>
+<li>Complacent work with Ubuntu and cent OS.</li>
 </ul>
 </div>
 </div>
@@ -291,8 +280,8 @@ cleopatra|</td>
 
         <li>
           Go to
-        <a href="https://github.com/deepakajaylinux/kevellphara/blob/master/logging_cleo.rst">
-          Logging
+        <a href="https://github.com/deepakajaylinux/kevellphara/blob/master/autopilot_cleo.rst">
+          Autopilot
         </a> on GitHub.
       </li>
 

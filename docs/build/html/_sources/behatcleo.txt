@@ -11,7 +11,7 @@ Help Command
 ---------------
 
 
-The help command guides the user get aware of the uses, and also the options and actions that can be performed.
+The help command guides the user get aware of the uses, and also the options and actions that can be performed. It lists outs the alternative parameters that can be used in declaration. It specifies the command for installing the latest version of behat.
 
 The coding to make use of help command under behat, is given as follows:
 
@@ -44,21 +44,54 @@ The screen shot as given below explains you graphically about the usage of the h
 Installation
 --------------
 
+If the user needs to install the latest version of behat, they can achieve installation, by using the following command,
+
+.. code-block:: bash
+
+	cleopatra behat install
+
+After entering the command above, the following process are involved in installation as shown in the tabular format,
+
 
 .. cssclass:: table-bordered
 
- +-----------------------------------------------+------------------------+------------------------------------------------------+
- | Parameters					 | Required		  | Comments					         |
- +===============================================+========================+======================================================+
- |cleopatra behat Install			 | Yes			  | This command is used for installing the behat to     |
- | 						 |			  | your machine.					 |
- +-----------------------------------------------+------------------------+------------------------------------------------------+
- |Install behat (Y/N)				 |Y(Yes)		  | If the user gives input as Y, then behat will gets   |
- |						 |			  | installed.						 |
- +-----------------------------------------------+------------------------+------------------------------------------------------+
- |Install behat (Y/N) 				 |N(No)			  | If the user gives input as N, then the process gets  |
- |						 |			  | quits from installation.|				 |
- +-----------------------------------------------+------------------------+------------------------------------------------------+
+
+
+ +---------------------------+-----------------------------------------+--------------+--------------------------------------------+
+ | Parameters		     | Alternative Parameters		       | Required     | Comments				   |
+ +===========================+=========================================+==============+============================================+
+ |Install Behat? (Y/N)	     | Instead of behat, we can use Behat also | Yes	      | If the user gives input as yes, it will    |
+ |			     | 					       |	      |	proceed installation.			   |
+ +---------------------------+-----------------------------------------+--------------+--------------------------------------------+
+ |Install Behat? (Y/N)	     | Instead of behat, we can use Behat also | No	      | If the user gives input as no, it will     |
+ |			     |					       | 	      | quit the installation process.|		   |
+ +---------------------------+-----------------------------------------+--------------+--------------------------------------------+
+
+If the user proceeds the installation by inputting as Y, the following steps are involved in installing behat,
+
+.. cssclass:: table-bordered
+
+ +----------------------------------+-----------------------------------------+--------------+---------------------------------------------+
+ | Parameters			    | Path				      | Option	     | Comment					   |
+ +==================================+=========================================+==============+=============================================+
+ |Program data directory (dafault)  | "/opt/behat(corresponding module)"      | Yes	     | If the user to proceed installation with    |
+ |				    |					      |		     | the default program data directory they     |
+ |				    |					      |		     | can input as Yes				   |
+ +----------------------------------+-----------------------------------------+--------------+---------------------------------------------+
+ |Program data directory	    | User specific			      | No (End      | If the user wish to proceed with their      |
+ |				    | 					      | Slash)       | own program data directory, they can input  |
+ |				    |					      |		     | as N, and in hand specify they own location |
+ +----------------------------------+-----------------------------------------+--------------+---------------------------------------------+
+ |Program executor directory        | "/usr/bin"			      | Yes	     | If the user to proceed installation with    |
+ |(Default)			    | 					      | 	     | the default program executor directory they |
+ |				    |					      |		     | can input as yes				   |
+ +----------------------------------+-----------------------------------------+--------------+---------------------------------------------+
+ |Program executor directory        | User specific                           | No (End      | If the user wish to proceed installation    |
+ |                                  |                                         | slash)       | with thir own program executor directory,   |
+ |                                  |                                         |              | they can input as N, and in hand specify    |
+ |				    |		                              |		     | they own location|			   |
+ +----------------------------------+-----------------------------------------+--------------+---------------------------------------------+
+ 
 
 
 
@@ -118,3 +151,5 @@ Benefits to the users
 * No need to search the most-recent version, as the updated version is automatically available to the users while executing the installation pr  ocess.
 * Using the features of behat the users can frame and specify the behavior of driven development.
 * By the aid of behavior driven development, the users can ensure the qualities of their own script.
+* It is well-to-do in Cent Os and as well as in ubuntu.
+* The parameters used in declaration is not case sensitive, which is an added advantage.

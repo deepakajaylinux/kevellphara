@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/dbinstall.rst:3
 msgid "DBInstall"
@@ -23,8 +24,8 @@ msgstr ""
 msgid ""
 "Dbinstall module helps in handling database installation functions. This "
 "command used to install a new database. The installation requires sudo "
-"access, or it has to be executed as root. This includes execution of the rpm"
-" command, or the miminstall command of the tar package, and also when using "
+"access, or it has to be executed as root. This includes execution of the rpm "
+"command, or the miminstall command of the tar package, and also when using "
 "the dbinstall command that creates an initial database."
 msgstr ""
 
@@ -45,11 +46,11 @@ msgstr ""
 
 #: ../../source/dbinstall.rst:15
 msgid ""
-"During the dbinstall session, database name, database location, and password"
-" for the database administrator (i.e. SYSADM) should be specified. There "
-"will also be options for installing example environments, etc. When the "
-"session is completed, a fully operational database is available - enabled "
-"for client/server access over TCP and automatic start at reboot."
+"During the dbinstall session, database name, database location, and password "
+"for the database administrator (i.e. SYSADM) should be specified. There will "
+"also be options for installing example environments, etc. When the session "
+"is completed, a fully operational database is available - enabled for client/"
+"server access over TCP and automatic start at reboot."
 msgstr ""
 
 #: ../../source/dbinstall.rst:18
@@ -58,10 +59,10 @@ msgstr ""
 
 #: ../../source/dbinstall.rst:20
 msgid ""
-"This command helps to determine the usage of DBinstall module. The user will"
-" come to know about the different ways/format to execute this module. This "
-"command guides the end user to know the purpose of this command. Below given"
-" are the command and the screen shot of the same."
+"This command helps to determine the usage of DBinstall module. The user will "
+"come to know about the different ways/format to execute this module. This "
+"command guides the end user to know the purpose of this command. Below given "
+"are the command and the screen shot of the same."
 msgstr ""
 
 #: ../../source/dbinstall.rst:26
@@ -80,8 +81,7 @@ msgstr ""
 
 #: ../../source/dbinstall.rst:89 ../../source/dbinstall.rst:150
 #: ../../source/dbinstall.rst:193
-msgid ""
-"The system ask for the Mysql host, Press Enter to use the default host."
+msgid "The system ask for the Mysql host, Press Enter to use the default host."
 msgstr ""
 
 #: ../../source/dbinstall.rst:96 ../../source/dbinstall.rst:157

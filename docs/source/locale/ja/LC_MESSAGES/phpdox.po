@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/phpdox.rst:3
 msgid "PHPDox"
@@ -23,8 +24,8 @@ msgstr ""
 msgid ""
 "This module facilitates the users in installing the Php Dox with the latest "
 "version. phpdox is a documentation generator for generating API "
-"documentation in HTML format, for instance, from PHP source code. Let us see"
-" how this module, assists in installing the Php Dox."
+"documentation in HTML format, for instance, from PHP source code. Let us see "
+"how this module, assists in installing the Php Dox."
 msgstr ""
 
 #: ../../source/phpdox.rst:11
@@ -33,11 +34,11 @@ msgstr ""
 
 #: ../../source/phpdox.rst:13
 msgid ""
-"The help command guides the users regarding the purpose and as well as about"
-" the options that are included in the Phpdox module. It lists out the "
+"The help command guides the users regarding the purpose and as well as about "
+"the options that are included in the Phpdox module. It lists out the "
 "alternative parameters of Phpdox module. It also describes the syntax for "
-"installing the Phpdox module. The help command for Phpdox module is shown as"
-" below."
+"installing the Phpdox module. The help command for Phpdox module is shown as "
+"below."
 msgstr ""
 
 #: ../../source/phpdox.rst:19
@@ -105,8 +106,7 @@ msgid "N(No)"
 msgstr ""
 
 #: ../../source/phpdox.rst:60
-msgid ""
-"If the user wish to quit the installation process they can input as N.|"
+msgid "If the user wish to quit the installation process they can input as N.|"
 msgstr ""
 
 #: ../../source/phpdox.rst:67
@@ -121,8 +121,8 @@ msgstr ""
 
 #: ../../source/phpdox.rst:141
 msgid ""
-"The parameters used in help and installation are not case sensitive which is"
-" an added advantage while compared to others."
+"The parameters used in help and installation are not case sensitive which is "
+"an added advantage while compared to others."
 msgstr ""
 
 #: ../../source/phpdox.rst:142

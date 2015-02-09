@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/chmod.rst:3
 msgid "Chmode"
@@ -23,18 +24,18 @@ msgstr ""
 msgid ""
 "Files and directories belong to both an owner and a group. A group usually "
 "consists of a collection of users, all belonging to the same group. The "
-"first set of three is the read, write, and execute permissions for the owner"
-" of the file."
+"first set of three is the read, write, and execute permissions for the owner "
+"of the file."
 msgstr ""
 
 #: ../../source/chmod.rst:11
 msgid ""
-"chmod is used to change the permissions of files or directories. On Linux "
-"and other Unix-like operating systems, there is a set of rules for each file"
-" which defines who can access that file, and how they can access it. These "
-"rules are called file permissions or file modes. The command name chmod "
-"stands for \"change mode\", and it is used to define the way a file can be "
-"accessed."
+"chmod is used to change the permissions of files or directories. "
+"On Linux and other Unix-like operating systems, there is a set of rules for "
+"each file which defines who can access that file, and how they can access "
+"it. These rules are called file permissions or file modes. The command "
+"name chmod stands for \"change mode\", and it is used to define the way a "
+"file can be accessed."
 msgstr ""
 
 #: ../../source/chmod.rst:13
@@ -74,8 +75,7 @@ msgid ""
 msgstr ""
 
 #: ../../source/chmod.rst:27
-msgid ""
-"For each of the three classes of user, there are three types of access."
+msgid "For each of the three classes of user, there are three types of access."
 msgstr ""
 
 #: ../../source/chmod.rst:33
@@ -138,20 +138,20 @@ msgstr ""
 
 #: ../../source/chmod.rst:82
 msgid ""
-"Chmod path is the command which change the access permissions to file system"
-" objects (files and directories)."
+"Chmod path is the command which change the access permissions to file system "
+"objects (files and directories)."
 msgstr ""
 
 #: ../../source/chmod.rst:84
 msgid ""
-"The number 1, 2 and 4 represents execute , write and read. These numbers are"
-" used because any combination of these three numbers will be unique."
+"The number 1, 2 and 4 represents execute , write and read. These numbers are "
+"used because any combination of these three numbers will be unique."
 msgstr ""
 
 #: ../../source/chmod.rst:87
 msgid ""
-"When the user needs to change the mode of file, the below given command will"
-" execute the process."
+"When the user needs to change the mode of file, the below given command will "
+"execute the process."
 msgstr ""
 
 #: ../../source/chmod.rst:96
@@ -159,8 +159,7 @@ msgid "Alternative Parameter"
 msgstr ""
 
 #: ../../source/chmod.rst:98
-msgid ""
-"There are two alternative parameters which can be used in command line."
+msgid "There are two alternative parameters which can be used in command line."
 msgstr ""
 
 #: ../../source/chmod.rst:100
@@ -181,6 +180,6 @@ msgid ""
 "permissions specified by permissions. Permissions defines the permissions "
 "for the owner of the file (the \"user\"), members of the group who owns the "
 "file (the \"group\"), and anyone else (\"others\"). There are two ways to "
-"represent these permissions: with symbols (alphanumeric characters), or with"
-" octal numbers (the digits 0 through 7)."
+"represent these permissions: with symbols (alphanumeric characters), or with "
+"octal numbers (the digits 0 through 7)."
 msgstr ""

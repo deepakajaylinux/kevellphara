@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/phpunit_testingkamen.rst:3
 msgid "PhpUnit"
@@ -40,10 +41,10 @@ msgstr ""
 #: ../../source/phpunit_testingkamen.rst:15
 msgid ""
 "The help command leads the users regarding the purpose and as well as about "
-"the options that are included in the Phpunit modules. The help command lists"
-" out the alternative parameters of Phpunit under Testingkamen module. It "
-"also describes the syntax for initializing the user’s machine. The help "
-"command for phpunit is shown below."
+"the options that are included in the Phpunit modules. The help command lists "
+"out the alternative parameters of Phpunit under Testingkamen module. It also "
+"describes the syntax for initializing the user’s machine. The help command "
+"for phpunit is shown below."
 msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:21
@@ -73,8 +74,8 @@ msgstr ""
 
 #: ../../source/phpunit_testingkamen.rst:59
 msgid ""
-"It initializes the phptest suite of this project. This can instruct the user"
-" to script the common use to set up autoloading for the classes that are to "
+"It initializes the phptest suite of this project. This can instruct the user "
+"to script the common use to set up autoloading for the classes that are to "
 "be tested. The command for init is as follows,"
 msgstr ""
 

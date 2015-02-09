@@ -21,7 +21,7 @@ The syntax for declaring the help command is not case sensitive which is an adde
 
 .. code-block:: bash
 
- kevells@corp:/# cleopatra JRush help
+ kevell@corp:/# cleopatra JRush help
  ******************************
 
 
@@ -49,12 +49,17 @@ The command used for installing the JRush to the users machine is shown below.
 
 		cleopatra JRush install
 
+
+
+Options
+---------
+
 After inputting the command above, the following operations occurs as shown in the tabular format.
 
 .. cssclass:: table-bordered
 
  +-----------------------------+----------------------------------+----------------+---------------------------------------------+
- |	Parameters  	       | Alternative Parameter            |	Options	   | 		Comments		         |
+ | Parameters  	               | Alternative Parameter            | Options	   | 	Comments		         	 |
  +=============================+==================================+================+=============================================+
  |Install JRush - Joomla       |Instead of JRush we can use:	  |Y(Yes)	   |If the user wish to proceed the installation |
  |Command Line ? (Y/N) 	       |jrush, Jrush, jRush.		  |		   |process they can input as Y.		 |

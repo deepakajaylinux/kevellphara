@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/xvfb.rst:3
 msgid "Xvfb"
@@ -23,11 +24,11 @@ msgstr ""
 msgid ""
 "This module facilitates in installing the xvfb, which is known as popular "
 "virtual machine solution. The module provides a solution for working in an "
-"virtual machine.  xvfb known as X virtual frame buffer is a display server "
-"implementing the X11 display server protocol. In contrast to other display "
-"servers Xvfb performs all graphical operations in memory without showing any"
-" screen output.  Let us see, how this module assists in installing the xvfb "
-"via apt-get."
+"virtual machine.  xvfb known as X virtual frame buffer is a display "
+"server implementing the X11 display server protocol. In contrast to other "
+"display servers Xvfb performs all graphical operations in memory without "
+"showing any screen output.  Let us see, how this module assists in "
+"installing the xvfb via apt-get."
 msgstr ""
 
 #: ../../source/xvfb.rst:11
@@ -36,11 +37,10 @@ msgstr ""
 
 #: ../../source/xvfb.rst:13
 msgid ""
-"The help command guides the users regarding the purpose and as well as about"
-" the options that are included in the xvfb module. The help command lists "
-"out the alternative parameters of xvfb module. It also describes the syntax "
-"for installing xvfb module The help command for xvfb module is shown as "
-"below."
+"The help command guides the users regarding the purpose and as well as about "
+"the options that are included in the xvfb module. The help command lists out "
+"the alternative parameters of xvfb module. It also describes the syntax for "
+"installing xvfb module The help command for xvfb module is shown as below."
 msgstr ""
 
 #: ../../source/xvfb.rst:19
@@ -56,8 +56,7 @@ msgstr ""
 
 #: ../../source/xvfb.rst:44
 msgid ""
-"The command used for installing the xvfb to the users machine is shown "
-"below."
+"The command used for installing the xvfb to the users machine is shown below."
 msgstr ""
 
 #: ../../source/xvfb.rst:50
@@ -104,8 +103,7 @@ msgid "N(No)"
 msgstr ""
 
 #: ../../source/xvfb.rst:60
-msgid ""
-"If the user wish to quit the installation process they can input as N.|"
+msgid "If the user wish to quit the installation process they can input as N.|"
 msgstr ""
 
 #: ../../source/xvfb.rst:64
@@ -143,9 +141,9 @@ msgstr ""
 
 #: ../../source/xvfb.rst:74
 msgid ""
-"If the xvfb module is already existing in the users machine, it will show an"
-" message as the Package xvfb from the packager Apt is already installed. The"
-" screen shot as follows is an good example for those type of messages."
+"If the xvfb module is already existing in the users machine, it will show an "
+"message as the Package xvfb from the packager Apt is already installed. The "
+"screen shot as follows is an good example for those type of messages."
 msgstr ""
 
 #: ../../source/xvfb.rst:121
@@ -194,6 +192,6 @@ msgstr ""
 
 #: ../../source/xvfb.rst:132
 msgid ""
-"Running programs that require an X server to be active even when they do not"
-" use it. (e.g. Clover html reports)"
+"Running programs that require an X server to be active even when they do not "
+"use it. (e.g. Clover html reports)"
 msgstr ""

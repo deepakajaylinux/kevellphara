@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/chown.rst:3 ../../source/chown.rst:79
 #: ../../source/chown.rst:84 ../../source/chown.rst:86
@@ -23,8 +24,8 @@ msgstr ""
 #: ../../source/chown.rst:8
 msgid ""
 "This module enables to change owner’s permission. It can change the "
-"permission on individual file Or directory. Before that you must be aware of"
-" the default permission assigned to your files and directories at the time "
+"permission on individual file Or directory. Before that you must be aware of "
+"the default permission assigned to your files and directories at the time "
 "you create it."
 msgstr ""
 
@@ -52,8 +53,8 @@ msgstr ""
 
 #: ../../source/chown.rst:42
 msgid ""
-"It is an excellent process for this module under Cleopatra by slightly using"
-" the command given below,"
+"It is an excellent process for this module under Cleopatra by slightly using "
+"the command given below,"
 msgstr ""
 
 #: ../../source/chown.rst:48

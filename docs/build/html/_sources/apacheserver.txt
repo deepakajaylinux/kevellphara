@@ -12,7 +12,13 @@ Help command
 
 The help command describes about the purpose and the commands available under this modules. It also explains the command to install the particular module.
 
+.. code-block:: bash
+
+ 		cleopatra ApacheServer help
+
+
 The screen shot as shown below, visually represent the usage of the help command under this module.
+
 
 .. code-block:: bash
 
@@ -89,14 +95,15 @@ Options
 
 .. cssclass:: table-bordered
 
- +--------------------------+------------------------+-------------------------------------------------------------+
- | Parameter		    | Required	             | Comments							   |
- +==========================+========================+=============================================================+
- |Install 		    |Yes		     |If the user gives the input as Y it will install the 	   |
- |			    |			     |apache server						   |
- +--------------------------+------------------------+-------------------------------------------------------------+
- |Install		    |No			     |If the user gives input as N, it will get exit.|		   |
- +--------------------------+------------------------+-------------------------------------------------------------+
+ +-----------------------------+-----------------------------------------+------------+--------------------------------------+
+ | Parameters		       | Alternative Parameters			 | Required   | Comments			     |
+ +=============================+========================+================+============+======================================+
+ |Install Apache Server? (Y/N) | Instead of ApacheServer, we can use     | Yes	      | If the user gives input as yes, it   |
+ |			       | apache-server, apacheserver also.       |  	      |	will proceed installation	     |
+ +-----------------------------+-----------------------------------------+------------+--------------------------------------+
+ |Install Apache Server? (Y/N) | Instead of ApacheServer, we can use     | No         | If the user gives input as no, it    |
+ |                             | apache-server, apacheserver also.       |            | will quit the installation process|  |
+ +-----------------------------+-----------------------------------------+------------+--------------------------------------+
 
 
 
@@ -109,4 +116,8 @@ While the tool is processing it will automatically grabs the most-recent updated
 Benefits to the end users
 ---------------------------
 
-This modules helps the users in installing the apache server. It simplifies the work of the users while installing the server as its automatically check the current version of apache server.
+* This modules helps the users in installing the apache server. It simplifies the work of the users while installing the server as its 
+  automatically check the current version of apache server.
+* It is well-to-do in Cent OS and as well as in Ubuntu.
+* The parameters used in declaration is not case sensitive, which is an added advantage.
+

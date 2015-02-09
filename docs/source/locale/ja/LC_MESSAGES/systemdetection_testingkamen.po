@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/systemdetection_testingkamen.rst:3
 #: ../../source/systemdetection_testingkamen.rst:93
@@ -119,8 +120,7 @@ msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:101
 msgid ""
-"The users can configure the application settings using this system "
-"detection."
+"The users can configure the application settings using this system detection."
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:102
@@ -136,14 +136,14 @@ msgstr ""
 #: ../../source/systemdetection_testingkamen.rst:104
 msgid ""
 "Protection and security is possible. Preventing harm to the system and to "
-"resources, through internal processes or malicious outsiders. Authntication,"
-" ownership, and restricted access are obvious parts of this system."
+"resources, through internal processes or malicious outsiders. Authntication, "
+"ownership, and restricted access are obvious parts of this system."
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:106
 msgid ""
-"System administrators generally determine which interface a user starts with"
-" when they first log in."
+"System administrators generally determine which interface a user starts with "
+"when they first log in."
 msgstr ""
 
 #: ../../source/systemdetection_testingkamen.rst:107

@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/newrelic.rst:3
 msgid "Newrelic"
@@ -27,9 +28,9 @@ msgid ""
 "other things, expose problems, in application code, infrastructure or "
 "configuration, earlier because the software isn’t “thrown over the wall” to "
 "Operations at the end of coding. Automated deployments and standardized "
-"production environments, key aspects of DevOps, make deployments predictable"
-" and free people from routine repetitive tasks to go do more creative "
-"things. The newrelic is comfortable with Ubuntu and cent OS."
+"production environments, key aspects of DevOps, make deployments predictable "
+"and free people from routine repetitive tasks to go do more creative things. "
+"The newrelic is comfortable with Ubuntu and cent OS."
 msgstr ""
 
 #: ../../source/newrelic.rst:11
@@ -41,8 +42,8 @@ msgid ""
 "The help command leads the users regarding the purpose and as well as about "
 "the options that are included in the newrelic modules. The help command "
 "lists out the alternative parameters of newrelic under cleopatra module. It "
-"also describes the syntax for detecting the user’s machine. The help command"
-" for newrelic is shown below."
+"also describes the syntax for detecting the user’s machine. The help command "
+"for newrelic is shown below."
 msgstr ""
 
 #: ../../source/newrelic.rst:19

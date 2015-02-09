@@ -109,15 +109,15 @@ After inputting the command above the following process occurs:
   +---------------------------------+-------------------------------+---------------+----------------------------------------------------+
   |   Paramaters 		    | Alternative Parameter         | Options	    |	comments			                 |
   +=================================+===============================+===============+====================================================+
-  |Run Commands in Parallel? (Y/N)  |In Spite of parallax, the      |		    |If the user wish to proceed the installation process|
-  |				    |following alternatives can also|  Y(yes)       |they can input as Y.			    	 |
-  |				    |be used: 	                    |		    |							 |
+  |Run Commands in Parallel? (Y/N)  |In Spite of parallax, the      |		    |If the user wish to proceed the installation        |
+  |				    |following alternatives can     |  Y(yes)       |process they can input as Y.			 |
+  |				    |also be used:                  |		    |							 |
   |				    |parallax, Parallax             |		    | 							 |
   +---------------------------------+-------------------------------+---------------+----------------------------------------------------+
   |Run Commands in Parallel? (Y/N)  |In Spite of parallax, the      |		    |If the user wish to Quit the installation process   |
-  |				    |following alternatives can also|  N(No)        |they can input as N.			    	 |
-  |				    |be used: 	                    |		    |							 |
-  |				    |parallax, Parallax             |		    || 							 |
+  |				    |following alternatives can     |  N(No)        |they can input as N.			    	 |
+  |				    |also be used: 	            |		    |							 |
+  |				    |parallax, Parallax|            |		    | 							 |
   +---------------------------------+-------------------------------+---------------+----------------------------------------------------+
 
 If the user wish to proceed installation, the user can specify the multiple tasks as per their requirements. After completion of specifying the multiple tasks, if the users wish to stop they can stop by simply entering none.

@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/logging_dapper.rst:3
 msgid "Logging"
@@ -21,8 +22,8 @@ msgstr ""
 
 #: ../../source/logging_dapper.rst:9
 msgid ""
-"This logging module is used for the purpose of log a message to the console,"
-" and is optionally used for php error log. Let us see how to install and to "
+"This logging module is used for the purpose of log a message to the console, "
+"and is optionally used for php error log. Let us see how to install and to "
 "use the log for declaring message and in php error log."
 msgstr ""
 
@@ -33,9 +34,9 @@ msgstr ""
 #: ../../source/logging_dapper.rst:15
 msgid ""
 "The help command acts as a brief user manual that leads the user about its "
-"usage and methodologies. It specifies the alternative parameters that can be"
-" used in declaration, and a syntax example to define a log. The command used"
-" for declaring the help option is given below:"
+"usage and methodologies. It specifies the alternative parameters that can be "
+"used in declaration, and a syntax example to define a log. The command used "
+"for declaring the help option is given below:"
 msgstr ""
 
 #: ../../source/logging_dapper.rst:21
@@ -98,14 +99,13 @@ msgid "N(No)"
 msgstr ""
 
 #: ../../source/logging_dapper.rst:64
-msgid ""
-"If the user wish to quit the installation process they can input as N.|"
+msgid "If the user wish to quit the installation process they can input as N.|"
 msgstr ""
 
 #: ../../source/logging_dapper.rst:70
 msgid ""
-"If the user proceeds the installation process, the process request the users"
-" to specify the log message by asking"
+"If the user proceeds the installation process, the process request the users "
+"to specify the log message by asking"
 msgstr ""
 
 #: ../../source/logging_dapper.rst:79
@@ -138,8 +138,8 @@ msgstr ""
 
 #: ../../source/logging_dapper.rst:131
 msgid ""
-"the user can add any text to the portion of log message depending upon their"
-" requirements."
+"the user can add any text to the portion of log message depending upon their "
+"requirements."
 msgstr ""
 
 #: ../../source/logging_dapper.rst:134

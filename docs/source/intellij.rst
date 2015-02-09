@@ -6,7 +6,9 @@ IntelliJ
 Synopsis
 ------------
 
-This module expedite the installation of IntelliJ which is an Jet Brains IDE with a latest version. The IntelliJ Platform is a platform for building smart, language-aware IDEs with a comprehensive set of components, that includes virtual file system, UI framework, text editor, lexing, parsing, abstract syntax trees and other language-specific infrastructure, frameworks for implementing navigation, code completion, inspections, intentions, refactorings, version control integration, debugger framework, graphical unit test runner. The IntelliJ Platform is open source, and the code is covered by the Apache 2.0 license. This means that you can build both open source and commercial products on top of the platform without paying any royalties to JetBrains. Let us see about the functionalities of IntelliJ under this module.
+This module expedite the installation of IntelliJ which is an Jet Brains IDE with a latest version. The IntelliJ Platform is a platform for building smart, language-aware IDEs with a comprehensive set of components, that includes virtual file system, UI framework, text editor, lexing, parsing, abstract syntax trees and other language-specific infrastructure, frameworks for implementing navigation, code completion, inspections, intentions, refactorings, version control integration, debugger framework, graphical unit test runner. 
+
+The IntelliJ Platform source code is covered by the Apache 2.0 license. This means that you can build both open source and commercial products on top of the platform without paying any royalties to JetBrains. Let us see about the functionalities of IntelliJ under this module.
 
 Help Command
 -----------------
@@ -109,6 +111,8 @@ Instead of IntelliJ we can use, intellij
 
 Benefits
 ------------
+
+
 * This module facilitates the user in installing IntelliJ with the latest version.
 * The parameters used in declaring the help and installations are not case sensitive, which is added advantage while compared to others.
 * It is well-to-do in both cent OS and as well as in ubuntu.

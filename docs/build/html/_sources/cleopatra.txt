@@ -554,6 +554,7 @@ Playing with Cleopatra Modules
    apachereverseproxy
    apacheserver
    aptana
+   autopilot_cleo
    awstats
    behatcleo
    cassandra

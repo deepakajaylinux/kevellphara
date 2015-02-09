@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/hostname.rst:3
 msgid "Host name"
@@ -50,10 +51,10 @@ msgstr ""
 
 #: ../../source/hostname.rst:24
 msgid ""
-"Hostnames are typically used in an administrative capacity and may appear in"
-" computer browser lists, active directory lists, IP address to hostname "
-"resolutions, email headers, etc. When the user want to change the host name,"
-" can use the following command."
+"Hostnames are typically used in an administrative capacity and may appear in "
+"computer browser lists, active directory lists, IP address to hostname "
+"resolutions, email headers, etc. When the user want to change the host name, "
+"can use the following command."
 msgstr ""
 
 #: ../../source/hostname.rst:30
@@ -120,8 +121,8 @@ msgstr ""
 
 #: ../../source/hostname.rst:62
 msgid ""
-"Hostnames may be simple names consisting of a single word or phrase, or they"
-" may be structured."
+"Hostnames may be simple names consisting of a single word or phrase, or they "
+"may be structured."
 msgstr ""
 
 #: ../../source/hostname.rst:63

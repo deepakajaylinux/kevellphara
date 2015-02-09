@@ -102,15 +102,15 @@ Options
  +-----------------------------+------------------------------------------+----------+--------------------------------------+
  |	Parameters  	       | Alternative Parameter                    | Options  | 		Comments	            |
  +=============================+==========================================+==========+======================================+
- |Cleopatra Phake Install      |Either of the two alternative		  |Y         |Once the user provides the option,    |
+ |cleopatra Phake Install      |Either of the two alternative		  |Y         |Once the user provides the option,    |
  |		 	       |parameter can be used in command- Phake,  | 	     |System starts installation process    |
  |                             |phake				 	  |          |				            |
- |                             |eg: Cleopatra  phake Install		  |          |				            |
+ |                             |eg: cleopatra  phake Install		  |          |				            |
  +-----------------------------+------------------------------------------+----------+--------------------------------------+
- |Cleopatra Phake Install      |Either of the two alternative		  |N         |Once the user provides the option,    |
+ |cleopatra Phake Install      |Either of the two alternative		  |N         |Once the user provides the option,    |
  |		 	       |parameter can be used in command- Phake,  | 	     |System stops installation process     |
  |                             |phake					  |          |				            |
- |                             |eg: Cleopatra phake Install|	  	  |    	     |				            |
+ |                             |eg: cleopatra phake Install|	  	  |    	     |				            |
  +-----------------------------+------------------------------------------+----------+--------------------------------------+
 
 
@@ -121,7 +121,7 @@ Installs the latest version of Phake, only if a version is not available. The be
 
 .. code-block:: bash
          
-	        Cleapatra Phake ensure
+	        cleopatra Phake ensure
 
 
 
@@ -140,4 +140,5 @@ Then the system ask for executing directory name, define your path followed by '
 Benefits
 --------------
 
-Phake is a great mocking library and can be easily integrated into PHPUnit. Its new approach to prototype mocks and stubs and the separation between stubbing and verification phases is very refreshing and easy to use.
+* Phake is a great mocking library and can be easily integrated into PHPUnit. 
+* Its new approach to prototype mocks and stubs and the separation between stubbing and verification phases is very refreshing and easy to use.

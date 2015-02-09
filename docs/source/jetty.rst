@@ -23,7 +23,7 @@ The pictorial representation of the above command is shown below,
 
 .. code-block:: bash
 
- kevells@corp:/# cleopatra Jetty help
+ kevell@corp:/# cleopatra Jetty help
 
  ******************************
 
@@ -78,7 +78,6 @@ Benefits
 --------------
 
 * Full-featured and standards-based
-* Open source and commercially usable
 * Flexible and extensible
 * Small footprint
 * Embeddable

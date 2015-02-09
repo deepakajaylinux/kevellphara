@@ -93,11 +93,11 @@ Option
  +----------------------------+------------------------------+------------------+---------------------------------------------+
  | Parameters		      | Alternative Parameters	     | Options		| Comments				      |
  +============================+==============================+==================+=============================================+
- |cleopatra logging Install   | We can use Logging, logging  | Y		| System starts installation process          |
- |			      | 			     |			| under cleopatra			      |
+ |cleopatra logging Install   | We can use Logging, logging  | Y		| System starts log process under             |
+ |			      | 			     |			| cleopatra			              |
  +----------------------------+------------------------------+------------------+---------------------------------------------+
- |cleopatra logging Install   | We can use Logging, logging  | N		| System stops installation process 	      |
- |			      |				     |			| under cleopatra|			      |
+ |cleopatra logging Install   | We can use Logging, logging  | N		| System stops log process under              |
+ |			      |				     |			| cleopatra|			              |
  +----------------------------+------------------------------+------------------+---------------------------------------------+
 
 

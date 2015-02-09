@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/environmentconfig.rst:3 ../../source/environmentconfig.rst:289
 msgid "EnvironmentConfig"
@@ -34,10 +35,10 @@ msgstr ""
 #: ../../source/environmentconfig.rst:14
 msgid ""
 "The help command guides the users regarding the purpose of the module, its "
-"alternative parameters that are used in declaration. It highlights the three"
-" functions of environment configuration which are list, configure, delete. "
-"It also specifies the syntax for using three major functions. The syntax "
-"used for declaring the help is shown below:"
+"alternative parameters that are used in declaration. It highlights the three "
+"functions of environment configuration which are list, configure, delete. It "
+"also specifies the syntax for using three major functions. The syntax used "
+"for declaring the help is shown below:"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:21
@@ -114,14 +115,14 @@ msgstr ""
 
 #: ../../source/environmentconfig.rst:115
 msgid ""
-"Finally, the environment configuration gets success as depicted in the below"
-" screenshot."
+"Finally, the environment configuration gets success as depicted in the below "
+"screenshot."
 msgstr ""
 
 #: ../../source/environmentconfig.rst:148
 msgid ""
-"While configuring an environment, if the user wish to configure with current"
-" environment , they can use the following command:"
+"While configuring an environment, if the user wish to configure with current "
+"environment , they can use the following command:"
 msgstr ""
 
 #: ../../source/environmentconfig.rst:157

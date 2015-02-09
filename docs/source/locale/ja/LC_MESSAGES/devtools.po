@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/devtools.rst:3
 msgid "DeveloperTools"
@@ -25,8 +26,8 @@ msgid ""
 "following the structure defined in the Devtools. It also makes it easier to "
 "test your package, through editor. This module in a package having an "
 "excellent idea: not only does it make the user package more reliable in the "
-"long run, it also simplifies the development process in surprising way. This"
-" is suitable in Ubuntu and centOS."
+"long run, it also simplifies the development process in surprising way. This "
+"is suitable in Ubuntu and centOS."
 msgstr ""
 
 #: ../../source/devtools.rst:11
@@ -65,8 +66,8 @@ msgstr ""
 #: ../../source/devtools.rst:56
 msgid ""
 "When the user input as yes automatically it will install devtools with "
-"checking from the system. If not exit the installation. The following screen"
-" shot demonstrates it."
+"checking from the system. If not exit the installation. The following screen "
+"shot demonstrates it."
 msgstr ""
 
 #: ../../source/devtools.rst:65
@@ -94,8 +95,7 @@ msgid "Install devtools?(Y/N)"
 msgstr ""
 
 #: ../../source/devtools.rst:72
-msgid ""
-"Instead of using devtools we can use DeveloperTools, devtools,dev-tools"
+msgid "Instead of using devtools we can use DeveloperTools, devtools,dev-tools"
 msgstr ""
 
 #: ../../source/devtools.rst:72
@@ -141,7 +141,7 @@ msgstr ""
 
 #: ../../source/devtools.rst:90
 msgid ""
-"On-the-Fly Style Changes - For quick style changes, the user don't even need"
-" to use a text editor. The user can inspect the particular element on the "
+"On-the-Fly Style Changes - For quick style changes, the user don't even need "
+"to use a text editor. The user can inspect the particular element on the "
 "page to determine which styles are being applied."
 msgstr ""

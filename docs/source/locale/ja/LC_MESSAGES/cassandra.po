@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/cassandra.rst:3
 msgid "Cassandra"
@@ -25,15 +26,15 @@ msgid ""
 "designed to handle large amounts of data across many commodity servers, "
 "providing high availability with no single point of failure. Cassandra "
 "offers robust support for clusters spanning multiple datacenters, with "
-"asynchronous master less replication allowing low latency operations for all"
-" clients."
+"asynchronous master less replication allowing low latency operations for all "
+"clients."
 msgstr ""
 
 #: ../../source/cassandra.rst:11
 msgid ""
 "Cassandra's data model is a partitioned row store with tunable consistency. "
-"Rows are organized into tables; the first component of a table's primary key"
-" is the partition key; within a partition, rows are clustered by the "
+"Rows are organized into tables; the first component of a table's primary key "
+"is the partition key; within a partition, rows are clustered by the "
 "remaining columns of the key. Other columns may be indexed separately from "
 "the primary key."
 msgstr ""
@@ -44,10 +45,10 @@ msgstr ""
 
 #: ../../source/cassandra.rst:16
 msgid ""
-"This command helps to determine the usage of Cassandra module. The user will"
-" come to know about the different way/format to execute this module. This "
-"command guides the end user to know the purpose of this command. Below given"
-" are the command and the screenshot of the same."
+"This command helps to determine the usage of Cassandra module. The user will "
+"come to know about the different way/format to execute this module. This "
+"command guides the end user to know the purpose of this command. Below given "
+"are the command and the screenshot of the same."
 msgstr ""
 
 #: ../../source/cassandra.rst:22 ../../source/cassandra.rst:54
@@ -151,7 +152,7 @@ msgstr ""
 
 #: ../../source/cassandra.rst:360
 msgid ""
-"Tunable consistency - Writes and reads offer a tunable level of consistency,"
-" all the way from \"writes never fail\" to \"block for all replicas   to be "
+"Tunable consistency - Writes and reads offer a tunable level of consistency, "
+"all the way from \"writes never fail\" to \"block for all replicas   to be "
 "readable\", with the quorum level in the middle."
 msgstr ""

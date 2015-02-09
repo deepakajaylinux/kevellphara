@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/haproxy.rst:3
 msgid "HAProxy"
@@ -35,8 +36,8 @@ msgstr ""
 msgid ""
 "This command helps to determine the usage of HAProxy module. The user will "
 "come to know about the different ways/format to execute this module. This "
-"command will guide the end user to know when and how the command to be used."
-" Below given are the command and the screenshot of the same."
+"command will guide the end user to know when and how the command to be used. "
+"Below given are the command and the screenshot of the same."
 msgstr ""
 
 #: ../../source/haproxy.rst:21 ../../source/haproxy.rst:57
@@ -129,6 +130,6 @@ msgstr ""
 #: ../../source/haproxy.rst:157
 msgid ""
 "Once the max number of database connections (in MySQL) reached, HAProxy "
-"queues additional new connections. This is a neat way of throttling database"
-" connection requests and achieves overload protection."
+"queues additional new connections. This is a neat way of throttling database "
+"connection requests and achieves overload protection."
 msgstr ""

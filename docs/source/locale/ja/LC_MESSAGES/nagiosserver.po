@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/nagiosserver.rst:3
 msgid "NagiosServer"
@@ -22,10 +23,10 @@ msgstr ""
 #: ../../source/nagiosserver.rst:8
 msgid ""
 "Nagios is an open source computer system monitoring, network monitoring and "
-"infrastructure monitoring software application. Nagios offers monitoring and"
-" alerting services for servers, switches, applications, and services. It "
-"alerts the users when things go wrong and alerts them a second time when the"
-" problem has been resolved."
+"infrastructure monitoring software application. Nagios offers monitoring and "
+"alerting services for servers, switches, applications, and services. It "
+"alerts the users when things go wrong and alerts them a second time when the "
+"problem has been resolved."
 msgstr ""
 
 #: ../../source/nagiosserver.rst:10
@@ -46,8 +47,8 @@ msgstr ""
 msgid ""
 "This command helps to determine the usage of Nagios module. The user will "
 "come to know about the different way/format to execute this module. This "
-"command guides the end user to know the purpose of this command. Below given"
-" are the command and the screenshot of the same."
+"command guides the end user to know the purpose of this command. Below given "
+"are the command and the screenshot of the same."
 msgstr ""
 
 #: ../../source/nagiosserver.rst:22
@@ -125,8 +126,7 @@ msgstr ""
 
 #: ../../source/nagiosserver.rst:84
 msgid ""
-"Monitoring of network services (SMTP, POP3, HTTP, NNTP, ICMP, SNMP, FTP, "
-"SSH)"
+"Monitoring of network services (SMTP, POP3, HTTP, NNTP, ICMP, SNMP, FTP, SSH)"
 msgstr ""
 
 #: ../../source/nagiosserver.rst:85
@@ -153,9 +153,9 @@ msgstr ""
 
 #: ../../source/nagiosserver.rst:91
 msgid ""
-"A simple plugin design that allows users to easily develop their own service"
-" checks depending on needs, by using their tools of choice (shell  scripts, "
-"C++, Perl, Ruby, Python, PHP, C#, etc.)"
+"A simple plugin design that allows users to easily develop their own service "
+"checks depending on needs, by using their tools of choice (shell  scripts, C+"
+"+, Perl, Ruby, Python, PHP, C#, etc.)"
 msgstr ""
 
 #: ../../source/nagiosserver.rst:92
@@ -181,8 +181,8 @@ msgstr ""
 
 #: ../../source/nagiosserver.rst:96
 msgid ""
-"The ability to define event handlers to be run during service or host events"
-" for proactive problem resolution"
+"The ability to define event handlers to be run during service or host events "
+"for proactive problem resolution"
 msgstr ""
 
 #: ../../source/nagiosserver.rst:97
@@ -195,8 +195,8 @@ msgstr ""
 
 #: ../../source/nagiosserver.rst:99
 msgid ""
-"An optional web-interface for viewing current network status, notifications,"
-" problem history, log files, etc."
+"An optional web-interface for viewing current network status, notifications, "
+"problem history, log files, etc."
 msgstr ""
 
 #: ../../source/nagiosserver.rst:100

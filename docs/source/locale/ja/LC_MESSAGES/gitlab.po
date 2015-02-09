@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/gitlab.rst:3
 msgid "Git lab"
@@ -24,8 +25,8 @@ msgid ""
 "GitLab is an incredibly powerful open source code collaboration platform, "
 "git repository manager, issue tracker and code reviewer. It integrates with "
 "issue trackers, continuous integration services and  has phenomenal Active "
-"Directory support. It installs redis server and library functions also. This"
-" is manageable in Ubuntu and centos."
+"Directory support. It installs redis server and library functions also. This "
+"is manageable in Ubuntu and centos."
 msgstr ""
 
 #: ../../source/gitlab.rst:11
@@ -133,8 +134,8 @@ msgstr ""
 
 #: ../../source/gitlab.rst:79
 msgid ""
-"Allows for advanced staging operations, and the use of stashing when working"
-" through troublesome sections."
+"Allows for advanced staging operations, and the use of stashing when working "
+"through troublesome sections."
 msgstr ""
 
 #: ../../source/gitlab.rst:80

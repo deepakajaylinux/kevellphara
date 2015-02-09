@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/modulemanager.rst:3
 msgid "ModuleManager"
@@ -22,8 +23,8 @@ msgstr ""
 #: ../../source/modulemanager.rst:10
 msgid ""
 "The main scope of the module manager is to allow the user to manage their "
-"modules. Its major functions includes installation, enable, disable, ensure,"
-" uninstall. let us see about these major functions of module manager in a "
+"modules. Its major functions includes installation, enable, disable, ensure, "
+"uninstall. let us see about these major functions of module manager in a "
 "elaborate manner from the upcoming topics."
 msgstr ""
 
@@ -36,8 +37,8 @@ msgid ""
 "The help command of this module manager is a brief user manual that guides "
 "the user regarding the purpose, of module manager, describes the user about "
 "the major functions such as install, enable, disable, ensure, uninstall "
-"along with the syntax for declaring them. It also lists outs the alternative"
-" parameters of module manager. The command for declaring the help option "
+"along with the syntax for declaring them. It also lists outs the alternative "
+"parameters of module manager. The command for declaring the help option "
 "under module manager is shown below:"
 msgstr ""
 
@@ -107,8 +108,7 @@ msgid "N(No)"
 msgstr ""
 
 #: ../../source/modulemanager.rst:83
-msgid ""
-"If the user wish to quit the installation process they can input as N.|"
+msgid "If the user wish to quit the installation process they can input as N.|"
 msgstr ""
 
 #: ../../source/modulemanager.rst:89
@@ -161,8 +161,7 @@ msgstr ""
 
 #: ../../source/modulemanager.rst:107
 msgid ""
-"Finally installation will gets completed as depicted in the below "
-"screenshot."
+"Finally installation will gets completed as depicted in the below screenshot."
 msgstr ""
 
 #: ../../source/modulemanager.rst:111
@@ -187,8 +186,8 @@ msgstr ""
 #: ../../source/modulemanager.rst:124
 msgid ""
 "The disable process aims at disabling the module. The files of the disabled "
-"modules remains exists but they will not be loaded at the time of execution."
-" This can be achieved by the following command"
+"modules remains exists but they will not be loaded at the time of execution. "
+"This can be achieved by the following command"
 msgstr ""
 
 #: ../../source/modulemanager.rst:132
@@ -203,15 +202,15 @@ msgstr ""
 #: ../../source/modulemanager.rst:137
 msgid ""
 "The role of ensure process is to check the availability of modules. After "
-"the process of ensuring gets completed the modules will be installed only if"
-" the modules report itself as not installed. The process of ensure can be "
+"the process of ensuring gets completed the modules will be installed only if "
+"the modules report itself as not installed. The process of ensure can be "
 "done by using the command given below:"
 msgstr ""
 
 #: ../../source/modulemanager.rst:143
 msgid ""
-"During the process of ensuring, the versions of the modules are not checked."
-" The following screenshot pictorially represent the process of ensure."
+"During the process of ensuring, the versions of the modules are not checked. "
+"The following screenshot pictorially represent the process of ensure."
 msgstr ""
 
 #: ../../source/modulemanager.rst:166

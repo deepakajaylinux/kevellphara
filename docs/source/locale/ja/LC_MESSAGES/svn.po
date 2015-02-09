@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/svn.rst:3
 msgid "SVN"
@@ -22,14 +23,14 @@ msgstr ""
 #: ../../source/svn.rst:8
 msgid ""
 "This module assists the users to install the latest version of SVN in "
-"Ubuntu. Apache Subversion (often abbreviated SVN, after the command name "
-"svn) is a software versioning and revision control system distributed as "
-"free software under the Apache License.[1] Developers use Subversion to "
-"maintain current and historical versions of files such as source code, web "
-"pages, and documentation. Its goal is to be a mostly compatible successor to"
-" the widely used Concurrent Versions System (CVS). Let us see how this "
-"module facilitates in installing, uninstalling, ensuring the subversion in "
-"ubuntu."
+"Ubuntu. Apache Subversion (often abbreviated SVN, after "
+"the command name svn) is a software versioning and revision control system "
+"distributed as free software under the Apache License.[1] Developers use "
+"Subversion to maintain current and historical versions of files such "
+"as source code, web pages, and documentation. Its goal is to be a mostly "
+"compatible successor to the widely used Concurrent Versions System (CVS). "
+"Let us see how this module facilitates in installing, uninstalling, ensuring "
+"the subversion in ubuntu."
 msgstr ""
 
 #: ../../source/svn.rst:11
@@ -38,8 +39,8 @@ msgstr ""
 
 #: ../../source/svn.rst:13
 msgid ""
-"The help command guides the users regarding the purpose and as well as about"
-" the options that are included in the SVN. It lists out the alternative "
+"The help command guides the users regarding the purpose and as well as about "
+"the options that are included in the SVN. It lists out the alternative "
 "parameters of SVN. It also describes the syntax for install, uninstall, "
 "ensuring the SVN. The help command for SVN module is shown as below."
 msgstr ""
@@ -104,8 +105,7 @@ msgid "N(No)"
 msgstr ""
 
 #: ../../source/svn.rst:69
-msgid ""
-"If the user wish to quit the installation process they can input as N.|"
+msgid "If the user wish to quit the installation process they can input as N.|"
 msgstr ""
 
 #: ../../source/svn.rst:74
@@ -189,8 +189,8 @@ msgstr ""
 
 #: ../../source/svn.rst:176
 msgid ""
-"Finally, the un installation of SVN gets completed. The following screenshot"
-" depicts you about the process of un installing SVN in ubuntu."
+"Finally, the un installation of SVN gets completed. The following screenshot "
+"depicts you about the process of un installing SVN in ubuntu."
 msgstr ""
 
 #: ../../source/svn.rst:217

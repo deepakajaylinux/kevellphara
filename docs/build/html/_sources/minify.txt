@@ -24,7 +24,7 @@ This screen shot shows the help command usage
 
 .. code-block:: bash
 
- kevells@corp:/# cleopatra minify help
+ kevell@corp:/# cleopatra minify help
 
  ******************************
 

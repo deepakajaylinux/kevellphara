@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/memcached.rst:3
 msgid "Memcached"
@@ -24,22 +25,22 @@ msgid ""
 "The major aspect of this module is to install and update the memcache with "
 "the latest version. Memcached is a general-purpose distributed memory "
 "caching system. It is often used to speed up dynamic database-driven "
-"websites by caching data and objects in RAM to reduce the number of times an"
-" external data source (such as a database or API) must be read."
+"websites by caching data and objects in RAM to reduce the number of times an "
+"external data source (such as a database or API) must be read."
 msgstr ""
 
 #: ../../source/memcached.rst:11
 msgid ""
-"Memcached is free and open-source software, subject to the terms of the "
-"Revised BSD license.[2] Memcached runs on Unix-like (at least Linux and OS "
-"X) operating systems and on Microsoft Windows. There is a strict dependency "
-"on libevent."
+"Memcached is free and open-source software, subject to the terms of "
+"the Revised BSD license.[2] Memcached runs on Unix-like (at "
+"least Linux and OS X) operating systems and on Microsoft Windows. There is a "
+"strict dependency on libevent."
 msgstr ""
 
 #: ../../source/memcached.rst:13
 msgid ""
-"Let us see about the process of installing and using this module in upcoming"
-" topics."
+"Let us see about the process of installing and using this module in upcoming "
+"topics."
 msgstr ""
 
 #: ../../source/memcached.rst:18
@@ -48,10 +49,10 @@ msgstr ""
 
 #: ../../source/memcached.rst:20
 msgid ""
-"The help command guides the users regarding the purpose and as well as about"
-" the options that are included in the Memcached module. It lists out the "
-"alternative parameters of Memcached module. It also describes the syntax for"
-" installing the Memcached module. The help command for Memcached module is "
+"The help command guides the users regarding the purpose and as well as about "
+"the options that are included in the Memcached module. It lists out the "
+"alternative parameters of Memcached module. It also describes the syntax for "
+"installing the Memcached module. The help command for Memcached module is "
 "shown as below."
 msgstr ""
 
@@ -116,8 +117,7 @@ msgid "N(No)"
 msgstr ""
 
 #: ../../source/memcached.rst:70
-msgid ""
-"If the user wish to quit the installation process they can input as N.|"
+msgid "If the user wish to quit the installation process they can input as N.|"
 msgstr ""
 
 #: ../../source/memcached.rst:77
@@ -202,8 +202,7 @@ msgstr ""
 
 #: ../../source/memcached.rst:104
 msgid ""
-"Memcache::setCompressThreshold — Enable automatic compression of large "
-"values"
+"Memcache::setCompressThreshold — Enable automatic compression of large values"
 msgstr ""
 
 #: ../../source/memcached.rst:105
@@ -217,8 +216,8 @@ msgstr ""
 
 #: ../../source/memcached.rst:111
 msgid ""
-"The parameters used in help and installation are not case sensitive which is"
-" an added advantage while compared to others."
+"The parameters used in help and installation are not case sensitive which is "
+"an added advantage while compared to others."
 msgstr ""
 
 #: ../../source/memcached.rst:112

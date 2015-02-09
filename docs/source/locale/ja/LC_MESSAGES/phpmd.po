@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/phpmd.rst:3
 msgid "PHPMD"
@@ -37,11 +38,11 @@ msgstr ""
 #: ../../source/phpmd.rst:13
 msgid ""
 "It takes a given PHPMD source code base and look for several potential "
-"problems within that source. PHPMD is a young project and so it only "
-"provides a limited set of pre defined rules, compared with PMD, that detect "
-"code smells and possible errors within the analyzed source code. Checkout "
-"the rules section to learn more about allimplemented rules. The following "
-"help command guides the user to install phpmd module."
+"problems within that source. PHPMD is a young project and so it "
+"only provides a limited set of pre defined rules, compared with PMD, that "
+"detect code smells and possible errors within the analyzed source code. "
+"Checkout the rules section to learn more about allimplemented rules. The "
+"following help command guides the user to install phpmd module."
 msgstr ""
 
 #: ../../source/phpmd.rst:20

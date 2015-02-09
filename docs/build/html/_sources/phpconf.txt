@@ -6,7 +6,8 @@ phpconf
 Synopsis
 ---------
 
-This module assists in installing and as well as managing the configuration of php. The user can install Apache HTTP Server. The user can frame their configuration as per their requirement at the time of executing installation. The parameters used for declaring installation and help are not case sensitive.
+This module assists in installing and as well as managing the configuration of php. The user can frame their configuration as per their requirement at the time of executing installation. 
+
 
 Help Command
 -------------
@@ -154,14 +155,14 @@ Options
         +-------------------------------+------------------------------+--------------------------+------------------------------+
         |    Parameters        		| Alternative Parameters       | Required  		  | Comment                      |
         +===============================+==============================+==========================+==============================+
-        |Install PHPConf?(Y/N) 		| In Spite of PHP              |           		  |If the user wish to 	         |
+        |Install PHPConf?(Y/N) 		| Instead of PHP               |           		  |If the user wish to 	         |
         |                      		| Conf these alternative       |Y(YES)     		  |proceed the nstallation       |
         |         	       		| names can be used:           |              		  |process they can input as Y   |
         |                      		| php-configure, php-conf      |           		  |	                         |
         |    		       		| php-configuration,           |                  	  |			         |
         |          			| phpconf              	       |            		  |           		         |
         +-------------------------------+------------------------------+--------------------------+------------------------------+ 
-        |Install PHPConf? (Y/N)		| In Spite of PHP              | Y(Yes)                   |If the user wish to           |
+        |Install PHPConf? (Y/N)		| Instead of PHP               | Y(Yes)                   |If the user wish to           |
         |                      		| Conf these alternative       |                          |quit the installation	 | 
         |                               | names can be used:           |                          |process they can  	         |
         |		        	| php-configure, php-conf      |	                  |input as N.|                  |

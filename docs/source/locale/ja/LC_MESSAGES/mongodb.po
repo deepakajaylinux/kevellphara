@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/mongodb.rst:3
 msgid "MongoDB"
@@ -24,8 +25,8 @@ msgid ""
 "Mongo DB is a document oriented database. Mongo DB eschews the traditional "
 "table-based relational database structure in favor of php like documents "
 "with dynamic schemas, making the integration of data in certain types of "
-"applications easier and faster. Mongo DB is suitable to work with Ubuntu and"
-" Cent OS."
+"applications easier and faster. Mongo DB is suitable to work with Ubuntu and "
+"Cent OS."
 msgstr ""
 
 #: ../../source/mongodb.rst:11
@@ -56,8 +57,8 @@ msgstr ""
 
 #: ../../source/mongodb.rst:53
 msgid ""
-"When the user gives input as Yes automatically it will install all depencies"
-" in root pass ass default and also install updated version. The following "
+"When the user gives input as Yes automatically it will install all depencies "
+"in root pass ass default and also install updated version. The following "
 "screen shot will explain it."
 msgstr ""
 
@@ -137,8 +138,8 @@ msgstr ""
 
 #: ../../source/mongodb.rst:196
 msgid ""
-"MongoDB can store the business subject in the minimal number of"
-"                    documents."
+"MongoDB can store the business subject in the minimal number "
+"of                    documents."
 msgstr ""
 
 #: ../../source/mongodb.rst:197

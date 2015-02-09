@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/ra.rst:3
 msgid "Ra"
@@ -32,10 +33,10 @@ msgstr ""
 
 #: ../../source/ra.rst:14
 msgid ""
-"The help command guides the users regarding the purpose and as well as about"
-" the options that are included in the Ra module. It lists out the "
-"alternative parameters of Ra module. It also describes the syntax for "
-"installing the Ra module. The help command for Ra module is shown as below."
+"The help command guides the users regarding the purpose and as well as about "
+"the options that are included in the Ra module. It lists out the alternative "
+"parameters of Ra module. It also describes the syntax for installing the Ra "
+"module. The help command for Ra module is shown as below."
 msgstr ""
 
 #: ../../source/ra.rst:22
@@ -88,8 +89,8 @@ msgstr ""
 #: ../../source/ra.rst:88
 msgid ""
 "Uninstallation includes  Ra  required to make the Uninstallation for latest "
-"version . It is a manifest process to uninstall Ra module under Cleopatra by"
-" just using the command given below,"
+"version . It is a manifest process to uninstall Ra module under Cleopatra by "
+"just using the command given below,"
 msgstr ""
 
 #: ../../source/ra.rst:96

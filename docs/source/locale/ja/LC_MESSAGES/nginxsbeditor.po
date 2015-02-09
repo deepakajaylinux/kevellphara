@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/nginxsbeditor.rst:3
 msgid "NginxSBEditor"
@@ -21,9 +22,9 @@ msgstr ""
 
 #: ../../source/nginxsbeditor.rst:8
 msgid ""
-"This module is a fine part of default modules and handles Nginx ServerBlocks"
-" functions. Let us see about the methodologies for using this and also about"
-" the functions under this nginx editor in upcoming topics."
+"This module is a fine part of default modules and handles Nginx ServerBlocks "
+"functions. Let us see about the methodologies for using this and also about "
+"the functions under this nginx editor in upcoming topics."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:11
@@ -151,8 +152,7 @@ msgstr ""
 
 #: ../../source/nginxsbeditor.rst:103
 msgid ""
-"The user have specify the root, if they not wish to proceed with the "
-"default."
+"The user have specify the root, if they not wish to proceed with the default."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:105 ../../source/nginxsbeditor.rst:254
@@ -271,8 +271,8 @@ msgstr ""
 
 #: ../../source/nginxsbeditor.rst:227
 msgid ""
-"After entering the command above, the following process involved in deletion"
-" as shown in the table"
+"After entering the command above, the following process involved in deletion "
+"as shown in the table"
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:235
@@ -367,8 +367,7 @@ msgstr ""
 
 #: ../../source/nginxsbeditor.rst:342
 msgid ""
-"After these steps, he list of currently installed ServerBlocks are "
-"displayed."
+"After these steps, he list of currently installed ServerBlocks are displayed."
 msgstr ""
 
 #: ../../source/nginxsbeditor.rst:344

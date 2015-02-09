@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/parrallax.rst:3
 msgid "Parallax"
@@ -22,10 +23,10 @@ msgstr ""
 #: ../../source/parrallax.rst:8
 msgid ""
 "The parallax promotes the multitasking functions in the users machine. The "
-"parameters to define the installation and help are not case sensitive, while"
-" compared to others. It is easier to define the multi tasking function "
-"either at the time of installation or at the time of running the "
-"installation process."
+"parameters to define the installation and help are not case sensitive, while "
+"compared to others. It is easier to define the multi tasking function either "
+"at the time of installation or at the time of running the installation "
+"process."
 msgstr ""
 
 #: ../../source/parrallax.rst:11
@@ -43,8 +44,8 @@ msgstr ""
 
 #: ../../source/parrallax.rst:19
 msgid ""
-"The display of results after the input of help command is represented in the"
-" screenshot below."
+"The display of results after the input of help command is represented in the "
+"screenshot below."
 msgstr ""
 
 #: ../../source/parrallax.rst:48
@@ -79,8 +80,8 @@ msgstr ""
 msgid ""
 "After mentioning this command, the parallax executes both of the tasks as "
 "specified above in command-1 and command-2. The two tasks are performed "
-"parallel and result are displayed. The screen shot attached below is an very"
-" good example for type of declaration defined above."
+"parallel and result are displayed. The screen shot attached below is an very "
+"good example for type of declaration defined above."
 msgstr ""
 
 #: ../../source/parrallax.rst:98
@@ -114,8 +115,8 @@ msgstr ""
 
 #: ../../source/parrallax.rst:112 ../../source/parrallax.rst:117
 msgid ""
-"In Spite of parallax, the following alternatives can also be used: parallax,"
-" Parallax"
+"In Spite of parallax, the following alternatives can also be used: parallax, "
+"Parallax"
 msgstr ""
 
 #: ../../source/parrallax.rst:113
@@ -138,14 +139,14 @@ msgstr ""
 #: ../../source/parrallax.rst:123
 msgid ""
 "If the user wish to proceed installation, the user can specify the multiple "
-"tasks as per their requirements. After completion of specifying the multiple"
-" tasks, if the users wish to stop they can stop by simply entering none."
+"tasks as per their requirements. After completion of specifying the multiple "
+"tasks, if the users wish to stop they can stop by simply entering none."
 msgstr ""
 
 #: ../../source/parrallax.rst:125
 msgid ""
-"Finally, the results of completed tasks along with its status are defined at"
-" the end. The following screen shots can you an graphical representation "
+"Finally, the results of completed tasks along with its status are defined at "
+"the end. The following screen shots can you an graphical representation "
 "regarding the above mentioned process."
 msgstr ""
 
@@ -161,8 +162,8 @@ msgstr ""
 
 #: ../../source/parrallax.rst:174
 msgid ""
-"Finally, after completion of multi-tasks the results and status of the tasks"
-" completed are clearly reported."
+"Finally, after completion of multi-tasks the results and status of the tasks "
+"completed are clearly reported."
 msgstr ""
 
 #: ../../source/parrallax.rst:175

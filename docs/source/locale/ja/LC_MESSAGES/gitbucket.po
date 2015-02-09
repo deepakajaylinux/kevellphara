@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/gitbucket.rst:3
 msgid "Gitbucket"
@@ -21,15 +22,15 @@ msgstr ""
 
 #: ../../source/gitbucket.rst:8
 msgid ""
-"Git is a distributed revision control system with an emphasis on speed, data"
-" integrity and support for distributed, non-linear workflows. Git is the "
+"Git is a distributed revision control system with an emphasis on speed, data "
+"integrity and support for distributed, non-linear workflows. Git is the "
 "widely adopted version control system for software development."
 msgstr ""
 
 #: ../../source/gitbucket.rst:10
 msgid ""
-"Git working directory is a full-fledged repository with complete history and"
-" full version-tracking capabilities, independent of network access or a "
+"Git working directory is a full-fledged repository with complete history and "
+"full version-tracking capabilities, independent of network access or a "
 "central server."
 msgstr ""
 
@@ -41,8 +42,8 @@ msgstr ""
 msgid ""
 "This command helps to determine the usage of gitbucket module. The user "
 "comes to know about the different ways/format to execute this module. This "
-"command guides the end user to know the purpose of this command. Below given"
-" are the command and the screenshot of the same."
+"command guides the end user to know the purpose of this command. Below given "
+"are the command and the screenshot of the same."
 msgstr ""
 
 #: ../../source/gitbucket.rst:22
@@ -53,8 +54,8 @@ msgstr ""
 msgid ""
 "When the user needs to install gitbucket module in machine. The below given "
 "command will execute the process of installation. While installing, the "
-"system ask for repository root directory. User has to define the path. There"
-" is no default directory."
+"system ask for repository root directory. User has to define the path. There "
+"is no default directory."
 msgstr ""
 
 #: ../../source/gitbucket.rst:32

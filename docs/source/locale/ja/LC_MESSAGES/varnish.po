@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/varnish.rst:3
 msgid "Varnish"
@@ -22,11 +23,11 @@ msgstr ""
 #: ../../source/varnish.rst:8
 msgid ""
 "This module assists in installing the Varnish to the users machine. Varnish "
-"is a program that can greatly speed up a Web site while reducing the load on"
-" the Web server. According to Varnish's official site, Varnish is a \"Web "
-"application accelerator also known as a caching HTTP reverse proxy\". Let us"
-" see here, about how does this module performs installation of varnish of "
-"apt-get."
+"is a program that can greatly speed up a Web site while reducing the load on "
+"the Web server. According to Varnish's official site, Varnish is a \"Web "
+"application accelerator also known as a caching HTTP reverse proxy\". Let us "
+"see here, about how does this module performs installation of varnish of apt-"
+"get."
 msgstr ""
 
 #: ../../source/varnish.rst:11
@@ -35,18 +36,17 @@ msgstr ""
 
 #: ../../source/varnish.rst:13
 msgid ""
-"The help command guides the users regarding the purpose and as well as about"
-" the options that are included in the varnish module. The help command lists"
-" out the alternative parameters of varnish. It also describes the syntax for"
-" installing varnish. The help command under the varnish module is given "
-"below:"
+"The help command guides the users regarding the purpose and as well as about "
+"the options that are included in the varnish module. The help command lists "
+"out the alternative parameters of varnish. It also describes the syntax for "
+"installing varnish. The help command under the varnish module is given below:"
 msgstr ""
 
 #: ../../source/varnish.rst:19
 msgid ""
 "The syntax for declaring the help command is not case sensitive which is an "
-"added advantage. The following screenshot depicts you about the help command"
-" under varnish module."
+"added advantage. The following screenshot depicts you about the help command "
+"under varnish module."
 msgstr ""
 
 #: ../../source/varnish.rst:41
@@ -103,8 +103,7 @@ msgid "N(No)"
 msgstr ""
 
 #: ../../source/varnish.rst:61
-msgid ""
-"If the user wish to Quit the installation process they can input as N.|"
+msgid "If the user wish to Quit the installation process they can input as N.|"
 msgstr ""
 
 #: ../../source/varnish.rst:66

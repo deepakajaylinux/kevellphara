@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/sshKeygen.rst:3
 msgid "SshKeygen"
@@ -21,8 +22,8 @@ msgstr ""
 
 #: ../../source/sshKeygen.rst:9
 msgid ""
-"It is an aid to generate the key value. This module is having two key types."
-" They are dsa,rsa. dsa key bit value is 1024 and the rsa key bit value is "
+"It is an aid to generate the key value. This module is having two key types. "
+"They are dsa,rsa. dsa key bit value is 1024 and the rsa key bit value is "
 "more than 768. Then only it can function. It is handy in task with Ubuntu "
 "and cent OS."
 msgstr ""
@@ -154,7 +155,7 @@ msgstr ""
 
 #: ../../source/sshKeygen.rst:127
 msgid ""
-"We can work from remote place. The user has to instruct the system for path."
-" Auto generation is possible.  We can append the file whenever you need. We "
+"We can work from remote place. The user has to instruct the system for path. "
+"Auto generation is possible.  We can append the file whenever you need. We "
 "can share the keys without password. Non case sensitive."
 msgstr ""

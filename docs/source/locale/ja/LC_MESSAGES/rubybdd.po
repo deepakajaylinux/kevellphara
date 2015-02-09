@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/rubybdd.rst:3
 msgid "RubyBDD"
@@ -52,8 +53,8 @@ msgstr ""
 #: ../../source/rubybdd.rst:44
 msgid ""
 "Installation includes installation of Ruby Bdd  required to make the "
-"installation in a updated version . It is a manifest process to install Ruby"
-" Bdd module under Cleopatra by just using the command given below,"
+"installation in a updated version . It is a manifest process to install Ruby "
+"Bdd module under Cleopatra by just using the command given below,"
 msgstr ""
 
 #: ../../source/rubybdd.rst:50
@@ -63,8 +64,8 @@ msgstr ""
 #: ../../source/rubybdd.rst:52
 msgid ""
 "When the user input as yes automatically it will install Ruby Bdd with "
-"checking from the system. If not exit the installation. The following screen"
-" shot demonstrates it."
+"checking from the system. If not exit the installation. The following screen "
+"shot demonstrates it."
 msgstr ""
 
 #: ../../source/rubybdd.rst:59

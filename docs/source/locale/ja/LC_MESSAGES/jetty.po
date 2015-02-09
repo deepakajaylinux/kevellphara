@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/jetty.rst:3
 msgid "Jetty"
@@ -23,10 +24,10 @@ msgstr ""
 msgid ""
 "Jetty provides a Web server and javax.servlet container, plus support for "
 "SPDY, WebSocket, OSGi, JMX, JNDI, JAAS and much other integration. These "
-"components are open source and available for commercial use and "
-"distribution.Jetty is used in a wide variety of projects and products, both "
-"in development and production. Jetty can be easily embedded in devices, "
-"tools, frameworks, application servers, and clusters."
+"components are open source and available for commercial use and distribution."
+"Jetty is used in a wide variety of projects and products, both in "
+"development and production. Jetty can be easily embedded in devices, tools, "
+"frameworks, application servers, and clusters."
 msgstr ""
 
 #: ../../source/jetty.rst:10
@@ -39,8 +40,8 @@ msgid ""
 "products such as Apache ActiveMQ, Alfresco, Apache Geronimo, Apache Maven, "
 "Apache Spark, Google App Engine, Eclipse, FUSE, Twitter's Streaming API and "
 "Zimbra. Jetty is also the server in open source projects such as Lift, "
-"Eucalyptus, Red5, Hadoop and I2P. Jetty supports the latest Java Servlet API"
-" (with JSP support) as well as protocols SPDY and WebSocket."
+"Eucalyptus, Red5, Hadoop and I2P. Jetty supports the latest Java Servlet API "
+"(with JSP support) as well as protocols SPDY and WebSocket."
 msgstr ""
 
 #: ../../source/jetty.rst:14
@@ -51,8 +52,8 @@ msgstr ""
 msgid ""
 "This command helps to determine the usage of jetty module. The user will "
 "come to know about the different way/format to execute this module. This "
-"command guides the end user to know the purpose of this command. Below given"
-" are the command and the screenshot of the same."
+"command guides the end user to know the purpose of this command. Below given "
+"are the command and the screenshot of the same."
 msgstr ""
 
 #: ../../source/jetty.rst:22

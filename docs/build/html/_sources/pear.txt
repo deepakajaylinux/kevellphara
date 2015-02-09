@@ -115,4 +115,5 @@ Pear.php.net provides both a human-friendly (HTML) and machine-friendly (current
 * user account management (independent of the SVN server)
 * package management
 * release management
-
+* Well-to-do in Ubuntu and Cent OS
+* Non case sensitivity

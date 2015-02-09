@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/ping.rst:3
 msgid "Ping"
@@ -23,10 +24,10 @@ msgstr ""
 msgid ""
 "As a verb, PING means \"to get the attention of\" or \"to check for the "
 "presence of\" another party online. PING (Packet INternet Groper) module "
-"used to test the system connectivity. PING used to send network data to, and"
-" receive network data from, another computer on a network. PING frequently "
-"used to test, whether another system is reachable over a network, and if so,"
-" how much time it takes for that data to be exchanged."
+"used to test the system connectivity. PING used to send network data to, and "
+"receive network data from, another computer on a network. PING frequently "
+"used to test, whether another system is reachable over a network, and if so, "
+"how much time it takes for that data to be exchanged."
 msgstr ""
 
 #: ../../source/ping.rst:11
@@ -37,8 +38,8 @@ msgstr ""
 msgid ""
 "This command helps to determine the usage of PING module. This help command "
 "figure out the options to use along with PING command. This command will "
-"guide the end user to know the usage of different options and the syntax for"
-" those options. Below given are the command and the screenshot of the same."
+"guide the end user to know the usage of different options and the syntax for "
+"those options. Below given are the command and the screenshot of the same."
 msgstr ""
 
 #: ../../source/ping.rst:54 ../../source/ping.rst:61
@@ -81,8 +82,8 @@ msgstr ""
 
 #: ../../source/ping.rst:66
 msgid ""
-"Ten option pull data for ten times, having interval time as 5 seconds [waits"
-" for  seconds before sending the next packet]"
+"Ten option pull data for ten times, having interval time as 5 seconds [waits "
+"for  seconds before sending the next packet]"
 msgstr ""
 
 #: ../../source/ping.rst:70
@@ -139,6 +140,5 @@ msgstr ""
 msgid ""
 "PING helps the user to verify a particular IP address existence and can "
 "accept request. PING command is the best way to test connectivity between "
-"two nodes. Whether it is Local Area Network (LAN) or Wide Area Network "
-"(WAN)."
+"two nodes. Whether it is Local Area Network (LAN) or Wide Area Network (WAN)."
 msgstr ""

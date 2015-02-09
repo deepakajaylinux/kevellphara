@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/mysqladmin.rst:3
 msgid "MysqlAdmins"
@@ -22,8 +23,8 @@ msgstr ""
 #: ../../source/mysqladmin.rst:8
 msgid ""
 "This module assists in installing and as well as managing the admin users "
-"for mysql without using root user. By using this, the users can manage their"
-" administrative functions."
+"for mysql without using root user. By using this, the users can manage their "
+"administrative functions."
 msgstr ""
 
 #: ../../source/mysqladmin.rst:11
@@ -49,14 +50,13 @@ msgstr ""
 
 #: ../../source/mysqladmin.rst:45
 msgid ""
-"Installing mysql admins to your machine facilitates the users to specify and"
-" manage their administrative actions. The command used for installing mysql "
+"Installing mysql admins to your machine facilitates the users to specify and "
+"manage their administrative actions. The command used for installing mysql "
 "admins is marked below."
 msgstr ""
 
 #: ../../source/mysqladmin.rst:51
-msgid ""
-"In addition, the following operations shown in a tabular format occurs."
+msgid "In addition, the following operations shown in a tabular format occurs."
 msgstr ""
 
 #: ../../source/mysqladmin.rst:58
@@ -81,8 +81,8 @@ msgstr ""
 
 #: ../../source/mysqladmin.rst:60
 msgid ""
-"In the place of MysqlAdmins these alternative names can be used:mysql-"
-"admins,mysqladmins."
+"In the place of MysqlAdmins these alternative names can be used:mysql-admins,"
+"mysqladmins."
 msgstr ""
 
 #: ../../source/mysqladmin.rst:60

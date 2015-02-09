@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KEVELL 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-04 18:15+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-02-06 18:29+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../source/intellij.rst:3
 msgid "IntelliJ"
@@ -21,12 +22,12 @@ msgstr ""
 
 #: ../../source/intellij.rst:9
 msgid ""
-"This module expedite the installation of IntelliJ which is an Jet Brains IDE"
-" with a latest version. The IntelliJ Platform is a platform for building "
+"This module expedite the installation of IntelliJ which is an Jet Brains IDE "
+"with a latest version. The IntelliJ Platform is a platform for building "
 "smart, language-aware IDEs with a comprehensive set of components, that "
 "includes virtual file system, UI framework, text editor, lexing, parsing, "
-"abstract syntax trees and other language-specific infrastructure, frameworks"
-" for implementing navigation, code completion, inspections, intentions, "
+"abstract syntax trees and other language-specific infrastructure, frameworks "
+"for implementing navigation, code completion, inspections, intentions, "
 "refactorings, version control integration, debugger framework, graphical "
 "unit test runner. The IntelliJ Platform is open source, and the code is "
 "covered by the Apache 2.0 license. This means that you can build both open "
@@ -41,8 +42,8 @@ msgstr ""
 
 #: ../../source/intellij.rst:14
 msgid ""
-"The help command guides the users regarding the purpose and as well as about"
-" the options that are included in the IntelliJ module. It lists out the "
+"The help command guides the users regarding the purpose and as well as about "
+"the options that are included in the IntelliJ module. It lists out the "
 "alternative parameters of IntelliJ module. It also describes the syntax for "
 "installing the IntelliJ module. The help command for IntelliJ module is "
 "shown as below."

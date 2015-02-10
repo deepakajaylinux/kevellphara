@@ -79,24 +79,24 @@ Finally the testingkamen behat gets initialized as shown in the following screen
 
 .. code-block:: bash
 
- kevells@corp:/# testingkamen behat execute
- Execute Behat? (Y/N) 
+ kevell@corp:/# testingkamen behat init
+ Initialize Behat? (Y/N) 
  Y
  *******************************
  *   Golden Contact Computing  *
- *            Behat!           *
+ *          Behat         *
  *******************************
- Creating /tmp/cleopatra-temp-script-70101140190.sh
- chmod 755 /tmp/cleopatra-temp-script-70101140190.sh 2>/dev/null
- Changing /tmp/cleopatra-temp-script-70101140190.sh Permissions
- Executing /tmp/cleopatra-temp-script-70101140190.sh
- /tmp/cleopatra-temp-script-70101140190.sh: 2: /tmp/cleopatra-temp-script-70101140190.sh: behat: not found
- Temp File /tmp/cleopatra-temp-script-70101140190.sh Removed
- Creating /tmp/cleopatra-temp-script-48748886450.sh
- chmod 755 /tmp/cleopatra-temp-script-48748886450.sh 2>/dev/null
- Changing /tmp/cleopatra-temp-script-48748886450.sh Permissions
- Executing /tmp/cleopatra-temp-script-48748886450.sh
- Temp File /tmp/cleopatra-temp-script-48748886450.sh Removed
+ Creating /tmp/cleopatra-temp-script-72748278108.sh
+ chmod 755 /tmp/cleopatra-temp-script-72748278108.sh 2>/dev/null
+ Changing /tmp/cleopatra-temp-script-72748278108.sh Permissions
+ Executing /tmp/cleopatra-temp-script-72748278108.sh
+ /tmp/cleopatra-temp-script-72748278108.sh: 3: /tmp/cleopatra-temp-script-72748278108.sh: behat: not found
+ Temp File /tmp/cleopatra-temp-script-72748278108.sh Removed
+ Creating /tmp/cleopatra-temp-script-35600300430.sh
+ chmod 755 /tmp/cleopatra-temp-script-35600300430.sh 2>/dev/null
+ Changing /tmp/cleopatra-temp-script-35600300430.sh Permissions
+ Executing /tmp/cleopatra-temp-script-35600300430.sh
+ Temp File /tmp/cleopatra-temp-script-35600300430.sh Removed
  ... All done!
  *******************************
  Thanks for installing , visit www.gcsoftshop.co.uk for more

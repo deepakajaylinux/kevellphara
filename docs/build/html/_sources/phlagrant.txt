@@ -190,6 +190,7 @@ Playing with Phlagrant Modules
  pharaohtools_phlagrant
  resume
  sftp
+ shell
  status
  systemdetection_phlagrant
  up

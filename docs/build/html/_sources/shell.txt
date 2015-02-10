@@ -18,7 +18,7 @@ This command helps to determine the usage of shell module. The user will come to
 
 .. code-block:: bash
         
-        cleopatra shell help
+        phlagrant shell help
 
 
 Alternative Parameter 
@@ -28,7 +28,7 @@ There are two alternative parameters which can be used in command line.
 
 Shell, shell
 
-Eg: cleopatra shell help/ cleopatra Shell help
+Eg: phlagrant shell help/ phlagrant Shell help
 
 Benefits
 --------------

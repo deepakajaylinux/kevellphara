@@ -650,7 +650,6 @@ Playing with Cleopatra Modules
    seleniumserver
    service
    sftp_cleo
-   shell
    skipfish
    sshencrypt
    sshharden

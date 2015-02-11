@@ -30,7 +30,7 @@
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
     <link rel="up" title="Cleopatra" href="cleopatra.html" />
-    <link rel="next" title="Aptana" href="aptana.html" />
+    <link rel="next" title="ApacheVHostEditor" href="apachevirtualhosteditor_cleo.html" />
     <link rel="prev" title="Apache Reverse proxy modules" href="apachereverseproxy.html" />
 
 
@@ -103,8 +103,8 @@
             
   <li><a href="apachereverseproxy.html"
          title="previous chapter">&laquo; Apache Reverse proxy modules</a></li>
-  <li><a href="aptana.html"
-         title="next chapter">Aptana &raquo;</a></li>
+  <li><a href="apachevirtualhosteditor_cleo.html"
+         title="next chapter">ApacheVHostEditor &raquo;</a></li>
           
           
           <!--  <li>
@@ -168,25 +168,21 @@ End Help
 <p>Install Apache Server? (Y/N)</p>
 <p>if you give an input as Y, the module will get installed successfully.</p>
 <p>The screen shot given below explains visually about the steps and commands involves in installation.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra apacheserver install
-Install Apache Server? <span class="o">(</span>Y/N<span class="o">)</span>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# cleopatra apacheserver install
+Install Apache Server? (Y/N)
 Y
 *******************************
 *        Pharaoh Tools        *
 *         Apache Server!        *
 *******************************
-<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Package apache2 from the Packager Apt is already installed, so not installing
-<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Restarting apache2 service
-Output of config <span class="nb">test </span>was:
-apache2: Syntax error on line 214 of /etc/apache2/apache2.conf: Could not open configuration file /etc/apache2/httpd.conf: No such file or dir ectory
-Action <span class="s1">&#39;configtest&#39;</span> failed.
-The Apache error log may have more information.
+[Pharaoh Logging] Package apache2 from the Packager Apt is already installed, so not installing
+[Pharaoh Logging] Restarting apache2 service
+AH00558: apache2: Could not reliably determine the server&#39;s fully qualified domain name, using 127.0.1.1. Set the &#39;ServerName&#39; directive globally to suppress this message
 * Restarting web server apache2
-  ...fail!
-* The apache2 configtest failed.
-... All <span class="k">done</span>!
+  ...done.
+... All done!
 *******************************
-Thanks <span class="k">for </span>installing , visit www.pharaohtools.com <span class="k">for </span>more
+Thanks for installing , visit www.pharaohtools.com for more
 ******************************
 
 
@@ -204,28 +200,27 @@ Installer Finished
 <table border="1" class="table-bordered docutils">
 <colgroup>
 <col width="24%" />
-<col width="20%" />
-<col width="13%" />
+<col width="34%" />
 <col width="10%" />
 <col width="32%" />
 </colgroup>
 <thead valign="bottom">
 <tr class="row-odd"><th class="head">Parameters</th>
-<th class="head" colspan="2">Alternative Parameters</th>
+<th class="head">Alternative Parameters</th>
 <th class="head">Required</th>
 <th class="head">Comments</th>
 </tr>
 </thead>
 <tbody valign="top">
 <tr class="row-even"><td>Install Apache Server? (Y/N)</td>
-<td colspan="2">Instead of ApacheServer, we can use
+<td>Instead of ApacheServer, we can use
 apache-server, apacheserver also.</td>
 <td>Yes</td>
 <td>If the user gives input as yes, it
 will proceed installation</td>
 </tr>
 <tr class="row-odd"><td>Install Apache Server? (Y/N)</td>
-<td colspan="2">Instead of ApacheServer, we can use
+<td>Instead of ApacheServer, we can use
 apache-server, apacheserver also.</td>
 <td>No</td>
 <td>If the user gives input as no, it
@@ -281,7 +276,7 @@ automatically check the current version of apache server.</li>
     </p>
     <p>
         &copy; Copyright 2015, kevell.<br/>
-      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2.2.<br/>
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2.3.<br/>
     </p>
   </div>
 </footer>

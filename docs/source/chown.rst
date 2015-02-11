@@ -20,7 +20,7 @@ After giving the command, the command will list the help options. The following 
 
 .. code-block:: bash
 
-	Kevells@corp:/# cleopatra chown help
+	Kevell@corp:/# cleopatra chown help
 	******************************
 
 	 This command handles file user ownership changing functions.
@@ -43,7 +43,7 @@ It is an excellent process for this module under Cleopatra by slightly using the
 
 .. code-block:: bash
 
-	Cleopatra chown path –yes—guess—recursive—path=/Cleopatra—owner=Kevells
+	cleopatra chown path –yes—guess—recursive—path=/Cleopatra—owner=Kevells
 
 Then we can enter the input.
 Enter Ownership User
@@ -55,7 +55,7 @@ This is Visually shown by the following screen shot.
 
 .. code-block:: bash
 
-	kevells@corp:/# cleopatra chown path --yes --guess --recursive --path=/phj.php --owner=deepak
+	kevell@corp:/# cleopatra chown path --yes --guess --recursive --path=/phj.php --owner=deepak
 
 	Enter ownership user:
 	deepak
@@ -68,13 +68,14 @@ This is Visually shown by the following screen shot.
 	Chown Finished
 	******************************
 
-
+Option
+---------
 
 .. cssclass:: table-bordered
 
 
 	+------------------------------------------------+------------+----------------------------+-----------------------------+
-	| 	Parameters	              		 | Required   | option  		   |Comments			 |
+	| 	Parameters	              		 | Required   | option  		   | Comments			 |
 	+================================================+============+============================+=============================+
 	|Chown	 			 		 | Yes	      |				   |				 |
 	+------------------------------------------------+------------+----------------------------+-----------------------------+

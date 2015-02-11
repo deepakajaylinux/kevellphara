@@ -20,7 +20,7 @@ The syntax for declaring the help command is not case sensitive which is an adde
 
 .. code-block:: bash
 
- kevells@corp:/# cleopatra Aptana help
+ kevell@corp:/# cleopatra Aptana help
 
  ******************************
 

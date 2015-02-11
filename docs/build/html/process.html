@@ -158,9 +158,9 @@
 </pre></div>
 </div>
 <p>The syntax as shown above is used to specify or find a string which is to be killed.</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra process kill --yes
+<div class="highlight-bash"><div class="highlight"><pre>cleopatra process <span class="nb">kill</span> --yes
                 --guess
-                id=&quot;1234 #
+                <span class="nv">id</span><span class="o">=</span><span class="s2">&quot;1234 #</span>
 </pre></div>
 </div>
 <p>The command as shown above will kills a process as per the given id.</p>
@@ -189,7 +189,7 @@
 <div class="section" id="how-do-i-verify-that-the-process-is-gone-killed">
 <h2>How do I verify that the process is gone / killed?<a class="headerlink" href="#how-do-i-verify-that-the-process-is-gone-killed" title="Permalink to this headline">¶</a></h2>
 <p>Use the ps or pidof command:</p>
-<div class="highlight-bash"><div class="highlight"><pre><span class="nv">$ </span>ps aux | grep lighttpd
+<div class="highlight-bash"><div class="highlight"><pre><span class="nv">$ </span>ps aux <span class="p">|</span> grep lighttpd
 <span class="nv">$ </span>pidof lighttpd
 </pre></div>
 </div>
@@ -200,7 +200,7 @@
 <div class="highlight-bash"><div class="highlight"><pre><span class="nb">kill  </span>pid1 pid2 pid3
 <span class="nb">kill</span> -15  pid1 pid2 pid3
 <span class="nb">kill</span> -9  pid1 pid2 pid3
-<span class="nb">kill</span>  -9 3546 5557 4242
+<span class="nb">kill</span>  -9 <span class="m">3546</span> <span class="m">5557</span> 4242
 </pre></div>
 </div>
 </div>
@@ -265,7 +265,7 @@
     </p>
     <p>
         &copy; Copyright 2015, kevell.<br/>
-      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2.2.<br/>
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2.3.<br/>
     </p>
   </div>
 </footer>

@@ -30,8 +30,8 @@
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
     <link rel="up" title="Dapperstrano" href="Dapperstrano_main.html" />
-    <link rel="next" title="Host Editor" href="hosteditor.html" />
-    <link rel="prev" title="DBInstall" href="dbinstall.html" />
+    <link rel="next" title="GitClone" href="gitclone.html" />
+    <link rel="prev" title="Drupal" href="drupal.html" />
 
 
 <script src="_static/labibi.js"></script>
@@ -102,10 +102,10 @@
           
           
             
-  <li><a href="dbinstall.html"
-         title="previous chapter">&laquo; DBInstall</a></li>
-  <li><a href="hosteditor.html"
-         title="next chapter">Host Editor &raquo;</a></li>
+  <li><a href="drupal.html"
+         title="previous chapter">&laquo; Drupal</a></li>
+  <li><a href="gitclone.html"
+         title="next chapter">GitClone &raquo;</a></li>
           
           
           <!--  <li>
@@ -146,7 +146,7 @@
 
 
  This <span class="nb">command </span>is part of a default Module and provides you with a method by which you can
- configure environments <span class="k">for </span>your project from the <span class="nb">command </span>line. Currently compliant with
+ configure environments <span class="k">for</span> your project from the <span class="nb">command </span>line. Currently compliant with
  both Dapperstrano and Cleopatra.
 
 
@@ -157,12 +157,12 @@
        example: cleopatra envconfig list --yes
 
        - configure, config
-       Configure the environments <span class="k">for </span>your project to use
+       Configure the environments <span class="k">for</span> your project to use
        example: cleopatra envconfig config
        example: cleopatra envconfig config --keep-current-environments
 
        - delete, del
-       Configure the environments <span class="k">for </span>your project to use
+       Configure the environments <span class="k">for</span> your project to use
        example: cleopatra envconfig delete
        example: cleopatra envconfig del --environment-name<span class="o">=</span><span class="s2">&quot;staging&quot;</span>
 
@@ -198,8 +198,8 @@ End Help
 <div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra envconfig config
 Configure Environments Here? <span class="o">(</span>Y/N<span class="o">)</span>
 Y
-Environment 1  :
-Default Settings <span class="k">for </span>Any App not setup <span class="k">for </span>environment  enter them now.
+Environment <span class="m">1</span>  :
+Default Settings <span class="k">for</span> Any App not setup <span class="k">for</span> environment  enter them now.
 Value <span class="k">for</span>: Name of this Environment
 kevells
 Value <span class="k">for</span>: Default Temp Dir <span class="o">(</span>should usually be /tmp/<span class="o">)</span>
@@ -302,7 +302,7 @@ In Environment Configuration
 <p>After inputting the command above, it will ask</p>
 <p>Step 1: Delete Environments Here?</p>
 <p>and shows a warning message as</p>
-<div class="highlight-bash"><div class="highlight"><pre>WARNING: Deleting an environment from papyrus is final. You may be looking <span class="k">for </span>boxify box-destroy instead <span class="o">(</span>Y/N<span class="o">)</span>
+<div class="highlight-bash"><div class="highlight"><pre>WARNING: Deleting an environment from papyrus is final. You may be looking <span class="k">for</span> boxify box-destroy instead <span class="o">(</span>Y/N<span class="o">)</span>
 </pre></div>
 </div>
 <p>The user has to specify Y or N</p>
@@ -311,7 +311,7 @@ In Environment Configuration
 <p>Finally, the specified environment gets deleted as shown in the screenshot.</p>
 <div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra envconfig del --environment-name<span class="o">=</span><span class="s2">&quot;kevells&quot;</span>
 Delete Environments Here?
-WARNING: Deleting an environment from papyrus is final. You may be looking <span class="k">for </span>boxify box-destroy instead <span class="o">(</span>Y/N<span class="o">)</span>
+WARNING: Deleting an environment from papyrus is final. You may be looking <span class="k">for</span> boxify box-destroy instead <span class="o">(</span>Y/N<span class="o">)</span>
 Y
 Environment kevells found. Are you sure you want to delete it? <span class="o">(</span>Y/N<span class="o">)</span>
 Y
@@ -331,14 +331,14 @@ In Environment Configuration
 <p>After inputting the command above, it will ask</p>
 <p>Step 1: Delete Environments Here?</p>
 <p>and shows a warning message as</p>
-<div class="highlight-bash"><div class="highlight"><pre>WARNING: Deleting an environment from papyrus is final. You may be looking <span class="k">for </span>boxify box-destroy instead <span class="o">(</span>Y/N<span class="o">)</span>
+<div class="highlight-bash"><div class="highlight"><pre>WARNING: Deleting an environment from papyrus is final. You may be looking <span class="k">for</span> boxify box-destroy instead <span class="o">(</span>Y/N<span class="o">)</span>
 </pre></div>
 </div>
 <p>The user has to specify Y or N</p>
 <p>Finally, the environment gets deleted as shown in the screenshot:</p>
 <div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# dapperstrano envconfig delete
 Delete Environments Here?
-WARNING: Deleting an environment from papyrus is final. You may be looking <span class="k">for </span>boxify box-destroy instead <span class="o">(</span>Y/N<span class="o">)</span>
+WARNING: Deleting an environment from papyrus is final. You may be looking <span class="k">for</span> boxify box-destroy instead <span class="o">(</span>Y/N<span class="o">)</span>
 Y
 PHP Notice:  Undefined index: environment-name in /opt/dapperstrano/dapperstrano/src/Modules/EnvironmentConfig/Model/EnvironmentConfigAllLinux .php on line 161
 PHP Notice:  Undefined index: environment-name in /opt/dapperstrano/dapperstrano/src/Modules/EnvironmentConfig/Model/EnvironmentConfigAllLinux .php on line 161
@@ -470,7 +470,7 @@ In Environment Configuration
     </p>
     <p>
         &copy; Copyright 2015, kevell.<br/>
-      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2.2.<br/>
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2.3.<br/>
     </p>
   </div>
 </footer>

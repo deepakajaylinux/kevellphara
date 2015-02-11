@@ -114,29 +114,6 @@ Options
  +-----------------------------+------------------------------------------+----------+--------------------------------------+
 
 
-Ensure
---------------------
-
-Installs the latest version of Phake, only if a version is not available. The below given command will execute the process.
-
-.. code-block:: bash
-         
-	        cleopatra Phake ensure
-
-
-
-
-
-
-
-The system ask for the directory name, define your path followed by '/' symbol. Press Enter if there is no changes to be done.
-
-"What is the program data directory? Found "/opt/phake" - use this?
-
-Then the system ask for executing directory name, define your path followed by '/' symbol. Press Enter if there is no changes to be done
-
-"What is the program executer directory? Found "/usr/bin" - Use this? "
-
 Benefits
 --------------
 

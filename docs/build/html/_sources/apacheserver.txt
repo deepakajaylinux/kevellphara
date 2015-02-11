@@ -60,7 +60,7 @@ The screen shot given below explains visually about the steps and commands invol
 
 .. code-block:: bash
 
- kevells@corp:/# cleopatra apacheserver install
+ kevell@corp:/# cleopatra apacheserver install
  Install Apache Server? (Y/N) 
  Y
  *******************************
@@ -69,13 +69,9 @@ The screen shot given below explains visually about the steps and commands invol
  *******************************
  [Pharaoh Logging] Package apache2 from the Packager Apt is already installed, so not installing
  [Pharaoh Logging] Restarting apache2 service
- Output of config test was:
- apache2: Syntax error on line 214 of /etc/apache2/apache2.conf: Could not open configuration file /etc/apache2/httpd.conf: No such file or dir ectory
- Action 'configtest' failed.
- The Apache error log may have more information.
+ AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
  * Restarting web server apache2
-   ...fail!
- * The apache2 configtest failed.
+   ...done.
  ... All done!
  *******************************
  Thanks for installing , visit www.pharaohtools.com for more
@@ -97,7 +93,7 @@ Options
 
  +-----------------------------+-----------------------------------------+------------+--------------------------------------+
  | Parameters		       | Alternative Parameters			 | Required   | Comments			     |
- +=============================+========================+================+============+======================================+
+ +=============================+=========================================+============+======================================+
  |Install Apache Server? (Y/N) | Instead of ApacheServer, we can use     | Yes	      | If the user gives input as yes, it   |
  |			       | apache-server, apacheserver also.       |  	      |	will proceed installation	     |
  +-----------------------------+-----------------------------------------+------------+--------------------------------------+

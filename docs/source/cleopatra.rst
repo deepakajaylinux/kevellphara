@@ -553,6 +553,7 @@ Playing with Cleopatra Modules
    ApacheModules
    apachereverseproxy
    apacheserver
+   apachevirtualhosteditor_cleo
    aptana
    autopilot_cleo
    awstats

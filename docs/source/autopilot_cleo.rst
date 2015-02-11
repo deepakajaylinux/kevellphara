@@ -65,6 +65,10 @@ Autopilot act as a default module and also provides user defined executions. The
 after input as the above said command it starts installation. The following snap shots guides the user about autopilot installation.
 
 
+.. code-block:: bash
+
+
+
 Execute
 ------------
 This execute option is used to execute all of the defined modules in autopilot. The following screen shot shows its function.

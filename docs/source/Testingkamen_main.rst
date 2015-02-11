@@ -145,6 +145,7 @@ Playing with Testingkamen Modules
 
  behat
  cucumber
+ environmentconfig_testingkamen
  phpunit_testingkamen 
  systemdetection_testingkamen
  templating

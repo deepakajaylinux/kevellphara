@@ -26,6 +26,52 @@ This command helps to determine the usage of PEAR module. The user will come to 
         
 	        cleopatra pear help
 
+The pictorial representation of the above command is listed below,
+
+.. code-block:: bash
+
+
+ kevell@corp:/# cleopatra pear help
+ ******************************
+
+
+  This command allows you to modify create or modify pears
+
+  Pear, pear
+
+        - create
+        Create a new system pear, overwriting if it exists
+        example: cleopatra pear create --pearname="somename"
+
+        - remove
+        Remove a system pear
+        example: cleopatra pear remove --pearname="somename"
+
+        - set-password
+        Set the password of a system pear
+        example: cleopatra pear set-password --pearname="somename" --new-password="somepassword"
+
+        - exists
+        Check the existence of a pear
+        example: cleopatra pear exists --pearname="somename"
+
+        - show-groups
+        Show groups to which a pear belongs
+        example: cleopatra pear show-groups --pearname="somename"
+
+        - add-to-group
+        Add pear to a group
+        example: cleopatra pear add-to-group --pearname="somename" --groupname="somegroupname"
+
+        - remove-from-group
+        Remove pear from a group
+        example: cleopatra pear remove-from-group --pearname="somename" --groupname="somegroupname"
+
+ ------------------------------
+ End Help
+ ******************************
+
+
 
 Create
 ------------

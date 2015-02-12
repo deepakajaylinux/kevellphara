@@ -64,16 +64,74 @@ When the user needs to install any network tool in machine. The below given comm
  +-----------------------------+--------------------------------+-------------------+-------------------------------------+
  | Parameters		       | Alternative Parameters		| Options	    | Comments				  |
  +=============================+================================+===================+=====================================+
- |Cleopatra Networktools       | NetworkTools, networktools,    | Y		    | System starts installing the 	  |
- |Install		       | network-tools			| 		    | network-tools			  |
+ |Install Network Tools? (Y/N) | Instead of NetworkTools, we    | Y(Yes)	    | If the user wish to proceed the     |
+ |			       | can use networktools,          | 		    | installation process they can input |
+ | 			       | network-tools also.		| 		    | as Y.				  |
  +-----------------------------+--------------------------------+-------------------+-------------------------------------+
- |Cleopatra Networktools       | NetworkTools, networktools,    | Y                 | System stops installing function    |
- |Install                      | network-tools|                 |                   | 		                          |
+ |Install Network Tools? (Y/N) | Instead of NetworkTools, we    | N(No)             | If the user wish to quit the        |
+ |                             | can use networktools,          |                   | installation process they can input |
+ |                             | network-tools also.            |                   | as N.|                              |
  +-----------------------------+--------------------------------+-------------------+-------------------------------------+
+ 
+
+
+If the user proceeds installation, during the process of installation the following steps are involved,
+
+* builds the dependency tree.
+* Reads the state information.
+* list outs the new packages that are installing.
+* details regarding the number of files upgraded, newly installed, removed and not upgraded.
 
 
 
-Once the installation command executed, the system ask for the confirmation by yes/no "Y/N" question. Once the confirmation given from our end, the system starts executing the function and the system ends up with the final result. Below given is the screenshot for the same.
+The following screenshot pictorially depicts the above described process of installation.
+
+.. code-block:: bash
+
+ kevell@corp:/# cleopatra NetworkTools install
+ Install Network Tools? (Y/N)
+ Y
+ *******************************
+ *        Pharaoh Tools        *
+ *         !Network Tools!!        *
+ *******************************
+ Reading package lists...
+ Building dependency tree...
+ Reading state information...
+ The following NEW packages will be installed:
+  traceroute
+ 0 upgraded, 1 newly installed, 0 to remove and 301 not upgraded.
+ Need to get 45.0 kB of archives.
+ After this operation, 176 kB of additional disk space will be used.
+ Get:1 http://in.archive.ubuntu.com/ubuntu/ trusty-updates/universe traceroute amd64 1:2.0.20-0ubuntu0.1 [45.0 kB]
+ Fetched 45.0 kB in 4s (10.0 kB/s)
+ Selecting previously unselected package traceroute.
+ (Reading database ... 182980 files and directories currently installed.)
+ Preparing to unpack .../traceroute_1%3a2.0.20-0ubuntu0.1_amd64.deb ...
+ Unpacking traceroute (1:2.0.20-0ubuntu0.1) ...
+ Processing triggers for man-db (2.6.7.1-1) ...
+ Setting up traceroute (1:2.0.20-0ubuntu0.1) ...
+ update-alternatives: using /usr/bin/traceroute.db to provide /usr/bin/traceroute (traceroute) in auto mode
+ update-alternatives: using /usr/bin/lft.db to provide /usr/bin/lft (lft) in auto mode
+ update-alternatives: using /usr/bin/traceproto.db to provide /usr/bin/traceproto (traceproto) in auto mode
+ update-alternatives: using /usr/sbin/tcptraceroute.db to provide /usr/sbin/tcptraceroute (tcptraceroute) in auto mode
+ [Pharaoh Logging] Adding Package traceroute from the Packager Apt executed correctly
+ [Pharaoh Logging] Package netstat from the Packager Apt is already installed, so not installing
+ [Pharaoh Logging] Package lsof from the Packager Apt is already installed, so not installing
+ [Pharaoh Logging] Package telnet from the Packager Apt is already installed, so not installing
+ [Pharaoh Logging] Package ps from the Packager Apt is already installed, so not installing
+ ... All done!
+ *******************************
+ Thanks for installing , visit www.pharaohtools.com for more
+ ******************************
+
+
+ Single App Installer:
+ --------------------------------------------
+ NetworkTools: Success
+ ------------------------------
+ Installer Finished
+ ******************************
 
 
 Benefits

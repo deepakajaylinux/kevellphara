@@ -1,6 +1,6 @@
-===================================
+=================
 PHPStorm
-===================================
+=================
 
 Synopsis 
 ----------------
@@ -13,42 +13,85 @@ This command can function about the objectives and commands available under Cleo
 
 .. code-block:: bash
    
-	       Cleopatra Php storm module help
+	       cleopatra PHPStorm help
 
-The following screenshots can visualize the help command.
+The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under PHP Storm.
+
+.. code-block:: bash
+
+
+ kevell@corp:/# cleopatra PHPStorm help
+ ******************************
+
+
+  This command allows you to install Intellij, the JetBrains IDE
+
+  PHPStorm, phpstorm
+
+        - install
+        Installs the latest version of Developer Tools
+        example: cleopatra gittools install
+
+ ------------------------------
+ End Help
+ ******************************
 
 
 Installation
 ------------------
 
-It is a noticable process to install Phpstorm module under Cleopatra by just using the command given below,
+If the user wish to install git tools to their machine, they can use the command as given below,
+
 
 .. code-block:: bash
-           
-                Cleopatra phpstorm install
 
-After key in the command, it can asks
+	cleopatra gittools install
 
-Install phpstorm? (Y/N)
+After inputting the command above, the following steps are involved during the process of installation as described in the table,
 
-In case the user input as Y, it can install phpstorm from the package. Else, it can exit the screen. The following screen shots can explain it.
-
-
-Options
-----------------
 
 .. cssclass:: table-bordered
 
- +-----------------------------+------------------------+-----------------------+----------------------------------------------+
- |	Parameters             | Alternative Parameter  |	Options	        | 		Comments		       |
- +=============================+========================+=======================+==============================================+
- |Cleopatra phpstorm Install   |We can use PHPStorm &   |Y	  	        |System starts installation process under      |
- |			       |phpstorm		|		        |cleopatra			       	       |
- +-----------------------------+------------------------+-----------------------+----------------------------------------------+
- |Cleopatra phpstorm Install   |-	       	        |N		        |System stops installation process under       |
- |                             |		        |		        |cleopatra|                                    |         
- +-----------------------------+------------------------+-----------------------+----------------------------------------------+
+ +-------------------------+-----------------------------------------------+-----------------+-------------------------------------------+
+ | Parameters		   | Alternative Parameters			   | Options	     | Comments					 | 
+ +=========================+===============================================+=================+===========================================+
+ |Install Git Tools? (Y/N) | Instead of using PHPStorm We can use phpstorm | Y(Yes)          | If the user wish to proceed the           | 
+ | 			   | 						   | 		     | installation process they can input as Y. | 
+ +-------------------------+-----------------------------------------------+-----------------+-------------------------------------------+
+ |Install Git Tools? (Y/N) | Instead of using PHPStorm We can use phpstorm | N(No) 	     | If the user wish to quit the 	         |
+ | 			   | 						   |		     | installation process they can input as N| |
+ +-------------------------+-----------------------------------------------+-----------------+-------------------------------------------+
 
+
+The following screenshot pictorially depicts the above described process of installation.
+
+
+.. code-block:: bash
+
+ 
+ kevell@corp:/# cleopatra gittools install
+ Install Git Tools? (Y/N)
+ Y
+ *******************************
+ *        Pharaoh Tools        *
+ *         !Git Tools!!        *
+ *******************************
+ [Pharaoh Logging] Package git from the Packager Apt is already installed, so not installing
+ [Pharaoh Logging] Package git-core from the Packager Apt is already installed, so not installing
+ [Pharaoh Logging] Package gitk from the Packager Apt is already installed, so not installing
+ [Pharaoh Logging] Package git-cola from the Packager Apt is already installed, so not installing
+ ... All done!
+ *******************************
+ Thanks for installing , visit www.pharaohtools.com for more
+ ******************************
+
+
+ Single App Installer:
+ --------------------------------------------
+ GitTools: Success
+ ------------------------------
+ Installer Finished
+ ******************************
 
 
 Benefits

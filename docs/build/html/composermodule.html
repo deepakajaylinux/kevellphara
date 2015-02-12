@@ -138,7 +138,7 @@
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra composer <span class="nb">help</span>
 </pre></div>
 </div>
-<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra composer <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# cleopatra composer <span class="nb">help</span>
 ******************************
 
 
@@ -193,6 +193,50 @@ End Help
 </tr>
 </tbody>
 </table>
+<p>The screenshot for the installation command is listed below,</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/<span class="nv">$ </span>cleopatra composer install
+Install Composer - Update to latest version ? <span class="o">(</span>Y/N<span class="o">)</span>
+y
+*******************************
+*        Pharaoh Tools        *
+*          Composer!         *
+*******************************
+What is the program data directory? Found <span class="s2">&quot;/opt/composer&quot;</span> - use this? <span class="o">(</span>Enter nothing <span class="k">for</span> yes, no end slash<span class="o">)</span>
+
+What is the program executor directory? Found <span class="s2">&quot;/usr/bin&quot;</span> - use this? <span class="o">(</span>Enter nothing <span class="k">for</span> yes, No Trailing Slash<span class="o">)</span>
+
+git clone <span class="s1">&#39;https://github.com/phpengine/composer-phar.git&#39;</span>  /tmp/composer/composerCloning into <span class="s1">&#39;/tmp/composer/composer&#39;</span>...
+remote: Counting objects: 6, <span class="k">done</span>.
+remote: Total <span class="m">6</span> <span class="o">(</span>delta 0<span class="o">)</span>, reused <span class="m">0</span> <span class="o">(</span>delta 0<span class="o">)</span>
+Unpacking objects: 100% <span class="o">(</span>6/6<span class="o">)</span>, <span class="k">done</span>.
+Checking connectivity... <span class="k">done</span>.
+PHP Warning:  mkdir<span class="o">()</span>: Permission denied in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 192
+cp: cannot create directory ‘/opt/composer’: Permission denied
+Program Data folder populated
+Program Executor Deleted <span class="k">if</span> existed
+PHP Warning:  scandir<span class="o">(</span>/opt/composer<span class="o">)</span>: failed to open dir: No such file or directory in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 172
+PHP Warning:  scandir<span class="o">()</span>: <span class="o">(</span>errno 2<span class="o">)</span>: No such file or directory in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 172
+PHP Warning:  Invalid argument supplied <span class="k">for</span> foreach<span class="o">()</span> in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 174
+PHP Warning:  scandir<span class="o">(</span>/opt/composer<span class="o">)</span>: failed to open dir: No such file or directory in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 172
+PHP Warning:  scandir<span class="o">()</span>: <span class="o">(</span>errno 2<span class="o">)</span>: No such file or directory in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 172
+PHP Warning:  Invalid argument supplied <span class="k">for</span> foreach<span class="o">()</span> in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 174
+PHP Warning:  file_put_contents<span class="o">(</span>/usr/bin/composer<span class="o">)</span>: failed to open stream: Permission denied in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 214
+chmod: cannot access ‘/opt/composer’: No such file or directory
+chmod: cannot access ‘/usr/bin/composer’: No such file or directory
+... All <span class="k">done</span>!
+*******************************
+Thanks <span class="k">for</span> installing , visit www.pharaohtools.com <span class="k">for</span> more
+******************************
+
+
+Single App Installer:
+--------------------------------------------
+Composer: Success
+------------------------------
+Installer Finished
+******************************
+</pre></div>
+</div>
 </div>
 <div class="section" id="benefits">
 <h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>

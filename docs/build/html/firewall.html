@@ -138,6 +138,59 @@ The user can do the modification as per wish. Help image will guide the user. Le
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra Firewall <span class="nb">help</span>
 </pre></div>
 </div>
+<p>The screenshot for the above command is listed below,</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# cleopatra Firewall <span class="nb">help</span>
+******************************
+This <span class="nb">command </span>allows you to modify create or modify firewalls
+
+ Firewall, firewall
+
+       - <span class="nb">enable</span>
+<span class="nb">       </span>Enable system firewall
+       example: cleopatra firewall <span class="nb">enable</span>
+
+       - disable
+       Disable system firewall
+       example: cleopatra firewall disable
+
+       - allow
+       Allow a Firewall rule
+       example: cleopatra firewall allow --firewall-rule<span class="o">=</span><span class="s2">&quot;ssh/tcp&quot;</span>
+
+       - deny
+       Deny a Firewall rule. Allow connection attempts to be ignored and <span class="nb">time </span>out.
+       example: cleopatra firewall deny --firewall-rule<span class="o">=</span><span class="s2">&quot;ssh/tcp&quot;</span>
+
+       - reject
+       Reject a Firewall rule. Terminate connections attempts with an error to the connector.
+       example: cleopatra firewall reject --firewall-rule<span class="o">=</span><span class="s2">&quot;ssh/tcp&quot;</span>
+
+       - limit
+       Limit a Firewall rule. ufw will deny connections <span class="k">if</span> an IP address has attempted
+       to initiate <span class="m">6</span> or more connections in the last <span class="m">30</span> seconds.
+       example: cleopatra firewall limit --firewall-rule<span class="o">=</span><span class="s2">&quot;ssh/tcp&quot;</span>
+
+       - delete
+       Delete a Firewall rule.
+       example: cleopatra firewall delete --firewall-rule<span class="o">=</span><span class="s2">&quot;ssh/tcp&quot;</span>
+
+       - insert
+       Insert a Firewall rule.
+       example: cleopatra firewall insert --firewall-rule<span class="o">=</span><span class="s2">&quot;ssh/tcp&quot;</span>
+
+       - reset
+       Reset a Firewall rule.
+       example: cleopatra firewall reset --firewall-rule<span class="o">=</span><span class="s2">&quot;ssh/tcp&quot;</span>
+
+       - default
+       Set default policy, should be allow, deny, or reject
+       example: cleopatra firewall default --policy<span class="o">=</span><span class="s2">&quot;deny&quot;</span>
+
+------------------------------
+End Help
+******************************
+</pre></div>
+</div>
 </div>
 <div class="section" id="options">
 <h2>Options<a class="headerlink" href="#options" title="Permalink to this headline">¶</a></h2>

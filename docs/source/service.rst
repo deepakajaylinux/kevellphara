@@ -18,7 +18,7 @@ Help command used to find information about a specified command. For more inform
 
 .. code-block:: bash
 
-	Kevells@corp:/# cleopatra Service help
+	Kevell@corp:/# cleopatra Service help
 
 	******************************
 
@@ -63,23 +63,23 @@ Options
 .. cssclass:: table-bordered
 
 
-	+----------------------+---------------------------------------------------+--------------------------------------------------------+
-        |    Parameters        |        Functions                                  |     Comment                                            |
-        +======================+===================================================+========================================================+
-	|start		       |Start a system  service				   |Cleopatra service start –service-name=”apache2”         |
-	+----------------------+---------------------------------------------------+--------------------------------------------------------+
-        |stop  		       |Stop asystem service	           		   |Cleopatra service stop –service-name=”apache2”          |
-	+----------------------+---------------------------------------------------+--------------------------------------------------------+
-        |Restart	       |Restart a system  service	            	   |Cleopatra service restart –service-name=”apache2”       |
-	+----------------------+---------------------------------------------------+--------------------------------------------------------+
-	|Ensure-running        |Ensure a system service is running.In case of not  |Cleopatra service ensure-running –service-name=”apache2”|
-    	|		       |running start it else don’t attempt       	   |               					    |
-	+----------------------+---------------------------------------------------+--------------------------------------------------------+
-	|Is-running            |Check whether a system service is running or not   |Cleopatra service is-running –service-name=”apache2”    |
-    	|		       |running start it else don’t attempt       	   |        					            |
-	+----------------------+---------------------------------------------------+--------------------------------------------------------+
-       	|Run-at-reboots        |Ensure a system service auto start on reboots      |Cleopatra service run-at-reboots –service-name=”apache2||
-	+----------------------+---------------------------------------------------+--------------------------------------------------------+
+	+----------------------+---------------------------------------------------+---------------------------------------------------------+
+        |    Parameters        |        Functions                                  |     Comment                                             |
+        +======================+===================================================+=========================================================+
+	|start		       |Start a system  service				   |Cleopatra service start –service-name=”apache2”          |
+	+----------------------+---------------------------------------------------+---------------------------------------------------------+
+        |stop  		       |Stop asystem service	           		   |Cleopatra service stop –service-name=”apache2”           |
+	+----------------------+---------------------------------------------------+---------------------------------------------------------+
+        |Restart	       |Restart a system  service	            	   |Cleopatra service restart –service-name=”apache2”        |
+	+----------------------+---------------------------------------------------+---------------------------------------------------------+
+	|Ensure-running        |Ensure a system service is running.In case of not  |Cleopatra service ensure-running –service-name=”apache2” |
+    	|		       |running start it else don’t attempt       	   |               					     |
+	+----------------------+---------------------------------------------------+---------------------------------------------------------+
+	|Is-running            |Check whether a system service is running or not   |Cleopatra service is-running –service-name=”apache2”     |
+    	|		       |running start it else don’t attempt       	   |        					             |
+	+----------------------+---------------------------------------------------+---------------------------------------------------------+
+       	|Run-at-reboots        |Ensure a system service auto start on reboots      |Cleopatra service run-at-reboots –service-name=”apache2| |
+	+----------------------+---------------------------------------------------+---------------------------------------------------------+
 
 
 Benefits

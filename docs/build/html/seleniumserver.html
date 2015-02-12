@@ -90,6 +90,7 @@
 <li><a class="reference internal" href="#synopsis">Synopsis</a></li>
 <li><a class="reference internal" href="#help-command">Help Command</a></li>
 <li><a class="reference internal" href="#installation">Installation</a></li>
+<li><a class="reference internal" href="#option">Option</a></li>
 <li><a class="reference internal" href="#benefits">Benefits</a></li>
 </ul>
 </li>
@@ -166,6 +167,63 @@ End Help
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra seleniumserver install
 </pre></div>
 </div>
+<p>The screenshot for the above command is listed below,</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# cleopatra selenium install
+
+Install Selenium Server? <span class="o">(</span>Y/N<span class="o">)</span>
+y
+*******************************
+*        Pharaoh Tools        *
+*         Selenium Srv        *
+*******************************
+Enter Selenium Version
+<span class="o">(</span>0<span class="o">)</span> 2.39
+<span class="o">(</span>1<span class="o">)</span> 2.40
+<span class="o">(</span>2<span class="o">)</span> 2.41
+<span class="o">(</span>3<span class="o">)</span> 2.42
+<span class="o">(</span>4<span class="o">)</span> 2.43
+<span class="o">(</span>5<span class="o">)</span> 2.44
+5
+PHP Notice:  Undefined index: version in /opt/cleopatra/cleopatra/src/Modules/SeleniumServer/Model/SeleniumServerAllLinux.php on line 50
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Ensure module install is not checking versions
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Command <span class="s1">&#39;git&#39;</span> found
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Command <span class="s1">&#39;gitk&#39;</span> found
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Command <span class="s1">&#39;git-cola&#39;</span> found
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Not installing as already installed
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Ensure module install is not checking versions
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Module Java reports itself as Installed
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Not installing as already installed
+Creating /tmp/cleopatra-temp-script-96670533394.sh
+chmod <span class="m">755</span> /tmp/cleopatra-temp-script-96670533394.sh 2&gt;/dev/null
+Changing /tmp/cleopatra-temp-script-96670533394.sh Permissions
+Executing /tmp/cleopatra-temp-script-96670533394.sh
+--2015-02-12 15:31:34--  http://selenium-release.storage.googleapis.com//selenium-server-standalone-.0.jar
+Resolving selenium-release.storage.googleapis.com <span class="o">(</span>selenium-release.storage.googleapis.com<span class="o">)</span>... 74.125.236.43, 74.125.236.42, 74.125.236.44, ...
+Connecting to selenium-release.storage.googleapis.com <span class="o">(</span>selenium-release.storage.googleapis.com<span class="o">)</span><span class="p">|</span>74.125.236.43<span class="p">|</span>:80... connected.
+HTTP request sent, awaiting response... <span class="m">404</span> Not Found
+2015-02-12 15:31:35 ERROR 404: Not Found.
+
+mv: cannot stat ‘/tmp/selenium/*’: No such file or directory
+mv: cannot stat ‘selenium-server-standalone-.0.jar’: No such file or directory
+Temp File /tmp/cleopatra-temp-script-96670533394.sh Removed
+Program Executor Deleted <span class="k">if</span> existed
+... All <span class="k">done</span>!
+*******************************
+Thanks <span class="k">for</span> installing , visit www.pharaohtools.com <span class="k">for</span> more
+******************************
+
+
+Single App Installer:
+--------------------------------------------
+SeleniumServer: Success
+------------------------------
+Installer Finished
+******************************
+</pre></div>
+</div>
+</div>
+<div class="section" id="option">
+<h2>Option<a class="headerlink" href="#option" title="Permalink to this headline">¶</a></h2>
 <p>After inputting the command above, the following operations occurs as shown in the tabular format.</p>
 <table border="1" class="table-bordered docutils">
 <colgroup>

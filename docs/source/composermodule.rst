@@ -20,7 +20,7 @@ This command helps to determine the usage of composer module. The user will come
 
 .. code-block:: bash
 
- kevells@corp:/# cleopatra composer help
+ kevell@corp:/# cleopatra composer help
  ******************************
 
 
@@ -66,6 +66,53 @@ While installing, the system ask for executing directory name, if you wants to s
 	+---------------------------+------------------------+-----------------------+-----------------------------------------------+
 	|cleopatra composer Install |Composer , composer     |N			     |System stops installation process|	     |
 	+---------------------------+------------------------+-----------------------+-----------------------------------------------+
+
+
+The screenshot for the installation command is listed below,
+
+.. code-block:: bash
+
+ kevell@corp:/$ cleopatra composer install
+ Install Composer - Update to latest version ? (Y/N)
+ y
+ *******************************
+ *        Pharaoh Tools        *
+ *          Composer!         *
+ *******************************
+ What is the program data directory? Found "/opt/composer" - use this? (Enter nothing for yes, no end slash)
+
+ What is the program executor directory? Found "/usr/bin" - use this? (Enter nothing for yes, No Trailing Slash)
+
+ git clone 'https://github.com/phpengine/composer-phar.git'  /tmp/composer/composerCloning into '/tmp/composer/composer'...
+ remote: Counting objects: 6, done.
+ remote: Total 6 (delta 0), reused 0 (delta 0)
+ Unpacking objects: 100% (6/6), done.
+ Checking connectivity... done.
+ PHP Warning:  mkdir(): Permission denied in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 192
+ cp: cannot create directory ‘/opt/composer’: Permission denied
+ Program Data folder populated
+ Program Executor Deleted if existed
+ PHP Warning:  scandir(/opt/composer): failed to open dir: No such file or directory in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 172
+ PHP Warning:  scandir(): (errno 2): No such file or directory in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 172
+ PHP Warning:  Invalid argument supplied for foreach() in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 174
+ PHP Warning:  scandir(/opt/composer): failed to open dir: No such file or directory in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 172
+ PHP Warning:  scandir(): (errno 2): No such file or directory in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 172
+ PHP Warning:  Invalid argument supplied for foreach() in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 174
+ PHP Warning:  file_put_contents(/usr/bin/composer): failed to open stream: Permission denied in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 214
+ chmod: cannot access ‘/opt/composer’: No such file or directory
+ chmod: cannot access ‘/usr/bin/composer’: No such file or directory
+ ... All done!
+ *******************************
+ Thanks for installing , visit www.pharaohtools.com for more
+ ******************************
+ 
+
+ Single App Installer:
+ --------------------------------------------
+ Composer: Success
+ ------------------------------
+ Installer Finished
+ ******************************
 
 
 Benefits

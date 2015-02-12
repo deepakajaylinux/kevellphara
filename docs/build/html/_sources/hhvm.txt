@@ -21,7 +21,7 @@ The syntax for declaring the help command is not case sensitive which is an adde
 .. code-block:: bash
 
 
- kevells@corp:/# cleopatra HHVM help
+ kevell@corp:/# cleopatra HHVM help
  ******************************
 
 
@@ -321,6 +321,39 @@ The command used for un installing the hhvm is shown below.
 .. code-block:: bash
 
 		cleopatra HHVM uninstall
+
+
+The screenshot for the above command is listed below,
+
+
+.. code-block:: bash
+
+
+ kevell@corp:/# cleopatra hhvm uninstall
+
+ Uninstall HHVM? (Y/N)
+ y
+ *******************************
+ *        Pharaoh Tools        *
+ *          ! HHVM !        *
+ *******************************
+ PHP Warning:  Illegal string offset 'object' in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BaseLinuxApp.php on line 290
+ PHP Warning:  Illegal string offset 'method' in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BaseLinuxApp.php on line 290
+ PHP Warning:  Illegal string offset 'params' in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BaseLinuxApp.php on line 290
+ PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'p' not found in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BaseLinuxApp.php on line 290
+ ... All done!
+ *******************************
+ Thanks for installing , visit www.pharaohtools.com for more
+ ******************************
+
+
+ Single App Uninstaller:
+ ------------------------------
+ HHVM: Success
+ ------------------------------
+ Installer Finished
+ ******************************
+
 
 Benefits
 ------------

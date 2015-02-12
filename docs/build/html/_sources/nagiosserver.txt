@@ -54,6 +54,39 @@ The pictorial representation of the above command is listed below,
 .. code-block:: bash
 
 
+ kevell@corp:/# cleopatra nagios-server install
+
+ Install Nagios Server? (Y/N)
+ y
+ *******************************
+ *        Pharaoh Tools        *
+ *         Nagios Server!        *
+ *******************************
+ E: Unable to correct problems, you have held broken packages.
+ Reading package lists...
+ Building dependency tree...
+ Reading state information...
+ Some packages could not be installed. This may mean that you have
+ requested an impossible situation or if you are using the unstable
+ distribution that some required packages have not yet been created
+ or been moved out of Incoming.
+ The following information may help to resolve the situation:
+
+ The following packages have unmet dependencies:
+ nagios3 : Depends: nagios3-core (= 3.2.3-3ubuntu1) but it is not going to be installed
+ [Pharaoh Logging] Adding Package nagios3 from the Packager Apt did not execute correctly
+ ... All done!
+ *******************************
+ Thanks for installing , visit www.pharaohtools.com for more
+ ******************************
+
+
+ Single App Installer:
+ --------------------------------------------
+ NagiosServer: Success
+ ------------------------------
+ Installer Finished
+ ******************************
 
 Options
 -----------                               

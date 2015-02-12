@@ -18,6 +18,32 @@ This command can function about the objectives and commands available under host
 
 The following screen shot can bring to mind it.
 
+
+.. code-block:: bash
+
+ kevell@corp:/# cleopatra hostname help
+
+ ******************************
+
+
+  This command allows you to view or modify hostname
+
+  Hostname, hostname
+
+        - change
+        Change the system hostname
+        example: cleopatra hostname change --hostname="my-laptop"
+
+        - show
+        Show the system hostname
+        example: cleopatra hostname show
+
+ ------------------------------
+ End Help
+ ******************************
+
+
+
 Change
 ----------------
 

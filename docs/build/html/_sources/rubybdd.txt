@@ -20,7 +20,7 @@ The following screen shot shows the full effort of Ruby Bdd.
 
 .. code-block:: bash
 
- kevells@corp:/# cleopatra RubyBDD help
+ kevell@corp:/# cleopatra RubyBDD help
 
  ******************************
 
@@ -54,6 +54,61 @@ When the user input as yes automatically it will install Ruby Bdd with checking 
 
 .. code-block:: bash
 
+ kevell@corp:/# cleopatra ruby-bdd install
+
+ Install Ruby BDD? (Y/N)
+ Y
+ *******************************
+ *        Pharaoh Tools        *
+ *          !Ruby BDD!!        *
+ *******************************
+ ERROR:  Error installing cucumber:
+	ERROR: Failed to build gem native extension.
+
+        /usr/bin/ruby1.9.1 extconf.rb
+ /usr/lib/ruby/1.9.1/rubygems/custom_require.rb:36:in `require': cannot load such file -- mkmf (LoadError)
+	from /usr/lib/ruby/1.9.1/rubygems/custom_require.rb:36:in `require'
+	from extconf.rb:1:in `<main>'
+
+
+ Gem files will remain installed in /var/lib/gems/1.9.1/gems/gherkin-2.12.2 for inspection.
+ Results logged to /var/lib/gems/1.9.1/gems/gherkin-2.12.2/ext/gherkin_lexer_ar/gem_make.out
+ INFO:  `gem install -y` is now default and will be removed
+ INFO:  use --ignore-dependencies to install only the gems you list
+ Building native extensions.  This could take a while...
+ [Pharaoh Logging] Adding Package cucumber from the Packager Gem did not execute correctly
+ ERROR:  Error installing capybara:
+	ERROR: Failed to build gem native extension.
+
+        /usr/bin/ruby1.9.1 extconf.rb
+ /usr/lib/ruby/1.9.1/rubygems/custom_require.rb:36:in `require': cannot load such file -- mkmf (LoadError)
+	from /usr/lib/ruby/1.9.1/rubygems/custom_require.rb:36:in `require'
+	from extconf.rb:4:in `<main>'
+
+
+ Gem files will remain installed in /var/lib/gems/1.9.1/gems/nokogiri-1.6.6.2 for inspection.
+ Results logged to /var/lib/gems/1.9.1/gems/nokogiri-1.6.6.2/ext/nokogiri/gem_make.out
+ INFO:  `gem install -y` is now default and will be removed
+ INFO:  use --ignore-dependencies to install only the gems you list
+ Building native extensions.  This could take a while...
+ [Pharaoh Logging] Adding Package capybara from the Packager Gem did not execute correctly
+ ERROR:  While executing gem ... (Gem::DependencyError)
+     Unable to resolve dependencies: calabash-android requires rubyzip (~> 0.9.9); xamarin-test-cloud requires rubyzip (~> 1.1)
+ INFO:  `gem install -y` is now default and will be removed
+ INFO:  use --ignore-dependencies to install only the gems you list
+ [Pharaoh Logging] Adding Package calabash from the Packager Gem did not execute correctly
+ ... All done!
+ *******************************
+ Thanks for installing , visit www.pharaohtools.com for more
+ ******************************
+ 
+
+ Single App Installer:
+ --------------------------------------------
+ RubyBDD: Success
+ ------------------------------
+ Installer Finished
+ ******************************
 
 Option
 ---------------

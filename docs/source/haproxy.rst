@@ -59,6 +59,75 @@ The pictorial representation of the above command is listed below,
 
 .. code-block:: bash
 
+ 
+ kevell@corp:/# cleopatra haproxy install
+ Install HA Proxy Server? (Y/N)
+ y
+ *******************************
+ *        Pharaoh Tools        *
+ *         HA Proxy Server!        *
+ *******************************
+ [Pharaoh Logging] Package haproxy from the Packager Apt is already installed, so not installing
+ HA Proxy Init script config file /etc/default/haproxy added
+ [Pharaoh Logging] Restarting haproxy service
+ [ALERT] 041/154050 (17460) : parsing [/etc/haproxy/haproxy.cfg:25] : unknown keyword '1' in 'defaults' section
+ [ALERT] 041/154050 (17460) : parsing [/etc/haproxy/haproxy.cfg:32] : unknown option 'tcp-check'.
+ [ALERT] 041/154050 (17460) : parsing [/etc/haproxy/haproxy.cfg:34] : unknown keyword 'tcp-check' in 'backend' section
+ [ALERT] 041/154050 (17460) : parsing [/etc/haproxy/haproxy.cfg:35] : unknown keyword 'tcp-check' in 'backend' section
+ [ALERT] 041/154050 (17460) : parsing [/etc/haproxy/haproxy.cfg:36] : unknown keyword 'tcp-check' in 'backend' section
+ [ALERT] 041/154050 (17460) : parsing [/etc/haproxy/haproxy.cfg:37] : unknown keyword 'tcp-check' in 'backend' section
+ [ALERT] 041/154050 (17460) : parsing [/etc/haproxy/haproxy.cfg:38] : unknown keyword 'tcp-check' in 'backend' section
+ [ALERT] 041/154050 (17460) : parsing [/etc/haproxy/haproxy.cfg:39] : unknown keyword 'tcp-check' in 'backend' section
+ [ALERT] 041/154050 (17460) : Error(s) found in configuration file : /etc/haproxy/haproxy.cfg
+ [ALERT] 041/154050 (17460) : Fatal errors found in configuration.
+ * Restarting haproxy haproxy
+   ...fail!
+ ... All done!
+ *******************************
+ Thanks for installing , visit www.pharaohtools.com for more
+ ******************************
+
+
+ Single App Installer:
+ --------------------------------------------
+ HAProxy: Success
+ ------------------------------
+ Installer Finished
+ ******************************
+
+
+
+Options
+-----------                               
+
+
+.. cssclass:: table-bordered
+
+ +--------------------------+--------------------------------------+----------------+----------------------------------------------+
+ | Parameters		    | Alternative Parameters		   | Options	    | Comments					   |
+ +==========================+======================================+================+==============================================+
+ |cleopatra HAProxy  	    | HAProxy , ha-proxy, haproxy	   | Y		    | System starts installation process	   |
+ |Install		    |					   |		    |						   |
+ +--------------------------+--------------------------------------+----------------+----------------------------------------------+
+ |cleopatra  HAProxy 	    | HAProxy , ha-proxy, haproxy	   | N		    | System stops installation process		   |
+ |Install|		    |					   |		    |						   |
+ +--------------------------+--------------------------------------+----------------+----------------------------------------------+
+
+
+Configuration
+--------------------
+
+This command helps in configuring the load balancing with HAproxy server. Once the below given command is executed the system provides you with the default value for each section, if there are any changes to be done, the user can provide the data. 
+
+.. code-block:: bash
+
+                cleopatra HAproxy configure
+
+The screenshot for the above command is listed below,
+
+.. code-block:: bash
+
+
  kevell@corp:/# cleopatra haproxy configure
 
  *******************************
@@ -119,34 +188,6 @@ The pictorial representation of the above command is listed below,
  ------------------------------
  Installer Finished
  ******************************
-
-
-
-Options
------------                               
-
-
-.. cssclass:: table-bordered
-
- +--------------------------+--------------------------------------+----------------+----------------------------------------------+
- | Parameters		    | Alternative Parameters		   | Options	    | Comments					   |
- +==========================+======================================+================+==============================================+
- |cleopatra HAProxy  	    | HAProxy , ha-proxy, haproxy	   | Y		    | System starts installation process	   |
- |Install		    |					   |		    |						   |
- +--------------------------+--------------------------------------+----------------+----------------------------------------------+
- |cleopatra  HAProxy 	    | HAProxy , ha-proxy, haproxy	   | N		    | System stops installation process		   |
- |Install|		    |					   |		    |						   |
- +--------------------------+--------------------------------------+----------------+----------------------------------------------+
-
-
-Configuration
---------------------
-
-This command helps in configuring the load balancing with HAproxy server. Once the below given command is executed the system provides you with the default value for each section, if there are any changes to be done, the user can provide the data. 
-
-.. code-block:: bash
-
-                cleopatra HAproxy configure
 
 
 Benefits

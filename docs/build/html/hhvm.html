@@ -139,7 +139,7 @@
 </pre></div>
 </div>
 <p>The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under HHVM.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra HHVM <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# cleopatra HHVM <span class="nb">help</span>
 ******************************
 
 
@@ -448,6 +448,33 @@ Installer Finished
 <h2>Un installation<a class="headerlink" href="#un-installation" title="Permalink to this headline">¶</a></h2>
 <p>The command used for un installing the hhvm is shown below.</p>
 <div class="highlight-bash"><div class="highlight"><pre>cleopatra HHVM uninstall
+</pre></div>
+</div>
+<p>The screenshot for the above command is listed below,</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# cleopatra hhvm uninstall
+
+Uninstall HHVM? <span class="o">(</span>Y/N<span class="o">)</span>
+y
+*******************************
+*        Pharaoh Tools        *
+*          ! HHVM !        *
+*******************************
+PHP Warning:  Illegal string offset <span class="s1">&#39;object&#39;</span> in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BaseLinuxApp.php on line 290
+PHP Warning:  Illegal string offset <span class="s1">&#39;method&#39;</span> in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BaseLinuxApp.php on line 290
+PHP Warning:  Illegal string offset <span class="s1">&#39;params&#39;</span> in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BaseLinuxApp.php on line 290
+PHP Warning:  call_user_func_array<span class="o">()</span> expects parameter <span class="m">1</span> to be a valid callback, class <span class="s1">&#39;p&#39;</span> not found in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BaseLinuxApp.php on line 290
+... All <span class="k">done</span>!
+*******************************
+Thanks <span class="k">for</span> installing , visit www.pharaohtools.com <span class="k">for</span> more
+******************************
+
+
+Single App Uninstaller:
+------------------------------
+HHVM: Success
+------------------------------
+Installer Finished
+******************************
 </pre></div>
 </div>
 </div>

@@ -170,6 +170,82 @@ End Help
 </pre></div>
 </div>
 <p>The pictorial representation of the above command is listed below,</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# cleopatra haproxy install
+Install HA Proxy Server? <span class="o">(</span>Y/N<span class="o">)</span>
+y
+*******************************
+*        Pharaoh Tools        *
+*         HA Proxy Server!        *
+*******************************
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Package haproxy from the Packager Apt is already installed, so not installing
+HA Proxy Init script config file /etc/default/haproxy added
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Restarting haproxy service
+<span class="o">[</span>ALERT<span class="o">]</span> 041/154050 <span class="o">(</span>17460<span class="o">)</span> : parsing <span class="o">[</span>/etc/haproxy/haproxy.cfg:25<span class="o">]</span> : unknown keyword <span class="s1">&#39;1&#39;</span> in <span class="s1">&#39;defaults&#39;</span> section
+<span class="o">[</span>ALERT<span class="o">]</span> 041/154050 <span class="o">(</span>17460<span class="o">)</span> : parsing <span class="o">[</span>/etc/haproxy/haproxy.cfg:32<span class="o">]</span> : unknown option <span class="s1">&#39;tcp-check&#39;</span>.
+<span class="o">[</span>ALERT<span class="o">]</span> 041/154050 <span class="o">(</span>17460<span class="o">)</span> : parsing <span class="o">[</span>/etc/haproxy/haproxy.cfg:34<span class="o">]</span> : unknown keyword <span class="s1">&#39;tcp-check&#39;</span> in <span class="s1">&#39;backend&#39;</span> section
+<span class="o">[</span>ALERT<span class="o">]</span> 041/154050 <span class="o">(</span>17460<span class="o">)</span> : parsing <span class="o">[</span>/etc/haproxy/haproxy.cfg:35<span class="o">]</span> : unknown keyword <span class="s1">&#39;tcp-check&#39;</span> in <span class="s1">&#39;backend&#39;</span> section
+<span class="o">[</span>ALERT<span class="o">]</span> 041/154050 <span class="o">(</span>17460<span class="o">)</span> : parsing <span class="o">[</span>/etc/haproxy/haproxy.cfg:36<span class="o">]</span> : unknown keyword <span class="s1">&#39;tcp-check&#39;</span> in <span class="s1">&#39;backend&#39;</span> section
+<span class="o">[</span>ALERT<span class="o">]</span> 041/154050 <span class="o">(</span>17460<span class="o">)</span> : parsing <span class="o">[</span>/etc/haproxy/haproxy.cfg:37<span class="o">]</span> : unknown keyword <span class="s1">&#39;tcp-check&#39;</span> in <span class="s1">&#39;backend&#39;</span> section
+<span class="o">[</span>ALERT<span class="o">]</span> 041/154050 <span class="o">(</span>17460<span class="o">)</span> : parsing <span class="o">[</span>/etc/haproxy/haproxy.cfg:38<span class="o">]</span> : unknown keyword <span class="s1">&#39;tcp-check&#39;</span> in <span class="s1">&#39;backend&#39;</span> section
+<span class="o">[</span>ALERT<span class="o">]</span> 041/154050 <span class="o">(</span>17460<span class="o">)</span> : parsing <span class="o">[</span>/etc/haproxy/haproxy.cfg:39<span class="o">]</span> : unknown keyword <span class="s1">&#39;tcp-check&#39;</span> in <span class="s1">&#39;backend&#39;</span> section
+<span class="o">[</span>ALERT<span class="o">]</span> 041/154050 <span class="o">(</span>17460<span class="o">)</span> : Error<span class="o">(</span>s<span class="o">)</span> found in configuration file : /etc/haproxy/haproxy.cfg
+<span class="o">[</span>ALERT<span class="o">]</span> 041/154050 <span class="o">(</span>17460<span class="o">)</span> : Fatal errors found in configuration.
+* Restarting haproxy haproxy
+  ...fail!
+... All <span class="k">done</span>!
+*******************************
+Thanks <span class="k">for</span> installing , visit www.pharaohtools.com <span class="k">for</span> more
+******************************
+
+
+Single App Installer:
+--------------------------------------------
+HAProxy: Success
+------------------------------
+Installer Finished
+******************************
+</pre></div>
+</div>
+</div>
+<div class="section" id="options">
+<h2>Options<a class="headerlink" href="#options" title="Permalink to this headline">¶</a></h2>
+<table border="1" class="table-bordered docutils">
+<colgroup>
+<col width="21%" />
+<col width="30%" />
+<col width="13%" />
+<col width="37%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head">Parameters</th>
+<th class="head">Alternative Parameters</th>
+<th class="head">Options</th>
+<th class="head">Comments</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td>cleopatra HAProxy
+Install</td>
+<td>HAProxy , ha-proxy, haproxy</td>
+<td>Y</td>
+<td>System starts installation process</td>
+</tr>
+<tr class="row-odd"><td>cleopatra  HAProxy
+Install|</td>
+<td>HAProxy , ha-proxy, haproxy</td>
+<td>N</td>
+<td>System stops installation process</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="configuration">
+<h2>Configuration<a class="headerlink" href="#configuration" title="Permalink to this headline">¶</a></h2>
+<p>This command helps in configuring the load balancing with HAproxy server. Once the below given command is executed the system provides you with the default value for each section, if there are any changes to be done, the user can provide the data.</p>
+<div class="highlight-bash"><div class="highlight"><pre>cleopatra HAproxy configure
+</pre></div>
+</div>
+<p>The screenshot for the above command is listed below,</p>
 <div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# cleopatra haproxy configure
 
 *******************************
@@ -230,45 +306,6 @@ HA Proxy Server: Success
 ------------------------------
 Installer Finished
 ******************************
-</pre></div>
-</div>
-</div>
-<div class="section" id="options">
-<h2>Options<a class="headerlink" href="#options" title="Permalink to this headline">¶</a></h2>
-<table border="1" class="table-bordered docutils">
-<colgroup>
-<col width="21%" />
-<col width="30%" />
-<col width="13%" />
-<col width="37%" />
-</colgroup>
-<thead valign="bottom">
-<tr class="row-odd"><th class="head">Parameters</th>
-<th class="head">Alternative Parameters</th>
-<th class="head">Options</th>
-<th class="head">Comments</th>
-</tr>
-</thead>
-<tbody valign="top">
-<tr class="row-even"><td>cleopatra HAProxy
-Install</td>
-<td>HAProxy , ha-proxy, haproxy</td>
-<td>Y</td>
-<td>System starts installation process</td>
-</tr>
-<tr class="row-odd"><td>cleopatra  HAProxy
-Install|</td>
-<td>HAProxy , ha-proxy, haproxy</td>
-<td>N</td>
-<td>System stops installation process</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="section" id="configuration">
-<h2>Configuration<a class="headerlink" href="#configuration" title="Permalink to this headline">¶</a></h2>
-<p>This command helps in configuring the load balancing with HAproxy server. Once the below given command is executed the system provides you with the default value for each section, if there are any changes to be done, the user can provide the data.</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra HAproxy configure
 </pre></div>
 </div>
 </div>

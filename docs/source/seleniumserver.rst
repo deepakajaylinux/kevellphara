@@ -53,6 +53,68 @@ The command used for installing the Selenium server is simple as entering the co
 		cleopatra seleniumserver install
 
 
+The screenshot for the above command is listed below,
+
+.. code-block:: bash
+
+ kevell@corp:/# cleopatra selenium install
+
+ Install Selenium Server? (Y/N)
+ y
+ *******************************
+ *        Pharaoh Tools        *
+ *         Selenium Srv        *
+ *******************************
+ Enter Selenium Version
+ (0) 2.39
+ (1) 2.40
+ (2) 2.41
+ (3) 2.42
+ (4) 2.43
+ (5) 2.44
+ 5
+ PHP Notice:  Undefined index: version in /opt/cleopatra/cleopatra/src/Modules/SeleniumServer/Model/SeleniumServerAllLinux.php on line 50
+ [Pharaoh Logging] Ensure module install is not checking versions
+ [Pharaoh Logging] Command 'git' found
+ [Pharaoh Logging] Command 'gitk' found
+ [Pharaoh Logging] Command 'git-cola' found
+ [Pharaoh Logging] Not installing as already installed
+ [Pharaoh Logging] Ensure module install is not checking versions
+ [Pharaoh Logging] Module Java reports itself as Installed
+ [Pharaoh Logging] Not installing as already installed
+ Creating /tmp/cleopatra-temp-script-96670533394.sh
+ chmod 755 /tmp/cleopatra-temp-script-96670533394.sh 2>/dev/null
+ Changing /tmp/cleopatra-temp-script-96670533394.sh Permissions
+ Executing /tmp/cleopatra-temp-script-96670533394.sh
+ --2015-02-12 15:31:34--  http://selenium-release.storage.googleapis.com//selenium-server-standalone-.0.jar
+ Resolving selenium-release.storage.googleapis.com (selenium-release.storage.googleapis.com)... 74.125.236.43, 74.125.236.42, 74.125.236.44, ...
+ Connecting to selenium-release.storage.googleapis.com (selenium-release.storage.googleapis.com)|74.125.236.43|:80... connected.
+ HTTP request sent, awaiting response... 404 Not Found
+ 2015-02-12 15:31:35 ERROR 404: Not Found.
+ 
+ mv: cannot stat ‘/tmp/selenium/*’: No such file or directory
+ mv: cannot stat ‘selenium-server-standalone-.0.jar’: No such file or directory
+ Temp File /tmp/cleopatra-temp-script-96670533394.sh Removed
+ Program Executor Deleted if existed
+ ... All done!
+ *******************************
+ Thanks for installing , visit www.pharaohtools.com for more
+ ******************************
+ 
+
+ Single App Installer:
+ --------------------------------------------
+ SeleniumServer: Success
+ ------------------------------
+ Installer Finished
+ ******************************
+
+
+
+Option
+------------
+
+
 After inputting the command above, the following operations occurs as shown in the tabular format.
 
 

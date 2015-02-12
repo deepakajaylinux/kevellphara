@@ -554,10 +554,12 @@ Playing with Cleopatra Modules
    apachereverseproxy
    apacheserver
    apachevirtualhosteditor_cleo
+   apt
    aptana
    autopilot_cleo
    awstats
    behatcleo
+   boxify
    cassandra
    chgrp
    chgrp1
@@ -567,9 +569,12 @@ Playing with Cleopatra Modules
    chromedriver
    citadel
    cleo
+   cleofy
    composermodule
    copy1
    devtools
+   dnsify
+   encryption
    environmentconfig
    file
    firefox

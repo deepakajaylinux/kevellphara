@@ -47,7 +47,7 @@ If the user gives Y then Phlagrant will be installed. The following Screen shot 
 
 .. code-block:: bash
 
-	Kevells@corp:~# cleopatra phlagrant install
+	Kevell@corp:~# cleopatra phlagrant install
 	Install Phlagrant ? (Y/N) 
 	y
 	*******************************
@@ -97,8 +97,8 @@ If the user gives N then it will Exit the screen. The following Screen shot demo
 	******************************
 
 
-	Option
-	------------
+Option
+-----------
 
 .. cssclass:: table-bordered
 

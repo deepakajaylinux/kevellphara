@@ -620,6 +620,7 @@ Playing with Cleopatra Modules
    pecl
    phake
    pharaohtools
+   phlagrant_cleo
    phpapc
    phpcodebeautifier
    phpconf
@@ -637,7 +638,6 @@ Playing with Cleopatra Modules
    phpvm 
    phrankinsense
    ping
-   cleophlagrant
    port
    postgresserver
    process

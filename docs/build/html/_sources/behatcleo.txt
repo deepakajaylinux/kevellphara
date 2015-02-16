@@ -74,7 +74,7 @@ If the user proceeds the installation by inputting as Y, the following steps are
  +----------------------------------+-----------------------------------------+--------------+---------------------------------------------+
  | Parameters			    | Path				      | Option	     | Comment					   |
  +==================================+=========================================+==============+=============================================+
- |Program data directory (dafault)  | "/opt/behat(corresponding module)"      | Yes	     | If the user to proceed installation with    |
+ |Program data directory (default)  | "/opt/behat(corresponding module)"      | Yes	     | If the user to proceed installation with    |
  |				    |					      |		     | the default program data directory they     |
  |				    |					      |		     | can input as Yes				   |
  +----------------------------------+-----------------------------------------+--------------+---------------------------------------------+

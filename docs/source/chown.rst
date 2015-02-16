@@ -36,8 +36,9 @@ After giving the command, the command will list the help options. The following 
 	******************************
 
 
-Installation
-------------
+
+Path
+-------
 
 It is an excellent process for this module under Cleopatra by slightly using the command given below,
 

@@ -584,6 +584,8 @@ Playing with Cleopatra Modules
    firefox24   
    firefox33
    firewall
+   generator
+   gimp
    gitbucket 
    gitkeysafe  
    gitlab

@@ -61,6 +61,11 @@ If the user proceeds the installation, the following process are involved while 
 
 Finally, the installation of Awstats gets completed successfully as depicted in the following screenshots:
 
+.. code-block:: bash
+
+
+
+
 Features of Awstats
 -------------------------
 

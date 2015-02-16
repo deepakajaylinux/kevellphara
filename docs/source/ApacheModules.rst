@@ -144,6 +144,10 @@ The following screen shots will give visual effect for the installation of this 
 
 .. _making-a-table:
 
+
+Option
+----------
+
 .. cssclass:: table-bordered
 
  +-------------------------------+--------------------+------------------------------------------------------------------------------+

@@ -573,6 +573,7 @@ Playing with Cleopatra Modules
    composermodule
    copy1
    devtools
+   digitalocean
    dnsify
    encryption
    environmentconfig

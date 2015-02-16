@@ -23,7 +23,7 @@ The pictorial representation of the screenshot is listed below,
 .. code-block:: bash
  
 
- kevells@corp:/# cleopatra Citadel help
+ kevell@corp:/# cleopatra Citadel help
  ******************************
 
 
@@ -56,7 +56,7 @@ When the user needs to install Citadel server in machine, you can input the foll
 
 
 
- kevells@corp:/# cleopatra Citadel install
+ kevell@corp:/# cleopatra Citadel install
  Install Citadel Server? (Y/N) 
  Y
  *******************************

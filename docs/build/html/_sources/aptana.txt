@@ -65,7 +65,7 @@ After inputting the command above, the following process occurs as shown in the 
  |				  | 		    | user can use aptana 	      | under cleopatra			      |
  +--------------------------------+-----------------+---------------------------------+---------------------------------------+
  |Install Aptana?(Y/N)            | No              | Instead of using Aptana the     | If the user wish to quit installation |
- |                                |                 | user can use aptana             | /un installation they can input as N| |
+ |                                |                 | user can use aptana             | they can input as N|                  |
  +--------------------------------+-----------------+---------------------------------+---------------------------------------+
 
 
@@ -90,8 +90,8 @@ After inputting the command above, the following process occurs as shown in the 
  |UnInstall Aptana?(Y/N)          | Yes             | Instead of using Aptana the     | It will uninstall Aptana module under |         
  |                                |                 | user can use aptana             | cleopatra                             |
  +--------------------------------+-----------------+---------------------------------+---------------------------------------+
- |UnInstall Aptana?(Y/N)          | No              | Instead of using Aptana the     | If the user wish to quit installation |
- |                                |                 | user can use aptana             | /un installation they can input as N| |
+ |UnInstall Aptana?(Y/N)          | No              | Instead of using Aptana the     | If the user wish to quit              |
+ |                                |                 | user can use aptana             | uninstallation they can input as N|   |
  +--------------------------------+-----------------+---------------------------------+---------------------------------------+
 
 

@@ -17,7 +17,7 @@ Help command
 
 .. code-block:: bash
  
-	kevells@corp:/# cleopatra Cleopatra help
+	kevell@corp:/# cleopatra Cleopatra help
 	******************************
 
 
@@ -51,7 +51,7 @@ The following screen shot enumerate it.
 
 .. code-block:: bash
 
- kevells@corp:/# cleopatra cleopatra install
+ kevell@corp:/# cleopatra cleopatra install
 
  Install Cleopatra - Update to latest version ? (Y/N)
  y

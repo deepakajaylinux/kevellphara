@@ -1,5 +1,6 @@
-Apache Module
-=============
+==============
+ApacheModules
+==============
 
 Synopsis
 --------
@@ -19,7 +20,7 @@ After giving the command, the command will list the help options. The following 
 
 .. code-block:: bash
 
- kevells@corp:/# cleopatra ApacheModules help
+ kevell@corp:/# cleopatra ApacheModules help
  ******************************
 
 
@@ -58,7 +59,7 @@ The following screen shots will give visual effect for the installation of this 
 
 .. code-block:: bash
 
- kevells@corp:/#  cleopatra apache-modules install
+ kevell@corp:/#  cleopatra apache-modules install
  Install Apache Modules? (Y/N) 
  y
  *******************************
@@ -153,8 +154,6 @@ Option
  +-------------------------------+--------------------+------------------------------------------------------------------------------+
  |Parameters	   		 | Required	      |  Comments 								     |
  +===============================+====================+==============================================================================+
- |Install		   	 |Yes		      |  It will install the apache module under Cleopatra			     |
- +-------------------------------+--------------------+------------------------------------------------------------------------------+
  |Install Apache Module? (Y/N)	 |Yes                 |  If the user gives input as yes, it will install the module.                 |
  +-------------------------------+--------------------+------------------------------------------------------------------------------+
  |Install Apache Module? (Y/N)	 |No 		      |  If the user gives input as no, it will be exited.|			     |

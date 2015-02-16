@@ -64,10 +64,9 @@ After inputting the command above, the following process occurs as shown in the 
  |Install Aptana?(Y/N)            | Yes		    | Instead of using Aptana the     | It will install Aptana module         |
  |				  | 		    | user can use aptana 	      | under cleopatra			      |
  +--------------------------------+-----------------+---------------------------------+---------------------------------------+
- |Install Aptana?(Y/N)            | No              | Instead of using Aptana the     | The user has to exit the installation |
- |                                |                 | user can use aptana|            | 		                      |
+ |Install Aptana?(Y/N)            | No              | Instead of using Aptana the     | If the user wish to quit installation |
+ |                                |                 | user can use aptana             | /un installation they can input as N| |
  +--------------------------------+-----------------+---------------------------------+---------------------------------------+
-
 
 
 
@@ -88,11 +87,11 @@ After inputting the command above, the following process occurs as shown in the 
  +--------------------------------+-----------------+---------------------------------+---------------------------------------+
  | Parameters                     | Options         | Alternative parameters          | Comments                              |
  +================================+=================+=================================+=======================================+
- |UnInstall Aptana?(Y/N)          | Yes             | Instead of using Aptana the     | It will uninstall Aptana module       |
- |                                |                 | user can use aptana             | under cleopatra                       |
+ |UnInstall Aptana?(Y/N)          | Yes             | Instead of using Aptana the     | It will uninstall Aptana module under |         
+ |                                |                 | user can use aptana             | cleopatra                             |
  +--------------------------------+-----------------+---------------------------------+---------------------------------------+
- |UnInstall Aptana?(Y/N)          | No              | Instead of using Aptana the     | The user has to exit the              |
- |                                |                 | user can use aptana             | uninstallation|                       |
+ |UnInstall Aptana?(Y/N)          | No              | Instead of using Aptana the     | If the user wish to quit installation |
+ |                                |                 | user can use aptana             | /un installation they can input as N| |
  +--------------------------------+-----------------+---------------------------------+---------------------------------------+
 
 

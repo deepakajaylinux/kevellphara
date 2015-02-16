@@ -58,7 +58,7 @@ After giving the command above, the tool will ask as
 
 if you give an input as Y, the module will get installed successfully.
 
-It will also throw some commands to specify the non-default values for LockFile, PidFile, Timeout, KeepAlive, MaxKeepAliveRequest, KeepAliveTimeout. If the user gives input as Y(Yes) it will automatically fix the default value. If the user gives input as N(No) then it will enquire about the values from the user.
+I wird auch werfen einige Befehle, um die Nicht- Standardwerte für LockFile , PidFile , Timeout , Keepalive , MaxKeepAliveRequest , Keepalivetimeout angeben. Wenn der Benutzer gibt Eingang als Y ( Yes ), wird es automatisch zu beheben Sie den Standardwert . Wenn der Benutzer gibt Eingabe N (No), dann wird es über die Werte von dem Benutzer zu fragen.                                                                                                                                                                                                                                                                                                                         
 
 The screen shot given below explains visually about the steps and commands involves in installation.
 
@@ -109,7 +109,7 @@ Options
 	+=============================+===================================+==========+==================================+
 	|Install Apache conf? (Y/N)   | Instead of apachemodules, we can  | Yes      | If the user gives input as yes,  |
 	|	                      | use ApacheModules, apachemods,    |          | it will install the module.      | 
- 	|                             | apache-modules also    	          |	     | the module.                      |
+ 	|                             | apache-modules also    	          |	     |                                  |
         +-----------------------------+-----------------------------------+----------+----------------------------------+
         |Install Apache conf? (Y/N)   | Instead of apachemodules, we can  | No       | If the user gives input as No,   |
         |                             | use ApacheModules, apachemods,    |          | it will get exit.                |

@@ -151,13 +151,17 @@ Option
 
 .. cssclass:: table-bordered
 
- +-------------------------------+--------------------+------------------------------------------------------------------------------+
- |Parameters	   		 | Required	      |  Comments 								     |
- +===============================+====================+==============================================================================+
- |Install Apache Module? (Y/N)	 |Yes                 |  If the user gives input as yes, it will install the module.                 |
- +-------------------------------+--------------------+------------------------------------------------------------------------------+
- |Install Apache Module? (Y/N)	 |No 		      |  If the user gives input as no, it will be exited.|			     |
- +-------------------------------+--------------------+------------------------------------------------------------------------------+
+ +-------------------------------+--------------------+-----------------------------------------+--------------------------------------+
+ |Parameters	   		 | Required	      |  Alternative Parameters		        | Comments                             |
+ +===============================+====================+=========================================+======================================+
+ |Install Apache Module? (Y/N)	 |Yes                 |  Instead of using apachemodules the     | If the user wish to install they can |
+ |                               |                    |  user can use ApacheModules, apachemods | input as Y.                          |
+ |                               |                    |  apache-modules                         |                                      |
+ +-------------------------------+--------------------+-----------------------------------------+--------------------------------------+
+ |Install Apache Module? (Y/N)	 |No 		      |  Instead of using apachemodules the     | If the user wish to quit             |
+ |                               |                    |  user can use ApacheModules, apachemods | uninstallation they can input as N.  |  
+ |                               |                    |  apache-modules|                        |                                      |
+ +-------------------------------+--------------------+-----------------------------------------+--------------------------------------+
 
 
 Benefits 

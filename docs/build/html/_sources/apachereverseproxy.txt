@@ -22,7 +22,7 @@ The screen shot shown below gives you an pictorial representation of help comman
 
 .. code-block:: bash
 
-          Kevells@corp/# cleopatra ApacheReverseProxyModules help
+          Kevell@corp/# cleopatra ApacheReverseProxyModules help
 	  ******************************
 
 

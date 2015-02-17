@@ -584,6 +584,7 @@ Playing with Cleopatra Modules
    firefox24   
    firefox33
    firewall
+   gem
    generator
    gimp
    gitbucket 

@@ -23,7 +23,7 @@ The screen shot as shown below, visually represent the usage of the help command
 .. code-block:: bash
 
 
- kevells@corp:/# cleopatra ApacheServer help
+ kevell@corp:/# cleopatra ApacheServer help
  ******************************
 
 

@@ -105,6 +105,8 @@ Options
  |                       | jenkins-sudo-nopass,jenkins-sudo-passwordless||                |                                        | 
  +-----------------------+-----------------------------------------------+----------------+----------------------------------------+
 
+Wenn der Benutzer wünschen, den Installationsprozess können sie Eingang als Y. gehen
+
 
 Benefits
 ------------

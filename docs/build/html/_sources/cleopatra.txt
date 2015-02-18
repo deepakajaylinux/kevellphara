@@ -572,6 +572,7 @@ Playing with Cleopatra Modules
    cleofy
    composermodule
    copy1
+   dapperstrano_cleo
    devtools
    digitalocean
    dnsify
@@ -665,6 +666,7 @@ Playing with Cleopatra Modules
    sshharden
    sshKeygen
    sshkeyinstall
+   sshkeystore
    standardtools
    sudonopass
    svn

@@ -47,8 +47,11 @@ It is an excellent process for this module under Cleopatra by slightly using the
 	cleopatra chown path –yes—guess—recursive—path=/Cleopatra—owner=Kevells
 
 Then we can enter the input.
+
 Enter Ownership User
+
 After typing the owner name
+
 It will display Chown result success.
 
 
@@ -94,8 +97,8 @@ Option
 Benefits 
 --------
 
- * The module can change the owner at any time with Cleopatra.
- * While doing recursive process if you change single file the entire folder can also be changed.
- * We can verify the current status of the owner.
+* The module can change the owner at any time with Cleopatra.
+* While doing recursive process if you change single file the entire folder can also be changed.
+* We can verify the current status of the owner.
 
 

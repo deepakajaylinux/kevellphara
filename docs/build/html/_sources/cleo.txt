@@ -1,6 +1,6 @@
-=========
+===========
 Cleopatra
-=========
+===========
 
 Synopsis
 --------
@@ -89,17 +89,17 @@ The following screen shot enumerate it.
 .. cssclass:: table-bordered
 
 
-	+-------------------------------+--------------------------+--------------------------------+
-	| 	Parameters	        | option	  	   |Comments			    |
-	+===============================+==========================+================================+
-	|Install cleopatra cleopatra    |	Y(YES)             |It will install Cleopatra 	    |
-	|Update to latest version?	|			   |				    |
-	|(Y/N)				|	     	   	   |under Cleopatra                 |
-	+-------------------------------+--------------------------+--------------------------------+
-	|Install cleopatra cleopatra	|			   |				    |	
-      	|Update to latest version?	| 			   |				    |
-	|(Y/N)			       	|     	N(NO)		   |It will exit from installation| |
-	+-------------------------------+--------------------------+--------------------------------+
+	+-------------------------------+---------------------------------------+--------+------------------------------+
+	| 	Parameters	        | Alternative Parameter                 | Option | Comments		        | 
+	+===============================+=======================================+========+==============================+
+	|Install cleopatra cleopatra    | There are three parameters which can  | Y(Yes) | It will install cleopatra 	|
+	|Update to latest version?	| be used. 			        |	 |	           		|
+	|(Y/N)				| Cleopatra, cleo, cleopatra	     	|   	 |                              |
+	+-------------------------------+---------------------------------------+--------+------------------------------+
+	|Install cleopatra cleopatra	| There are three parameters which can  | N(No)  | It will exit from            |
+      	|Update to latest version?	| be used.		     	        |        | installation                 |
+	|(Y/N)			       	| Cleopatra, cleo, cleopatra|    	|  	 |                              |        
+	+-------------------------------+---------------------------------------+--------+------------------------------+
 
 Benefits
 --------

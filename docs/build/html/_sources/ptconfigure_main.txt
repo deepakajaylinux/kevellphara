@@ -351,7 +351,7 @@ here, the screenshot denotes the display of all modules available under ptconfig
 .. code-block:: bash
 
     
- Kevell@Corp:/# ptconfigure 
+ Kevell@corp:/# ptconfigure 
  ******************************
 
 
@@ -527,7 +527,7 @@ The screenshot shown under explains the usage of the module Behat under ptconfig
 
 .. code-block:: bash
 
-        Kevell@Corp:/# ptconfigure behat help
+        Kevell@corp:/# ptconfigure behat help
         ******************************
 
 

@@ -84,255 +84,244 @@ It is simple, get the terminal open via the option "Run as Administrator", and t
 Available Modules
 ******************
 
-DummyLinuxModule - Dummy Linux Module
+ DummyLinuxModule - Dummy Linux Module
 
-AWSCloudFormation - The AWS CloudFormation CLI Tools
+ ApacheConf - Apache Conf - Install a Apache Configuration
 
-AWSCloudWatch - The AWS CloudWatch CLI Tools
+ ApacheModules - Apache Modules - Commonly used modules for Apache
 
-AWSEC2 - AWS EC2 Server Management Functions
+ ApacheReverseProxyModules - Apache Reverse Proxy Modules - Reverse Proxy/Load Balancer Modules for Apache
 
-ApacheConf - Apache Conf - Install a Apache Configuration
+ ApacheServer - Apache Server - Install or remove the Apache Server
 
-ApacheModules - Apache Modules - Commonly used modules for Apache
+ Apt - Add, Remove or Modify Apts
 
-ApacheReverseProxyModules - Apache Reverse Proxy Modules - Reverse Proxy/Load Balancer Modules for Apache
+ Autopilot - PTConfigure Autopilot - User Defined Installations
 
-ApacheServer - Apache Server - Install or remove the Apache Server
+ Behat - Behat - The PHP BDD Testing Suite
 
-Apt - Add, Remove or Modify Apts
+ Boxify - Boxify Wrapper - Create Cloud Instances
 
-Autopilot - ptconfigure Autopilot - User Defined Installations
+ Chgrp - Chgrp Functionality
 
-Behat - Behat - The PHP BDD Testing Suite
+ Chmod - Chmod Functionality
 
-Boxify - Boxify Wrapper - Create Cloud Instances
+ Chown - Chown Functionality
 
-Chgrp - Chgrp Functionality
+ Chrome - Chrome - Install or remove Chrome
 
-Chmod - Chmod Functionality
+ ChromeDriver - The Chrome Browser remote controlling server
 
-Chown - Chown Functionality
+ Citadel - Citadel Server - Install or remove the Citadel Server
 
-Chrome - Chrome - Install or remove Chrome
+ Cleofy - PTConfigure Cleofyer - Creates default autopilots for your project
 
-ChromeDriver - The Chrome Browser remote controlling server
+ Composer - Composer - Upgrade or Re-install Composer
 
-Citadel - Citadel Server - Install or remove the Citadel Server
+ Copy - Copy Functionality
 
-Cleofy - ptconfigure Cleofyer - Creates default autopilots for your project
+ DNSify - DNSify Wrapper - Ensure the existence or removal of DNS records
 
-ptconfigure - ptconfigure - Upgrade or Re-install ptconfigure
+ DeveloperTools - Developer Tools - IDE's and other tools for Developers
 
-Composer - Composer - Upgrade or Re-install Composer
+ DigitalOcean - Digital Ocean Server Management Functions
 
-Copy - Copy Functionality
+ DigitalOceanV2 - Digital Ocean Server Management Functions - API Version 2
 
-DNSify - DNSify Wrapper - Ensure the existence or removal of DNS records
+ Encryption - Encryption or Decryption of files
 
-Dapperstrano - Dapperstrano - The PHP Automated Website Deployment tool
+ EnvironmentConfig - Environment Configuration - Configure Environments for a project
 
-DeveloperTools - Developer Tools - IDE's and other tools for Developers
+ File - Functions to Modify Files
 
-DigitalOcean - Digital Ocean Server Management Functions
+ FileWatcher - File Watcher - Wait for changes in files, with optional actions on changes
 
-DigitalOceanV2 - Digital Ocean Server Management Functions - API Version 2
+ Firefox - Firefox - Install or remove Firefox
 
-Encryption - Encryption or Decryption of files
+ Firefox14 - Firefox 14 - A version of Firefox highly tested with Selenium Server
 
-EnvironmentConfig - Environment Configuration - Configure Environments for a project
+ Firefox17 - Firefox 17 - A version of Firefox highly tested with Selenium Server
 
-File - Functions to Modify Files
+ Firefox24 - Firefox 24 - A version of Firefox highly tested with Selenium Server
 
-Firefox - Firefox - Install or remove Firefox
+ Firefox33 - Firefox 33 - A version of Firefox highly tested with Selenium Server
 
-Firefox14 - Firefox 14 - A version of Firefox highly tested with Selenium Server
+ Firewall - Add, Remove or Modify Firewalls
 
-Firefox17 - Firefox 17 - A version of Firefox highly tested with Selenium Server
+ GIMP - GIMP - The Image Editor
 
-Firefox24 - Firefox 24 - A version of Firefox highly tested with Selenium Server
+ Gem - Ruby Gems Package Manager
 
-Firefox33 - Firefox 33 - A version of Firefox highly tested with Selenium Server
+ Generator - PTDeploy Autopilot Generator - Generate Autopilot files interactively
 
-Firewall - Add, Remove or Modify Firewalls
+ GitBucket - Git Bucket - The Git SCM Management Web Application
 
-GIMP - GIMP - The Image Editor
+ GitCommand - Git Commands
 
-Gem - Ruby Gems Package Manager
+ GitKeySafe - Git Key-Safe - Install a script for git to allow specifying ssh keys during commands
 
-Generator - Dapperstrano Autopilot Generator - Generate Autopilot files interactively
+ GitLab - Git Lab - The Git SCM Management Web Application
 
-GitBucket - Git Bucket - The Git SCM Management Web Application
+ GitTools - Git Tools - Tools for working with Git SCM
 
-GitKeySafe - Git Key-Safe - Install a script for git to allow specifying ssh keys during commands
+ HAProxy - HA Proxy Server - Install or remove the HA Proxy Server
 
-GitLab - Git Lab - The Git SCM Management Web Application
+ HHVM - HHVM - The PHP Virtual Machine runtime from Facebook
 
-GitTools - Git Tools - Tools for working with Git SCM
+ Hostname - View or Modify Hostname
 
-HAProxy - HA Proxy Server - Install or remove the HA Proxy Server
+ InstallPackage - PTConfigure Predefined Installers
 
-HHVM - HHVM - The PHP Virtual Machine runtime from Facebook
+ IntelliJ - IntelliJ - A great IDE from JetBrains
 
-Hostname - View or Modify Hostname
+ Invoke - SSH Invocation Functions
 
-InstallPackage - ptconfigure Predefined Installers
+ JRush - JRush - The Joomla command line utility from Golden Contact
 
-IntelliJ - IntelliJ - A great IDE from JetBrains
+ Java - Java JDK 1.7
 
-Invoke - SSH Invocation Functions
+ Jenkins - Jenkins - The Java Build Server
 
-JRush - JRush - The Joomla command line utility from Golden Contact
+ JenkinsPlugins - Jenkins PHP Plugins - Common Plugins for Jenkins PHP Builds
 
-Java - Java JDK 1.7
+ JenkinsSudoNoPass - Configure Passwordless Sudo for your Jenkins user
 
-Jenkins - Jenkins - The Java Build Server
+ LigHTTPDServer - LigHTTPD Server - Install or remove the LigHTTPD Server
 
-JenkinsPlugins - Jenkins PHP Plugins - Common Plugins for Jenkins PHP Builds
+ Logging - Logging - Output errors to the logging
 
-JenkinsSudoNoPass - Configure Passwordless Sudo for your Jenkins user
+ MediaTools - Media Tools - Tools to help view and manage Media files
 
-LigHTTPDServer - LigHTTPD Server - Install or remove the LigHTTPD Server
+ Mkdir - Mkdir Functionality
 
-Logging - Logging - Output errors to the logging
+ ModuleManager - Manage the modules used in PTConfigure
 
-MediaTools - Media Tools - Tools to help view and manage Media files
+ MongoDB - MongoDB Server - The MongoDB Datastore Server
 
-Mkdir - Mkdir Functionality
+ MysqlAdmins - Mysql Admins - Install administrative users for Mysql
 
-ModuleManager - Manage the modules used in ptconfigure
+ MysqlServer - Mysql Server - The Mysql RDBMS Server
 
-MongoDB - MongoDB Server - The MongoDB Datastore Server
+ MysqlTools - Mysql Tools - For administering and developing with Mysql
 
-MysqlAdmins - Mysql Admins - Install administrative users for Mysql
+ NagiosServer - Nagios Server - Install or remove the Nagios Server
 
-MysqlServer - Mysql Server - The Mysql RDBMS Server
+ NetworkTools - Network Tools - Tools for working with Networks
 
-MysqlServerGalera - Mysql Server Galera - The Galera Clustering compatible version of Mysql RDBMS Server
+ NginxServer - Nginx Server - Install or remove the Nginx Server
 
-MysqlTools - Mysql Tools - For administering and developing with Mysql
+ NodeJS - Node JS - The Server Side Javascript Engine
 
-NagiosServer - Nagios Server - Install or remove the Nagios Server
+ PECL - Add, Remove or Modify PECLs
 
-NetworkTools - Network Tools - Tools for working with Networks
+ PHPAPC - PHP APC - Commonly used PHP APC
 
-NginxServer - Nginx Server - Install or remove the Nginx Server
+ PHPCI - PHPCI - The PHP Build Server
 
-NodeJS - Node JS - The Server Side Javascript Engine
+ PHPCS - PHP Code Sniffer - The static code analysis tool
 
-PECL - Add, Remove or Modify PECLs
+ PHPConf - PHP Conf - Install a PHP Configuration
 
-PHPAPC - PHP APC - Commonly used PHP APC
+ PHPMD - PHP Mess Detector - The static analysis tool
 
-PHPCI - PHPCI - The PHP Build Server
+ PHPModules - PHP Modules - Commonly used PHP Modules
 
-PHPCS - PHP Code Sniffer - The static code analysis tool
+ PHPSSH - PHP SSH - PHP SSH Extension
 
-PHPConf - PHP Conf - Install a PHP Configuration
+ PHPStorm - PHPStorm - A great IDE from JetBrains
 
-PHPMD - PHP Mess Detector - The static analysis tool
+ PHPUnit - PHP Unit - The PHP Implementation of the XUnit Unit Testing standard
 
-PHPModules - PHP Modules - Commonly used PHP Modules
+ PTConfigure - PTConfigure - Upgrade or Re-install PTConfigure
 
-PHPSSH - PHP SSH - PHP SSH Extension
+ PTDeploy - PTDeploy - The PHP Automated Website Deployment tool
 
-PHPStorm - PHPStorm - A great IDE from JetBrains
+ PTTest - Upgrade or Re-install PTTest
 
-PHPUnit - PHP Unit - The PHP Implementation of the XUnit Unit Testing standard
+ PTVirtualize - PTVirtualize - The Virtual Machine management solution for PHP
 
-PackageManager - Native Package Manager Wrapper - Install OS neutral packages
+ PackageManager - Native Package Manager Wrapper - Install OS neutral packages
 
-PapyrusEditor - Papyrus Editor Web Interface
+ PapyrusEditor - Papyrus Editor Web Interface
 
-Parallax - Parallax - Execute commands in parallel
+ Parallax - Parallax - Execute commands in parallel
 
-Pear - Pear Package Manager
+ Pear - Pear Package Manager
 
-Phake - Phake - The PHP task creation tool (Make/Rake)
+ Phake - Phake - The PHP task creation tool (Make/Rake)
 
-PharaohTools - Pharaoh Tools - Gotta Install them all
+ PharaohTools - Pharaoh Tools - Gotta Install them all
 
-Phlagrant - Phlagrant - The Virtual Machine management solution for PHP
+ Ping - Test a Ping to see if its responding
 
-Phrankinsense - Phrankinsense - The Pharaoh Tools Project Management Solution
+ Port - Test a Port to see which process is listening on it
 
-Ping - Test a Ping to see if its responding
+ PostInput - HTTP Post/Get Input Interface
 
-Port - Test a Port to see if its responding
+ PostgresServer - Postgres Server - The Postgres RDBMS Server
 
-PostInput - HTTP Post/Get Input Interface
+ Process - Process Functionality
 
-PostgresServer - Postgres Server - The Postgres RDBMS Server
+ Python - Python - The programming language
 
-Process - Process Functionality
+ RubyBDD - Ruby BDD Suite - Install Common Gems for Cucumber, Calabash, Capybara and Saucelabs
 
-Python - Python - The programming language
+ RubyRVM - Ruby RVM - The Ruby version manager
 
-Ra - Ra - The Pharaoh Tools Build Server
+ RubySystem - Ruby RVM System wide - The Ruby version manager system wide version
 
-Rackspace - Rackspace/Opencloud Cloud Management Functions
+ RunCommand - Execute a Command
 
-RubyBDD - Ruby BDD Suite - Install Common Gems for Cucumber, Calabash, Capybara and Saucelabs
+ SFTP - SFTP Functionality
 
-RubyRVM - Ruby RVM - The Ruby version manager
+ SVN - SVN - The Source Control Manager
 
-RubySystem - Ruby RVM System wide - The Ruby version manager system wide version
+ SeleniumServer - The Selenium Web Browser controlling server
 
-RunCommand - Execute a Command
+ Service - Start, Stop or Restart a Service
 
-SFTP - SFTP Functionality
+ SshEncrypt - Install/encrypt private SSH keys
 
-SVN - SVN - The Source Control Manager
+ SshHarden - Apply security functions to the SSH accounts/setup of the machine
 
-SeleniumServer - The Selenium Web Browser controlling server
+ SshKeyInstall - Install SSH Public Keys to a user account
 
-Service - Start, Stop or Restart a Service
+ SshKeyStore - For Storing and Accessing SSH Keys
 
-SshEncrypt - Install/encrypt private SSH keys
+ SshKeygen - SSH Keygen - Generate SSH Kay Pairs
 
-SshHarden - Apply security functions to the SSH accounts/setup of the machine
+ StandardTools - Standard Tools for any Installation
 
-SshKeyInstall - Install SSH Public Keys to a user account
+ SudoNoPass - Configure Passwordless Sudo for any User
 
-SshKeyStore - Install SSH Public Keys to a user account
+ SystemDetection - System Detection - Detect the Running Operating System
 
-SshKeygen - SSH Keygen - Generate SSH Kay Pairs
+ Task - Task Wrapper - easily repeatable tasks
 
-StandardTools - Standard Tools for any Installation
+ Teamcity - Teamcity - The Jetbrains Build Server
 
-SudoNoPass - Configure Passwordless Sudo for any User
+ Templating - Install files with placeholders or lines replaced at runtime
 
-SystemDetection - System Detection - Detect the Running Operating System
+ ThoughtWorksGo - The Continuous Delivery server from ThoughtWorks
 
-Teamcity - Teamcity - The Jetbrains Build Server
+ UbuntuCompiler - For Compiling Linux Programs
 
-Templating - Install files with placeholders or lines replaced at runtime
+ VNC - VNC - The Display Manager Solution
 
-Testingkamen - Upgrade or Re-install Testingkamen
+ VNCPasswd - VNCPasswd - The Display Manager Solution
 
-ThoughtWorksGo - The Continuous Delivery server from ThoughtWorks
+ Varnish - The HTTP Cache
 
-UbuntuCompiler - For Compiling Linux Programs
+ Virtualbox - Virtualbox - The local Virtual Machine Solution
 
-User - Add, Remove or Modify Users
+ WinExe - Add, Remove or Modify WinExes
 
-VNC - VNC - The Display Manager Solution
+ WireframeSketcher - Wireframe Sketcher - the Wireframing application
 
-VNCPasswd - VNCPasswd - The Display Manager Solution
+ Xvfb - Xvfb - The Display Manager Solution
 
-VSphere - VMWare VSphere - Server Management Functions
+ Yum - Add, Remove or Modify Yum Packages
 
-Varnish - The HTTP Cache
-
-Virtualbox - Virtualbox - The local Virtual Machine Solution
-
-WinExe - Add, Remove or Modify WinExes
-
-WireframeSketcher - Wireframe Sketcher - the Wireframing application
-
-Xvfb - Xvfb - The Display Manager Solution
-
-Yum - Add, Remove or Modify Yum Packages
 
 
 How to Use
@@ -631,7 +620,7 @@ Playing with ptconfigure Modules
    pecl
    phake
    pharaohtools
-   phlagrant_cleo
+   ptvirtualize_cleo
    phpapc
    phpcodebeautifier
    phpconf

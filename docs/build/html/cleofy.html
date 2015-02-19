@@ -31,7 +31,7 @@
     <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
     <link rel="up" title="Cleopatra" href="cleopatra.html" />
     <link rel="next" title="Composer" href="composermodule.html" />
-    <link rel="prev" title="Cleopatra" href="cleo.html" />
+    <link rel="prev" title="PtConfigure" href="cleo.html" />
 
 
 <script src="_static/labibi.js"></script>
@@ -108,7 +108,7 @@
           
             
   <li><a href="cleo.html"
-         title="previous chapter">&laquo; Cleopatra</a></li>
+         title="previous chapter">&laquo; PtConfigure</a></li>
   <li><a href="composermodule.html"
          title="next chapter">Composer &raquo;</a></li>
           
@@ -143,11 +143,11 @@
 <h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>The help command is a brief user manual that facilitates the users to get aware regarding the usage, methodologies of handling this module to perform different functions. It also lists outs the alternative parameters that can be used in declarations. It highlights the syntax example for using and accessing different functions under cleofy.</p>
 <p>The command used for declaring help option under cleofy is shown below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra cleofy <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure cleofy <span class="nb">help</span>
 </pre></div>
 </div>
 <p>The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under cleofy.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# cleopatra cleofy <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptconfigure cleofy <span class="nb">help</span>
 
 ******************************
 
@@ -158,37 +158,37 @@ This <span class="nb">command </span>is part of a default Module Core and provid
 Cleofy, cleofy
 
 - list
-       List all of the autopilot files in your build/config/cleopatra/autopilots
-       example: cleopatra cleofy list
+       List all of the autopilot files in your build/config/ptconfigure/autopilots
+       example: ptconfigure cleofy list
 
 - standard
-       Create a default <span class="nb">set </span>of cleopatra autopilots in build/config/cleopatra/autopilots <span class="k">for</span> your project.
-       example: cleopatra cleofy standard
+       Create a default <span class="nb">set </span>of ptconfigure autopilots in build/config/ptconfigure/autopilots <span class="k">for</span> your project.
+       example: ptconfigure cleofy standard
 
 - tiny
-       Create a default <span class="nb">set </span>of cleopatra autopilots in build/config/cleopatra/autopilots <span class="k">for</span> a project with a <span class="s2">&quot;tiny&quot;</span> style infrastructure.             example: cleopatra cleofy tiny
+       Create a default <span class="nb">set </span>of ptconfigure autopilots in build/config/ptconfigure/autopilots <span class="k">for</span> a project with a <span class="s2">&quot;tiny&quot;</span> style infrastructure.         example: ptconfigure cleofy tiny
 
 - medium
-       Create a default <span class="nb">set </span>of cleopatra autopilots in build/config/cleopatra/autopilots <span class="k">for</span> a project with a <span class="s2">&quot;medium&quot;</span> style infrastructure.           example: cleopatra cleofy medium
+       Create a default <span class="nb">set </span>of ptconfigure autopilots in build/config/ptconfigure/autopilots <span class="k">for</span> a project with a <span class="s2">&quot;medium&quot;</span> style infrastructure.               example: ptconfigure cleofy medium
 
 - medium-web
-       Create a default <span class="nb">set </span>of cleopatra autopilots in build/config/cleopatra/autopilots <span class="k">for</span> a project with a <span class="s2">&quot;medium&quot;</span> style infrastructure,
+       Create a default <span class="nb">set </span>of ptconfigure autopilots in build/config/ptconfigure/autopilots <span class="k">for</span> a project with a <span class="s2">&quot;medium&quot;</span> style infrastructure,
        with web but not database.
-       example: cleopatra cleofy medium-web
+       example: ptconfigure cleofy medium-web
 
 - db-cluster
-       Create a default <span class="nb">set </span>of cleopatra autopilots in build/config/cleopatra/autopilots <span class="k">for</span> your project.
-       example: cleopatra cleofy db-cluster
+       Create a default <span class="nb">set </span>of ptconfigure autopilots in build/config/ptconfigure/autopilots <span class="k">for</span> your project.
+       example: ptconfigure cleofy db-cluster
 --yes
 --guess
 --database-nodes-env<span class="o">=</span>*db-nodes-environment-name*
 
 - install-generic-autopilots
        Install the generic Cleofy autopilot templates <span class="k">for</span> a Tiny or Medium <span class="o">(</span>Current Default<span class="o">)</span> <span class="nb">set </span>of Environments
-example: cleopatra cleofy install-generic-autopilots
-       example: cleopatra cleofy install-generic-autopilots
+example: ptconfigure cleofy install-generic-autopilots
+       example: ptconfigure cleofy install-generic-autopilots
 --yes
---guess <span class="c"># will set --destination-dir=*this dir +*build/config/cleopatra/cleofy/autopilots/</span>
+--guess <span class="c"># will set --destination-dir=*this dir +*build/config/ptconfigure/cleofy/autopilots/</span>
 --template-group<span class="o">=</span>tiny <span class="c"># tiny, medium, dbcluster, phlagrant || db-cluster, workstation</span>
 --destination-dir<span class="o">=</span>*path-to-destination*
 
@@ -213,44 +213,44 @@ End Help
 </div>
 <div class="section" id="list">
 <h2>List<a class="headerlink" href="#list" title="Permalink to this headline">¶</a></h2>
-<p>This function aims at listing all the autopilot files in your specified location(build/config/cleopatra/autopilots). The syntax for applying this function is shown below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra cleofy list
+<p>This function aims at listing all the autopilot files in your specified location(build/config/ptconfigure/autopilots). The syntax for applying this function is shown below,</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure cleofy list
 </pre></div>
 </div>
 </div>
 <div class="section" id="standard">
 <h2>Standard<a class="headerlink" href="#standard" title="Permalink to this headline">¶</a></h2>
-<p>This function assists in creating a default set of cleopatra autopilots (in build/config/cleopatra/autopilots) for the project of the users. This function can be applied simply by using the command below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra cleofy standard
+<p>This function assists in creating a default set of ptconfigure autopilots (in build/config/ptconfigure/autopilots) for the project of the users. This function can be applied simply by using the command below,</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure cleofy standard
 </pre></div>
 </div>
 </div>
 <div class="section" id="tiny">
 <h2>Tiny<a class="headerlink" href="#tiny" title="Permalink to this headline">¶</a></h2>
-<p>This function aims at creating a default set of cleopatra autopilots (in build/config/cleopatra/autopilots) for a project with tiny infrastructure. To implement this functions use the following command as below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra cleofy tiny
+<p>This function aims at creating a default set of ptconfigure autopilots (in build/config/ptconfigure/autopilots) for a project with tiny infrastructure. To implement this functions use the following command as below,</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure cleofy tiny
 </pre></div>
 </div>
 </div>
 <div class="section" id="medium">
 <h2>Medium<a class="headerlink" href="#medium" title="Permalink to this headline">¶</a></h2>
-<p>This function aims at creating a default set of cleopatra autopilots (in build/config/cleopatra/autopilots) for a project with medium infrastructure. To implement this functions use the following command as below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra cleofy medium
+<p>This function aims at creating a default set of ptconfigure autopilots (in build/config/ptconfigure/autopilots) for a project with medium infrastructure. To implement this functions use the following command as below,</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure cleofy medium
 </pre></div>
 </div>
 </div>
 <div class="section" id="medium-web">
 <h2>Medium_Web<a class="headerlink" href="#medium-web" title="Permalink to this headline">¶</a></h2>
-<p>This function aims at creating a default set of cleopatra autopilots (in build/config/cleopatra/autopilots) for a project with medium infrastructure with web, but not database. To implement this functions use the following command as below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra cleofy medium-web
+<p>This function aims at creating a default set of ptconfigure autopilots (in build/config/ptconfigure/autopilots) for a project with medium infrastructure with web, but not database. To implement this functions use the following command as below,</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure cleofy medium-web
 </pre></div>
 </div>
 </div>
 <div class="section" id="db-cluster">
 <h2>DB_cluster<a class="headerlink" href="#db-cluster" title="Permalink to this headline">¶</a></h2>
-<p>This function aims at creating a default set of cleopatra autopilots (in build/config/cleopatra/autopilots) for the users project.
+<p>This function aims at creating a default set of ptconfigure autopilots (in build/config/ptconfigure/autopilots) for the users project.
 To implement this functions use the following command as below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>       cleopatra cleofy db-cluster
+<div class="highlight-bash"><div class="highlight"><pre>       ptconfigure cleofy db-cluster
 --yes
 --guess
 --database-nodes-env<span class="o">=</span>*db-nodes-environment-name*
@@ -261,13 +261,13 @@ To implement this functions use the following command as below,</p>
 <h2>Install_generic_autopilots<a class="headerlink" href="#install-generic-autopilots" title="Permalink to this headline">¶</a></h2>
 <p>This function assists in installing generic autopilot templates for tiny or medium set of environment by simply using the command as given
 below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra cleofy install-generic-autopilots
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure cleofy install-generic-autopilots
 </pre></div>
 </div>
 <p>Or,</p>
-<div class="highlight-bash"><div class="highlight"><pre>       cleopatra cleofy install-generic-autopilots
+<div class="highlight-bash"><div class="highlight"><pre>       ptconfigure cleofy install-generic-autopilots
 --yes
---guess <span class="c"># will set --destination-dir=*this dir +*build/config/cleopatra/cleofy/autopilots/</span>
+--guess <span class="c"># will set --destination-dir=*this dir +*build/config/ptconfigure/cleofy/autopilots/</span>
 --template-group<span class="o">=</span>tiny <span class="c"># tiny, medium, dbcluster, phlagrant || db-cluster, workstation</span>
 --destination-dir<span class="o">=</span>*path-to-destination*
 </pre></div>

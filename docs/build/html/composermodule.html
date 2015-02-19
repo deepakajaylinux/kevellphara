@@ -135,10 +135,10 @@
 <div class="section" id="help-command">
 <h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>This command helps to determine the usage of composer module. The user will come to know about the different ways/format to execute this module. This command guides the end user regarding the alternative parameters and command for installation. Below given are the command and the screenshot of the same.</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra composer <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure composer <span class="nb">help</span>
 </pre></div>
 </div>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# cleopatra composer <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptconfigure composer <span class="nb">help</span>
 ******************************
 
 
@@ -148,7 +148,7 @@
 
        - install
        Installs the latest version of composer
-       example: cleopatra composer install
+       example: ptconfigure composer install
 
 ------------------------------
 End Help
@@ -159,7 +159,7 @@ End Help
 <div class="section" id="installation">
 <h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
 <p>When the user needs to install composer module in machine, the below given command will execute the process of installation.</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra composer install
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure composer install
 </pre></div>
 </div>
 <p>While installing, the system ask for the directory name, if you wants to set up your PATH, you can define your path. Define your path has to be followed by &#8216;/&#8217; symbol. Press Enter to use default path.</p>
@@ -168,10 +168,10 @@ End Help
 <p>&#8220;What is the program executer directory? Found &#8220;/usr/bin&#8221; - Use this? &#8220;</p>
 <table border="1" class="table-bordered docutils">
 <colgroup>
-<col width="22%" />
+<col width="24%" />
 <col width="20%" />
 <col width="19%" />
-<col width="39%" />
+<col width="38%" />
 </colgroup>
 <thead valign="bottom">
 <tr class="row-odd"><th class="head">Parameters</th>
@@ -181,12 +181,12 @@ End Help
 </tr>
 </thead>
 <tbody valign="top">
-<tr class="row-even"><td>cleopatra composer Install</td>
+<tr class="row-even"><td>ptconfigure composer Install</td>
 <td>Composer , composer</td>
 <td>Y</td>
 <td>System starts installation process</td>
 </tr>
-<tr class="row-odd"><td>cleopatra composer Install</td>
+<tr class="row-odd"><td>ptconfigure composer Install</td>
 <td>Composer , composer</td>
 <td>N</td>
 <td>System stops installation process|</td>
@@ -194,7 +194,7 @@ End Help
 </tbody>
 </table>
 <p>The screenshot for the installation command is listed below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/<span class="nv">$ </span>cleopatra composer install
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/<span class="nv">$ </span>ptconfigure composer install
 Install Composer - Update to latest version ? <span class="o">(</span>Y/N<span class="o">)</span>
 y
 *******************************
@@ -210,17 +210,17 @@ remote: Counting objects: 6, <span class="k">done</span>.
 remote: Total <span class="m">6</span> <span class="o">(</span>delta 0<span class="o">)</span>, reused <span class="m">0</span> <span class="o">(</span>delta 0<span class="o">)</span>
 Unpacking objects: 100% <span class="o">(</span>6/6<span class="o">)</span>, <span class="k">done</span>.
 Checking connectivity... <span class="k">done</span>.
-PHP Warning:  mkdir<span class="o">()</span>: Permission denied in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 192
+PHP Warning:  mkdir<span class="o">()</span>: Permission denied in /opt/ptconfigure/ptconfigure/src/Modules/ptconfigureRequired/Model/BasePHPApp.php on line 192
 cp: cannot create directory ‘/opt/composer’: Permission denied
 Program Data folder populated
 Program Executor Deleted <span class="k">if</span> existed
-PHP Warning:  scandir<span class="o">(</span>/opt/composer<span class="o">)</span>: failed to open dir: No such file or directory in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 172
-PHP Warning:  scandir<span class="o">()</span>: <span class="o">(</span>errno 2<span class="o">)</span>: No such file or directory in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 172
-PHP Warning:  Invalid argument supplied <span class="k">for</span> foreach<span class="o">()</span> in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 174
-PHP Warning:  scandir<span class="o">(</span>/opt/composer<span class="o">)</span>: failed to open dir: No such file or directory in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 172
-PHP Warning:  scandir<span class="o">()</span>: <span class="o">(</span>errno 2<span class="o">)</span>: No such file or directory in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 172
-PHP Warning:  Invalid argument supplied <span class="k">for</span> foreach<span class="o">()</span> in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 174
-PHP Warning:  file_put_contents<span class="o">(</span>/usr/bin/composer<span class="o">)</span>: failed to open stream: Permission denied in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 214
+PHP Warning:  scandir<span class="o">(</span>/opt/composer<span class="o">)</span>: failed to open dir: No such file or directory in /opt/ptconfigure/ptconfigure/src/Modules/ptconfigureRequired/Model/BasePHPApp.php on line 172
+PHP Warning:  scandir<span class="o">()</span>: <span class="o">(</span>errno 2<span class="o">)</span>: No such file or directory in /opt/ptconfigure/ptconfigure/src/Modules/ptconfigureRequired/Model/BasePHPApp.php on line 172
+PHP Warning:  Invalid argument supplied <span class="k">for</span> foreach<span class="o">()</span> in /opt/ptconfigure/ptconfigure/src/Modules/ptconfigureRequired/Model/BasePHPApp.php on line 174
+PHP Warning:  scandir<span class="o">(</span>/opt/composer<span class="o">)</span>: failed to open dir: No such file or directory in /opt/ptconfigure/ptconfigure/src/Modules/ptconfigureRequired/Model/BasePHPApp.php on line 172
+PHP Warning:  scandir<span class="o">()</span>: <span class="o">(</span>errno 2<span class="o">)</span>: No such file or directory in /opt/ptconfigure/ptconfigure/src/Modules/ptconfigureRequired/Model/BasePHPApp.php on line 172
+PHP Warning:  Invalid argument supplied <span class="k">for</span> foreach<span class="o">()</span> in /opt/ptconfigure/ptconfigure/src/Modules/ptconfigureRequired/Model/BasePHPApp.php on line 174
+PHP Warning:  file_put_contents<span class="o">(</span>/usr/bin/composer<span class="o">)</span>: failed to open stream: Permission denied in /opt/ptconfigure/ptconfigure/src/Modules/ptconfigureRequired/Model/BasePHPApp.php on line 214
 chmod: cannot access ‘/opt/composer’: No such file or directory
 chmod: cannot access ‘/usr/bin/composer’: No such file or directory
 ... All <span class="k">done</span>!
@@ -242,7 +242,8 @@ Installer Finished
 <h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
 <li>It installs dependencies (e.g. libraries) for an application.</li>
-<li>It also allows users to install PHP applications that are available on &#8220;Packagist&#8221; which is its main repository containing available packages.</li>
+<li>It also allows users to install PHP applications that are available on &#8220;Packagist&#8221; which is its main repository containing available
+packages.</li>
 <li>It also provides auto load capabilities for libraries that specify auto load information to ease usage of third-party code.</li>
 </ul>
 </div>

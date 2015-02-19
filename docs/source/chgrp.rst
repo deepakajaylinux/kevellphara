@@ -13,18 +13,18 @@ The help command interprets about the scope and the commands available under thi
 
 .. code-block:: bash
 
-	Cleopatra chgrp help 
+	ptconfigure chgrp help 
 
 The following screen shot visualize it translucently.
  
 How to use	
 ----------
 
-It is an obvious process to use this change group module under Cleopatra by just using the command given below,
+It is an obvious process to use this change group module under ptconfigure by just using the command given below,
 
 .. code-block:: bash
    
-   cleopatra chgrp path --yes --guess --recursive --path=/a/file/path --group=golden
+   ptconfigure chgrp path --yes --guess --recursive --path=/a/file/path --group=golden
 
 After inputting the command it will change the group.
 
@@ -34,7 +34,7 @@ After inputting the command it will change the group.
  +-----------+------------------+-----------+---------------------------------------------------------+
  |Parameters |Requirement       |Option     |Comments                                                 |
  +===========+==================+===========+=========================================================+
- |chgrp      |Yes               |-          |It will  the change group module under Cleopatra         |
+ |chgrp      |Yes               |-          |It will  the change group module under ptconfigure       |
  +-----------+------------------+-----------+---------------------------------------------------------+
  |Path       |Yes               |-          |Specify the path                                         |
  +-----------+------------------+-----------+---------------------------------------------------------+

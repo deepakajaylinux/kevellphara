@@ -16,11 +16,11 @@ This command helps to determine the usage of composer module. The user will come
 
 .. code-block:: bash
               
-		 cleopatra composer help
+		 ptconfigure composer help
 
 .. code-block:: bash
 
- kevell@corp:/# cleopatra composer help
+ kevell@corp:/# ptconfigure composer help
  ******************************
 
 
@@ -30,7 +30,7 @@ This command helps to determine the usage of composer module. The user will come
 
         - install
         Installs the latest version of composer
-        example: cleopatra composer install
+        example: ptconfigure composer install
 
  ------------------------------
  End Help
@@ -44,7 +44,7 @@ When the user needs to install composer module in machine, the below given comma
 
 .. code-block:: bash
                
-		 cleopatra composer install
+		 ptconfigure composer install
 
 While installing, the system ask for the directory name, if you wants to set up your PATH, you can define your path. Define your path has to be followed by '/' symbol. Press Enter to use default path.
 
@@ -59,20 +59,20 @@ While installing, the system ask for executing directory name, if you wants to s
 .. cssclass:: table-bordered
 
 
-	+---------------------------+------------------------+-----------------------+-----------------------------------------------+
-	|	Parameters  	    | Alternative Parameter  |	Option		     | 		Comments			     |
-	+===========================+========================+=======================+===============================================+
-	|cleopatra composer Install |Composer , composer     |Y			     |System starts installation process	     |
-	+---------------------------+------------------------+-----------------------+-----------------------------------------------+
-	|cleopatra composer Install |Composer , composer     |N			     |System stops installation process|	     |
-	+---------------------------+------------------------+-----------------------+-----------------------------------------------+
+	+-----------------------------+------------------------+-----------------------+-----------------------------------------------+
+	|	Parameters  	      | Alternative Parameter  |	Option	       | 		Comments		       |
+	+=============================+========================+=======================+===============================================+
+	|ptconfigure composer Install |Composer , composer     |Y		       |System starts installation process	       |
+	+-----------------------------+------------------------+-----------------------+-----------------------------------------------+
+	|ptconfigure composer Install |Composer , composer     |N		       |System stops installation process|	       |
+	+-----------------------------+------------------------+-----------------------+-----------------------------------------------+
 
 
 The screenshot for the installation command is listed below,
 
 .. code-block:: bash
 
- kevell@corp:/$ cleopatra composer install
+ kevell@corp:/$ ptconfigure composer install
  Install Composer - Update to latest version ? (Y/N)
  y
  *******************************
@@ -88,17 +88,17 @@ The screenshot for the installation command is listed below,
  remote: Total 6 (delta 0), reused 0 (delta 0)
  Unpacking objects: 100% (6/6), done.
  Checking connectivity... done.
- PHP Warning:  mkdir(): Permission denied in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 192
+ PHP Warning:  mkdir(): Permission denied in /opt/ptconfigure/ptconfigure/src/Modules/ptconfigureRequired/Model/BasePHPApp.php on line 192
  cp: cannot create directory ‘/opt/composer’: Permission denied
  Program Data folder populated
  Program Executor Deleted if existed
- PHP Warning:  scandir(/opt/composer): failed to open dir: No such file or directory in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 172
- PHP Warning:  scandir(): (errno 2): No such file or directory in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 172
- PHP Warning:  Invalid argument supplied for foreach() in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 174
- PHP Warning:  scandir(/opt/composer): failed to open dir: No such file or directory in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 172
- PHP Warning:  scandir(): (errno 2): No such file or directory in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 172
- PHP Warning:  Invalid argument supplied for foreach() in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 174
- PHP Warning:  file_put_contents(/usr/bin/composer): failed to open stream: Permission denied in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BasePHPApp.php on line 214
+ PHP Warning:  scandir(/opt/composer): failed to open dir: No such file or directory in /opt/ptconfigure/ptconfigure/src/Modules/ptconfigureRequired/Model/BasePHPApp.php on line 172
+ PHP Warning:  scandir(): (errno 2): No such file or directory in /opt/ptconfigure/ptconfigure/src/Modules/ptconfigureRequired/Model/BasePHPApp.php on line 172
+ PHP Warning:  Invalid argument supplied for foreach() in /opt/ptconfigure/ptconfigure/src/Modules/ptconfigureRequired/Model/BasePHPApp.php on line 174
+ PHP Warning:  scandir(/opt/composer): failed to open dir: No such file or directory in /opt/ptconfigure/ptconfigure/src/Modules/ptconfigureRequired/Model/BasePHPApp.php on line 172
+ PHP Warning:  scandir(): (errno 2): No such file or directory in /opt/ptconfigure/ptconfigure/src/Modules/ptconfigureRequired/Model/BasePHPApp.php on line 172
+ PHP Warning:  Invalid argument supplied for foreach() in /opt/ptconfigure/ptconfigure/src/Modules/ptconfigureRequired/Model/BasePHPApp.php on line 174
+ PHP Warning:  file_put_contents(/usr/bin/composer): failed to open stream: Permission denied in /opt/ptconfigure/ptconfigure/src/Modules/ptconfigureRequired/Model/BasePHPApp.php on line 214
  chmod: cannot access ‘/opt/composer’: No such file or directory
  chmod: cannot access ‘/usr/bin/composer’: No such file or directory
  ... All done!
@@ -119,5 +119,6 @@ Benefits
 --------
 
 * It installs dependencies (e.g. libraries) for an application.
-* It also allows users to install PHP applications that are available on "Packagist" which is its main repository containing available packages. 
+* It also allows users to install PHP applications that are available on "Packagist" which is its main repository containing available
+  packages. 
 * It also provides auto load capabilities for libraries that specify auto load information to ease usage of third-party code.

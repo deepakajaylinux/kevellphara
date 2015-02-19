@@ -22,13 +22,13 @@ This command helps to determine the usage of dapperstrano module. The user will 
 
 .. code-block:: bash
         
-         cleopatra dapperstrano help
+         ptconfigure dapperstrano help
 
 The screenshot for the above command is listed below,
 
 .. code-block:: bash
 
- kevell@corp:/# cleopatra Dapperstrano help
+ kevell@corp:/# ptconfigure Dapperstrano help
  ******************************
 
 
@@ -38,11 +38,11 @@ The screenshot for the above command is listed below,
 
         - install
         Installs the latest version of dapperstrano
-        example: cleopatra dapperstrano install
+        example: ptconfigure dapperstrano install
 
         - ensure
         Installs the latest version of dapperstrano, only if a version is not installed
-        example: cleopatra dapperstrano ensure
+        example: ptconfigure dapperstrano ensure
 
  ------------------------------
  End Help
@@ -55,13 +55,13 @@ This command helps to install the latest version of dapperstrano. The below give
 
 .. code-block:: bash
         
-        cleopatra dapperstrano install
+        ptconfigure dapperstrano install
 
 The screenshot for the above command is listed below,
 
 .. code-block:: bash
 
- kevell@corp:/# cleopatra dapperstrano install
+ kevell@corp:/# ptconfigure dapperstrano install
  Install Dapperstrano ? (Y/N) 
  Y
  *******************************
@@ -101,13 +101,13 @@ This command helps to install the latest version of dapperstrano, only if a vers
 
 .. code-block:: bash
         
-        cleopatra dapperstrano ensure
+        ptconfigure dapperstrano ensure
 
 The screenshot for the above command is listed below,
 
 .. code-block:: bash
 
- kevell@corp:/# cleopatra dapperstrano ensure
+ kevell@corp:/# ptconfigure dapperstrano ensure
  [Pharaoh Logging] Ensure module install is not checking versions
  [Pharaoh Logging] Module Dapperstrano reports itself as Installed
  [Pharaoh Logging] Not installing as already installed
@@ -132,17 +132,17 @@ Options
  +-------------------------+----------------------------------------------+------------+---------------------------------------+
  | Parameters              | Alternative Parameter                        | Options    | Comments                              |
  +=========================+==============================================+============+=======================================+
- |cleopatra dapperstrano   | There are two alternative parameters which   | Y          | System starts installation process    |
+ |ptconfigure dapperstrano | There are two alternative parameters which   | Y          | System starts installation process    |
  |install? (Y/N)           | can be used in command line.                 |            |                                       |
  |                         | Dapperstrano, dapper, dapperstrano           |            |                                       |
- |                         | Example: cleopatra dapperstrano install /    |            |                                       |
- |                         |          cleopatra dapper install            |            |                                       |
+ |                         | Example: ptconfigure dapperstrano install /  |            |                                       |
+ |                         |          ptconfigure dapper install          |            |                                       |
  +-------------------------+----------------------------------------------+------------+---------------------------------------+
- |cleopatra dapperstrano   | There are two alternative parameters which   | N          | System stops installation process     |
+ |ptconfigure dapperstrano | There are two alternative parameters which   | N          | System stops installation process     |
  |install? (Y/N)           | can be used in command line.                 |            |                                       |
  |                         | Dapperstrano, dapper, dapperstrano           |            |                                       |
- |                         | Example: cleopatra dapperstrano install /    |            |                                       |
- |                         |          cleopatra dapper install|           |            |                                       |
+ |                         | Example: ptconfigure dapperstrano install /  |            |                                       |
+ |                         |          ptconfigure dapper install|         |            |                                       |
  +-------------------------+----------------------------------------------+------------+---------------------------------------+
 
 

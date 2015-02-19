@@ -11,18 +11,18 @@ Install package are differential logic outputs commonly used in high-speed clock
 Help command
 -----------------------
 
-The help command leads the users regarding the purpose and as well as about the options that are included in the installpackage modules. The help command lists out the alternative parameters of installpackage  under cleopatra module. It also describes the syntax for installing. The help command for installpackage module is shown below.
+The help command leads the users regarding the purpose and as well as about the options that are included in the installpackage modules. The help command lists out the alternative parameters of installpackage  under ptconfigure module. It also describes the syntax for installing. The help command for installpackage module is shown below.
 
 .. code-block:: bash
 
-		cleopatra installpackage help
+		ptconfigure installpackage help
 
 
 The following screen shot shows the full effort of installpackage module.
 
 .. code-block:: bash
 
- kevell@corp:/# cleopatra InstallPackage help
+ kevell@corp:/# ptconfigure InstallPackage help
 
  ******************************
 
@@ -35,23 +35,23 @@ The following screen shot shows the full effort of installpackage module.
     - dev-client
       install a dev client machine for you to work on, a bunch of IDE's, DB's and a complete set of the
       tools you need to start work immediately.
-      example: cleopatra install autopilot dev-client
+      example: ptconfigure install autopilot dev-client
 
     - dev-server
       Install the preconfigured list of software for a developers server.
-      example: cleopatra install autopilot dev-server
+      example: ptconfigure install autopilot dev-server
 
     - test-server
       Install the preconfigured list of software for a testing server.
-      example: cleopatra install autopilot test-server
+      example: ptconfigure install autopilot test-server
 
     - build-server
       Install the preconfigured list of software for a build server.
-      example: cleopatra install autopilot test-server
+      example: ptconfigure install autopilot test-server
 
     - production
       Install the preconfigured list of software for a production server.
-      example: cleopatra install autopilot test-server
+      example: ptconfigure install autopilot test-server
 
  ------------------------------
  End Help
@@ -62,11 +62,11 @@ The following screen shot shows the full effort of installpackage module.
 Installation
 ---------------
 
-Installation includes installation of installpackage required to make the installation in an updated version. It is a manifest process to install Installpackage module under Cleopatra. Installpackage by just using the command given below,
+Installation includes installation of installpackage required to make the installation in an updated version. It is a manifest process to install Installpackage module under ptconfigure. Installpackage by just using the command given below,
 
 .. code-block:: bash
 
-	cleopatra installpackage Install
+	ptconfigure installpackage Install
 
 After vitalize the command it will catechize input.
 
@@ -92,7 +92,7 @@ This command is used to work on a bunch of Integrated Development Environment’
 
 .. code-block:: bash
 
-		cleopatra install autopilot dev-client
+		ptconfigure install autopilot dev-client
 
 
 After input as the above said command it starts installing process.
@@ -105,11 +105,11 @@ The following snapshot shows its functions.
 Dev-server
 ----------------
 
-This command used to install preconfigures list of software for a developer’s server. Autopilot acts as a vital role in this process. To work out these functions properly Cleopatra recommends dev-server by using this command.
+This command used to install preconfigures list of software for a developer’s server. Autopilot acts as a vital role in this process. To work out these functions properly ptconfigure recommends dev-server by using this command.
 
 .. code-block:: bash
 
-		cleopatra install autopilot dev-server
+		ptconfigure install autopilot dev-server
 
 The screenshot guides the user about its function.
 
@@ -124,7 +124,7 @@ Here Auto pilot acts a major role in test server. It uses to install the preconf
 
 .. code-block:: bash
 
-		cleopatra install autopilot test-server
+		ptconfigure install autopilot test-server
 
 
 The screenshot guides the user about its function.
@@ -136,11 +136,11 @@ The screenshot guides the user about its function.
 Build server
 -------------------
 
-This command used to install preconfigures list of software for a build server. Autopilot acts as a vital role in this process. To work out these functions properly Cleopatra recommends build-server by using this command.
+This command used to install preconfigures list of software for a build server. Autopilot acts as a vital role in this process. To work out these functions properly ptconfigure recommends build-server by using this command.
 
 .. code-block:: bash
 
-	cleopatra install autopilot build-server
+	ptconfigure install autopilot build-server
 
 
 The screenshot guides the user about its function.
@@ -151,11 +151,11 @@ The screenshot guides the user about its function.
 Production
 -----------------
 
-This command used to install preconfigures list of software for a production server. Autopilot acts as a vital role in this process. To work out these functions properly Cleopatra recommends production server by using this command.
+This command used to install preconfigures list of software for a production server. Autopilot acts as a vital role in this process. To work out these functions properly ptconfigure recommends production server by using this command.
 
 .. code-block:: bash
 
-		cleopatra install autopilot build-server
+		ptconfigure install autopilot build-server
 
 The screenshot guides the user about its function.
 

@@ -142,43 +142,43 @@
 <div class="section" id="help-command">
 <h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>This command helps to determine the usage of file module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same.</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra file <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure file <span class="nb">help</span>
 </pre></div>
 </div>
 </div>
 <div class="section" id="create">
 <h2>Create<a class="headerlink" href="#create" title="Permalink to this headline">¶</a></h2>
 <p>When the user needs to Create a new system file, the below given command will execute the process.</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra file create --file<span class="o">=</span><span class="s2">&quot;somename&quot;</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure file create --file<span class="o">=</span><span class="s2">&quot;somename&quot;</span>
 </pre></div>
 </div>
 <p>The below given commands overwrite files that exist</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra file create --file<span class="o">=</span><span class="s2">&quot;somename” --overwrite-existing</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure file create --file<span class="o">=</span><span class="s2">&quot;somename” --overwrite-existing</span>
 </pre></div>
 </div>
 <p>The below given command for write the data in the file</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra file create –file<span class="o">=</span><span class="s2">&quot;somename” --data=&quot;</span>things to put in the file<span class="s2">&quot;</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure file create –file<span class="o">=</span><span class="s2">&quot;somename” --data=&quot;</span>things to put in the file<span class="s2">&quot;</span>
 </pre></div>
 </div>
 </div>
 <div class="section" id="delete">
 <h2>Delete<a class="headerlink" href="#delete" title="Permalink to this headline">¶</a></h2>
 <p>When the user needs to delete a system file, the below given command will execute the process.</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra file delete --file<span class="o">=</span><span class="s2">&quot;somename&quot;</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure file delete --file<span class="o">=</span><span class="s2">&quot;somename&quot;</span>
 </pre></div>
 </div>
 </div>
 <div class="section" id="exists">
 <h2>Exists<a class="headerlink" href="#exists" title="Permalink to this headline">¶</a></h2>
 <p>When the user needs to check the existence of a file, the below given command will execute the process.</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra file exists --filename<span class="o">=</span><span class="s2">&quot;somename&quot;</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure file exists --filename<span class="o">=</span><span class="s2">&quot;somename&quot;</span>
 </pre></div>
 </div>
 </div>
 <div class="section" id="append">
 <h2>Append<a class="headerlink" href="#append" title="Permalink to this headline">¶</a></h2>
 <p>When the user needs to append a line to a file, the below given command will execute the process.</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra file append --filename<span class="o">=</span><span class="s2">&quot;somename&quot;</span> --line<span class="o">=</span><span class="s2">&quot;a line&quot;</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure file append --filename<span class="o">=</span><span class="s2">&quot;somename&quot;</span> --line<span class="o">=</span><span class="s2">&quot;a line&quot;</span>
 </pre></div>
 </div>
 <ul class="simple">
@@ -188,7 +188,7 @@
 <div class="section" id="should-have-line">
 <h2>Should-have-line<a class="headerlink" href="#should-have-line" title="Permalink to this headline">¶</a></h2>
 <p>When the user needs to ensure that a file contains a particular line, the below given command will execute the process.</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra file should-have-line --filename<span class="o">=</span><span class="s2">&quot;somename&quot;</span> --line<span class="o">=</span><span class="s2">&quot;a line&quot;</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure file should-have-line --filename<span class="o">=</span><span class="s2">&quot;somename&quot;</span> --line<span class="o">=</span><span class="s2">&quot;a line&quot;</span>
 </pre></div>
 </div>
 <ul class="simple">
@@ -199,19 +199,19 @@
 <h2>Options<a class="headerlink" href="#options" title="Permalink to this headline">¶</a></h2>
 <table border="1" class="table-bordered docutils">
 <colgroup>
-<col width="20%" />
-<col width="44%" />
-<col width="36%" />
+<col width="19%" />
+<col width="47%" />
+<col width="34%" />
 </colgroup>
 <tbody valign="top">
 <tr class="row-odd"><td>Parameters</td>
 <td>Alternative Parameter</td>
 <td>Comments</td>
 </tr>
-<tr class="row-even"><td>Cleopatra file help</td>
+<tr class="row-even"><td>ptconfigure file help</td>
 <td>Either of the two alternative parameter can be used
 in command- File, file
-eg: Cleopatra File Install/ Cleopatra file Install|</td>
+eg: ptconfigure File Install/ ptconfigure file Install|</td>
 <td>Once the user provides the option, System
 starts processing</td>
 </tr>
@@ -221,7 +221,8 @@ starts processing</td>
 <div class="section" id="benefits">
 <h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li>Specify a file specially formatted containing position-sensitive tests; default position-sensitive tests and context-sensitive tests will not be performed.</li>
+<li>Specify a file specially formatted containing position-sensitive tests; default position-sensitive tests and context-sensitive tests will
+not be performed.</li>
 </ul>
 </div>
 </div>

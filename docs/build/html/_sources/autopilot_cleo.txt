@@ -13,33 +13,33 @@ We take the hassle out of user technology. In today's competitive business envir
 Help command
 ------------------------
 
-The help command leads the users regarding the purpose and as well as about the options that are included in the autopilot modules. The help command lists out the alternative parameters of cleopatra autopilot module. It also describes the syntax for detecting the user’s machine. The help command for autopilot  shown below.
+The help command leads the users regarding the purpose and as well as about the options that are included in the autopilot modules. The help command lists out the alternative parameters of ptconfigure autopilot module. It also describes the syntax for detecting the user’s machine. The help command for autopilot  shown below.
 
 .. code-block:: bash
 
-	cleopatra autopilot help
+	ptconfigure autopilot help
 
 The following screenshot shows the functionality of autopilot.
 
 .. code-block:: bash
 
- kevell@corp:~# cleopatra autopilot help
+ kevell@corp:~# ptconfigure autopilot help
  ******************************
 
 
   This command is part of a default Module and provides you with a method by
-  which you can perform user defined executions of any Cleopatra Modules, in
+  which you can perform user defined executions of any ptconfigure Modules, in
   any order, and with your own predefined settings.
 
   Autopilot, autopilot, auto
 
     - install, execute, x
     execute all of the defined modules in your Autopilot file
-    example: cleopatra autopilot x --autopilot-file=*path-to-file*
+    example: ptconfigure autopilot x --autopilot-file=*path-to-file*
 
     - test
     execute all of the steps defined as tests in your Autopilot file
-    example: cleopatra autopilot test --autopilot-file=*path-to-file*
+    example: ptconfigure autopilot test --autopilot-file=*path-to-file*
 
  ------------------------------
  End Help
@@ -59,7 +59,7 @@ Autopilot act as a default module and also provides user defined executions. The
 
 .. code-block:: bash
 
-	cleopatra autopilot install
+	ptconfigure autopilot install
 
 
 after input as the above said command it starts installation. The following snap shots guides the user about autopilot installation.
@@ -80,15 +80,15 @@ Options
 
 .. cssclass:: table-bordered
 
- +------------------------------+----------------------------------------+----------------+---------------------------------------------+
- | Parameters			| Alternate parameter			 | Option	  | Comments					|
- +==============================+========================================+================+=============================================+
- |Install autopilot?(Y/N)       | Instead of using autopilot the user    | Y		  | Autopilot can be installed under Cleopatra. |
- |				| can use Autopilot, autopilot,auto	 | 		  | 						|
- +------------------------------+----------------------------------------+----------------+---------------------------------------------+
- |Install autopilot?(Y/N)	| Instead of using autopilot the user    | N		  | It stops the installation process	        |
- |				| can use Autopilot, autopilot,auto|     | 		  | 						|
- +------------------------------+----------------------------------------+----------------+---------------------------------------------+
+ +------------------------------+----------------------------------------+----------------+-----------------------------------------------+
+ | Parameters			| Alternate parameter			 | Option	  | Comments					  |
+ +==============================+========================================+================+===============================================+
+ |Install autopilot?(Y/N)       | Instead of using autopilot the user    | Y		  | Autopilot can be installed under ptconfigure. |
+ |				| can use Autopilot, autopilot,auto	 | 		  | 						  |
+ +------------------------------+----------------------------------------+----------------+-----------------------------------------------+
+ |Install autopilot?(Y/N)	| Instead of using autopilot the user    | N		  | It stops the installation process	          |
+ |				| can use Autopilot, autopilot,auto|     | 		  | 						  |
+ +------------------------------+----------------------------------------+----------------+-----------------------------------------------+
 
 
 Benefits

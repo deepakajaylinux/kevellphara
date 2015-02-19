@@ -14,13 +14,13 @@ This help command explains about the installation of a particular module. The he
 
 .. code-block:: bash
 	
-	cleopatra chown help
+	ptconfigure chown help
 
 After giving the command, the command will list the help options. The following screen shots will give visual effect for the usage of this module.
 
 .. code-block:: bash
 
-	Kevell@corp:/# cleopatra chown help
+	Kevell@corp:/# ptconfigure chown help
 	******************************
 
 	 This command handles file user ownership changing functions.
@@ -29,7 +29,7 @@ After giving the command, the command will list the help options. The following 
 
         - path
         Will change the user ownership of a path
-        example: cleopatra chown path --yes --guess --recursive --path=/a/file/path --owner=golden
+        example: ptconfigure chown path --yes --guess --recursive --path=/a/file/path --owner=golden
 
 	------------------------------
 	End Help
@@ -40,11 +40,11 @@ After giving the command, the command will list the help options. The following 
 Path
 -------
 
-It is an excellent process for this module under Cleopatra by slightly using the command given below,
+It is an excellent process for this module under ptconfigure by slightly using the command given below,
 
 .. code-block:: bash
 
-	cleopatra chown path –yes—guess—recursive—path=/Cleopatra—owner=Kevells
+	ptconfigure chown path –yes—guess—recursive—path=/ptconfigure—owner=Kevells
 
 Then we can enter the input.
 
@@ -59,10 +59,10 @@ This is Visually shown by the following screen shot.
 
 .. code-block:: bash
 
-	kevell@corp:/# cleopatra chown path --yes --guess --recursive --path=/phj.php --owner=deepak
+	kevell@corp:/# ptconfigure chown path --yes --guess --recursive --path=/phj.php --owner=deepak
 
 	Enter ownership user:
-	deepak
+	kevell
 	[Pharaoh Logging] [Chown] Executing chown -R deepak /phj.php
 	******************************
 
@@ -97,7 +97,7 @@ Option
 Benefits 
 --------
 
-* The module can change the owner at any time with Cleopatra.
+* The module can change the owner at any time with ptconfigure.
 * While doing recursive process if you change single file the entire folder can also be changed.
 * We can verify the current status of the owner.
 

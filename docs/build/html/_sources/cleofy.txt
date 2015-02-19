@@ -16,14 +16,14 @@ The command used for declaring help option under cleofy is shown below,
 
 .. code-block:: bash
 
-	cleopatra cleofy help
+	ptconfigure cleofy help
 
 The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under cleofy.
 
 .. code-block:: bash
 
 
- kevell@corp:/# cleopatra cleofy help
+ kevell@corp:/# ptconfigure cleofy help
 
  ******************************
 
@@ -34,37 +34,37 @@ The syntax for declaring the help command is not case sensitive which is an adde
  Cleofy, cleofy  
 
  - list        
- 	List all of the autopilot files in your build/config/cleopatra/autopilots        
-	example: cleopatra cleofy list        
+ 	List all of the autopilot files in your build/config/ptconfigure/autopilots        
+	example: ptconfigure cleofy list        
 
  - standard        
-	Create a default set of cleopatra autopilots in build/config/cleopatra/autopilots for your project.        
-	example: cleopatra cleofy standard        
+	Create a default set of ptconfigure autopilots in build/config/ptconfigure/autopilots for your project.        
+	example: ptconfigure cleofy standard        
 
  - tiny        
-	Create a default set of cleopatra autopilots in build/config/cleopatra/autopilots for a project with a "tiny" style infrastructure.        	example: cleopatra cleofy tiny        
+	Create a default set of ptconfigure autopilots in build/config/ptconfigure/autopilots for a project with a "tiny" style infrastructure.        	example: ptconfigure cleofy tiny        
 
  - medium        
-	Create a default set of cleopatra autopilots in build/config/cleopatra/autopilots for a project with a "medium" style infrastructure.        	example: cleopatra cleofy medium        
+	Create a default set of ptconfigure autopilots in build/config/ptconfigure/autopilots for a project with a "medium" style infrastructure.        	example: ptconfigure cleofy medium        
 
  - medium-web        
-	Create a default set of cleopatra autopilots in build/config/cleopatra/autopilots for a project with a "medium" style infrastructure,
+	Create a default set of ptconfigure autopilots in build/config/ptconfigure/autopilots for a project with a "medium" style infrastructure,
         with web but not database.        
- 	example: cleopatra cleofy medium-web        
+ 	example: ptconfigure cleofy medium-web        
 
  - db-cluster        
-	Create a default set of cleopatra autopilots in build/config/cleopatra/autopilots for your project.        
- 	example: cleopatra cleofy db-cluster        
+	Create a default set of ptconfigure autopilots in build/config/ptconfigure/autopilots for your project.        
+ 	example: ptconfigure cleofy db-cluster        
  --yes                    
  --guess                    
  --database-nodes-env=*db-nodes-environment-name*                    
 
  - install-generic-autopilots        
 	Install the generic Cleofy autopilot templates for a Tiny or Medium (Current Default) set of Environments        
- example: cleopatra cleofy install-generic-autopilots        
-	example: cleopatra cleofy install-generic-autopilots        
+ example: ptconfigure cleofy install-generic-autopilots        
+	example: ptconfigure cleofy install-generic-autopilots        
  --yes                    
- --guess # will set --destination-dir=*this dir +*build/config/cleopatra/cleofy/autopilots/                    
+ --guess # will set --destination-dir=*this dir +*build/config/ptconfigure/cleofy/autopilots/                    
  --template-group=tiny # tiny, medium, dbcluster, phlagrant || db-cluster, workstation                    
  --destination-dir=*path-to-destination*                    
 
@@ -91,57 +91,57 @@ This topic depicts about the various functions of cleofy under this module as li
 List
 -----
 
-This function aims at listing all the autopilot files in your specified location(build/config/cleopatra/autopilots). The syntax for applying this function is shown below,
+This function aims at listing all the autopilot files in your specified location(build/config/ptconfigure/autopilots). The syntax for applying this function is shown below,
 
 .. code-block:: bash
 
-	cleopatra cleofy list
+	ptconfigure cleofy list
 
 Standard
 ------------
 
-This function assists in creating a default set of cleopatra autopilots (in build/config/cleopatra/autopilots) for the project of the users. This function can be applied simply by using the command below,
+This function assists in creating a default set of ptconfigure autopilots (in build/config/ptconfigure/autopilots) for the project of the users. This function can be applied simply by using the command below,
 
 .. code-block:: bash
 
-	cleopatra cleofy standard
+	ptconfigure cleofy standard
 
 Tiny
 -----
 
-This function aims at creating a default set of cleopatra autopilots (in build/config/cleopatra/autopilots) for a project with tiny infrastructure. To implement this functions use the following command as below,
+This function aims at creating a default set of ptconfigure autopilots (in build/config/ptconfigure/autopilots) for a project with tiny infrastructure. To implement this functions use the following command as below,
 
 .. code-block:: bash
 
-	cleopatra cleofy tiny
+	ptconfigure cleofy tiny
 
 Medium
 -----------
 
-This function aims at creating a default set of cleopatra autopilots (in build/config/cleopatra/autopilots) for a project with medium infrastructure. To implement this functions use the following command as below,
+This function aims at creating a default set of ptconfigure autopilots (in build/config/ptconfigure/autopilots) for a project with medium infrastructure. To implement this functions use the following command as below,
 
 .. code-block:: bash
 
-	cleopatra cleofy medium
+	ptconfigure cleofy medium
 
 Medium_Web
 -------------------
 
-This function aims at creating a default set of cleopatra autopilots (in build/config/cleopatra/autopilots) for a project with medium infrastructure with web, but not database. To implement this functions use the following command as below,
+This function aims at creating a default set of ptconfigure autopilots (in build/config/ptconfigure/autopilots) for a project with medium infrastructure with web, but not database. To implement this functions use the following command as below,
 
 .. code-block:: bash
 
-	cleopatra cleofy medium-web
+	ptconfigure cleofy medium-web
 
 DB_cluster
 ---------------
 
-This function aims at creating a default set of cleopatra autopilots (in build/config/cleopatra/autopilots) for the users project. 
+This function aims at creating a default set of ptconfigure autopilots (in build/config/ptconfigure/autopilots) for the users project. 
 To implement this functions use the following command as below,
 
 .. code-block:: bash
 
-	cleopatra cleofy db-cluster        
+	ptconfigure cleofy db-cluster        
  --yes                    
  --guess                    
  --database-nodes-env=*db-nodes-environment-name*                    
@@ -155,14 +155,14 @@ below,
 
 .. code-block:: bash
 	
-	cleopatra cleofy install-generic-autopilots        
+	ptconfigure cleofy install-generic-autopilots        
 Or,
 
 .. code-block:: bash
 
-	cleopatra cleofy install-generic-autopilots
+	ptconfigure cleofy install-generic-autopilots
  --yes                    
- --guess # will set --destination-dir=*this dir +*build/config/cleopatra/cleofy/autopilots/                    
+ --guess # will set --destination-dir=*this dir +*build/config/ptconfigure/cleofy/autopilots/                    
  --template-group=tiny # tiny, medium, dbcluster, phlagrant || db-cluster, workstation                    
  --destination-dir=*path-to-destination*                    
 

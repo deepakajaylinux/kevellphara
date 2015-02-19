@@ -18,14 +18,14 @@ The command used for declaring help option under Apt is shown below,
 
 .. code-block:: bash
 
-	cleopatra Apt help
+	ptconfigure Apt help
 
 The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under apt.
 
 
 .. code-block:: bash
 
- kevell@corp:/# cleopatra apt help
+ kevell@corp:/# ptconfigure apt help
  ******************************
 
 
@@ -35,31 +35,31 @@ The syntax for declaring the help command is not case sensitive which is an adde
 
         - create
         Create a new system apt, overwriting if it exists
-        example: cleopatra apt create --aptname="somename"
+        example: ptconfigure apt create --aptname="somename"
 
         - remove
         Remove a system apt
-        example: cleopatra apt remove --aptname="somename"
+        example: ptconfigure apt remove --aptname="somename"
 
         - set-password
         Set the password of a system apt
-        example: cleopatra apt set-password --aptname="somename" --new-password="somepassword"
+        example: ptconfigure apt set-password --aptname="somename" --new-password="somepassword"
 
         - exists
         Check the existence of a apt
-        example: cleopatra apt exists --aptname="somename"
+        example: ptconfigure apt exists --aptname="somename"
 
         - show-groups
         Show groups to which a apt belongs
-        example: cleopatra apt show-groups --aptname="somename"
+        example: ptconfigure apt show-groups --aptname="somename"
 
         - add-to-group
         Add apt to a group
-        example: cleopatra apt add-to-group --aptname="somename" --groupname="somegroupname"
+        example: ptconfigure apt add-to-group --aptname="somename" --groupname="somegroupname"
 
         - remove-from-group
         Remove apt from a group
-        example: cleopatra apt remove-from-group --aptname="somename" --groupname="somegroupname"
+        example: ptconfigure apt remove-from-group --aptname="somename" --groupname="somegroupname"
 
  ------------------------------
  End Help
@@ -90,7 +90,7 @@ This functions aims at creating a new system apt, and as well as overwrites in c
 
 .. code-block:: bash
 
-	cleopatra apt create --aptname="somename"
+	ptconfigure apt create --aptname="somename"
 
 In the place of aptname the user can specify the name of the apt which is to be created. After entering the command as specified above, the new system apt will be created with the specified name.
 
@@ -101,7 +101,7 @@ This functions aims at removing an existing apt. This function of apt using this
 
 .. code-block:: bash
 
-	cleopatra apt remove --aptname="somename"
+	ptconfigure apt remove --aptname="somename"
 
 
 In the place of aptname the user can specify the name of the apt which is to be deleted. After entering the command as specified above, the specified apt will be deleted.
@@ -115,7 +115,7 @@ below,
 
 .. code-block:: bash
 
-	cleopatra apt set-password --aptname="somename" --new-password="somepassword"
+	ptconfigure apt set-password --aptname="somename" --new-password="somepassword"
 
 
 To implement this functions, the user have to specify the two fields,
@@ -133,7 +133,7 @@ This functions aims at checking the existence of a apt. This can be done simply,
 
 .. code-block:: bash
 
-	cleopatra apt exists --aptname="somename"
+	ptconfigure apt exists --aptname="somename"
 
 After applying the command as above, the existence of an mentioned apt will be ensured with the results.
 
@@ -144,7 +144,7 @@ This function assists the users to know about to which group does the apt belong
 
 .. code-block:: bash
 
-	cleopatra apt show-groups --aptname="somename"
+	ptconfigure apt show-groups --aptname="somename"
 
 The user have to specify the name of the apt in the field of aptname, in order to know the details of its group.
 
@@ -155,7 +155,7 @@ The main objective of this function is to add the required apt to the required g
 
 .. code-block:: bash
 
-	cleopatra apt add-to-group --aptname="somename" --groupname="somegroupname"
+	ptconfigure apt add-to-group --aptname="somename" --groupname="somegroupname"
 
 To implement this function, the user have to specify the following two fields as per their needs in the format of above mentioned command,
 
@@ -169,7 +169,7 @@ The main objective of this function is to remove the apt from a group by simply 
 
 .. code-block:: bash
 
-	cleopatra apt remove-from-group --aptname="somename" --groupname="somegroupname"
+	ptconfigure apt remove-from-group --aptname="somename" --groupname="somegroupname"
 
 To implement this function, the user have to specify the following two fields as per their needs in the format of above mentioned command,
 

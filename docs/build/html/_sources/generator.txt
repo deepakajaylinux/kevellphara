@@ -17,7 +17,7 @@ The help command highlights the major objective of this module. It lists outs th
 
 .. code-block:: bash
 
-	cleopatra Generator help
+	ptconfigure Generator help
 
 
 The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under generator.

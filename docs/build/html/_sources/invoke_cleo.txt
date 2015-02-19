@@ -15,7 +15,7 @@ This command helps to determine the usage of invoke module. The user will come t
 
 .. code-block:: bash
         
-	        cleopatra invoke help
+	        ptconfigure invoke help
 
 Get
 --------
@@ -24,7 +24,7 @@ When the user needs to fetches a file in our source to other destination, the be
 
 .. code-block:: bash
         
-	        cleopatra invoke get
+	        ptconfigure invoke get
 
 
 The system asks for source file path and target file path.
@@ -37,7 +37,7 @@ Alternative Parameter
 
 There are two alternative parameter which can be used in command line Invoke , invoke.
 
-Eg: cleopatra invoke get/ cleopatra invoke get
+Eg: ptconfigure invoke get/ ptconfigure invoke get
 
 
 Benefits

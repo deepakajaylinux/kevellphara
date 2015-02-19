@@ -15,7 +15,7 @@ This command helps to determine the usage of HAProxy module. The user will come 
 
 .. code-block:: bash
         
-	        cleopatra HAproxy help
+	        ptconfigure HAproxy help
 
 
 The pictorial representation of the above command is listed below,
@@ -23,7 +23,7 @@ The pictorial representation of the above command is listed below,
 .. code-block:: bash
 
 
- kevell@corp:/# cleopatra HAProxy help
+ kevell@corp:/# ptconfigure HAProxy help
 
  ******************************
 
@@ -34,11 +34,11 @@ The pictorial representation of the above command is listed below,
 
         - install
         Installs HA Proxy Server
-        example: cleopatra haproxy install
+        example: ptconfigure haproxy install
 
         - configure
         Configure Load Balancing with HA Proxy Server
-        example: cleopatra haproxy configure
+        example: ptconfigure haproxy configure
 
  ------------------------------
  End Help
@@ -52,7 +52,7 @@ We can install HAProxy using distribution's package manager. When the user needs
 
 .. code-block:: bash
         
-	        cleopatra HAproxy install
+	        ptconfigure HAproxy install
 
 The pictorial representation of the above command is listed below,
 
@@ -60,7 +60,7 @@ The pictorial representation of the above command is listed below,
 .. code-block:: bash
 
  
- kevell@corp:/# cleopatra haproxy install
+ kevell@corp:/# ptconfigure haproxy install
  Install HA Proxy Server? (Y/N)
  y
  *******************************
@@ -106,10 +106,10 @@ Options
  +--------------------------+--------------------------------------+----------------+----------------------------------------------+
  | Parameters		    | Alternative Parameters		   | Options	    | Comments					   |
  +==========================+======================================+================+==============================================+
- |cleopatra HAProxy  	    | HAProxy , ha-proxy, haproxy	   | Y		    | System starts installation process	   |
+ |ptconfigure HAProxy  	    | HAProxy , ha-proxy, haproxy	   | Y		    | System starts installation process	   |
  |Install		    |					   |		    |						   |
  +--------------------------+--------------------------------------+----------------+----------------------------------------------+
- |cleopatra  HAProxy 	    | HAProxy , ha-proxy, haproxy	   | N		    | System stops installation process		   |
+ |ptconfigure  HAProxy 	    | HAProxy , ha-proxy, haproxy	   | N		    | System stops installation process		   |
  |Install|		    |					   |		    |						   |
  +--------------------------+--------------------------------------+----------------+----------------------------------------------+
 
@@ -121,14 +121,14 @@ This command helps in configuring the load balancing with HAproxy server. Once t
 
 .. code-block:: bash
 
-                cleopatra HAproxy configure
+                ptconfigure HAproxy configure
 
 The screenshot for the above command is listed below,
 
 .. code-block:: bash
 
 
- kevell@corp:/# cleopatra haproxy configure
+ kevell@corp:/# ptconfigure haproxy configure
 
  *******************************
  *        Pharaoh Tools        *
@@ -137,9 +137,9 @@ The screenshot for the above command is listed below,
  
  What is the environment name you want to balance load to? 
  
- PHP Notice:  Undefined index:  in /opt/cleopatra/cleopatra/src/Modules/HAProxy/Model/HAProxyConfigureUbuntu.php on line 102
- PHP Notice:  Undefined index:  in /opt/cleopatra/cleopatra/src/Modules/HAProxy/Model/HAProxyConfigureUbuntu.php on line 102
- PHP Warning:  Invalid argument supplied for foreach() in /opt/cleopatra/cleopatra/src/Modules/HAProxy/Model/HAProxyConfigureUbuntu.php on line 75
+ PHP Notice:  Undefined index:  in /opt/ptconfigure/ptconfigure/src/Modules/HAProxy/Model/HAProxyConfigureUbuntu.php on line 102
+ PHP Notice:  Undefined index:  in /opt/ptconfigure/ptconfigure/src/Modules/HAProxy/Model/HAProxyConfigureUbuntu.php on line 102
+ PHP Warning:  Invalid argument supplied for foreach() in /opt/ptconfigure/ptconfigure/src/Modules/HAProxy/Model/HAProxyConfigureUbuntu.php on line 75
  Set non-default value for global_log? Default is 127.0.0.1 local0 notice (Y/N) 
 
  Set non-default value for global_maxconn? Default is 20000 (Y/N) 

@@ -137,34 +137,34 @@
 <div class="section" id="help-command">
 <h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>The help command guides the users regarding the purpose of the module, its alternative parameters that are used in declaration. It highlights the three functions of environment configuration which are list, configure, delete. It also specifies the syntax for using three major functions. The syntax used for declaring the help is shown below:</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra envconfig <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure envconfig <span class="nb">help</span>
 </pre></div>
 </div>
 <p>The following screen shot depicts pictorially about the working of help command.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra envconfig <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptconfigure envconfig <span class="nb">help</span>
 ******************************
 
 
  This <span class="nb">command </span>is part of a default Module and provides you with a method by which you can
  configure environments <span class="k">for</span> your project from the <span class="nb">command </span>line. Currently compliant with
- both Dapperstrano and Cleopatra.
+ both Dapperstrano and ptconfigure.
 
 
  EnvironmentConfig, environmentconfig, environment-config, envconfig, env-config
 
        - list
        List current environments
-       example: cleopatra envconfig list --yes
+       example: ptconfigure envconfig list --yes
 
        - list-local
        List current <span class="nb">local </span>environments
-       example: cleopatra envconfig list-local --yes
+       example: ptconfigure envconfig list-local --yes
 
        - configure, config
        Configure bespoke environments <span class="k">for</span> your project to use
-       example: cleopatra envconfig config
+       example: ptconfigure envconfig config
        <span class="c"># below to create an empty environment to add instances to</span>
-       example: cleopatra envconfig config --yes
+       example: ptconfigure envconfig config --yes
                    --keep-current-environments <span class="c"># do not overwrite the current environments stored in papyrusfile</span>
                    --no-manual-servers <span class="c"># so it will not ask you to interactively enter connection details of instances</span>
                    --add-single-environment <span class="c"># otherwise it will loop for more until you specify not to</span>
@@ -173,13 +173,13 @@
 
        - configure-default, config-default
        Configure default environments <span class="k">for</span> your project to use
-       example: cleopatra envconfig config-default
-       example: cleopatra envconfig config-default --yes --environment-name<span class="o">=</span><span class="s2">&quot;local-80/local-8080&quot;</span>
+       example: ptconfigure envconfig config-default
+       example: ptconfigure envconfig config-default --yes --environment-name<span class="o">=</span><span class="s2">&quot;local-80/local-8080&quot;</span>
 
        - delete, del
        Configure the environments <span class="k">for</span> your project to use
-       example: cleopatra envconfig delete
-       example: cleopatra envconfig del --environment-name<span class="o">=</span><span class="s2">&quot;staging&quot;</span>
+       example: ptconfigure envconfig delete
+       example: ptconfigure envconfig del --environment-name<span class="o">=</span><span class="s2">&quot;staging&quot;</span>
 
 
 ------------------------------
@@ -191,7 +191,7 @@ End Help
 <div class="section" id="how-to-configure-the-environment">
 <h2>How to Configure the environment<a class="headerlink" href="#how-to-configure-the-environment" title="Permalink to this headline">¶</a></h2>
 <p>For the purpose of configuring the environments the user can use the following command:</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra envconfig config
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure envconfig config
 </pre></div>
 </div>
 <p>After inputting the command above the following operations takes place as shown:</p>
@@ -210,7 +210,7 @@ End Help
 <p>Add Another Server? (Y/N)</p>
 <p>The user have to input Y or N.</p>
 <p>Finally, the environment configuration gets success as depicted in the below screenshot.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra envconfig config
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptconfigure envconfig config
 Configure Environments Here? <span class="o">(</span>Y/N<span class="o">)</span>
 Y
 Environment <span class="m">1</span>  :
@@ -237,7 +237,7 @@ In Environment Configuration
 </pre></div>
 </div>
 <p>While configuring an environment, if the user wish to configure with current environment , they can use the following command:</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra envconfig config --keep-current-environments
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure envconfig config --keep-current-environments
 </pre></div>
 </div>
 <p>After inputting the command above, it will asks the following details as shown in the tabular format:</p>
@@ -291,7 +291,7 @@ input as N.|</td>
 </tbody>
 </table>
 <p>The following screenshot pictorially represents the above mentioned process:</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra envconfig config --keep-current-environments
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# ptconfigure envconfig config --keep-current-environments
 Configure Environments Here? <span class="o">(</span>Y/N<span class="o">)</span>
 Y
 Use existing environment settings? <span class="o">(</span>Y/N<span class="o">)</span>
@@ -310,7 +310,7 @@ In Environment Configuration
 <div class="section" id="how-to-delete-environment-configuration">
 <h2>How to Delete environment configuration<a class="headerlink" href="#how-to-delete-environment-configuration" title="Permalink to this headline">¶</a></h2>
 <p>If the user needs to delete the environment configuration, they can input the following command:</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra envconfig del --environment-name<span class="o">=</span><span class="s2">&quot;kevells&quot;</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure envconfig del --environment-name<span class="o">=</span><span class="s2">&quot;kevells&quot;</span>
 </pre></div>
 </div>
 <p>The user can specify the name of the environment they wish to delete as shown above.</p>
@@ -324,7 +324,7 @@ In Environment Configuration
 <p>Step 2: Environment Kevells(Name of the specified environment that is supposed to delete) found. Are you sure want to delete it? (Y/N)</p>
 <p>The user has to specify Y or N</p>
 <p>Finally, the specified environment gets deleted as shown in the screenshot.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra envconfig del --environment-name<span class="o">=</span><span class="s2">&quot;kevells&quot;</span>
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# ptconfigure envconfig del --environment-name<span class="o">=</span><span class="s2">&quot;kevells&quot;</span>
 Delete Environments Here?
 WARNING: Deleting an environment from papyrus is final. You may be looking <span class="k">for</span> boxify box-destroy instead <span class="o">(</span>Y/N<span class="o">)</span>
 Y
@@ -343,11 +343,11 @@ In Environment Configuration
 <div class="section" id="how-to-list-environment-configuration">
 <h2>How to list environment configuration<a class="headerlink" href="#how-to-list-environment-configuration" title="Permalink to this headline">¶</a></h2>
 <p>If the user wish to view the list of details regarding the environment configuration, they can input as shown:</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra envconfig list --yes
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure envconfig list --yes
 </pre></div>
 </div>
 <p>After inputting the command above, it will display the output as shown in the screenshot:</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# cleopatra envconfig list --yes
+<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# ptconfigure envconfig list --yes
 ******************************
 
 
@@ -374,7 +374,8 @@ In Environment Configuration
 <ul class="simple">
 <li>It is well-to-do in both cent OS and as well as in ubuntu.</li>
 <li>The parameters used in declaration are not case sensitive which is an added advantage while compared to others.</li>
-<li>This module leads the users how to configure the environment, how to delete the unwanted environment, how to use the list option for listing   the available environments.</li>
+<li>This module leads the users how to configure the environment, how to delete the unwanted environment, how to use the list option for
+listing   the available environments.</li>
 </ul>
 </div>
 </div>

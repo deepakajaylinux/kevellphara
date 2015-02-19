@@ -136,11 +136,11 @@
 <div class="section" id="help-command">
 <h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>This command helps to determine the usage of HAProxy module. The user will come to know about the different ways/format to execute this module. This command will guide the end user to know when and how the command to be used. Below given are the command and the screenshot of the same.</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra HAproxy <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure HAproxy <span class="nb">help</span>
 </pre></div>
 </div>
 <p>The pictorial representation of the above command is listed below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# cleopatra HAProxy <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptconfigure HAProxy <span class="nb">help</span>
 
 ******************************
 
@@ -151,11 +151,11 @@
 
        - install
        Installs HA Proxy Server
-       example: cleopatra haproxy install
+       example: ptconfigure haproxy install
 
        - configure
        Configure Load Balancing with HA Proxy Server
-       example: cleopatra haproxy configure
+       example: ptconfigure haproxy configure
 
 ------------------------------
 End Help
@@ -166,11 +166,11 @@ End Help
 <div class="section" id="installation">
 <h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
 <p>We can install HAProxy using distribution&#8217;s package manager. When the user needs to install HAproxy module in machine. The below given command will execute the process of installation.</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra HAproxy install
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure HAproxy install
 </pre></div>
 </div>
 <p>The pictorial representation of the above command is listed below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# cleopatra haproxy install
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptconfigure haproxy install
 Install HA Proxy Server? <span class="o">(</span>Y/N<span class="o">)</span>
 y
 *******************************
@@ -224,13 +224,13 @@ Installer Finished
 </tr>
 </thead>
 <tbody valign="top">
-<tr class="row-even"><td>cleopatra HAProxy
+<tr class="row-even"><td>ptconfigure HAProxy
 Install</td>
 <td>HAProxy , ha-proxy, haproxy</td>
 <td>Y</td>
 <td>System starts installation process</td>
 </tr>
-<tr class="row-odd"><td>cleopatra  HAProxy
+<tr class="row-odd"><td>ptconfigure  HAProxy
 Install|</td>
 <td>HAProxy , ha-proxy, haproxy</td>
 <td>N</td>
@@ -242,11 +242,11 @@ Install|</td>
 <div class="section" id="configuration">
 <h2>Configuration<a class="headerlink" href="#configuration" title="Permalink to this headline">¶</a></h2>
 <p>This command helps in configuring the load balancing with HAproxy server. Once the below given command is executed the system provides you with the default value for each section, if there are any changes to be done, the user can provide the data.</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra HAproxy configure
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure HAproxy configure
 </pre></div>
 </div>
 <p>The screenshot for the above command is listed below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# cleopatra haproxy configure
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptconfigure haproxy configure
 
 *******************************
 *        Pharaoh Tools        *
@@ -255,9 +255,9 @@ Install|</td>
 
 What is the environment name you want to balance load to?
 
-PHP Notice:  Undefined index:  in /opt/cleopatra/cleopatra/src/Modules/HAProxy/Model/HAProxyConfigureUbuntu.php on line 102
-PHP Notice:  Undefined index:  in /opt/cleopatra/cleopatra/src/Modules/HAProxy/Model/HAProxyConfigureUbuntu.php on line 102
-PHP Warning:  Invalid argument supplied <span class="k">for</span> foreach<span class="o">()</span> in /opt/cleopatra/cleopatra/src/Modules/HAProxy/Model/HAProxyConfigureUbuntu.php on line 75
+PHP Notice:  Undefined index:  in /opt/ptconfigure/ptconfigure/src/Modules/HAProxy/Model/HAProxyConfigureUbuntu.php on line 102
+PHP Notice:  Undefined index:  in /opt/ptconfigure/ptconfigure/src/Modules/HAProxy/Model/HAProxyConfigureUbuntu.php on line 102
+PHP Warning:  Invalid argument supplied <span class="k">for</span> foreach<span class="o">()</span> in /opt/ptconfigure/ptconfigure/src/Modules/HAProxy/Model/HAProxyConfigureUbuntu.php on line 75
 Set non-default value <span class="k">for</span> global_log? Default is 127.0.0.1 local0 notice <span class="o">(</span>Y/N<span class="o">)</span>
 
 Set non-default value <span class="k">for</span> global_maxconn? Default is <span class="m">20000</span> <span class="o">(</span>Y/N<span class="o">)</span>

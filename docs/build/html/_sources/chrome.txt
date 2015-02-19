@@ -17,13 +17,13 @@ This command helps to determine the usage of Chrome. This command guides the end
 
 .. code-block:: bash
         
-	        cleopatra Chrome help
+	        ptconfigure Chrome help
 
 The pictorial representation of the above command is listed below,
 
 .. code-block:: bash
 
- kevell@corp:/# cleopatra Chrome help
+ kevell@corp:/# ptconfigure Chrome help
  ******************************
 
 
@@ -34,7 +34,7 @@ The pictorial representation of the above command is listed below,
 
         - install
         Installs Chrome
-        example: cleopatra chrome install
+        example: ptconfigure chrome install
 
  ------------------------------
  End Help
@@ -49,30 +49,30 @@ Open the terminal and type the following command to install the same under Linux
 
 .. code-block:: bash
         
-	        cleopatra Chrome install
+	        ptconfigure Chrome install
 
 The pictorial representation of the above command is listed below,
 
 
 .. code-block:: bash
 
- kevell@corp:/# cleopatra chrome install
+ kevell@corp:/# ptconfigure chrome install
  Install Chrome? (Y/N) 
  Y
  *******************************
  *        Pharaoh Tools        *
  *         GoogleChrome        *
  *******************************
- Creating /tmp/cleopatra-temp-script-93431196740.sh
- chmod 755 /tmp/cleopatra-temp-script-93431196740.sh 2>/dev/null
- Changing /tmp/cleopatra-temp-script-93431196740.sh Permissions
- Executing /tmp/cleopatra-temp-script-93431196740.sh
+ Creating /tmp/ptconfigure-temp-script-93431196740.sh
+ chmod 755 /tmp/ptconfigure-temp-script-93431196740.sh 2>/dev/null
+ Changing /tmp/ptconfigure-temp-script-93431196740.sh Permissions
+ Executing /tmp/ptconfigure-temp-script-93431196740.sh
  OK
- Temp File /tmp/cleopatra-temp-script-93431196740.sh Removed
- Creating /tmp/cleopatra-temp-script-93753948068.sh
- chmod 755 /tmp/cleopatra-temp-script-93753948068.sh 2>/dev/null
- Changing /tmp/cleopatra-temp-script-93753948068.sh Permissions
- Executing /tmp/cleopatra-temp-script-93753948068.sh
+ Temp File /tmp/ptconfigure-temp-script-93431196740.sh Removed
+ Creating /tmp/ptconfigure-temp-script-93753948068.sh
+ chmod 755 /tmp/ptconfigure-temp-script-93753948068.sh 2>/dev/null
+ Changing /tmp/ptconfigure-temp-script-93753948068.sh Permissions
+ Executing /tmp/ptconfigure-temp-script-93753948068.sh
  Hit http://downloads.hipchat.com stable InRelease
  Ign http://security.ubuntu.com trusty-security InRelease
  Hit http://security.ubuntu.com trusty-security Release.gpg
@@ -173,7 +173,7 @@ The pictorial representation of the above command is listed below,
  Ign http://in.archive.ubuntu.com trusty/universe Translation-en_IN
  Fetched 1,671 kB in 5min 51s (4,761 B/s)
  Reading package lists...
- Temp File /tmp/cleopatra-temp-script-93753948068.sh Removed
+ Temp File /tmp/ptconfigure-temp-script-93753948068.sh Removed
  [Pharaoh Logging] [File] Creating File /etc/apt/sources.list.d/google.list
  [Pharaoh Logging] [File] Reading File deb http://dl.google.com/linux/chrome/deb/ stable main
  [Pharaoh Logging] [File] Reading File deb http://dl.google.com/linux/chrome/deb/ stable main
@@ -200,15 +200,15 @@ Options
  +--------------------------------+------------------------------------+-----------------+-----------------------------------------+
  | Parameters			  | Alternative Parameters	       | Options	 | Comments				   |
  +================================+====================================+=================+=========================================+
- |cleopatra Chrome  Install	  | Either of the two alternative      | Y		 | Once the user provides the option,	   |
+ |ptconfigure Chrome  Install	  | Either of the two alternative      | Y		 | Once the user provides the option,	   |
  |				  | parameter can be used in           |		 | System starts installation process	   |
  |		                  | command- Chrome ,  chrome          |		 |					   |
- |				  | eg: cleopatra  chrome Install      |		 |					   |
+ |				  | eg: ptconfigure  chrome Install    |		 |					   |
  +--------------------------------+------------------------------------+-----------------+-----------------------------------------+
- |cleopatra Chrome  Install       | Either of the two alternative      | N               | Once the user provides the option,      |
+ |ptconfigure Chrome  Install     | Either of the two alternative      | N               | Once the user provides the option,      |
  |                                | parameter can be used in           |                 | System stops installation process       |
  |                                | command- Chrome ,  chrome          |                 |                                         |
- |                                | eg: cleopatra  chrome Install|     |                 |                                         |
+ |                                | eg: ptconfigure  chrome Install|   |                 |                                         |
  +--------------------------------+------------------------------------+-----------------+-----------------------------------------+
 
 

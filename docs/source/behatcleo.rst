@@ -17,14 +17,14 @@ The coding to make use of help command under behat, is given as follows:
 
 .. code-block:: bash
 
-		cleopatra behat help
+		ptconfigure behat help
 
 The screen shot as given below explains you graphically about the usage of the help command.
 
 
 .. code-block:: bash
 
- kevells@corp:/# cleopatra behat help
+ kevells@corp:/# ptconfigure behat help
  ******************************
 
 
@@ -34,7 +34,7 @@ The screen shot as given below explains you graphically about the usage of the h
 
         - install
         Installs the latest version of behat
-        example: cleopatra behat install
+        example: ptconfigure behat install
 
  ------------------------------
  End Help
@@ -48,7 +48,7 @@ If the user needs to install the latest version of behat, they can achieve insta
 
 .. code-block:: bash
 
-	cleopatra behat install
+	ptconfigure behat install
 
 After entering the command above, the following process are involved in installation as shown in the tabular format,
 
@@ -100,7 +100,7 @@ The screenshot shown below will gives you an pictorial representation about the 
 
 .. code-block:: bash
 
- kevells@corp:/# cleopatra behat install
+ kevells@corp:/# ptconfigure behat install
  Install Behat ? (Y/N) 
  Y
  *******************************
@@ -111,10 +111,10 @@ The screenshot shown below will gives you an pictorial representation about the 
  
  What is the program executor directory? Found "/usr/bin" - use this? (Enter nothing for yes, No Trailing Slash)
 
- Creating /tmp/cleopatra-temp-script-69243074239.sh
- chmod 755 /tmp/cleopatra-temp-script-69243074239.sh 2>/dev/null
- Changing /tmp/cleopatra-temp-script-69243074239.sh Permissions
- Executing /tmp/cleopatra-temp-script-69243074239.sh
+ Creating /tmp/ptconfigure-temp-script-69243074239.sh
+ chmod 755 /tmp/ptconfigure-temp-script-69243074239.sh 2>/dev/null
+ Changing /tmp/ptconfigure-temp-script-69243074239.sh Permissions
+ Executing /tmp/ptconfigure-temp-script-69243074239.sh
  --2015-01-27 15:31:39--  https://getcomposer.org/installer
  Resolving getcomposer.org (getcomposer.org)... 87.98.253.108
  Connecting to getcomposer.org (getcomposer.org)|87.98.253.108|:443... connected.
@@ -142,7 +142,7 @@ Version
 
 While installing the behat, the most-recent version will be installed in your machine.
 
-This is an added advantage of behat module under Cleopatra when compared to other.
+This is an added advantage of behat module under ptconfigure when compared to other.
 
 Benefits to the users
 ----------------------

@@ -22,7 +22,7 @@ The help command is a brief user manual that depicts the users regarding the pur
 
 .. code-block:: bash
 
-	cleopatra GIMP help
+	ptconfigure GIMP help
 
 
 The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under GIMP.
@@ -35,7 +35,7 @@ The command used for installing GIMP through apt-get using this module is simple
 
 .. code-block:: bash
 
-	cleopatra GIMP install
+	ptconfigure GIMP install
 
 After inputting the command above, the following steps are performed as depicted from the table,
 

@@ -134,11 +134,11 @@
 <div class="section" id="help-command">
 <h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>The help command leads the users regarding the purpose and as well as about the options that are included in the Chrome driver module. The help command lists out the alternative parameters of Chrome driver module. It also describes the syntax for installing Chrome driver module. The help command for Chrome driver module is shown as below.</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra ChromeDriver <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure ChromeDriver <span class="nb">help</span>
 </pre></div>
 </div>
 <p>The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under Chrome driver.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# cleopatra ChromeDriver help
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptconfigure ChromeDriver help
 
 ******************************
 
@@ -153,7 +153,7 @@
        - install
        Installs ChromeDriver. Note, you&#39;ll also need Java installed
        as it is a prerequisite for ChromeDriver
-       example: cleopatra chromedriver install
+       example: ptconfigure chromedriver install
 
 ------------------------------
 End Help
@@ -164,7 +164,7 @@ End Help
 <div class="section" id="installation">
 <h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
 <p>Installing the chrome driver to your machine, can be done simply by using the following command as shown:</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra chromedriver install
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure chromedriver install
 </pre></div>
 </div>
 <p>After inputting the command above, the following operations occurs as shown in the tabular format.</p>
@@ -226,7 +226,7 @@ as N.|</td>
 </div>
 <p>The user has to specify the numbers from 0 through 11 depending on their requirements of version.</p>
 <p>After the user specifying the version, the process of installation begins and gets completed as pictorially depicted from the following screen shot.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# cleopatra chromedriver install
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptconfigure chromedriver install
 
 Install ChromeDriver Server? <span class="o">(</span>Y/N<span class="o">)</span>
 Y
@@ -248,14 +248,14 @@ Enter Chrome Driver Version
 <span class="o">(</span>10<span class="o">)</span> 2.8
 <span class="o">(</span>11<span class="o">)</span> 2.9
 11
-PHP Notice:  Undefined index: version in /opt/cleopatra/cleopatra/src/Modules/ChromeDriver/Model/ChromeDriverAllLinux.php on line 42
+PHP Notice:  Undefined index: version in /opt/ptconfigure/ptconfigure/src/Modules/ChromeDriver/Model/ChromeDriverAllLinux.php on line 42
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> Ensure module install is not checking versions
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> Module Java reports itself as Installed
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> Not installing as already installed
-Creating /tmp/cleopatra-temp-script-26804823734.sh
-chmod <span class="m">755</span> /tmp/cleopatra-temp-script-26804823734.sh 2&gt;/dev/null
-Changing /tmp/cleopatra-temp-script-26804823734.sh Permissions
-Executing /tmp/cleopatra-temp-script-26804823734.sh
+Creating /tmp/ptconfigure-temp-script-26804823734.sh
+chmod <span class="m">755</span> /tmp/ptconfigure-temp-script-26804823734.sh 2&gt;/dev/null
+Changing /tmp/ptconfigure-temp-script-26804823734.sh Permissions
+Executing /tmp/ptconfigure-temp-script-26804823734.sh
 --2015-02-02 21:35:49--  http://chromedriver.storage.googleapis.com//chromedriver_linux64.zip
 Resolving chromedriver.storage.googleapis.com <span class="o">(</span>chromedriver.storage.googleapis.com<span class="o">)</span>... 74.125.236.44, 74.125.236.43, 74.125.236.42, ...
 Connecting to chromedriver.storage.googleapis.com <span class="o">(</span>chromedriver.storage.googleapis.com<span class="o">)</span><span class="p">|</span>74.125.236.44<span class="p">|</span>:80... connected.
@@ -264,7 +264,7 @@ HTTP request sent, awaiting response... <span class="m">404</span> Not Found
 
 mv: cannot stat <span class="s1">&#39;/tmp/chromedriver/*&#39;</span>: No such file or directory
 unzip:  cannot find or open chromedriver_linux64.zip, chromedriver_linux64.zip.zip or chromedriver_linux64.zip.ZIP.
-Temp File /tmp/cleopatra-temp-script-26804823734.sh Removed
+Temp File /tmp/ptconfigure-temp-script-26804823734.sh Removed
 ... All <span class="k">done</span>!
 *******************************
 Thanks <span class="k">for</span> installing , visit www.pharaohtools.com <span class="k">for</span> more

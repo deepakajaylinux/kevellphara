@@ -152,11 +152,11 @@
 <div class="section" id="help-command">
 <h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>This command helps to determine the usage of gitbucket module. The user comes to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same.</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra gitbucket <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure gitbucket <span class="nb">help</span>
 </pre></div>
 </div>
 <p>The screenshot for the above command is listed below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/<span class="nv">$ </span>cleopatra gitbucket <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptconfigure gitbucket <span class="nb">help</span>
 ******************************
  This <span class="nb">command </span>allows you to install a full Git Bucket installation on to a server
  The dependencies <span class="k">for</span> GitBucket are also installed.
@@ -165,7 +165,7 @@
 
        - install
        Installs the latest version of GitBucket on a system
-       example: cleopatra gitbucket install
+       example: ptconfigure gitbucket install
 
 ------------------------------
 End Help
@@ -177,18 +177,18 @@ End Help
 <h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
 <p>When the user needs to install gitbucket module in machine. The below given command will execute the process of installation.
 While installing, the system ask for repository root directory. User has to define the path. There is no default directory.</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra gitbucket install
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure gitbucket install
 </pre></div>
 </div>
 <p>The screenshot for the above command is listed below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/<span class="nv">$ </span>cleopatra gitbucket install
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptconfigure gitbucket install
 Install Git Bucket? <span class="o">(</span>Y/N<span class="o">)</span>
 y
 *******************************
 *        Pharaoh Tools        *
 *         !GitBucket!        *
 *******************************
-PHP Notice:  Undefined index: version in /opt/cleopatra/cleopatra/src/Modules/GitBucket/Model/GitBucketUbuntu.php on line 67
+PHP Notice:  Undefined index: version in /opt/ptconfigure/ptconfigure/src/Modules/GitBucket/Model/GitBucketUbuntu.php on line 67
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> Ensure module install is not checking versions
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> Command <span class="s1">&#39;git&#39;</span> found
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> No <span class="nb">command</span> <span class="s1">&#39;gitk&#39;</span> found
@@ -198,7 +198,7 @@ PHP Notice:  Undefined index: version in /opt/cleopatra/cleopatra/src/Modules/Gi
 *        Pharaoh Tools        *
 *         !Git Tools!!        *
 *******************************
-PHP Warning:  file_put_contents<span class="o">(</span>/opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/../../../cleovars<span class="o">)</span>: failed to open stream: Permission denied in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/AppConfig.php on line 115
+PHP Warning:  file_put_contents<span class="o">(</span>/opt/ptconfigure/ptconfigure/src/Modules/ptconfigureRequired/Model/../../../cleovars<span class="o">)</span>: failed to open stream: Permission denied in /opt/ptconfigure/ptconfigure/src/Modules/ptconfigureRequired/Model/AppConfig.php on line 115
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> Package git from the Packager Apt is already installed, so not installing
 Reading package lists...
 Building dependency tree...
@@ -216,7 +216,7 @@ Preparing to unpack .../git-core_1%3a1.9.1-1ubuntu0.1_all.deb ...
 Unpacking git-core <span class="o">(</span>1:1.9.1-1ubuntu0.1<span class="o">)</span> ...
 Setting up git-core <span class="o">(</span>1:1.9.1-1ubuntu0.1<span class="o">)</span> ...
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> Adding Package git-core from the Packager Apt executed correctly
-PHP Warning:  file_put_contents<span class="o">(</span>/opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/../../../cleovars<span class="o">)</span>: failed to open stream: Permission denied in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/AppConfig.php on line 115
+PHP Warning:  file_put_contents<span class="o">(</span>/opt/ptconfigure/ptconfigure/src/Modules/ptconfigureRequired/Model/../../../cleovars<span class="o">)</span>: failed to open stream: Permission denied in /opt/ptconfigure/ptconfigure/src/Modules/ptconfigureRequired/Model/AppConfig.php on line 115
 Reading package lists...
 Building dependency tree...
 Reading state information...
@@ -236,7 +236,7 @@ Unpacking gitk <span class="o">(</span>1:1.9.1-1ubuntu0.1<span class="o">)</span
 Processing triggers <span class="k">for</span> man-db <span class="o">(</span>2.6.7.1-1<span class="o">)</span> ...
 Setting up gitk <span class="o">(</span>1:1.9.1-1ubuntu0.1<span class="o">)</span> ...
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> Adding Package gitk from the Packager Apt executed correctly
-PHP Warning:  file_put_contents<span class="o">(</span>/opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/../../../cleovars<span class="o">)</span>: failed to open stream: Permission denied in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/AppConfig.php on line 115
+PHP Warning:  file_put_contents<span class="o">(</span>/opt/ptconfigure/ptconfigure/src/Modules/ptconfigureRequired/Model/../../../cleovars<span class="o">)</span>: failed to open stream: Permission denied in /opt/ptconfigure/ptconfigure/src/Modules/ptconfigureRequired/Model/AppConfig.php on line 115
 Reading package lists...
 Building dependency tree...
 Reading state information...
@@ -275,17 +275,17 @@ Setting up libjs-jquery <span class="o">(</span>1.7.2+dfsg-2ubuntu1<span class="
 Setting up libjs-underscore <span class="o">(</span>1.4.4-2ubuntu1<span class="o">)</span> ...
 Setting up git-cola <span class="o">(</span>1.9.3-1<span class="o">)</span> ...
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> Adding Package git-cola from the Packager Apt executed correctly
-PHP Warning:  file_put_contents<span class="o">(</span>/opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/../../../cleovars<span class="o">)</span>: failed to open stream: Permission denied in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/AppConfig.php on line 115
+PHP Warning:  file_put_contents<span class="o">(</span>/opt/ptconfigure/ptconfigure/src/Modules/ptconfigureRequired/Model/../../../cleovars<span class="o">)</span>: failed to open stream: Permission denied in /opt/ptconfigure/ptconfigure/src/Modules/ptconfigureRequired/Model/AppConfig.php on line 115
 ... All <span class="k">done</span>!
 *******************************
 Thanks <span class="k">for</span> installing , visit www.pharaohtools.com <span class="k">for</span> more
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> Ensure module install is not checking versions
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> Module Java reports itself as Installed
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> Not installing as already installed
-Creating /tmp/cleopatra-temp-script-15361773074.sh
-chmod <span class="m">755</span> /tmp/cleopatra-temp-script-15361773074.sh 2&gt;/dev/null
-Changing /tmp/cleopatra-temp-script-15361773074.sh Permissions
-Executing /tmp/cleopatra-temp-script-15361773074.sh
+Creating /tmp/ptconfigure-temp-script-15361773074.sh
+chmod <span class="m">755</span> /tmp/ptconfigure-temp-script-15361773074.sh 2&gt;/dev/null
+Changing /tmp/ptconfigure-temp-script-15361773074.sh Permissions
+Executing /tmp/ptconfigure-temp-script-15361773074.sh
 Cloning into <span class="s1">&#39;gitbucket-war&#39;</span>...
 remote: Counting objects: 8, <span class="k">done</span>.
 remote: Total <span class="m">8</span> <span class="o">(</span>delta 0<span class="o">)</span>, reused <span class="m">0</span> <span class="o">(</span>delta 0<span class="o">)</span>
@@ -293,11 +293,11 @@ Unpacking objects: 100% <span class="o">(</span>8/8<span class="o">)</span>, <sp
 Checking connectivity... <span class="k">done</span>.
 mkdir: cannot create directory ‘/opt/gitbucket/’: Permission denied
 mv: target ‘/opt/gitbucket/’ is not a directory
-Temp File /tmp/cleopatra-temp-script-15361773074.sh Removed
+Temp File /tmp/ptconfigure-temp-script-15361773074.sh Removed
 Enter Repository Root Directory:
 /
 Program Executor Deleted <span class="k">if</span> existed
-PHP Warning:  file_put_contents<span class="o">(</span>/usr/bin/gitbucket<span class="o">)</span>: failed to open stream: Permission denied in /opt/cleopatra/cleopatra/src/Modules/CleopatraRequired/Model/BaseLinuxApp.php on line 312
+PHP Warning:  file_put_contents<span class="o">(</span>/usr/bin/gitbucket<span class="o">)</span>: failed to open stream: Permission denied in /opt/ptconfigure/ptconfigure/src/Modules/ptconfigureRequired/Model/BaseLinuxApp.php on line 312
 chmod: cannot access ‘/usr/bin/gitbucket’: No such file or directory
 ... All <span class="k">done</span>!
 *******************************
@@ -318,10 +318,10 @@ Installer Finished
 <h2>Options<a class="headerlink" href="#options" title="Permalink to this headline">¶</a></h2>
 <table border="1" class="table-bordered docutils">
 <colgroup>
-<col width="24%" />
-<col width="20%" />
+<col width="25%" />
 <col width="19%" />
-<col width="38%" />
+<col width="18%" />
+<col width="37%" />
 </colgroup>
 <thead valign="bottom">
 <tr class="row-odd"><th class="head">Parameters</th>
@@ -331,17 +331,17 @@ Installer Finished
 </tr>
 </thead>
 <tbody valign="top">
-<tr class="row-even"><td>cleopatra  gitbucket Install</td>
+<tr class="row-even"><td>ptconfigure  gitbucket Install</td>
 <td>GitBucket, gitbucket ,
 git-bucket</td>
 <td>Y</td>
 <td>System starts installation process</td>
 </tr>
-<tr class="row-odd"><td>cleopatra  gitbucket Install</td>
+<tr class="row-odd"><td>ptconfigure  gitbucket Install</td>
 <td>GitBucket, gitbucket ,
-git-bucket</td>
+git-bucket|</td>
 <td>N</td>
-<td>System stops installation|</td>
+<td>System stops installation</td>
 </tr>
 </tbody>
 </table>

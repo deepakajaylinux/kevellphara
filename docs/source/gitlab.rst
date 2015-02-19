@@ -14,13 +14,13 @@ Help command includes an extensive, console-based help system, reminiscent of ma
 
 .. code-block:: bash
 
-		cleopatra gitlab help
+		ptconfigure gitlab help
 
 The following screenshots explains its functions clearly.
 
 .. code-block:: bash
 
- kevells@corp:/# cleopatra gitlab help
+ kevell@corp:/# ptconfigure gitlab help
  ******************************
 
 
@@ -31,7 +31,7 @@ The following screenshots explains its functions clearly.
 
         - install
         Installs the latest version of GitLab on a system
-        example: cleopatra gitlab install
+        example: ptconfigure gitlab install
 
  ------------------------------
  End Help
@@ -41,11 +41,11 @@ The following screenshots explains its functions clearly.
 
 Installation
 ---------------------
-   Installation includes provision of or connection to services required to make the installed equipment ready for operation. It is a revealed process to install git lab module under Cleopatra by just using the command given below,
+   Installation includes provision of or connection to services required to make the installed equipment ready for operation. It is a revealed process to install git lab module under ptconfigure by just using the command given below,
 
 .. code-block:: bash
 
-		cleopatra gitlab install
+		ptconfigure gitlab install
 
 After vitalize the command it will catechize input.
 
@@ -61,7 +61,7 @@ Options
  |	Parameters  	       | Alternative Parameter          |  Options	 | 		Comments		         |
  +=============================+================================+================+===============================================+
  |Install gitlab?(Y/N)         |Instead of using gitlab we can  |Y(Yes)		 |It will install git and set of common   	 |
- |		               |use Gitlab,gitlab,git-lab       |		 |gitlab under Cleopatra.		         |
+ |		               |use Gitlab,gitlab,git-lab       |		 |gitlab under ptconfigure.		         |
  +-----------------------------+--------------------------------+----------------+-----------------------------------------------+
  |Install gitlab?(Y/N)         |Instead of using gitlab we can  |N(No)		 |The system exit the installation 		 |
  |		               |use Gitlab,gitlab,git-lab|      |		 |					         |

@@ -16,13 +16,13 @@ The help command acts as a brief user manual. It describes about the major objec
 
 .. code-block:: bash
 
-		cleopatra DigitalOcean help
+		ptconfigure DigitalOcean help
 
 The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under Digital Ocean.
 
 .. code-block:: bash
 
- kevell@corp:/# cleopatra DigitalOcean help
+ kevell@corp:/# ptconfigure DigitalOcean help
  ******************************
 
 
@@ -32,31 +32,31 @@ The syntax for declaring the help command is not case sensitive which is an adde
 
         - box-add
         Lets you add boxes to Digital Ocean, and adds them to your papyrusfile
-        example: cleopatra digital-ocean box-add
+        example: ptconfigure digital-ocean box-add
                     --yes
                     --digital-ocean-ssh-key-path="/home/dave/.ssh/bastion.pub"
                     --digital-ocean-ssh-key-name="bastion"
 
         - box-destroy
         Will destroy box/es in an environment for you, and remove them from the papyrus file
-        example: cleopatra digital-ocean box-destroy --yes --guess --digital-ocean-ssh-key-path="/home/dave/.ssh/bastion.pub" --digital-ocean-ssh-key-name="bastion"
+        example: ptconfigure digital-ocean box-destroy --yes --guess --digital-ocean-ssh-key-path="/home/dave/.ssh/bastion.pub" --digital-ocean-ssh-key-name="bastion"
 
         - box-destroy-all
         Will destroy all boxes in your digital ocean account - Careful - its irreversible
-        example: cleopatra digital-ocean box-destroy-all --yes --guess
+        example: ptconfigure digital-ocean box-destroy-all --yes --guess
 
         - save-ssh-key
         Will let you save a local ssh key to your Digital Ocean account, so you can ssh in to your nodes
         securely and without a password
-        example: cleopatra digital-ocean save-ssh-key
+        example: ptconfigure digital-ocean save-ssh-key
                     --yes
                     --digital-ocean-ssh-key-path="/home/dave/.ssh/bastion.pub"
                     --digital-ocean-ssh-key-name="bastion"
 
         - list
         Will display data about your digital ocean account
-        example: cleopatra digital-ocean list
-        example: cleopatra digital-ocean list --yes
+        example: ptconfigure digital-ocean list
+        example: ptconfigure digital-ocean list --yes
                     --guess # use project saved connection details if possible
                     --type=sizes # droplets, sizes, images, domains, regions, ssh_keys
 
@@ -83,7 +83,7 @@ This feature aims at adding boxes to the digital ocean and in hand add them to t
 
 .. code-block:: bash
 
-	cleopatra digital-ocean box-add
+	ptconfigure digital-ocean box-add
                     --yes
                     --digital-ocean-ssh-key-path="/home/dave/.ssh/bastion.pub"
                     --digital-ocean-ssh-key-name="bastion"
@@ -103,7 +103,7 @@ This feature aims at destroying boxes in an specified environment and in hand re
 
 .. code-block:: bash
 
-	cleopatra digital-ocean box-destroy --yes --guess --digital-ocean-ssh-key-path="/home/dave/.ssh/bastion.pub" 
+	ptconfigure digital-ocean box-destroy --yes --guess --digital-ocean-ssh-key-path="/home/dave/.ssh/bastion.pub" 
         --digital-ocean-ssh-key-name="bastion"
 
 To implement the command above, user have to specify the following fields in the format of above mentioned syntax.
@@ -118,7 +118,7 @@ This feature aims at destroying all boxes in the digital ocean account. The user
 
 .. code-block:: bash
    
-	cleopatra digital-ocean box-destroy-all --yes --guess
+	ptconfigure digital-ocean box-destroy-all --yes --guess
 
 
 Save_Ssh_key
@@ -128,7 +128,7 @@ This feature allows the users to save a  local ssh to your digital ocean so the 
 
 .. code-block:: bash
 
-	cleopatra digital-ocean save-ssh-key
+	ptconfigure digital-ocean save-ssh-key
                     --yes
                     --digital-ocean-ssh-key-path="/home/dave/.ssh/bastion.pub"
                     --digital-ocean-ssh-key-name="bastion"
@@ -145,13 +145,13 @@ This feature allows the users to list out all the data about their digital ocean
        
 .. code-block:: bash
 
-	cleopatra digital-ocean list
+	ptconfigure digital-ocean list
 
 Or
 
 .. code-block:: bash
 
-        cleopatra digital-ocean list --yes
+        ptconfigure digital-ocean list --yes
                     --guess # use project saved connection details if possible
                     --type=sizes # droplets, sizes, images, domains, regions, ssh_keys
 

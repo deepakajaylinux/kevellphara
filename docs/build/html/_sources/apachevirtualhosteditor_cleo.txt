@@ -9,11 +9,11 @@ Apache Virtual Hosts are used to run more than one domain off of a single IP add
 
 Help command
 -----------------------
-The help command leads the users regarding the purpose  and as well as about the options that are included in the apache virtualhost editor modules. The help command lists out the alternative parameters of apache virtualhost editor under cleopatra module. It also describes the syntax for installing the user’s updation. The help command for apache virtualhost editor is shown below.
+The help command leads the users regarding the purpose  and as well as about the options that are included in the apache virtualhost editor modules. The help command lists out the alternative parameters of apache virtualhost editor under ptconfigure module. It also describes the syntax for installing the user’s updation. The help command for apache virtualhost editor is shown below.
 
 .. code-block:: bash
 
-	cleopatra Apache virtualhost editor help
+	ptconfigure Apache virtualhost editor help
 
 The following screen shot shows the full effort of apache virtualhost editor.
 
@@ -35,7 +35,7 @@ This command used to create a virtual host. Overriding is possible.  The followi
 
 .. code-block:: bash
 
-		sudo cleopatra vhe add
+		sudo ptconfigure vhe add
 
 
 after inputting the above command it may ask the following,
@@ -53,7 +53,7 @@ editor.
 
 .. code-block:: bash
 
-	sudo cleopatra vhe add
+	sudo ptconfigure vhe add
 
 after inputting the above command it may ask the following,
 
@@ -69,7 +69,7 @@ This command used to delete a particular vhost. There are two ways to enter the 
 
 .. code-block:: bash
 
-	 cleopatra vhe rm
+	 ptconfigure vhe rm
 
 The following screen shot shows the function of rm.
 
@@ -84,7 +84,7 @@ This command used to list the current virtual hosts. The following command used 
 
 .. code-block:: bash
 
-	cleopatra vhe list
+	ptconfigure vhe list
 
 The screen shot shows the list function.
 
@@ -98,7 +98,7 @@ Secure Boot is a feature designed to prevent malicious software and unauthorized
 
 .. code-block:: bash
 
-		cleopatra vhe enable
+		ptconfigure vhe enable
 
 
 This option is enabled by default. This option allows the virtual host server enable. 
@@ -112,7 +112,7 @@ This disable used to disable the server. Inactive or idle virtual host editor co
 
 .. code-block:: bash
    
-         cleopatra vhe disable
+         ptconfigure vhe disable
 
 After typing this command it can ask the user to disable the server. If the user inputs as yes it disable the server i.e. it won’t allow any body to work in that server.
 

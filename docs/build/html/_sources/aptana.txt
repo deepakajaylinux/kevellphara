@@ -14,13 +14,13 @@ The help command leads the users regarding the purpose and as well as about the 
 
 .. code-block:: bash
 
-		cleopatra Aptana help
+		ptconfigure Aptana help
 
 The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under Aptana.
 
 .. code-block:: bash
 
- kevell@corp:/# cleopatra Aptana help
+ kevell@corp:/# ptconfigure Aptana help
 
  ******************************
 
@@ -31,11 +31,11 @@ The syntax for declaring the help command is not case sensitive which is an adde
 
         - install
         Installs Aptana. 
-        example: cleopatra aptana install
+        example: ptconfigure aptana install
 
         - uninstall
         Uninstalls Aptana.
-        example: cleopatra aptana uninstall
+        example: ptconfigure aptana uninstall
 
  ------------------------------
  End Help
@@ -51,7 +51,7 @@ The command used for installing the Aptana to the users machine is shown below.
 
 .. code-block:: bash
 
-	cleopatra Aptana install
+	ptconfigure Aptana install
 
 
 After inputting the command above, the following process occurs as shown in the screenshot  format.
@@ -62,7 +62,7 @@ After inputting the command above, the following process occurs as shown in the 
  | Parameters			  | Options	    | Alternative parameters	      | Comments			      |
  +================================+=================+=================================+=======================================+
  |Install Aptana?(Y/N)            | Yes		    | Instead of using Aptana the     | It will install Aptana module         |
- |				  | 		    | user can use aptana 	      | under cleopatra			      |
+ |				  | 		    | user can use aptana 	      | under ptconfigure		      |
  +--------------------------------+-----------------+---------------------------------+---------------------------------------+
  |Install Aptana?(Y/N)            | No              | Instead of using Aptana the     | If the user wish to quit installation |
  |                                |                 | user can use aptana             | they can input as N|                  |
@@ -77,7 +77,7 @@ The command used for uninstalling the Aptana to the users machine is shown below
 
 .. code-block:: bash
 
-	cleopatra Aptana uninstall
+	ptconfigure Aptana uninstall
 
 After inputting the command above, the following process occurs as shown in the screenshot  format.
 
@@ -88,7 +88,7 @@ After inputting the command above, the following process occurs as shown in the 
  | Parameters                     | Options         | Alternative parameters          | Comments                              |
  +================================+=================+=================================+=======================================+
  |UnInstall Aptana?(Y/N)          | Yes             | Instead of using Aptana the     | It will uninstall Aptana module under |         
- |                                |                 | user can use aptana             | cleopatra                             |
+ |                                |                 | user can use aptana             | ptconfigure                           |
  +--------------------------------+-----------------+---------------------------------+---------------------------------------+
  |UnInstall Aptana?(Y/N)          | No              | Instead of using Aptana the     | If the user wish to quit              |
  |                                |                 | user can use aptana             | uninstallation they can input as N|   |

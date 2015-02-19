@@ -135,11 +135,11 @@
 <div class="section" id="help-command">
 <h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>This help command explains about the installation of a particular module. The help command is easy to operate by the end user. It also lists out the alternative parameters that are used in declaration. The following command guides the user about the handling this module.</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra chown <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure chown <span class="nb">help</span>
 </pre></div>
 </div>
 <p>After giving the command, the command will list the help options. The following screen shots will give visual effect for the usage of this module.</p>
-<div class="highlight-bash"><div class="highlight"><pre>Kevell@corp:/# cleopatra chown <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>Kevell@corp:/# ptconfigure chown <span class="nb">help</span>
 ******************************
 
  This <span class="nb">command </span>handles file user ownership changing functions.
@@ -148,7 +148,7 @@
 
 - path
 Will change the user ownership of a path
-example: cleopatra chown path --yes --guess --recursive --path<span class="o">=</span>/a/file/path --owner<span class="o">=</span>golden
+example: ptconfigure chown path --yes --guess --recursive --path<span class="o">=</span>/a/file/path --owner<span class="o">=</span>golden
 
 ------------------------------
 End Help
@@ -158,8 +158,8 @@ End Help
 </div>
 <div class="section" id="path">
 <h2>Path<a class="headerlink" href="#path" title="Permalink to this headline">¶</a></h2>
-<p>It is an excellent process for this module under Cleopatra by slightly using the command given below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra chown path –yes—guess—recursive—path<span class="o">=</span>/Cleopatra—owner<span class="o">=</span>Kevells
+<p>It is an excellent process for this module under ptconfigure by slightly using the command given below,</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure chown path –yes—guess—recursive—path<span class="o">=</span>/ptconfigure—owner<span class="o">=</span>Kevells
 </pre></div>
 </div>
 <p>Then we can enter the input.</p>
@@ -167,10 +167,10 @@ End Help
 <p>After typing the owner name</p>
 <p>It will display Chown result success.</p>
 <p>This is Visually shown by the following screen shot.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# cleopatra chown path --yes --guess --recursive --path<span class="o">=</span>/phj.php --owner<span class="o">=</span>deepak
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptconfigure chown path --yes --guess --recursive --path<span class="o">=</span>/phj.php --owner<span class="o">=</span>deepak
 
 Enter ownership user:
-deepak
+kevell
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> <span class="o">[</span>Chown<span class="o">]</span> Executing chown -R deepak /phj.php
 ******************************
 
@@ -227,7 +227,7 @@ it will ask the owner name|</td>
 <div class="section" id="benefits">
 <h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li>The module can change the owner at any time with Cleopatra.</li>
+<li>The module can change the owner at any time with ptconfigure.</li>
 <li>While doing recursive process if you change single file the entire folder can also be changed.</li>
 <li>We can verify the current status of the owner.</li>
 </ul>

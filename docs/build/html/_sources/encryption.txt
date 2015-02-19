@@ -20,7 +20,7 @@ The help command is a brief user manual that assists the users in handling this 
 
 .. code-block:: bash
 
-	cleopatra encryption help
+	ptconfigure encryption help
 
 
 The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under encryption.
@@ -30,7 +30,7 @@ The syntax for declaring the help command is not case sensitive which is an adde
 
 
 
- kevell@corp:/# cleopatra encryption help
+ kevell@corp:/# ptconfigure encryption help
 
  ******************************
 
@@ -41,14 +41,14 @@ The syntax for declaring the help command is not case sensitive which is an adde
 
  - install        
 	Encrypts a file or string        
- 	example: sudo cleopatra encryption install --yes --unencrypted-data=/var/www/a-website/build/config/cleopatra/SSH/raw/bastion        
-	 --encryption-target-file=/tmp/encrypted --encryption-key=/root/.cleopatra/SSH/key --encryption-file-permissions=""                
+ 	example: sudo ptconfigure encryption install --yes --unencrypted-data=/var/www/a-website/build/config/ptconfigure/SSH/raw/bastion        
+	 --encryption-target-file=/tmp/encrypted --encryption-key=/root/.ptconfigure/SSH/key --encryption-file-permissions=""                
 	 --encryption-file-owner="" --encryption-file-group=""                
 
  - uninstall        
 	Decrypts an encrypted file or string        
-	example: sudo cleopatra encryption uninstall --yes --encrypted-data=/tmp/encrypted        
-	 --encryption-target-file=/var/www/a-website/build/config/cleopatra/SSH/raw/bastion --encryption-key=/root/.cleopatra/SSH/key                	 --encryption-file-permissions="" --encryption-file-owner="" --encryption-file-group=""                
+	example: sudo ptconfigure encryption uninstall --yes --encrypted-data=/tmp/encrypted        
+	 --encryption-target-file=/var/www/a-website/build/config/ptconfigure/SSH/raw/bastion --encryption-key=/root/.ptconfigure/SSH/key                	 --encryption-file-permissions="" --encryption-file-owner="" --encryption-file-group=""                
 
  ------------------------------
  End Help
@@ -64,8 +64,8 @@ This functions allows the users to encrypt a file or string by simply using the 
 
 
 .. code-block:: bash
-	 sudo cleopatra encryption install --yes --unencrypted-data=/var/www/a-website/build/config/cleopatra/SSH/raw/bastion
- 	--encryption-target-file=/tmp/encrypted --encryption-key=/root/.cleopatra/SSH/key --encryption-file-permissions=""                
+	 sudo ptconfigure encryption install --yes --unencrypted-data=/var/www/a-website/build/config/ptconfigure/SSH/raw/bastion
+ 	--encryption-target-file=/tmp/encrypted --encryption-key=/root/.ptconfigure/SSH/key --encryption-file-permissions=""                
 	 --encryption-file-owner="" --encryption-file-group=""                
 
 To implement this function, the user have to specify the following fields in the format of above mentioned syntax,
@@ -85,8 +85,8 @@ This function allows the users to decrypt an encrypted file or string. This can 
 
 .. code-block:: bash
 
-	sudo cleopatra encryption uninstall --yes --encrypted-data=/tmp/encrypted
-	 --encryption-target-file=/var/www/a-website/build/config/cleopatra/SSH/raw/bastion --encryption-key=/root/.cleopatra/SSH/key                	 --encryption-file-permissions="" --encryption-file-owner="" --encryption-file-group=""                
+	sudo ptconfigure encryption uninstall --yes --encrypted-data=/tmp/encrypted
+	 --encryption-target-file=/var/www/a-website/build/config/ptconfigure/SSH/raw/bastion --encryption-key=/root/.ptconfigure/SSH/key                	 --encryption-file-permissions="" --encryption-file-owner="" --encryption-file-group=""                
 
 
 To implement this function, the user have to specify the following fields in the format of above mentioned syntax,
@@ -112,7 +112,7 @@ The alternative parameters for this module, either of which can be used in decla
 Benefits
 ---------
 
-* The parameters used in help and encryption and un decryption operations are not case sensitive which is an added advantage while compared to 
-  others.
+* The parameters used in help and encryption and un decryption operations are not case sensitive which is an added advantage while compared
+  to others.
 * It is well-to-do in both Ubuntu and as well as Cent OS.
 * It is a secured mode, because only authorized person can use them.

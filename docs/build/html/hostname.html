@@ -136,11 +136,11 @@
 <div class="section" id="help-command">
 <h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>This command can function about the objectives and commands available under host name module. It also explains the command to modify host name module. Before modify host name, the user read this help command explains its function.</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra hostname <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure hostname <span class="nb">help</span>
 </pre></div>
 </div>
 <p>The following screen shot can bring to mind it.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# cleopatra hostname <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptconfigure hostname <span class="nb">help</span>
 
 ******************************
 
@@ -151,11 +151,11 @@
 
        - change
        Change the system hostname
-       example: cleopatra hostname change --hostname<span class="o">=</span><span class="s2">&quot;my-laptop&quot;</span>
+       example: ptconfigure hostname change --hostname<span class="o">=</span><span class="s2">&quot;my-laptop&quot;</span>
 
        - show
        Show the system hostname
-       example: cleopatra hostname show
+       example: ptconfigure hostname show
 
 ------------------------------
 End Help
@@ -166,15 +166,15 @@ End Help
 <div class="section" id="change">
 <h2>Change<a class="headerlink" href="#change" title="Permalink to this headline">¶</a></h2>
 <p>Hostnames are typically used in an administrative capacity and may appear in computer browser lists, active directory lists, IP address to hostname resolutions, email headers, etc. When the user want to change the host name, can use the following command.</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra hostname change –hostname<span class="o">=</span>”kevellcorp”
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure hostname change –hostname<span class="o">=</span>”kevellcorp”
 </pre></div>
 </div>
 <p>From the above command the new host name can enter.</p>
 </div>
 <div class="section" id="show">
 <h2>Show<a class="headerlink" href="#show" title="Permalink to this headline">¶</a></h2>
-<p>This module is a perceptible process to view host name under Cleopatra by just using the command given below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra hostname show
+<p>This module is a perceptible process to view host name under ptconfigure by just using the command given below,</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure hostname show
 </pre></div>
 </div>
 <p>After key in the command, it shows the host name.</p>
@@ -196,20 +196,20 @@ End Help
 </tr>
 </thead>
 <tbody valign="top">
-<tr class="row-even"><td>cleopatra host name</td>
+<tr class="row-even"><td>ptconfigure host name</td>
 <td>Instead of Hostname we can use
 Hostname,hostname</td>
 <td>Show</td>
 <td>System starts showing the host name
-process under cleopatra</td>
+process under ptconfigure</td>
 </tr>
-<tr class="row-odd"><td>cleopatra hostname change
+<tr class="row-odd"><td>ptconfigure hostname change
 &#8211;hostname=&#8221;Name&#8221;</td>
 <td>Instead of Hostname we can use
 Hostname,hostname</td>
 <td>Change</td>
 <td>System starts changing the host name
-process under cleopatra|</td>
+process under ptconfigure|</td>
 </tr>
 </tbody>
 </table>

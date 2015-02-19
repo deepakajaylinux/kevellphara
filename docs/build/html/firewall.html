@@ -133,13 +133,13 @@
 </div>
 <div class="section" id="help-command">
 <h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
-<p>This help command assist the user about Cleopatra. It guides the user permission.
+<p>This help command assist the user about ptconfigure. It guides the user permission.
 The user can do the modification as per wish. Help image will guide the user. Let’s visualize it.</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra Firewall <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure Firewall <span class="nb">help</span>
 </pre></div>
 </div>
 <p>The screenshot for the above command is listed below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# cleopatra Firewall <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptconfigure Firewall <span class="nb">help</span>
 ******************************
 This <span class="nb">command </span>allows you to modify create or modify firewalls
 
@@ -147,44 +147,44 @@ This <span class="nb">command </span>allows you to modify create or modify firew
 
        - <span class="nb">enable</span>
 <span class="nb">       </span>Enable system firewall
-       example: cleopatra firewall <span class="nb">enable</span>
+       example: ptconfigure firewall <span class="nb">enable</span>
 
        - disable
        Disable system firewall
-       example: cleopatra firewall disable
+       example: ptconfigure firewall disable
 
        - allow
        Allow a Firewall rule
-       example: cleopatra firewall allow --firewall-rule<span class="o">=</span><span class="s2">&quot;ssh/tcp&quot;</span>
+       example: ptconfigure firewall allow --firewall-rule<span class="o">=</span><span class="s2">&quot;ssh/tcp&quot;</span>
 
        - deny
        Deny a Firewall rule. Allow connection attempts to be ignored and <span class="nb">time </span>out.
-       example: cleopatra firewall deny --firewall-rule<span class="o">=</span><span class="s2">&quot;ssh/tcp&quot;</span>
+       example: ptconfigure firewall deny --firewall-rule<span class="o">=</span><span class="s2">&quot;ssh/tcp&quot;</span>
 
        - reject
        Reject a Firewall rule. Terminate connections attempts with an error to the connector.
-       example: cleopatra firewall reject --firewall-rule<span class="o">=</span><span class="s2">&quot;ssh/tcp&quot;</span>
+       example: ptconfigure firewall reject --firewall-rule<span class="o">=</span><span class="s2">&quot;ssh/tcp&quot;</span>
 
        - limit
        Limit a Firewall rule. ufw will deny connections <span class="k">if</span> an IP address has attempted
        to initiate <span class="m">6</span> or more connections in the last <span class="m">30</span> seconds.
-       example: cleopatra firewall limit --firewall-rule<span class="o">=</span><span class="s2">&quot;ssh/tcp&quot;</span>
+       example: ptconfigure firewall limit --firewall-rule<span class="o">=</span><span class="s2">&quot;ssh/tcp&quot;</span>
 
        - delete
        Delete a Firewall rule.
-       example: cleopatra firewall delete --firewall-rule<span class="o">=</span><span class="s2">&quot;ssh/tcp&quot;</span>
+       example: ptconfigure firewall delete --firewall-rule<span class="o">=</span><span class="s2">&quot;ssh/tcp&quot;</span>
 
        - insert
        Insert a Firewall rule.
-       example: cleopatra firewall insert --firewall-rule<span class="o">=</span><span class="s2">&quot;ssh/tcp&quot;</span>
+       example: ptconfigure firewall insert --firewall-rule<span class="o">=</span><span class="s2">&quot;ssh/tcp&quot;</span>
 
        - reset
        Reset a Firewall rule.
-       example: cleopatra firewall reset --firewall-rule<span class="o">=</span><span class="s2">&quot;ssh/tcp&quot;</span>
+       example: ptconfigure firewall reset --firewall-rule<span class="o">=</span><span class="s2">&quot;ssh/tcp&quot;</span>
 
        - default
        Set default policy, should be allow, deny, or reject
-       example: cleopatra firewall default --policy<span class="o">=</span><span class="s2">&quot;deny&quot;</span>
+       example: ptconfigure firewall default --policy<span class="o">=</span><span class="s2">&quot;deny&quot;</span>
 
 ------------------------------
 End Help
@@ -197,9 +197,9 @@ End Help
 <p>Firewalls rules can be customized as per your needs, requirements &amp; security threat levels. The user can create or disable firewall rules based on such conditions as:</p>
 <table border="1" class="table-bordered docutils">
 <colgroup>
-<col width="20%" />
-<col width="33%" />
-<col width="47%" />
+<col width="19%" />
+<col width="32%" />
+<col width="50%" />
 </colgroup>
 <thead valign="bottom">
 <tr class="row-odd"><th class="head">Parameters</th>
@@ -216,49 +216,49 @@ which you think are predatory</td>
 </tr>
 <tr class="row-odd"><td>Enable</td>
 <td>Enable system firewall</td>
-<td>Cleopatra firewall enable</td>
+<td>ptconfigure firewall enable</td>
 </tr>
 <tr class="row-even"><td>Disable</td>
 <td>Disable system firewall</td>
-<td>Cleopatra firewall disable</td>
+<td>ptconfigure firewall disable</td>
 </tr>
 <tr class="row-odd"><td>Allow</td>
 <td>Allow firewall rule</td>
-<td>Cleopatra firewall allow –firewall-rule=”ssh/tcp”</td>
+<td>ptconfigure firewall allow –firewall-rule=”ssh/tcp”</td>
 </tr>
 <tr class="row-even"><td>Deny</td>
 <td>Allow connection attempt to be
 ignored and time out</td>
-<td>Cleopatra firewall deny –firewall-rule=”ssh/tcp”</td>
+<td>ptconfigure firewall deny –firewall-rule=”ssh/tcp”</td>
 </tr>
 <tr class="row-odd"><td>Reject</td>
 <td>Terminate connection attempts with
 an error to the connector</td>
-<td>Cleopatra firewall reject –firewall-rule=”ssh/tcp”</td>
+<td>ptconfigure firewall reject –firewall-rule=”ssh/tcp”</td>
 </tr>
 <tr class="row-even"><td>Limit</td>
 <td>Ufw will deny connections if an IP
 address has initiate 6 or attempted
 to more connection in the last 30
 seconds.</td>
-<td>Cleopatra firewall limit –firewall-rule=”ssh/tcp”</td>
+<td>ptconfigure firewall limit –firewall-rule=”ssh/tcp”</td>
 </tr>
 <tr class="row-odd"><td>Delete</td>
 <td>Delete a firewall rule</td>
-<td>Cleopatra firewall delete –firewall-rule=”ssh/tcp”</td>
+<td>ptconfigure firewall delete –firewall-rule=”ssh/tcp”</td>
 </tr>
 <tr class="row-even"><td>Insert</td>
 <td>Insert a  firewall rule</td>
-<td>Cleopatra firewall insert –firewall-rule=”ssh/tcp”</td>
+<td>ptconfigure firewall insert –firewall-rule=”ssh/tcp”</td>
 </tr>
 <tr class="row-odd"><td>Reset</td>
 <td>Reset a firewall rule</td>
-<td>Cleopatra firewall reset –firewall-rule=”ssh/tcp”</td>
+<td>ptconfigure firewall reset –firewall-rule=”ssh/tcp”</td>
 </tr>
 <tr class="row-even"><td>default</td>
 <td>Default policy, should be allow,
-deny or reject.</td>
-<td>Cleopatra firewall default – policy=”deny”</td>
+deny or reject.|</td>
+<td>ptconfigure firewall default – policy=”deny”</td>
 </tr>
 </tbody>
 </table>

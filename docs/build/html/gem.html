@@ -144,11 +144,11 @@
 <div class="section" id="help-command">
 <h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>The help command instructs the users about the purpose and various features, and the syntax for implementing those various features. It also lists outs the alternative parameters that can be used in declarations. The syntax format for applying help option under this module, is given below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra gem <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure gem <span class="nb">help</span>
 </pre></div>
 </div>
 <p>The following screenshot visualize the output and working of help option under this module.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# cleopatra gem <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptconfigure gem <span class="nb">help</span>
 
 ******************************
 
@@ -159,31 +159,31 @@
 
        - create
        Create a new system gem, overwriting <span class="k">if</span> it exists
-       example: cleopatra gem create --gemname<span class="o">=</span><span class="s2">&quot;somename&quot;</span>
+       example: ptconfigure gem create --gemname<span class="o">=</span><span class="s2">&quot;somename&quot;</span>
 
        - remove
        Remove a system gem
-       example: cleopatra gem remove --gemname<span class="o">=</span><span class="s2">&quot;somename&quot;</span>
+       example: ptconfigure gem remove --gemname<span class="o">=</span><span class="s2">&quot;somename&quot;</span>
 
        - <span class="nb">set</span>-password
        Set the password of a system gem
-       example: cleopatra gem <span class="nb">set</span>-password --gemname<span class="o">=</span><span class="s2">&quot;somename&quot;</span> --new-password<span class="o">=</span>                                                                                        <span class="s2">&quot;somepassword&quot;</span>
+       example: ptconfigure gem <span class="nb">set</span>-password --gemname<span class="o">=</span><span class="s2">&quot;somename&quot;</span> --new-password<span class="o">=</span>                                                                                        <span class="s2">&quot;somepassword&quot;</span>
 
        - exists
        Check the existence of a gem
-       example: cleopatra gem exists --gemname<span class="o">=</span><span class="s2">&quot;somename&quot;</span>
+       example: ptconfigure gem exists --gemname<span class="o">=</span><span class="s2">&quot;somename&quot;</span>
 
        - show-groups
        Show groups to which a gem belongs
-       example: cleopatra gem show-groups --gemname<span class="o">=</span><span class="s2">&quot;somename&quot;</span>
+       example: ptconfigure gem show-groups --gemname<span class="o">=</span><span class="s2">&quot;somename&quot;</span>
 
        - add-to-group
        Add gem to a group
-       example: cleopatra gem add-to-group --gemname<span class="o">=</span><span class="s2">&quot;somename&quot;</span> --groupname<span class="o">=</span><span class="s2">&quot;so                                                                                        megroupname&quot;</span>
+       example: ptconfigure gem add-to-group --gemname<span class="o">=</span><span class="s2">&quot;somename&quot;</span> --groupname<span class="o">=</span><span class="s2">&quot;so                                                                                        megroupname&quot;</span>
 
        - remove-from-group
        Remove gem from a group
-       example: cleopatra gem remove-from-group --gemname<span class="o">=</span><span class="s2">&quot;somename&quot;</span> --groupnam                                                                                        <span class="nv">e</span><span class="o">=</span><span class="s2">&quot;somegroupname&quot;</span>
+       example: ptconfigure gem remove-from-group --gemname<span class="o">=</span><span class="s2">&quot;somename&quot;</span> --groupnam                                                                                        <span class="nv">e</span><span class="o">=</span><span class="s2">&quot;somegroupname&quot;</span>
 
 ------------------------------
 End Help
@@ -208,7 +208,7 @@ End Help
 <div class="section" id="create">
 <h2>Create<a class="headerlink" href="#create" title="Permalink to this headline">¶</a></h2>
 <p>This functions aims at creating a new system gem, and as well as overwrites in case of already existing. This function of gem using this module can be achieved by the following syntax,</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra gem create --gemname<span class="o">=</span><span class="s2">&quot;somename&quot;</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure gem create --gemname<span class="o">=</span><span class="s2">&quot;somename&quot;</span>
 </pre></div>
 </div>
 <p>In the place of gemname the user can specify the name of the gem which is to be created. After entering the command as specified above, the new gem will be created with the specified name.</p>
@@ -216,7 +216,7 @@ End Help
 <div class="section" id="remove">
 <h2>REMOVE<a class="headerlink" href="#remove" title="Permalink to this headline">¶</a></h2>
 <p>This functions aims at removing an existing gem. This function of gem using this module can be achieved by the following syntax,</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra gem remove --gemname<span class="o">=</span><span class="s2">&quot;somename&quot;</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure gem remove --gemname<span class="o">=</span><span class="s2">&quot;somename&quot;</span>
 </pre></div>
 </div>
 <p>In the place of gemname the user can specify the name of the gem which is to be deleted. After entering the command as specified above, the specified gem will be deleted.</p>
@@ -224,7 +224,7 @@ End Help
 <div class="section" id="set-password">
 <h2>SET PASSWORD<a class="headerlink" href="#set-password" title="Permalink to this headline">¶</a></h2>
 <p>This function facilitates setting a new password to a system gem as per the requirements. This can be done by applying the command as given below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra gem <span class="nb">set</span>-password --gemname<span class="o">=</span><span class="s2">&quot;somename&quot;</span> --new-password<span class="o">=</span><span class="s2">&quot;somepassword&quot;</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure gem <span class="nb">set</span>-password --gemname<span class="o">=</span><span class="s2">&quot;somename&quot;</span> --new-password<span class="o">=</span><span class="s2">&quot;somepassword&quot;</span>
 </pre></div>
 </div>
 <p>To implement this functions, the user have to specify the two fields,</p>
@@ -237,7 +237,7 @@ End Help
 <div class="section" id="exists">
 <h2>EXISTS<a class="headerlink" href="#exists" title="Permalink to this headline">¶</a></h2>
 <p>This functions aims at checking the existence of a gem. This can be done simply, by using the command below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra gem exists --gemname<span class="o">=</span><span class="s2">&quot;somename&quot;</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure gem exists --gemname<span class="o">=</span><span class="s2">&quot;somename&quot;</span>
 </pre></div>
 </div>
 <p>After applying the command as above, the existence of a mentioned gem will be ensured with the results.</p>
@@ -245,7 +245,7 @@ End Help
 <div class="section" id="show-groups">
 <h2>SHOW GROUPS<a class="headerlink" href="#show-groups" title="Permalink to this headline">¶</a></h2>
 <p>This function assists the users to know about to which group does the gem belongs to. This can be achieved simply by using the command below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra gem show-groups --gemname<span class="o">=</span><span class="s2">&quot;somename&quot;</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure gem show-groups --gemname<span class="o">=</span><span class="s2">&quot;somename&quot;</span>
 </pre></div>
 </div>
 <p>The user have to specify the name of the gem in the field of gemname, in order to know the details of its group.</p>
@@ -253,7 +253,7 @@ End Help
 <div class="section" id="add-to-group">
 <h2>ADD _TO_GROUP<a class="headerlink" href="#add-to-group" title="Permalink to this headline">¶</a></h2>
 <p>The main objective of this function is to add the required gem to the required group by simply applying the command as given below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra gem add-to-group --gemname<span class="o">=</span><span class="s2">&quot;somename&quot;</span> --groupname<span class="o">=</span><span class="s2">&quot;somegroupname&quot;</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure gem add-to-group --gemname<span class="o">=</span><span class="s2">&quot;somename&quot;</span> --groupname<span class="o">=</span><span class="s2">&quot;somegroupname&quot;</span>
 </pre></div>
 </div>
 <p>To implement this function, the user have to specify the following two fields as per their needs in the format of above mentioned command,</p>
@@ -265,7 +265,7 @@ End Help
 <div class="section" id="remove-from-group">
 <h2>REMOVE_FROM_GROUP<a class="headerlink" href="#remove-from-group" title="Permalink to this headline">¶</a></h2>
 <p>The main objective of this function is to remove the gem from a group by simply applying the command as given below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra gem remove-from-group --gemname<span class="o">=</span><span class="s2">&quot;somename&quot;</span> --groupname<span class="o">=</span><span class="s2">&quot;somegroupname&quot;</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure gem remove-from-group --gemname<span class="o">=</span><span class="s2">&quot;somename&quot;</span> --groupname<span class="o">=</span><span class="s2">&quot;somegroupname&quot;</span>
 </pre></div>
 </div>
 <p>To implement this function, the user have to specify the following two fields as per their needs in the format of above mentioned command,</p>

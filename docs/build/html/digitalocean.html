@@ -141,11 +141,11 @@ The upcoming topics discusses about how to use this module, the various features
 <div class="section" id="help-command">
 <h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>The help command acts as a brief user manual. It describes about the major objective of this module. It lists outs the alternative parameters that can be used in declarations. In addition, it&#8217;s also highlights the different features of using digital ocean under this module along with the syntax for using them. The command used for declaring help option is shown below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra DigitalOcean <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure DigitalOcean <span class="nb">help</span>
 </pre></div>
 </div>
 <p>The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under Digital Ocean.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# cleopatra DigitalOcean <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptconfigure DigitalOcean <span class="nb">help</span>
 ******************************
 
 
@@ -155,31 +155,31 @@ The upcoming topics discusses about how to use this module, the various features
 
        - box-add
        Lets you add boxes to Digital Ocean, and adds them to your papyrusfile
-       example: cleopatra digital-ocean box-add
+       example: ptconfigure digital-ocean box-add
                    --yes
                    --digital-ocean-ssh-key-path<span class="o">=</span><span class="s2">&quot;/home/dave/.ssh/bastion.pub&quot;</span>
                    --digital-ocean-ssh-key-name<span class="o">=</span><span class="s2">&quot;bastion&quot;</span>
 
        - box-destroy
        Will destroy box/es in an environment <span class="k">for</span> you, and remove them from the papyrus file
-       example: cleopatra digital-ocean box-destroy --yes --guess --digital-ocean-ssh-key-path<span class="o">=</span><span class="s2">&quot;/home/dave/.ssh/bastion.pub&quot;</span> --digital-ocean-ssh-key-name<span class="o">=</span><span class="s2">&quot;bastion&quot;</span>
+       example: ptconfigure digital-ocean box-destroy --yes --guess --digital-ocean-ssh-key-path<span class="o">=</span><span class="s2">&quot;/home/dave/.ssh/bastion.pub&quot;</span> --digital-ocean-ssh-key-name<span class="o">=</span><span class="s2">&quot;bastion&quot;</span>
 
        - box-destroy-all
        Will destroy all boxes in your digital ocean account - Careful - its irreversible
-       example: cleopatra digital-ocean box-destroy-all --yes --guess
+       example: ptconfigure digital-ocean box-destroy-all --yes --guess
 
        - save-ssh-key
        Will <span class="nb">let </span>you save a <span class="nb">local </span>ssh key to your Digital Ocean account, so you can ssh in to your nodes
        securely and without a password
-       example: cleopatra digital-ocean save-ssh-key
+       example: ptconfigure digital-ocean save-ssh-key
                    --yes
                    --digital-ocean-ssh-key-path<span class="o">=</span><span class="s2">&quot;/home/dave/.ssh/bastion.pub&quot;</span>
                    --digital-ocean-ssh-key-name<span class="o">=</span><span class="s2">&quot;bastion&quot;</span>
 
        - list
        Will display data about your digital ocean account
-       example: cleopatra digital-ocean list
-       example: cleopatra digital-ocean list --yes
+       example: ptconfigure digital-ocean list
+       example: ptconfigure digital-ocean list --yes
                    --guess <span class="c"># use project saved connection details if possible</span>
                    --type<span class="o">=</span>sizes <span class="c"># droplets, sizes, images, domains, regions, ssh_keys</span>
 
@@ -203,7 +203,7 @@ End Help
 <div class="section" id="box-add">
 <h2>Box_Add<a class="headerlink" href="#box-add" title="Permalink to this headline">¶</a></h2>
 <p>This feature aims at adding boxes to the digital ocean and in hand add them to the papyrus file. This can be implemented by simply using the syntax as given below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra digital-ocean box-add
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure digital-ocean box-add
             --yes
             --digital-ocean-ssh-key-path<span class="o">=</span><span class="s2">&quot;/home/dave/.ssh/bastion.pub&quot;</span>
             --digital-ocean-ssh-key-name<span class="o">=</span><span class="s2">&quot;bastion&quot;</span>
@@ -218,7 +218,7 @@ End Help
 <div class="section" id="box-destroy">
 <h2>Box_Destroy<a class="headerlink" href="#box-destroy" title="Permalink to this headline">¶</a></h2>
 <p>This feature aims at destroying boxes in an specified environment and in hand remove them from the papyrus file. This can be implemented by simply using the syntax as given below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra digital-ocean box-destroy --yes --guess --digital-ocean-ssh-key-path<span class="o">=</span><span class="s2">&quot;/home/dave/.ssh/bastion.pub&quot;</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure digital-ocean box-destroy --yes --guess --digital-ocean-ssh-key-path<span class="o">=</span><span class="s2">&quot;/home/dave/.ssh/bastion.pub&quot;</span>
 --digital-ocean-ssh-key-name<span class="o">=</span><span class="s2">&quot;bastion&quot;</span>
 </pre></div>
 </div>
@@ -231,14 +231,14 @@ End Help
 <div class="section" id="box-destroy-all">
 <h2>Box_Destroy_All<a class="headerlink" href="#box-destroy-all" title="Permalink to this headline">¶</a></h2>
 <p>This feature aims at destroying all boxes in the digital ocean account. The user should be careful while implementing this features because it is a irreversible process. To implement this function the user have to apply the command as given below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra digital-ocean box-destroy-all --yes --guess
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure digital-ocean box-destroy-all --yes --guess
 </pre></div>
 </div>
 </div>
 <div class="section" id="save-ssh-key">
 <h2>Save_Ssh_key<a class="headerlink" href="#save-ssh-key" title="Permalink to this headline">¶</a></h2>
 <p>This feature allows the users to save a  local ssh to your digital ocean so the users can ssh into their nodes securely without password. This can be achieved by using the command below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra digital-ocean save-ssh-key
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure digital-ocean save-ssh-key
             --yes
             --digital-ocean-ssh-key-path<span class="o">=</span><span class="s2">&quot;/home/dave/.ssh/bastion.pub&quot;</span>
             --digital-ocean-ssh-key-name<span class="o">=</span><span class="s2">&quot;bastion&quot;</span>
@@ -253,11 +253,11 @@ End Help
 <div class="section" id="list">
 <h2>List<a class="headerlink" href="#list" title="Permalink to this headline">¶</a></h2>
 <p>This feature allows the users to list out all the data about their digital ocean account. This can be implemented simply by using the command below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra digital-ocean list
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure digital-ocean list
 </pre></div>
 </div>
 <p>Or</p>
-<div class="highlight-bash"><div class="highlight"><pre>cleopatra digital-ocean list --yes
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure digital-ocean list --yes
             --guess <span class="c"># use project saved connection details if possible</span>
             --type<span class="o">=</span>sizes <span class="c"># droplets, sizes, images, domains, regions, ssh_keys</span>
 </pre></div>

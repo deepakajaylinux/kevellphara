@@ -17,14 +17,14 @@ The help command instructs the users about the purpose and various features, and
 
 .. code-block:: bash
 
-	cleopatra gem help
+	ptconfigure gem help
 
 The following screenshot visualize the output and working of help option under this module.
 
 
 .. code-block:: bash
 
- kevell@corp:/# cleopatra gem help
+ kevell@corp:/# ptconfigure gem help
 
  ******************************
 
@@ -35,31 +35,31 @@ The following screenshot visualize the output and working of help option under t
 
         - create
         Create a new system gem, overwriting if it exists
-        example: cleopatra gem create --gemname="somename"
+        example: ptconfigure gem create --gemname="somename"
 
         - remove
         Remove a system gem
-        example: cleopatra gem remove --gemname="somename"
+        example: ptconfigure gem remove --gemname="somename"
 
         - set-password
         Set the password of a system gem
-        example: cleopatra gem set-password --gemname="somename" --new-password=                                                                                        "somepassword"
+        example: ptconfigure gem set-password --gemname="somename" --new-password=                                                                                        "somepassword"
 
         - exists
         Check the existence of a gem
-        example: cleopatra gem exists --gemname="somename"
+        example: ptconfigure gem exists --gemname="somename"
 
         - show-groups
         Show groups to which a gem belongs
-        example: cleopatra gem show-groups --gemname="somename"
+        example: ptconfigure gem show-groups --gemname="somename"
 
         - add-to-group
         Add gem to a group
-        example: cleopatra gem add-to-group --gemname="somename" --groupname="so                                                                                        megroupname"
+        example: ptconfigure gem add-to-group --gemname="somename" --groupname="so                                                                                        megroupname"
 
         - remove-from-group
         Remove gem from a group
-        example: cleopatra gem remove-from-group --gemname="somename" --groupnam                                                                                        e="somegroupname"
+        example: ptconfigure gem remove-from-group --gemname="somename" --groupnam                                                                                        e="somegroupname"
 
  ------------------------------
  End Help
@@ -89,7 +89,7 @@ This functions aims at creating a new system gem, and as well as overwrites in c
 
 .. code-block:: bash
 
-	cleopatra gem create --gemname="somename"
+	ptconfigure gem create --gemname="somename"
 
 In the place of gemname the user can specify the name of the gem which is to be created. After entering the command as specified above, the new gem will be created with the specified name.
 
@@ -100,7 +100,7 @@ This functions aims at removing an existing gem. This function of gem using this
 
 .. code-block:: bash
 
-	cleopatra gem remove --gemname="somename"
+	ptconfigure gem remove --gemname="somename"
 
 In the place of gemname the user can specify the name of the gem which is to be deleted. After entering the command as specified above, the specified gem will be deleted.
 
@@ -111,7 +111,7 @@ This function facilitates setting a new password to a system gem as per the requ
 
 .. code-block:: bash
 
-	cleopatra gem set-password --gemname="somename" --new-password="somepassword"
+	ptconfigure gem set-password --gemname="somename" --new-password="somepassword"
 
 To implement this functions, the user have to specify the two fields,
 
@@ -127,7 +127,7 @@ This functions aims at checking the existence of a gem. This can be done simply,
 
 .. code-block:: bash
 
-	cleopatra gem exists --gemname="somename"
+	ptconfigure gem exists --gemname="somename"
 
 After applying the command as above, the existence of a mentioned gem will be ensured with the results.
 
@@ -138,7 +138,7 @@ This function assists the users to know about to which group does the gem belong
 
 .. code-block:: bash
 
-	cleopatra gem show-groups --gemname="somename"
+	ptconfigure gem show-groups --gemname="somename"
 
 The user have to specify the name of the gem in the field of gemname, in order to know the details of its group.
 
@@ -149,7 +149,7 @@ The main objective of this function is to add the required gem to the required g
 
 .. code-block:: bash
 
-	cleopatra gem add-to-group --gemname="somename" --groupname="somegroupname"
+	ptconfigure gem add-to-group --gemname="somename" --groupname="somegroupname"
 
 To implement this function, the user have to specify the following two fields as per their needs in the format of above mentioned command,
 
@@ -163,7 +163,7 @@ The main objective of this function is to remove the gem from a group by simply 
 
 .. code-block:: bash
 
-	cleopatra gem remove-from-group --gemname="somename" --groupname="somegroupname"
+	ptconfigure gem remove-from-group --gemname="somename" --groupname="somegroupname"
 
 To implement this function, the user have to specify the following two fields as per their needs in the format of above mentioned command,
 

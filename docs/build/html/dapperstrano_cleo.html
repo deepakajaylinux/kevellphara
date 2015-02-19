@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Dapperstrano &mdash; KEVELL 0.1 documentation</title>
+    <title>PTDeploy &mdash; KEVELL 0.1 documentation</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -29,7 +29,7 @@
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
-    <link rel="up" title="Cleopatra" href="cleopatra.html" />
+    <link rel="up" title="PTConfigure" href="ptconfigure_main.html" />
     <link rel="next" title="DeveloperTools" href="devtools.html" />
     <link rel="prev" title="Copy" href="copy1.html" />
 
@@ -75,7 +75,7 @@
             <li class="dropdown">
   <a href="index.html" class="dropdown-toggle" data-toggle="dropdown">Site <b class="caret"></b></a>
   <ul class="dropdown-menu globaltoc"><ul class="current">
-<li class="toctree-l1 current"><a class="reference internal" href="cleopatra.html">Cleopatra</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="ptconfigure_main.html">PTConfigure</a></li>
 <li class="toctree-l1"><a class="reference internal" href="phlagrant.html">Phlagrant</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Dapperstrano_main.html">Dapperstrano</a></li>
 <li class="toctree-l1"><a class="reference internal" href="jrush_main.html">Jrush</a></li>
@@ -86,7 +86,7 @@
             <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Page <b class="caret"></b></a>
   <ul class="dropdown-menu localtoc"><ul>
-<li><a class="reference internal" href="#">Dapperstrano</a><ul>
+<li><a class="reference internal" href="#">PTDeploy</a><ul>
 <li><a class="reference internal" href="#synopsis">Synopsis</a></li>
 <li><a class="reference internal" href="#help-command">Help Command</a></li>
 <li><a class="reference internal" href="#installation">Installation</a></li>
@@ -127,38 +127,38 @@
 
   
   
-  <div class="section" id="dapperstrano">
-<h1>Dapperstrano<a class="headerlink" href="#dapperstrano" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="ptdeploy">
+<h1>PTDeploy<a class="headerlink" href="#ptdeploy" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="synopsis">
 <h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
-<p>The dapperstrano envelops the applications of the users with automated deployment, build and release functions, web App versioning and infrastructure by code in PHP.</p>
-<p>In order to build for well-deployment, many files are needed to be copied from FTP or other ad hoc solutions. And also lot of Enterprise Automation tools were missing. In order to overcome these shortages dapperstrano under the pharaoh tool were build up. PHP has dapperstrano just as ruby fiils the gap in Capistrano.</p>
+<p>The ptdeploy envelops the applications of the users with automated deployment, build and release functions, web App versioning and infrastructure by code in PHP.</p>
+<p>In order to build for well-deployment, many files are needed to be copied from FTP or other ad hoc solutions. And also lot of Enterprise Automation tools were missing. In order to overcome these shortages ptdeploy under the pharaoh tool were build up. PHP has ptdeploy just as ruby fiils the gap in ptdeploy.</p>
 <p>This tool is for provisioning applications and builds to your boxes. The user can set up even simple or complex application deployment pattern to their system with one or two PHP files Or, quickly setup cloud friendly deployment patterns.</p>
-<p>Dapperstrano is modular, object oriented and extendible. So if the user requires any extra modules they can create and add the new modules based on their requirements.</p>
-<p>This dapperstrano acts as a wrapper where all the steps of user deployment get covered into a single file. This allows using a single command to fire up an instance of your applications.</p>
+<p>ptdeploy is modular, object oriented and extendible. So if the user requires any extra modules they can create and add the new modules based on their requirements.</p>
+<p>This ptdeploy acts as a wrapper where all the steps of user deployment get covered into a single file. This allows using a single command to fire up an instance of your applications.</p>
 </div>
 <div class="section" id="help-command">
 <h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
-<p>This command helps to determine the usage of dapperstrano module. The user will come to know about the different way/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same.</p>
-<div class="highlight-bash"><div class="highlight"><pre>ptconfigure dapperstrano <span class="nb">help</span>
+<p>This command helps to determine the usage of ptdeploy module. The user will come to know about the different way/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same.</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure ptdeploy <span class="nb">help</span>
 </pre></div>
 </div>
 <p>The screenshot for the above command is listed below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptconfigure Dapperstrano <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptconfigure ptdeploy <span class="nb">help</span>
 ******************************
 
 
- This <span class="nb">command </span>allows you to update Dapperstrano.
+ This <span class="nb">command </span>allows you to update ptdeploy.
 
- Dapperstrano, dapper, dapperstrano
+ ptdeploy, dapper, ptdeploy
 
        - install
-       Installs the latest version of dapperstrano
-       example: ptconfigure dapperstrano install
+       Installs the latest version of ptdeploy
+       example: ptconfigure ptdeploy install
 
        - ensure
-       Installs the latest version of dapperstrano, only <span class="k">if</span> a version is not installed
-       example: ptconfigure dapperstrano ensure
+       Installs the latest version of ptdeploy, only <span class="k">if</span> a version is not installed
+       example: ptconfigure ptdeploy ensure
 
 ------------------------------
 End Help
@@ -168,23 +168,23 @@ End Help
 </div>
 <div class="section" id="installation">
 <h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
-<p>This command helps to install the latest version of dapperstrano. The below given command will execute the process of installation.</p>
-<div class="highlight-bash"><div class="highlight"><pre>ptconfigure dapperstrano install
+<p>This command helps to install the latest version of ptdeploy. The below given command will execute the process of installation.</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure ptdeploy install
 </pre></div>
 </div>
 <p>The screenshot for the above command is listed below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptconfigure dapperstrano install
-Install Dapperstrano ? <span class="o">(</span>Y/N<span class="o">)</span>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptconfigure ptdeploy install
+Install ptdeploy ? <span class="o">(</span>Y/N<span class="o">)</span>
 Y
 *******************************
 *        Pharaoh Tools        *
-*          Dapperstrano         *
+*          ptdeploy         *
 *******************************
-What is the program data directory? Found <span class="s2">&quot;/opt/dapperstrano&quot;</span> - use this? <span class="o">(</span>Enter nothing <span class="k">for</span> yes, no end slash<span class="o">)</span>
+What is the program data directory? Found <span class="s2">&quot;/opt/ptdeploy&quot;</span> - use this? <span class="o">(</span>Enter nothing <span class="k">for</span> yes, no end slash<span class="o">)</span>
 
 What is the program executor directory? Found <span class="s2">&quot;/usr/bin&quot;</span> - use this? <span class="o">(</span>Enter nothing <span class="k">for</span> yes, No Trailing Slash<span class="o">)</span>
 
-git clone <span class="s1">&#39;https://github.com/PharaohTools/dapperstrano.git&#39;</span>  /tmp/dapperstrano/dapperstranoCloning into <span class="s1">&#39;/tmp/dapperstrano/dapperstrano&#39;</span>...
+git clone <span class="s1">&#39;https://github.com/PharaohTools/ptdeploy.git&#39;</span>  /tmp/ptdeploy/ptdeployCloning into <span class="s1">&#39;/tmp/ptdeploy/ptdeploy&#39;</span>...
 remote: Counting objects: 6989, <span class="k">done</span>.
 remote: Total <span class="m">6989</span> <span class="o">(</span>delta 0<span class="o">)</span>, reused <span class="m">0</span> <span class="o">(</span>delta 0<span class="o">)</span>, pack-reused 6989
 Receiving objects: 100% <span class="o">(</span>6989/6989<span class="o">)</span>, 2.61 MiB <span class="p">|</span> 176.00 KiB/s, <span class="k">done</span>.
@@ -200,7 +200,7 @@ Thanks <span class="k">for</span> installing , visit www.pharaohtools.com <span 
 
 Single App Installer:
 --------------------------------------------
-Dapperstrano: Success
+ptdeploy: Success
 ------------------------------
 Installer Finished
 ******************************
@@ -209,21 +209,21 @@ Installer Finished
 </div>
 <div class="section" id="ensure">
 <h2>Ensure<a class="headerlink" href="#ensure" title="Permalink to this headline">¶</a></h2>
-<p>This command helps to install the latest version of dapperstrano, only if a version is not installed. The below given command will execute the process of installation.</p>
-<div class="highlight-bash"><div class="highlight"><pre>ptconfigure dapperstrano ensure
+<p>This command helps to install the latest version of ptdeploy, only if a version is not installed. The below given command will execute the process of installation.</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure ptdeploy ensure
 </pre></div>
 </div>
 <p>The screenshot for the above command is listed below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptconfigure dapperstrano ensure
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptconfigure ptdeploy ensure
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> Ensure module install is not checking versions
-<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Module Dapperstrano reports itself as Installed
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Module ptdeploy reports itself as Installed
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> Not installing as already installed
 ******************************
 
 
 Single App Installer:
 --------------------------------------------
-Dapperstrano: Success
+ptdeploy: Success
 ------------------------------
 Installer Finished
 ******************************
@@ -247,24 +247,24 @@ Installer Finished
 </tr>
 </thead>
 <tbody valign="top">
-<tr class="row-even"><td>ptconfigure dapperstrano
+<tr class="row-even"><td>ptconfigure ptdeploy
 install? (Y/N)</td>
 <td><p class="first">There are two alternative parameters which
 can be used in command line.
-Dapperstrano, dapper, dapperstrano
-Example: ptconfigure dapperstrano install /</p>
+ptdeploy, dapper, ptdeploy
+Example: ptconfigure ptdeploy install /</p>
 <blockquote class="last">
 <div>ptconfigure dapper install</div></blockquote>
 </td>
 <td>Y</td>
 <td>System starts installation process</td>
 </tr>
-<tr class="row-odd"><td>ptconfigure dapperstrano
+<tr class="row-odd"><td>ptconfigure ptdeploy
 install? (Y/N)</td>
 <td><p class="first">There are two alternative parameters which
 can be used in command line.
-Dapperstrano, dapper, dapperstrano
-Example: ptconfigure dapperstrano install /</p>
+ptdeploy, dapper, ptdeploy
+Example: ptconfigure ptdeploy install /</p>
 <blockquote class="last">
 <div>ptconfigure dapper install|</div></blockquote>
 </td>
@@ -337,7 +337,7 @@ Example: ptconfigure dapperstrano install /</p>
         <li>
           Go to
         <a href="https://github.com/deepakajaylinux/kevellphara/blob/master/dapperstrano_cleo.rst">
-          Dapperstrano
+          PTDeploy
         </a> on GitHub.
       </li>
 

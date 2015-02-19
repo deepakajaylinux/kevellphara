@@ -1,12 +1,12 @@
-=====================
-Testingkamen module
-=====================
+===========
+PTTest 
+===========
 
 Synopsis
 ---------
 
-Testingkamen module is for handling test suite configuration and execution using a common set of rules across a range of tools and technologies. It can be used to generate starter test suites for your applications, and automated test execution scripts within minutes. 
-This module aims at installing the latest version of Testingkamen tool. 
+pttest module is for handling test suite configuration and execution using a common set of rules across a range of tools and technologies. It can be used to generate starter test suites for your applications, and automated test execution scripts within minutes. 
+This module aims at installing the latest version of pttest tool. 
 
 Help Command
 ------------
@@ -15,7 +15,7 @@ The help command guides the user to provide what is necessary to accomplish the 
 
 .. code-block:: bash
 
-	ptconfigure testingkamen help
+	ptconfigure pttest help
 
 
 The snapshot below gives you a pictorial representation of help command. 
@@ -23,17 +23,17 @@ The snapshot below gives you a pictorial representation of help command.
 
 .. code-block:: bash
 
- kevell@corp:/# ptconfigure testingkamen help
+ kevell@corp:/# ptconfigure pttest help
  ******************************
 
 
-  This command allows you to update Testingkamen.
+  This command allows you to update pttest.
 
-  Testingkamen, cleo, testingkamen
+  pttest, cleo, pttest
 
         - install
-        Installs the latest version of testingkamen
-        example: testingkamen testingkamen install
+        Installs the latest version of pttest
+        example: pttest pttest install
 
  ------------------------------
  End Help
@@ -43,28 +43,28 @@ The snapshot below gives you a pictorial representation of help command.
 Installation
 -------------
 
-The preferred way to install any of the pharaoh apps is through ptconfigure. If you already installed ptconfigure then you can install testingkamen by using the following command, 
+The preferred way to install any of the pharaoh apps is through ptconfigure. If you already installed ptconfigure then you can install pttest by using the following command, 
 
 .. code-block:: bash
 
-	ptconfigure testingkamen install
+	ptconfigure pttest install
 
 The snapshot below gives you a pictorial representation of help command.
 
 .. code-block:: bash
 
- kevell@corp:/# ptconfigure testingkamen install
- Install Testingkamen - Update to latest version ? (Y/N) 
+ kevell@corp:/# ptconfigure pttest install
+ Install pttest - Update to latest version ? (Y/N) 
  Y
  *******************************
  *        Pharaoh Tools        *
- *          Testingkamen!         *
+ *          pttest!         *
  *******************************
- What is the program data directory? Found "/opt/testingkamen" - use this? (Enter nothing for yes, no end slash)
+ What is the program data directory? Found "/opt/pttest" - use this? (Enter nothing for yes, no end slash)
 
  What is the program executor directory? Found "/usr/bin" - use this? (Enter nothing for yes, No Trailing Slash)
 
- git clone 'https://github.com/PharaohTools/testingkamen.git'  /tmp/testingkamen/testingkamenCloning into '/tmp/testingkamen/testingkamen'...
+ git clone 'https://github.com/PharaohTools/pttest.git'  /tmp/pttest/pttestCloning into '/tmp/pttest/pttest'...
  remote: Counting objects: 909, done.
  remote: Total 909 (delta 0), reused 0 (delta 0)
  Receiving objects: 100% (909/909), 361.15 KiB | 87.00 KiB/s, done.
@@ -80,7 +80,7 @@ The snapshot below gives you a pictorial representation of help command.
 
  Single App Installer:
  --------------------------------------------
- Testingkamen: Success
+ pttest: Success
  ------------------------------
  Installer Finished
  ******************************
@@ -95,9 +95,9 @@ Options
   +---------------------------------+------------------------+-----------------------------------------------------+
   |   Paramaters 		    | Required         	     | Comments     				           |
   +=================================+========================+=====================================================+
-  |ptconfigure Testingkamen install |Yes		     |This command will install the Testingkamen module    |
+  |ptconfigure pttest install       | Yes		     |This command will install the pttest module          |
   +---------------------------------+------------------------+-----------------------------------------------------+
-  |Install Testingkamen ( Y/N)      |  Y		     |If the user inputs Y, this module checks for         |
+  |Install pttest ( Y/N)            |  Y		     |If the user inputs Y, this module checks for         |
   |				    |			     |previously installed version, if exits it was        |
   |				    |			     |updated to latest version or else it installs        |
   |				    |			     |the fresh package.   			           |
@@ -105,7 +105,7 @@ Options
   |				    |    		     |user must enter key ‘/’ button or else it uses       |
   |				    |			     |the default path as shown in figure.                 |
   +---------------------------------+------------------------+-----------------------------------------------------+
-  |Install Testingkamen ( Y/N)      | N			     |If the user inputs N, the installation was aborted.| |
+  |Install pttest ( Y/N)            | N			     |If the user inputs N, the installation was aborted.| |
   +---------------------------------+------------------------+-----------------------------------------------------+
 
 

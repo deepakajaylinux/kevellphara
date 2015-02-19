@@ -574,7 +574,6 @@ Playing with ptconfigure Modules
    cleofy
    composermodule
    copy1
-   dapperstrano_cleo
    devtools
    digitalocean
    dnsify
@@ -653,6 +652,8 @@ Playing with ptconfigure Modules
    port
    postgresserver
    process
+   ptdeploy_cleo
+   pttest_cleo
    python
    ra
    redis
@@ -674,7 +675,6 @@ Playing with ptconfigure Modules
    svn
    systemdetectio
    teamcity
-   testingkamen
    tomcat
    ubuntucompiler   
    varnish

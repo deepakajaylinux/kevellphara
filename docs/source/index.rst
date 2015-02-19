@@ -13,7 +13,7 @@ Commands
 .. toctree::
    :maxdepth: 2
    
- cleopatra
+ ptconfigure_main
  phlagrant
  Dapperstrano_main 
  jrush_main

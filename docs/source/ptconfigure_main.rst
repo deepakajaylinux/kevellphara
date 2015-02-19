@@ -559,7 +559,6 @@ Playing with ptconfigure Modules
    chrome
    chromedriver
    citadel
-   cleo
    cleofy
    composermodule
    copy1
@@ -620,7 +619,6 @@ Playing with ptconfigure Modules
    pecl
    phake
    pharaohtools
-   ptvirtualize_cleo
    phpapc
    phpcodebeautifier
    phpconf
@@ -641,8 +639,10 @@ Playing with ptconfigure Modules
    port
    postgresserver
    process
+   ptconfigure.rst
    ptdeploy_cleo
    pttest_cleo
+   ptvirtualize_cleo
    python
    ra
    redis

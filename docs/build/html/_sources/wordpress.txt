@@ -16,14 +16,14 @@ The help command explains the users regarding the primary function of this modul
 
 .. code-block:: bash
 
-		dapperstrano Wordpress help
+		ptdeploy Wordpress help
 
 
 The following screen shot depicts visually regarding the help command under this module. The syntax used in declaration is non case-sensitive.
 
 .. code-block:: bash
 
- kevell@corp:/# dapperstrano Wordpress help
+ kevell@corp:/# ptdeploy Wordpress help
  ******************************
 
 
@@ -36,13 +36,13 @@ The following screen shot depicts visually regarding the help command under this
   which are tailored to Wordpress.
 
   // dapperfy - create our auto deploy files
-  dapperstrano dapperfy wordpress --yes --guess
+  ptdeploy dapperfy wordpress --yes --guess
 
   // builderfy - create templates to install build
-  sudo dapperstrano builderfy continuous --yes --jenkins-home="/var/lib/jenkins" --target-job-name="my-project-continuous" --project-description="This is the Continuous Delivery build for My Project" --primary-scm-url="http://146.185.129.66:8080/git/root/first-pharaoh-cd.git" --source-branch-spec="origin/master" --source-scm-url="http://146.185.129.66:8080/git/root/first-pharaoh-cd.git" --days-to-keep="-1" --amount-to-keep="10" --autopilot-test-invoke-install-file="build/config/dapperstrano/autopilots/tiny-staging-invoke-code-no-dbconf.php" --autopilot-prod-invoke-install-file="build/config/dapperstrano/autopilots/tiny-prod-invoke-code-no-dbconf.php" --error-email="phpengine@hotmail.co.uk" --only-autopilots
+  sudo ptdeploy builderfy continuous --yes --jenkins-home="/var/lib/jenkins" --target-job-name="my-project-continuous" --project-description="This is the Continuous Delivery build for My Project" --primary-scm-url="http://146.185.129.66:8080/git/root/first-pharaoh-cd.git" --source-branch-spec="origin/master" --source-scm-url="http://146.185.129.66:8080/git/root/first-pharaoh-cd.git" --days-to-keep="-1" --amount-to-keep="10" --autopilot-test-invoke-install-file="build/config/ptdeploy/autopilots/tiny-staging-invoke-code-no-dbconf.php" --autopilot-prod-invoke-install-file="build/config/ptdeploy/autopilots/tiny-prod-invoke-code-no-dbconf.php" --error-email="phpengine@hotmail.co.uk" --only-autopilots
 
   // execute the build creator
-  dapperstrano autopilot execute build/config/dapperstrano/builderfy/autopilots/tiny-jenkins-invoke-continuous.php
+  ptdeploy autopilot execute build/config/ptdeploy/builderfy/autopilots/tiny-jenkins-invoke-continuous.php
 
  ------------------------------
  End Help
@@ -58,7 +58,7 @@ The command used for dapperfy the wordpress is given below,
 
 .. code-block:: bash
 
-		dapperstrano dapperfy wordpress
+		ptdeploy dapperfy wordpress
 
 
 After entering the command given above, the process of dapperfying begins as depicted in the below table,
@@ -96,7 +96,7 @@ After completion of these steps, the process of dapperfying the wordpress gets c
 
 .. code-block:: bash
 
- kevell@corp:/# dapperstrano dapperfy wordpress
+ kevell@corp:/# ptdeploy dapperfy wordpress
  Dapperfy This for Wordpress? (Y/N) 
  y
  Use existing environment settings? (Y/N) 
@@ -104,55 +104,55 @@ After completion of these steps, the process of dapperfying the wordpress gets c
  Do you want to add another environment? (Y/N) 
  n
  Standard Dapperfies:
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-invoke-code-data.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-invoke-code-dbconf.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-invoke-code-no-dbconf.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-invoke-enforce-revisions.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-invoke-rollback-newest.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-invoke-rollback-previous.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-install-code-no-dbconf.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-install-enforce-revisions.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-install-rollback-newest.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-install-rollback-previous.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-uninstall-code-data.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-uninstall-code.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-nodepool-install-code-no-dbconf.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-phlagrant-host-install-host-file-entry.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-phlagrant-host-uninstall-host-file-entry.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-phlagrant-install-code-no-dbconf.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-workstation-install-code-no-dbconf.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-workstation-uninstall-code-data.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-workstation-uninstall-code.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-invoke-code-data.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-invoke-code-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-invoke-code-no-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-invoke-enforce-revisions.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-invoke-rollback-newest.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-invoke-rollback-previous.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-install-code-no-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-install-enforce-revisions.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-install-rollback-newest.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-install-rollback-previous.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-uninstall-code-data.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-uninstall-code.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-nodepool-install-code-no-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-ptvirtualize-host-install-host-file-entry.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-ptvirtualize-host-uninstall-host-file-entry.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-ptvirtualize-install-code-no-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-workstation-install-code-no-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-workstation-uninstall-code-data.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-workstation-uninstall-code.php
  Wordpress Dapperfies:
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-install-code-data.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-install-code-dbconf.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-workstation-install-code-data.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-workstation-install-code-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-install-code-data.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-install-code-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-workstation-install-code-data.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-workstation-install-code-dbconf.php
  Standard Dapperfies:
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-invoke-code-data.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-invoke-code-dbconf.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-invoke-code-no-dbconf.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-invoke-enforce-revisions.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-invoke-rollback-newest.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-invoke-rollback-previous.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-install-code-no-dbconf.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-install-enforce-revisions.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-install-rollback-newest.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-install-rollback-previous.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-uninstall-code-data.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-uninstall-code.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-nodepool-install-code-no-dbconf.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-phlagrant-host-install-host-file-entry.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-phlagrant-host-uninstall-host-file-entry.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-phlagrant-install-code-no-dbconf.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-workstation-install-code-no-dbconf.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-workstation-uninstall-code-data.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-workstation-uninstall-code.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-invoke-code-data.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-invoke-code-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-invoke-code-no-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-invoke-enforce-revisions.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-invoke-rollback-newest.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-invoke-rollback-previous.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-install-code-no-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-install-enforce-revisions.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-install-rollback-newest.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-install-rollback-previous.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-uninstall-code-data.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-uninstall-code.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-nodepool-install-code-no-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-ptvirtualize-host-install-host-file-entry.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-ptvirtualize-host-uninstall-host-file-entry.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-ptvirtualize-install-code-no-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-workstation-install-code-no-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-workstation-uninstall-code-data.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-workstation-uninstall-code.php
  Wordpress Dapperfies:
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-install-code-data.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-install-code-dbconf.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-workstation-install-code-data.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-workstation-install-code-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-install-code-data.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-install-code-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-workstation-install-code-data.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-workstation-install-code-dbconf.php
  ******************************
  
  
@@ -168,7 +168,7 @@ In order to generate the auto deploy files in wordpress, the user have to input 
 
 .. code-block:: bash
 
-		dapperstrano dapperfy wordpress --yes --guess
+		ptdeploy dapperfy wordpress --yes --guess
 
 
 After entering the command given above, the auto deploy files will be generated, as pictorially depicted from the below screenshot,
@@ -176,57 +176,57 @@ After entering the command given above, the auto deploy files will be generated,
 
 .. code-block:: bash
 
- kevell@corp:/# dapperstrano dapperfy wordpress --yes --guess
+ kevell@corp:/# ptdeploy dapperfy wordpress --yes --guess
  Standard Dapperfies:
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-invoke-code-data.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-invoke-code-dbconf.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-invoke-code-no-dbconf.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-invoke-enforce-revisions.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-invoke-rollback-newest.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-invoke-rollback-previous.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-install-code-no-dbconf.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-install-enforce-revisions.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-install-rollback-newest.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-install-rollback-previous.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-uninstall-code-data.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-uninstall-code.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-nodepool-install-code-no-dbconf.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-phlagrant-host-install-host-file-entry.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-phlagrant-host-uninstall-host-file-entry.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-phlagrant-install-code-no-dbconf.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-workstation-install-code-no-dbconf.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-workstation-uninstall-code-data.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-workstation-uninstall-code.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-invoke-code-data.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-invoke-code-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-invoke-code-no-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-invoke-enforce-revisions.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-invoke-rollback-newest.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-invoke-rollback-previous.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-install-code-no-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-install-enforce-revisions.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-install-rollback-newest.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-install-rollback-previous.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-uninstall-code-data.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-uninstall-code.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-nodepool-install-code-no-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-ptvirtualize-host-install-host-file-entry.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-ptvirtualize-host-uninstall-host-file-entry.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-ptvirtualize-install-code-no-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-workstation-install-code-no-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-workstation-uninstall-code-data.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-workstation-uninstall-code.php
  Wordpress Dapperfies:
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-install-code-data.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-install-code-dbconf.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-workstation-install-code-data.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-workstation-install-code-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-install-code-data.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-install-code-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-workstation-install-code-data.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-workstation-install-code-dbconf.php
  Standard Dapperfies:
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-invoke-code-data.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-invoke-code-dbconf.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-invoke-code-no-dbconf.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-invoke-enforce-revisions.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-invoke-rollback-newest.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-invoke-rollback-previous.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-install-code-no-dbconf.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-install-enforce-revisions.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-install-rollback-newest.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-install-rollback-previous.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-uninstall-code-data.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-uninstall-code.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-nodepool-install-code-no-dbconf.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-phlagrant-host-install-host-file-entry.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-phlagrant-host-uninstall-host-file-entry.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-phlagrant-install-code-no-dbconf.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-workstation-install-code-no-dbconf.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-workstation-uninstall-code-data.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-workstation-uninstall-code.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-invoke-code-data.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-invoke-code-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-invoke-code-no-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-invoke-enforce-revisions.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-invoke-rollback-newest.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-invoke-rollback-previous.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-install-code-no-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-install-enforce-revisions.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-install-rollback-newest.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-install-rollback-previous.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-uninstall-code-data.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-uninstall-code.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-nodepool-install-code-no-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-ptvirtualize-host-install-host-file-entry.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-ptvirtualize-host-uninstall-host-file-entry.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-ptvirtualize-install-code-no-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-workstation-install-code-no-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-workstation-uninstall-code-data.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-workstation-uninstall-code.php
  Wordpress Dapperfies:
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-install-code-data.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-install-code-dbconf.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-workstation-install-code-data.php
- //build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-workstation-install-code-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-install-code-data.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-install-code-dbconf.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-workstation-install-code-data.php
+ //build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-workstation-install-code-dbconf.php
  ******************************
  
 

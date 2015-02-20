@@ -29,7 +29,7 @@
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
-    <link rel="up" title="Dapperstrano" href="Dapperstrano_main.html" />
+    <link rel="up" title="PTDeploy" href="ptdeploy_main.html" />
     <link rel="next" title="Project" href="project.html" />
     <link rel="prev" title="Nginx Control" href="nginxcontrol.html" />
 
@@ -75,9 +75,9 @@
             <li class="dropdown">
   <a href="index.html" class="dropdown-toggle" data-toggle="dropdown">Site <b class="caret"></b></a>
   <ul class="dropdown-menu globaltoc"><ul class="current">
-<li class="toctree-l1"><a class="reference internal" href="cleopatra.html">Cleopatra</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ptconfigure_main.html">PTConfigure</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="ptdeploy_main.html">PTDeploy</a></li>
 <li class="toctree-l1"><a class="reference internal" href="phlagrant.html">Phlagrant</a></li>
-<li class="toctree-l1 current"><a class="reference internal" href="Dapperstrano_main.html">Dapperstrano</a></li>
 <li class="toctree-l1"><a class="reference internal" href="jrush_main.html">Jrush</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Testingkamen_main.html">Testingkamen</a></li>
 </ul>
@@ -137,11 +137,11 @@
 <div class="section" id="help-command">
 <h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>The help command envelops all the necessary information regarding NginxSBEditor such as its primary uses, the list of alternative parameters that can be used in the declaration, what are primary function of NginxSBEditor(Ex: add, remove, list, enable, disable), and also the syntax used for declaring those interesting functions. The following command is used for declaring help option under NginxSBEditor,</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano NginxSBEditor <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy NginxSBEditor <span class="nb">help</span>
 </pre></div>
 </div>
 <p>The following screen shot depicts pictorially about the working of help command.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# dapperstrano NginxSBEditor <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptdeploy NginxSBEditor <span class="nb">help</span>
 ******************************
 
 
@@ -151,26 +151,26 @@
 
          - add
          create a Server Block
-         example: dapperstrano nginxsbe add
+         example: ptdeploy nginxsbe add
          sb-docroot
          sb-url
          sb-ip-port
 
          - rm
          remove a Server Block
-         example: dapperstrano nginxsbe rm
+         example: ptdeploy nginxsbe rm
 
          - list
          List current Server Blocks
-         example: dapperstrano nginxsbe list
+         example: ptdeploy nginxsbe list
 
          - <span class="nb">enable</span>
 <span class="nb">         enable </span>a Server Block
-         example: dapperstrano nginxsbe <span class="nb">enable</span>
+         example: ptdeploy nginxsbe <span class="nb">enable</span>
 
          - disable
          disable a Server Block
-         example: dapperstrano nginxsbe disable
+         example: ptdeploy nginxsbe disable
 
 ------------------------------
 End Help
@@ -193,7 +193,7 @@ End Help
 <div class="section" id="add">
 <h2>Add<a class="headerlink" href="#add" title="Permalink to this headline">¶</a></h2>
 <p>The role of this function is to create/add a new server block. The command and working of add functions is depicted below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano NginxSBEditor add
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy NginxSBEditor add
 </pre></div>
 </div>
 <p>After entering the command given above, the working of this add function is shown below,</p>
@@ -259,7 +259,7 @@ new server block they can input as N|</td>
 <p>What is your Enabled Symlink ServerBlock directory.</p>
 <p>If a server block is enabled, the user have to specify its directory.</p>
 <p>The following screenshot visually depicts the above explained process.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# dapperstrano nginxsbe add
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptdeploy nginxsbe add
 Do you want to add a ServerBlock? (Y/N)
 Y
 What&#39;s the document root? Enter nothing for /
@@ -321,7 +321,7 @@ Server Block Enabled Symlink Created
 <div class="section" id="remove">
 <h2>Remove<a class="headerlink" href="#remove" title="Permalink to this headline">¶</a></h2>
 <p>The remove function is used for removing the unwanted server blocks. This can be done using the command given below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano NginxSBEditor rm
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy NginxSBEditor rm
 </pre></div>
 </div>
 <p>After entering the command above, the following process involved in deletion as shown in the table</p>
@@ -330,7 +330,7 @@ Server Block Enabled Symlink Created
 <col width="24%" />
 <col width="32%" />
 <col width="14%" />
-<col width="30%" />
+<col width="31%" />
 </colgroup>
 <thead valign="bottom">
 <tr class="row-odd"><th class="head">Parameters</th>
@@ -382,7 +382,7 @@ the server block they can input as N|</td>
 <p>What is your Enabled Symlink ServerBlock directory?</p>
 <p>The user have to specify the directory.</p>
 <p>The following screenshot depicts visually about the process of deletion.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# dapperstrano nginxsbe rm
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptdeploy nginxsbe rm
 Do you want to delete ServerBlock/s? <span class="o">(</span>Y/N<span class="o">)</span>
 Y
 Deleting ServerBlock
@@ -414,7 +414,7 @@ Server Block www.nx.com Deleted <span class="k">if</span> existed
 <div class="section" id="list">
 <h2>List<a class="headerlink" href="#list" title="Permalink to this headline">¶</a></h2>
 <p>The function of list option is to list the current installed server blocks. The command used for list is given below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano NginxSBEditor list
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy NginxSBEditor list
 </pre></div>
 </div>
 <p>After entering the command above, the following process involved in list option.</p>
@@ -426,7 +426,7 @@ Server Block www.nx.com Deleted <span class="k">if</span> existed
 <p>The user have to specify the directory.</p>
 <p>After these steps, he list of currently installed ServerBlocks are displayed.</p>
 <p>The following screenshot depicts the working of list option visually.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# dapperstrano nginxsbe list
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptdeploy nginxsbe list
 What is your ServerBlock directory?
 /root/Nginxdir
 What is your Enabled Symlink ServerBlock directory?

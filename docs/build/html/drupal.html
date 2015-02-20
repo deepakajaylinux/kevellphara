@@ -29,7 +29,7 @@
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
-    <link rel="up" title="Dapperstrano" href="Dapperstrano_main.html" />
+    <link rel="up" title="PTDeploy" href="ptdeploy_main.html" />
     <link rel="next" title="EnvironmentConfig" href="environmentconfigdapper.html" />
     <link rel="prev" title="DBInstall" href="dbinstall.html" />
 
@@ -75,9 +75,9 @@
             <li class="dropdown">
   <a href="index.html" class="dropdown-toggle" data-toggle="dropdown">Site <b class="caret"></b></a>
   <ul class="dropdown-menu globaltoc"><ul class="current">
-<li class="toctree-l1"><a class="reference internal" href="cleopatra.html">Cleopatra</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ptconfigure_main.html">PTConfigure</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="ptdeploy_main.html">PTDeploy</a></li>
 <li class="toctree-l1"><a class="reference internal" href="phlagrant.html">Phlagrant</a></li>
-<li class="toctree-l1 current"><a class="reference internal" href="Dapperstrano_main.html">Dapperstrano</a></li>
 <li class="toctree-l1"><a class="reference internal" href="jrush_main.html">Jrush</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Testingkamen_main.html">Testingkamen</a></li>
 </ul>
@@ -137,11 +137,11 @@
 <div class="section" id="help-command">
 <h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>The help command is a brief and as well as interesting abstract to the user. It provides information regarding its major role, details of alternative parameters which can be used in declarations, Its three major functions (builderfy, dapperfy, execute), and also the syntax for using and declaring those three interesting functions. The syntax used for declaring help option, is given below.</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano Drupal <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy Drupal <span class="nb">help</span>
 </pre></div>
 </div>
 <p>After inputting the command given above, the user can view the display result of help options along with the details described above, you can visually get these results of help option as shown from the below screen shot.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# dapperstrano Drupal <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptdeploy Drupal <span class="nb">help</span>
 ******************************
 
 
@@ -154,13 +154,13 @@
  which are tailored to Drupal.
 
  // dapperfy - create our auto deploy files
- dapperstrano dapperfy drupal --yes --guess
+ ptdeploy dapperfy drupal --yes --guess
 
  // builderfy - create templates to install build
- sudo dapperstrano builderfy continuous --yes --jenkins-home<span class="o">=</span><span class="s2">&quot;/var/lib/jenkins&quot;</span> --target-job-name<span class="o">=</span><span class="s2">&quot;my-project-continuous&quot;</span> --project-description<span class="o">=</span><span class="s2">&quot;This is the Continuous Delivery build for My Project&quot;</span> --primary-scm-url<span class="o">=</span><span class="s2">&quot;http://146.185.129.66:8080/git/root/first-pharaoh-cd.git&quot;</span> --source-branch-spec<span class="o">=</span><span class="s2">&quot;origin/master&quot;</span> --source-scm-url<span class="o">=</span><span class="s2">&quot;http://146.185.129.66:8080/git/root/first-pharaoh-cd.git&quot;</span> --days-to-keep<span class="o">=</span><span class="s2">&quot;-1&quot;</span> --amount-to-keep<span class="o">=</span><span class="s2">&quot;10&quot;</span> --autopilot-test-invoke-install-file<span class="o">=</span><span class="s2">&quot;build/config/dapperstrano/autopilots/tiny-staging-invoke-code-no-dbconf.php&quot;</span> --autopilot-prod-invoke-install-file<span class="o">=</span><span class="s2">&quot;build/config/dapperstrano/autopilots/tiny-prod-invoke-code-no-dbconf.php&quot;</span> --error-email<span class="o">=</span><span class="s2">&quot;phpengine@hotmail.co.uk&quot;</span> --only-autopilots
+ sudo ptdeploy builderfy continuous --yes --jenkins-home<span class="o">=</span><span class="s2">&quot;/var/lib/jenkins&quot;</span> --target-job-name<span class="o">=</span><span class="s2">&quot;my-project-continuous&quot;</span> --project-description<span class="o">=</span><span class="s2">&quot;This is the Continuous Delivery build for My Project&quot;</span> --primary-scm-url<span class="o">=</span><span class="s2">&quot;http://146.185.129.66:8080/git/root/first-pharaoh-cd.git&quot;</span> --source-branch-spec<span class="o">=</span><span class="s2">&quot;origin/master&quot;</span> --source-scm-url<span class="o">=</span><span class="s2">&quot;http://146.185.129.66:8080/git/root/first-pharaoh-cd.git&quot;</span> --days-to-keep<span class="o">=</span><span class="s2">&quot;-1&quot;</span> --amount-to-keep<span class="o">=</span><span class="s2">&quot;10&quot;</span> --autopilot-test-invoke-install-file<span class="o">=</span><span class="s2">&quot;build/config/ptdeploy/autopilots/tiny-staging-invoke-code-no-dbconf.php&quot;</span> --autopilot-prod-invoke-install-file<span class="o">=</span><span class="s2">&quot;build/config/ptdeploy/autopilots/tiny-prod-invoke-code-no-dbconf.php&quot;</span> --error-email<span class="o">=</span><span class="s2">&quot;phpengine@hotmail.co.uk&quot;</span> --only-autopilots
 
  // execute the build creator
- dapperstrano autopilot execute build/config/dapperstrano/builderfy/autopilots/tiny-jenkins-invoke-continuous.php
+ ptdeploy autopilot execute build/config/ptdeploy/builderfy/autopilots/tiny-jenkins-invoke-continuous.php
 
 ------------------------------
 End Help
@@ -171,7 +171,7 @@ End Help
 <div class="section" id="how-to-dapperfy-drupal">
 <h2>How to Dapperfy Drupal<a class="headerlink" href="#how-to-dapperfy-drupal" title="Permalink to this headline">¶</a></h2>
 <p>Let us see about the different aspects of this module in dapperfying the drupal. The command used for this purpose is same for all aspects as shown below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano dapperfy drupal
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy dapperfy drupal
 </pre></div>
 </div>
 <p>After entering the command given above, the following details are enquired during execution as depicted from the table,</p>
@@ -213,17 +213,17 @@ drupal they can input as N.|</td>
 <p>Do you want to add another environment? (Y/N)</p>
 <p>The user have to input Y or N, depending upon their need for adding another environment.</p>
 <p>The following screenshot depicts visually about this process of dapperfying the drupal.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# dapperstrano dapperfy drupal
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptdeploy dapperfy drupal
 Dapperfy This <span class="k">for</span> Drupal? <span class="o">(</span>Y/N<span class="o">)</span>
 Y
 Use existing environment settings? <span class="o">(</span>Y/N<span class="o">)</span>
 n
 Do you want to add another environment? <span class="o">(</span>Y/N<span class="o">)</span>
 n
-//build/config/dapperstrano/dapperfy/autopilots/generated/Builderfy
-//build/config/dapperstrano/dapperfy/autopilots/generated/Dapperfy
-//build/config/dapperstrano/dapperfy/autopilots/generated/Builderfy
-//build/config/dapperstrano/dapperfy/autopilots/generated/Dapperfy
+//build/config/ptdeploy/dapperfy/autopilots/generated/Builderfy
+//build/config/ptdeploy/dapperfy/autopilots/generated/Dapperfy
+//build/config/ptdeploy/dapperfy/autopilots/generated/Builderfy
+//build/config/ptdeploy/dapperfy/autopilots/generated/Dapperfy
 ******************************
 
 
@@ -233,7 +233,7 @@ In Dapperfy
 </pre></div>
 </div>
 <p>The second form of declaring the dapperfying of drupal is explained below, and the command used for that is as same as</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano dapperfy drupal
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy dapperfy drupal
 </pre></div>
 </div>
 <p>After entering the command given above, the following details are enquired during execution as depicted from the table,</p>
@@ -319,7 +319,7 @@ environment settings they can input as N.|</td>
 <p>Do you want to add another environment? (Y/N)</p>
 <p>The user have to input Y or N depending upon their needs.</p>
 <p>The following screenshot will give an pictorial representation for the steps explained above.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# dapperstrano dapperfy drupal
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptdeploy dapperfy drupal
 
 Dapperfy This for Drupal? (Y/N)
 Y
@@ -374,10 +374,10 @@ Value for: DB Admin User Pass
 
 Do you want to add another environment? (Y/N)
 n
-//build/config/dapperstrano/dapperfy/autopilots/generated/Builderfy
-//build/config/dapperstrano/dapperfy/autopilots/generated/Dapperfy
-//build/config/dapperstrano/dapperfy/autopilots/generated/Builderfy
-//build/config/dapperstrano/dapperfy/autopilots/generated/Dapperfy
+//build/config/ptdeploy/dapperfy/autopilots/generated/Builderfy
+//build/config/ptdeploy/dapperfy/autopilots/generated/Dapperfy
+//build/config/ptdeploy/dapperfy/autopilots/generated/Builderfy
+//build/config/ptdeploy/dapperfy/autopilots/generated/Dapperfy
 ******************************
 
 
@@ -387,7 +387,7 @@ In Dapperfy
 </pre></div>
 </div>
 <p>The third form of execution is explained from the upcoming steps. The command is same as</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano dapperfy drupal
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy dapperfy drupal
 </pre></div>
 </div>
 <p>After entering the command given above, the following details are enquired during execution as depicted from the table,</p>
@@ -458,7 +458,7 @@ environment settings they can input as N.|</td>
 <p>Value for DB App User Name</p>
 <p>Value for DB App User Pass</p>
 <p>The following screenshot will give an pictorial representation for the steps explained above.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# dapperstrano dapperfy drupal
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptdeploy dapperfy drupal
 Dapperfy This for Drupal? (Y/N)
 y
 Use existing environment settings? (Y/N)
@@ -497,12 +497,12 @@ Value for: DB Admin User Name
 
 Value for: DB Admin User Pass
 
-//build/config/dapperstrano/dapperfy/autopilots/generated/Builderfy
-//build/config/dapperstrano/dapperfy/autopilots/generated/Dapperfy
-//build/config/dapperstrano/dapperfy/autopilots/generated/Builderfy
-//build/config/dapperstrano/dapperfy/autopilots/generated/Dapperfy
-//build/config/dapperstrano/dapperfy/autopilots/generated/Builderfy
-//build/config/dapperstrano/dapperfy/autopilots/generated/Dapperfy
+//build/config/ptdeploy/dapperfy/autopilots/generated/Builderfy
+//build/config/ptdeploy/dapperfy/autopilots/generated/Dapperfy
+//build/config/ptdeploy/dapperfy/autopilots/generated/Builderfy
+//build/config/ptdeploy/dapperfy/autopilots/generated/Dapperfy
+//build/config/ptdeploy/dapperfy/autopilots/generated/Builderfy
+//build/config/ptdeploy/dapperfy/autopilots/generated/Dapperfy
 ******************************
 
 
@@ -512,7 +512,7 @@ In Dapperfy
 </pre></div>
 </div>
 <p>The fourth type of dapperfying the drupal is explained below, and the command used is same as</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano dapperfy drupal
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy dapperfy drupal
 </pre></div>
 </div>
 <p>After entering the command given above, the following details are enquired during execution as depicted from the table,</p>
@@ -568,17 +568,17 @@ environment settings they can input as N.|</td>
 <p>Do you want to add another environment? (Y/N)</p>
 <p>The user have to input Y or N, depending upon their need for adding another environment.</p>
 <p>The following screenshot depicts visually about this process of dapperfying the drupal.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# dapperstrano dapperfy drupal
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptdeploy dapperfy drupal
 Dapperfy This <span class="k">for</span> Drupal? <span class="o">(</span>Y/N<span class="o">)</span>
 y
 Use existing environment settings? <span class="o">(</span>Y/N<span class="o">)</span>
 n
 Do you want to add another environment? <span class="o">(</span>Y/N<span class="o">)</span>
 n
-//build/config/dapperstrano/dapperfy/autopilots/generated/Builderfy
-//build/config/dapperstrano/dapperfy/autopilots/generated/Dapperfy
-//build/config/dapperstrano/dapperfy/autopilots/generated/Builderfy
-//build/config/dapperstrano/dapperfy/autopilots/generated/Dapperfy
+//build/config/ptdeploy/dapperfy/autopilots/generated/Builderfy
+//build/config/ptdeploy/dapperfy/autopilots/generated/Dapperfy
+//build/config/ptdeploy/dapperfy/autopilots/generated/Builderfy
+//build/config/ptdeploy/dapperfy/autopilots/generated/Dapperfy
 ******************************
 
 

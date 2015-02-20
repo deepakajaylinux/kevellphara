@@ -29,7 +29,7 @@
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
-    <link rel="up" title="Dapperstrano" href="Dapperstrano_main.html" />
+    <link rel="up" title="PTDeploy" href="ptdeploy_main.html" />
     <link rel="next" title="LighttpdControl" href="lighttpdControl_dapper.html" />
     <link rel="prev" title="Host Editor" href="hosteditor.html" />
 
@@ -75,9 +75,9 @@
             <li class="dropdown">
   <a href="index.html" class="dropdown-toggle" data-toggle="dropdown">Site <b class="caret"></b></a>
   <ul class="dropdown-menu globaltoc"><ul class="current">
-<li class="toctree-l1"><a class="reference internal" href="cleopatra.html">Cleopatra</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ptconfigure_main.html">PTConfigure</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="ptdeploy_main.html">PTDeploy</a></li>
 <li class="toctree-l1"><a class="reference internal" href="phlagrant.html">Phlagrant</a></li>
-<li class="toctree-l1 current"><a class="reference internal" href="Dapperstrano_main.html">Dapperstrano</a></li>
 <li class="toctree-l1"><a class="reference internal" href="jrush_main.html">Jrush</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Testingkamen_main.html">Testingkamen</a></li>
 </ul>
@@ -134,17 +134,17 @@
 <div class="section" id="synopsis">
 <h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
 <p>Joomla provides integration website. Many Web hosting services offer a single-click install, getting the user new site up and running in just a few minutes.</p>
-<p>Including its ease-of-use and extensibility, have made Joomla the most popular Web site software. Best of all, Autopilot,builderfy and dapperfy are available in dapperstrano and makes a best solution. This is comfortable with Ubuntu and Cent OS.</p>
+<p>Including its ease-of-use and extensibility, have made Joomla the most popular Web site software. Best of all, Autopilot,builderfy and dapperfy are available in ptdeploy and makes a best solution. This is comfortable with Ubuntu and Cent OS.</p>
 </div>
 <div class="section" id="help-command">
 <h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
-<p>This help command guides the user to provide integration for joomla. It has personalized Autopilot, builderfy and dapperfy are available in dapperstrano .Also provides database configuration for the db configure module.</p>
+<p>This help command guides the user to provide integration for joomla. It has personalized Autopilot, builderfy and dapperfy are available in ptdeploy .Also provides database configuration for the db configure module.</p>
 <p>The help command for Oracle is shown below.</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano joomla <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy joomla <span class="nb">help</span>
 </pre></div>
 </div>
 <p>After inputs the above command, it starts functioning to integrate joomla website. It catechesis the functions of joomla in the screenshots.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# dapperstrano Joomla <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptdeploy Joomla <span class="nb">help</span>
 ******************************
 
 
@@ -157,13 +157,13 @@
  which are tailored to Joomla.
 
  // dapperfy - create our auto deploy files
- dapperstrano dapperfy joomla --yes --guess
+ ptdeploy dapperfy joomla --yes --guess
 
  // builderfy - create templates to install build
- sudo dapperstrano builderfy continuous --yes --jenkins-home<span class="o">=</span><span class="s2">&quot;/var/lib/jenkins&quot;</span> --target-job-name<span class="o">=</span><span class="s2">&quot;my-project-continuous&quot;</span> --project-description<span class="o">=</span><span class="s2">&quot;This is the Continuous Delivery build for My Project&quot;</span> --primary-scm-url<span class="o">=</span><span class="s2">&quot;http://146.185.129.66:8080/git/root/first-pharaoh-cd.git&quot;</span> --source-branch-spec<span class="o">=</span><span class="s2">&quot;origin/master&quot;</span> --source-scm-url<span class="o">=</span><span class="s2">&quot;http://146.185.129.66:8080/git/root/first-pharaoh-cd.git&quot;</span> --days-to-keep<span class="o">=</span><span class="s2">&quot;-1&quot;</span> --amount-to-keep<span class="o">=</span><span class="s2">&quot;10&quot;</span> --autopilot-test-invoke-install-file<span class="o">=</span><span class="s2">&quot;build/config/dapperstrano/autopilots/tiny-staging-invoke-code-no-dbconf.php&quot;</span> --autopilot-prod-invoke-install-file<span class="o">=</span><span class="s2">&quot;build/config/dapperstrano/autopilots/tiny-prod-invoke-code-no-dbconf.php&quot;</span> --error-email<span class="o">=</span><span class="s2">&quot;phpengine@hotmail.co.uk&quot;</span> --only-autopilots
+ sudo ptdeploy builderfy continuous --yes --jenkins-home<span class="o">=</span><span class="s2">&quot;/var/lib/jenkins&quot;</span> --target-job-name<span class="o">=</span><span class="s2">&quot;my-project-continuous&quot;</span> --project-description<span class="o">=</span><span class="s2">&quot;This is the Continuous Delivery build for My Project&quot;</span> --primary-scm-url<span class="o">=</span><span class="s2">&quot;http://146.185.129.66:8080/git/root/first-pharaoh-cd.git&quot;</span> --source-branch-spec<span class="o">=</span><span class="s2">&quot;origin/master&quot;</span> --source-scm-url<span class="o">=</span><span class="s2">&quot;http://146.185.129.66:8080/git/root/first-pharaoh-cd.git&quot;</span> --days-to-keep<span class="o">=</span><span class="s2">&quot;-1&quot;</span> --amount-to-keep<span class="o">=</span><span class="s2">&quot;10&quot;</span> --autopilot-test-invoke-install-file<span class="o">=</span><span class="s2">&quot;build/config/ptdeploy/autopilots/tiny-staging-invoke-code-no-dbconf.php&quot;</span> --autopilot-prod-invoke-install-file<span class="o">=</span><span class="s2">&quot;build/config/ptdeploy/autopilots/tiny-prod-invoke-code-no-dbconf.php&quot;</span> --error-email<span class="o">=</span><span class="s2">&quot;phpengine@hotmail.co.uk&quot;</span> --only-autopilots
 
  // execute the build creator
- dapperstrano autopilot execute build/config/dapperstrano/builderfy/autopilots/tiny-jenkins-invoke-continuous.php
+ ptdeploy autopilot execute build/config/ptdeploy/builderfy/autopilots/tiny-jenkins-invoke-continuous.php
 
 ------------------------------
 End Help
@@ -174,7 +174,7 @@ End Help
 <div class="section" id="installation">
 <h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
 <p>This module adds multiple actions to both builderfy and dapperfy. This is easy to install and set up even if the user’s not an advanced user.Since Joomla is so easy to use, as a Web designer or developer, the user can quickly build sites for their clients. The command used to install joomla is as follows,</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano joomla install
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy joomla install
 </pre></div>
 </div>
 <p>After vitalize the command it will catechize input.</p>
@@ -183,65 +183,65 @@ End Help
 <div class="section" id="dapperfy">
 <h2>Dapperfy<a class="headerlink" href="#dapperfy" title="Permalink to this headline">¶</a></h2>
 <p>This dapperfy used to create the user auto deploy files. Dapperfy can work for a lot of projects without complex configurations with a couple of minutes worth of setting up. Using Dapperfy is very quick, and is probably the best starting point, even for complex configurations as the user can always just modify the files afterwards with their own customizations. The following command used for dapperfy.</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano dapperfy joomla
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy dapperfy joomla
 </pre></div>
 </div>
 <p>After input as the above said command it asks dapperfy execution it shows by the screenshot.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# dapperstrano dapperfy joomla
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptdeploy dapperfy joomla
 Dapperfy This <span class="k">for</span> Joomla? <span class="o">(</span>Y/N<span class="o">)</span>
 Y
 Do you want to add another environment? <span class="o">(</span>Y/N<span class="o">)</span>
 n
 Standard Dapperfies:
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-invoke-code-data.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-invoke-code-dbconf.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-invoke-code-no-dbconf.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-invoke-enforce-revisions.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-invoke-rollback-newest.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-invoke-rollback-previous.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-install-code-no-dbconf.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-install-enforce-revisions.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-install-rollback-newest.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-install-rollback-previous.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-uninstall-code-data.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-uninstall-code.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-nodepool-install-code-no-dbconf.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-phlagrant-host-install-host-file-entry.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-phlagrant-host-uninstall-host-file-entry.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-phlagrant-install-code-no-dbconf.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-workstation-install-code-no-dbconf.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-workstation-uninstall-code-data.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-workstation-uninstall-code.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-invoke-code-data.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-invoke-code-dbconf.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-invoke-code-no-dbconf.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-invoke-enforce-revisions.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-invoke-rollback-newest.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-invoke-rollback-previous.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-install-code-no-dbconf.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-install-enforce-revisions.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-install-rollback-newest.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-install-rollback-previous.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-uninstall-code-data.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-uninstall-code.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-nodepool-install-code-no-dbconf.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-ptvirtualize-host-install-host-file-entry.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-ptvirtualize-host-uninstall-host-file-entry.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-ptvirtualize-install-code-no-dbconf.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-workstation-install-code-no-dbconf.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-workstation-uninstall-code-data.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-workstation-uninstall-code.php
 Joomla Dapperfies:
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-install-code-data.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-install-code-dbconf.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-workstation-install-code-data.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-workstation-install-code-dbconf.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-install-code-data.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-install-code-dbconf.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-workstation-install-code-data.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-workstation-install-code-dbconf.php
 Standard Dapperfies:
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-invoke-code-data.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-invoke-code-dbconf.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-invoke-code-no-dbconf.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-invoke-enforce-revisions.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-invoke-rollback-newest.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-invoke-rollback-previous.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-install-code-no-dbconf.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-install-enforce-revisions.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-install-rollback-newest.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-install-rollback-previous.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-uninstall-code-data.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-uninstall-code.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-nodepool-install-code-no-dbconf.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-phlagrant-host-install-host-file-entry.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-phlagrant-host-uninstall-host-file-entry.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-phlagrant-install-code-no-dbconf.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-workstation-install-code-no-dbconf.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-workstation-uninstall-code-data.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-workstation-uninstall-code.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-invoke-code-data.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-invoke-code-dbconf.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-invoke-code-no-dbconf.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-invoke-enforce-revisions.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-invoke-rollback-newest.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-invoke-rollback-previous.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-install-code-no-dbconf.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-install-enforce-revisions.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-install-rollback-newest.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-install-rollback-previous.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-uninstall-code-data.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-uninstall-code.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-nodepool-install-code-no-dbconf.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-ptvirtualize-host-install-host-file-entry.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-ptvirtualize-host-uninstall-host-file-entry.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-ptvirtualize-install-code-no-dbconf.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-workstation-install-code-no-dbconf.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-workstation-uninstall-code-data.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-workstation-uninstall-code.php
 Joomla Dapperfies:
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-install-code-data.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-install-code-dbconf.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-workstation-install-code-data.php
-/vv/build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-workstation-install-code-dbconf.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-install-code-data.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-install-code-dbconf.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-workstation-install-code-data.php
+/vv/build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-workstation-install-code-dbconf.php
 ******************************
 
 
@@ -254,7 +254,7 @@ In Dapperfy
 <div class="section" id="builderfy">
 <h2>Builderfy<a class="headerlink" href="#builderfy" title="Permalink to this headline">¶</a></h2>
 <p>It creates templates to install build. The user can add more templates. When we make changes to the user repository, deploying a new version to the user target Production. The command used for builderfy is as follows,</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano builderfy joomla
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy builderfy joomla
 </pre></div>
 </div>
 <p>The following screen shot explains its function.</p>
@@ -265,7 +265,7 @@ In Dapperfy
 <div class="section" id="execute">
 <h2>Execute<a class="headerlink" href="#execute" title="Permalink to this headline">¶</a></h2>
 <p>This process execute autopilot build creator. Quick access is possible. The command for execution as follows,</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano autopilot execute
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy autopilot execute
 </pre></div>
 </div>
 <p>The following screen shot explain its functions.</p>
@@ -290,7 +290,7 @@ In Dapperfy
 <tbody valign="top">
 <tr class="row-even"><td>Dapperfy this for joomla? (Y/N)</td>
 <td>Y</td>
-<td>It will dapperfy joomla under dapperstrano in
+<td>It will dapperfy joomla under ptdeploy in
 Pharaoh tools</td>
 </tr>
 <tr class="row-odd"><td>Dapperfy this for joomla? (Y/N)</td>

@@ -29,7 +29,7 @@
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
-    <link rel="up" title="Dapperstrano" href="Dapperstrano_main.html" />
+    <link rel="up" title="PTDeploy" href="ptdeploy_main.html" />
     <link rel="next" title="DBConfigure" href="dbconfigure.html" />
     <link rel="prev" title="Autopilot" href="autopilot.html" />
 
@@ -75,9 +75,9 @@
             <li class="dropdown">
   <a href="index.html" class="dropdown-toggle" data-toggle="dropdown">Site <b class="caret"></b></a>
   <ul class="dropdown-menu globaltoc"><ul class="current">
-<li class="toctree-l1"><a class="reference internal" href="cleopatra.html">Cleopatra</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ptconfigure_main.html">PTConfigure</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="ptdeploy_main.html">PTDeploy</a></li>
 <li class="toctree-l1"><a class="reference internal" href="phlagrant.html">Phlagrant</a></li>
-<li class="toctree-l1 current"><a class="reference internal" href="Dapperstrano_main.html">Dapperstrano</a></li>
 <li class="toctree-l1"><a class="reference internal" href="jrush_main.html">Jrush</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Testingkamen_main.html">Testingkamen</a></li>
 </ul>
@@ -136,11 +136,11 @@
 <div class="section" id="help-command">
 <h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>The help command envelops all the necessary information regarding dapperfy such as its primary uses, the list of alternative parameters that can be used in the declaration, what are primary function of dapperfy(Ex: standard, list), and also the syntax used for declaring those interesting functions. The following command is used for declaring help option under dapperfy,</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano Dapperfy <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy Dapperfy <span class="nb">help</span>
 </pre></div>
 </div>
 <p>The following screen shot depicts pictorially about the working of help command.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# dapperstrano Dapperfy <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptdeploy Dapperfy <span class="nb">help</span>
 ******************************
 
 
@@ -152,14 +152,14 @@
  Dapperfy, dapperfy
 
        - list
-       List all of the autopilot files in your build/config/dapperstrano/autopilots
-       example: dapperstrano dapperfy list
+       List all of the autopilot files in your build/config/ptdeploy/autopilots
+       example: ptdeploy dapperfy list
 
        - standard
        Create a standard <span class="nb">set </span>of autopilots to manage
-       example: dapperstrano dapperfy standard
+       example: ptdeploy dapperfy standard
 
-       The start of the <span class="nb">command </span>will be dapperstrano autopilot execute *filename*
+       The start of the <span class="nb">command </span>will be ptdeploy autopilot execute *filename*
 
 
 --------------
@@ -169,8 +169,8 @@
  <span class="k">for</span> your particular Drupal site. This module adds the <span class="s1">&#39;drupal&#39;</span> action to dapperfy.
 
  - drupal
- create drupal tailored automated deployment dapperstrano autopilots
- example: dapperstrano dapperfy drupal --yes --guess
+ create drupal tailored automated deployment ptdeploy autopilots
+ example: ptdeploy dapperfy drupal --yes --guess
 
 --------------
  Joomla Module:
@@ -179,12 +179,12 @@
  <span class="k">for</span> your particular Joomla site. This module adds the <span class="s1">&#39;joomla&#39;</span> action to dapperfy.
 
  - joomla, joomla30
- create joomla tailored automated deployment dapperstrano autopilots
- example: dapperstrano dapperfy joomla --yes --guess
+ create joomla tailored automated deployment ptdeploy autopilots
+ example: ptdeploy dapperfy joomla --yes --guess
 
  - joomla-phlagrant, joomla30-phlagrant
- create joomla tailored automated deployment dapperstrano autopilots <span class="k">for</span> your Phlagrant Virtual Machines
- example: dapperstrano dapperfy joomla-phlagrant --yes --guess
+ create joomla tailored automated deployment ptdeploy autopilots <span class="k">for</span> your Phlagrant Virtual Machines
+ example: ptdeploy dapperfy joomla-phlagrant --yes --guess
 --------------
  Wordpress Module:
 
@@ -192,8 +192,8 @@
  <span class="k">for</span> your particular Wordpress site. This module adds the <span class="s1">&#39;wordpress&#39;</span> action to dapperfy.
 
  - wordpress
- create wordpress tailored automated deployment dapperstrano autopilots
- example: dapperstrano dapperfy wordpress --yes --guess
+ create wordpress tailored automated deployment ptdeploy autopilots
+ example: ptdeploy dapperfy wordpress --yes --guess
 ------------------------------
 End Help
 ******************************
@@ -203,16 +203,16 @@ End Help
 <div class="section" id="how-to-use-dapper-standard">
 <h2>How to Use Dapper Standard<a class="headerlink" href="#how-to-use-dapper-standard" title="Permalink to this headline">¶</a></h2>
 <p>The command used for dapperfy standard is shown below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano dapperfy standard
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy dapperfy standard
 </pre></div>
 </div>
 <p>After entering the command given above, the following process as described in the below table will occurs in a step-by-step basis.</p>
 <table border="1" class="table-bordered docutils">
 <colgroup>
-<col width="20%" />
-<col width="33%" />
-<col width="13%" />
-<col width="35%" />
+<col width="19%" />
+<col width="32%" />
+<col width="12%" />
+<col width="36%" />
 </colgroup>
 <thead valign="bottom">
 <tr class="row-odd"><th class="head">Parameters</th>
@@ -273,55 +273,55 @@ as N.|</td>
 <div class="section" id="how-to-use-dapperfy-list">
 <h2>How to use Dapperfy List<a class="headerlink" href="#how-to-use-dapperfy-list" title="Permalink to this headline">¶</a></h2>
 <p>The primary goal of list function is to list all of the autopilot files of the users projects that are available in a particular location. The syntax for using the list under dapperfy is shown below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano dapperfy list
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy dapperfy list
 </pre></div>
 </div>
 <p>The screen shot shown below depicts the working of list option under dapperfy.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# dapperstrano dapperfy standard
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptdeploy dapperfy standard
 Dapperfy This? <span class="o">(</span>Y/N<span class="o">)</span>
 Y
 Use existing environment settings? <span class="o">(</span>Y/N<span class="o">)</span>
 n
 Do you want to add another environment? <span class="o">(</span>Y/N<span class="o">)</span>
 n
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-invoke-code-data.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-invoke-code-dbconf.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-invoke-code-no-dbconf.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-invoke-enforce-revisions.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-invoke-rollback-newest.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-invoke-rollback-previous.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-install-code-no-dbconf.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-install-enforce-revisions.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-install-rollback-newest.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-install-rollback-previous.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-uninstall-code-data.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-node-uninstall-code.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-nodepool-install-code-no-dbconf.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-phlagrant-host-install-host-file-entry.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-phlagrant-host-uninstall-host-file-entry.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-phlagrant-install-code-no-dbconf.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-workstation-install-code-no-dbconf.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-workstation-uninstall-code-data.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-workstation-uninstall-code.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-invoke-code-data.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-invoke-code-dbconf.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-invoke-code-no-dbconf.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-invoke-enforce-revisions.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-invoke-rollback-newest.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-invoke-rollback-previous.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-install-code-no-dbconf.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-install-enforce-revisions.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-install-rollback-newest.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-install-rollback-previous.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-uninstall-code-data.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-node-uninstall-code.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-nodepool-install-code-no-dbconf.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-phlagrant-host-install-host-file-entry.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-phlagrant-host-uninstall-host-file-entry.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-phlagrant-install-code-no-dbconf.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-workstation-install-code-no-dbconf.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-workstation-uninstall-code-data.php
-//build/config/dapperstrano/dapperfy/autopilots/generated/default-local-8080-workstation-uninstall-code.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-invoke-code-data.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-invoke-code-dbconf.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-invoke-code-no-dbconf.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-invoke-enforce-revisions.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-invoke-rollback-newest.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-invoke-rollback-previous.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-install-code-no-dbconf.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-install-enforce-revisions.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-install-rollback-newest.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-install-rollback-previous.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-uninstall-code-data.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-node-uninstall-code.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-nodepool-install-code-no-dbconf.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-phlagrant-host-install-host-file-entry.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-phlagrant-host-uninstall-host-file-entry.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-phlagrant-install-code-no-dbconf.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-workstation-install-code-no-dbconf.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-workstation-uninstall-code-data.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-workstation-uninstall-code.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-invoke-code-data.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-invoke-code-dbconf.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-invoke-code-no-dbconf.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-invoke-enforce-revisions.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-invoke-rollback-newest.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-invoke-rollback-previous.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-install-code-no-dbconf.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-install-enforce-revisions.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-install-rollback-newest.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-install-rollback-previous.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-uninstall-code-data.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-node-uninstall-code.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-nodepool-install-code-no-dbconf.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-phlagrant-host-install-host-file-entry.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-phlagrant-host-uninstall-host-file-entry.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-phlagrant-install-code-no-dbconf.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-workstation-install-code-no-dbconf.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-workstation-uninstall-code-data.php
+//build/config/ptdeploy/dapperfy/autopilots/generated/default-local-8080-workstation-uninstall-code.php
 ******************************
 
 

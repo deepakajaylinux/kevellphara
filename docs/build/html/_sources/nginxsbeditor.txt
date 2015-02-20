@@ -14,14 +14,14 @@ The help command envelops all the necessary information regarding NginxSBEditor 
 
 .. code-block:: bash
 
-		dapperstrano NginxSBEditor help
+		ptdeploy NginxSBEditor help
 
 
 The following screen shot depicts pictorially about the working of help command.
 
 .. code-block:: bash
 
- kevell@corp:/# dapperstrano NginxSBEditor help
+ kevell@corp:/# ptdeploy NginxSBEditor help
  ******************************
 
 
@@ -31,26 +31,26 @@ The following screen shot depicts pictorially about the working of help command.
 
           - add
           create a Server Block
-          example: dapperstrano nginxsbe add
+          example: ptdeploy nginxsbe add
           sb-docroot
           sb-url
           sb-ip-port
 
           - rm
           remove a Server Block
-          example: dapperstrano nginxsbe rm
+          example: ptdeploy nginxsbe rm
 
           - list
           List current Server Blocks
-          example: dapperstrano nginxsbe list
+          example: ptdeploy nginxsbe list
 
           - enable
           enable a Server Block
-          example: dapperstrano nginxsbe enable
+          example: ptdeploy nginxsbe enable
 
           - disable
           disable a Server Block
-          example: dapperstrano nginxsbe disable
+          example: ptdeploy nginxsbe disable
 
  ------------------------------
  End Help
@@ -77,7 +77,7 @@ The role of this function is to create/add a new server block. The command and w
 
 .. code-block:: bash
 
-		dapperstrano NginxSBEditor add
+		ptdeploy NginxSBEditor add
 
 After entering the command given above, the working of this add function is shown below,
 
@@ -155,7 +155,7 @@ The following screenshot visually depicts the above explained process.
 
 .. code-block:: bash
 
- kevell@corp:/# dapperstrano nginxsbe add
+ kevell@corp:/# ptdeploy nginxsbe add
  Do you want to add a ServerBlock? (Y/N) 
  Y
  What's the document root? Enter nothing for /
@@ -222,22 +222,22 @@ The remove function is used for removing the unwanted server blocks. This can be
 
 .. code-block:: bash
 
-	dapperstrano NginxSBEditor rm
+	ptdeploy NginxSBEditor rm
 
 After entering the command above, the following process involved in deletion as shown in the table
 
 
 .. cssclass:: table-bordered
 
- +-------------------------------+-----------------------------------------+------------------+---------------------------------------+
- | Parameters                    | Alternative Parameters                  | Options          | Comments                              |
- +===============================+=========================================+==================+=======================================+
- |Do you want to delete          | Instead of NginxSBEditor, we can use    | Y(Yes)           | If the user needs to delete the server|
- |ServerBlock/s? (Y/N)           | nginx-sb-editor, nginxsbe also.         |                  | block they can input as Y.            |
- +-------------------------------+-----------------------------------------+------------------+---------------------------------------+
- |Do you want to add a           | Instead of NginxSBEditor, we can use    | N(No)            | If the user is not in need to delete  |
- |ServerBlock/s? (Y/N)           | nginx-sb-editor, nginxsbe also.         |                  | the server block they can input as N| |
- +-------------------------------+-----------------------------------------+------------------+---------------------------------------+
+ +-------------------------------+-----------------------------------------+------------------+----------------------------------------+
+ | Parameters                    | Alternative Parameters                  | Options          | Comments                               |
+ +===============================+=========================================+==================+========================================+
+ |Do you want to delete          | Instead of NginxSBEditor, we can use    | Y(Yes)           | If the user needs to delete the server |
+ |ServerBlock/s? (Y/N)           | nginx-sb-editor, nginxsbe also.         |                  | block they can input as Y.             |
+ +-------------------------------+-----------------------------------------+------------------+----------------------------------------+
+ |Do you want to add a           | Instead of NginxSBEditor, we can use    | N(No)            | If the user is not in need to delete   |
+ |ServerBlock/s? (Y/N)           | nginx-sb-editor, nginxsbe also.         |                  | the server block they can input as N|  |
+ +-------------------------------+-----------------------------------------+------------------+----------------------------------------+
 
 
 
@@ -288,7 +288,7 @@ The following screenshot depicts visually about the process of deletion.
 
 .. code-block:: bash
 
- kevell@corp:/# dapperstrano nginxsbe rm
+ kevell@corp:/# ptdeploy nginxsbe rm
  Do you want to delete ServerBlock/s? (Y/N) 
  Y
  Deleting ServerBlock
@@ -323,7 +323,7 @@ The function of list option is to list the current installed server blocks. The 
 
 .. code-block:: bash
 
-		dapperstrano NginxSBEditor list
+		ptdeploy NginxSBEditor list
 
 After entering the command above, the following process involved in list option.
 
@@ -346,7 +346,7 @@ The following screenshot depicts the working of list option visually.
 .. code-block:: bash
 
 
- kevell@corp:/# dapperstrano nginxsbe list
+ kevell@corp:/# ptdeploy nginxsbe list
  What is your ServerBlock directory?
  /root/Nginxdir
  What is your Enabled Symlink ServerBlock directory?

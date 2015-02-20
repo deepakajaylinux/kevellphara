@@ -29,7 +29,7 @@
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
-    <link rel="up" title="Dapperstrano" href="Dapperstrano_main.html" />
+    <link rel="up" title="PTDeploy" href="ptdeploy_main.html" />
     <link rel="next" title="Run Command" href="run_command.html" />
     <link rel="prev" title="NginxSBEditor" href="nginxsbeditor.html" />
 
@@ -75,9 +75,9 @@
             <li class="dropdown">
   <a href="index.html" class="dropdown-toggle" data-toggle="dropdown">Site <b class="caret"></b></a>
   <ul class="dropdown-menu globaltoc"><ul class="current">
-<li class="toctree-l1"><a class="reference internal" href="cleopatra.html">Cleopatra</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ptconfigure_main.html">PTConfigure</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="ptdeploy_main.html">PTDeploy</a></li>
 <li class="toctree-l1"><a class="reference internal" href="phlagrant.html">Phlagrant</a></li>
-<li class="toctree-l1 current"><a class="reference internal" href="Dapperstrano_main.html">Dapperstrano</a></li>
 <li class="toctree-l1"><a class="reference internal" href="jrush_main.html">Jrush</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Testingkamen_main.html">Testingkamen</a></li>
 </ul>
@@ -138,10 +138,10 @@
 <div class="section" id="help-command">
 <h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>This command helps to determine the usage of project module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screen shot of the same.</p>
-<div class="highlight-bash"><div class="highlight"><pre>               dapperstrano project <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>               ptdeploy project <span class="nb">help</span>
 
 
-kevells@corp:/# dapperstrano Project <span class="nb">help</span>
+kevell@corp:/# ptdeploy Project <span class="nb">help</span>
 ******************************
 
 
@@ -153,20 +153,20 @@ kevells@corp:/# dapperstrano Project <span class="nb">help</span>
 
          - container
          make a container folder <span class="k">for</span> revisions <span class="o">(</span>like /var/www/applications/*APP NAME*<span class="o">)</span>
-         example: dapperstrano proj container
-         example: dapperstrano proj container --yes --proj-container<span class="o">=</span><span class="s2">&quot;/var/www/applications/the-app&quot;</span>
+         example: ptdeploy proj container
+         example: ptdeploy proj container --yes --proj-container<span class="o">=</span><span class="s2">&quot;/var/www/applications/the-app&quot;</span>
 
          - init
          initialize Dapper project
-         example: dapperstrano proj init
-         example: dapperstrano proj init --yes
+         example: ptdeploy proj init
+         example: ptdeploy proj init --yes
 
          - build-install
          copy jenkins project stored in repo to running jenkins so you can run builds
-         example: dapperstrano proj build-install
-         example: dapperstrano proj build-install
+         example: ptdeploy proj build-install
+         example: ptdeploy proj build-install
                        --jenkins-fs-dir<span class="o">=</span>/var/lib/jenkins <span class="c"># --guess will set this to /var/lib/jenkins</span>
-                       --original-build-dir<span class="o">=</span><span class="s2">&quot;/var/www/applications/the-app/build/config/cleopatra/Project/jenkins-builds&quot;</span>
+                       --original-build-dir<span class="o">=</span><span class="s2">&quot;/var/www/applications/the-app/build/config/ptconfigure/Project/jenkins-builds&quot;</span>
                        --target-job-name<span class="o">=</span><span class="s2">&quot;Project_Build&quot;</span>
                        --new-job-dir<span class="o">=</span><span class="s2">&quot;Project_Build_Alternate_Name&quot;</span>  <span class="c"># If target one is not available</span>
 
@@ -180,12 +180,12 @@ End Help
 <h2>Container<a class="headerlink" href="#container" title="Permalink to this headline">¶</a></h2>
 <p>This command helps make a container folder for revisions (like /var/www/applications/<em>APP NAME</em>).
 When the user needs to install, the user can issue the following commands for DBIstall. The system will execute the process of installation.</p>
-<div class="highlight-bash"><div class="highlight"><pre>                dapperstrano proj container
+<div class="highlight-bash"><div class="highlight"><pre>                ptdeploy proj container
 
-kevells@corp:/# dapperstrano proj container
+kevell@corp:/# ptdeploy proj container
 Do you want to Modify Project Container Settings? <span class="o">(</span>Y/N<span class="o">)</span>
 Y
-Do you want to initialize this as a dapperstrano project Container? <span class="o">(</span>Y/N<span class="o">)</span>
+Do you want to initialize this as a ptdeploy project Container? <span class="o">(</span>Y/N<span class="o">)</span>
 Y
 What is your Project Container directory?
 /root/gg
@@ -205,13 +205,13 @@ Seems Fine...Project Editor Finished
 <div class="section" id="init">
 <h2>init<a class="headerlink" href="#init" title="Permalink to this headline">¶</a></h2>
 <p>When the user needs to initialize dapper project, the user can issue the following commands. The system will execute the process.</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano proj init
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy proj init
 </pre></div>
 </div>
-<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# dapperstrano proj init
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptdeploy proj init
 Do you want to Modify Project Settings To initialise Project? <span class="o">(</span>Y/N<span class="o">)</span>
 Y
-Do you want to initialize this as a dapperstrano project? <span class="o">(</span>Y/N<span class="o">)</span>
+Do you want to initialize this as a ptdeploy project? <span class="o">(</span>Y/N<span class="o">)</span>
 Y
 ******************************
 
@@ -224,7 +224,7 @@ Seems Fine...Project Editor Finished
 <div class="section" id="build-install">
 <h2>Build-Install<a class="headerlink" href="#build-install" title="Permalink to this headline">¶</a></h2>
 <p>When the user needs copy Jenkins project stored in repo to running Jenkins, the user can issue the following commands. The system will execute the process.</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano proj build-install
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy proj build-install
 </pre></div>
 </div>
 </div>
@@ -232,7 +232,7 @@ Seems Fine...Project Editor Finished
 <h2>Alternative Parameter<a class="headerlink" href="#alternative-parameter" title="Permalink to this headline">¶</a></h2>
 <p>There are two alternative parameters which can be used in command.</p>
 <p>Project, project and proj</p>
-<p>eg: dapperstrano Project help/  dapperstrano proj help</p>
+<p>eg: ptdeploy Project help/  ptdeploy proj help</p>
 </div>
 <div class="section" id="benefits">
 <h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>

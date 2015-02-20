@@ -20,7 +20,7 @@ The help command is a brief and as well as interesting abstract to the user. It 
 
 .. code-block:: bash
 
-		dapperstrano Drupal help
+		ptdeploy Drupal help
 
 
 
@@ -29,7 +29,7 @@ After inputting the command given above, the user can view the display result of
 
 .. code-block:: bash
 
- kevell@corp:/# dapperstrano Drupal help
+ kevell@corp:/# ptdeploy Drupal help
  ******************************
 
 
@@ -42,13 +42,13 @@ After inputting the command given above, the user can view the display result of
   which are tailored to Drupal.
 
   // dapperfy - create our auto deploy files
-  dapperstrano dapperfy drupal --yes --guess
+  ptdeploy dapperfy drupal --yes --guess
 
   // builderfy - create templates to install build
-  sudo dapperstrano builderfy continuous --yes --jenkins-home="/var/lib/jenkins" --target-job-name="my-project-continuous" --project-description="This is the Continuous Delivery build for My Project" --primary-scm-url="http://146.185.129.66:8080/git/root/first-pharaoh-cd.git" --source-branch-spec="origin/master" --source-scm-url="http://146.185.129.66:8080/git/root/first-pharaoh-cd.git" --days-to-keep="-1" --amount-to-keep="10" --autopilot-test-invoke-install-file="build/config/dapperstrano/autopilots/tiny-staging-invoke-code-no-dbconf.php" --autopilot-prod-invoke-install-file="build/config/dapperstrano/autopilots/tiny-prod-invoke-code-no-dbconf.php" --error-email="phpengine@hotmail.co.uk" --only-autopilots
+  sudo ptdeploy builderfy continuous --yes --jenkins-home="/var/lib/jenkins" --target-job-name="my-project-continuous" --project-description="This is the Continuous Delivery build for My Project" --primary-scm-url="http://146.185.129.66:8080/git/root/first-pharaoh-cd.git" --source-branch-spec="origin/master" --source-scm-url="http://146.185.129.66:8080/git/root/first-pharaoh-cd.git" --days-to-keep="-1" --amount-to-keep="10" --autopilot-test-invoke-install-file="build/config/ptdeploy/autopilots/tiny-staging-invoke-code-no-dbconf.php" --autopilot-prod-invoke-install-file="build/config/ptdeploy/autopilots/tiny-prod-invoke-code-no-dbconf.php" --error-email="phpengine@hotmail.co.uk" --only-autopilots
 
   // execute the build creator
-  dapperstrano autopilot execute build/config/dapperstrano/builderfy/autopilots/tiny-jenkins-invoke-continuous.php
+  ptdeploy autopilot execute build/config/ptdeploy/builderfy/autopilots/tiny-jenkins-invoke-continuous.php
 
  ------------------------------
  End Help
@@ -61,7 +61,7 @@ Let us see about the different aspects of this module in dapperfying the drupal.
 
 .. code-block:: bash
 
- 		dapperstrano dapperfy drupal
+ 		ptdeploy dapperfy drupal
 
 
 After entering the command given above, the following details are enquired during execution as depicted from the table,
@@ -93,17 +93,17 @@ The following screenshot depicts visually about this process of dapperfying the 
 
 .. code-block:: bash
 
- kevell@corp:/# dapperstrano dapperfy drupal
+ kevell@corp:/# ptdeploy dapperfy drupal
  Dapperfy This for Drupal? (Y/N) 
  Y
  Use existing environment settings? (Y/N) 
  n
  Do you want to add another environment? (Y/N) 
  n
- //build/config/dapperstrano/dapperfy/autopilots/generated/Builderfy
- //build/config/dapperstrano/dapperfy/autopilots/generated/Dapperfy
- //build/config/dapperstrano/dapperfy/autopilots/generated/Builderfy
- //build/config/dapperstrano/dapperfy/autopilots/generated/Dapperfy
+ //build/config/ptdeploy/dapperfy/autopilots/generated/Builderfy
+ //build/config/ptdeploy/dapperfy/autopilots/generated/Dapperfy
+ //build/config/ptdeploy/dapperfy/autopilots/generated/Builderfy
+ //build/config/ptdeploy/dapperfy/autopilots/generated/Dapperfy
  ******************************
 
 
@@ -116,7 +116,7 @@ The second form of declaring the dapperfying of drupal is explained below, and t
 
 .. code-block:: bash
 
-	dapperstrano dapperfy drupal
+	ptdeploy dapperfy drupal
 
 After entering the command given above, the following details are enquired during execution as depicted from the table,
 
@@ -213,7 +213,7 @@ The following screenshot will give an pictorial representation for the steps exp
 
 .. code-block:: bash
 
- kevell@corp:/# dapperstrano dapperfy drupal
+ kevell@corp:/# ptdeploy dapperfy drupal
 
  Dapperfy This for Drupal? (Y/N) 
  Y
@@ -268,10 +268,10 @@ The following screenshot will give an pictorial representation for the steps exp
  
  Do you want to add another environment? (Y/N) 
  n
- //build/config/dapperstrano/dapperfy/autopilots/generated/Builderfy
- //build/config/dapperstrano/dapperfy/autopilots/generated/Dapperfy
- //build/config/dapperstrano/dapperfy/autopilots/generated/Builderfy
- //build/config/dapperstrano/dapperfy/autopilots/generated/Dapperfy
+ //build/config/ptdeploy/dapperfy/autopilots/generated/Builderfy
+ //build/config/ptdeploy/dapperfy/autopilots/generated/Dapperfy
+ //build/config/ptdeploy/dapperfy/autopilots/generated/Builderfy
+ //build/config/ptdeploy/dapperfy/autopilots/generated/Dapperfy
  ******************************
  
  
@@ -285,7 +285,7 @@ The third form of execution is explained from the upcoming steps. The command is
 
 .. code-block:: bash
 
-	dapperstrano dapperfy drupal
+	ptdeploy dapperfy drupal
 
 
 After entering the command given above, the following details are enquired during execution as depicted from the table,
@@ -355,7 +355,7 @@ The following screenshot will give an pictorial representation for the steps exp
 
 .. code-block:: bash
 
- kevell@corp:/# dapperstrano dapperfy drupal
+ kevell@corp:/# ptdeploy dapperfy drupal
  Dapperfy This for Drupal? (Y/N) 
  y
  Use existing environment settings? (Y/N) 
@@ -394,12 +394,12 @@ The following screenshot will give an pictorial representation for the steps exp
 
  Value for: DB Admin User Pass
 
- //build/config/dapperstrano/dapperfy/autopilots/generated/Builderfy
- //build/config/dapperstrano/dapperfy/autopilots/generated/Dapperfy
- //build/config/dapperstrano/dapperfy/autopilots/generated/Builderfy
- //build/config/dapperstrano/dapperfy/autopilots/generated/Dapperfy
- //build/config/dapperstrano/dapperfy/autopilots/generated/Builderfy
- //build/config/dapperstrano/dapperfy/autopilots/generated/Dapperfy
+ //build/config/ptdeploy/dapperfy/autopilots/generated/Builderfy
+ //build/config/ptdeploy/dapperfy/autopilots/generated/Dapperfy
+ //build/config/ptdeploy/dapperfy/autopilots/generated/Builderfy
+ //build/config/ptdeploy/dapperfy/autopilots/generated/Dapperfy
+ //build/config/ptdeploy/dapperfy/autopilots/generated/Builderfy
+ //build/config/ptdeploy/dapperfy/autopilots/generated/Dapperfy
  ******************************
 
 
@@ -414,7 +414,7 @@ The fourth type of dapperfying the drupal is explained below, and the command us
 
 .. code-block:: bash
 
-	dapperstrano dapperfy drupal
+	ptdeploy dapperfy drupal
 
 After entering the command given above, the following details are enquired during execution as depicted from the table,
 
@@ -451,17 +451,17 @@ The following screenshot depicts visually about this process of dapperfying the 
 
 .. code-block:: bash
 
- kevell@corp:/# dapperstrano dapperfy drupal
+ kevell@corp:/# ptdeploy dapperfy drupal
  Dapperfy This for Drupal? (Y/N) 
  y
  Use existing environment settings? (Y/N) 
  n
  Do you want to add another environment? (Y/N) 
  n
- //build/config/dapperstrano/dapperfy/autopilots/generated/Builderfy
- //build/config/dapperstrano/dapperfy/autopilots/generated/Dapperfy
- //build/config/dapperstrano/dapperfy/autopilots/generated/Builderfy
- //build/config/dapperstrano/dapperfy/autopilots/generated/Dapperfy
+ //build/config/ptdeploy/dapperfy/autopilots/generated/Builderfy
+ //build/config/ptdeploy/dapperfy/autopilots/generated/Dapperfy
+ //build/config/ptdeploy/dapperfy/autopilots/generated/Builderfy
+ //build/config/ptdeploy/dapperfy/autopilots/generated/Dapperfy
  ******************************
 
 

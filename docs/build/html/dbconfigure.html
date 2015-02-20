@@ -29,7 +29,7 @@
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
-    <link rel="up" title="Dapperstrano" href="Dapperstrano_main.html" />
+    <link rel="up" title="PTDeploy" href="ptdeploy_main.html" />
     <link rel="next" title="DBInstall" href="dbinstall.html" />
     <link rel="prev" title="Dapperfy" href="dapperfy.html" />
 
@@ -75,9 +75,9 @@
             <li class="dropdown">
   <a href="index.html" class="dropdown-toggle" data-toggle="dropdown">Site <b class="caret"></b></a>
   <ul class="dropdown-menu globaltoc"><ul class="current">
-<li class="toctree-l1"><a class="reference internal" href="cleopatra.html">Cleopatra</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ptconfigure_main.html">PTConfigure</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="ptdeploy_main.html">PTDeploy</a></li>
 <li class="toctree-l1"><a class="reference internal" href="phlagrant.html">Phlagrant</a></li>
-<li class="toctree-l1 current"><a class="reference internal" href="Dapperstrano_main.html">Dapperstrano</a></li>
 <li class="toctree-l1"><a class="reference internal" href="jrush_main.html">Jrush</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Testingkamen_main.html">Testingkamen</a></li>
 </ul>
@@ -136,15 +136,15 @@
 </div>
 <div class="section" id="help-command">
 <h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
-<p>The help command guides the user to handle database in dapperstrano. This help command guides the user to create a conf. This also reset the current database. Databases are used to support internal operations of organizations and to underpin online interactions with customers and suppliers. The help command for dbconfigure is shown below.</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano  DBConfigure <span class="nb">help</span>
+<p>The help command guides the user to handle database in ptdeploy. This help command guides the user to create a conf. This also reset the current database. Databases are used to support internal operations of organizations and to underpin online interactions with customers and suppliers. The help command for dbconfigure is shown below.</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy  DBConfigure <span class="nb">help</span>
 </pre></div>
 </div>
 <dl class="docutils">
 <dt>After inputs the above command, it starts functioning to handle database. It catechesis the functions in the screenshots.</dt>
 <dd>The following screen shot shows about DBConfigure.</dd>
 </dl>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# dapperstrano DBConfigure <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptdeploy DBConfigure <span class="nb">help</span>
 ******************************
 
 
@@ -154,13 +154,13 @@
 
      - configure, conf
      <span class="nb">set </span>up db user <span class="p">&amp;</span> pw <span class="k">for</span> a project, use admins to create new resources as needed.
-     example: dapperstrano db-conf conf drupal
-     example: dapperstrano db-conf conf --yes --platform<span class="o">=</span>joomla30 --mysql-host<span class="o">=</span>127.0.0.1 --mysql-admin-user<span class="o">=</span><span class="s2">&quot;&quot;</span> --mysql-user<span class="o">=</span><span class="s2">&quot;impi_dv_user&quot;</span> --mysql-pass<span class="o">=</span><span class="s2">&quot;impi_dv_pass&quot;</span> --mysql-db<span class="o">=</span><span class="s2">&quot;impi_dv_db&quot;</span>
+     example: ptdeploy db-conf conf drupal
+     example: ptdeploy db-conf conf --yes --platform<span class="o">=</span>joomla30 --mysql-host<span class="o">=</span>127.0.0.1 --mysql-admin-user<span class="o">=</span><span class="s2">&quot;&quot;</span> --mysql-user<span class="o">=</span><span class="s2">&quot;impi_dv_user&quot;</span> --mysql-pass<span class="o">=</span><span class="s2">&quot;impi_dv_pass&quot;</span> --mysql-db<span class="o">=</span><span class="s2">&quot;impi_dv_db&quot;</span>
 
      - reset
-     reset current db to generic values so dapperstrano can write them. may need to be run before db conf.
-     example: dapperstrano db-conf reset drupal
-     example: dapperstrano db-conf reset --yes --platform<span class="o">=</span>joomla30
+     reset current db to generic values so ptdeploy can write them. may need to be run before db conf.
+     example: ptdeploy db-conf reset drupal
+     example: ptdeploy db-conf reset --yes --platform<span class="o">=</span>joomla30
 </pre></div>
 </div>
 </div>
@@ -174,12 +174,12 @@
 <p>This process set up database user  and passward for a project. Also use admin to create new resources if they need . The following screen shot shows its function.</p>
 <div class="highlight-bash"><div class="highlight"><pre>- configure, conf
 <span class="nb">set </span>up db user <span class="p">&amp;</span> pw <span class="k">for</span> a project, use admins to create new resources as needed.
-example: dapperstrano db-conf conf drupal
-example: dapperstrano db-conf conf --yes --platform<span class="o">=</span>joomla30 --mysql-host<span class="o">=</span>127.0.0.1 --mysql-admin-user<span class="o">=</span><span class="s2">&quot;&quot;</span> --mysql-user<span class="o">=</span><span class="s2">&quot;impi_dv_user&quot;</span> --m      ysql-pass<span class="o">=</span><span class="s2">&quot;impi_dv_pass&quot;</span> --mysql-db<span class="o">=</span><span class="s2">&quot;impi_dv_db&quot;</span>
+example: ptdeploy db-conf conf drupal
+example: ptdeploy db-conf conf --yes --platform<span class="o">=</span>joomla30 --mysql-host<span class="o">=</span>127.0.0.1 --mysql-admin-user<span class="o">=</span><span class="s2">&quot;&quot;</span> --mysql-user<span class="o">=</span><span class="s2">&quot;impi_dv_user&quot;</span> --m          ysql-pass<span class="o">=</span><span class="s2">&quot;impi_dv_pass&quot;</span> --mysql-db<span class="o">=</span><span class="s2">&quot;impi_dv_db&quot;</span>
 </pre></div>
 </div>
 <p>The following command used to configure.</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano  db-conf Conf
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy  db-conf Conf
 </pre></div>
 </div>
 <p>After key in the above said command the following process can be functioned. It has been shown in the screen shots.</p>
@@ -187,16 +187,16 @@ example: dapperstrano db-conf conf --yes --platform<span class="o">=</span>jooml
 </div>
 <div class="section" id="reset">
 <h2>Reset<a class="headerlink" href="#reset" title="Permalink to this headline">¶</a></h2>
-<p>This process used to reset current database to generic values. In such cases dapperstrano can write before run database configuration. The name of the database can be input in the same command line itself.</p>
+<p>This process used to reset current database to generic values. In such cases ptdeploy can write before run database configuration. The name of the database can be input in the same command line itself.</p>
 <p>The following command used to reset.</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano  db-conf reset
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy  db-conf reset
 </pre></div>
 </div>
 <p>The  following screenshot shows the function of this process.</p>
 <div class="highlight-bash"><div class="highlight"><pre>- reset
-reset current db to generic values so dapperstrano can write them. may need to be run before db conf.
-example: dapperstrano db-conf reset drupal
-example: dapperstrano db-conf reset --yes --platform<span class="o">=</span>joomla30
+reset current db to generic values so ptdeploy can write them. may need to be run before db conf.
+example: ptdeploy db-conf reset drupal
+example: ptdeploy db-conf reset --yes --platform<span class="o">=</span>joomla30
 </pre></div>
 </div>
 </div>
@@ -217,7 +217,7 @@ example: dapperstrano db-conf reset --yes --platform<span class="o">=</span>joom
 <tbody valign="top">
 <tr class="row-even"><td>Do you want to configure a database?</td>
 <td>Yes</td>
-<td>Configured the database undder dapperstrano.</td>
+<td>Configured the database undder ptdeploy.</td>
 </tr>
 <tr class="row-odd"><td>Do you want to configure a database?</td>
 <td>No</td>

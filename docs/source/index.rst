@@ -14,8 +14,8 @@ Commands
    :maxdepth: 2
    
  ptconfigure_main
+ ptdeploy_main
  phlagrant
- ptdeploy_main 
  jrush_main
  Testingkamen_main
 

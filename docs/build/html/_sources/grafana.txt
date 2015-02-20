@@ -19,7 +19,7 @@ The help command guides the users regarding the purpose and as well as about the
 
 .. code-block:: bash
 
-		dapperstrano grafana help
+		ptdeploy grafana help
 
 The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under Grafana module.
 
@@ -31,7 +31,7 @@ The command used for installing the grafana modules in the users machine is show
 
 .. code-block:: bash
 	
-		dapperstrano grafana install
+		ptdeploy grafana install
 
 
 After inputting the command above, the following process occurs as shown in the tabular format.

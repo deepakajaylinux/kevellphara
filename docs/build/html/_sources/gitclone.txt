@@ -8,6 +8,7 @@ The ultimate aim of this module is to handle the check out functions. It can per
 user.
 
 The working nature of this module involves Cloning a repository into a newly created directory, creates remote-tracking branches for each branch in the cloned repository  and creates, checks out an initial branch that is forked from the cloned repository’s currently active branch.
+
 Let us see about how this module facilitates the users in handling the check out functions, and also about how to use this module from the upcoming topics.
 
 
@@ -19,7 +20,7 @@ The help command is a brief user manual. It highlights the primary function of t
 
 .. code-block:: bash
 
-		dapperstrano GitClone help
+		ptdeploy GitClone help
 
 
 The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under git clone.
@@ -27,7 +28,7 @@ The syntax for declaring the help command is not case sensitive which is an adde
 
 .. code-block:: bash
 
- kevell@corp:/# dapperstrano GitClone help
+ kevell@corp:/# ptdeploy GitClone help
  ******************************
 
 
@@ -37,8 +38,8 @@ The syntax for declaring the help command is not case sensitive which is an adde
 
           - perform a checkout into configured projects folder. If you don't want to specify target dir but do want
           to specify a branch, then enter the text "none" as that parameter.
-          example: dapperstrano git co https://github.com/phpengine/yourmum {optional target dir} {optional branch}
-          example: dapperstrano git co https://github.com/phpengine/yourmum none {optional branch}
+          example: ptdeploy git co https://github.com/phpengine/yourmum {optional target dir} {optional branch}
+          example: ptdeploy git co https://github.com/phpengine/yourmum none {optional branch}
 
  ------------------------------
  End Help
@@ -52,7 +53,7 @@ The syntax for using the check out functions under git clone is given below.
 
 .. code-block:: bash
 
-		dapperstrano git co https: // github.com/ phpengine/yourmum
+		ptdeploy git co https: // github.com/ phpengine/yourmum
 
 After entering the command given above, the execution of checkout function begins as described in the below table,
 

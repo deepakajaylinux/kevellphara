@@ -10,11 +10,11 @@ Help command
 -----------------------
 
 The help command leads the users regarding the purpose  and as well as about the options that are included in the apache virtualhost editor modules. The help command lists out the alternative parameters of apache virtualhost editor
-under dapperstrano module. It also describes the syntax for installing the user’s updation. The help command for apache virtualhost editor is shown below.
+under ptdeploy module. It also describes the syntax for installing the user’s updation. The help command for apache virtualhost editor is shown below.
 
 .. code-block:: bash
 
-		dapperstrano Apache virtualhost editor help
+		ptdeploy Apache virtualhost editor help
 
 The following screen shot shows the full effort of apache virtualhost editor.
 
@@ -22,7 +22,7 @@ The following screen shot shows the full effort of apache virtualhost editor.
 .. code-block:: bash
 
 
- kevell@corp:/# dapperstrano ApacheVHostEditor help
+ kevell@corp:/# ptdeploy ApacheVHostEditor help
  ******************************
 
 
@@ -32,9 +32,9 @@ The following screen shot shows the full effort of apache virtualhost editor.
 
           - add
           create a Virtual Host
-          example: sudo dapperstrano vhe add
-          example: sudo dapperstrano vhe add --yes --vhe-docroot=/var/www/the-app --vhe-url=www.dave.com --vhe-file-ext="" --vhe-apache-command="apache2" --vhe-ip-port="127.0.0.1:80" --vhe-vhost-dir="/etc/apache2/sites-available" --vhe-template="*template data*"
-          example: sudo dapperstrano vhe add --yes --guess --vhe-url=www.dave.com
+          example: sudo ptdeploy vhe add
+          example: sudo ptdeploy vhe add --yes --vhe-docroot=/var/www/the-app --vhe-url=www.dave.com --vhe-file-ext="" --vhe-apache-command="apache2" --vhe-ip-port="127.0.0.1:80" --vhe-vhost-dir="/etc/apache2/sites-available" --vhe-template="*template data*"
+          example: sudo ptdeploy vhe add --yes --guess --vhe-url=www.dave.com
               # will attempt to guess the following but you can override any
               # --vhe-docroot=*current working dir*
               # --vhe-file-ext="ubuntu none, others .conf"
@@ -46,9 +46,9 @@ The following screen shot shows the full effort of apache virtualhost editor.
 
           - add-balancer
           create a Virtual Host
-          example: sudo dapperstrano vhe add
-          example: sudo dapperstrano vhe add --yes --vhe-docroot=/var/www/the-app --vhe-url=www.dave.com --vhe-file-ext="" --vhe-apache-command="apache2" --vhe-ip-port="127.0.0.1:80" --vhe-vhost-dir="/etc/apache2/sites-available" --vhe-template="*template data*"
-          example: sudo dapperstrano vhe add --yes --guess --vhe-url=www.dave.com
+          example: sudo ptdeploy vhe add
+          example: sudo ptdeploy vhe add --yes --vhe-docroot=/var/www/the-app --vhe-url=www.dave.com --vhe-file-ext="" --vhe-apache-command="apache2" --vhe-ip-port="127.0.0.1:80" --vhe-vhost-dir="/etc/apache2/sites-available" --vhe-template="*template data*"
+          example: sudo ptdeploy vhe add --yes --guess --vhe-url=www.dave.com
               # will attempt to guess the following but you can override any
               # --vhe-docroot=*current working dir*
               # --vhe-file-ext="ubuntu none, others .conf"
@@ -59,22 +59,22 @@ The following screen shot shows the full effort of apache virtualhost editor.
               # --vhe-default-template-name="docroot-src-suffix" // from default templates
 
           - rm
-          example: dapperstrano vhe rm
-          example: dapperstrano vhe rm --yes --
-          example: dapperstrano vhe rm --yes --guess --vhe-deletion-vhost=www.site.com
-          example: dapperstrano vhe rm --yes --guess --vhe-deletion-vhost=www.site.com
+          example: ptdeploy vhe rm
+          example: ptdeploy vhe rm --yes --
+          example: ptdeploy vhe rm --yes --guess --vhe-deletion-vhost=www.site.com
+          example: ptdeploy vhe rm --yes --guess --vhe-deletion-vhost=www.site.com
 
           - list
           List current Virtual Hosts
-          example: dapperstrano vhe list
+          example: ptdeploy vhe list
 
           - enable
           enable a Server Block
-          example: dapperstrano vhe enable
+          example: ptdeploy vhe enable
 
           - disable
           disable a Server Block
-          example: dapperstrano vhe disable
+          example: ptdeploy vhe disable
 
  ------------------------------
  End Help
@@ -94,7 +94,7 @@ This command used to create a virtual host. Overriding is possible.  The followi
 
 .. code-block:: bash
 
-		sudo dapperstrano vhe add
+		sudo ptdeploy vhe add
 
 after inputting the above command it may ask the following,
 
@@ -107,9 +107,9 @@ The user has to input all the details one by one otherwise enter in the command 
 
  - add
           create a Virtual Host
-          example: sudo dapperstrano vhe add
-          example: sudo dapperstrano vhe add --yes --vhe-docroot=/var/www/the-app --vhe-url=www.dave.com --vhe-file-ext="" --vhe-apache-command="apache2" --vhe-ip-port="127.0.0.1:80" --vhe-vhost-dir="/etc/apache2/sites-available" --vhe-template="*template data*"
-          example: sudo dapperstrano vhe add --yes --guess --vhe-url=www.dave.com
+          example: sudo ptdeploy vhe add
+          example: sudo ptdeploy vhe add --yes --vhe-docroot=/var/www/the-app --vhe-url=www.dave.com --vhe-file-ext="" --vhe-apache-command="apache2" --vhe-ip-port="127.0.0.1:80" --vhe-vhost-dir="/etc/apache2/sites-available" --vhe-template="*template data*"
+          example: sudo ptdeploy vhe add --yes --guess --vhe-url=www.dave.com
               # will attempt to guess the following but you can override any
               # --vhe-docroot=*current working dir*
               # --vhe-file-ext="ubuntu none, others .conf"
@@ -128,7 +128,7 @@ This command used to create a virtual host. Overriding is possible.  There are t
 
 .. code-block:: bash
 
-		sudo dapperstrano vhe add
+		sudo ptdeploy vhe add
 
 after inputting the above command it may ask the following,
 
@@ -142,9 +142,9 @@ about it
 
  - add-balancer
           create a Virtual Host
-          example: sudo dapperstrano vhe add
-          example: sudo dapperstrano vhe add --yes --vhe-docroot=/var/www/the-app --vhe-url=www.dave.com --vhe-file-ext="" --vhe-apache-command="apache2" --vhe-ip-port="127.0.0.1:80" --vhe-vhost-dir="/etc/apache2/sites-available" --vhe-template="*template data*"
-          example: sudo dapperstrano vhe add --yes --guess --vhe-url=www.dave.com
+          example: sudo ptdeploy vhe add
+          example: sudo ptdeploy vhe add --yes --vhe-docroot=/var/www/the-app --vhe-url=www.dave.com --vhe-file-ext="" --vhe-apache-command="apache2" --vhe-ip-port="127.0.0.1:80" --vhe-vhost-dir="/etc/apache2/sites-available" --vhe-template="*template data*"
+          example: sudo ptdeploy vhe add --yes --guess --vhe-url=www.dave.com
               # will attempt to guess the following but you can override any
               # --vhe-docroot=*current working dir*
               # --vhe-file-ext="ubuntu none, others .conf"
@@ -162,7 +162,7 @@ This command used to delete a particular vhost. There are two ways to enter the 
 
 .. code-block:: bash
 
-	        dapperstrano vhe rm
+	        ptdeploy vhe rm
 
 The following screen shot shows the function of rm.
 
@@ -170,10 +170,10 @@ The following screen shot shows the function of rm.
 .. code-block:: bash
 
  - rm
-          example: dapperstrano vhe rm
-          example: dapperstrano vhe rm --yes --
-          example: dapperstrano vhe rm --yes --guess --vhe-deletion-vhost=www.site.com
-          example: dapperstrano vhe rm --yes --guess --vhe-deletion-vhost=www.site.com
+          example: ptdeploy vhe rm
+          example: ptdeploy vhe rm --yes --
+          example: ptdeploy vhe rm --yes --guess --vhe-deletion-vhost=www.site.com
+          example: ptdeploy vhe rm --yes --guess --vhe-deletion-vhost=www.site.com
 
 List
 --------
@@ -182,7 +182,7 @@ This command used to list the current virtual hosts. The following command used 
 
 .. code-block:: bash
 
-		dapperstrano vhe list
+		ptdeploy vhe list
 
 The screen shot shows the list function.
 
@@ -190,7 +190,7 @@ The screen shot shows the list function.
 
  - list
           List current Virtual Hosts
-          example: dapperstrano vhe list
+          example: ptdeploy vhe list
 
 
 Enable
@@ -200,7 +200,7 @@ Secure Boot is a feature designed to prevent malicious software and unauthorized
 
 .. code-block:: bash
    
-                dapperstrano vhe enable
+                ptdeploy vhe enable
 
 This option is enabled by default. This option allows the virtual host server enable. 
 
@@ -211,7 +211,7 @@ Assists module develop many of the enabling capabilities required to service hig
 
  - enable
           enable a Server Block
-          example: dapperstrano vhe enable
+          example: ptdeploy vhe enable
 
 
 
@@ -222,7 +222,7 @@ This disable used to disable the server. Inactive or idle virtual host editor co
 
 .. code-block:: bash
    
-                dapperstrano vhe disable
+                ptdeploy vhe disable
 
 After typing this command it can ask the user to disable the server. If the user inputs as yes it disable the server i.e. it won’t allow any body to work in that server.
 
@@ -233,7 +233,7 @@ The following screen shot visualize it evidently.
 
  - disable
           disable a Server Block
-          example: dapperstrano vhe disable
+          example: ptdeploy vhe disable
 
 
 

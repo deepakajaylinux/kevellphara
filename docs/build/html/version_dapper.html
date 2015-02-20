@@ -29,7 +29,7 @@
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
-    <link rel="up" title="Dapperstrano" href="Dapperstrano_main.html" />
+    <link rel="up" title="PTDeploy" href="ptdeploy_main.html" />
     <link rel="next" title="Wordpress" href="wordpress.html" />
     <link rel="prev" title="Templating" href="templatingdapper.html" />
 
@@ -75,9 +75,9 @@
             <li class="dropdown">
   <a href="index.html" class="dropdown-toggle" data-toggle="dropdown">Site <b class="caret"></b></a>
   <ul class="dropdown-menu globaltoc"><ul class="current">
-<li class="toctree-l1"><a class="reference internal" href="cleopatra.html">Cleopatra</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ptconfigure_main.html">PTConfigure</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="ptdeploy_main.html">PTDeploy</a></li>
 <li class="toctree-l1"><a class="reference internal" href="phlagrant.html">Phlagrant</a></li>
-<li class="toctree-l1 current"><a class="reference internal" href="Dapperstrano_main.html">Dapperstrano</a></li>
 <li class="toctree-l1"><a class="reference internal" href="jrush_main.html">Jrush</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Testingkamen_main.html">Testingkamen</a></li>
 </ul>
@@ -131,16 +131,16 @@
 <h1>Version<a class="headerlink" href="#version" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="synopsis">
 <h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
-<p>This module used to install updated version under dapperstrano. Version control  most commonly run as stand-alone applications, but revision control is also embedded in various types of operating system such as Ubuntu and Cent OS. Most version allow multiple developers to edit the same file at the same time. The first developer to &#8220;check in&#8221; changes to the central repository always succeeds. The system may provide facilities to merge further changes into the central repository, and preserve the changes from the first developer when other developers check in.It supports Ubuntu and CentOS.</p>
+<p>This module used to install updated version under ptdeploy. Version control  most commonly run as stand-alone applications, but revision control is also embedded in various types of operating system such as Ubuntu and Cent OS. Most version allow multiple developers to edit the same file at the same time. The first developer to &#8220;check in&#8221; changes to the central repository always succeeds. The system may provide facilities to merge further changes into the central repository, and preserve the changes from the first developer when other developers check in.It supports Ubuntu and CentOS.</p>
 </div>
 <div class="section" id="help-command">
 <h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
-<p>The help command leads the users regarding the version of the dapperstrano. The options that are included in the version modules. The help command lists out the alternative parameters of version under dapperstrano module. It also describes the syntax for version. The help command for version is shown below.</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano  version <span class="nb">help</span>
+<p>The help command leads the users regarding the version of the ptdeploy. The options that are included in the version modules. The help command lists out the alternative parameters of version under ptdeploy module. It also describes the syntax for version. The help command for version is shown below.</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy  version <span class="nb">help</span>
 </pre></div>
 </div>
-<p>The following screen shot shows the full effort of dapperstrano.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# dapperstrano Version <span class="nb">help</span>
+<p>The following screen shot shows the full effort of ptdeploy.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptdeploy Version <span class="nb">help</span>
 ******************************
 
 
@@ -150,21 +150,21 @@
 
          - specific
          Will change back the *current* symlink to whichever available version you pick
-         example: dapperstrano version specific --limit<span class="o">=</span><span class="m">4</span> --container<span class="o">=</span>/var/www/applications/the-app --version<span class="o">=</span>2
+         example: ptdeploy version specific --limit<span class="o">=</span><span class="m">4</span> --container<span class="o">=</span>/var/www/applications/the-app --version<span class="o">=</span>2
 
          - latest
          Will change back the *current* symlink to the latest created version
-         example: dapperstrano version latest
-         example: dapperstrano version latest --limit<span class="o">=</span><span class="m">3</span> --container<span class="o">=</span>/var/www/applications/the-app
+         example: ptdeploy version latest
+         example: ptdeploy version latest --limit<span class="o">=</span><span class="m">3</span> --container<span class="o">=</span>/var/www/applications/the-app
 
          - rollback
          Will change back the *current* symlink to the latest created version but one
-         example: dapperstrano version rollback
-         example: dapperstrano version rollback --limit<span class="o">=</span><span class="m">3</span> --container<span class="o">=</span>/var/www/applications/the-app
+         example: ptdeploy version rollback
+         example: ptdeploy version rollback --limit<span class="o">=</span><span class="m">3</span> --container<span class="o">=</span>/var/www/applications/the-app
 
 
      You can also apply a limit to the number of Versions to keep by using the --limit parameter
-         example: dapperstrano version latest --limit<span class="o">=</span>3
+         example: ptdeploy version latest --limit<span class="o">=</span>3
 
 ------------------------------
 End Help
@@ -179,8 +179,8 @@ End Help
 </div>
 <div class="section" id="installation">
 <h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
-<p>Installation includes installation of version required to make the installation in an updated version. It is a manifest process to install version module under dapperstrano. version by just using the command given below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano version Install
+<p>Installation includes installation of version required to make the installation in an updated version. It is a manifest process to install version module under ptdeploy. version by just using the command given below,</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy version Install
 </pre></div>
 </div>
 <p>After vitalize the command it will catechize input.</p>
@@ -208,7 +208,7 @@ End Help
 <td>Instead of using version the user
 can use Version,VERSION</td>
 <td>Installed successfully
-under dapperstrano module</td>
+under ptdeploy module</td>
 </tr>
 <tr class="row-odd"><td>Install version?(Y/N)</td>
 <td>No</td>

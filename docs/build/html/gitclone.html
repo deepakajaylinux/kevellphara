@@ -29,7 +29,7 @@
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
-    <link rel="up" title="Dapperstrano" href="Dapperstrano_main.html" />
+    <link rel="up" title="PTDeploy" href="ptdeploy_main.html" />
     <link rel="next" title="Grafana" href="grafana.html" />
     <link rel="prev" title="EnvironmentConfig" href="environmentconfigdapper.html" />
 
@@ -75,9 +75,9 @@
             <li class="dropdown">
   <a href="index.html" class="dropdown-toggle" data-toggle="dropdown">Site <b class="caret"></b></a>
   <ul class="dropdown-menu globaltoc"><ul class="current">
-<li class="toctree-l1"><a class="reference internal" href="cleopatra.html">Cleopatra</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ptconfigure_main.html">PTConfigure</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="ptdeploy_main.html">PTDeploy</a></li>
 <li class="toctree-l1"><a class="reference internal" href="phlagrant.html">Phlagrant</a></li>
-<li class="toctree-l1 current"><a class="reference internal" href="Dapperstrano_main.html">Dapperstrano</a></li>
 <li class="toctree-l1"><a class="reference internal" href="jrush_main.html">Jrush</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Testingkamen_main.html">Testingkamen</a></li>
 </ul>
@@ -131,17 +131,17 @@
 <h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
 <p>The ultimate aim of this module is to handle the check out functions. It can perform the check out functions into the project folder of the
 user.</p>
-<p>The working nature of this module involves Cloning a repository into a newly created directory, creates remote-tracking branches for each branch in the cloned repository  and creates, checks out an initial branch that is forked from the cloned repository’s currently active branch.
-Let us see about how this module facilitates the users in handling the check out functions, and also about how to use this module from the upcoming topics.</p>
+<p>The working nature of this module involves Cloning a repository into a newly created directory, creates remote-tracking branches for each branch in the cloned repository  and creates, checks out an initial branch that is forked from the cloned repository’s currently active branch.</p>
+<p>Let us see about how this module facilitates the users in handling the check out functions, and also about how to use this module from the upcoming topics.</p>
 </div>
 <div class="section" id="help-command">
 <h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>The help command is a brief user manual. It highlights the primary function of this module, lists outs the alternative parameters that can be used in the declaration, and also explains about the syntax and possible options of using the check out functions under an single option by using help command as shown below,</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano GitClone <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy GitClone <span class="nb">help</span>
 </pre></div>
 </div>
 <p>The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under git clone.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# dapperstrano GitClone help
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptdeploy GitClone help
 ******************************
 
 
@@ -151,8 +151,8 @@ Let us see about how this module facilitates the users in handling the check out
 
          - perform a checkout into configured projects folder. If you don&#39;t want to specify target dir but do want
          to specify a branch, then enter the text &quot;none&quot; as that parameter.
-         example: dapperstrano git co https://github.com/phpengine/yourmum {optional target dir} {optional branch}
-         example: dapperstrano git co https://github.com/phpengine/yourmum none {optional branch}
+         example: ptdeploy git co https://github.com/phpengine/yourmum {optional target dir} {optional branch}
+         example: ptdeploy git co https://github.com/phpengine/yourmum none {optional branch}
 
 ------------------------------
 End Help
@@ -163,7 +163,7 @@ End Help
 <div class="section" id="how-to-use-the-checkout-functions">
 <h2>How to Use the checkout functions<a class="headerlink" href="#how-to-use-the-checkout-functions" title="Permalink to this headline">¶</a></h2>
 <p>The syntax for using the check out functions under git clone is given below.</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano git co https: // github.com/ phpengine/yourmum
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy git co https: // github.com/ phpengine/yourmum
 </pre></div>
 </div>
 <p>After entering the command given above, the execution of checkout function begins as described in the below table,</p>

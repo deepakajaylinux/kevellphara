@@ -6,7 +6,7 @@ Templating
 Synopsis
 ---------------
 
-The term templating when used in the context of dapperstrano file format refers to a common feature of many software applications that define a unique non-executable file format intended specifically for that particular application.
+The term templating when used in the context of ptdeploy file format refers to a common feature of many software applications that define a unique non-executable file format intended specifically for that particular application.
 
 Templating formats are those whose file indicates that the file type is intended as a very high starting point from which to create other 
 files.
@@ -16,11 +16,11 @@ These types of files are usually installed templating  file  with new values. It
 Help command
 ------------------------
 
-The help command leads the users regarding the purpose and as well as about the options that are included in the template modules. The help command lists out the alternative parameters of templating under Dapperstrano module. It also describes the syntax for detecting the user’s machine. The help command for templating is shown below.
+The help command leads the users regarding the purpose and as well as about the options that are included in the template modules. The help command lists out the alternative parameters of templating under ptdeploy module. It also describes the syntax for detecting the user’s machine. The help command for templating is shown below.
 
 .. code-block:: bash
 
-		dapperstrano templating help
+		ptdeploy templating help
 
 
 The following screenshot explains about templating.
@@ -28,7 +28,7 @@ The following screenshot explains about templating.
 
 .. code-block:: bash
 
- kevell@corp:/# dapperstrano templating help
+ kevell@corp:/# ptdeploy templating help
  ******************************
 
 
@@ -38,7 +38,7 @@ The following screenshot explains about templating.
 
         - install
         Installs a template
-        example: cleopatra template install
+        example: ptconfigure template install
 
  ------------------------------
  End Help
@@ -48,18 +48,18 @@ The following screenshot explains about templating.
 Installation
 ----------------
 
-In dapperstrano context, templating refers to creating a single virtual machine image as a guest operating system, then saving it as a tool for multiple running virtual machines. The technique is used to install both in virtualization and cloud computing management, and is common in large server warehouses. The following command helps the user to install templating.
+In ptdeploy context, templating refers to creating a single virtual machine image as a guest operating system, then saving it as a tool for multiple running virtual machines. The technique is used to install both in virtualization and cloud computing management, and is common in large server warehouses. The following command helps the user to install templating.
 
 .. code-block:: bash
 
-		dapperstrano templating install
+		ptdeploy templating install
 
 The following screen shot guides the user to install.
 
 
 .. code-block:: bash
 
- kevell@corp:/# dapperstrano templating install
+ kevell@corp:/# ptdeploy templating install
 
  Install Templating Functionality? (Y/N) 
  Y
@@ -93,7 +93,7 @@ Option
  +-----------------------------------+-----------------+------------------------------------------------------------+
  | Parameters	       		     | Syntax	       | Comments						    |
  +===================================+=================+============================================================+
- |Install templating functionality?  | Yes	       | Templating can be installed under dapperstrano.  	    |
+ |Install templating functionality?  | Yes	       | Templating can be installed under ptdeploy.  	            |
  +-----------------------------------+-----------------+------------------------------------------------------------+
  |Install templating functionality?  | No	       | It can exit the screen|				    |
  +-----------------------------------+-----------------+------------------------------------------------------------+

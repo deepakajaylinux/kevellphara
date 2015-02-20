@@ -12,30 +12,30 @@ We take the hassle out of user technology. In today's competitive business envir
 Help command
 ------------------------
 
-The help command leads the users regarding the purpose and as well as about the options that are included in the autopilot modules. The help command lists out the alternative parameters of dapperstrano autopilot module. It also describes the syntax for detecting the user’s machine. The help command for autopilot  shown below.
+The help command leads the users regarding the purpose and as well as about the options that are included in the autopilot modules. The help command lists out the alternative parameters of ptdeploy autopilot module. It also describes the syntax for detecting the user’s machine. The help command for autopilot  shown below.
 
 .. code-block:: bash
 
-		dapperstrano autopilot help
+		ptdeploy autopilot help
 
 The following screenshot shows the functionality of autopilot.
 
 
 .. code-block:: bash
 
- kevell@corp:/# dapperstrano Autopilot help
+ kevell@corp:/# ptdeploy Autopilot help
  ******************************
 
 
   This command is part of a default Module and provides you with a method by which you can perform user defined
-  executions of any Dapperstrano Modules, in any order, and with your own predefined settings.
+  executions of any ptdeploy Modules, in any order, and with your own predefined settings.
 
   Autopilot, autopilot, auto
 
     - install, execute, x
     execute all of the defined modules in your Autopilot file
-    example: dapperstrano autopilot install --autopilot-file=*path-to-file*
-    example: dapperstrano auto x --af=*path-to-file*
+    example: ptdeploy autopilot install --autopilot-file=*path-to-file*
+    example: ptdeploy auto x --af=*path-to-file*
 
  ------------------------------
  End Help
@@ -54,7 +54,7 @@ Autopilot act as a default module and also provides user defined executions. The
 
 .. code-block:: bash
 
-		dapperstrano autopilot install
+		ptdeploy autopilot install
 
 After input as the above said command it starts installation. The following snap shots guides the user about autopilot installation.
 
@@ -69,7 +69,7 @@ Options
  | Parameters		   | Alternate parameter		   | Comments				     |
  +=========================+=======================================+=========================================+
  |Install autopilot	   | Instead of using autopilot the user   | Autopilot can be installed under        |
- |			   | can use Autopilot, autopilot,auto     | Dapperstrano.|			     |
+ |			   | can use Autopilot, autopilot,auto     | ptdeploy.|			             |
  +-------------------------+---------------------------------------+-----------------------------------------+
 
 

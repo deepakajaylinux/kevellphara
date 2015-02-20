@@ -29,7 +29,7 @@
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
-    <link rel="up" title="Dapperstrano" href="Dapperstrano_main.html" />
+    <link rel="up" title="PTDeploy" href="ptdeploy_main.html" />
     <link rel="next" title="Autopilot" href="autopilot.html" />
     <link rel="prev" title="Apache Control" href="apachecontrol.html" />
 
@@ -75,9 +75,9 @@
             <li class="dropdown">
   <a href="index.html" class="dropdown-toggle" data-toggle="dropdown">Site <b class="caret"></b></a>
   <ul class="dropdown-menu globaltoc"><ul class="current">
-<li class="toctree-l1"><a class="reference internal" href="cleopatra.html">Cleopatra</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ptconfigure_main.html">PTConfigure</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="ptdeploy_main.html">PTDeploy</a></li>
 <li class="toctree-l1"><a class="reference internal" href="phlagrant.html">Phlagrant</a></li>
-<li class="toctree-l1 current"><a class="reference internal" href="Dapperstrano_main.html">Dapperstrano</a></li>
 <li class="toctree-l1"><a class="reference internal" href="jrush_main.html">Jrush</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Testingkamen_main.html">Testingkamen</a></li>
 </ul>
@@ -140,12 +140,12 @@
 <div class="section" id="help-command">
 <h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
 <p>The help command leads the users regarding the purpose  and as well as about the options that are included in the apache virtualhost editor modules. The help command lists out the alternative parameters of apache virtualhost editor
-under dapperstrano module. It also describes the syntax for installing the user’s updation. The help command for apache virtualhost editor is shown below.</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano Apache virtualhost editor <span class="nb">help</span>
+under ptdeploy module. It also describes the syntax for installing the user’s updation. The help command for apache virtualhost editor is shown below.</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy Apache virtualhost editor <span class="nb">help</span>
 </pre></div>
 </div>
 <p>The following screen shot shows the full effort of apache virtualhost editor.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# dapperstrano ApacheVHostEditor <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptdeploy ApacheVHostEditor <span class="nb">help</span>
 ******************************
 
 
@@ -155,9 +155,9 @@ under dapperstrano module. It also describes the syntax for installing the user�
 
          - add
          create a Virtual Host
-         example: sudo dapperstrano vhe add
-         example: sudo dapperstrano vhe add --yes --vhe-docroot<span class="o">=</span>/var/www/the-app --vhe-url<span class="o">=</span>www.dave.com --vhe-file-ext<span class="o">=</span><span class="s2">&quot;&quot;</span> --vhe-apache-command<span class="o">=</span><span class="s2">&quot;apache2&quot;</span> --vhe-ip-port<span class="o">=</span><span class="s2">&quot;127.0.0.1:80&quot;</span> --vhe-vhost-dir<span class="o">=</span><span class="s2">&quot;/etc/apache2/sites-available&quot;</span> --vhe-template<span class="o">=</span><span class="s2">&quot;*template data*&quot;</span>
-         example: sudo dapperstrano vhe add --yes --guess --vhe-url<span class="o">=</span>www.dave.com
+         example: sudo ptdeploy vhe add
+         example: sudo ptdeploy vhe add --yes --vhe-docroot<span class="o">=</span>/var/www/the-app --vhe-url<span class="o">=</span>www.dave.com --vhe-file-ext<span class="o">=</span><span class="s2">&quot;&quot;</span> --vhe-apache-command<span class="o">=</span><span class="s2">&quot;apache2&quot;</span> --vhe-ip-port<span class="o">=</span><span class="s2">&quot;127.0.0.1:80&quot;</span> --vhe-vhost-dir<span class="o">=</span><span class="s2">&quot;/etc/apache2/sites-available&quot;</span> --vhe-template<span class="o">=</span><span class="s2">&quot;*template data*&quot;</span>
+         example: sudo ptdeploy vhe add --yes --guess --vhe-url<span class="o">=</span>www.dave.com
              <span class="c"># will attempt to guess the following but you can override any</span>
              <span class="c"># --vhe-docroot=*current working dir*</span>
              <span class="c"># --vhe-file-ext=&quot;ubuntu none, others .conf&quot;</span>
@@ -169,9 +169,9 @@ under dapperstrano module. It also describes the syntax for installing the user�
 
          - add-balancer
          create a Virtual Host
-         example: sudo dapperstrano vhe add
-         example: sudo dapperstrano vhe add --yes --vhe-docroot<span class="o">=</span>/var/www/the-app --vhe-url<span class="o">=</span>www.dave.com --vhe-file-ext<span class="o">=</span><span class="s2">&quot;&quot;</span> --vhe-apache-command<span class="o">=</span><span class="s2">&quot;apache2&quot;</span> --vhe-ip-port<span class="o">=</span><span class="s2">&quot;127.0.0.1:80&quot;</span> --vhe-vhost-dir<span class="o">=</span><span class="s2">&quot;/etc/apache2/sites-available&quot;</span> --vhe-template<span class="o">=</span><span class="s2">&quot;*template data*&quot;</span>
-         example: sudo dapperstrano vhe add --yes --guess --vhe-url<span class="o">=</span>www.dave.com
+         example: sudo ptdeploy vhe add
+         example: sudo ptdeploy vhe add --yes --vhe-docroot<span class="o">=</span>/var/www/the-app --vhe-url<span class="o">=</span>www.dave.com --vhe-file-ext<span class="o">=</span><span class="s2">&quot;&quot;</span> --vhe-apache-command<span class="o">=</span><span class="s2">&quot;apache2&quot;</span> --vhe-ip-port<span class="o">=</span><span class="s2">&quot;127.0.0.1:80&quot;</span> --vhe-vhost-dir<span class="o">=</span><span class="s2">&quot;/etc/apache2/sites-available&quot;</span> --vhe-template<span class="o">=</span><span class="s2">&quot;*template data*&quot;</span>
+         example: sudo ptdeploy vhe add --yes --guess --vhe-url<span class="o">=</span>www.dave.com
              <span class="c"># will attempt to guess the following but you can override any</span>
              <span class="c"># --vhe-docroot=*current working dir*</span>
              <span class="c"># --vhe-file-ext=&quot;ubuntu none, others .conf&quot;</span>
@@ -182,22 +182,22 @@ under dapperstrano module. It also describes the syntax for installing the user�
              <span class="c"># --vhe-default-template-name=&quot;docroot-src-suffix&quot; // from default templates</span>
 
          - rm
-         example: dapperstrano vhe rm
-         example: dapperstrano vhe rm --yes --
-         example: dapperstrano vhe rm --yes --guess --vhe-deletion-vhost<span class="o">=</span>www.site.com
-         example: dapperstrano vhe rm --yes --guess --vhe-deletion-vhost<span class="o">=</span>www.site.com
+         example: ptdeploy vhe rm
+         example: ptdeploy vhe rm --yes --
+         example: ptdeploy vhe rm --yes --guess --vhe-deletion-vhost<span class="o">=</span>www.site.com
+         example: ptdeploy vhe rm --yes --guess --vhe-deletion-vhost<span class="o">=</span>www.site.com
 
          - list
          List current Virtual Hosts
-         example: dapperstrano vhe list
+         example: ptdeploy vhe list
 
          - <span class="nb">enable</span>
 <span class="nb">         enable </span>a Server Block
-         example: dapperstrano vhe <span class="nb">enable</span>
+         example: ptdeploy vhe <span class="nb">enable</span>
 
          - disable
          disable a Server Block
-         example: dapperstrano vhe disable
+         example: ptdeploy vhe disable
 
 ------------------------------
 End Help
@@ -213,7 +213,7 @@ End Help
 <div class="section" id="add">
 <h2>Add<a class="headerlink" href="#add" title="Permalink to this headline">¶</a></h2>
 <p>This command used to create a virtual host. Overriding is possible.  The following command can be adopted for creating a virtual host editor.</p>
-<div class="highlight-bash"><div class="highlight"><pre>sudo dapperstrano vhe add
+<div class="highlight-bash"><div class="highlight"><pre>sudo ptdeploy vhe add
 </pre></div>
 </div>
 <p>after inputting the above command it may ask the following,</p>
@@ -221,9 +221,9 @@ End Help
 <p>The user has to input all the details one by one otherwise enter in the command line itself. The following screen shot explains about it</p>
 <div class="highlight-bash"><div class="highlight"><pre>- add
          create a Virtual Host
-         example: sudo dapperstrano vhe add
-         example: sudo dapperstrano vhe add --yes --vhe-docroot<span class="o">=</span>/var/www/the-app --vhe-url<span class="o">=</span>www.dave.com --vhe-file-ext<span class="o">=</span><span class="s2">&quot;&quot;</span> --vhe-apache-command<span class="o">=</span><span class="s2">&quot;apache2&quot;</span> --vhe-ip-port<span class="o">=</span><span class="s2">&quot;127.0.0.1:80&quot;</span> --vhe-vhost-dir<span class="o">=</span><span class="s2">&quot;/etc/apache2/sites-available&quot;</span> --vhe-template<span class="o">=</span><span class="s2">&quot;*template data*&quot;</span>
-         example: sudo dapperstrano vhe add --yes --guess --vhe-url<span class="o">=</span>www.dave.com
+         example: sudo ptdeploy vhe add
+         example: sudo ptdeploy vhe add --yes --vhe-docroot<span class="o">=</span>/var/www/the-app --vhe-url<span class="o">=</span>www.dave.com --vhe-file-ext<span class="o">=</span><span class="s2">&quot;&quot;</span> --vhe-apache-command<span class="o">=</span><span class="s2">&quot;apache2&quot;</span> --vhe-ip-port<span class="o">=</span><span class="s2">&quot;127.0.0.1:80&quot;</span> --vhe-vhost-dir<span class="o">=</span><span class="s2">&quot;/etc/apache2/sites-available&quot;</span> --vhe-template<span class="o">=</span><span class="s2">&quot;*template data*&quot;</span>
+         example: sudo ptdeploy vhe add --yes --guess --vhe-url<span class="o">=</span>www.dave.com
              <span class="c"># will attempt to guess the following but you can override any</span>
              <span class="c"># --vhe-docroot=*current working dir*</span>
              <span class="c"># --vhe-file-ext=&quot;ubuntu none, others .conf&quot;</span>
@@ -238,7 +238,7 @@ End Help
 <div class="section" id="add-balancer">
 <h2>Add- Balancer<a class="headerlink" href="#add-balancer" title="Permalink to this headline">¶</a></h2>
 <p>This command used to create a virtual host. Overriding is possible.  There are two ways to enter the input. In simple way the user can give vhe add. The second way along with the command host path name can be mentioned. The following command can be adopted for creating a virtual host editor.</p>
-<div class="highlight-bash"><div class="highlight"><pre>sudo dapperstrano vhe add
+<div class="highlight-bash"><div class="highlight"><pre>sudo ptdeploy vhe add
 </pre></div>
 </div>
 <p>after inputting the above command it may ask the following,</p>
@@ -247,9 +247,9 @@ End Help
 about it</p>
 <div class="highlight-bash"><div class="highlight"><pre>- add-balancer
          create a Virtual Host
-         example: sudo dapperstrano vhe add
-         example: sudo dapperstrano vhe add --yes --vhe-docroot<span class="o">=</span>/var/www/the-app --vhe-url<span class="o">=</span>www.dave.com --vhe-file-ext<span class="o">=</span><span class="s2">&quot;&quot;</span> --vhe-apache-command<span class="o">=</span><span class="s2">&quot;apache2&quot;</span> --vhe-ip-port<span class="o">=</span><span class="s2">&quot;127.0.0.1:80&quot;</span> --vhe-vhost-dir<span class="o">=</span><span class="s2">&quot;/etc/apache2/sites-available&quot;</span> --vhe-template<span class="o">=</span><span class="s2">&quot;*template data*&quot;</span>
-         example: sudo dapperstrano vhe add --yes --guess --vhe-url<span class="o">=</span>www.dave.com
+         example: sudo ptdeploy vhe add
+         example: sudo ptdeploy vhe add --yes --vhe-docroot<span class="o">=</span>/var/www/the-app --vhe-url<span class="o">=</span>www.dave.com --vhe-file-ext<span class="o">=</span><span class="s2">&quot;&quot;</span> --vhe-apache-command<span class="o">=</span><span class="s2">&quot;apache2&quot;</span> --vhe-ip-port<span class="o">=</span><span class="s2">&quot;127.0.0.1:80&quot;</span> --vhe-vhost-dir<span class="o">=</span><span class="s2">&quot;/etc/apache2/sites-available&quot;</span> --vhe-template<span class="o">=</span><span class="s2">&quot;*template data*&quot;</span>
+         example: sudo ptdeploy vhe add --yes --guess --vhe-url<span class="o">=</span>www.dave.com
              <span class="c"># will attempt to guess the following but you can override any</span>
              <span class="c"># --vhe-docroot=*current working dir*</span>
              <span class="c"># --vhe-file-ext=&quot;ubuntu none, others .conf&quot;</span>
@@ -264,56 +264,56 @@ about it</p>
 <div class="section" id="remove">
 <h2>Remove<a class="headerlink" href="#remove" title="Permalink to this headline">¶</a></h2>
 <p>This command used to delete a particular vhost. There are two ways to enter the input. In simple way the user can give vhe remove(rm). The second way along with the command host path name can be mentioned. The following command is used to remove the host name.</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano vhe rm
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy vhe rm
 </pre></div>
 </div>
 <p>The following screen shot shows the function of rm.</p>
 <div class="highlight-bash"><div class="highlight"><pre>- rm
-         example: dapperstrano vhe rm
-         example: dapperstrano vhe rm --yes --
-         example: dapperstrano vhe rm --yes --guess --vhe-deletion-vhost<span class="o">=</span>www.site.com
-         example: dapperstrano vhe rm --yes --guess --vhe-deletion-vhost<span class="o">=</span>www.site.com
+         example: ptdeploy vhe rm
+         example: ptdeploy vhe rm --yes --
+         example: ptdeploy vhe rm --yes --guess --vhe-deletion-vhost<span class="o">=</span>www.site.com
+         example: ptdeploy vhe rm --yes --guess --vhe-deletion-vhost<span class="o">=</span>www.site.com
 </pre></div>
 </div>
 </div>
 <div class="section" id="list">
 <h2>List<a class="headerlink" href="#list" title="Permalink to this headline">¶</a></h2>
 <p>This command used to list the current virtual hosts. The following command used to list the virtual hosts.</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano vhe list
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy vhe list
 </pre></div>
 </div>
 <p>The screen shot shows the list function.</p>
 <div class="highlight-bash"><div class="highlight"><pre>- list
          List current Virtual Hosts
-         example: dapperstrano vhe list
+         example: ptdeploy vhe list
 </pre></div>
 </div>
 </div>
 <div class="section" id="enable">
 <h2>Enable<a class="headerlink" href="#enable" title="Permalink to this headline">¶</a></h2>
 <p>Secure Boot is a feature designed to prevent malicious software and unauthorized media from loading during the boot process. This enable option enabled the server block. In virtual host when the used typed the following command,</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano vhe <span class="nb">enable</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy vhe <span class="nb">enable</span>
 </pre></div>
 </div>
 <p>This option is enabled by default. This option allows the virtual host server enable.</p>
 <p>Assists module develop many of the enabling capabilities required to service high performing environments through our understanding of the interdependencies between people, process and technology. The following screen shot explains the same.</p>
 <div class="highlight-bash"><div class="highlight"><pre>- <span class="nb">enable</span>
 <span class="nb">         enable </span>a Server Block
-         example: dapperstrano vhe <span class="nb">enable</span>
+         example: ptdeploy vhe <span class="nb">enable</span>
 </pre></div>
 </div>
 </div>
 <div class="section" id="disable">
 <h2>Disable<a class="headerlink" href="#disable" title="Permalink to this headline">¶</a></h2>
 <p>This disable used to disable the server. Inactive or idle virtual host editor connections are normally disconnected by the server after a certain period of time. The following command is used to disable the virtual host editor.</p>
-<div class="highlight-bash"><div class="highlight"><pre>dapperstrano vhe disable
+<div class="highlight-bash"><div class="highlight"><pre>ptdeploy vhe disable
 </pre></div>
 </div>
 <p>After typing this command it can ask the user to disable the server. If the user inputs as yes it disable the server i.e. it won’t allow any body to work in that server.</p>
 <p>The following screen shot visualize it evidently.</p>
 <div class="highlight-bash"><div class="highlight"><pre>- disable
          disable a Server Block
-         example: dapperstrano vhe disable
+         example: ptdeploy vhe disable
 </pre></div>
 </div>
 </div>

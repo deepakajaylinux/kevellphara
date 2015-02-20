@@ -185,7 +185,7 @@ If the user input as N, it can be terminated. The following screenshots shows it
 
 .. code-block:: bash
 
- kevells@corp:/# ptconfigure sftp get
+ kevell@corp:/# ptconfigure sftp get
  SFTP on Server group? (Y/N) 
  N
  ******************************

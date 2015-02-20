@@ -13,11 +13,13 @@ Commands
 .. toctree::
    :maxdepth: 2
    
+
+ jrush_main
  ptconfigure_main
  ptdeploy_main
  pttest_main
  ptvirtualize_main
- jrush_main
+
 
 Indices and tables
 ==================

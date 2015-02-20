@@ -75,11 +75,11 @@
             <li class="dropdown">
   <a href="index.html" class="dropdown-toggle" data-toggle="dropdown">Site <b class="caret"></b></a>
   <ul class="dropdown-menu globaltoc"><ul class="current">
-<li class="toctree-l1"><a class="reference internal" href="cleopatra.html">Cleopatra</a></li>
-<li class="toctree-l1"><a class="reference internal" href="phlagrant.html">Phlagrant</a></li>
-<li class="toctree-l1"><a class="reference internal" href="Dapperstrano_main.html">Dapperstrano</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="jrush_main.html">Jrush</a></li>
-<li class="toctree-l1"><a class="reference internal" href="Testingkamen_main.html">Testingkamen</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ptconfigure_main.html">PTConfigure</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ptdeploy_main.html">PTDeploy</a></li>
+<li class="toctree-l1"><a class="reference internal" href="pttest_main.html">PTTest</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ptvirtualize_main.html">PTVirtualize</a></li>
 </ul>
 </ul>
 </li>
@@ -139,7 +139,7 @@
 </pre></div>
 </div>
 <p>The following screen shot depicts pictorially about the working of help command.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# jrush jconf <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# jrush jconf <span class="nb">help</span>
 ****************************************
 GC JRush - The Joomla Command Line Shell
 ****************************************
@@ -150,13 +150,13 @@ GC JRush - The Joomla Command Line Shell
 
      - configure, conf
      <span class="nb">set </span>up db user <span class="p">&amp;</span> pw <span class="k">for</span> a project, use admins to create new resources as needed.
-     example: dapperstrano jconf conf joomla
-     example: dapperstrano jconf conf --yes --platform<span class="o">=</span>joomla30 --mysql-host<span class="o">=</span>127.0.0.1 --mysql-admin-user<span class="o">=</span><span class="s2">&quot;&quot;</span>
+     example: ptdeploy jconf conf joomla
+     example: ptdeploy jconf conf --yes --platform<span class="o">=</span>joomla30 --mysql-host<span class="o">=</span>127.0.0.1 --mysql-admin-user<span class="o">=</span><span class="s2">&quot;&quot;</span>
 
      - reset
-     reset current db to generic values so dapperstrano can write them. may need to be run before db conf.
-     example: dapperstrano jconf reset drupal
-     example: dapperstrano jconf reset --yes --platform<span class="o">=</span>joomla30
+     reset current db to generic values so ptdeploy can write them. may need to be run before db conf.
+     example: ptdeploy jconf reset drupal
+     example: ptdeploy jconf reset --yes --platform<span class="o">=</span>joomla30
 
 
 ------------------------------
@@ -226,7 +226,7 @@ configure they can input as N.|</td>
 <li>Set non-default values for password?</li>
 </ul>
 <p>Finally, the process of configuration gets completed as depicted in the screenshot.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevells@corp:/# jrush jconf conf joomla
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# jrush jconf conf joomla
 PHP Notice:  Undefined index: config-file in /opt/jrush/jrush/src/Modules/JConfiguration/Model/JConfigurationDataJoomla3.php on line 141
 PHP Notice:  Undefined index: config-file in /opt/jrush/jrush/src/Modules/JConfiguration/Model/JConfigurationDataJoomla3.php on line 141
 PHP Notice:  Undefined index: config-file in /opt/jrush/jrush/src/Modules/JConfiguration/Model/JConfigurationDataJoomla3.php on line 141

@@ -14,7 +14,7 @@ The help command guides the users regarding the purpose and as well as about the
 
 .. code-block:: bash
 
-		cleopatra JFeatures help
+		ptconfigure JFeatures help
 
 The syntax for declaring the help command is non-case sensitive which an added advantage is. The following screenshot visualize the user about the help command under JFeatures. 
 

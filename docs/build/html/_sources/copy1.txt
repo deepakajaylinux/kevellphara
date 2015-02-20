@@ -25,7 +25,7 @@ The pictorial representation of the copy command screenshot is listed below,
 
 .. code-block:: bash
 
- kevells@corp:/# ptconfigure copy help
+ kevell@corp:/# ptconfigure copy help
  ******************************
 
 
@@ -59,7 +59,7 @@ The system asks for source file path and target file path.
 .. code-block:: bash
 
 
- kevells@corp:/# ptconfigure copy put
+ kevell@corp:/# ptconfigure copy put
  Copy files? (Y/N) 
  Y
  Enter source file path
@@ -81,7 +81,7 @@ There is another option, wherein you can give the source and destination path in
 
 .. code-block:: bash
 
- kevells@corp:/# ptconfigure copy put --yes --source="/kevell.html" --target="/opt"
+ kevell@corp:/# ptconfigure copy put --yes --source="/kevell.html" --target="/opt"
  [Pharaoh Logging] [Copy] Executing cp -r /kevell.html /opt
  ******************************
 

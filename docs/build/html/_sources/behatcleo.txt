@@ -24,7 +24,7 @@ The screen shot as given below explains you graphically about the usage of the h
 
 .. code-block:: bash
 
- kevells@corp:/# ptconfigure behat help
+ kevell@corp:/# ptconfigure behat help
  ******************************
 
 
@@ -100,7 +100,7 @@ The screenshot shown below will gives you an pictorial representation about the 
 
 .. code-block:: bash
 
- kevells@corp:/# ptconfigure behat install
+ kevell@corp:/# ptconfigure behat install
  Install Behat ? (Y/N) 
  Y
  *******************************
@@ -148,7 +148,8 @@ Benefits to the users
 ----------------------
 
 * It guides the users to identify the errors in php script.
-* No need to search the most-recent version, as the updated version is automatically available to the users while executing the installation pr  ocess.
+* No need to search the most-recent version, as the updated version is automatically available to the users while executing the installation 
+  process.
 * Using the features of behat the users can frame and specify the behavior of driven development.
 * By the aid of behavior driven development, the users can ensure the qualities of their own script.
 * It is well-to-do in Cent Os and as well as in ubuntu.

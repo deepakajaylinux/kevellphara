@@ -15,7 +15,7 @@ Commands
    
  ptconfigure_main
  phlagrant
- Dapperstrano_main 
+ ptdeploy_main 
  jrush_main
  Testingkamen_main
 

@@ -16,7 +16,7 @@ Commands
  ptconfigure_main
  ptdeploy_main
  pttest_main
- phlagrant
+ ptvirtualize_main
  jrush_main
 
 Indices and tables

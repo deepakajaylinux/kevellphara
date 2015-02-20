@@ -16,7 +16,7 @@ The help command guides and explains to user regarding how to handle this destro
 
 .. code-block:: bash
 
-		phlagrant destroy help
+		ptvirtualize destroy help
 
 
 The following screenshot depicts the display of help option under this module which appears after inputting the command above.
@@ -27,13 +27,13 @@ The following screenshot depicts the display of help option under this module wh
 How to destroy
 -------------------
 
-If the user wish for a force shut down while working in a phlagrant box, they can use the following command as shown,
+If the user wish for a force shut down while working in a ptvirtualize box, they can use the following command as shown,
 
 .. code-block:: bash
 
-phlagrant destroy --yes --guess
+ptvirtualize destroy --yes --guess
 
-After entering the command above, the user system will encounter a force shut down. The following screen shot depicts the process of executing a destroy function while working in a phlagrant box.
+After entering the command above, the user system will encounter a force shut down. The following screen shot depicts the process of executing a destroy function while working in a ptvirtualize box.
 
 Benefits
 ----------

@@ -29,7 +29,7 @@
     <script type="text/javascript" src="_static/js/bootstrap-2.2.1.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
-    <link rel="up" title="Phlagrant" href="phlagrant.html" />
+    <link rel="up" title="PTVirtualize" href="ptvirtualize_main.html" />
     <link rel="next" title="Halt" href="halt.html" />
     <link rel="prev" title="Destroy" href="destroy.html" />
 
@@ -75,11 +75,11 @@
             <li class="dropdown">
   <a href="index.html" class="dropdown-toggle" data-toggle="dropdown">Site <b class="caret"></b></a>
   <ul class="dropdown-menu globaltoc"><ul class="current">
-<li class="toctree-l1"><a class="reference internal" href="cleopatra.html">Cleopatra</a></li>
-<li class="toctree-l1 current"><a class="reference internal" href="phlagrant.html">Phlagrant</a></li>
-<li class="toctree-l1"><a class="reference internal" href="Dapperstrano_main.html">Dapperstrano</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ptconfigure_main.html">PTConfigure</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ptdeploy_main.html">PTDeploy</a></li>
+<li class="toctree-l1"><a class="reference internal" href="pttest_main.html">PTTest</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="ptvirtualize_main.html">PTVirtualize</a></li>
 <li class="toctree-l1"><a class="reference internal" href="jrush_main.html">Jrush</a></li>
-<li class="toctree-l1"><a class="reference internal" href="Testingkamen_main.html">Testingkamen</a></li>
 </ul>
 </ul>
 </li>
@@ -132,42 +132,42 @@
 <h1>Flirtify<a class="headerlink" href="#flirtify" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="synopsis">
 <h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
-<p>This used to create phlagrant files for predefined templates. Non case sensitivity which brings added advantage for this module. This module have many alternative parameters. The default configuration management for PHP application.</p>
+<p>This used to create ptvirtualize files for predefined templates. Non case sensitivity which brings added advantage for this module. This module have many alternative parameters. The default configuration management for PHP application.</p>
 </div>
 <div class="section" id="help-command">
 <h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
-<p>This help command guides the user to create phlagrant files for predefined templates. It has personalized  in phlagrant and dapperstrano. Also provides default  setting for virtual machine  configuration.
+<p>This help command guides the user to create ptvirtualize files for predefined templates. It has personalized  in ptvirtualize and ptdeploy. Also provides default  setting for virtual machine  configuration.
 The help command for flirtify is shown below.</p>
-<div class="highlight-bash"><div class="highlight"><pre>phlagrant flirtify <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>ptvirtualize flirtify <span class="nb">help</span>
 </pre></div>
 </div>
 <p>After inputs the above command, it starts functioning to enable the default setting. It catechesis the functions of flirtify in the
 screenshots.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# phlagrant Flirtify <span class="nb">help</span>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptvirtualize Flirtify <span class="nb">help</span>
 ******************************
-Pharaoh Tools - Phlagrant
+Pharaoh Tools - ptvirtualize
 ******************************
 
 
- With Flirtify you can create Phlagrant files <span class="k">for</span> your project from predefined templates. This will <span class="nb">enable </span>you to
+ With Flirtify you can create ptvirtualize files <span class="k">for</span> your project from predefined templates. This will <span class="nb">enable </span>you to
  create default Virtual machine hardware and provisioning configurations <span class="k">for</span> your project in a single command.
 
  Flirtify, flirt, flirtify, phlirt, phlirtify
 
        - default-cleo
-       Create a Phlagrantfile <span class="k">for</span> your project, with default Configuration Management <span class="k">for</span> a PHP Application
-       example: phlagrant flirt default-cleo
+       Create a ptvirtualizefile <span class="k">for</span> your project, with default Configuration Management <span class="k">for</span> a PHP Application
+       example: ptvirtualize flirt default-cleo
 
        - default-cleo-dapper
-       Create a Phlagrantfile <span class="k">for</span> your project, with default Configuration Management <span class="k">for</span> a PHP Application and
-       Dapperstrano Application
-       example: phlagrant flirt default-cleo-dapper
+       Create a ptvirtualizefile <span class="k">for</span> your project, with default Configuration Management <span class="k">for</span> a PHP Application and
+       ptdeploy Application
+       example: ptvirtualize flirt default-cleo-dapper
            --host-dapperfile<span class="o">=</span>*relative/path/to/dapperfile/<span class="s2">&quot;</span>
-<span class="s2">           # guess will use build/config/dapperstrano/dapperfy/autopilots/generated/</span>
+<span class="s2">           # guess will use build/config/ptdeploy/dapperfy/autopilots/generated/</span>
 
 <span class="s2">       - custom-cleo-dapper</span>
-<span class="s2">       Create a Phlagrantfile for your project</span>
-<span class="s2">       example: phlagrant flirt custom-cleo-dapper</span>
+<span class="s2">       Create a ptvirtualizefile for your project</span>
+<span class="s2">       example: ptvirtualize flirt custom-cleo-dapper</span>
 
 <span class="s2">------------------------------</span>
 <span class="s2">End Help</span>
@@ -182,24 +182,24 @@ Pharaoh Tools - Phlagrant
 </div>
 <div class="section" id="default-cleo">
 <h2>Default-cleo<a class="headerlink" href="#default-cleo" title="Permalink to this headline">¶</a></h2>
-<p>This process used to create a phlagrant file for the user project with default configuration management for a PHP application. The following command is used to create a phlagrant file.</p>
-<div class="highlight-bash"><div class="highlight"><pre>phlagrant flirtify default-cleo
+<p>This process used to create a ptvirtualize file for the user project with default configuration management for a PHP application. The following command is used to create a ptvirtualize file.</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptvirtualize flirtify default-cleo
 </pre></div>
 </div>
 <p>after input the above said command it starts functioning.</p>
 </div>
 <div class="section" id="custom-cleo-dapper">
 <h2>Custom-cleo-dapper<a class="headerlink" href="#custom-cleo-dapper" title="Permalink to this headline">¶</a></h2>
-<p>This process used to create a phlagrant file for user’s project. The following command is used to create a phlagrant file.</p>
-<div class="highlight-bash"><div class="highlight"><pre>phlagrant flirtify Custom-cleo-dapper
+<p>This process used to create a ptvirtualize file for user’s project. The following command is used to create a ptvirtualize file.</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptvirtualize flirtify Custom-cleo-dapper
 </pre></div>
 </div>
 <p>after input the above said command it starts functioning.</p>
 </div>
 <div class="section" id="default-cleo-dapper">
 <h2>Default-cleo-dapper<a class="headerlink" href="#default-cleo-dapper" title="Permalink to this headline">¶</a></h2>
-<p>This process used to create a phlagrant file for the user project with default configuration management for a PHP application and dapperstrano application. The following command is used to create a phlagrant file.</p>
-<div class="highlight-bash"><div class="highlight"><pre>phlagrant flirtify default-cleo-dapper
+<p>This process used to create a ptvirtualize file for the user project with default configuration management for a PHP application and ptdeploy application. The following command is used to create a ptvirtualize file.</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptvirtualize flirtify default-cleo-dapper
 </pre></div>
 </div>
 <p>After input as the above said command it starts functioning.</p>
@@ -210,7 +210,7 @@ Pharaoh Tools - Phlagrant
 <li>Well support for It professionals</li>
 <li>Non case sensitive</li>
 <li>Suitable for Ubuntu and Cent OS</li>
-<li>Used to create phlagrant files for predefined templates</li>
+<li>Used to create ptvirtualize files for predefined templates</li>
 </ul>
 </div>
 </div>

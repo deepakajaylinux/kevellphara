@@ -14,7 +14,7 @@ The help command guides and explains to user regarding how to handle this Up mod
 
 .. code-block:: bash
 
-	phlagrant Up help
+	ptvirtualize Up help
 
 The following screenshot depicts the display of help option under this module which appears after inputting the command above.
 
@@ -24,11 +24,11 @@ The following screenshot depicts the display of help option under this module wh
 Working of Up function
 ------------------------------
 
-If the user needs of implementing up function while working in phlagrant box, they can input the command given below,
+If the user needs of implementing up function while working in ptvirtualize box, they can input the command given below,
 
 .. code-block:: bash
 
-		phlagrant Up --yes --guess
+		ptvirtualize Up --yes --guess
 
 After entering the command as given above, the users system gets started. The following screen shot depicts visually about the working of up function to start a system.
 

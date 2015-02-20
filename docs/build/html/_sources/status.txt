@@ -5,15 +5,15 @@ Status
 Synopsis
 ----------------
 
-Status command allows the user to know the status of a phlagrant box. It is having two options. They are show as well as full. It comforts with Ubuntu and centos. 
+Status command allows the user to know the status of a ptvirtualize box. It is having two options. They are show as well as full. It comforts with Ubuntu and centos. 
 
 Help command
 -----------------------
 
-The help command leads the users regarding the status of the phlagrant box. The options that are included in the status modules. The help command lists out the alternative parameters of status under phlagrant  module. It also describes the syntax for status. The help command for status is shown below.
+The help command leads the users regarding the status of the ptvirtualize box. The options that are included in the status modules. The help command lists out the alternative parameters of status under ptvirtualize  module. It also describes the syntax for status. The help command for status is shown below.
 .. code-block:: bash
    
-                Phlagrant  status help
+                ptvirtualize  status help
 
 The following screen shot shows the full effort of status.
 
@@ -21,23 +21,23 @@ The following screen shot shows the full effort of status.
 .. code-block:: bash
 
 
- kevell@corp:/# phlagrant Status help
+ kevell@corp:/# ptvirtualize Status help
  ******************************
- Pharaoh Tools - Phlagrant
+ Pharaoh Tools - ptvirtualize
  ******************************
 
 
-  This command allows you to status a phlagrant box
+  This command allows you to status a ptvirtualize box
 
   Status, status
 
         - show
-        Show execution status information of your Phlagrant VM
-        example: phlagrant status show
+        Show execution status information of your ptvirtualize VM
+        example: ptvirtualize status show
 
         - full
-        Show full status information of your Phlagrant VM
-        example: phlagrant status full
+        Show full status information of your ptvirtualize VM
+        example: ptvirtualize status full
 
  ------------------------------
  End Help
@@ -59,25 +59,25 @@ status
 Show
 ----------
 
-It shows the working status of the user phlagrant virtual machine. The command used for show is as follows
+It shows the working status of the user ptvirtualize virtual machine. The command used for show is as follows
 
 .. code-block:: bash
 
-                Phlagrant  status show
+                ptvirtualize  status show
 
-Input as the above said command it displays the current status of phlagrant.
+Input as the above said command it displays the current status of ptvirtualize.
 
 
 Full
 ------
 
-It shows the full working status of the user phlagrant virtual machine. The command used for show is as follows
+It shows the full working status of the user ptvirtualize virtual machine. The command used for show is as follows
 
 .. code-block:: bash
   
-        Phlagrant  status full
+        ptvirtualize  status full
 
-Input as the above said command it displays the full execution status of phlagrant.
+Input as the above said command it displays the full execution status of ptvirtualize.
 
 Benefits
 -------------

@@ -9,16 +9,16 @@ This module assists and facilitates the users in resuming a process that is paus
 
 Then you can resume the virtual machine to pick up work quickly, right where you stopped - with all documents you were working on open and all applications in the same state as they were at the time you suspended the virtual machine.
 
-Let us see how to use resume module under phlagrant in the upcoming topics.
+Let us see how to use resume module under ptvirtualize in the upcoming topics.
 
 Help Command
 --------------------
 
-The help command explains the users regarding the major role of this module under phlagrant box, list of alternative parameters that can used for declaring, the syntax for using the resume function under phlagrant box. The command for implementing the help action under resume module is shown below,
+The help command explains the users regarding the major role of this module under ptvirtualize box, list of alternative parameters that can used for declaring, the syntax for using the resume function under ptvirtualize box. The command for implementing the help action under resume module is shown below,
 
 .. code-block:: bash
 
-		phlagrant resume help
+		ptvirtualize resume help
 
 The following screenshot can give an pictorial representation of help option output under resume module.
 
@@ -31,11 +31,11 @@ If the user wish to resume an suspended process in an virtual box they can use t
 
 .. code-block:: bash
 
-	phlagrant resume virtualbox -- yes --guess
+	ptvirtualize resume virtualbox -- yes --guess
 
 After entering the command as given above, the user can select and start resuming a work in virtual box.
 
-The following screenshot depicts the methodologies of using this module for resuming a phlagrant box.
+The following screenshot depicts the methodologies of using this module for resuming a ptvirtualize box.
 
 .. code-block:: bash
 

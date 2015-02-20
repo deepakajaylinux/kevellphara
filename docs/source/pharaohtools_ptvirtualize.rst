@@ -5,12 +5,12 @@ PharaohTools
 Synopsis
 ------------
 
-The Pharaoh tool module assists in installing Dapperstrano, Testingamen, Jrush, generating Phlagrant reports. It facilitates the users to ensure the availability before installations. Only missing modules can be installed specifically.
+The Pharaoh tool module assists in installing ptdeploy, pttest, Jrush, generating ptvirtualize reports. It facilitates the users to ensure the availability before installations. Only missing modules can be installed specifically.
 
 Help Command
 ---------------------
 
-The help command guides the users about how to make use of this particular module under Phlagrant.
+The help command guides the users about how to make use of this particular module under ptvirtualize.
 
 It also make them aware of the options that can be performed on this specific module.
 
@@ -20,7 +20,7 @@ The command for using the help option is shown below,
 
 .. code-block:: bash
 
-		phlagrant pharaoh-tools help
+		ptvirtualize pharaoh-tools help
 
 
 The screen shot as shown below gives you a pictorial representation regarding the usage of help command.
@@ -31,13 +31,13 @@ The screen shot as shown below gives you a pictorial representation regarding th
 Installation
 --------------
 
-The pharaoh tool module acts as a shorter route that envelops installation of Dapperstrano, Testingamen, Jrush. If any one particular module is missing among the three, the specific module alone will be installed which is an added advantage. The ensure process plays an important role in grabbing data's regarding the availability of modules.
+The pharaoh tool module acts as a shorter route that envelops installation of ptdeploy, pttest, Jrush. If any one particular module is missing among the three, the specific module alone will be installed which is an added advantage. The ensure process plays an important role in grabbing data's regarding the availability of modules.
 
 The command used for installation process under Pharaoh tool is given below,
 
 .. code-block:: bash
 
-	Phlagrant pharaoh-tools install
+	ptvirtualize pharaoh-tools install
 
 After entering the command above, the installation process starts executing and proceeds in the following ways as depicted from in the table,
 
@@ -63,24 +63,24 @@ Ensure
 * The pharaoh tool ensures the available modules.
 * While ensuring, It won't check about the versions.
 
-Dapperstrano
+ptdeploy
 ------------------
 
-* The module dapperstrano reports itself as installed, in case of existence. 
-* It also checks the version for dapperstrano module.
-* If the dapperstrano module is not available in the machine, then automatically dapperstrano will progress to install.
+* The module ptdeploy reports itself as installed, in case of existence. 
+* It also checks the version for ptdeploy module.
+* If the ptdeploy module is not available in the machine, then automatically ptdeploy will progress to install.
 
-Testingamen
+pttest
 ------------------
 
-* After completion of installing dapperstrano, it will ensure the Testingamen module. 
-* The module Testingamen reports itself as installed, in case of existence. 
-* If the Testingamen module is not available in the machine, then automatically Testingamen will progress to install.
+* After completion of installing ptdeploy, it will ensure the pttest module. 
+* The module pttest reports itself as installed, in case of existence. 
+* If the pttest module is not available in the machine, then automatically pttest will progress to install.
 
 Jrush
 --------
 
-* After completion of installing Testingamen, it will ensure the Jrush module.
+* After completion of installing pttest, it will ensure the Jrush module.
 * The module Jrush reports itself as installed, in case of existence. 
 * If the Jrush module is not available in the machine, then automatically Jrush will progress to install.
 * If all the three modules are already existing, then it will show exceptional message as given in the screenshot below,
@@ -89,7 +89,7 @@ Jrush
 Additional Options
 -------------------------
 
-While installing Dapperstrano, Testingamen, Jrush the following options are required as input from the user. Let us see about, the additional options that can be specified by the users if they wish, is represented in a tabular format as shown below.
+While installing ptdeploy, pttest, Jrush the following options are required as input from the user. Let us see about, the additional options that can be specified by the users if they wish, is represented in a tabular format as shown below.
 
 
 
@@ -98,7 +98,7 @@ While installing Dapperstrano, Testingamen, Jrush the following options are requ
  +----------------------------+-------------------------------------------+--------------------+--------------------------------------------+
  | Parameters		      | Path					  | Option	       | Comment		  		    |
  +============================+===========================================+====================+============================================+
- |Program data directory      | "/opt/testingkamen(corresponding module)" | Yes		       | If the user to proceed installation with   |
+ |Program data directory      | "/opt/pttest(corresponding module)"       | Yes		       | If the user to proceed installation with   |
  |(Default)		      | 					  |		       | the default program data directory they    |
  |			      |						  |		       | can input as Yes			    |
  +----------------------------+-------------------------------------------+--------------------+--------------------------------------------+

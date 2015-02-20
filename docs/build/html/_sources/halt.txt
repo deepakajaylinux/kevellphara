@@ -11,11 +11,11 @@ Halt is a term used to describe the process of closing all module programs in vi
 Help command
 -----------------------
 
-The help command leads the users regarding the purpose and as well as about the options that are included in the vitual box halt . The help command lists out the alternative parameters of halt in virtualbox Under Phlagrant module. It also describes the syntax for halt and function. The help command for halt is shown below.
+The help command leads the users regarding the purpose and as well as about the options that are included in the vitual box halt . The help command lists out the alternative parameters of halt in virtualbox Under ptvirtualize module. It also describes the syntax for halt and function. The help command for halt is shown below.
 
 .. code-block:: bash
 
-		phlagrant halt help
+		ptvirtualize halt help
 
 
 Alternative parameter
@@ -32,7 +32,7 @@ Halt by name
 
 .. code-block:: bash
 
-		phlagrant halt system name
+		ptvirtualize halt system name
 
 Benefits
 --------------

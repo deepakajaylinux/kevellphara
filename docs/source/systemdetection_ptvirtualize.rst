@@ -11,21 +11,21 @@ This module aims at detecting the user’s machine and in hand provides them the
 Help command
 ----------------------
 
-The help command leads the users regarding the purpose and as well as about the options that are included in the System detection modules. The help command lists out the alternative parameters of System detection under phlagrant module. It also describes the syntax for detecting the user’s machine. The help command for System detection is shown below.
+The help command leads the users regarding the purpose and as well as about the options that are included in the System detection modules. The help command lists out the alternative parameters of System detection under ptvirtualize module. It also describes the syntax for detecting the user’s machine. The help command for System detection is shown below.
 
 .. code-block:: bash
 
-		phlagrant systemdetection help
+		ptvirtualize systemdetection help
 
 The syntax for the help command non case sensitive which adds an advantage for this module. The following screenshot visualize the user about the help command under system detection.
 
 
 .. code-block:: bash
 
- kevells@corp:/# phlagrant systemdetection help
+ kevell@corp:/# ptvirtualize systemdetection help
 
  ******************************
- Pharaoh Tools - Phlagrant
+ Pharaoh Tools - ptvirtualize
  ******************************
 
 
@@ -36,7 +36,7 @@ The syntax for the help command non case sensitive which adds an advantage for t
 
         - detect
         Detects the Operating System
-        example: cleopatra system-detection detect
+        example: ptconfigure system-detection detect
 
  ------------------------------
  End Help
@@ -50,7 +50,7 @@ Detect used to detect the system settings. By using a single command the user ca
 
 .. code-block:: bash
 
-		phlagrant systemdetection detect
+		ptvirtualize systemdetection detect
 
 After keying the above command, the process of system detection starts. During system detection the following information's regarding the corresponding machine are reported:
 
@@ -75,10 +75,10 @@ Finally, after detection the information regarding the above mentioned features 
 
 .. code-block:: bash
 
- kevells@corp:/# phlagrant systemdetection detect
+ kevellscorp:/# ptvirtualize systemdetection detect
 
  ******************************
- Pharaoh Tools - Phlagrant
+ Pharaoh Tools - Virtualize
  ******************************
 
 

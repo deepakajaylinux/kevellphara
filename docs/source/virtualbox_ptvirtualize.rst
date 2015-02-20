@@ -5,18 +5,18 @@ Virtualbox
 Synopsis
 -------------
 
-This module encourage installation of voice. In case of phlagrant module fully managed by virtual box.  It is user friendly with Ubuntu and cent OS.  The Virtual Box package installs on an existing host operating system as an application. Users of Virtual Box can load multiple guest OSs under a single host operating-system. Virtual Box has supported Open Virtualization Format (OVF).This is comfortable with Ubuntu and Cent OS.
+This module encourage installation of voice. In case of ptvirtualize module fully managed by virtual box.  It is user friendly with Ubuntu and cent OS.  The Virtual Box package installs on an existing host operating system as an application. Users of Virtual Box can load multiple guest OSs under a single host operating-system. Virtual Box has supported Open Virtualization Format (OVF).This is comfortable with Ubuntu and Cent OS.
 
 Help command
 -----------------------
 
-The help command guide the user to install virtual box in phlagrant. This help command guides the user to create a virtual host. This also displays to add a virtual host, remove a virtual host, Enable a virtual host, and Disable a virtual host.
+The help command guide the user to install virtual box in ptvirtualize. This help command guides the user to create a virtual host. This also displays to add a virtual host, remove a virtual host, Enable a virtual host, and Disable a virtual host.
 
 The help command for virtual box is shown below.
 
 .. code-block:: bash
 
-		phlagrant virtualbox help
+		ptvirtualize virtualbox help
 
 After inputs the above command, it starts functioning to add a virtual host editor. It catechesis the functions in the screenshots.
 
@@ -31,11 +31,11 @@ Installation
 
 This module instruct the user to install. To activate virtual box follow the command as,
 
-Phlagrant virtual box install
+ptvirtualize virtual box install
 
 Then the system can enquire
 
-Phlagrant virtual box install? (Y/N) 
+ptvirtualize virtual box install? (Y/N) 
 
 If the user enters Y then it will be installed, else it will exit the screen.
 
@@ -50,7 +50,7 @@ Options
  | Parameters			 | Syntax	 | Option				 | Comments			    |
  +===============================+===============+=======================================+==================================+
  |Install virtual box?(Y/N)	 | Yes		 | Instead of using Virtualbox the user  | Installed successfully under     |
- |				 |		 | can use virtual box			 | Phlagrant module		    |
+ |				 |		 | can use virtual box			 | ptvirtualize module		    |
  +-------------------------------+---------------+---------------------------------------+----------------------------------+
  |Install virtual box?(Y/N)	 | No		 | Instead of using Virtualbox the user  | Exit the screen		    |
  |				 |		 | can use virtual box|			 |				    |

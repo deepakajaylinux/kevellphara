@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>AutoSSH &mdash; KEVELL 0.1 documentation</title>
+    <title>SystemDetection &mdash; KEVELL 0.1 documentation</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -30,8 +30,8 @@
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
     <link rel="up" title="PTVirtualize" href="ptvirtualize_main.html" />
-    <link rel="next" title="Box" href="box.html" />
-    <link rel="prev" title="PTVirtualize" href="ptvirtualize_main.html" />
+    <link rel="next" title="Up" href="up.html" />
+    <link rel="prev" title="Status" href="status.html" />
 
 
 <script src="_static/labibi.js"></script>
@@ -86,13 +86,10 @@
             <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Page <b class="caret"></b></a>
   <ul class="dropdown-menu localtoc"><ul>
-<li><a class="reference internal" href="#">AutoSSH</a><ul>
+<li><a class="reference internal" href="#">SystemDetection</a><ul>
 <li><a class="reference internal" href="#synopsis">Synopsis</a></li>
-<li><a class="reference internal" href="#help-command">Help Command</a></li>
-<li><a class="reference internal" href="#functions-of-autossh">Functions of AutoSSH</a></li>
-<li><a class="reference internal" href="#cli">Cli</a></li>
-<li><a class="reference internal" href="#sftp-put">Sftp_put</a></li>
-<li><a class="reference internal" href="#sftp-get">Sftp_get</a></li>
+<li><a class="reference internal" href="#help-command">Help command</a></li>
+<li><a class="reference internal" href="#detect">Detect</a></li>
 <li><a class="reference internal" href="#alternative-parameters">Alternative Parameters</a></li>
 <li><a class="reference internal" href="#benefits">Benefits</a></li>
 </ul>
@@ -103,14 +100,14 @@
           
           
             
-  <li><a href="ptvirtualize_main.html"
-         title="previous chapter">&laquo; PTVirtualize</a></li>
-  <li><a href="box.html"
-         title="next chapter">Box &raquo;</a></li>
+  <li><a href="status.html"
+         title="previous chapter">&laquo; Status</a></li>
+  <li><a href="up.html"
+         title="next chapter">Up &raquo;</a></li>
           
           
           <!--  <li>
-  <a href="_sources/autossh.txt"
+  <a href="_sources/systemdetection_ptvirtualize.txt"
      rel="nofollow">Source</a></li> -->
           
         </ul>
@@ -129,43 +126,34 @@
 
   
   
-  <div class="section" id="autossh">
-<h1>AutoSSH<a class="headerlink" href="#autossh" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="systemdetection">
+<h1>SystemDetection<a class="headerlink" href="#systemdetection" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="synopsis">
 <h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
-<p>This module facilitates the users to autoSSH a ptvirtualize box. Autossh is a small front-end for SSH that can&nbsp;monitor&nbsp;the connection, and&nbsp;restart&nbsp;the tunnel if it drops or stops responding.</p>
-<p>autossh&nbsp;uses ssh to construct a loop of ssh forwardings (one from local to remote, one from remote to local), and then sends test data that it expects to get back.</p>
-<p>Let us see the functions of auto ssh in upcoming topics.</p>
+<p>This module aims at detecting the user’s machine and in hand provides them the necessary information to them regarding the users system. It also provides a facility to the users to configure their applications settings. The few examples for applications settings includes my sql admin user, Architecture, admin user, host, version, linux type, Distro. It is comfortable with Ubuntu and cent OS.</p>
 </div>
 <div class="section" id="help-command">
-<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
-<p>The help command guides the users regarding the purpose and as well as about the options that are included in the Auto SSH module. It lists out the alternative parameters of Auto SSH module. It also describes the syntax for using the cli, sftp_put, sftp_get commands. The help command for Auto SSH module is shown as below.</p>
-<div class="highlight-bash"><div class="highlight"><pre>ptvirtualize AutoSSH <span class="nb">help</span>
+<h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
+<p>The help command leads the users regarding the purpose and as well as about the options that are included in the System detection modules. The help command lists out the alternative parameters of System detection under ptvirtualize module. It also describes the syntax for detecting the user’s machine. The help command for System detection is shown below.</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptvirtualize systemdetection <span class="nb">help</span>
 </pre></div>
 </div>
-<p>The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under Auto SSH.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptvirtualize AutoSSH <span class="nb">help</span>
+<p>The syntax for the help command non case sensitive which adds an advantage for this module. The following screenshot visualize the user about the help command under system detection.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptvirtualize systemdetection <span class="nb">help</span>
 
 ******************************
-Pharaoh Tools - Virtualize
+Pharaoh Tools - ptvirtualize
 ******************************
 
 
- This <span class="nb">command </span>allows you to autoSSH a ptvirtualize box
+ This is a default Module and provides you with a method by which you can configure Application Settings.
+ You can configure default application settings, ie: mysql admin user, host, pass
 
- AutoSSH, auto-ssh, autossh, ssh, SSH
+ SystemDetection, system-detection, systemdetection
 
-       - cli
-       Open an SSH Cli to your ptvirtualize Box
-       example: ptvirtualize auto-ssh cli --yes --guess
-
-       - sftp-put
-       SFTP Put a file on to your ptvirtualize Box
-       example: ptvirtualize auto-ssh sftp-put --yes --guess --source<span class="o">=</span>/path/to/source --target<span class="o">=</span>/path/to/target
-
-       - sftp-get
-       SFTP Get a file from your ptvirtualize Box
-       example: ptvirtualize auto-ssh sftp-get --yes --guess --source<span class="o">=</span>/path/to/source --target<span class="o">=</span>/path/to/target
+       - detect
+       Detects the Operating System
+       example: ptconfigure system-detection detect
 
 ------------------------------
 End Help
@@ -173,59 +161,68 @@ End Help
 </pre></div>
 </div>
 </div>
-<div class="section" id="functions-of-autossh">
-<h2>Functions of AutoSSH<a class="headerlink" href="#functions-of-autossh" title="Permalink to this headline">¶</a></h2>
-<p>As depicted in the above help command, the major functions of this auto ssh module includes</p>
-<ul class="simple">
-<li>cli</li>
-<li>sftp_put</li>
-<li>sftp_get</li>
-</ul>
-</div>
-<div class="section" id="cli">
-<h2>Cli<a class="headerlink" href="#cli" title="Permalink to this headline">¶</a></h2>
-<p>After activating or building an auto ssh in the users environment, the cli can be created which is used to open an SSH Cli to the users ptvirtualize box by using the following command:</p>
-<div class="highlight-bash"><div class="highlight"><pre>ptvirtualize auto-ssh cli --yes --guess
+<div class="section" id="detect">
+<h2>Detect<a class="headerlink" href="#detect" title="Permalink to this headline">¶</a></h2>
+<p>Detect used to detect the system settings. By using a single command the user can get all the information about the system application. The command used for system detection is given below.</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptvirtualize systemdetection detect
 </pre></div>
 </div>
-<p>The cli is used for listing the available clients in a particular environments where the auto ssh is generated.</p>
-</div>
-<div class="section" id="sftp-put">
-<h2>Sftp_put<a class="headerlink" href="#sftp-put" title="Permalink to this headline">¶</a></h2>
-<p>This function is used for placing or moving the required files or data from the source to destination of an particular environment where the auto ssh is generated. This can be done by using the command given below:</p>
-<div class="highlight-bash"><div class="highlight"><pre>ptvirtualize auto-ssh sftp-put --yes --guess --source<span class="o">=</span><span class="s2">&quot;path/to/source --target=/path/to/target</span>
+<p>After keying the above command, the process of system detection starts. During system detection the following information&#8217;s regarding the corresponding machine are reported:</p>
+<p>Operating System</p>
+<p>Linux Type</p>
+<p>Distro</p>
+<p>Version</p>
+<p>Architecture</p>
+<p>Host Name</p>
+<p>IP Address 0.</p>
+<p>IP Address 1.</p>
+<p>Finally, after detection the information regarding the above mentioned features are clearly reported. The following screen shot depicts the user about the process of system detection.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevellscorp:/# ptvirtualize systemdetection detect
+
+******************************
+Pharaoh Tools - Virtualize
+******************************
+
+
+Systems Detection:
+--------------------------------------------
+
+Operating System: Linux
+Linux Type: Debian
+Distro: Ubuntu
+Version: 14.04
+Architecture: 64
+Host Name: kevells
+IP Address 0: 127.0.0.1
+IP Address 1: 192.168.1.19
+
+------------------------------
+Detection Finished
+******************************
 </pre></div>
 </div>
-<p>The command shown above will put a file on to the users ptvirtualize box. The following screenshot visually depicts the process.</p>
-</div>
-<div class="section" id="sftp-get">
-<h2>Sftp_get<a class="headerlink" href="#sftp-get" title="Permalink to this headline">¶</a></h2>
-<p>This function is used for getting or fetching the required files or data from the source to destination of an particular environment where the auto ssh is generated. This can be done by using the command given below:</p>
-<div class="highlight-bash"><div class="highlight"><pre>ptvirtualize auto-ssh sftp-get --yes --guess --source<span class="o">=</span><span class="s2">&quot;path/to/source --target=/path/to/target</span>
-</pre></div>
-</div>
-<p>The command shown above will gets or receives a file from the users ptvirtualize box. The following screenshot visually depicts the process.</p>
 </div>
 <div class="section" id="alternative-parameters">
 <h2>Alternative Parameters<a class="headerlink" href="#alternative-parameters" title="Permalink to this headline">¶</a></h2>
-<ul class="simple">
-<li>AutoSSH</li>
-<li>auto-ssh</li>
-<li>autossh</li>
-<li>ssh</li>
-<li>SSH</li>
-</ul>
-<p>In the above mentioned list any of the alternative parameters can be used in declaration.</p>
+<p>Instead of system detection, the following parameters can be used:</p>
+<p>System Detection</p>
+<p>system-detection</p>
+<p>system detection</p>
 </div>
 <div class="section" id="benefits">
 <h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li>The parameters used in help and installation and un installation operations are not case sensitive which is an added advantage while
-compared  to others.</li>
-<li>It is well-to-do in both Ubuntu and as well as Cent OS.</li>
-<li>The cli functions list outs the available clients in a particular environment by the aid of auto SSH.</li>
-<li>Sftp_put, Sftp_get can place and fetch the files respectively between source and destination of a particular environment by using auto SSH.</li>
-<li>The syntax for declaring the cli, put, get are clearly depicted in the help command.</li>
+<li>The users can configure the application settings using this system detections.</li>
+<li>The parameters used for declaring help command, system detection are non-case sensitive which an added advantage while compared to others.</li>
+<li>It is well-to-do in both Cent OS and as well as in Ubuntu.</li>
+<li>Protection and security is possible. Preventing harm to the system and to resources, through internal processes or malicious outsiders.
+Authentication, ownership, and restricted access are obvious parts of this system.</li>
+<li>System administrators generally determine which interface a user starts with when they first log in.</li>
+<li>Generally written in PHP, although some are written in assembly for optimal performance.</li>
+<li>The system detection module provides the support:</li>
+<li>Identify a remote process and/or host with which to communicate.</li>
+<li>Establish a connection between the two processes.</li>
+<li>Open and close the connection as needed.</li>
 </ul>
 </div>
 </div>
@@ -283,8 +280,8 @@ compared  to others.</li>
 
         <li>
           Go to
-        <a href="https://github.com/deepakajaylinux/kevellphara/blob/master/autossh.rst">
-          AutoSSH
+        <a href="https://github.com/deepakajaylinux/kevellphara/blob/master/systemdetection_ptvirtualize.rst">
+          SystemDetection
         </a> on GitHub.
       </li>
 

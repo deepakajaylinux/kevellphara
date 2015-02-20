@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Cucumber &mdash; KEVELL 0.1 documentation</title>
+    <title>PhpUnit &mdash; KEVELL 0.1 documentation</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -30,8 +30,8 @@
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
     <link rel="up" title="PTTest" href="pttest_main.html" />
-    <link rel="next" title="EnvironmentConfig" href="environmentconfig_pttest.html" />
-    <link rel="prev" title="Behat" href="behat.html" />
+    <link rel="next" title="SystemDetection" href="systemdetection_pttest.html" />
+    <link rel="prev" title="EnvironmentConfig" href="environmentconfig_pttest.html" />
 
 
 <script src="_static/labibi.js"></script>
@@ -86,11 +86,13 @@
             <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Page <b class="caret"></b></a>
   <ul class="dropdown-menu localtoc"><ul>
-<li><a class="reference internal" href="#">Cucumber</a><ul>
+<li><a class="reference internal" href="#">PhpUnit</a><ul>
 <li><a class="reference internal" href="#synopsis">Synopsis</a></li>
-<li><a class="reference internal" href="#help-command">Help Command</a></li>
-<li><a class="reference internal" href="#how-to-initialize-cucumber">How to initialize cucumber</a></li>
-<li><a class="reference internal" href="#how-to-execute-the-cucumber">How to Execute the Cucumber</a></li>
+<li><a class="reference internal" href="#help-command">Help command</a></li>
+<li><a class="reference internal" href="#alternative-parameter">Alternative parameter</a></li>
+<li><a class="reference internal" href="#initialize">Initialize</a></li>
+<li><a class="reference internal" href="#execute">Execute</a></li>
+<li><a class="reference internal" href="#option">Option</a></li>
 <li><a class="reference internal" href="#benefits">Benefits</a></li>
 </ul>
 </li>
@@ -100,14 +102,14 @@
           
           
             
-  <li><a href="behat.html"
-         title="previous chapter">&laquo; Behat</a></li>
   <li><a href="environmentconfig_pttest.html"
-         title="next chapter">EnvironmentConfig &raquo;</a></li>
+         title="previous chapter">&laquo; EnvironmentConfig</a></li>
+  <li><a href="systemdetection_pttest.html"
+         title="next chapter">SystemDetection &raquo;</a></li>
           
           
           <!--  <li>
-  <a href="_sources/cucumber.txt"
+  <a href="_sources/phpunit_pttest.txt"
      rel="nofollow">Source</a></li> -->
           
         </ul>
@@ -126,35 +128,36 @@
 
   
   
-  <div class="section" id="cucumber">
-<h1>Cucumber<a class="headerlink" href="#cucumber" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="phpunit">
+<h1>PhpUnit<a class="headerlink" href="#phpunit" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="synopsis">
 <h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
-<p>This module assists the user to initialize and execute the cucumber test suite. Let us see how initialize and to execute the cucumber test suite in the upcoming topics.</p>
+<p>Phpunit is a unit testing framework for the PHP programming language in tesingkamen. It is an instance of the architecture for unit testing frameworks that originated with initializes php test suite and became popular with pttest.</p>
+<p>It functions in two ways. They are init and execute. It is valuable to work with Ubuntu and centos.</p>
 </div>
 <div class="section" id="help-command">
-<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
-<p>The help command guides the user regarding the purpose and options available under a module. It lists out the alternative parameters that are used in declaration. It describes the syntax for initialize and to execute the cucumber under the pttest. The command used for declaring help is shown below:</p>
-<div class="highlight-bash"><div class="highlight"><pre>pttest cucumber <span class="nb">help</span>
+<h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
+<p>The help command leads the users regarding the purpose and as well as about the options that are included in the Phpunit modules. The help command lists out the alternative parameters of Phpunit under pttest module. It also describes the syntax for initializing the user’s machine. The help command for phpunit is shown below.</p>
+<div class="highlight-bash"><div class="highlight"><pre>pttest phpunit <span class="nb">help</span>
 </pre></div>
 </div>
-<p>The following screen shot depicts pictorially about the working of help command.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# pttest cucumber <span class="nb">help</span>
+<p>The syntax for the help command non case sensitive which adds an advantage for this module. The following screenshot visualize the user about the help command under system detection.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# pttest PHPUnit <span class="nb">help</span>
 ******************************
 
 
- This <span class="nb">command </span>allows you to initialize a Cucumber <span class="nb">test </span>suite.
+ This <span class="nb">command </span>allows you to initialize a PHPUnit <span class="nb">test </span>suite.
 
- Cucumber, cucumber
+ PHPUnit, phpunit
 
        - init, initialize
-       Initialises the Cucumber <span class="nb">test </span>suite of this project
-       example: pttest cucumber init
-       example: pttest cucumber initialize
+       Initialises the PHPUnit <span class="nb">test </span>suite of this project
+       example: pttest phpunit init
+       example: pttest phpunit initialize
 
        - execute
-       Executes the Cucumber <span class="nb">test </span>suite of this project
-       example: pttest cucumber execute
+       Executes the PHPUnit <span class="nb">test </span>suite of this project
+       example: pttest phpunit execute
 
 ------------------------------
 End Help
@@ -162,66 +165,35 @@ End Help
 </pre></div>
 </div>
 </div>
-<div class="section" id="how-to-initialize-cucumber">
-<h2>How to initialize cucumber<a class="headerlink" href="#how-to-initialize-cucumber" title="Permalink to this headline">¶</a></h2>
-<p>The command used for initialize the cucumber under pttest is shown:</p>
-<div class="highlight-bash"><div class="highlight"><pre>pttest cucumber init
+<div class="section" id="alternative-parameter">
+<h2>Alternative parameter<a class="headerlink" href="#alternative-parameter" title="Permalink to this headline">¶</a></h2>
+<p>Instead of using phpunit the user can utilize the following altenative parameters.</p>
+<p>PHPUnit,  phpunit</p>
+</div>
+<div class="section" id="initialize">
+<h2>Initialize<a class="headerlink" href="#initialize" title="Permalink to this headline">¶</a></h2>
+<p>It initializes the phptest suite of this project. This can instruct the user to script the common use to set up autoloading for the classes that are to be tested. The command for init is as follows,</p>
+<div class="highlight-bash"><div class="highlight"><pre>pttest phpunit init
 </pre></div>
 </div>
-<p>or</p>
-<div class="highlight-bash"><div class="highlight"><pre>pttest cucumber initialize
-</pre></div>
-</div>
-<p>After inputting the command above, the process of initialize occurs as depicted in the below table.</p>
-<table border="1" class="table-bordered docutils">
-<colgroup>
-<col width="24%" />
-<col width="31%" />
-<col width="16%" />
-<col width="29%" />
-</colgroup>
-<thead valign="bottom">
-<tr class="row-odd"><th class="head">Parameters</th>
-<th class="head">Alternative parameters</th>
-<th class="head">Options</th>
-<th class="head">Comments</th>
-</tr>
-</thead>
-<tbody valign="top">
-<tr class="row-even"><td>Initialize Cucumber? (Y/N)</td>
-<td>Instead of Cucumber, we can use
-cucumber also.</td>
-<td>Y(Yes)</td>
-<td>If the user wish to proceed the
-init they can input as Y.</td>
-</tr>
-<tr class="row-odd"><td>Initialize Cucumber? (Y/N)</td>
-<td>Instead of Cucumber, we can use
-cucumber also.</td>
-<td>N(No)</td>
-<td>If the user wish to quit the init
-process they can input as N.|</td>
-</tr>
-</tbody>
-</table>
-<p>Finally the pttest cucumber gets initialized as shown in the following screenshot.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# pttest cucumber init
-Initialize Cucumber? <span class="o">(</span>Y/N<span class="o">)</span>
+<p>After inputting the system can question as Initialize PHPUnit? Y/N . This   can be explained by thefollowing screenshot.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# pttest phpunit init
+Initialize PHPUnit? <span class="o">(</span>Y/N<span class="o">)</span>
 Y
 *******************************
 *   Golden Contact Computing  *
-*          Cucumber         *
+*          PHPUnit         *
 *******************************
-Creating /tmp/ptconfigure-temp-script-81470621814.sh
-chmod <span class="m">755</span> /tmp/ptconfigure-temp-script-81470621814.sh 2&gt;/dev/null
-Changing /tmp/ptconfigure-temp-script-81470621814.sh Permissions
-Executing /tmp/ptconfigure-temp-script-81470621814.sh
-Temp File /tmp/ptconfigure-temp-script-81470621814.sh Removed
-Creating /tmp/ptconfigure-temp-script-65310697385.sh
-chmod <span class="m">755</span> /tmp/ptconfigure-temp-script-65310697385.sh 2&gt;/dev/null
-Changing /tmp/ptconfigure-temp-script-65310697385.sh Permissions
-Executing /tmp/ptconfigure-temp-script-65310697385.sh
-Temp File /tmp/ptconfigure-temp-script-65310697385.sh Removed
+Creating /tmp/ptconfigure-temp-script-79746566500.sh
+chmod <span class="m">755</span> /tmp/ptconfigure-temp-script-79746566500.sh 2&gt;/dev/null
+Changing /tmp/ptconfigure-temp-script-79746566500.sh Permissions
+Executing /tmp/ptconfigure-temp-script-79746566500.sh
+Temp File /tmp/ptconfigure-temp-script-79746566500.sh Removed
+Creating /tmp/ptconfigure-temp-script-57284647129.sh
+chmod <span class="m">755</span> /tmp/ptconfigure-temp-script-57284647129.sh 2&gt;/dev/null
+Changing /tmp/ptconfigure-temp-script-57284647129.sh Permissions
+Executing /tmp/ptconfigure-temp-script-57284647129.sh
+Temp File /tmp/ptconfigure-temp-script-57284647129.sh Removed
 ... All <span class="k">done</span>!
 *******************************
 Thanks <span class="k">for</span> installing , visit www.gcsoftshop.co.uk <span class="k">for</span> more
@@ -232,7 +204,7 @@ Single App Installer:
 --------------------------------------------
 
 
-Cucumber: Success
+PHPUnitInit: Success
 
 ------------------------------
 Installer Finished
@@ -240,52 +212,88 @@ Installer Finished
 </pre></div>
 </div>
 </div>
-<div class="section" id="how-to-execute-the-cucumber">
-<h2>How to Execute the Cucumber<a class="headerlink" href="#how-to-execute-the-cucumber" title="Permalink to this headline">¶</a></h2>
-<p>The command used for executing the cucumber under pttest is shown:</p>
-<div class="highlight-bash"><div class="highlight"><pre>pttest cucumber execute
+<div class="section" id="execute">
+<h2>Execute<a class="headerlink" href="#execute" title="Permalink to this headline">¶</a></h2>
+<p>This execute helps the user to executes PHPUnit test suite of pttest. Programs for a system can execute in a batch process without human interaction, or a user may type commands in an interactive session of an interpreter. The following command is used to execute phpunit.</p>
+<div class="highlight-bash"><div class="highlight"><pre>pttest phpunit execute
 </pre></div>
 </div>
-<p>After inputting the command above, the process of execution occurs as depicted in the below table.</p>
+<p>After typing the command it ask a question. It can be visualized by the following image.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# pttest phpunit execute
+Execute PHPUnit? <span class="o">(</span>Y/N<span class="o">)</span>
+Y
+*******************************
+*   Golden Contact Computing  *
+*          PHPUnit         *
+*******************************
+Creating /tmp/ptconfigure-temp-script-23757829034.sh
+chmod <span class="m">755</span> /tmp/ptconfigure-temp-script-23757829034.sh 2&gt;/dev/null
+Changing /tmp/ptconfigure-temp-script-23757829034.sh Permissions
+Executing /tmp/ptconfigure-temp-script-23757829034.sh
+/tmp/ptconfigure-temp-script-23757829034.sh: 3: /tmp/ptconfigure-temp-script-23757829034.sh: phpunit: not found
+Temp File /tmp/ptconfigure-temp-script-23757829034.sh Removed
+Creating /tmp/ptconfigure-temp-script-85280710426.sh
+chmod <span class="m">755</span> /tmp/ptconfigure-temp-script-85280710426.sh 2&gt;/dev/null
+Changing /tmp/ptconfigure-temp-script-85280710426.sh Permissions
+Executing /tmp/ptconfigure-temp-script-85280710426.sh
+Temp File /tmp/ptconfigure-temp-script-85280710426.sh Removed
+... All <span class="k">done</span>!
+*******************************
+Thanks <span class="k">for</span> installing , visit www.gcsoftshop.co.uk <span class="k">for</span> more
+******************************
+
+
+Single App Installer:
+--------------------------------------------
+
+
+PHPUnitExec: Success
+
+------------------------------
+Installer Finished
+******************************
+</pre></div>
+</div>
+</div>
+<div class="section" id="option">
+<h2>Option<a class="headerlink" href="#option" title="Permalink to this headline">¶</a></h2>
 <table border="1" class="table-bordered docutils">
 <colgroup>
-<col width="23%" />
-<col width="30%" />
-<col width="15%" />
-<col width="32%" />
+<col width="29%" />
+<col width="22%" />
+<col width="49%" />
 </colgroup>
 <thead valign="bottom">
 <tr class="row-odd"><th class="head">Parameters</th>
-<th class="head">Alternative parameters</th>
-<th class="head">Options</th>
+<th class="head">Syntax</th>
 <th class="head">Comments</th>
 </tr>
 </thead>
 <tbody valign="top">
-<tr class="row-even"><td>Execute Cucumber? (Y/N)</td>
-<td>Instead of Cucumber, we can use
-cucumber also.</td>
-<td>Y(Yes)</td>
-<td>If the user wish to proceed the
-execution they can input as Y.</td>
+<tr class="row-even"><td>Initialize Phpunit? (Y/N)</td>
+<td>Yes</td>
+<td>phpunit can be initialized under pttest.</td>
 </tr>
-<tr class="row-odd"><td>Execute Cucumber? (Y/N)</td>
-<td>Instead of Cucumber, we can use
-cucumber also.</td>
-<td>N(No)</td>
-<td>If the user wish to quit the execution
-process they can input as N.|</td>
+<tr class="row-odd"><td>Execute Phpunit? (Y/N)</td>
+<td>Yes</td>
+<td>Phpunit can be executed under pttest.</td>
+</tr>
+<tr class="row-even"><td>Initialize Phpunit/Execute
+Phpunit? (Y/N)|</td>
+<td>No</td>
+<td>It can exit the screen</td>
 </tr>
 </tbody>
 </table>
-<p>If the user proceed the execution, the process of execution will occur as depicted in the following screen shot.</p>
 </div>
 <div class="section" id="benefits">
 <h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li>It is well-to-do in both cent OS and as well as in ubuntu.</li>
-<li>The parameters used in declaration are not case sensitive which is an added advantage while compared to others.</li>
-<li>This cucumber allows the users to initialize and to execute the cucumber test suite.</li>
+<li>PHPUnit was created with the view that the sooner you detect your code mistakes, the quicker you can fix them.</li>
+<li>Like all Unit testing frameworks PHPUnit uses assertions to verify that behaviour of the unit of code under test behaves as expected.</li>
+<li>PHPUnit can output test results in a number of different formats like xml .</li>
+<li>Phpunit can be a non-case sensitivity.</li>
+<li>Phpunit comforts with Ubuntu and centOS.</li>
 </ul>
 </div>
 </div>
@@ -343,8 +351,8 @@ process they can input as N.|</td>
 
         <li>
           Go to
-        <a href="https://github.com/deepakajaylinux/kevellphara/blob/master/cucumber.rst">
-          Cucumber
+        <a href="https://github.com/deepakajaylinux/kevellphara/blob/master/phpunit_pttest.rst">
+          PhpUnit
         </a> on GitHub.
       </li>
 

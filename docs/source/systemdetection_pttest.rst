@@ -11,18 +11,18 @@ This module aims at detecting the user’s machine and in hand provides them the
 Help command
 ---------------
 
-The help command leads the users regarding the purpose and as well as about the options that are included in the System detection modules. The help command lists out the alternative parameters of System detection under Testingkamen module. It also describes the syntax for detecting theuser’s machine. The help command for System detection is shown below.
+The help command leads the users regarding the purpose and as well as about the options that are included in the System detection modules. The help command lists out the alternative parameters of System detection under pttest module. It also describes the syntax for detecting theuser’s machine. The help command for System detection is shown below.
 
 
 .. code-block:: bash
 
-		testingkamen systemdetection help
+		pttest systemdetection help
 
 The syntax for help command is non-case sensitive which adds an advantage for this module. The following screenshot visualize about the help command under system detection.
 
 .. code-block:: bash
 
- kevells@corp:/# testingkamen systemdetection help
+ kevell@corp:/# pttest systemdetection help
  ******************************
 
 
@@ -33,7 +33,7 @@ The syntax for help command is non-case sensitive which adds an advantage for th
 
         - detect
         Detects the Operating System
-        example: cleopatra system-detection detect
+        example: ptconfigure system-detection detect
 
  ------------------------------
  End Help
@@ -47,7 +47,7 @@ When the user needs to detect the system settings, the below given command will 
 
 .. code-block:: bash
 	
-		testingkamen systemdetection detect
+		pttest systemdetection detect
 
 System ends up with providing the below given details:
 
@@ -63,7 +63,7 @@ The following screen shot depicts you about the process of system detection.
 
 .. code-block:: bash
 
- kevells@corp:/# testingkamen system-detection detect
+ kevell@corp:/# pttest system-detection detect
  ******************************
 
 
@@ -99,7 +99,8 @@ Benefits
 -------------
 
 * The users can configure the application settings using this system detection.
-* The parameters used for declaring help command, system detection are not case sensitive which an added advantage while compared to others is.
+* The parameters used for declaring help command, system detection are not case sensitive which an added advantage while compared to 
+  others is.
 * It is well-to-do in both Cent OS and as well as in Ubuntu.
 * Protection and security is possible. Preventing harm to the system and to resources, through internal processes or malicious outsiders. 
   Authntication, ownership, and restricted access are obvious parts of this system.

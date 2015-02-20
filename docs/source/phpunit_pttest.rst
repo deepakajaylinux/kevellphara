@@ -5,25 +5,25 @@ PhpUnit
 Synopsis
 ----------
 
-Phpunit is a unit testing framework for the PHP programming language in tesingkamen. It is an instance of the architecture for unit testing frameworks that originated with initializes php test suite and became popular with testingkamen. 
+Phpunit is a unit testing framework for the PHP programming language in tesingkamen. It is an instance of the architecture for unit testing frameworks that originated with initializes php test suite and became popular with pttest. 
 
 It functions in two ways. They are init and execute. It is valuable to work with Ubuntu and centos.
 
 Help command
 ---------------
 
-The help command leads the users regarding the purpose and as well as about the options that are included in the Phpunit modules. The help command lists out the alternative parameters of Phpunit under Testingkamen module. It also describes the syntax for initializing the user’s machine. The help command for phpunit is shown below.
+The help command leads the users regarding the purpose and as well as about the options that are included in the Phpunit modules. The help command lists out the alternative parameters of Phpunit under pttest module. It also describes the syntax for initializing the user’s machine. The help command for phpunit is shown below.
 
 .. code-block:: bash
 	
-		testingkamen phpunit help
+		pttest phpunit help
 
 The syntax for the help command non case sensitive which adds an advantage for this module. The following screenshot visualize the user about the help command under system detection.
 
 
 .. code-block:: bash
 
- kevells@corp:/# testingkamen PHPUnit help
+ kevell@corp:/# pttest PHPUnit help
  ******************************
 
 
@@ -33,12 +33,12 @@ The syntax for the help command non case sensitive which adds an advantage for t
 
         - init, initialize
         Initialises the PHPUnit test suite of this project
-        example: testingkamen phpunit init
-        example: testingkamen phpunit initialize
+        example: pttest phpunit init
+        example: pttest phpunit initialize
 
         - execute
         Executes the PHPUnit test suite of this project
-        example: testingkamen phpunit execute
+        example: pttest phpunit execute
 
  ------------------------------
  End Help
@@ -60,30 +60,30 @@ It initializes the phptest suite of this project. This can instruct the user to 
 
 .. code-block:: bash
 
-		testingkamen phpunit init
+		pttest phpunit init
 
 After inputting the system can question as Initialize PHPUnit? Y/N . This   can be explained by thefollowing screenshot.
 
 
 .. code-block:: bash
 
- kevells@corp:/# testingkamen phpunit init
+ kevell@corp:/# pttest phpunit init
  Initialize PHPUnit? (Y/N) 
  Y
  *******************************
  *   Golden Contact Computing  *
  *          PHPUnit         *
  *******************************
- Creating /tmp/cleopatra-temp-script-79746566500.sh
- chmod 755 /tmp/cleopatra-temp-script-79746566500.sh 2>/dev/null
- Changing /tmp/cleopatra-temp-script-79746566500.sh Permissions
- Executing /tmp/cleopatra-temp-script-79746566500.sh
- Temp File /tmp/cleopatra-temp-script-79746566500.sh Removed
- Creating /tmp/cleopatra-temp-script-57284647129.sh
- chmod 755 /tmp/cleopatra-temp-script-57284647129.sh 2>/dev/null
- Changing /tmp/cleopatra-temp-script-57284647129.sh Permissions
- Executing /tmp/cleopatra-temp-script-57284647129.sh
- Temp File /tmp/cleopatra-temp-script-57284647129.sh Removed
+ Creating /tmp/ptconfigure-temp-script-79746566500.sh
+ chmod 755 /tmp/ptconfigure-temp-script-79746566500.sh 2>/dev/null
+ Changing /tmp/ptconfigure-temp-script-79746566500.sh Permissions
+ Executing /tmp/ptconfigure-temp-script-79746566500.sh
+ Temp File /tmp/ptconfigure-temp-script-79746566500.sh Removed
+ Creating /tmp/ptconfigure-temp-script-57284647129.sh
+ chmod 755 /tmp/ptconfigure-temp-script-57284647129.sh 2>/dev/null
+ Changing /tmp/ptconfigure-temp-script-57284647129.sh Permissions
+ Executing /tmp/ptconfigure-temp-script-57284647129.sh
+ Temp File /tmp/ptconfigure-temp-script-57284647129.sh Removed
  ... All done!
  *******************************
  Thanks for installing , visit www.gcsoftshop.co.uk for more
@@ -104,35 +104,35 @@ After inputting the system can question as Initialize PHPUnit? Y/N . This   can 
 Execute
 -------------
 
-This execute helps the user to executes PHPUnit test suite of testingkamen. Programs for a system can execute in a batch process without human interaction, or a user may type commands in an interactive session of an interpreter. The following command is used to execute phpunit.
+This execute helps the user to executes PHPUnit test suite of pttest. Programs for a system can execute in a batch process without human interaction, or a user may type commands in an interactive session of an interpreter. The following command is used to execute phpunit.
 
 .. code-block:: bash
 
-		testingkamen phpunit execute
+		pttest phpunit execute
 
 After typing the command it ask a question. It can be visualized by the following image.
 
 
 .. code-block:: bash
 
- kevells@corp:/# testingkamen phpunit execute
+ kevell@corp:/# pttest phpunit execute
  Execute PHPUnit? (Y/N) 
  Y
  *******************************
  *   Golden Contact Computing  *
  *          PHPUnit         *
  *******************************
- Creating /tmp/cleopatra-temp-script-23757829034.sh
- chmod 755 /tmp/cleopatra-temp-script-23757829034.sh 2>/dev/null
- Changing /tmp/cleopatra-temp-script-23757829034.sh Permissions
- Executing /tmp/cleopatra-temp-script-23757829034.sh
- /tmp/cleopatra-temp-script-23757829034.sh: 3: /tmp/cleopatra-temp-script-23757829034.sh: phpunit: not found
- Temp File /tmp/cleopatra-temp-script-23757829034.sh Removed
- Creating /tmp/cleopatra-temp-script-85280710426.sh
- chmod 755 /tmp/cleopatra-temp-script-85280710426.sh 2>/dev/null
- Changing /tmp/cleopatra-temp-script-85280710426.sh Permissions
- Executing /tmp/cleopatra-temp-script-85280710426.sh
- Temp File /tmp/cleopatra-temp-script-85280710426.sh Removed
+ Creating /tmp/ptconfigure-temp-script-23757829034.sh
+ chmod 755 /tmp/ptconfigure-temp-script-23757829034.sh 2>/dev/null
+ Changing /tmp/ptconfigure-temp-script-23757829034.sh Permissions
+ Executing /tmp/ptconfigure-temp-script-23757829034.sh
+ /tmp/ptconfigure-temp-script-23757829034.sh: 3: /tmp/ptconfigure-temp-script-23757829034.sh: phpunit: not found
+ Temp File /tmp/ptconfigure-temp-script-23757829034.sh Removed
+ Creating /tmp/ptconfigure-temp-script-85280710426.sh
+ chmod 755 /tmp/ptconfigure-temp-script-85280710426.sh 2>/dev/null
+ Changing /tmp/ptconfigure-temp-script-85280710426.sh Permissions
+ Executing /tmp/ptconfigure-temp-script-85280710426.sh
+ Temp File /tmp/ptconfigure-temp-script-85280710426.sh Removed
  ... All done!
  *******************************
  Thanks for installing , visit www.gcsoftshop.co.uk for more
@@ -159,9 +159,9 @@ Option
  +------------------------------+-----------------------+--------------------------------------------------+
  | Parameters			| Syntax		| Comments	                           	   |
  +==============================+=======================+==================================================+
- |Initialize Phpunit? (Y/N)	| Yes			| phpunit can be initialized under testingkamen.   |
+ |Initialize Phpunit? (Y/N)	| Yes			| phpunit can be initialized under pttest.         |
  +------------------------------+-----------------------+--------------------------------------------------+
- |Execute Phpunit? (Y/N)	| Yes			| Phpunit can be executed under testingkamen.	   |
+ |Execute Phpunit? (Y/N)	| Yes			| Phpunit can be executed under pttest.	           |
  +------------------------------+-----------------------+--------------------------------------------------+
  |Initialize Phpunit/Execute 	| No			| It can exit the screen			   |
  |Phpunit? (Y/N)|		|			|					 	   |

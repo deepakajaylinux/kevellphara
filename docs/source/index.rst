@@ -15,9 +15,9 @@ Commands
    
  ptconfigure_main
  ptdeploy_main
+ pttest_main
  phlagrant
  jrush_main
- Testingkamen_main
 
 Indices and tables
 ==================

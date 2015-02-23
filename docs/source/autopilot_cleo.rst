@@ -23,7 +23,7 @@ The following screenshot shows the functionality of autopilot.
 
 .. code-block:: bash
 
- kevell@corp:~# ptconfigure autopilot help
+ kevell@corp:/# ptconfigure autopilot help
  ******************************
 
 

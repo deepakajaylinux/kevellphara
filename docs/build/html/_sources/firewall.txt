@@ -102,9 +102,9 @@ Firewalls rules can be customized as per your needs, requirements & security thr
         |		      |an error to the connector	  |						          |
 	+---------------------+-----------------------------------+-------------------------------------------------------+
 	|Limit		      |Ufw will deny connections if an IP |ptconfigure firewall limit –firewall-rule=”ssh/tcp”    |
-        |		      |address has initiate 6 or attempted|						          |
-        |		      |to more connection in the last 30  |						          |
-	|		      |seconds.				  |						          |
+        |		      |address has initiate 6 or          |						          |
+        |		      |attempted to more connection in    |						          |
+	|		      |the last 30 seconds.		  |						          |
 	+---------------------+-----------------------------------+-------------------------------------------------------+
 	|Delete		      |Delete a firewall rule		  |ptconfigure firewall delete –firewall-rule=”ssh/tcp”   |
 	+---------------------+-----------------------------------+-------------------------------------------------------+

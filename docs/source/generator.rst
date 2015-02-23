@@ -23,7 +23,7 @@ The help command highlights the major objective of this module. It lists outs th
 The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under generator.
 
 
- How to use Generator
+How to use Generator
 -----------------------------
 
 The main role of generator is to go through all modules to create an autopilot. This can be implemented by using the command given below,

@@ -100,7 +100,7 @@ Options
  |Install		    | used in command line. 			         | 	         |			              |
  | 			    | NagiosServer, nagios-server, nagiosserver, nagios  |               |				      |
  |			    | Eg: ptconfigure nagios install/ 		         |               |				      |
- |			    |  	ptconfigure nagiosserver install		 |               |				      |
+ |			    |  	  ptconfigure nagiosserver install		 |               |				      |
  +--------------------------+----------------------------------------------------+---------------+------------------------------------+
  |ptconfigure nagiosserver  | There are four alternative parameters which can be | N             | System stops installation process  |
  |Install                   | used in command line.                              |               |                                    |

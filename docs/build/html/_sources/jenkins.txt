@@ -119,7 +119,7 @@ Options
 	+=============================+==========================+=======================+===============================================+
 	|ptconfigure  Jenkins Install |Instead of using Jenkins, |Y		         |Once the user provides the option, System      |
 	|			      |the user can add jenkins  |		         |starts installation process		         |
-	+-----------------------------+------------------------+-------------------------+-----------------------------------------------+
+	+-----------------------------+--------------------------+-----------------------+-----------------------------------------------+
 	|ptconfigure  Jenkins Install |Instead of using Jenkins, |N		         |Once the user provides the option, System      |
 	|			      |the user can add jenkins	 |		         |stops installation process|  		         |
 	+-----------------------------+--------------------------+-----------------------+-----------------------------------------------+

@@ -156,7 +156,7 @@ below,
 .. code-block:: bash
 	
 	ptconfigure cleofy install-generic-autopilots        
-Or,
+Or  
 
 .. code-block:: bash
 

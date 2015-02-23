@@ -64,6 +64,7 @@ This functions allows the users to encrypt a file or string by simply using the 
 
 
 .. code-block:: bash
+	
 	 sudo ptconfigure encryption install --yes --unencrypted-data=/var/www/a-website/build/config/ptconfigure/SSH/raw/bastion
  	--encryption-target-file=/tmp/encrypted --encryption-key=/root/.ptconfigure/SSH/key --encryption-file-permissions=""                
 	 --encryption-file-owner="" --encryption-file-group=""                

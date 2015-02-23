@@ -59,11 +59,11 @@ After inputting the command above, the following process occurs as shown in the 
  +-----------------------------+----------------------------------+----------------+---------------------------------------------+
  |      Parameters             | Alternative Parameter            |     Options    |            Comments                         |
  +=============================+==================================+================+=============================================+
- |Install The Oracle Java      |Inspite of HHVM we can use hhvm   |Y(Yes)          |If the user wish to proceed the installation |
- |JDK 1.7? (Y/N)               |also.                             |                |process they can input as Y.                 |
+ |Install HHVM? (Y/N)          |Inspite of HHVM we can use hhvm   |Y(Yes)          |If the user wish to proceed the installation |
+ |                             |also.                             |                |process they can input as Y.                 |
  +-----------------------------+----------------------------------+----------------+---------------------------------------------+
- |Install The Oracle Java      |Inspite of HHVM we can use hhvm   |N(No)           |If the user wish to quit the installation    |
- |JDK 1.7? (Y/N)               |also.                             |                |process they can input as N.|                |
+ |Install HHVM? (Y/N)          |Inspite of HHVM we can use hhvm   |N(No)           |If the user wish to quit the installation    |
+ |                             |also.                             |                |process they can input as N.|                |
  +-----------------------------+----------------------------------+----------------+---------------------------------------------+
 
 

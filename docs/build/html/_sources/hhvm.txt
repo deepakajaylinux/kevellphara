@@ -59,10 +59,10 @@ After inputting the command above, the following process occurs as shown in the 
  +-----------------------------+----------------------------------+----------------+---------------------------------------------+
  |      Parameters             | Alternative Parameter            |     Options    |            Comments                         |
  +=============================+==================================+================+=============================================+
- |Install HHVM? (Y/N)          |Inspite of HHVM we can use hhvm   |Y(Yes)          |If the user wish to proceed the installation |
+ |Install HHVM? (Y/N)          |Instead of HHVM we can use hhvm   |Y(Yes)          |If the user wish to proceed the installation |
  |                             |also.                             |                |process they can input as Y.                 |
  +-----------------------------+----------------------------------+----------------+---------------------------------------------+
- |Install HHVM? (Y/N)          |Inspite of HHVM we can use hhvm   |N(No)           |If the user wish to quit the installation    |
+ |Install HHVM? (Y/N)          |Instead of HHVM we can use hhvm   |N(No)           |If the user wish to quit the installation    |
  |                             |also.                             |                |process they can input as N.|                |
  +-----------------------------+----------------------------------+----------------+---------------------------------------------+
 

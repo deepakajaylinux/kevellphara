@@ -179,21 +179,21 @@ Options
 
 .. cssclass:: table-bordred
 
-	+-----------------------+-----------------------+----------------------------+------------------------------------------+
-        | Parameters            | Directory             | Options                    | Comment                                  |
-        +=======================+=======================+============================+==========================================+
-	|Install mongoDB server |YES                    |In Spite of mongoDB, the    |It will install mongoDB under ptconfigure |
-        |		       	|    	                |following alternatives can  |               				|
-    	|		       	|    	                |also be used: MongoDB,      |               				|
-    	|		       	|    	                |mongo-db-server,mongo-db,   |               				|
-    	|		       	|    	                |mongodb-server, mongodb,    |               				|
-	+-----------------------+-----------------------+----------------------------+------------------------------------------+
-	|Install mongoDB server |NO                     |In Spite of mongoDB, the    |It will exit                              |
-        |		       	|    	                |following alternatives can  |               				|
-    	|		       	|    	                |also be used: MongoDB,      |               				|
-    	|		       	|    	                |mongo-db-server,mongo-db,   |               				|
-    	|		       	|    	                |mongodb-server, mongodb|    | 	               				|
-	+-----------------------+-----------------------+----------------------------+------------------------------------------+
+	+-----------------------+----------------------------+---------+------------------------------------------+
+        | Parameters            | Alternative Parameter      | Options | Comment                                  |
+        +=======================+============================+=========+==========================================+
+	|Install mongoDB server |Instead of mongoDB, the     |Yes      |It installs mongoDB under ptconfigure     |
+        |		       	|following alternatives can  |         |                                          |
+	|		       	|also be used: MongoDB,      |         |      				          |
+    	|		       	|mongo-db-server,mongo-db,   |         |      				          |
+    	|		       	|mongodb-server, mongodb,    |         |      				          |
+	+-----------------------+----------------------------+---------+------------------------------------------+
+	|Install mongoDB server |Instead of mongoDB, the     |No       |It exits                                  |
+        |		       	|following alternatives can  |         |      				          |
+    	|		       	|also be used: MongoDB,      |         |      				          |
+    	|		       	|mongo-db-server,mongo-db,   |         |      				          |
+    	|		       	|mongodb-server, mongodb|    | 	       |        				  |
+	+-----------------------+----------------------------+---------+------------------------------------------+
 
 Benefits
 ----------

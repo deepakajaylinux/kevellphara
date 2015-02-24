@@ -55,11 +55,11 @@ After inputting the command above, the following process occurs as shown in the 
 	+-----------------------------+----------------------------------+--------------+-----------------------------------------------+
 	|	Parameters  	      | Alternative Parameter            | Option	| 		Comments		        |
 	+=============================+==================================+==============+===============================================+
-	|Install The Oracle           |Inspite of Oracle Java JDK 1.7,   |Y(Yes)	|If the user wish to proceed the installation   |
+	|Install The Oracle           |Instead of Oracle Java JDK 1.7,   |Y(Yes)	|If the user wish to proceed the installation   |
 	|Java JDK 1.7? (Y/N)  	      |the following alternatives can    |		|process they can input as Y.		        |
 	|			      |also be used: Java, java, java17  |	        |                                               |
         +-----------------------------+----------------------------------+--------------+-----------------------------------------------+
-	|Install The Oracle           |Inspite of Oracle Java JDK 1.7,   |N(No)		|If the user wish to quit the installation      |
+	|Install The Oracle           |Instead of Oracle Java JDK 1.7,   |N(No)		|If the user wish to quit the installation      |
 	|Java JDK 1.7? (Y/N)  	      |the following alternatives can    |		|process they can input as N.		        |
 	|			      |also be used: Java, java, java17| |		|						|
 	+-----------------------------+----------------------------------+--------------+-----------------------------------------------+

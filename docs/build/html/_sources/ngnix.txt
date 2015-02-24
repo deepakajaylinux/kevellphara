@@ -57,13 +57,13 @@ After inputting the command above the following operations as shown in the tabul
   +---------------------------------+--------------------------------+--------------+-----------------------------------------------------+
   |   Paramaters 		    | Alternative Parameter          | Options	    |	comments			                  |
   +=================================+================================+==============+=====================================================+
-  |Install PHP Code Sniffer ? (Y/N) |In Spite of Nginx Server, the   |		    |If the user wish to proceed the installation process |
-  |				    |following alternatives can also |  Y(yes)      |they can input as Y.			    	  |
+  |ptconfigure nginx-server         |In Spite of Nginx Server, the   | Y(Yes)	    |If the user wish to proceed the installation process |
+  |install? (Y/N)        	    |following alternatives can also |              |they can input as Y.			    	  |
   |				    |be used: NginxServer, 	     |		    |							  |
   |				    |nginx-server, nginxserver.      |		    | 							  |
   +---------------------------------+--------------------------------+--------------+-----------------------------------------------------+
-  |Install PHP Code Sniffer ? (Y/N) |In Spite of Nginx Server, the   |		    |If the user wish to Quit the installation process    |
-  |				    |following alternatives can also |  Y(yes)      |they can input as N.|			    	  |
+  |ptconfigure nginx-server         |In Spite of Nginx Server, the   | N(No)	    |If the user wish to Quit the installation process    |
+  |install? (Y/N)        	    |following alternatives can also |              |they can input as N.|			    	  |
   |				    |be used: NginxServer, 	     |		    |							  |
   |				    |nginx-server, nginxserver.|     |		    | 							  |
   +---------------------------------+--------------------------------+--------------+-----------------------------------------------------+

@@ -62,7 +62,7 @@ Before installation the user has to follow:
 
 .. code-block:: bash
 
- kevells@corp:/# ptconfigure newrelic install
+ kevell@corp:/# ptconfigure newrelic install
 
  Install NewRelic? (Y/N) 
  y
@@ -410,15 +410,15 @@ Options
 
 .. cssclass:: table-bordered
 
- +------------------------+---------------+--------------------------------------+-------------------------------------------+
- | Parameters	          | Options	  | Alternative Parameters		 | Comments				     |
- +========================+===============+======================================+===========================================+
- |Install newrelic?(Y/N)  | Y		  | Instead of using newrelic the user   | It starts installing newrelic under	     |
- |			  |	          | can use NewRellic, Newrelic		 | ptconfigure				     |
- +------------------------+---------------+--------------------------------------+-------------------------------------------+
- |Install newrelic?(Y/N)  | N		  | Instead of using newrelic the user   | It terminates the installation	     |
- |			  | 		  | can use NewRellic, Newrelic.| 	 |					     |
- +------------------------+---------------+--------------------------------------+-------------------------------------------+
+ +------------------------+--------------------------------------+---------------+-------------------------------------------+
+ | Parameters	          |  Alternative Parameters		 | Options       |Comments				     |
+ +========================+======================================+===============+===========================================+
+ |Install newrelic?(Y/N)  | Instead of using newrelic the user   | Y(Yes)        |It starts installing newrelic under	     |
+ |			  | can use NewRellic, Newrelic		 |               |ptconfigure				     |
+ +------------------------+--------------------------------------+---------------+-------------------------------------------+
+ |Install newrelic?(Y/N)  | Instead of using newrelic the user   | N(No)         |It terminates the installation	     |
+ |			  | can use NewRellic, Newrelic.| 	 |		 |			                     |
+ +------------------------+--------------------------------------+---------------+-------------------------------------------+
 
 
 Benefits

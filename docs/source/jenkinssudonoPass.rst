@@ -99,7 +99,7 @@ Options
  |			 | JenkinsSudoNoPass , jenkinssudonopass,	 |		  | as Y.				   |
  |			 | jenkins-sudo-nopass,jenkins-sudo-passwordless |		  |					   | 
  +-----------------------+-----------------------------------------------+----------------+----------------------------------------+
- |Install sudo w/o for   | In Spite of jenkinssudonopass, the following  | Y              | If the user wish to quit the           |
+ |Install sudo w/o for   | In Spite of jenkinssudonopass, the following  | N              | If the user wish to quit the           |
  |Jenkins user? (Y/N)    | alternatives can also be used:                |                | installation process they can input    |    
  |                       | JenkinsSudoNoPass , jenkinssudonopass,        |                | as N.                                  |
  |                       | jenkins-sudo-nopass,jenkins-sudo-passwordless||                |                                        | 
@@ -110,6 +110,7 @@ Options
 
 Benefits
 ------------
+
 * Open source continous integration process.
 * Jenkinssudonopass is a automating builds.
 * By scripting   builds and remove human error problems, computers are just better at running repetitive tasks.

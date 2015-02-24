@@ -62,14 +62,13 @@ This module installs the mysql tools that supports the mysql server with the aid
 	|			       	    |used:MysqlTools,mysql-tools,    |	   	  |can input as Y.                  |
 	|				    |mysqltools.      	      	     |		  | 				    |
 	+-----------------------------------+--------------------------------+------------+---------------------------------+
-	|Install MySQL Tools? (Y/N)         |In the place of Mysql Tools     |	N(YES)	  |If the user wish to proceed the  |
+	|Install MySQL Tools? (Y/N)         |In the place of Mysql Tools     |	N(No)	  |If the user wish to proceed the  |
 	|				    |these alternative names can be  |		  |installation process they	    |
 	|			       	    |used:MysqlTools,mysql-tools,    |	   	  |can input as N.|                 |
 	+-----------------------------------+--------------------------------+------------+---------------------------------+
 
-.. code-block:: bash
 
- .. rubric:: If the user proceed installing the mysql tools the following operations are performed while installing
+If the user proceed installing the mysql tools the following operations are performed while installing
 
 
 

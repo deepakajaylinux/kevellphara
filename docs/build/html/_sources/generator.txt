@@ -30,7 +30,7 @@ The main role of generator is to go through all modules to create an autopilot. 
 
 .. code-block:: bash
 
-	dapperstrano generate create
+	ptdeploy generate create
 
 
 The following screenshot depicts the process of generating and creating autopilots.

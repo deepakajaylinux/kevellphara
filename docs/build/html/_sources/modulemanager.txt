@@ -195,10 +195,10 @@ If the user proceeds the un installation, during the process of un installation,
  +------------------------------+---------------------------+---------------+----------------------------------------------------------+
  | Parameters                   | Path                      | Options       | Comments                                                 |
  +==============================+===========================+===============+==========================================================+
- |Program executor directory    | "/usr/bin"                | Yes           | If the user to proceed installation with the default     |    
+ |Program executor directory    | "/usr/bin"                | Yes           | If the user to proceed un installation with the default  |    
  | (Default)                    |                           |               | program executor directory they can input as Yes         |
  +------------------------------+---------------------------+---------------+----------------------------------------------------------+
- |Program executor directory    | user specific             | No(End slash) | If the user to proceed installation with their own       |    
+ |Program executor directory    | user specific             | No(End slash) | If the user to proceed un installation with their own    |    
  | (Default)                    |                           |               | program executor directory they can input as N, and in   |
  |                              |                           |               | hand specify they own location|                          |
  +------------------------------+---------------------------+---------------+----------------------------------------------------------+

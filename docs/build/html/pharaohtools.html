@@ -91,8 +91,8 @@
 <li><a class="reference internal" href="#help-command">Help Command</a></li>
 <li><a class="reference internal" href="#installation">Installation</a></li>
 <li><a class="reference internal" href="#ensure">Ensure</a></li>
-<li><a class="reference internal" href="#dapperstrano">Dapperstrano</a></li>
-<li><a class="reference internal" href="#testingamen">Testingamen</a></li>
+<li><a class="reference internal" href="#ptdeploy">ptdeploy</a></li>
+<li><a class="reference internal" href="#pttest">pttest</a></li>
 <li><a class="reference internal" href="#jrush">Jrush</a></li>
 <li><a class="reference internal" href="#additional-options">Additional Options</a></li>
 <li><a class="reference internal" href="#benefits">Benefits</a></li>
@@ -134,7 +134,7 @@
 <h1>PharaohTools<a class="headerlink" href="#pharaohtools" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="synopsis">
 <h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
-<p>The Pharaoh tool module assists in installing Dapperstrano, Testingamen, Jrush, generating ptconfigure reports. It facilitates the users to ensure the availability before installations. Only missing modules can be installed specifically.</p>
+<p>The Pharaoh tool module assists in installing ptdeploy, pttest, Jrush, generating ptconfigure reports. It facilitates the users to ensure the availability before installations. Only missing modules can be installed specifically.</p>
 </div>
 <div class="section" id="help-command">
 <h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
@@ -146,8 +146,8 @@
 
 
  This <span class="nb">command </span>allows you to install the Pharaoh Tools which are ready. These include
- ptconfigure - this Configuration Management tool, Dapperstrano - the Automated Deployment tool,
- and Testingkamen, the <span class="nb">test </span>configuration and automation tool.
+ ptconfigure - this Configuration Management tool, ptdeploy - the Automated Deployment tool,
+ and pttest, the <span class="nb">test </span>configuration and automation tool.
 
  PharaohTools, pharaohtools, pharaoh-tools
 
@@ -163,7 +163,7 @@ End Help
 </div>
 <div class="section" id="installation">
 <h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
-<p>The pharaoh tool module acts as a shorter route that envelops installation of Dapperstrano, Testingamen, Jrush. If any one particular module is missing among the three, the specific module alone will be installed which is an added advantage. The ensure process plays an important role in grabbing data&#8217;s regarding the availability of modules.</p>
+<p>The pharaoh tool module acts as a shorter route that envelops installation of ptdeploy, pttest, Jrush. If any one particular module is missing among the three, the specific module alone will be installed which is an added advantage. The ensure process plays an important role in grabbing data&#8217;s regarding the availability of modules.</p>
 <p>The command used for installation process under Pharaoh tool is given below,</p>
 <div class="highlight-bash"><div class="highlight"><pre>ptconfigure pharaoh-tools install
 </pre></div>
@@ -202,26 +202,26 @@ they can quit simply by using N|</td>
 <li>While ensuring, It won&#8217;t check about the versions.</li>
 </ul>
 </div>
-<div class="section" id="dapperstrano">
-<h2>Dapperstrano<a class="headerlink" href="#dapperstrano" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="ptdeploy">
+<h2>ptdeploy<a class="headerlink" href="#ptdeploy" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li>The module dapperstrano reports itself as installed, in case of existence.</li>
-<li>It also checks the version for dapperstrano module.</li>
-<li>If the dapperstrano module is not available in the machine, then automatically dapperstrano will progress to install.</li>
+<li>The module ptdeploy reports itself as installed, in case of existence.</li>
+<li>It also checks the version for ptdeploy module.</li>
+<li>If the ptdeploy module is not available in the machine, then automatically ptdeploy will progress to install.</li>
 </ul>
 </div>
-<div class="section" id="testingamen">
-<h2>Testingamen<a class="headerlink" href="#testingamen" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="pttest">
+<h2>pttest<a class="headerlink" href="#pttest" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li>After completion of installing dapperstrano, it will ensure the Testingamen module.</li>
-<li>The module Testingamen reports itself as installed, in case of existence.</li>
-<li>If the Testingamen module is not available in the machine, then automatically Testingamen will progress to install.</li>
+<li>After completion of installing ptdeploy, it will ensure the pttest module.</li>
+<li>The module pttest reports itself as installed, in case of existence.</li>
+<li>If the pttest module is not available in the machine, then automatically pttest will progress to install.</li>
 </ul>
 </div>
 <div class="section" id="jrush">
 <h2>Jrush<a class="headerlink" href="#jrush" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li>After completion of installing Testingamen, it will ensure the Jrush module.</li>
+<li>After completion of installing pttest, it will ensure the Jrush module.</li>
 <li>The module Jrush reports itself as installed, in case of existence.</li>
 <li>If the Jrush module is not available in the machine, then automatically Jrush will progress to install.</li>
 </ul>
@@ -234,10 +234,10 @@ Y
 *         Pharaoh Tools        *
 *******************************
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> Ensure module install is not checking versions
-<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Module Dapperstrano reports itself as Installed
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Module ptdeploy reports itself as Installed
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> Not installing as already installed
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> Ensure module install is not checking versions
-<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Module Testingkamen reports itself as Installed
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Module pttest reports itself as Installed
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> Not installing as already installed
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> Ensure module install is not checking versions
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> Module ptconfigure reports itself as Installed
@@ -262,7 +262,7 @@ Installer Finished
 </div>
 <div class="section" id="additional-options">
 <h2>Additional Options<a class="headerlink" href="#additional-options" title="Permalink to this headline">¶</a></h2>
-<p>While installing Dapperstrano, Testingamen, Jrush the following options are required as input from the user. Let us see about, the additional options that can be specified by the users if they wish, is represented in a tabular format as shown below.</p>
+<p>While installing ptdeploy, pttest, Jrush the following options are required as input from the user. Let us see about, the additional options that can be specified by the users if they wish, is represented in a tabular format as shown below.</p>
 <table border="1" class="table-bordered docutils">
 <colgroup>
 <col width="18%" />
@@ -280,7 +280,7 @@ Installer Finished
 <tbody valign="top">
 <tr class="row-even"><td>Program data
 directory (Default)</td>
-<td>&#8220;/opt/testingkamen
+<td>&#8220;/opt/pttest
 (corresponding module)&#8221;</td>
 <td>Yes</td>
 <td>If the user to proceed installation with the default
@@ -321,10 +321,10 @@ Y
 *         Pharaoh Tools        *
 *******************************
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> Ensure module install is not checking versions
-<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Module Dapperstrano reports itself as Installed
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Module ptdeploy reports itself as Installed
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> Not installing as already installed
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> Ensure module install is not checking versions
-<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Module Testingkamen reports itself as Installed
+<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Module pttest reports itself as Installed
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> Not installing as already installed
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> Ensure module install is not checking versions
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> Module ptconfigure reports itself as Installed

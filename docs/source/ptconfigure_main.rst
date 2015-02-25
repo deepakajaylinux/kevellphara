@@ -666,6 +666,7 @@ Playing with ptconfigure Modules
    teamcity
    tomcat
    ubuntucompiler   
+   user
    varnish
    virtualbox
    vmplayer

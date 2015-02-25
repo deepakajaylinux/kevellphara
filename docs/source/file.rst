@@ -90,13 +90,13 @@ Options
 
 .. cssclass:: table-bordered
 
- +-----------------------+---------------------------------------------------------+------------------------------------------+
- |	Parameters	 |		Alternative Parameter		           |		Comments		      |
- +-----------------------+---------------------------------------------------------+------------------------------------------+
- |ptconfigure file help  |Either of the two alternative parameter can be used      |Once the user provides the option, System |
- |			 |in command- File, file			           |starts processing			      |
- |			 |eg: ptconfigure File Install/ ptconfigure file Install|  |					      |
- +-----------------------+---------------------------------------------------------+------------------------------------------+
+ +-----------------------+---------------------------------------------------------+
+ |	Parameters	 |		Alternative Parameter		           |
+ +-----------------------+---------------------------------------------------------+
+ |ptconfigure file help  |Either of the two alternative parameter can be used      |
+ |			 |in command- File, file			           |
+ |			 |eg: ptconfigure File Install/ ptconfigure file Install|  |
+ +-----------------------+---------------------------------------------------------+
 
 
 Benefits

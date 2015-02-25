@@ -74,11 +74,11 @@ Option
  +-----------------------------+------------------------------------------+----------+--------------------------------------+
  |	Parameters  	       | Alternative Parameter                    | Options  | 		Comments	            |
  +=============================+==========================================+==========+======================================+
- |ptconfigure host name	       |Instead of Hostname we can use		  |Show      |System starts showing the host name   |
- |		 	       |Hostname,hostname			  | 	     |process under ptconfigure		    |
+ |ptconfigure hostname	       |Instead of Hostname we can use		  |Show      |System starts showing the host name   |
+ |		 	       |hostname			          | 	     |process under ptconfigure		    |
  +-----------------------------+------------------------------------------+----------+--------------------------------------+
  |ptconfigure hostname change  |Instead of Hostname we can use		  |Change    |System starts changing the host name  |
- |--hostname="Name" 	       |Hostname,hostname    			  | 	     |process under ptconfigure|	    |
+ |--hostname="Name" 	       |hostname    			          | 	     |process under ptconfigure|	    |
  +-----------------------------+------------------------------------------+----------+--------------------------------------+
 
 

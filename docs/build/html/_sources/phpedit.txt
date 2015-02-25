@@ -62,11 +62,11 @@ Option
  +------------------------------+----------------------------------+------------------+------------------------------------------------+
  | Parameters			| Alternative Parameters	   | Options	      | Comments				       |
  +==============================+==================================+==================+================================================+
- |Install phpedit? (Y/N)        | In Spite of PHP-Edit, the        | Y		      | The user wish to proceed the installation      |
+ |Install phpedit? (Y/N)        | Instead of PHP-Edit, the         | Y		      | The user wish to proceed the installation      |
  | 			        | following alternatives can also  |                  | process.				       |
  |				| be used: phpedit,PHPEdit         | 		      |						       |
  +------------------------------+----------------------------------+------------------+------------------------------------------------+
- |Install phpedit? (Y/N)        | In Spite of PHP-Edit, the        | Y                | The user wish to quit the installation         |
+ |Install phpedit? (Y/N)        | Instead of PHP-Edit, the         | Y                | The user wish to quit the installation         |
  |                              | following alternatives can also  |                  | process.                                       |
  |                              | be used: phpedit,PHPEdit        ||                  |                                                |
  +------------------------------+----------------------------------+------------------+------------------------------------------------+

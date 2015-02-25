@@ -76,7 +76,7 @@ Options
 	+---------------+-------------------------------------------+--------------------------------------------------+ 
 	| Parameters    |             Fuctions                      |                      Output                      |
 	+===============+===========================================+==================================================+
-	|is-responding  | Test of port is responding  Or not        |                                                  |
+	|is-responding  | Test of port is responding  Or not        | It responds to the process of port               |
 	+---------------+-------------------------------------------+--------------------------------------------------+
 	|Process        | Test the process  status  Of port         |  It will display the process of port|            |
 	+---------------+-------------------------------------------+--------------------------------------------------+
@@ -84,6 +84,7 @@ Options
 
 Benefits
 -------------
+
 * The user can check the current working status of the port.
 * It is a user friendly module.
 * Less time consuming.

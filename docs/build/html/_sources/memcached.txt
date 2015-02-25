@@ -8,7 +8,6 @@ Synopsis
 The major aspect of this module is to install and update the memcache with the latest version.
 Memcached is a general-purpose distributed memory caching system. It is often used to speed up dynamic database-driven websites by caching data and objects in RAM to reduce the number of times an external data source (such as a database or API) must be read.
 
-Memcached is free and open-source software, subject to the terms of the Revised BSD license.[2] Memcached runs on Unix-like (at least Linux and OS X) operating systems and on Microsoft Windows. There is a strict dependency on libevent.
 
 Let us see about the process of installing and using this module in upcoming topics.
 

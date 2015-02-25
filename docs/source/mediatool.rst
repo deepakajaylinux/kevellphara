@@ -353,11 +353,11 @@ Options
  +---------------------------+---------------------------------------------------+-------------+---------------------------------------+
  | Parameters		     | Alternative Parameter				 | Options     | Comment			       |
  +===========================+===================================================+=============+=======================================+
- |Install Media Tools? (Y/N) | Insteadof Media Tools,the following alternatives  | Y(Yes)      | If the user wish to proceed the       |
+ |Install Media Tools? (Y/N) | Instead of Media Tools,the following alternatives | Y(Yes)      | If the user wish to proceed the       |
  |			     | can also be used MediaTools, media-tools,         |	       | installation process they can input   |
  |			     | mediatools.					 | 	       | as Y				       |
  +---------------------------+---------------------------------------------------+-------------+---------------------------------------+
- |Install Media Tools? (Y/N) | Insteadof Media Tools,the following alternatives  | N(No)       | If the user wish to quit the          |
+ |Install Media Tools? (Y/N) | Instead of Media Tools,the following alternatives | N(No)       | If the user wish to quit the          |
  |                           | can also be used MediaTools, media-tools,         |             | installation process they can input   |
  |                           | mediatools.                                       |             | as N.|                                |
  +---------------------------+---------------------------------------------------+-------------+---------------------------------------+

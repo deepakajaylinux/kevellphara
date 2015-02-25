@@ -142,21 +142,23 @@ options
 
 .. cssclass:: table-bordered
 
-	+-------------------------------------+------------+--------------------------------------------------+
-	| Paramaeters		              | Required   |		Comments	                      |
-	+=====================================+============+==================================================+
-	|ptconfigure lighttpd-server install  | Yes	   |  This command will install the 	              |
-	|				      |	           |  LigHTTPD module	                              |
-	+-------------------------------------+------------+--------------------------------------------------+
-	|Install lighttpd-server(Y/N)	      | Y	   |  If the user inputs Y, this module               |
-	|				      |	           |  checks for previously installed                 |
-	|				      |	           |  version, if exits it was updated to             |
-	|				      |	           |  latest version or else it installs the          |
-	|				      |	           |  fresh package.                                  |
-	+-------------------------------------+------------+--------------------------------------------------+
-	|Install lighttpd-server(Y/N)	      | N	   |  If the user inputs N, the 	              |
-	|				      |	           |  installation was aborted.|	              |  
-	+-------------------------------------+------------+--------------------------------------------------+
+	+-------------------------------------+-----------------------+-----------+------------------------------------------+
+	| Paramaeters		              | Alternative Parameter | Required  |		Comments	             |
+	+=====================================+=======================+===========+==========================================+
+	|ptconfigure lighttpd-server install  | LigHTTPDServer,       | Yes	  | This command will install the 	     |
+	|				      |	lighttpd-server,      |           | LigHTTPD module	                     |
+        |                                     | lighttpdserver        |           |                                          |
+	+-------------------------------------+-----------------------+-----------+------------------------------------------+
+	|Install lighttpd-server(Y/N)	      | LigHTTPDServer,       | Y	  | If the user inputs Y, this module        |
+	|				      |	lighttpd-server,      |           | checks for previously installed          |
+	|				      |	lighttpdserver        |           | version, if exits it was updated to      |
+	|				      |	                      |           | latest version or else it installs the   |
+	|				      |	                      |           | fresh package.                           |
+	+-------------------------------------+-----------------------+-----------+------------------------------------------+
+	|Install lighttpd-server(Y/N)	      | LigHTTPDServer,       | N	  | If the user inputs N, the                |
+	|				      |	lighttpd-server,      |           | installation was aborted.                |  
+        |                                     | lighttpdserver|       |           |                                          |
+	+-------------------------------------+-----------------------+-----------+------------------------------------------+
 
 Benefits to the users
 -----------------------

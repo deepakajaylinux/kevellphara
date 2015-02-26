@@ -57,12 +57,12 @@ After inputting the command as given above the installation of Ssh Hardening beg
   +---------------------------------+--------------------------------+--------------+------------------------------------------------------+
   |   Paramaters 		    | Alternative Parameter          | Options	    |	comments			                   |
   +=================================+================================+==============+======================================================+
-  |Install Ssh Hardening? (Y/N)     |In Spite of Ssh Hardening, the  |		    |If the user wish to proceed the installation process  |
+  |Install Ssh Hardening? (Y/N)     |Instead of Ssh Hardening, the   |		    |If the user wish to proceed the installation process  |
   |				    |following alternatives can also |  Y(yes)      |they can input as Y.			    	   |
   |				    |be used: SshHarden,             |		    |							   |
   |				    |sshharden, ssh-harden.          |		    | 							   |
   +---------------------------------+--------------------------------+--------------+------------------------------------------------------+
-  |Install Ssh Hardening? (Y/N)     |In Spite of Ssh Hardening, the  |		    |If the user wish to Quit the installation process     |
+  |Install Ssh Hardening? (Y/N)     |Instead of Ssh Hardening, the   |		    |If the user wish to Quit the installation process     |
   |				    |following alternatives can also |  N(No)       |they can input as Y.			    	   |
   |				    |be used: SshHarden,             |		    |							   |
   |				    |sshharden, ssh-harden.|         |		    | 							   |

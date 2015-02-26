@@ -57,13 +57,13 @@ After inputting the command above the following operations as shown in the tabul
   +---------------------------------+--------------------------------+--------------+-----------------------------------------------------+
   |   Paramaters 		    | Alternative Parameter          | Options	    |	comments			                  |
   +=================================+================================+==============+=====================================================+
-  |ptconfigure nginx-server         |In Spite of Nginx Server, the   | Y(Yes)	    |If the user wish to proceed the installation process |
-  |install? (Y/N)        	    |following alternatives can also |              |they can input as Y.			    	  |
+  |Install Nginx Server? (Y/N)      |Instead of Nginx Server, the    | Y(Yes)	    |If the user wish to proceed the installation process |
+  |                      	    |following alternatives can also |              |they can input as Y.			    	  |
   |				    |be used: NginxServer, 	     |		    |							  |
   |				    |nginx-server, nginxserver.      |		    | 							  |
   +---------------------------------+--------------------------------+--------------+-----------------------------------------------------+
-  |ptconfigure nginx-server         |In Spite of Nginx Server, the   | N(No)	    |If the user wish to Quit the installation process    |
-  |install? (Y/N)        	    |following alternatives can also |              |they can input as N.|			    	  |
+  |Install Nginx Server? (Y/N)      |Instead of Nginx Server, the    | N(No)	    |If the user wish to Quit the installation process    |
+  |                      	    |following alternatives can also |              |they can input as N.			    	  |
   |				    |be used: NginxServer, 	     |		    |							  |
   |				    |nginx-server, nginxserver.|     |		    | 							  |
   +---------------------------------+--------------------------------+--------------+-----------------------------------------------------+

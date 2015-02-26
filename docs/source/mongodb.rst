@@ -182,18 +182,21 @@ Options
 	+-----------------------+----------------------------+---------+------------------------------------------+
         | Parameters            | Alternative Parameter      | Options | Comment                                  |
         +=======================+============================+=========+==========================================+
-	|Install mongoDB server |Instead of mongoDB, the     |Yes      |It installs mongoDB under ptconfigure     |
-        |		       	|following alternatives can  |         |                                          |
+	|Install mongoDB        |Instead of mongoDB, the     |Yes      |It installs mongoDB under ptconfigure     |
+        |Server? (Y/N)   	|following alternatives can  |         |                                          |
 	|		       	|also be used: MongoDB,      |         |      				          |
     	|		       	|mongo-db-server,mongo-db,   |         |      				          |
     	|		       	|mongodb-server, mongodb,    |         |      				          |
 	+-----------------------+----------------------------+---------+------------------------------------------+
-	|Install mongoDB server |Instead of mongoDB, the     |No       |It exits                                  |
-        |		       	|following alternatives can  |         |      				          |
+	|Install mongoDB        |Instead of mongoDB, the     |No       |It exits                                  |
+        |Server? (Y/N)	       	|following alternatives can  |         |      				          |
     	|		       	|also be used: MongoDB,      |         |      				          |
     	|		       	|mongo-db-server,mongo-db,   |         |      				          |
     	|		       	|mongodb-server, mongodb|    | 	       |        				  |
 	+-----------------------+----------------------------+---------+------------------------------------------+
+
+
+
 
 Benefits
 ----------

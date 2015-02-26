@@ -62,13 +62,13 @@ Options
  | Parameters		     | Alternative Parameters			     | Options	    | Comments				      |
  +===========================+===============================================+==============+=========================================+
  |ptconfigure PHPEclipse     | There are three alternative parameters which  | Y	    | System starts installation process      |
- |Install 		     | can be used in command line.		     | 		    |					      |
+ |Install? (Y/N)             | can be used in command line.		     | 		    |					      |
  |			     | PHP-Eclipse, PHPEclipse, phpeclipse	     |              |					      |
  |			     | Eg: ptconfigure PHPEclipse install	     | 		    |					      |
  |			     | ptconfigure PHP-Eclipse install 	             |		    | 					      |
  +---------------------------+-----------------------------------------------+--------------+-----------------------------------------+
  |ptconfigure PHPEclipse     | There are three alternative parameters which  | N            | System stops installation process       |
- |Install                    | can be used in command line.                  |              |                                         |
+ |Install? (Y/N)             | can be used in command line.                  |              |                                         |
  |                           | PHP-Eclipse, PHPEclipse, phpeclipse           |              |                                         |
  |                           | Eg: ptconfigure PHPEclipse install            |              |                                         |
  |                           | ptconfigure PHP-Eclipse install|              |              |                                         |

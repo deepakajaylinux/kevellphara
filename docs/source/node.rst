@@ -55,10 +55,10 @@ After inputting the command above, the following operations occurs as shown in t
 	+-----------------------------+----------------------------------+----------------+---------------------------------------------+
 	|	Parameters  	      | Alternative Parameter            |	Option	  | 		Comments		        |
 	+=============================+==================================+================+=============================================+
-	|Install Node JS? (Y/N)       |In Spite of Node JS, NodeJS,      |Y(Yes)	  |If the user wish to proceed the installation |
+	|Install Node JS? (Y/N)       |Instead of Node JS, NodeJS,       |Y(Yes)	  |If the user wish to proceed the installation |
 	|		 	      |node-js, nodejs can also be used. |		  |process they can input as Y.			|
 	+-----------------------------+----------------------------------+----------------+---------------------------------------------+
-	|Install Node JS? (Y/N)       |In Spite of Node JS, NodeJS,      |N(No)		  |If the user wish to proceed the installation |
+	|Install Node JS? (Y/N)       |Instead of Node JS, NodeJS,       |N(No)		  |If the user wish to proceed the installation |
 	|		 	      |node-js, nodejs can also be used. |		  |process they can input as N.|		|
 	+-----------------------------+----------------------------------+----------------+---------------------------------------------+
 

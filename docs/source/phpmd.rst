@@ -116,35 +116,35 @@ Options
 Benefits
 ------------------
 
-ExcessivePublicCount
---------------------
+Excessive PublicCount
+-----------------------
  
 A large number of public methods and attributes declared in a class can indicate the class may need to be broken up as increased effort will 
 be required to thoroughly test it.
 
-ExcessiveParameterList
-----------------------
+Excessive ParameterList
+-------------------------
 
 Long parameter lists can indicate that a new object should be created to wrap the numerous parameters. Basically, try to group the parameters  together.
 
-CyclomaticComplexity
---------------------
+Cyclomatic Complexity
+-----------------------
 
 Complexity is determined by the number of decision points in a method plus one for the method entry.
 
 Superglobals
-------------
+--------------
 
 Accessing a super-global variable directly is considered a bad practice. These variables should be encapsulated in objects that are provided 
 by a framework, for instance.
 
-ShortVariable
--------------
+Short Variable
+----------------
 
 Detects when a field, local, or parameter has a very short name.
 
-LongVariable
-------------
+Long Variable
+---------------
 
 Detects when a field, formal or local variable is declared with a long name.
 

@@ -66,7 +66,7 @@ Option
  | 			        | following alternatives can also  |                  | process.				       |
  |				| be used: phpedit,PHPEdit         | 		      |						       |
  +------------------------------+----------------------------------+------------------+------------------------------------------------+
- |Install phpedit? (Y/N)        | Instead of PHP-Edit, the         | Y                | The user wish to quit the installation         |
+ |Install phpedit? (Y/N)        | Instead of PHP-Edit, the         | N                | The user wish to quit the installation         |
  |                              | following alternatives can also  |                  | process.                                       |
  |                              | be used: phpedit,PHPEdit        ||                  |                                                |
  +------------------------------+----------------------------------+------------------+------------------------------------------------+

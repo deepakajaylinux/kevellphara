@@ -44,13 +44,13 @@ Options
  |Install Netbeans? (Y/N)          | There are Three alternative parameters 	| Y	      | System starts installation process   |
  |				   | which can be used in command line. 	| 	      | 				     |
  |				   | Netbeans , NetBeans , netbeans		| 	      |					     |
- |				   | Eg: ptconfigure NetBeans install 		|	      |					     |	
+ |				   | Eg: ptconfigure NetBeans install,		|	      |					     |	
  | 				   | ptconfigure netbeans install		|             |					     |
  +---------------------------------+--------------------------------------------+-------------+--------------------------------------+
  |Install Netbeans? (Y/N)          | There are Three alternative parameters     | N           | System stops installation process    |
  |                                 | which can be used in command line.         |             |                                      |
  |                                 | Netbeans , NetBeans , netbeans             |             |                                      |
- |                                 | Eg: ptconfigure NetBeans install           |             |                                      |  
+ |                                 | Eg: ptconfigure NetBeans install,          |             |                                      |  
  |                                 | ptconfigure netbeans install|              |             |                                      |
  +---------------------------------+--------------------------------------------+-------------+--------------------------------------+
 

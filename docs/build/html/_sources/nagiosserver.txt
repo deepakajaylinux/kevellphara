@@ -96,17 +96,17 @@ Options
  +--------------------------+----------------------------------------------------+---------------+------------------------------------+
  | Parameters		    | Alternative Parameters			         | Options       | Comments			      |
  +==========================+====================================================+===============+====================================+
- |Install Nagios Server?    |There are four alternative parameters which can be | Y	         | System starts installation process |
+ |Install Nagios Server?    | There are four alternative parameters which can be | Y	         | System starts installation process |
  |(Y/N) 		    | used in command line. 			         | 	         |			              |
  | 			    | NagiosServer, nagios-server, nagiosserver, nagios  |               |				      |
  |			    | Eg: ptconfigure nagios install/ 		         |               |				      |
- |			    |  	  ptconfigure nagiosserver install		 |               |				      |
+ |			    | ptconfigure nagiosserver install		         |               |				      |
  +--------------------------+----------------------------------------------------+---------------+------------------------------------+
  |Install Nagios Server?    | There are four alternative parameters which can be | N             | System stops installation process  |
  |(Y/N)                     | used in command line.                              |               |                                    |
  |                          | NagiosServer, nagios-server, nagiosserver, nagios  |               |                                    |
  |                          | Eg: ptconfigure nagios install/                    |               |                                    |
- |                          |     ptconfigure nagiosserver install|              |               |                                    |
+ |                          | ptconfigure nagiosserver install|                  |               |                                    |
  +--------------------------+----------------------------------------------------+---------------+------------------------------------+
 
 

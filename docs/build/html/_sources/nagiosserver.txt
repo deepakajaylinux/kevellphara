@@ -126,7 +126,7 @@ Benefits
 * Available data graphing plugins
 * Parallelized service checks
 * The ability to define network host hierarchies using 'parent' hosts, allowing the detection of and distinction between hosts that are down
-  or  unreachable
+  or unreachable
 * Contact notifications when service or host problems occur and get resolved (via e-mail, pager, SMS, or any user-defined method through
   plugin  system)
 * The ability to define event handlers to be run during service or host events for proactive problem resolution

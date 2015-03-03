@@ -63,7 +63,7 @@ After inputting the command as given above the installation of Ssh Hardening beg
   |				    |sshharden, ssh-harden.          |		    | 							   |
   +---------------------------------+--------------------------------+--------------+------------------------------------------------------+
   |Install Ssh Hardening? (Y/N)     |Instead of Ssh Hardening, the   |		    |If the user wish to Quit the installation process     |
-  |				    |following alternatives can also |  N(No)       |they can input as Y.			    	   |
+  |				    |following alternatives can also |  N(No)       |they can input as N.			    	   |
   |				    |be used: SshHarden,             |		    |							   |
   |				    |sshharden, ssh-harden.|         |		    | 							   |
   +---------------------------------+--------------------------------+--------------+------------------------------------------------------+

@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Ssh Harden &mdash; KEVELL 0.1 documentation</title>
+    <title>PTBuild &mdash; KEVELL 0.1 documentation</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -30,8 +30,8 @@
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
     <link rel="up" title="PTConfigure" href="ptconfigure_main.html" />
-    <link rel="next" title="SshKeygen" href="sshKeygen.html" />
-    <link rel="prev" title="SshEncrypt" href="sshencrypt.html" />
+    <link rel="next" title="PTConfigure" href="ptconfigure.html" />
+    <link rel="prev" title="Process" href="process.html" />
 
 
 <script src="_static/labibi.js"></script>
@@ -86,10 +86,12 @@
             <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Page <b class="caret"></b></a>
   <ul class="dropdown-menu localtoc"><ul>
-<li><a class="reference internal" href="#">Ssh Harden</a><ul>
+<li><a class="reference internal" href="#">PTBuild</a><ul>
 <li><a class="reference internal" href="#synopsis">Synopsis</a></li>
-<li><a class="reference internal" href="#help-command">Help Command</a></li>
-<li><a class="reference internal" href="#securify">Securify</a></li>
+<li><a class="reference internal" href="#help-command">Help command</a></li>
+<li><a class="reference internal" href="#installation">Installation</a></li>
+<li><a class="reference internal" href="#uninstall">Uninstall</a></li>
+<li><a class="reference internal" href="#ensure">Ensure</a></li>
 <li><a class="reference internal" href="#benefits">Benefits</a></li>
 </ul>
 </li>
@@ -99,14 +101,14 @@
           
           
             
-  <li><a href="sshencrypt.html"
-         title="previous chapter">&laquo; SshEncrypt</a></li>
-  <li><a href="sshKeygen.html"
-         title="next chapter">SshKeygen &raquo;</a></li>
+  <li><a href="process.html"
+         title="previous chapter">&laquo; Process</a></li>
+  <li><a href="ptconfigure.html"
+         title="next chapter">PTConfigure &raquo;</a></li>
           
           
           <!--  <li>
-  <a href="_sources/sshharden.txt"
+  <a href="_sources/ptbuild.txt"
      rel="nofollow">Source</a></li> -->
           
         </ul>
@@ -125,123 +127,165 @@
 
   
   
-  <div class="section" id="ssh-harden">
-<h1>Ssh Harden<a class="headerlink" href="#ssh-harden" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="ptbuild">
+<h1>PTBuild<a class="headerlink" href="#ptbuild" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="synopsis">
 <h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
-<p>This module assists in creating and modifying sshhardens. The ssh harden facilitates security functions for the users SSH accounts.</p>
+<p>This tool helps the user to install and update ptbuild under ptconfigure in pharaoh tools. Automation of the build should include automating the integration, which often includes deployment into a production-like environment. In many cases, the build script not only compiles binaries, but also generates documentation, website pages, statistics and distribution media such as Red Hat. It comforts with Ubuntu and Cent OS.</p>
 </div>
 <div class="section" id="help-command">
-<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
-<p>The help command leads the users regarding the purpose and as well as about the options that are included in the SSH harden module. The help command lists out the alternative parameters of SSH harden. It also describes the syntax for using SSH harden to securify. The help command for SSH harden is given below.</p>
-<div class="highlight-bash"><div class="highlight"><pre>ptconfigure SshHarden <span class="nb">help</span>
+<h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
+<p>The help command leads the users regarding the purpose and as well as about the options that are included in the ptbuild modules. The help command lists out the alternative parameters of ptbuild under ptconfigure module. It also describes the syntax for installing the user’s updation. The help command for ptbuild is shown below.</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure ptbuild <span class="nb">help</span>
 </pre></div>
 </div>
-<p>The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under SSH Harden.</p>
-<div class="highlight-bash"><div class="highlight"><pre>Kevell@corp:/# ptconfigure SshHarden <span class="nb">help</span>
+<p>The following screen shot shows the full effort of ptbuild.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptconfigure ptbuild <span class="nb">help</span>
 
 ******************************
 
 
-This <span class="nb">command </span>allows you to modify create or modify sshhardens
+ This <span class="nb">command </span>allows you to install or update ptbuild.
 
-SshHarden, sshharden, ssh-harden
+ ptbuild, ptbuild
 
-- securify
-Add some security to your SSH accounts
-example: ptconfigure ssh-harden securify
+       - install
+       Installs the latest version of ptbuild
+       example: ptconfigure ptbuild install
 
+       - ensure
+       Ensures ptbuild is installed
+       example: ptconfigure ptbuild ensure
+
+       - uninstall
+       Uninstalls the latest version of ptbuild
+       example: ptconfigure ptbuild uninstall
 ------------------------------
 End Help
 ******************************
 </pre></div>
 </div>
 </div>
-<div class="section" id="securify">
-<h2>Securify<a class="headerlink" href="#securify" title="Permalink to this headline">¶</a></h2>
-<p>The command used for securifying the users SSH account via SSH harden is shown below:</p>
-<div class="highlight-bash"><div class="highlight"><pre>ptconfigure ssh-harden securify
+<div class="section" id="installation">
+<h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
+<p>This is a tool that sits under ptconfigure  and pulls down clean copies of the user codebase and does full builds, from scratch, all the time. This command is used to  install latest version of ptbuild. The command used for installation is as follows.</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure ptbuild install
 </pre></div>
 </div>
-<p>After inputting the command as given above the installation of Ssh Hardening begins as shown in the tabular format.</p>
+<p>After inputs the command the system can ask</p>
+<p>install ptbuild?(Y/N)</p>
+<p>If the user gives Y then ptbuild will be installed. The following Screen shot demonstrate it .</p>
+<div class="highlight-bash"><div class="highlight"><pre>
+</pre></div>
+</div>
 <table border="1" class="table-bordered docutils">
 <colgroup>
-<col width="25%" />
 <col width="24%" />
-<col width="11%" />
-<col width="41%" />
+<col width="18%" />
+<col width="28%" />
+<col width="30%" />
 </colgroup>
 <thead valign="bottom">
-<tr class="row-odd"><th class="head">Paramaters</th>
-<th class="head">Alternative Parameter</th>
+<tr class="row-odd"><th class="head">Parameters</th>
+<th class="head">Directory(default)</th>
 <th class="head">Options</th>
-<th class="head">comments</th>
+<th class="head">Comments</th>
 </tr>
 </thead>
 <tbody valign="top">
-<tr class="row-even"><td>Install Ssh Hardening? (Y/N)</td>
-<td>Instead of Ssh Hardening, the
-following alternatives can also
-be used: SshHarden,
-sshharden, ssh-harden.</td>
-<td>Y(yes)</td>
-<td>If the user wish to proceed the installation process
-they can input as Y.</td>
+<tr class="row-even"><td>Data directory (Default)</td>
+<td>Yes</td>
+<td>“/opt/ptbuild”</td>
+<td>It will install ptbuild
+under ptconfigure</td>
 </tr>
-<tr class="row-odd"><td>Install Ssh Hardening? (Y/N)</td>
-<td>Instead of Ssh Hardening, the
-following alternatives can also
-be used: SshHarden,
-sshharden, ssh-harden.|</td>
-<td>N(No)</td>
-<td>If the user wish to Quit the installation process
-they can input as N.</td>
+<tr class="row-odd"><td>Data directory</td>
+<td>No</td>
+<td>End slash</td>
+<td>The user has to a specify the path</td>
+</tr>
+<tr class="row-even"><td>Executor directory(Default)</td>
+<td>Yes</td>
+<td>“/usr/bin”</td>
+<td>It will  install executor directory</td>
+</tr>
+<tr class="row-odd"><td>Executor directory</td>
+<td>No</td>
+<td>No trailing slash</td>
+<td>The user gives input as directory
+name.|</td>
 </tr>
 </tbody>
 </table>
-<p>If the user proceeds the installation of Ssh harden that enables securifying the ssh account of users gets initiated. While the process of execution occurs, the sshd config gets modified that disallows root ssh login and as well as sshd config is modified that disallows password based ssh login. finally it will restarts the ssh service and display the results of completed Ssh Harden modifications. The following screen shot explains the above mentioned process pictorially.</p>
-<div class="highlight-bash"><div class="highlight"><pre>Kevell@corp:/# ptconfigure ssh-harden securify
-
-Install Ssh Hardening? <span class="o">(</span>Y/N<span class="o">)</span>
-y
-<span class="o">[</span>Pharaoh Logging<span class="o">]</span> <span class="o">[</span>File<span class="o">]</span> Reading File /etc/ssh/sshd_config
-PHP Notice:  Undefined index: searchline in /opt/ptconfigure/ptconfigure/src/Modules/File/Model/FileAllOS.php on line 175
-<span class="o">[</span>Pharaoh Logging<span class="o">]</span> <span class="o">[</span>File<span class="o">]</span> Reading File /etc/ssh/sshd_config
-<span class="o">[</span>Pharaoh Logging<span class="o">]</span> <span class="o">[</span>File<span class="o">]</span> Reading File /etc/ssh/sshd_config
-PHP Notice:  Undefined index: searchline in /opt/ptconfigure/ptconfigure/src/Modules/File/Model/FileAllOS.php on line 149
-<span class="o">[</span>Pharaoh Logging<span class="o">]</span> <span class="o">[</span>File<span class="o">]</span> Writing File /etc/ssh/sshd_config
-<span class="o">[</span>Pharaoh Logging<span class="o">]</span> /etc/ssh/sshd_config modified to disallow root ssh login
-<span class="o">[</span>Pharaoh Logging<span class="o">]</span> <span class="o">[</span>File<span class="o">]</span> Reading File /etc/ssh/sshd_config
-PHP Notice:  Undefined index: searchline in /opt/ptconfigure/ptconfigure/src/Modules/File/Model/FileAllOS.php on line 175
-<span class="o">[</span>Pharaoh Logging<span class="o">]</span> <span class="o">[</span>File<span class="o">]</span> Reading File /etc/ssh/sshd_config
-<span class="o">[</span>Pharaoh Logging<span class="o">]</span> <span class="o">[</span>File<span class="o">]</span> Reading File /etc/ssh/sshd_config
-PHP Notice:  Undefined index: searchline in /opt/ptconfigure/ptconfigure/src/Modules/File/Model/FileAllOS.php on line 149
-<span class="o">[</span>Pharaoh Logging<span class="o">]</span> <span class="o">[</span>File<span class="o">]</span> Writing File /etc/ssh/sshd_config
-<span class="o">[</span>Pharaoh Logging<span class="o">]</span> /etc/ssh/sshd_config modified to disallow password based ssh login
-<span class="o">[</span>Pharaoh Logging<span class="o">]</span> Restarting ssh service
-ssh stop/waiting
-ssh start/running, process 17375
-******************************
-
-
-SshHarden Modifications:
---------------------------------------------
-
-Ssh Hardening: Success
-
-------------------------------
-SshHarden Mods Finished
-******************************
+</div>
+<div class="section" id="uninstall">
+<h2>Uninstall<a class="headerlink" href="#uninstall" title="Permalink to this headline">¶</a></h2>
+<p>This command is used to Uninstall the latest version of ptbuild. The command used for Uninstallation is as follows.</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure ptbuild Uninstall
 </pre></div>
 </div>
+<p>After inputs the command the system can ask</p>
+<p>Uninstall ptbuild?(Y/N)</p>
+<p>If the user gives Y then ptbuild will be Uninstalled. The following Screen shot demonstrate it .</p>
+<div class="highlight-bash"><div class="highlight"><pre>
+</pre></div>
+</div>
+<table border="1" class="table-bordered docutils">
+<colgroup>
+<col width="23%" />
+<col width="18%" />
+<col width="28%" />
+<col width="31%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head">Parameters</th>
+<th class="head">Directory(default)</th>
+<th class="head">Options</th>
+<th class="head">Comments</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td>Data directory (Default)</td>
+<td>Yes</td>
+<td>“/opt/ptbuild”</td>
+<td>It will uninstall ptbuild
+under ptconfigure</td>
+</tr>
+<tr class="row-odd"><td>Data directory</td>
+<td>No</td>
+<td>End slash</td>
+<td>The user has to a specify the path</td>
+</tr>
+<tr class="row-even"><td>Executor directory(Default)</td>
+<td>Yes</td>
+<td>“/usr/bin”</td>
+<td>It will uninstall executor directory</td>
+</tr>
+<tr class="row-odd"><td>Executor directory</td>
+<td>No</td>
+<td>No trailing slash</td>
+<td>The user gives input as directory
+name.|</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="ensure">
+<h2>Ensure<a class="headerlink" href="#ensure" title="Permalink to this headline">¶</a></h2>
+<p>Ensure process used to check the  ptbuild  installed in the user  system or not. The following command helps the user to ensure.</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure ptbuild ensure
+</pre></div>
+</div>
+<p>The following screen shot shows its functions.</p>
 </div>
 <div class="section" id="benefits">
 <h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li>This Ssh harden acts as a enhancer that enables the security functions of the users SSH accounts.</li>
-<li>The parameters used in help and securifying, installation operations are not case sensitive which is an added advantage while compared to
-others.</li>
-<li>This module enables modification of ssh harden config that prohibits root ssh login, password based ssh login.</li>
+<li>Used to Install ptbuilds possible.</li>
+<li>Suitable to work with Ubuntu and centos.</li>
+<li>Non case sensitivity.</li>
+<li>Automation in updated version.</li>
+<li>Reliability, Availability, serviceability with other connections.</li>
 </ul>
 </div>
 </div>
@@ -299,8 +343,8 @@ others.</li>
 
         <li>
           Go to
-        <a href="https://github.com/deepakajaylinux/kevellphara/blob/master/sshharden.rst">
-          Ssh Harden
+        <a href="https://github.com/deepakajaylinux/kevellphara/blob/master/ptbuild.rst">
+          PTBuild
         </a> on GitHub.
       </li>
 

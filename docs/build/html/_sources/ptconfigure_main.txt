@@ -634,12 +634,12 @@ Playing with ptconfigure Modules
    phpstorm
    phpunit
    phpvm 
-   phrankinsense
    ping
    port
    postgresserver
    process
-   ptconfigure.rst
+   ptbuild
+   ptconfigure
    ptdeploy_cleo
    pttest_cleo
    ptvirtualize_cleo

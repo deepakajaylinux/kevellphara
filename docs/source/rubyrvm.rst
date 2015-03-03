@@ -429,7 +429,7 @@ Options
  |ptconfigure RubyRVM 	 | We can use RubyRVM,rubyrvm, | Y 		| System starts installation process  |
  |Install		 | ruby-rvm,rubyRvm.	       | 		|  				      |
  +-----------------------+-----------------------------+----------------+-------------------------------------+
- |ptconfigure RubyRVM    | We can use RubyRVM,rubyrvm, | Y              | System stops installation process   |
+ |ptconfigure RubyRVM    | We can use RubyRVM,rubyrvm, | N              | System stops installation process   |
  |Install                | ruby-rvm,rubyRvm.|          |                |                                     |
  +-----------------------+-----------------------------+----------------+-------------------------------------+
 

@@ -40,17 +40,17 @@ The pictorial representation of the above command is listed below,
 Installation
 -----------------
 
-Installation of a phlagrant module is including device drivers and plugins, act of making the program ready for execution. While installing this module the following command will be passed.
+Installation of a redis module is including device drivers and plugins, act of making the program ready for execution. While installing this module the following command will be passed.
 
 .. code-block:: bash
 
- ptconfigure Phlagrant install
+ ptconfigure redis install
 
 After inputs the command the system can ask
 
-Install Phlagrant? (Y/N)
+Install Redis? (Y/N)
 
-If the user gives Y then Phlagrant will be installed. The following Screen shot demonstrate it.
+If the user gives Y then redis will be installed. The following Screen shot demonstrate it.
 
 .. code-block:: bash
 

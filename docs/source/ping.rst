@@ -67,7 +67,7 @@ PING module have three different options, which retrieve data as per the option 
  |		       | --target=google.com -- interval=5              | time as 5 seconds [waits for  seconds before sending |
  |		       | 						| the next packet]				       |
  +---------------------+------------------------------------------------+------------------------------------------------------+
- |Until-responding     | ptconfigure ping once -- yes --guess             | Ping us the target for a set amount of time until  |
+ |Until-responding     | ptconfigure ping once -- yes --guess           | Ping us the target for a set amount of time until    |
  |		       | --target=google.com -- interval=5              | it responds, having interval time as 5 seconds       |
  |		       | -- max-wait=100			        | and max 100 seconds to try for the target|           |
  +---------------------+------------------------------------------------+------------------------------------------------------+

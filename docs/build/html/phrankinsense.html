@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Phrankinsense &mdash; KEVELL 0.1 documentation</title>
+    <title>PTBuild &mdash; KEVELL 0.1 documentation</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -86,7 +86,7 @@
             <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Page <b class="caret"></b></a>
   <ul class="dropdown-menu localtoc"><ul>
-<li><a class="reference internal" href="#">Phrankinsense</a><ul>
+<li><a class="reference internal" href="#">PTBuild</a><ul>
 <li><a class="reference internal" href="#synopsis">Synopsis</a></li>
 <li><a class="reference internal" href="#help-command">Help command</a></li>
 <li><a class="reference internal" href="#installation">Installation</a></li>
@@ -127,39 +127,39 @@
 
   
   
-  <div class="section" id="phrankinsense">
-<h1>Phrankinsense<a class="headerlink" href="#phrankinsense" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="ptbuild">
+<h1>PTBuild<a class="headerlink" href="#ptbuild" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="synopsis">
 <h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
-<p>This tool helps the user to install and update phrankinsense under ptconfigure in pharaoh tools. Automation of the build should include automating the integration, which often includes deployment into a production-like environment. In many cases, the build script not only compiles binaries, but also generates documentation, website pages, statistics and distribution media such as Red Hat. It comforts with Ubuntu and Cent OS.</p>
+<p>This tool helps the user to install and update ptbuild under ptconfigure in pharaoh tools. Automation of the build should include automating the integration, which often includes deployment into a production-like environment. In many cases, the build script not only compiles binaries, but also generates documentation, website pages, statistics and distribution media such as Red Hat. It comforts with Ubuntu and Cent OS.</p>
 </div>
 <div class="section" id="help-command">
 <h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
-<p>The help command leads the users regarding the purpose and as well as about the options that are included in the Phrankinsense modules. The help command lists out the alternative parameters of Phrankinsense under ptconfigure module. It also describes the syntax for installing the user’s updation. The help command for Phrankinsense is shown below.</p>
-<div class="highlight-bash"><div class="highlight"><pre>ptconfigure Phrankinsense <span class="nb">help</span>
+<p>The help command leads the users regarding the purpose and as well as about the options that are included in the ptbuild modules. The help command lists out the alternative parameters of ptbuild under ptconfigure module. It also describes the syntax for installing the user’s updation. The help command for ptbuild is shown below.</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure ptbuild <span class="nb">help</span>
 </pre></div>
 </div>
-<p>The following screen shot shows the full effort of Phrankinsense.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptconfigure Phrankinsense <span class="nb">help</span>
+<p>The following screen shot shows the full effort of ptbuild.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptconfigure ptbuild <span class="nb">help</span>
 
 ******************************
 
 
- This <span class="nb">command </span>allows you to install or update Phrankinsense.
+ This <span class="nb">command </span>allows you to install or update ptbuild.
 
- Phrankinsense, phrankinsense
+ ptbuild, ptbuild
 
        - install
-       Installs the latest version of phrankinsense
-       example: ptconfigure phrankinsense install
+       Installs the latest version of ptbuild
+       example: ptconfigure ptbuild install
 
        - ensure
-       Ensures phrankinsense is installed
-       example: ptconfigure phrankinsense ensure
+       Ensures ptbuild is installed
+       example: ptconfigure ptbuild ensure
 
        - uninstall
-       Uninstalls the latest version of phrankinsense
-       example: ptconfigure phrankinsense uninstall
+       Uninstalls the latest version of ptbuild
+       example: ptconfigure ptbuild uninstall
 ------------------------------
 End Help
 ******************************
@@ -168,13 +168,13 @@ End Help
 </div>
 <div class="section" id="installation">
 <h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
-<p>This is a tool that sits under ptconfigure  and pulls down clean copies of the user codebase and does full builds, from scratch, all the time. This command is used to  install latest version of Phrankinsense. The command used for installation is as follows.</p>
-<div class="highlight-bash"><div class="highlight"><pre>ptconfigure Phrankinsense install
+<p>This is a tool that sits under ptconfigure  and pulls down clean copies of the user codebase and does full builds, from scratch, all the time. This command is used to  install latest version of ptbuild. The command used for installation is as follows.</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure ptbuild install
 </pre></div>
 </div>
 <p>After inputs the command the system can ask</p>
-<p>install Phrankinsense?(Y/N)</p>
-<p>If the user gives Y then Phrankinsense will be installed. The following Screen shot demonstrate it .</p>
+<p>install ptbuild?(Y/N)</p>
+<p>If the user gives Y then ptbuild will be installed. The following Screen shot demonstrate it .</p>
 <div class="highlight-bash"><div class="highlight"><pre>
 </pre></div>
 </div>
@@ -195,8 +195,8 @@ End Help
 <tbody valign="top">
 <tr class="row-even"><td>Data directory (Default)</td>
 <td>Yes</td>
-<td>“/opt/Phrankinsense”</td>
-<td>It will install Phrankinsense
+<td>“/opt/ptbuild”</td>
+<td>It will install ptbuild
 under ptconfigure</td>
 </tr>
 <tr class="row-odd"><td>Data directory</td>
@@ -220,13 +220,13 @@ name.|</td>
 </div>
 <div class="section" id="uninstall">
 <h2>Uninstall<a class="headerlink" href="#uninstall" title="Permalink to this headline">¶</a></h2>
-<p>This command is used to Uninstall the latest version of Phrankinsense. The command used for Uninstallation is as follows.</p>
-<div class="highlight-bash"><div class="highlight"><pre>ptconfigure Phrankinsense Uninstall
+<p>This command is used to Uninstall the latest version of ptbuild. The command used for Uninstallation is as follows.</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure ptbuild Uninstall
 </pre></div>
 </div>
 <p>After inputs the command the system can ask</p>
-<p>Uninstall Phrankinsense?(Y/N)</p>
-<p>If the user gives Y then Phrankinsense will be Uninstalled. The following Screen shot demonstrate it .</p>
+<p>Uninstall ptbuild?(Y/N)</p>
+<p>If the user gives Y then ptbuild will be Uninstalled. The following Screen shot demonstrate it .</p>
 <div class="highlight-bash"><div class="highlight"><pre>
 </pre></div>
 </div>
@@ -247,8 +247,8 @@ name.|</td>
 <tbody valign="top">
 <tr class="row-even"><td>Data directory (Default)</td>
 <td>Yes</td>
-<td>“/opt/Phrankinsense”</td>
-<td>It will uninstall Phrankinsense
+<td>“/opt/ptbuild”</td>
+<td>It will uninstall ptbuild
 under ptconfigure</td>
 </tr>
 <tr class="row-odd"><td>Data directory</td>
@@ -272,8 +272,8 @@ name.|</td>
 </div>
 <div class="section" id="ensure">
 <h2>Ensure<a class="headerlink" href="#ensure" title="Permalink to this headline">¶</a></h2>
-<p>Ensure process used to check the  Phrankinsense  installed in the user  system or not. The following command helps the user to ensure.</p>
-<div class="highlight-bash"><div class="highlight"><pre>ptconfigure Phrankinsense ensure
+<p>Ensure process used to check the  ptbuild  installed in the user  system or not. The following command helps the user to ensure.</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure ptbuild ensure
 </pre></div>
 </div>
 <p>The following screen shot shows its functions.</p>
@@ -281,7 +281,7 @@ name.|</td>
 <div class="section" id="benefits">
 <h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li>Used to Install Phrankinsenses possible.</li>
+<li>Used to Install ptbuilds possible.</li>
 <li>Suitable to work with Ubuntu and centos.</li>
 <li>Non case sensitivity.</li>
 <li>Automation in updated version.</li>
@@ -344,7 +344,7 @@ name.|</td>
         <li>
           Go to
         <a href="https://github.com/deepakajaylinux/kevellphara/blob/master/phrankinsense.rst">
-          Phrankinsense
+          PTBuild
         </a> on GitHub.
       </li>
 

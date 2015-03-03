@@ -17,7 +17,7 @@ The help command guides the user to provide what is necessary to accomplish the 
 
 	ptconfigure python help
 
-The snapshot below gives you a pictorial representation of help command and it listed two parameters as Python and python. ( Paramters are case insensitive )
+The snapshot below gives you a pictorial representation of help command and it listed two parameters as Python and python. ( Parameters are case insensitive )
 
 .. code-block:: bash
 

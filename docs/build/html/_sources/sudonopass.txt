@@ -82,11 +82,11 @@ Option
 .. cssclass:: table-bordered
 
 	+---------------------+------------------------+---------------------------------------------+
-	|Parameters           |   Dirctory(default)    |Output                                       |                
+	| Parameters          | Option                 | Output                                      |                
 	+=====================+========================+=============================================+
-  	|Install sudonopass   |   yes	               |It will install sudonopass under ptconfigure |  
+  	|Install sudonopass   | yes	               |It will install sudonopass under ptconfigure |  
         +---------------------+------------------------+---------------------------------------------+                  
-        |Install sudonopass   |   No                   |It will exit|                                |
+        |Install sudonopass   | No                     |It will exit|                                |
 	+---------------------+------------------------+---------------------------------------------+
 
 Benefits

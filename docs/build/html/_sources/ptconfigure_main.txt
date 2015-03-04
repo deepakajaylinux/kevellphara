@@ -664,6 +664,7 @@ Playing with ptconfigure Modules
    svn
    systemdetectio
    teamcity
+   templating_ptconfigure
    tomcat
    ubuntucompiler   
    user

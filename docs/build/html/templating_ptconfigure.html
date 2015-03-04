@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Run Command &mdash; KEVELL 0.1 documentation</title>
+    <title>Templating &mdash; KEVELL 0.1 documentation</title>
     
     <link rel="stylesheet" href="_static/labibi.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -30,8 +30,8 @@
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="KEVELL 0.1 documentation" href="index.html" />
     <link rel="up" title="PTConfigure" href="ptconfigure_main.html" />
-    <link rel="next" title="Selenium Server" href="seleniumserver.html" />
-    <link rel="prev" title="RubySystem" href="rubysystem.html" />
+    <link rel="next" title="Tomcat" href="tomcat.html" />
+    <link rel="prev" title="Teamcity module" href="teamcity.html" />
 
 
 <script src="_static/labibi.js"></script>
@@ -86,10 +86,11 @@
             <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Page <b class="caret"></b></a>
   <ul class="dropdown-menu localtoc"><ul>
-<li><a class="reference internal" href="#">Run Command</a><ul>
+<li><a class="reference internal" href="#">Templating</a><ul>
 <li><a class="reference internal" href="#synopsis">Synopsis</a></li>
-<li><a class="reference internal" href="#help-command">Help Command</a></li>
-<li><a class="reference internal" href="#how-to-use-run-command">How to use Run command</a></li>
+<li><a class="reference internal" href="#help-command">Help command</a></li>
+<li><a class="reference internal" href="#installation">Installation</a></li>
+<li><a class="reference internal" href="#option">Option</a></li>
 <li><a class="reference internal" href="#benefits">Benefits</a></li>
 </ul>
 </li>
@@ -99,14 +100,14 @@
           
           
             
-  <li><a href="rubysystem.html"
-         title="previous chapter">&laquo; RubySystem</a></li>
-  <li><a href="seleniumserver.html"
-         title="next chapter">Selenium Server &raquo;</a></li>
+  <li><a href="teamcity.html"
+         title="previous chapter">&laquo; Teamcity module</a></li>
+  <li><a href="tomcat.html"
+         title="next chapter">Tomcat &raquo;</a></li>
           
           
           <!--  <li>
-  <a href="_sources/runcommand.txt"
+  <a href="_sources/templating_ptconfigure.txt"
      rel="nofollow">Source</a></li> -->
           
         </ul>
@@ -125,30 +126,33 @@
 
   
   
-  <div class="section" id="run-command">
-<h1>Run Command<a class="headerlink" href="#run-command" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="templating">
+<h1>Templating<a class="headerlink" href="#templating" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="synopsis">
 <h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
-<p>The run command modules enables the users to execute an operating system command. This is mainly be used in an Autopilot. Using this run command the user can specify the command, name of the user and also to run the either in background or front-end. Let us see the uses of run command.</p>
+<p>The term templating when used in the context of ptconfigure file format refers to a common feature of many software applications that define a unique non-executable file format intended specifically for that particular application.</p>
+<p>Templating formats are those whose file indicates that the file type is intended as a very high starting point from which to create other files.</p>
+<p>These types of files are usually installed templating  file  with new values. It suits to work with Ubuntu and centos.</p>
 </div>
 <div class="section" id="help-command">
-<h2>Help Command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
-<p>The help command describes the uses of run command, its major functionality, its alternative parameters, the commands used for executing a command, and also about the syntax for specifying the command, name of the user and also to run the either in background or front-end. The syntax used for declaring the help command is shown below.</p>
-<div class="highlight-bash"><div class="highlight"><pre>ptconfigure RunCommand <span class="nb">help</span>
+<h2>Help command<a class="headerlink" href="#help-command" title="Permalink to this headline">¶</a></h2>
+<p>The help command leads the users regarding the purpose and as well as about the options that are included in the template modules. The help command lists out the alternative parameters of templating under Ptconfigure module. It also describes the syntax for detecting the user’s machine.</p>
+<p>The help command for templating is shown below.</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure templating <span class="nb">help</span>
 </pre></div>
 </div>
-<p>The following screen shot depicts pictorially about the working of help command.</p>
-<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptconfigure RunCommand <span class="nb">help</span>
+<p>The following screenshot explains about templating.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptconfigure templating <span class="nb">help</span>
 ******************************
 
 
- This allows you to execute an Operating System command. This would primarily be used in an Autopilot.
+ This <span class="nb">command </span>allows you to install a templated file with new values.
 
- RunCommand, runcommand, run-command
+ Templating, templating, template
 
-       - execute
-       Execute a Command
-       example: ptconfigure run-command --yes --command<span class="o">=</span><span class="s2">&quot;ls -lah /tmp&quot;</span> --run-as-user<span class="o">=</span><span class="s2">&quot;ubuntu&quot;</span> --background
+       - install
+       Installs a template
+       example: ptconfigure template install
 
 ------------------------------
 End Help
@@ -156,57 +160,50 @@ End Help
 </pre></div>
 </div>
 </div>
-<div class="section" id="how-to-use-run-command">
-<h2>How to use Run command<a class="headerlink" href="#how-to-use-run-command" title="Permalink to this headline">¶</a></h2>
-<p>The syntax used for specifying the run command in shown below.</p>
-<div class="highlight-bash"><div class="highlight"><pre>ptconfigure run-command --yes --command<span class="o">=</span><span class="s2">&quot;ls -lah /tmp&quot;</span> --run-as-user<span class="o">=</span><span class="s2">&quot;ubuntu&quot;</span> --background
+<div class="section" id="installation">
+<h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
+<p>In ptconfigure context, templating refers to creating a single virtual machine image as a guest operating system, then saving it as a tool for multiple running virtual machines. The technique is used to install both in virtualization and cloud computing management, and is common in large server warehouses.</p>
+<p>The following command helps the user to install templating.</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure templating install
 </pre></div>
 </div>
+<p>The following screen shot guides the user to install.</p>
+<div class="highlight-bash"><div class="highlight"><pre>
+</pre></div>
+</div>
+</div>
+<div class="section" id="option">
+<h2>Option<a class="headerlink" href="#option" title="Permalink to this headline">¶</a></h2>
 <table border="1" class="table-bordered docutils">
 <colgroup>
-<col width="18%" />
-<col width="36%" />
-<col width="7%" />
-<col width="11%" />
-<col width="28%" />
+<col width="23%" />
+<col width="27%" />
+<col width="15%" />
+<col width="35%" />
 </colgroup>
 <thead valign="bottom">
-<tr class="row-odd"><th class="head">Parameter</th>
-<th class="head">Function</th>
-<th class="head" colspan="3">Alternative parameters  | Usage</th>
+<tr class="row-odd"><th class="head">Parameters</th>
+<th class="head">Alternative Parametrs</th>
+<th class="head">Syntax</th>
+<th class="head">Comments</th>
 </tr>
 </thead>
 <tbody valign="top">
-<tr class="row-even"><td>command=&#8221;ls -lah /tmp&#8221;</td>
-<td>It allows the user to specify the command
-and its purpose.</td>
-<td colspan="3"><p class="first">Runcommand, runcommand, | By using this, the user can specify
-run-command             | their own command as per their</p>
-<blockquote class="last">
-<div><div class="line-block">
-<div class="line">requirements.</div>
-</div>
-</div></blockquote>
-</td>
+<tr class="row-even"><td>Install templating
+functionality (Y/N)</td>
+<td>Instead of using templating the
+user can use Templating, templating,
+template</td>
+<td>Y(Yes)</td>
+<td>Templating can be installed under pttest.</td>
 </tr>
-<tr class="row-odd"><td>run-as-user=&#8221;ubuntu&#8221;</td>
-<td>By using this the user can specify the name
-of the user.</td>
-<td colspan="2">Runcommand, runcommand,
-run-command</td>
-<td>By using this, the user can specify
-their required user login as per
-their requirements.</td>
-</tr>
-<tr class="row-even"><td>&#8221; &#8211;background</td>
-<td>It allows the user to specify where to run the
-particular command either in background or in
-the front-end.</td>
-<td colspan="2">Runcommand, runcommand,
-run-command</td>
-<td>By using this, the user can specify
-their platform of usage as per their
-requirements.|</td>
+<tr class="row-odd"><td>Install templating
+functionality (Y/N)</td>
+<td>Instead of using templating the
+user can use Templating, templating,
+template|</td>
+<td>N(No)</td>
+<td>It can exit the screen.</td>
 </tr>
 </tbody>
 </table>
@@ -214,10 +211,11 @@ requirements.|</td>
 <div class="section" id="benefits">
 <h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li>The parameters used for declaring help command, installation are not case sensitive which is an added advantage while compared to others.</li>
-<li>It is well-to-do in both Cent OS and as well as in Ubuntu.</li>
-<li>The users can specify the command, name of the user and also to run the either in background or front-end.</li>
-<li>The help command guides the users in how to execute the run command an also its purpose.</li>
+<li>Template processing is used in various contexts for different purposes.</li>
+<li>The specific purpose is ordinarily contingent upon the software application or template in use.</li>
+<li>Non sensitive</li>
+<li>Suits to work with Ubuntu and centos.</li>
+<li>Updated version with new values is possible.</li>
 </ul>
 </div>
 </div>
@@ -275,8 +273,8 @@ requirements.|</td>
 
         <li>
           Go to
-        <a href="https://github.com/deepakajaylinux/kevellphara/blob/master/runcommand.rst">
-          Run Command
+        <a href="https://github.com/deepakajaylinux/kevellphara/blob/master/templating_ptconfigure.rst">
+          Templating
         </a> on GitHub.
       </li>
 

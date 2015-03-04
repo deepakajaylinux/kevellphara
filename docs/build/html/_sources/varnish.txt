@@ -53,13 +53,13 @@ After inputting the command above, the following operations occurs as shown in t
 .. cssclass:: table-bordered
 
 	+-----------------------------+---------------------------------+----------------+--------------------------------------------------+
-        |    Parameters               |    Alternative Parameters       |  Options       |     Comment                                      |
+        | Parameters                  | Alternative Parameters          | Options        | Comment                                          |
         +=============================+=================================+================+==================================================+
-	|Install Varnish? (Y/N)       |In Spite of Varnish, varnish can |Y(Yes)		 |If the user wish to proceed the installation      |
-    	|			      |also be used.                    |                |process they can input as Y.                      |
+	|Install Varnish? (Y/N)       | Instead of Varnish, varnish can | Y(Yes)	 | If the user wish to proceed the installation     |
+    	|			      | also be used.                   |                | process they can input as Y.                     |
 	+-----------------------------+---------------------------------+----------------+--------------------------------------------------+
-	|Install Varnish? (Y/N)       |In Spite of Varnish, varnish can |N(No)		 |If the user wish to Quit the installation         |
-    	|			      |also be used.                    |                |process they can input as N.|                     |
+	|Install Varnish? (Y/N)       | Instead of Varnish, varnish can | N(No)		 | If the user wish to Quit the installation        |
+    	|			      | also be used.                   |                | process they can input as N.|                    |
 	+-----------------------------+---------------------------------+----------------+--------------------------------------------------+
 
 

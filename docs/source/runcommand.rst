@@ -52,7 +52,7 @@ The syntax used for specifying the run command in shown below.
 
  +------------------------+------------------------------------------------+-------------------------+--------------------------------------+
  | Parameter              | Function                                       | Alternative parameters  | Usage                                |
- +========================+================================================+=========+======================================================+
+ +========================+================================================+=========================+======================================+
  |command="ls -lah /tmp"  | It allows the user to specify the command      | Runcommand, runcommand, | By using this, the user can specify  |
  |                        | and its purpose.                               | run-command             | their own command as per their       |
  |                        |                                                |                         | requirements.                        |

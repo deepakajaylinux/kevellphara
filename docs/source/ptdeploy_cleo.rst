@@ -136,13 +136,13 @@ Options
  |install? (Y/N)           | can be used in command line.                 |            |                                       |
  |                         | ptdeploy, dapper, ptdeploy                   |            |                                       |
  |                         | Example: ptconfigure ptdeploy install /      |            |                                       |
- |                         |          ptconfigure dapper install          |            |                                       |
+ |                         | ptconfigure dapper install                   |            |                                       |
  +-------------------------+----------------------------------------------+------------+---------------------------------------+
  |ptconfigure ptdeploy     | There are two alternative parameters which   | N          | System stops installation process     |
  |install? (Y/N)           | can be used in command line.                 |            |                                       |
  |                         | ptdeploy, dapper, ptdeploy                   |            |                                       |
  |                         | Example: ptconfigure ptdeploy install /      |            |                                       |
- |                         |          ptconfigure dapper install|         |            |                                       |
+ |                         | ptconfigure dapper install|                  |            |                                       |
  +-------------------------+----------------------------------------------+------------+---------------------------------------+
 
 

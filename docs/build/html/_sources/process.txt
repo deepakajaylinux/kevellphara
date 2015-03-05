@@ -71,7 +71,7 @@ If the PID # 3486 is assigned to the lighttpd process. To kill the lighttpd serv
 
  # kill 3486
 
-OR
+or
 
 .. code-block:: bash
  

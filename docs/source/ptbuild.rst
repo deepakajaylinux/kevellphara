@@ -67,20 +67,21 @@ If the user gives Y then ptbuild will be installed. The following Screen shot de
 
 .. cssclass:: table-bordered
 
-
- +-----------------------------+----------------------+-----------------------------------+-------------------------------------+
- | Parameters		       | Directory(default)   | Options				  | Comments			        |
- +=============================+======================+===================================+=====================================+
- |Data directory (Default)     | Yes                  | “/opt/ptbuild”		          | It will install ptbuild             |
- |			       |		      |					  | under ptconfigure		        |
- +-----------------------------+----------------------+-----------------------------------+-------------------------------------+
- |Data directory	       | No		      | End slash			  | The user has to a specify the path  |
- +-----------------------------+----------------------+-----------------------------------+-------------------------------------+
- |Executor directory(Default)  | Yes		      | “/usr/bin”			  | It will  install executor directory |
- +-----------------------------+----------------------+-----------------------------------+-------------------------------------+
- |Executor directory	       | No		      | No trailing slash 		  | The user gives input as directory   |
- |			       |		      |					  | name.|			        |
- +-----------------------------+----------------------+-----------------------------------+-------------------------------------+
+ +--------------------------+-------------------------------+----------+------------------------------------------------------------+
+ | Parameters               | Directory_Default             | Options  | Comments                                                   |
+ +==========================+===============================+==========+============================================================+
+ |Program data directory    | "/opt/ptbuild(corresponding   | Y(Yes)   | If the user wish to proceed installation with the same     |  
+ |(default)                 | module)"                      |          | default directory specified they can input as Y.           |
+ +--------------------------+-------------------------------+----------+------------------------------------------------------------+
+ |Program data directory    | User Specific                 | No(End   | If the user needs to specify their own location, they can  |
+ |                          |                               | Slash)   | input as N. and in hand specify their own location         |
+ +--------------------------+-------------------------------+----------+------------------------------------------------------------+
+ |Program executor          | “/usr/bin”                    | Y(Yes)   | If the user wish to proceed installation with the same     |
+ |directory (default)       |                               |          | default directory specified they can input as Y.           |
+ +--------------------------+-------------------------------+----------+------------------------------------------------------------+
+ |Program executor          | User Specific                 | No(End   | If the user needs to specify their own location, they can  |
+ |directory                 |                               | Slash)   | input as N. and in hand specify their own location|        |
+ +--------------------------+-------------------------------+----------+------------------------------------------------------------+
 
 
 Uninstall
@@ -102,21 +103,21 @@ If the user gives Y then ptbuild will be Uninstalled. The following Screen shot 
 
 .. cssclass:: table-bordered
 
- +-----------------------------+----------------------+-----------------------------------+---------------------------------------+
- | Parameters                  | Directory(default)   | Options                           | Comments                              |
- +=============================+======================+===================================+=======================================+
- |Data directory (Default)     | Yes                  | “/opt/ptbuild”                    | It will uninstall ptbuild             |
- |                             |                      |                                   | under ptconfigure                     |
- +-----------------------------+----------------------+-----------------------------------+---------------------------------------+
- |Data directory               | No                   | End slash                         | The user has to a specify the path    |
- +-----------------------------+----------------------+-----------------------------------+---------------------------------------+
- |Executor directory(Default)  | Yes                  | “/usr/bin”                        | It will uninstall executor directory  |
- +-----------------------------+----------------------+-----------------------------------+---------------------------------------+
- |Executor directory           | No                   | No trailing slash                 | The user gives input as directory     |
- |                             |                      |                                   | name.|                                |
- +-----------------------------+----------------------+-----------------------------------+---------------------------------------+
-
-
+ +--------------------------+-------------------------------+----------+------------------------------------------------------------+
+ | Parameters               | Directory_Default             | Options  | Comments                                                   |
+ +==========================+===============================+==========+============================================================+
+ |Program data directory    | "/opt/ptbuild(corresponding   | Y(Yes)   | If the user wish to proceed uninstallation with the same   |  
+ |(default)                 | module)"                      |          | default directory specified they can input as Y.           |
+ +--------------------------+-------------------------------+----------+------------------------------------------------------------+
+ |Program data directory    | User Specific                 | No(End   | If the user needs to specify their own location, they can  |
+ |                          |                               | Slash)   | input as N. and in hand specify their own location         |
+ +--------------------------+-------------------------------+----------+------------------------------------------------------------+
+ |Program executor          | “/usr/bin”                    | Y(Yes)   | If the user wish to proceed uninstallation with the same   |
+ |directory (default)       |                               |          | default directory specified they can input as Y.           |
+ +--------------------------+-------------------------------+----------+------------------------------------------------------------+
+ |Program executor          | User Specific                 | No(End   | If the user needs to specify their own location, they can  |
+ |directory                 |                               | Slash)   | input as N. and in hand specify their own location|        |
+ +--------------------------+-------------------------------+----------+------------------------------------------------------------+
 
 
 Ensure

@@ -50,21 +50,16 @@ After inputting the command as given above, the following operations takes place
 
 .. cssclass:: table-bordered
 
- +------------------------------------------------+-------------+-------------------------------+
- |  Parameters                                    |  Required   |  Comment                      |
- +================================================+=============+===============================+
- |Install VNC? (Y/N)                              |  Y(YES)     |  If the user wish to proceed  |
- |                                                |             |  with installation process,   | 
- |                                                |             |  they can input as Y.         |
- +------------------------------------------------+-------------+-------------------------------+ 
- |Install VNC? (Y/N)                              |  N(NO)      |  If the user wish to quit the |
- |                                                |             |  installation process, they   | 
- |                                                |             |  can quit simply by using N.  |
- +------------------------------------------------+-------------+-------------------------------+
- |Install ApacheReverseProxyModules (Y/N)         |  N(NO)      |  If the user inputs as N,the  |
- |                                                |             |  process will gets quit from  |
- |                                                |             |  installation|                |
- +------------------------------------------------+-------------+-------------------------------+
+ +--------------------+------------------------+---------+--------------------------------------------------+
+ | Parameters         | Alternative Parameters | Options | Comment                                          |
+ +====================+========================+=========+==================================================+
+ |Install VNC? (Y/N)  | VNC, vnc               | Y(Yes)  | If the user wish to proceed with installation    |
+ |                    |                        |         | process, they can input as Y.                    |
+ +--------------------+------------------------+---------+--------------------------------------------------+ 
+ |Install VNC? (Y/N)  | VNC, vnc               | N(No)   | If the user wish to quit the installation        |
+ |                    |                        |         | process, they can quit simply by using N.|       |
+ +--------------------+------------------------+---------+--------------------------------------------------+
+
 
 While installing the VNC server it performs the following operations as given below:
 

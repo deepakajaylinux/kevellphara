@@ -552,7 +552,6 @@ Playing with ptconfigure Modules
    behatcleo
    boxify
    cassandra
-   chgrp
    chgrp1
    chmod
    chown
@@ -628,7 +627,6 @@ Playing with ptconfigure Modules
    phpeclipse
    phpedit
    phpmd
-   phpmodules
    phpmodules1
    phpssh   
    phpstorm

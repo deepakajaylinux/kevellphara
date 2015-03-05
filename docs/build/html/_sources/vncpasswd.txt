@@ -143,10 +143,10 @@ Options
  | Parameters			 | Alternate Parameters			  | Option	   | Comments				  |
  +===============================+========================================+================+======================================+
  |Install VNCpasswd?(Y/N)        | Instead of using VNCpasswd we can use  | Y		   | It will install VNCPassward  under   |
- |				 | VNCPasswd,vncpasswd,vnc-passward       | 		   | ptconfigure			  |
+ |				 | VNCPasswd,vncpasswd,vnc-passwd         | 		   | ptconfigure			  |
  +-------------------------------+----------------------------------------+----------------+--------------------------------------+
  |Install VNCpasswd?(Y/N)        | Instead of using VNCpasswd we can use  | N              | The system exit the installation     |
- |                               | VNCPasswd,vncpasswd,vnc-passward|      |                | 		                          |
+ |                               | VNCPasswd,vncpasswd,vnc-passwd|        |                | 		                          |
  +-------------------------------+----------------------------------------+----------------+--------------------------------------+
 
 

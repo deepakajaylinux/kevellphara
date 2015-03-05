@@ -51,15 +51,15 @@ After inputting the command above, the following operations occurs as shown in t
 
 .. cssclass:: table-bordered
 
-	+-----------------------------+----------------------------------------+--------+---------------------------------------------+
-	|	Parameters  	      | Alternative Parameter                  |Option  | 		Comments	              |
-	+=============================+========================================+========+=============================================+
-	|Install Xvfb? (Y/N)	      |In Spite of Xvfb, xvfb can also be used |Y(Yes)	|If the user wish to proceed the installation |
-	|		 	      |					       |        |process they can input as Y.	              |
-	+-----------------------------+----------------------------------------+--------+---------------------------------------------+
-	|Install Xvfb? (Y/N)	      |In Spite of Xvfb, xvfb can also be used |N(No)	|If the user wish to quit the installation    |
-	|		 	      |					       |        |process they can input as N.|	              |
-	+-----------------------------+----------------------------------------+--------+---------------------------------------------+
+	+-----------------------------+-----------------------------------------+--------+----------------------------------------------+
+	|	Parameters  	      | Alternative Parameter                   | Option | Comments	                                |
+	+=============================+=========================================+========+==============================================+
+	|Install Xvfb? (Y/N)	      | Instead of Xvfb, xvfb can also be used  | Y(Yes) | If the user wish to proceed the installation |
+	|		 	      |					        |        | process they can input as Y.	                |
+	+-----------------------------+-----------------------------------------+--------+----------------------------------------------+
+	|Install Xvfb? (Y/N)	      | Instead of Xvfb, xvfb can also be used  | N(No)	 | If the user wish to quit the installation    |
+	|		 	      |					        |        | process they can input as N.|	        |
+	+-----------------------------+-----------------------------------------+--------+----------------------------------------------+
 
 If the user proceeds the installation process, during execution of installation the following process occurs:
 

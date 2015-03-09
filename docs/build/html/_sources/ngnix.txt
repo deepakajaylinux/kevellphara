@@ -54,19 +54,19 @@ After inputting the command above the following operations as shown in the tabul
 
 .. cssclass:: table-bordered
 
-  +---------------------------------+--------------------------------+--------------+-----------------------------------------------------+
-  |   Paramaters 		    | Alternative Parameter          | Options	    |	comments			                  |
-  +=================================+================================+==============+=====================================================+
-  |Install Nginx Server? (Y/N)      |Instead of Nginx Server, the    | Y(Yes)	    |If the user wish to proceed the installation process |
-  |                      	    |following alternatives can also |              |they can input as Y.			    	  |
-  |				    |be used: NginxServer, 	     |		    |							  |
-  |				    |nginx-server, nginxserver.      |		    | 							  |
-  +---------------------------------+--------------------------------+--------------+-----------------------------------------------------+
-  |Install Nginx Server? (Y/N)      |Instead of Nginx Server, the    | N(No)	    |If the user wish to Quit the installation process    |
-  |                      	    |following alternatives can also |              |they can input as N.			    	  |
-  |				    |be used: NginxServer, 	     |		    |							  |
-  |				    |nginx-server, nginxserver.|     |		    | 							  |
-  +---------------------------------+--------------------------------+--------------+-----------------------------------------------------+
+  +-------------------------------+---------------------------------+--------------+-----------------------------------------------------+
+  |   Parameters 		  | Alternative Parameter           | Options	   | Comments			                         |
+  +===============================+===================================+============+=====================================================+
+  |Install Nginx Server? (Y/N)    | Instead of Nginx Server, the    | Y(Yes)	   | If the user wish to proceed the installation        |
+  |                      	  | following alternatives can also |              | process they can input as Y.	         	 |
+  |				  | be used: NginxServer, 	    |		   |							 |
+  |				  | nginx-server, nginxserver.      |		   | 							 |
+  +-------------------------------+---------------------------------+--------------+-----------------------------------------------------+
+  |Install Nginx Server? (Y/N)    | Instead of Nginx Server, the    | N(No)	   | If the user wish to Quit the installation process   |
+  |                      	  | following alternatives can also |              | they can input as N.			    	 |
+  |				  | be used: NginxServer, 	    |		   |							 |
+  |				  | nginx-server, nginxserver.|     |		   | 							 |
+  +-------------------------------+---------------------------------+--------------+-----------------------------------------------------+
 
 If the user proceeds the installation process, the Nginx HTTP Server will be installed. If the package of Nginx is already exists in the users machine, then a message will appear to instruct the user as Nginx is already exists in that machine. Finally reports are generated with clear results and status. The following screen shot explains the above mentioned process pictorially.
 

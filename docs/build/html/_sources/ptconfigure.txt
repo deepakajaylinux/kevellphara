@@ -95,7 +95,7 @@ The following screen shot enumerate it.
 	|Install ptconfigure ptconfigure | There are three parameters which can  | Y(Yes) | It will install ptconfigure  |
 	|Update to latest version?	 | be used. 			         |	  |	           		 |
 	|(Y/N)				 | ptconfigure, cleo, ptconfigure	 |   	  |                              |
-	+------------------------------- +---------------------------------------+--------+------------------------------+
+	+--------------------------------+---------------------------------------+--------+------------------------------+
 	|Install ptconfigure ptconfigure | There are three parameters which can  | N(No)  | It will exit from            |
       	|Update to latest version?	 | be used.		     	         |        | installation                 |
 	|(Y/N)			       	 | ptconfigure, cleo, ptconfigure|    	 |  	  |                              |        

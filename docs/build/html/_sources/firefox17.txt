@@ -95,15 +95,15 @@ Options
 
 .. cssclass:: table-bordered
 
-        +------------------------------+----------------------------+------------+----------------------------+
-        | Parameters                   | Alternative Parameter      | Required   | Comment                    |
-        +==============================+============================+============+============================+
-        |ptconfigure firefox17 Install |Instead of using firefox17  | Y          |System starts installation  |
-        |                              |we can use ff17, Firefox17  |            |process Under ptconfigure   | 
-        +------------------------------+----------------------------+------------+----------------------------+ 
-        |ptconfigure firefox17 Install |Instead of using firefox17  | N		 |System stops installation   |
-        |                              |                            |            |process under ptconfigure|  | 
-        +------------------------------+----------------------------+------------+----------------------------+
+        +------------------------------+-----------------------------+------------+----------------------------+
+        | Parameters                   | Alternative Parameter       | Required   | Comment                    |
+        +==============================+=============================+============+============================+
+        |ptconfigure firefox17 Install | Instead of using firefox17  | Y          | System starts installation |
+        |                              | we can use ff17, Firefox17  |            | process Under ptconfigure  | 
+        +------------------------------+-----------------------------+------------+----------------------------+ 
+        |ptconfigure firefox17 Install | Instead of using firefox17  | N	  | System stops installation  |
+        |                              | we can use ff17, Firefox17  |            | process under ptconfigure| | 
+        +------------------------------+-----------------------------+------------+----------------------------+
 
 
 Benefits

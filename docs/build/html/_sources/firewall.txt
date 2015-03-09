@@ -83,7 +83,7 @@ Firewalls rules can be customized as per your needs, requirements & security thr
 .. cssclass:: table-bordered
 
  	+---------------------+-----------------------------------+-------------------------------------------------------+
-        |    Parameters       | Function                          | Comment                                               |
+        |    Parameters       | Function                          | Command                                               |
         +=====================+===================================+=======================================================+
         |IP address	      |Blocking off a certain IP address  |						          |
 	|                     |or a range of IP addresses,        |						          |

@@ -54,17 +54,17 @@ In addition, the following operations shown in a tabular format occurs.
 
 
 
-	+-------------------------------------+--------------------------------+----------+----------------------------------+
-	| Parameters	                      | Alternative Parameter          | option   | Comments			     |
-	+=====================================+================================+==========+==================================+
-	|Install Admin User for MySQL? (Y/N)  |In the place of MysqlAdmins     | Y(YES)	  | If the user wish to proceed the  |
-	|				      |these alternative names can be  |	  | installation process they 	     |
-	|			       	      |used:mysql-admins,mysqladmins.  |	  | can input as Y.                  |
-	+-------------------------------------+--------------------------------+----------+------------+---------------------+
-	|Install MySQL Server? (Y/N)	      |mysql-admins,mysqladmins.       | N(NO)	  | If the user wish to quit the     |
-	|				      |				       |	  | installation process they 	     |
-	| 			       	      |				       |	  | can input as N|                  |
-	+-------------------------------------+--------------------------------+----------+----------------------------------+
+	+-------------------------+-----------+----------------------------------+----------------------------------+
+	| Parameters	          | Option    | Alternative Parameter            | Comments			    |
+	+=========================+===========+==================================+==================================+
+	|Install Admin User for   | Y(Yes)    | In the place of MysqlAdmins      | If the user wish to proceed the  |
+	|MySQL? (Y/N)             |           | these alternative names can be   | installation process they 	    |
+	|			  |    	      | used: mysql-admins, mysqladmins. | can input as Y.                  |
+	+-------------------------+-----------+----------------------------------+----------------------------------+
+	|Install MySQL Server?    | N(No)     | In the place of MysqlAdmins      | If the user wish to quit the     |
+	|(Y/N)                    |	      |	these alternative names can be   | access they can input as N       |
+	| 			  |           |	used: mysql-admins, mysqladmins.||                                  |
+	+-------------------------+-----------+----------------------------------+----------------------------------+
 
 
 If the user proceed the installation process, they can frame their administrative functions by specifying the following constraints.

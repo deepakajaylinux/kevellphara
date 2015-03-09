@@ -58,13 +58,13 @@ Options
 .. cssclass:: table-bordered
 
  +-----------------------------+--------------------------------+----------------+-----------------------------------------------+
- |	Parameters  	       | Alternative Parameter          |  Options	 | 		Comments		         |
+ | Parameters  	               | Alternative Parameter          |  Options	 | Comments		                         |
  +=============================+================================+================+===============================================+
- |Install gitlab?(Y/N)         |Instead of using gitlab we can  |Y(Yes)		 |It will install git and set of common   	 |
- |		               |use Gitlab,gitlab,git-lab       |		 |gitlab under ptconfigure.		         |
+ |Install gitlab?(Y/N)         | We can use Gitlab,             | Y(Yes)	 | It will install git and set of common   	 |
+ |		               | gitlab, git-lab                |		 | gitlab under ptconfigure.		         |
  +-----------------------------+--------------------------------+----------------+-----------------------------------------------+
- |Install gitlab?(Y/N)         |Instead of using gitlab we can  |N(No)		 |The system exit the installation 		 |
- |		               |use Gitlab,gitlab,git-lab|      |		 |					         |
+ |Install gitlab?(Y/N)         | We can use Gitlab,             | N(No)		 | The system exit the installation 		 |
+ |		               | gitlab, git-lab|               |		 |					         |
  +-----------------------------+--------------------------------+----------------+-----------------------------------------------+
 
 

@@ -42,44 +42,39 @@ The help command shows a short list of the commands built into the port module.
 	******************************
 
 
-Local Host
----------------
+Process
+---------
 
-When the user want to check the status of the port in local host then it can ask the user IP address. The following screenshot will explain it.
-
-
+If the user needs to see which process is using a particular port, the below command process the same.
 
 .. code-block:: bash
 
 
-   	kevell@corp:/# ptconfigure port process --port-number="22"
+	ptconfigure port process --port-number="25"
 
-	[Pharaoh Logging] Port 22 is being used by the process sshd
-	******************************
+The following screenshot depicts the above mentioned procees 
+
+.. code-block:: bash
+
+ kevell@corp:/# ptconfigure port process --port-number="22"
+ [Pharaoh Logging] Port 22 is being used by the process sshd
+ *****************************
+ Port Modifications:
+ --------------------------------------------
+ Port: Success
+ ------------------------------
+ Port Mods Finished
+ ******************************
+ Is-responding
+ ---------------
 
 
-	Port Modifications:
-	--------------------------------------------
+If the user needs to test if a particular port is responding or not, the below command process the same.
 
-	Port: Success
+.. code-block:: bash
 
-	------------------------------
-	Port Mods Finished
-	******************************
+	ptconfigure port process --port-number="25"
 
-
-Options
---------------- 
-
-.. cssclass:: table-bordered
-
-	+---------------+-------------------------------------------+--------------------------------------------------+ 
-	| Parameters    |             Fuctions                      |                      Output                      |
-	+===============+===========================================+==================================================+
-	|is-responding  | Test of port is responding  Or not        | It responds to the process of port               |
-	+---------------+-------------------------------------------+--------------------------------------------------+
-	|Process        | Test the process  status  Of port         |  It will display the process of port|            |
-	+---------------+-------------------------------------------+--------------------------------------------------+
 
 
 Benefits

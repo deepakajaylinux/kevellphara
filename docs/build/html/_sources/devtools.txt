@@ -140,15 +140,13 @@ Options
 .. cssclass:: table-bordered
 
  +--------------------------+-----------------------------------+-----------------+---------------------------------------+
- | Parameters               | Alternateparameter                | Option          | Comments                              |
+ | Parameters               | Alternative Parameter             | Option          | Comments                              |
  +==========================+===================================+=================+=======================================+
- |Install devtools?(Y/N)    | Instead of using devtools we can  | Y		  | It will install editor and Database   |
- |			    | use DeveloperTools,               |                 | devtools under ptconfigure		  |
- |                          | devtools,dev-tools                |                 |                                       |
+ |Install devtools?(Y/N)    | We can use DeveloperTools,        | Y		  | It will install editor and Database   |
+ |                          | devtools, dev-tools               |                 | devtools under ptconfigure            |
  +--------------------------+-----------------------------------+-----------------+---------------------------------------+
- |Install devtools?(Y/N)    | Instead of using devtools we can  | N               | The system exit the installation	  |
- |                          | use DeveloperTools,               |                 | 			                  |
- |                          | devtools,dev-tools|               |                 |                                       |
+ |Install devtools?(Y/N)    | We can use DeveloperTools,        | N               | The system exit the installation	  |
+ |                          | devtools, dev-tools|              |                 |                                       |
  +--------------------------+-----------------------------------+-----------------+---------------------------------------+
 
 

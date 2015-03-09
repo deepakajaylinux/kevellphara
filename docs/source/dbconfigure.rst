@@ -47,9 +47,10 @@ After inputs the above command, it starts functioning to handle database. It cat
 Alternative parameter
 -----------------------------------
 
-There are many alternatives available in DBConfigure. Each alternative shows an added advantages to this modules.  They are,
+There are four alternative parameters available. 
 
 DBConfigure, db-configure, dbconfigure, db-conf.
+
 
 Configure, conf
 -----------------------

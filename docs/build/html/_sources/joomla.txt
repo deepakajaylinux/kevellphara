@@ -177,20 +177,21 @@ Option
 
 .. cssclass:: table-bordered
 
- +---------------------------------+---------------+-------------------------------------------------------+
- | Parameters			   | Options	   | Comments					           |
- +=================================+===============+=======================================================+
- |Dapperfy this for joomla? (Y/N)  | Y	 	   | It will dapperfy joomla under ptdeploy in             |
- |				   |	           | Pharaoh tools					   |
- +---------------------------------+---------------+-------------------------------------------------------+
- |Dapperfy this for joomla? (Y/N)  | N		   | The system exit the dapperfy			   |
- +---------------------------------+---------------+-------------------------------------------------------+
- |Do you want to add another 	   | Y		   | It allows the user to select next environment	   | 
- |environment?(Y/N) 		   |		   |							   |
- +---------------------------------+---------------+-------------------------------------------------------+
- |Do you want to add another 	   | N		   | It allows the user to stop the process		   |
- |environment?(Y/N)|		   |		   |						           |
- +---------------------------------+---------------+-------------------------------------------------------+
+ +---------------------------------+------------------------------+--------------+-------------------------------------------------------+
+ | Parameters			   | Alternative Parameters       | Options	 | Comments					         |
+ +=================================+==============================+==============+=======================================================+
+ |Dapperfy this for joomla? (Y/N)  | Joomla, joomla               | Y(Yes)       | If the user wish to proceed dapperfying they can      |
+ |				   |	                          |              | input as Y                                            |
+ +---------------------------------+------------------------------+--------------+-------------------------------------------------------+
+ |Dapperfy this for joomla? (Y/N)  | Joomla, joomla 		  | N(No)        | If the user wish to quit dapperfying they can input   |
+ |                                 |                              |              | as N                                                  |
+ +---------------------------------+------------------------------+--------------+-------------------------------------------------------+
+ |Do you want to add another 	   |                              | Y(Yes)       | If the user wish to add new environment they can      |
+ |environment?(Y/N) 		   |		                  |		 | input as Y                                            |
+ +---------------------------------+------------------------------+--------------+-------------------------------------------------------+
+ |Do you want to add another 	   |                              | N(No)        | If the user is not in need to add a new environment   |
+ |environment?(Y/N) 		   |	                          |		 | they can input as N|                                  |
+ +---------------------------------+------------------------------+--------------+-------------------------------------------------------+
 
 
 Benefits

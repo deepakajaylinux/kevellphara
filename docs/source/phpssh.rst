@@ -11,7 +11,7 @@ Synopsis
 Help command
 --------------
 
-In this help command, the user will be discussing one such tool that was designed to eliminate the flaws in previous remote shell programs. ptconfigure topic of interest for this command is none other than the Secure Sell, better known as phpSSH. The command for help as follows
+The help command guides the users regarding the purpose and as well as about the options that are included in the Php SSH. It lists out the alternative parameters of Php SSH. It also describes the syntax for Php SSH modules. The help command for Php SSH  module is shown as below.
 
 .. code-block:: bash
 

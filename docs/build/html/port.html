@@ -89,8 +89,7 @@
 <li><a class="reference internal" href="#">Port</a><ul>
 <li><a class="reference internal" href="#synopsis">Synopsis</a></li>
 <li><a class="reference internal" href="#help">Help</a></li>
-<li><a class="reference internal" href="#local-host">Local Host</a></li>
-<li><a class="reference internal" href="#options">Options</a></li>
+<li><a class="reference internal" href="#process">Process</a></li>
 <li><a class="reference internal" href="#benefits">Benefits</a></li>
 </ul>
 </li>
@@ -161,51 +160,30 @@ End Help
 </pre></div>
 </div>
 </div>
-<div class="section" id="local-host">
-<h2>Local Host<a class="headerlink" href="#local-host" title="Permalink to this headline">¶</a></h2>
-<p>When the user want to check the status of the port in local host then it can ask the user IP address. The following screenshot will explain it.</p>
+<div class="section" id="process">
+<h2>Process<a class="headerlink" href="#process" title="Permalink to this headline">¶</a></h2>
+<p>If the user needs to see which process is using a particular port, the below command process the same.</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure port process --port-number<span class="o">=</span><span class="s2">&quot;25&quot;</span>
+</pre></div>
+</div>
+<p>The following screenshot depicts the above mentioned procees</p>
 <div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptconfigure port process --port-number<span class="o">=</span><span class="s2">&quot;22&quot;</span>
-
 <span class="o">[</span>Pharaoh Logging<span class="o">]</span> Port <span class="m">22</span> is being used by the process sshd
-******************************
-
-
+*****************************
 Port Modifications:
 --------------------------------------------
-
 Port: Success
-
 ------------------------------
 Port Mods Finished
 ******************************
+Is-responding
+---------------
 </pre></div>
 </div>
+<p>If the user needs to test if a particular port is responding or not, the below command process the same.</p>
+<div class="highlight-bash"><div class="highlight"><pre>ptconfigure port process --port-number<span class="o">=</span><span class="s2">&quot;25&quot;</span>
+</pre></div>
 </div>
-<div class="section" id="options">
-<h2>Options<a class="headerlink" href="#options" title="Permalink to this headline">¶</a></h2>
-<table border="1" class="table-bordered docutils">
-<colgroup>
-<col width="14%" />
-<col width="40%" />
-<col width="46%" />
-</colgroup>
-<thead valign="bottom">
-<tr class="row-odd"><th class="head">Parameters</th>
-<th class="head">Fuctions</th>
-<th class="head">Output</th>
-</tr>
-</thead>
-<tbody valign="top">
-<tr class="row-even"><td>is-responding</td>
-<td>Test of port is responding  Or not</td>
-<td>It responds to the process of port</td>
-</tr>
-<tr class="row-odd"><td>Process</td>
-<td>Test the process  status  Of port</td>
-<td>It will display the process of port|</td>
-</tr>
-</tbody>
-</table>
 </div>
 <div class="section" id="benefits">
 <h2>Benefits<a class="headerlink" href="#benefits" title="Permalink to this headline">¶</a></h2>

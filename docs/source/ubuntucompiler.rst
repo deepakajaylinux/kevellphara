@@ -74,10 +74,10 @@ option
  +-------------------------------+-----------------------------------+-----------+-------------------------------------+
  | Parameter                     | Alternative Parameter             | Options   | Comments                            |
  +===============================+===================================+===========+=====================================+
- |Install Ubuntu compiler? (Y/N) | UbuntuCompiler, ubuntu-compiler,  | Yes       | Installed successfully              |
- |                               | ubuntucompiler                    |           |                                     |
+ |Install Ubuntu compiler? (Y/N) | UbuntuCompiler, ubuntu-compiler,  | Yes       | The system starts installation      |
+ |                               | ubuntucompiler                    |           | process                             |
  +-------------------------------+-----------------------------------+-----------+-------------------------------------+
- |Install Ubuntu compiler? (Y/N) | UbuntuCompiler, ubuntu-compiler,  | No        | Exits the screenn                   |
+ |Install Ubuntu compiler? (Y/N) | UbuntuCompiler, ubuntu-compiler,  | No        | It stops the installation process   |
  |                               | ubuntucompiler|                   |           |                                     |
  +-------------------------------+-----------------------------------+-----------+-------------------------------------+
 

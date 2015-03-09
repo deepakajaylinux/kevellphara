@@ -29,7 +29,7 @@ The snapshot below gives you a pictorial representation of help command.
 
   This command allows you to update pttest.
 
-  pttest, cleo, pttest
+  PTTest, cleo, pttest
 
         - install
         Installs the latest version of pttest
@@ -92,21 +92,18 @@ Options
 .. cssclass:: table-bordered
 
 
-  +---------------------------------+------------------------+-----------------------------------------------------+
-  |   Paramaters 		    | Required         	     | Comments     				           |
-  +=================================+========================+=====================================================+
-  |ptconfigure pttest install       | Yes		     |This command will install the pttest module          |
-  +---------------------------------+------------------------+-----------------------------------------------------+
-  |Install pttest ( Y/N)            |  Y		     |If the user inputs Y, this module checks for         |
-  |				    |			     |previously installed version, if exits it was        |
-  |				    |			     |updated to latest version or else it installs        |
-  |				    |			     |the fresh package.   			           |
-  |				    |			     |To save the program files to the  specific path      |
-  |				    |    		     |user must enter key ‘/’ button or else it uses       |
-  |				    |			     |the default path as shown in figure.                 |
-  +---------------------------------+------------------------+-----------------------------------------------------+
-  |Install pttest ( Y/N)            | N			     |If the user inputs N, the installation was aborted.| |
-  +---------------------------------+------------------------+-----------------------------------------------------+
+  +------------------------+------------------------+--------+-----------------------------------------------------+
+  | Paramaters 		   | Alternative Parameter  | Option | Comments                                            |
+  +========================+========================+========+=====================================================+
+  |Install pttest? (Y/N)   | pttest, cleo, pttest   | Yes    | The system checks for previously installed version, |
+  |		           |			    |        | if exits it was updated to latest version or else   |
+  |                        |                        |        | it installs the fresh package.   		   |
+  |			   |			    |        | To save the program files to the  specific path     |
+  |			   |    		    |        | user must enter key ‘/’ button or else it uses      |
+  |			   |			    |        | the default path as shown in figure.                |
+  +------------------------+------------------------+--------+-----------------------------------------------------+
+  |Install pttest (Y/N)    | pttest, cleo, pttest   | No     | Stops the installation process|                     |
+  +------------------------+------------------------+--------+-----------------------------------------------------+
 
 
 Benefits to the users

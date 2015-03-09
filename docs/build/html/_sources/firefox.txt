@@ -100,11 +100,11 @@ Options
         +-------------------------------+------------------------------+--------------------------+------------------------------+
         | Parameters                    | Alternative Parameter        | Options                  | Comments                     |
         +===============================+==============================+==========================+==============================+
-        |ptconfigure firefox Install    |Instead of using firefox we   |Y(YES)                    |System starts installation    |
-        |                               |can use Firefox, firefox      |                          |process they can input as Y   |
+        |ptconfigure firefox Install    | We can use Firefox,          | Y(YES)                   | System starts installation   |
+        |                               | firefox                      |                          | process they can input as Y  |
         +-------------------------------+------------------------------+--------------------------+------------------------------+ 
-        |ptconfigure Firefox Install    |Instead of using firefox we   |N(No)                     |System stops installation     |
-        |                               |can use Firefox, firefox      |                          |process|		         | 
+        |ptconfigure Firefox Install    | We can use Firefix,          | N(No)                    | System stops installation    |
+        |                               | firefox                      |                          | process|		         | 
         +-------------------------------+------------------------------+--------------------------+------------------------------+
 
 

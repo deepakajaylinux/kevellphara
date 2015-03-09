@@ -181,42 +181,53 @@ End Help
 <h2>Options<a class="headerlink" href="#options" title="Permalink to this headline">¶</a></h2>
 <table border="1" class="table-bordered docutils">
 <colgroup>
+<col width="12%" />
 <col width="17%" />
-<col width="39%" />
-<col width="44%" />
+<col width="29%" />
+<col width="42%" />
 </colgroup>
 <thead valign="bottom">
 <tr class="row-odd"><th class="head">Parameters</th>
+<th class="head">Alternative Parameter</th>
 <th class="head">Functions</th>
 <th class="head">Comment</th>
 </tr>
 </thead>
 <tbody valign="top">
 <tr class="row-even"><td>start</td>
+<td>Service, service</td>
 <td>Start a system  service</td>
 <td>ptconfigure service start –service-name=”apache2”</td>
 </tr>
 <tr class="row-odd"><td>stop</td>
+<td>Service, service</td>
 <td>Stop asystem service</td>
 <td>ptconfigure service stop –service-name=”apache2”</td>
 </tr>
 <tr class="row-even"><td>Restart</td>
-<td>Restart a system  service</td>
+<td>Service, service</td>
+<td>Restart a system service</td>
 <td>ptconfigure service restart –service-name=”apache2”</td>
 </tr>
 <tr class="row-odd"><td>Ensure-running</td>
-<td>Ensure a system service is running.In case of not
-running start it else don’t attempt</td>
+<td>Service, service</td>
+<td>Ensure a system service is running.
+In case of not running start it else
+don’t attempt</td>
 <td>ptconfigure service ensure-running –service-
 name=”apache2”</td>
 </tr>
 <tr class="row-even"><td>Is-running</td>
-<td>Check whether a system service is running or not
-running start it else don’t attempt</td>
+<td>Service, service</td>
+<td>Check whether a system service is
+running or not running start it else
+don’t attempt</td>
 <td>ptconfigure service is-running –service-name=”apache2”</td>
 </tr>
 <tr class="row-odd"><td>Run-at-reboots</td>
-<td>Ensure a system service auto start on reboots</td>
+<td>Service, service</td>
+<td>Ensure a system service auto start
+on reboots</td>
 <td>ptconfigure service run-at-reboots –service-
 name=”apache2|</td>
 </tr>

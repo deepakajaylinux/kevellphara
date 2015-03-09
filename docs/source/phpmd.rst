@@ -100,15 +100,19 @@ Options
 .. cssclass:: tabe-bordered
 
  +-----------------------------+---------------------+----------------------+-------------------------------------------------------------+
- | Parameters		       | Options	     |	Directory (default) | Comments				                          |
+ | Parameters		       | Path   	     | Options              | Comments				                          |
  +=============================+=====================+======================+=============================================================+
- |Data directory (Default)     | “/opt/PHPMD”	     | Yes                  |It will install PHPMD module under ptconfigure               |
+ |Program Data directory       | “/opt/PHPMD”	     | Yes                  | If the user wish to proceed with the default path           |
+ |(Default)                    |                     |                      | as specified, they can enter 'y'                            |
  +-----------------------------+---------------------+----------------------+-------------------------------------------------------------+
- |Data directory	       | End slash	     | No                   |The user has to a specify the path.	                  |
+ |Program Data directory       | End slash	     | No                   | If the user needs to specify his own path, they can         |
+ |                             |                     |                      | enter 'n' and give the path                                 |
  +-----------------------------+---------------------+----------------------+-------------------------------------------------------------+
- |Executor directory (Default) | “/usr/bin”	     | Yes                  |It will install executor directory	                          |
+ |Program executor             | “/usr/bin”	     | Yes                  | If the user wish to proceed with the default path as        |
+ |directory(Default)           |                     |                      | specified, they can enter 'y'                               |
  +-----------------------------+---------------------+----------------------+-------------------------------------------------------------+
- |Executor directory	       | No trailing slash   | No                   |The user gives input as directory name|                      |	
+ |Program executor directory   | No trailing slash   | No                   | If the user needs to specify his own path, they can         |	
+ |                             |                     |                      | enter 'n' and give the path|                                |
  +-----------------------------+---------------------+----------------------+-------------------------------------------------------------+
 
  
@@ -116,34 +120,35 @@ Options
 Benefits
 ------------------
 
-Excessive PublicCount
+Excessive PublicCount:
 
  
 A large number of public methods and attributes declared in a class can indicate the class may need to be broken up as increased effort will 
 be required to thoroughly test it.
 
-Excessive ParameterList
+
+Excessive ParameterList:
 
 Long parameter lists can indicate that a new object should be created to wrap the numerous parameters. Basically, try to group the parameters  together.
 
 
-Cyclomatic Complexity
+Cyclomatic Complexity:
 
 Complexity is determined by the number of decision points in a method plus one for the method entry.
 
 
-Superglobals
+Superglobals:
 
 Accessing a super-global variable directly is considered a bad practice. These variables should be encapsulated in objects that are provided 
 by a framework, for instance.
 
 
-Short Variable
+Short Variable:
 
 Detects when a field, local, or parameter has a very short name.
 
 
-Long Variable
+Long Variable:
 
 Detects when a field, formal or local variable is declared with a long name.
 

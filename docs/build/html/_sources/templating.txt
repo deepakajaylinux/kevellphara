@@ -89,7 +89,7 @@ Options
 .. cssclass:: table-bordered
 
  +-------------------------------+-------------------------------------+--------------------+------------------------------------------------+
- | Parameters			 | Alternative Parametrs	       | Syntax		    | Comments					     |
+ | Parameters			 | Alternative Parametrs	       | Options	    | Comments					     |
  +===============================+=====================================+====================+================================================+
  |Install templating 		 |Instead of using templating the      |Y(Yes)		    |Templating can be installed under pttest.       |
  |functionality (Y/N)		 |user can use Templating, templating, |		    |						     |

@@ -161,7 +161,6 @@ While configuring an environment, if the user wish to configure with current env
 
 
 After inputting the command above, it will asks the following details as shown in the tabular format:
-                                                                                                                              65,1          24%
 
 .. cssclass:: table-bordered
 

@@ -643,6 +643,7 @@ Playing with ptconfigure Modules
    ptvirtualize_cleo
    python
    ra
+   rackspace
    redis
    rubybdd
    rubyrvm

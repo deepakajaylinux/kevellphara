@@ -55,6 +55,26 @@ Hostnames are typically used in an administrative capacity and may appear in com
 
 From the above command the new host name can enter.
 
+.. code-block:: bash
+
+ kevell@corp:/# ptconfigure hostname change –hostname=”kevellcorp”
+ Enter Hostname:
+ kevellcorp
+ ******************************
+
+
+ Hostname Modifications:
+ --------------------------------------------
+
+ Hostname: Success
+
+ ------------------------------
+ Hostname Mods Finished
+ ******************************
+
+
+
+
 Show
 -------------------
 

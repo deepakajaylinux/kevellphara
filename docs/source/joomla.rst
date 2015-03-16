@@ -14,7 +14,8 @@ Help command
 
 This help command guides the user to provide integration for joomla. It has personalized Autopilot, builderfy and dapperfy are available in ptdeploy .Also provides database configuration for the db configure module.
 
-The help command for Oracle is shown below.
+The help command for joomla is shown below.
+
 
 .. code-block:: bash
 

@@ -142,6 +142,29 @@
 </pre></div>
 </div>
 <p>The following screenshot as shown below, depicts how to kill a process, and how to define killing a process.</p>
+<div class="highlight-bash"><div class="highlight"><pre>kevell@corp:/# ptconfigure process <span class="nb">help</span>
+******************************
+
+
+ This <span class="nb">command </span>handles process functions, <span class="nb">kill </span>a process <span class="k">for</span> now
+
+ Process, process
+
+       - <span class="nb">kill</span>
+<span class="nb">       </span>Will ask you <span class="k">for</span> process name, aa file or directory from <span class="nb">local </span>to remote
+       example: ptconfigure process <span class="nb">kill</span>
+<span class="nb">       </span>example: ptconfigure process <span class="nb">kill</span> --yes --name<span class="o">=</span><span class="s2">&quot;selenium&quot;</span> --use-psax <span class="c"># default, will look for string in result of</span>
+       example: ptconfigure process <span class="nb">kill</span> --yes --name<span class="o">=</span><span class="s2">&quot;selenium&quot;</span> --use-pkill <span class="c"># will allow pkill to find  by string to kill</span>
+       example: ptconfigure process <span class="nb">kill</span> --yes
+                                       --guess
+                                       --id<span class="o">=</span><span class="s2">&quot;1234 # will kill a process by id</span>
+<span class="s2">                                       --level # will guess a 9</span>
+
+<span class="s2">------------------------------</span>
+<span class="s2">End Help</span>
+<span class="s2">******************************</span>
+</pre></div>
+</div>
 </div>
 <div class="section" id="how-to-define-and-to-use-the-process">
 <h2>How to define and to use the process<a class="headerlink" href="#how-to-define-and-to-use-the-process" title="Permalink to this headline">¶</a></h2>
@@ -215,7 +238,7 @@
 <div class="highlight-bash"><div class="highlight"><pre><span class="c"># killall -15 lighttpd</span>
 </pre></div>
 </div>
-<p>OR
+<p>or
 .. code-block:: bash</p>
 <blockquote>
 <div># killall -9 lighttpd</div></blockquote>

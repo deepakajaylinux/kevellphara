@@ -134,7 +134,6 @@ After inputting the command above, the following operations occurs as shown in t
 
 
 
-The following screenshot can give an pictorial representation regarding the process of installation.
 
 
 Benefits

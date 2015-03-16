@@ -126,17 +126,6 @@ After entering the command given above, the following process as described in th
 
 The two different types of screenshots can be useful for the users in defining a pictorial representation of dapperfying process. The second screen shot depicts method of specifying willingness in using existing environment settings.
 
-How to use Dapperfy List
----------------------------------
-
-The primary goal of list function is to list all of the autopilot files of the users projects that are available in a particular location. The syntax for using the list under dapperfy is shown below,
-
-.. code-block:: bash
-
-		ptdeploy dapperfy list
-
-The screen shot shown below depicts the working of list option under dapperfy.
-
 
 .. code-block:: bash
 
@@ -192,6 +181,18 @@ The screen shot shown below depicts the working of list option under dapperfy.
  Success
  In Dapperfy
  ******************************
+
+
+How to use Dapperfy List
+---------------------------------
+
+The primary goal of list function is to list all of the autopilot files of the users projects that are available in a particular location. The syntax for using the list under dapperfy is shown below,
+
+.. code-block:: bash
+
+                ptdeploy dapperfy list
+
+The screen shot shown below depicts the working of list option under dapperfy.
 
 
 Benefits

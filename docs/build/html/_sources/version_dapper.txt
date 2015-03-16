@@ -79,13 +79,13 @@ Option
 .. cssclass:: table-bordered
 
  +--------------------------+-----------------+---------------------------------------+--------------------------------------+
- | Parameters		    | Syntax 	      | Option				      | Comments			     |
+ | Parameters		    | Option 	      | Alternative Parameter                 | Comments			     |
  +==========================+=================+=======================================+======================================+
  |Install version?(Y/N)	    | Yes	      | Instead of using version the user     | Installed successfully		     |
- |			    |		      | can use Version,VERSION		      | under ptdeploy module     	     |
+ |			    |		      | can use Version, VERSION	      | under ptdeploy module     	     |
  +--------------------------+-----------------+---------------------------------------+--------------------------------------+
  |Install version?(Y/N)	    | No	      | Instead of using version the user     | Exit the screen			     |
- |			    |		      |	can use Version,VERSION.|	      | 				     |
+ |			    |		      |	can use Version, VERSION.|	      | 				     |
  +--------------------------+-----------------+---------------------------------------+--------------------------------------+
 
 

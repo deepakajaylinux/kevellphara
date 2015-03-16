@@ -18,6 +18,31 @@ The help command serves the users regarding how to handle and to work with proce
 
 The following screenshot as shown below, depicts how to kill a process, and how to define killing a process.
 
+
+.. code-block:: bash
+
+ kevell@corp:/# ptconfigure process help
+ ******************************
+
+
+  This command handles process functions, kill a process for now
+
+  Process, process
+
+        - kill
+        Will ask you for process name, aa file or directory from local to remote
+        example: ptconfigure process kill
+        example: ptconfigure process kill --yes --name="selenium" --use-psax # default, will look for string in result of
+        example: ptconfigure process kill --yes --name="selenium" --use-pkill # will allow pkill to find  by string to kill
+        example: ptconfigure process kill --yes
+                                        --guess
+                                        --id="1234 # will kill a process by id
+                                        --level # will guess a 9
+
+ ------------------------------
+ End Help
+ ******************************
+
 How to define and to use the process
 -------------------------------------
 
@@ -118,7 +143,7 @@ To kill the lighttpd server, enter:
  
  # killall -15 lighttpd
 
-OR
+or
 .. code-block:: bash
 
  # killall -9 lighttpd

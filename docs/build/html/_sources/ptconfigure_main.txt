@@ -539,7 +539,12 @@ Playing with ptconfigure Modules
 .. toctree::
    :maxdepth: 6
    
-   
+
+   amazoncloudformation
+   amazoncloudfront   
+   amazoncloudwatch   
+   amazondynamodb
+   amazonelasticache
    apacheconf
    ApacheModules
    apachereverseproxy
@@ -551,6 +556,7 @@ Playing with ptconfigure Modules
    awstats
    behatcleo
    boxify
+   boxify1
    cassandra
    chgrp1
    chmod
@@ -563,9 +569,11 @@ Playing with ptconfigure Modules
    copy1
    devtools
    digitalocean
+   digitalocean1
    dnsify
    encryption
    environmentconfig
+   environmentconfig1
    file
    firefox
    firefox14
@@ -659,6 +667,7 @@ Playing with ptconfigure Modules
    sshkeyinstall
    sshkeystore
    standardtools
+   storyplayer
    sudonopass
    svn
    systemdetectio

@@ -545,6 +545,9 @@ Playing with ptconfigure Modules
    amazoncloudwatch   
    amazondynamodb
    amazonelasticache
+   amazonrds
+   amazonroute
+   amazons3
    apacheconf
    ApacheModules
    apachereverseproxy
